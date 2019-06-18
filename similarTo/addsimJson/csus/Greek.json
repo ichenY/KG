@@ -1,0 +1,50 @@
+{
+  "courses": [
+    {
+      "units": "4 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_GREK 1A",
+      "course name": "Elementary Ancient Greek"
+    },
+    {
+      "units": "4 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_GREK 1B",
+      "course name": "Elementary Ancient Greek"
+    },
+    {
+      "units": "4 Units",
+      "term": "Fall, Spring",
+      "description": "Designed to prepare students to read, speak, and understand Modern Greek.  Focuses on the study of grammar and vocabulary, as well as the reading of adapted passages.  Classroom time will be spent on drills and on elementary dialogues among the students and between the students and the instructor.  These drills simulate everyday life situations.  No previous exposure to the language is required.",
+      "id": "CSUS_GREK 6A",
+      "course name": "Elementary Modern Greek"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ", emphasizing the further development of skills in reading, speaking, and understanding Modern Greek.  Reading selections from newspapers and other contemporary sources.  Further classroom dialogues among students and between students and the teacher. ",
+      "course name": "Elementary Modern Greek",
+      "units": "4 Units",
+      "id": "CSUS_GREK 6B",
+      "prerequisite": [
+        "GREK 6A",
+        "GREK 6A"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students who appear competent to carry on independent study; admission requires the approval of the instructor by whom the work is to be supervised. ",
+      "description": "Individual projects or directed readings. ",
+      "id": "CSUS_GREK 199",
+      "course name": "Special Problems in Greek"
+    }
+  ],
+  "subjectOf": {
+    "id": "GREK",
+    "subject": "Greek"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Greek",
+    "id": "CSUS"
+  }
+}

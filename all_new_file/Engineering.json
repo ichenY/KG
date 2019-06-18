@@ -1,0 +1,351 @@
+{
+  "courses": [
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Engineering study skills, fundamentals of the engineering design process and problem solving, current engineering challenges. Distinctions and similarities of different engineering disciplines. The engineering profession, ethics, teamwork, communication skills. Course helps students make an informed choice of their engineering majors. ",
+      "id": "CSUS_ENGR 1",
+      "course name": "Introduction to Engineering"
+    },
+    {
+      "units": "3 Units",
+      "term": " Not for degree credit.  ",
+      "description": "Problem solving skills needed in all areas of engineering offered at Sacramento State. Exposure to the different areas of engineering, and understanding of the relationship between them. Students will work in teams and complete hands-on engineering laboratory experiments and projects. Development of effective communication skills by presenting periodic oral and written reports. Computers will be used throughout. Lecture two hours, laboratory three hours. ",
+      "id": "CSUS_ENGR 1A",
+      "course name": "Fundamentals of Engineering"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to robotics. History of robotics, recent advances in the field, common devices such as sensors and actuators. Use of modular robotic kits. Students will be assigned competition based projects. ",
+      "id": "CSUS_ENGR 2",
+      "course name": "Robotics Explorations"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring, Summer",
+      "description": "In-depth graphical analysis and solution of typical three-dimensional space problems by applying the principles of orthogonal projection.  Fundamentals of interactive computer aided design and drafting.  Preparation of engineering drawings utilizing the CAD system.  Lecture two hours; laboratory three hours.",
+      "id": "CSUS_ENGR 6",
+      "course name": "Engineering Graphics and CADD (Computer Aided Drafting and Design)"
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Problem solving and discussion of topics in Engineering Graphics and CADD (Computer Aided Drafting and Design) to enhance students' understanding of subject matter. Not for degree credit. Technical activity and laboratory, two hours. ",
+      "course name": "Engineering  Graphics and CADD Workshop",
+      "units": "1 Unit",
+      "id": "CSUS_ENGR 6W",
+      "prerequisite": [
+        "ENGR 6"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Applications of three-dimensional representation techniques as used in a typical CAD (computer aided drafting) software package (AutoCAD).  Fundamentals employed in creating, modifying, analyzing and filing engineering drawings.  This course will have a mechanical emphasis.  Lecture two hours; laboratory three hours. ",
+      "course name": "3-D CAD Solid Modeling",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 7",
+      "prerequisite": [
+        "ENGR 6"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Writing of mesh and node equations.  DC and transient circuit analysis by linear differential equation techniques.  Application of laws and theorems of Kirchoff, Ohm, Thevenin, Norton and maximum power transfer.  Sinusoidal analysis using phasors, average power. ",
+      "course name": "Introductory Circuit Analysis",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 17",
+      "prerequisite": [
+        "PHYS 11C",
+        "MATH 45"
+      ]
+    },
+    {
+      "term": " Not for degree credit.  ",
+      "description": "Elaborates on fundamentals and enhances students' understanding of circuits. ",
+      "course name": "Circuits Workshop",
+      "units": "1 Unit",
+      "id": "CSUS_ENGR 17W",
+      "prerequisite": [
+        "ENGR 17"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Statics of particles.  Equivalent systems of forces.  Equilibrium of rigid bodies.  Centroids, centers of gravity and forces on submerged surfaces.  Analyzes trusses including use of computer programs.  Analyzes frames and machines.  Forces in beams including shear and moment diagrams.  Friction.  Moments of inertia. ",
+      "course name": "Analytic Mechanics: Statics",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 30",
+      "prerequisite": [
+        "PHYS 11A",
+        "MATH 31"
+      ]
+    },
+    {
+      "term": " Fee course.  ",
+      "description": "Basic principles of mechanical, electrical and chemical behavior of metals, polymers and ceramics in engineering applications; topics include bonding, crystalline structure and imperfections, phase diagrams, corrosion, and electrical properties.  Laboratory experiments demonstrate actual behavior of materials; topics include metallography, mechanical properties of metals and heat treatment.  Lecture two hours; laboratory three hours. ",
+      "course name": "Engineering Materials",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 45",
+      "prerequisite": [
+        "CHEM 1E",
+        "MATH 30",
+        "CHEM 1E"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": " Can  not be used for the degree requirement. ",
+      "description": "Problem solving and discussion of topics in materials science to enhance students' understanding of subject matter. Activity two hours. ",
+      "id": "CSUS_ENGR 45W",
+      "course name": "Engineering Materials Workshop"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Computational methods for solving problems in analysis and design. Introduces lower division students to the use of computer technology for the computations required to solve real world problems in science and engineering. Includes introduction to numerical techniques, introduction to structured programming, and graphic visualization. Practical applications of analysis and design using tools such as MATLAB and C++. Emphasis is on developing confidence and skill in finding computational solutions to practical science and engineering problems. Portable computer recommended. Lecture three hours. ",
+      "course name": "Computational Methods and Applications",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 50",
+      "prerequisite": [
+        "PHYS 11A"
+      ]
+    },
+    {
+      "units": "2 Units",
+      "term": " Not for use as an engineering major technical elective and is not applicable to the baccalaureate degree. ",
+      "description": "Mandatory class for MEP freshman students on orientation to the University, its resources, facilities and faculty.  Students will be encouraged to form a group atmosphere where they can freely interact with each other and value each other as resources.  Students will be provided with instruction and materials on study skills, note taking, time management, preparing for tests and dealing with stress.  Presentation by working engineers and field trips to engineering firms will be taken.  Personal and professional development will also be part of the freshman orientations with leadership, public speaking and career planning being topics of discussion.  Lecture one hour; activity two hours. ",
+      "id": "CSUS_ENGR 60",
+      "course name": "MEP Orientation and Problem Solving"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Statics of particles.  Equivalent systems of forces.  Equilibrium of rigid bodies.  Centroids, centers of mass and gravity.  Analyzes trusses, frames and machines.  Friction.  Moments of inertia.  Fundamental principles of kinematics and kinetics, study of motion and force analysis of particles and rigid bodies. ",
+      "course name": "Engineering Mechanics",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 70",
+      "prerequisite": [
+        "PHYS 11A"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Course will enable students to make an informed choice of their engineering majors, engage on interdisciplinary discussions between engineering fields, and equip them with relevant study skills. An introduction to engineering and the fundamentals of problem solving. Distinctions between different disciplines within engineering as well as other similarities. The engineering profession and ethics. Study skills for an engineering education.",
+      "id": "CSUS_ENGR 96A",
+      "course name": "Interdisciplinary Topics in Engineering"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Strategies, analysis methods, and processes of environmentally conscious planning, design, construction, operation, deconstruction, and assessment of engineered facilities. Presents a systematic framework for problem solving, decision making, design, and construction using the principles of sustainability as guiding objectives. Tools, and techniques for gathering information, generating, analyzing, and evaluation alternatives, and developing implementation strategies are presented and demonstrated. ",
+      "id": "CSUS_ENGR 105",
+      "course name": "Sustainable Design and Construction"
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Fundamental principles of kinematics and kinetics, study of motion and force analysis of particles and rigid bodies, application to idealized structures and physical systems, introduction to free and forced vibrations. ",
+      "course name": "Analytic Mechanics - Dynamics",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 110",
+      "prerequisite": [
+        "ENGR 30",
+        "MATH 45",
+        "MATH 32",
+        "MATH 35",
+        "MATH 100"
+      ]
+    },
+    {
+      "term": " Can not be used for degree requirement.  ",
+      "description": "Problem solving and discussion of topics in dynamics to enhance students' understanding of subject matter. Activity two hours. ",
+      "course name": "Analytic Mechanics-Dynamics Workshop",
+      "units": "1 Unit",
+      "id": "CSUS_ENGR 110W",
+      "prerequisite": [
+        "ENGR 110"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Stresses, strains and deformations in elastic behavior of axial force, torsion and bending members, and design applications.  Statically indeterminate problems.  Strain energy.  Column stability. ",
+      "course name": "Mechanics Of Materials",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 112",
+      "prerequisite": [
+        "ENGR 30",
+        "ENGR 45",
+        "MATH 45",
+        "CE 4",
+        "ENGR 6",
+        "CE 4",
+        "ENGR 6"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Application of statistical methods to the analysis of engineering and physical systems. Data collection, characteristics of distributions, probability, uses of normal distribution, linear and nonlinear regression analysis, hypothesis testing, and decision-making under uncertainty. ",
+      "course name": "Statistics For Engineers",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 115",
+      "prerequisite": [
+        "MATH 31",
+        "MATH 31"
+      ]
+    },
+    {
+      "term": " Not for degree credit.  ",
+      "description": "Elaborates on fundamentals and enhances students' understanding of networks. ",
+      "course name": "Networks Workshop",
+      "units": "1 Unit",
+      "id": "CSUS_ENGR 117W",
+      "prerequisite": [
+        "EEE 117"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Probability and random signals and their application in engineering systems.  Topics include the random sample space model, concept of axiomatic probability, conditional probability, discrete and continuous random variables, probability density and distribution functions, functions and statistics of random variables, random vectors multivariate distributions, and correlation and covariance of random vectors.  Applications include estimation, risk, signal detection, random signals and noise in linear systems, reliability, and estimation. ",
+      "course name": "Probability and Random Signals",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 120",
+      "prerequisite": [
+        "EEE 180"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Study of thermodynamic principles and their applications to engineering problems.  Includes a study of the first and second laws, the properties of pure substances and ideal gas, gas/vapor mixtures, and an introduction to thermodynamic cycles. ",
+      "course name": "Thermodynamics",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 124",
+      "prerequisite": [
+        "CHEM 1E",
+        "PHYS 11A",
+        "MATH 32",
+        "MATH 35",
+        "MATH 100"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Problem solving and discussion of topics in thermodynamics to enhance students' understanding of subject matter. Activity two hours. ",
+      "course name": "Thermodynamics Workshop",
+      "units": "1 Unit",
+      "id": "CSUS_ENGR 124W",
+      "prerequisite": [
+        "ENGR 124"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Lectures and problems in the fundamental principles of incompressible and compressible fluid flow. ",
+      "course name": "Fluid Mechanics",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 132",
+      "prerequisite": [
+        "ENGR 110"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Evaluation of economic consequences of engineering design proposals on projects.  Emphasis on marginal or incremental economic analysis using Net Present Value, Annual Equivalence, Rate of Return and Benefit-Cost methods including multiple alternatives, taxes, uncertainty, inflation, organizational constraints and money market factors. ",
+      "course name": "Engineering Economics",
+      "units": "2 Units",
+      "id": "CSUS_ENGR 140",
+      "prerequisite": [
+        "ENGR 17",
+        "ENGR 30"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Practical technical communication for engineers and computer scientists. Topics covered include practical technical writing, improving technical writing style, development of strategies to improve writing, oral presentations, running effective meetings, and the use of visual aids. The use of appropriate communication technology is emphasized throughout the course. ",
+      "id": "CSUS_ENGR 150",
+      "course name": "Technical Communication"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Basic principles of materials behavior pertaining to electronics applications. Topics include electrical conductivity, bonding, crystal structures, optical properties, magnetic properties, energy transfer, and the fundamentals of some simple electronic devices.  Lecture 3 hours. ",
+      "course name": "Electronic Materials",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 181",
+      "prerequisite": [
+        "CHEM 1A",
+        "PHYS 11A",
+        "MATH 45"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "This course is designed for all ECS majors making career decisions and developing a job search strategy. Instruction will include: effective career planning strategies and techniques including skill assessment, interests, values, job search organization and strategies, goal setting, and time management as well as professional image development including interview techniques, resume writing, employment related correspondence and portfolio construction. Guest speakers from industry will be featured.",
+      "id": "CSUS_ENGR 194",
+      "course name": "Career Development Seminar"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Our \"modern life\" is intimately and increasingly intertwined with energy utilization. This course deals with where energy comes from, how it is converted to desirable forms, where it is consumed, and what the consequences of this consumption are. In each case, historical prospective, current status, and future projections will be discussed. The ultimate objective of this course is to help students to make informed decisions on energy-related issues in their personal life and as responsible citizens of the society.",
+      "id": "CSUS_ENGR 196B",
+      "course name": "Energy and Modern Life"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Mathematical methods for the solution of advanced engineering problems.  Vector analysis, tensors and matrix algebra, complex variable techniques.  The applications of these methods to practical engineering problems are demonstrated. ",
+      "course name": "Engineering Analysis I",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 201",
+      "prerequisite": [
+        "MATH 45"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Mathematical methods for the solution of advanced engineering problems.  Solutions of ordinary and partial differential equations, Fourier series and Laplace transforms and operational calculus.  The applications of these methods to practical engineering problems are demonstrated. ",
+      "course name": "Engineering Analysis II",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 202",
+      "prerequisite": [
+        "MATH 45"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Applications of statistics to engineering problems.  Collection and analysis of data, sampling methods, design of experiments, probability theory, decision theory, analysis of variance, regression analysis, and mathematical curve fitting. ",
+      "course name": "Engineering Statistics",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 203",
+      "prerequisite": [
+        "ENGR 115"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Experimental methods for flow and transport phenomena are studied in the lecture and applied in the lab/field. Topics include planar laser induced fluorescence, acoustic velocimetry, and sediment transport. ",
+      "course name": "Experimental Methods for Fluids",
+      "units": "3 Units",
+      "id": "CSUS_ENGR 296",
+      "prerequisite": [
+        "ENGR 132",
+        "MATH 32",
+        "ENGR 202"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Designed to equip students with understanding of basic terms and definitions related to quality, a brief history and basic quality concepts, understanding measurement systems and tools, understanding differences of quality control (QC), quality assurance (QA) and quality management (QM), getting familiar with the applications of different tools, systems and standards and how to select proper tools for different quality requirements. Understanding basic inspection, auditing, assessment and evaluation techniques. ",
+      "id": "CSUS_ENGR 296A",
+      "course name": "Quality Management Systems for Engineers"
+    }
+  ],
+  "subjectOf": {
+    "id": "ENGR",
+    "subject": "Engineering"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Engineering",
+    "id": "CSUS"
+  }
+}

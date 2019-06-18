@@ -1,0 +1,19 @@
+{
+  "subjectOf": {
+    "subject": "Art Courses",
+    "id": "ART"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Art Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_ART 101",
+      "course name": "Art Appreciation",
+      "units": "3 Credits",
+      "description": "A survey course providing an overview of the history of Western Art and the principles of art as they relate to society. Students are encouraged to discover personal interests through their own research on historical or contemporary styles and themes in art."
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "subject": "Graphic Communication (GRC)",
+  "courses": [
+    {
+      "Course number & title": " Introduction to Graphic Communication",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Graphic communication history, theory, processes, applications, and practices. New technologies that affect day-to-day communication including traditional and digital printing and publishing, and non-print imaging including Internet applications. Overview of design technology, web and digital media, printing and imaging management, graphics for packaging, industry segments. 3 lectures."
+    },
+    {
+      "Course number & title": " Introductory Applied Graphic Communication Processes",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Introduction to the application of theories and practice in University Graphic Systems as they apply to commercial printing, publication printing, digital media and graphic communication industries.  2 seminars."
+    },
+    {
+      "Course number & title": " Special Problems for Undergraduates",
+      "Number of units": "1-2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "Course number & title": " Digital Publishing Systems",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Introduction to web, e-publishing, and print publishing systems including hardware, software, design considerations, and file formats.  Overview of print output technologies, networking, web design, and digital publishing standards.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Digital File Preparation and Workflow",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Terminology and techniques used in the creation of digital files and workflow systems for print and web.  Workflow options including automation, proofing, and output systems will be discussed in addition to digital file delivery and transfer.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Introduction to Contemporary Print Management and Manufacturing",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W, SU",
+      "Course description": "Survey of management fundamentals and components relevant to graphic communication manufacturing, production, operations, and quality.  Introduction to management theory and contemporary management trends and practices in the graphic communication industry.  Course may be offered in classroom-based or online format.  4 lectures."
+    },
+    {
+      "Course number & title": " Substrates, Inks and Toners",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Technical aspects of paper, other substrates, inks, toners, and other printable materials used in the printing and packaging industries.  Manufacture, application and interaction of these materials in relation to particular processes and end use requirements.  Hands-on testing of materials in relation to quality, properties, and performance.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Substrates, Inks and Toners: Theory",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Technical aspects of paper, other substrates, inks, toners and other printable materials used in the printing and packaging industries.  Manufacture, application, and interaction of these materials in relation to particular processes and end use requirements.  Credit not allowed for GRC majors.  3 lectures."
+    },
+    {
+      "Course number & title": " Introduction to Applied Social Media in Graphic Communication",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Practical application of social media tools used in the Graphic Communication industry.  Students prepare social media marketing campaigns that require research, design, writing, and elementary analytics.  Total credit limited to 6 units.  2 lectures."
+    },
+    {
+      "Course number & title": " Selected Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " Digital Photography and Color Management",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Digital photography for print and web, including lighting, exposure, composition, and photo retouching.  Color measurement and the application of color management and quality assessment in the graphic communication industry.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Flexographic Printing Technology",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Flexographic printing technology for flexible packaging, label printing, folding and corrugated cartons.  Optimization of file preparation, plate imaging, and equipment settings.  Specification and management of automated workflows.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Digital Typography for Print and Web",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Application of typography using current software tools for print, web and digital publishing.  In-depth study of communication principles and visual organization.  Font technology and management for the creative, print and web publishing industries.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Managing Quality in Graphic Communication",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Theory and practices of quality management in the graphic communication industry.  Quantifying customer expectations, specifications, standard operating procedures, SPC tools, and employee empowerment.  Principles of Lean Management, Six Sigma, ISO, and Malcolm Baldrige.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Advanced Digital Typography",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Advanced typographic principles relating to print and electronic media.  Page layout and font management with consideration for electronic media.  Applied problems focusing on typographic design, typographic application and file preparation, including web typography and eBook creation.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Binding and Finishing Processes",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Imposition techniques, cutting, and folding.  Stitch, case and perfect binding techniques and applications.  Operational and aesthetic uses of die cutting, scoring, creasing, foil stamping and embossing techniques.  1 laboratory."
+    },
+    {
+      "Course number & title": " Offset Printing Technology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Offset printing and plate technology for commercial, publication, packaging and reprographic segments of the printing industry.  Press configurations, materials, computerized press controls, workflow, pressroom management, coating and quality control.  Folding structures, plate types, quality, and new technologies for offset printing.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Printed Electronics",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Introduction to printed electronics products, markets and technologies.  Emphasis on printed and hybrid flexible electronics for functional and novel applications including marketing, packaging, displays, wearable and stretchable products.  Various production methods with emphasis on gravure printing.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Color Management and Quality Analysis",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "The physics, psychology, measurement, analysis and management of color for print and electronic documents, including web sites.  Practical application of color correction, color proofing, and production workflows that ensure the best possible color reproduction.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Consumer Packaging",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Problem-solving strategies for package printing that integrate concepts from marketing, design and technology.  Package manufacturing, function, quality, visual appeal, sustainability, and economics are addressed.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Web Development and Content Management",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W, SP",
+      "Course description": "Web development production techniques including creating, repurposing, and managing assets for web publishing.  Digital content management for tablet and mobile device publishing.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Web Design and Production",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Advanced design and production techniques for web development.  Current software applications and technologies for user interface design, site structure and information architecture.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Specialty Printing Technologies",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Specialty printing and imaging technologies used in fabric decorating, decals for marketing, industrial, and functional printing, security printing and various forms of packaging.  Printing on various materials using special processes including screen printing, pad printing, sublimation printing, digital imaging, and post print finishing.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Marketing and Sales Management for Print and Digital Media",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Identification and development of target markets for products and services in the graphic communication industry.  Deployment of strategies in pricing, promotion and distribution management.  Application of customer relationship management techniques for personal selling, forecasting and planning.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Applied Graphic Communication Practices",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Application of theories and practices to University Graphic Systems as they apply to commercial printing, publication printing, digital media and graphic communication industries.  Major credit limited to 2 units; total credit limited to 12 units.  2 seminars."
+    },
+    {
+      "Course number & title": " Web and Print Publishing",
+      "Number of units": "4 units",
+      "Term": "GE Area F",
+      "Course description": "Web and print publishing technology and its impact on society.  The technologies of digital photography, typography, graphics, layout, and design for print and web publishing including decision-making considerations.  The application of scientific and mathematical principles to web and print publishing technologies.  3 lectures, 1 laboratory.  Fulfills GE Area F except for Graphic Communication majors."
+    },
+    {
+      "Course number & title": " Special Problems for Advanced Undergraduates",
+      "Number of units": "1-2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 6 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "Course number & title": " Digital Printing and Emerging Technologies in Graphic Communication",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Study of the theory, technology, economics and application of digital printing processes and variable data publishing.  Explores digital printing technology, databases, and database publishing techniques.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Estimating for Print and Digital Media",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Estimating the cost of various print and digital products and services.  Development of cost rates and production standards.  Cost estimating methods for Print on Demand, VDP, sheetfed lithography, web development, and wide-format output.  Analysis of material, labor and other cost factors.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Strategic Trends and Profitability Issues in Print and Digital Media",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W, SP",
+      "Course description": "Graphic communication industry market trends and strategic positioning.  Strategies for successfully positioning a business.  Paradigms and business practices for graphic communication companies.  Company analysis using case studies.  Innovative management practices in the graphic communication industry.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Graphic Communication in Integrated Marketing Communications",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Working with clients, participants will organize and demonstrate proficiency in the use of applicable Graphic Communication design, workflow and data-driven communication software and digital printing technologies using print and media software.  GRC capstone for the Integrated Marketing Communications minor.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Production Management for Print and Digital Media",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Application of management principles and production control methodologies for print and digitally-imaged products.  Organization and financial analysis, decision-making, equipment and inventory planning, resource optimization, and the application of practiced and newly innovative contemporary world-class techniques for improving profitability in the graphic communication industry.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Human Resource Management Issues for Print and Digital Media",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Human resource management integrated into the success of graphic communication companies.  A comprehensive management approach is utilized emphasizing employee development, training, promotion, and motivation.  Conflict management, facilitation skills, team building empowerment, leadership, ethical and legal issues in the graphic communication industry.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Digital Media",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Current technologies and production tools used for digital media including mobile user interface design, prototyping, video, animation, and project management.  Industry standards, digital rights management, file formats, and publishing options for digital media applications.  Legal, ethical, and business issues surrounding digital media.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Book Design Technology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Advanced creative problem-solving strategies associated with the technologies used in book design and production.  Advanced techniques in page layout, design, typography, type specification and image manipulation as they relate to output technology.  Content, format and distribution of print and electronic books.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Magazine Design Technology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Concept development and design for magazines and publications.  Technical considerations as they relate to output technology and digital publishing.  Application of organizational structures such as grids, formatting and sequential design.  Advanced techniques in typography and image manipulation.  Distribution of content for print and digital formats.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Management Topics in Graphic Communication",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Current trends and practices in select graphic communication management topics.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures."
+    },
+    {
+      "Course number & title": " Emerging Technologies in Graphic Communication",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Current trends and practices in select graphic communication emerging digital topics.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures."
+    },
+    {
+      "Course number & title": " Design Reproduction Topics in Graphic Communication",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Current trends and practices in select graphic communication design reproduction topics.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures."
+    },
+    {
+      "Course number & title": " Senior Project - Independent Study",
+      "Number of units": "1-3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Students will engage in collaborative projects in other disciplines without the constraint of a single quarter schedule.  Formal presentation and report required.  Minimum 90 hours of time.  Total credit limited to 3 units."
+    },
+    {
+      "Course number & title": " Senior Project",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Selection and completion of a culminating project.  Projects typical of problems that graduates must solve in their fields of employment.  Project results presented in formal report and presentation.  1 lecture, 2 activities."
+    },
+    {
+      "Course number & title": " Senior Project - Applied Practices",
+      "Number of units": "1-3 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Opportunities in individual or group-based projects in Graphic Communication competitions and/or sponsored projects.  Formal presentation and report required.  30 hours per unit.  Total credit limited to 3 units.  1-3 activities."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures."
+    },
+    {
+      "Course number & title": " Selected Advanced Laboratory",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "6 units",
+      "Term": "CR/NC",
+      "Course description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 12 units; total credit limited to 12 units.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "12 units",
+      "Term": "CR/NC",
+      "Course description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 12 units; total credit limited to 12 units.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Special Problems in Graphic Communication for Graduate Students",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Investigation, research, studies of problems in the graphic communication industry.  Repeated course over four quarters working with University Graphic Systems, the Graphic Communication Institute at Cal Poly, and with individual faculty.  Total credit limited to 8 units."
+    },
+    {
+      "Course number & title": " Survey of Functional Printing",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Foundations for emerging functional printing fields including printed electronics, active packaging, and security printing.  Emphasis on processes, materials, electrical characterization, sensing, barrier properties, and anti-counterfeiting.  Focus on applications including lighting, displays, novel electronics, energy harvesting, energy storage, sensors, scavengers, and brand security.  Course offered online only.  2 lectures."
+    },
+    {
+      "Course number & title": " Orientation to Functional Printing",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Orientation and laboratory exploration for printed electronics, active packaging, and security printing.  Introduction to curricula, lab activities, research opportunities, and the use of equipment.  Active participation in laboratory experiments related to processes and materials.  1 lecture, 1 laboratory."
+    },
+    {
+      "Course number & title": " Materials for Functional Printing",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Study of functional materials including substrates, coatings, and inks.  Focus on barrier and heat-stable substrates as well as conductive, semi-conductive, dielectric, transparent conductors, forensic, sensor, and other functional inks and coatings.  Emphasis on rheology, morphology, sintering and annealing.  Course offered online only.  4 lectures."
+    },
+    {
+      "Course number & title": " Printing and Coating Technologies",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Study of functional printing and coating technologies, including screen printing, flexography, gravure, ink jet, offset, slot die, blade coating and conventional deposition techniques.  Course offered online only.  4 lectures."
+    },
+    {
+      "Course number & title": " Optical and Electrical Patterning",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Imaging technologies and processes for security, electronic, and active packaging printing.  Focus on creating and evaluating images for applications in product security and electrical fabrication.  Course offered online only.  4 lectures."
+    },
+    {
+      "Course number & title": " Functional Printing Product and Business Development",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Principles of business and product development for electronic and functional applications.  Focus on intellectual property rights, capital funding, entrepreneurship, and management of a technology business.  Course offered online only.  4 lectures."
+    },
+    {
+      "Course number & title": " Functional Printing Workflows",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Evaluation of advanced imaging technologies for functional printing applications.  Imaging characteristics for ink/substrate combinations, focusing on print process attributes.  Compensation for print characteristics.  Enabling automated workflow technologies to improve throughput and minimize errors.  2 lectures, 2 laboratories."
+    },
+    {
+      "Course number & title": " Current Trends in Printed Electronics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Current trends and practices in select printed electronics topics.  Open to graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Current Trends in Active Packaging",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Current trends and practices in select active packaging topics.  Open to graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Current Trends in Security and Anti-Counterfeiting",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Current trends and practices in select security and anti-counterfeiting topics.  Open to graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Research Methods in Printed Electronics and Functional Imaging",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Methods for conducting qualitative and quantitative evaluations, testing, and experimentation as well as writing investigative, scholarly research papers and theses in functional printing.  Topics include qualitative research, descriptive research, experimental design, statistical analysis, writing styles, and publishing options.  1 lecture, 1 activity."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "4-12 units",
+      "Term": "CR/NC",
+      "Course description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Total credit limited to 12 units.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Research Project in Printed Electronics and Functional Imaging",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Comprehensive research project in printed electronics and functional imaging.  Communication of the results and findings of scholarly work in written report and by oral presentation."
+    }
+  ]
+}

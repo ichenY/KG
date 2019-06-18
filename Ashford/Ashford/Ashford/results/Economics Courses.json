@@ -1,0 +1,86 @@
+{
+  "subjectOf": {
+    "subject": "Economics Courses",
+    "id": "ECO"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Economics Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_ECO 100",
+      "course name": "Survey of Contemporary Economic Issues",
+      "units": "3 Credits",
+      "description": "Contemporary economic issues are discussed and relevant economic theory is introduced throughout this course of study. The economic theories of supply and demand, competitive markets, and price elasticity are explored."
+    },
+    {
+      "id": "AshFord_ECO 203",
+      "course name": "Principles of Macroeconomics",
+      "units": "3 Credits",
+      "description": "Introduction to national income determination and the equilibrium level of output and employment. Monetary and fiscal policies as well as open economy issues are discussed. Recommended prerequisites: Fulfillment of the General Education Critical Thinking core competency and Digital Literacy competency."
+    },
+    {
+      "id": "AshFord_ECO 204",
+      "course name": "Principles of Microeconomics",
+      "units": "3 Credits",
+      "description": "Introduction to the theory of consumer equilibrium, market structure, and wage determination. Recommended prerequisites: Fulfillment of the General Education Critical Thinking competency, Quantitative Reasoning Core competency, and Digital Literacy competency. (Equivalent to ECO 308)."
+    },
+    {
+      "id": "AshFord_ECO 308",
+      "course name": "Economics for Managers",
+      "units": "3 Credits",
+      "description": "This course will provide a survey of the field of economics as it relates to effective management. The course is designed to provide a basic understanding of the principles, concepts, and operational aspects of our economic system."
+    },
+    {
+      "id": "AshFord_ECO 316",
+      "course name": "Financial Institutions & Markets",
+      "units": "3 Credits",
+      "description": "A study of money and capital markets concentrating on interest rate determination, the major public and private financial institutions in the U.S. economy, and the major types of financial instruments including bonds, equities, and derivative instruments. ",
+      "prerequisite": [
+        "ECO 100",
+        "ECO 203"
+      ]
+    },
+    {
+      "id": "AshFord_ECO 320",
+      "course name": "International Economics",
+      "units": "3 Credits",
+      "description": "This course will focus on the global environment of firms with particular emphasis on economic variables such as GDP, inflation, interest rates, and exchange rates. Topics include international trade, international finance, and regional issues in the global economy."
+    },
+    {
+      "id": "AshFord_ECO 342",
+      "course name": "Principles of Econometrics",
+      "units": "3 Credits",
+      "description": "This course introduces students to multiple regression methods for analyzing data in economics and related disciplines. The mathematics of econometrics will be introduced only as needed and will not be a central focus. ",
+      "prerequisite": [
+        "BUS 308"
+      ]
+    },
+    {
+      "id": "AshFord_ECO 406",
+      "course name": "Business Cycles & Growth",
+      "units": "3 Credits",
+      "description": "Topics include analysis of economic fluctuations and their impact on corporations and consumers; different explanations for business cycles; monetary and fiscal policy for stabilizing economic fluctuations; effects of public debt, investment, employment and trade policy on economic growth. ",
+      "prerequisite": [
+        "ECO 203"
+      ]
+    },
+    {
+      "id": "AshFord_ECO 408",
+      "course name": "Managerial Economics",
+      "units": "3 Credits",
+      "description": "This course will focus on the application of economic principles and analyses to contemporary business problems and managerial decision making. Emphasis will be given to price and production decision making for profit maximization, investment decision making for a new project, strategic decision making in various business situations, and decision making with risks and uncertainty. ",
+      "prerequisite": [
+        "ECO 204"
+      ]
+    },
+    {
+      "id": "AshFord_ECO 610",
+      "course name": "Global Economics",
+      "units": "3 Credits",
+      "description": "This course will study international economics with respect to the global aspects of supply and demand. This class will review and evaluate international trade theories, geographic trade patterns, globalization, multinational corporations, and international variations of corporate and national economic policies. By the conclusion of this class, the student will be able to compare and contrast international financial and trade frameworks, and describe the problems and challenges facing the multinational corporation."
+    }
+  ]
+}

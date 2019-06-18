@@ -1,0 +1,431 @@
+{
+  "courses": [
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "The course teaches Microsoft Office Word that establishes a student's fundamental computer skills required to perform business related tasks. Topics include developing and refining a document; identifying and correcting errors; formatting, modifying and printing documents; working with pictures, graphics, tables and charts; creating reports, forms, references and mailings; securing content and sharing documents, exploring advanced document features and macros, etc.", 
+      "id": "CSUS_MIS 1", 
+      "course name": "Word Processing"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " Not open to students receiving credit for CSC 6B. ", 
+      "description": "The course teaches Microsoft Office Excel that establishes a student's fundamental computer skills required to perform business related tasks. Topics include creating and formatting a worksheet; summarizing and analyzing data; using decision making tools; working with logical, statistical, database and financial functions, sharing data with other applications, etc.  ", 
+      "id": "CSUS_MIS 2", 
+      "course name": "Spreadsheets"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "The course teaches Microsoft Power Point that establishes a student's fundamental computer skills required to perform business related tasks. Topics include creating, refining and delivering presentations; working with graphics, tables and charts; inserting and enhancing pictures, shapes, sound and video; using templates, slide masters and text boxes, printing, securing and sharing presentations, etc.", 
+      "id": "CSUS_MIS 3", 
+      "course name": "Presentation Graphics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Students will be required to purchase an online learning application to facilitate skill development. ", 
+      "description": "Use of database management systems (DBMS) to provide students with fundamental information retrieval skills required to perform business related tasks. Topics include basic DBMS operations, working with tables, queries, forms, reports and data analysis. ", 
+      "id": "CSUS_MIS 4", 
+      "course name": "Database Applications"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "The course teaches the use of spreadsheets to establish a students' fundamental computer skills required to perform business related tasks. Topics include basic spreadsheet operations, working with charts and graphics, application of formulas and spreadsheet presentation formatting.", 
+      "id": "CSUS_MIS 10", 
+      "course name": "Business Applications"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to object oriented programming language.  Topics include use of simple data structures and data types, arrays, strings, input-output functions, file processing, and flow control.", 
+      "id": "CSUS_MIS 15", 
+      "course name": "Introduction to Business Programming"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explores the application of computers to the organizational environment with a management perspective. Topics may include transaction processing systems, management reporting, decision support systems, strategic planning, security, controls and acquisition of hardware, software and services. The interface between the information systems professional and the manager will be defined. Case studies and use of appropriate software packages may be included.", 
+      "id": "CSUS_MIS 101", 
+      "course name": "Computer Information Systems for Management"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced course in programming principles using an Object Oriented (OO) programming language.  Topics will focus on object-oriented (OO) programming including the design and development of OO applications, object classes, inheritance, polymorphism and encapsulation, and graphical user interface (GUI) application development including contrasting event-driven and procedural programming.  Assignments will focus on problem-solving in a business context. ", 
+      "course name": "Advanced Object-Oriented Business Programming", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 120", 
+      "prerequisite": [
+        "MIS 15"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced course in programming principles using an Object Oriented (OO) programming language.  Topics will focus on object-oriented (OO) programming including the design and development of OO applications, object classes, inheritance, polymorphism and encapsulation, and graphical user interface (GUI) application development including contrasting event-driven and procedural programming. ", 
+      "course name": "Object-Oriented Programming for Business in Java", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 122", 
+      "prerequisite": [
+        "MIS 15", 
+        "CSC 15"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the technologies and principles of modern Web development in the creation of Web-based business applications. Emphasis will be given to client-side and server-side technologies and include the topics of basic Web technologies, forms, database access, frameworks, and Web services. Topics are accompanied by design principles, tools, and techniques for Web application development. ", 
+      "course name": "Web Development for Business Applications", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 124", 
+      "prerequisite": [
+        "MIS 120"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to management science techniques for the solution and analysis of management problems. Topics include mathematical programming, decision theory, analysis of waiting lines, simulation, and Markov processes. ", 
+      "course name": "Management Science Techniques", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 132", 
+      "prerequisite": [
+        "DS 101"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the basic terminology, hardware/software components, and issues with the establishment, configuration, and management of data communication networks in and across organizations. Topics include wired and wireless local area networks, wide area networks, the internet, and cloud infrastructure. ", 
+      "id": "CSUS_MIS 140", 
+      "course name": "Business Data Communication"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Involves the study of generalized database management systems. The study will include logical data base models and  physical base models based primarily on the relational and object-relational models.  The student will create and manipulate a database utilizing an established database management system.  The importance of data administration and other database related topics such as independence, integrity, privacy, query, backup, and recovery will be covered.", 
+      "id": "CSUS_MIS 150", 
+      "course name": "Database Systems for Business"
+    }, 
+    {
+      "term": " Not open to MIS students.  ", 
+      "description": "Introduction to end-user database application development in the business environment.  Topics will focus on issues in the development of business database applications and include database concepts, organization, storage and retrieval of data, query and analysis with interactive software tools, informative and performance management reporting. ", 
+      "course name": "End-User Database Application Development for Business", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 151", 
+      "prerequisite": [
+        "MIS 1", 
+        "MIS 2", 
+        "MIS 3"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Analyze, design, and develop business information systems to solve information needs of businesses and organizations. Topics include various systems analysis and design techniques, tools and methods for building new and/or integrated information systems. ", 
+      "course name": "Systems Development Life Cycle", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 160", 
+      "prerequisite": [
+        "MIS 101", 
+        "MGMT 102"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course provides a comprehensive integration of MIS coursework through the completion of an information systems project. Topics include information systems development life cycle, project management, application development, database management, and security. ", 
+      "course name": "Information Systems Practicum", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 161", 
+      "prerequisite": [
+        "MIS 15", 
+        "MIS 150", 
+        "MIS 160"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course focuses on identifying and understanding business requirements, modeling business processes that incorporate the business requirements, and configuring the processes for their implementation in an enterprise resource planning (ERP) system. Students will gain insights to implementation issues and propose alternative solutions to overcome them. A project team environment further develops individual student's communication and team skills.", 
+      "id": "CSUS_MIS 163", 
+      "course name": "Business Process Engineering and ERP Configuration"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course provides a comprehensive study of IT security principles and of information systems. Emphasis will be placed on understanding the framework of IT security in enterprise IT infrastructure. Topics include information security concepts, security risks and vulnerabilities, common attacking techniques, technical and administrative countermeasures for modern enterprise IT infrastructure, such as encryption, authentication, access control, security policies and standards, and IT risk management and audit. ", 
+      "course name": "Information Systems Security", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 170", 
+      "prerequisite": [
+        "MIS 140"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Foundation, business functions, processes, data requirements, development, and management of ERP systems for sales, marketing, accounting, finance, production, supply chain and customer relationship management. Emphasis on re-engineering, integration, standardization, and methodologies of ERP systems. ", 
+      "course name": "Enterprise Resource Planning Systems", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 171", 
+      "prerequisite": [
+        "MIS 101"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Not open to MIS students. ", 
+      "description": "For students who want to have more than the minimum required personal computer literacy knowledge. The topics covered are: hardware, system software, utility software, spreadsheet modeling, the Internet, and presentation graphics. ", 
+      "id": "CSUS_MIS 173", 
+      "course name": "Microcomputers for Managers"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Applies modern machine learning applications in business to data analysis and problem solving.  Topics are presented in the context of decision support and may include knowledge representation, neural networks, genetic algorithms, rule induction, fuzzy logic, case-based reasoning and intelligent agents. ", 
+      "course name": "Machine Learning Applications in Business", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 181", 
+      "prerequisite": [
+        "DS 101", 
+        "MIS 150"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Current topics will be presented regarding the technical, managerial, and organization considerations affecting computer-based information systems.  Topics may include programming languages and techniques, emerging technologies, and MIS development and implementation issues.  Readings, topical research, case presentations, and/or projects will be required. ", 
+      "course name": "Topics In MIS", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 182", 
+      "prerequisite": [
+        "MIS 150", 
+        "MIS 160"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Advanced information technologies that extract non-trivial, actionable, and novel knowledge from data to achieve strategic goals of organizations. Emphasis on multidimensional data modeling, online analytic processing, data warehouse, and data mining. ", 
+      "id": "CSUS_MIS 183", 
+      "course name": "Business Intelligence Applications"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " Students must be in their final semester of the minor's program.  ", 
+      "description": "Students demonstrate their knowledge and apply their skill sets from the minor to a working project, and conduct an executive-level, management-oriented presentation. ", 
+      "id": "CSUS_MIS 191", 
+      "course name": "Culminating Experience"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "In-depth supervised work experience in management information systems for the purpose of exposing the student to comprehensive MIS experience in business, governmental, or service agencies. Open to all upper division students, subject to permission of the MIS Area. Petitions can be obtained from the Student Affairs Office, Tahoe 2065. ", 
+      "course name": "Cooperative Education Experience in Management Information Systems", 
+      "units": "6 - 12 Units", 
+      "id": "CSUS_MIS 194", 
+      "prerequisite": [
+        "MIS 160"
+      ]
+    }, 
+    {
+      "term": " Open to declared business administration majors only.  ", 
+      "description": "Supervised work experience in management information systems for the purpose of increasing student understanding of the nature and scope of the operations of business, governmental, or service agencies. Supervision is provided by the faculty and the cooperating agencies. Open to upper division students, subject to permission of the MIS Area. Petitions can be obtained from the Student Affairs Office, Tahoe 2065. ", 
+      "course name": "Internship in Management Information Systems", 
+      "units": "3 - 6 Units", 
+      "id": "CSUS_MIS 195", 
+      "prerequisite": [
+        "MIS 160"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Admission requires approval of the instructor and the Associate Dean. Petitions may be obtained from the Undergraduate Business Advising Center, Tahoe 1030. ", 
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. ", 
+      "id": "CSUS_MIS 199", 
+      "course name": "Special Problems in Management Information Systems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to business information systems planning and systems development methodologies. Various methodologies are explored and information systems development project planning is emphasized.", 
+      "id": "CSUS_MIS 210", 
+      "course name": "Information Systems I"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to basic and object-oriented programming concepts, data structures for information representation, and database management systems.", 
+      "id": "CSUS_MIS 211", 
+      "course name": "Information Systems II"
+    }, 
+    {
+      "term": ". ", 
+      "description": "Introduction to deterministic and stochastic models in operations research. Topics that may be included are: mathematical programming, inventory theory, analysis of waiting lines, Markov processes, game theory, decision theory and simulation. Various computer programs such as LINDO are used to assist in solution and analysis of management problems. ", 
+      "course name": "Management Science", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 232", 
+      "prerequisite": [
+        "MIS 132"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be taken twice for credit.  ", 
+      "description": "Focuses on the concepts, technology, applications, and management of data and voice communication with an emphasis on building, supporting, securing, and administering the requirements of network infrastructure and architecture to support businesses. ", 
+      "id": "CSUS_MIS 240", 
+      "course name": "Communications Technologies for Business"
+    }, 
+    {
+      "term": " May be taken twice for credit.  ", 
+      "description": "Focuses on database concepts, design and implementation in business.  Topics include database design techniques, such as extended entity-relationship and unified modeling language, logical and physical data models for objection-relational database, object oriented database and relational databases, database implementation and administration issues, and the discussion of distributed database, web database, and database security . ", 
+      "course name": "Data Management", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 250", 
+      "prerequisite": [
+        "MIS 15"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Discussion of the techniques and methodologies to utilize information resource to improve an organization's strategic performance measures. Topics include data warehouse, data mining, online analytical transaction processing, and multidimensional database. ", 
+      "course name": "Strategic Applications of Information Resources", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 251", 
+      "prerequisite": [
+        "MIS 210", 
+        "211", 
+        "MBA 260"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be taken twice for credit.  ", 
+      "description": "Involves the study of various methods used to analyze and design a computer-based information systems and emphasizes object-oriented systems development (OOSD) techniques. ", 
+      "id": "CSUS_MIS 260", 
+      "course name": "Systems Design"
+    }, 
+    {
+      "term": " May be taken twice for credit.  ", 
+      "description": "IT presents many new opportunities at the enterprise level for the design and implementation of integrated organizational structures and business processes that better align the business to meeting its market demands and allow it to pursue new strategic relationships with other organizations. Enterprise IT primarily involves enterprise resource planning (ERP), supply chain management (SCM), knowledge management (KM), and customer relationship management (CRM) to support and coordinate business activities. ", 
+      "course name": "Information Technology Integration for the Enterprise", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 261", 
+      "prerequisite": [
+        "MIS 260", 
+        "MIS 270", 
+        "MBA 260"
+      ]
+    }, 
+    {
+      "term": " May be taken twice for credit.  ", 
+      "description": "Examines various aspects of IT project management, including project selection involving feasibility, complexity, scalability and impact comparisons, project portfolio to direct the right resources to the right projects to sure their timely completion, risk assessment, key performance measures, and others. ", 
+      "course name": "Business Project Management", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 262", 
+      "prerequisite": [
+        "MIS 260", 
+        "MBA 260"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be taken twice for credit.  ", 
+      "description": "Examines the management of information technology as a vital resource to an organization. IT can enable businesses to seize opportunities, gain competitive advantages and establish close relationships with other businesses and their customers. Thus, the business must effectively and efficiently manage and secure its IT resources. ", 
+      "id": "CSUS_MIS 270", 
+      "course name": "Information Technology Operations"
+    }, 
+    {
+      "term": " May be taken twice for credit.  ", 
+      "description": "Strategic IT planning defines the direction a business chooses for its IT resources. It encompasses a vision, mission, strategy, and objectives that closely align to the business' vision, mission, strategy, and objectives. Planning involves examining how IT will support the achievement of the business' goals and objectives, and how IT can open new opportunities to create new business goals. ", 
+      "course name": "Strategic Information Technology Planning", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 272", 
+      "prerequisite": [
+        "MIS 270", 
+        "MBA 260"
+      ]
+    }, 
+    {
+      "term": " May be taken twice for credit.  ", 
+      "description": "Leadership plays an important role in determining a business' success with IT. It requires recognizing and leveraging the business' competencies and core values, and championing initiatives and projects that work in the best interest of the business and create value. Because IT opens opportunities and enables the organization, IT leadership extends to both market (external) and organizational (internal) environments. ", 
+      "course name": "Information Technology Leadership", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 279", 
+      "prerequisite": [
+        "MIS 261", 
+        "MIS 262", 
+        "MIS 272", 
+        "MBA 260"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Organizational use of information generated from transaction processing systems, management information systems, and decision support systems. The uses of information by managers for planning, control, and decision-making purposes will be discussed. The types of information systems implemented in various kinds of organizations will be covered. ", 
+      "id": "CSUS_MIS 280", 
+      "course name": "Decision and Knowledge-Based Systems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Current topics will be presented regarding the managerial, behavioral, and organizational considerations affecting computer-based information systems. Includes topics such as project selection and justification techniques, system controls, security and privacy issues, strategic planning, and use/data processing department relations. Readings, topical research, and case presentations will be required. ", 
+      "id": "CSUS_MIS 281", 
+      "course name": "Topics in the Management of Information Systems"
+    }, 
+    {
+      "term": " Open to second year MBA and MSBA/MIS students. Petitions to be obtained from Tahoe Hall 1037.  ", 
+      "description": "Supervised work experience in management information systems for the purpose of increasing and enhancing student understanding of the nature and scope of the organization's operations of business, governmental, or service agencies. Supervision is provided by the faculty and the cooperating agencies. ", 
+      "course name": "Internship in Management Information Systems", 
+      "units": "3 Units", 
+      "id": "CSUS_MIS 295", 
+      "prerequisite": [
+        "MIS 250", 
+        "MIS 260", 
+        "MIS 270"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Admission requires approval of faculty member under whom the individual work is to be conducted in addition to the approval of the Graduate Programs Office. Petitions to be obtained from Tahoe Hall 1035.  ", 
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. ", 
+      "id": "CSUS_MIS 299", 
+      "course name": "Special Problems in Management Information Systems"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis approved for the Master's degree. ", 
+      "course name": "Thesis", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_MIS 500A", 
+      "prerequisite": [
+        "MBA 244"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Completion of a project approved for the Master's degree. ", 
+      "course name": "Project", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_MIS 500B", 
+      "prerequisite": [
+        "MBA 244"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "For MSBA/MIS. ", 
+      "course name": "Comprehensive Examination", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_MIS 500C", 
+      "prerequisite": [
+        "ACCY 240", 
+        "MBA 230", 
+        "MBA 240", 
+        "MBA 241", 
+        "MBA 270", 
+        "MBA 280"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "MIS", 
+    "subject": "Management Information Systems"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Management Information Systems", 
+    "id": "CSUS"
+  }
+}

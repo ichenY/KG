@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring, Summer",
+      "description": "Analyzes international business: foreign markets; export-import trade; licensing agreements; foreign exchange problems; role of the multinational firm; intergovernmental trade agreements; balance of payments; decision making in foreign environments.",
+      "id": "CSUS_IBUS 190",
+      "course name": "International Business"
+    },
+    {
+      "units": "3 Units",
+      "term": " Open to upper division students, subject to permission of the Management Area.  Open to declared business administration majors only. Petitions can be obtained from the Student Affairs Office, Tahoe 2065.  ",
+      "description": "Supervised work experience in business, governmental or service agencies for the purpose of increasing student understanding of the nature and scope of their operations.  Supervision is provided by the faculty and the cooperating agencies. ",
+      "id": "CSUS_IBUS 195",
+      "course name": "Internship in International Business"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Admission requires approval of the instructor and the Associate Dean. Petitions can be obtained from the Undergraduate Business Center, Tahoe 1030. ",
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. ",
+      "id": "CSUS_IBUS 199",
+      "course name": "Special Problems in International Business"
+    }
+  ],
+  "subjectOf": {
+    "id": "IBUS",
+    "subject": "International Business"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "International Business",
+    "id": "CSUS"
+  }
+}

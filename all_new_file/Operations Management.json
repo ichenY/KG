@@ -1,0 +1,23 @@
+{
+  "courses": [
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to the basic concepts and methods used to analyze and improve performance of operations in manufacturing and service organizations. ",
+      "course name": "Operations Management",
+      "units": "3 Units",
+      "id": "CSUS_OPM 101",
+      "prerequisite": [
+        "DS 101"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "OPM",
+    "subject": "Operations Management"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Operations Management",
+    "id": "CSUS"
+  }
+}

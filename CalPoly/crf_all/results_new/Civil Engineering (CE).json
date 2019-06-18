@@ -1,0 +1,1389 @@
+{
+  "subjectOf": {
+    "id": "CE",
+    "subject": "Civil Engineering"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Civil Engineering"
+  },
+  "courses": [
+    {
+      "id": "CE 111",
+      "course name": "Introduction to Civil Engineering",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Broad overview of the field of civil engineering, including professional societies and their student chapters, professional licensing and registration, professional codes of ethics, the elements of engineering design, and the scope of analysis and design activities undertaken by private- and public-sector civil design professionals. Credit/No Credit grading only. 1 lecture."
+    },
+    {
+      "id": "CE 112",
+      "course name": "Design Principles in Civil Engineering",
+      "hasPrerequisite": "MATH 141",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "The civil and environmental engineering design process.  Illustration and quantification of design alternatives.  Practice in creating and evaluating typical designs drawn from different specialty areas of the field.  2 lectures."
+    },
+    {
+      "id": "CE 113",
+      "course name": "Computer Aided Drafting in Civil Engineering",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Computer-aided drawing (CAD) and related software to display and quantify engineering designs. Elements of engineering design drawings. Related topics in information technology. 2 laboratories."
+    },
+    {
+      "id": "CE 200",
+      "course name": "Special Problems",
+      "units": "1-2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.  Credit/No Credit grading only."
+    },
+    {
+      "id": "CE 204",
+      "course name": "Mechanics of Materials I",
+      "hasPrerequisite": "ME 211",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Stresses, strains, and deformations associated with axial, torsional, and flexural loading of bars, shafts, and beams.  Analysis of elementary determinate and indeterminate mechanical and structural systems.  2 lectures, 1 activity."
+    },
+    {
+      "id": "CE 207",
+      "course name": "Mechanics of Materials II",
+      "hasPrerequisite": "CE 204",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Combined stress states including torsion, axial, shear, moment, and pressure vessel loadings.  Principle stress/strain states.  Basic failure criteria.  Analysis of beam forces, moments, deflections, and rotations.  Introduction to stability concepts including column buckling.  1 lecture, 1 activity."
+    },
+    {
+      "id": "CE 251",
+      "course name": "Programming Applications in Engineering",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 113"
+        },
+        {
+          "prerequisite": "CE 204"
+        },
+        {
+          "prerequisite": "MATH 244"
+        }
+      ],
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Concepts from basic programming theory introduced in the context of engineering applications.  Topics include the application of programming constructs to demonstrate finite precision calculations, linear systems, linear programming, basic nonlinear systems, plotting, statistics, least squares, approximations, and solve related problems from civil and environmental engineering.  2 activities."
+    },
+    {
+      "id": "CE 259",
+      "course name": "Civil Engineering Materials",
+      "hasPrerequisite": "CE 204",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Experimental determination of mechanical properties of concrete, asphalt, and soils as required for engineering applications.  Experimental verification of assumptions made in mechanics of materials procedures.  Use of strain measuring devices.  Preparation of technical reports.  2 laboratories."
+    },
+    {
+      "id": "CE 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "CE 321",
+      "course name": "Fundamentals of Transportation Engineering",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 141"
+        },
+        {
+          "prerequisite": "CE 259 or graduate st"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "The characteristics and functions of highway, air, rail, transit and other modes of urban and intercity transportation.  Fundamentals of transportation design, operations, and planning.  Evaluation of costs, benefits, and environmental considerations.  3 lectures."
+    },
+    {
+      "id": "CE 322",
+      "course name": "Fundamentals of Transportation Engineering Laboratory",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Application of principles of transportation planning, operations, and design.  Emphasis on urban transportation planning and operations, and the design of urban and intercity highway and rail facilities.  Experimental determination of the physical and mechanical properties of pavement materials through laboratory and field testing.  Analysis of data and preparation of testing reports.  2 laboratories."
+    },
+    {
+      "id": "CE 336",
+      "course name": "Water Resources Engineering",
+      "hasPrerequisite": "ME 341 or ENVE 264",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Hydraulics of pile flow.  Open channel flow, groundwater, and hydrology.  4 lectures."
+    },
+    {
+      "id": "CE 337",
+      "course name": "Hydraulics Laboratory",
+      "hasPrerequisite": "ME 341 or ENVE 264",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Application of basic fluid dynamic principles to various mechanical systems.  Exposure to experimental problems and techniques with guided laboratory projects related to civil engineering discipline.  1 laboratory."
+    },
+    {
+      "id": "CE 352",
+      "course name": "Structural Engineering",
+      "hasPrerequisite": "CE 207",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Introduction to concepts of structural engineering including ASCE7 loads, vertical and lateral load path, flexible and rigid diaphragms, determinate vs indeterminate systems, and the use of computer programs to solve structural engineering problems.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 355",
+      "course name": "Reinforced Concrete Design",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 259"
+        },
+        {
+          "prerequisite": "CE 352"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Analytical and design principles of reinforced concrete in designing civil engineering systems.  Origin of code requirements.  Fundamentals of proportioning.  Details of elements and structural systems.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 356",
+      "course name": "Structural Steel Design",
+      "hasPrerequisite": "CE 352",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Design and behavior of the elements of steel structures.  Design and analysis of bolted, welded and eccentric connections.  Proportioning of members and connections.  Introduction to plastic design, end plate connection, composite construction, shear connections and design of composite beams.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 371",
+      "course name": "Construction Management and Project Planning",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "ARCE 106"
+        },
+        {
+          "prerequisite": "CE 259 or CM 113"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Theory and practice of planning, scheduling, estimating, and reporting for construction projects.  Fundamentals of scheduling logic including critical path, deterministic, and probabilistic scheduling; including the impact of constraints.  Identifying resources and estimating time requirements for design activities and project operations.  Not open to Architectural Engineering or Construction Management majors.  3 lectures, 1 activity.  Crosslisted as CE/CM371."
+    },
+    {
+      "id": "CE 381",
+      "course name": "Geotechnical Engineering",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 207"
+        },
+        {
+          "prerequisite": "ME 341 or ENVE 264"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Engineering geology, elementary mass-volume relations, clay-water interaction, soil classification, soil compaction, geostatic stress distributions, 1-D and 2-D steady-state flow, shear strength under drained and undrained conditions.  4 lectures."
+    },
+    {
+      "id": "CE 382",
+      "course name": "Geotechnical Engineering Laboratory",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Use of standard laboratory test methods to determine physical, mechanical, and hydraulic properties of soil.  1 laboratory."
+    },
+    {
+      "id": "CE 400",
+      "course name": "Special Problems",
+      "units": "1-2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "id": "CE 401",
+      "course name": "Advanced Mechanics of Materials",
+      "hasPrerequisite": "CE 406 or ME 328",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Introduction to linear elasticity as a means for development of reduced order theories such as torsion, beams, columns, and plates from the general three-dimensional continuum.  Energy methods as well as the application and limitation of these theories.  4 lectures."
+    },
+    {
+      "id": "CE 404",
+      "course name": "Applied Finite Element Analysis",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "BMED 410"
+        },
+        {
+          "prerequisite": "CE 207"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Finite element based solutions to engineering problems with an emphasis on elastostatic problems in structural mechanics.  The power and pitfalls associated with the finite element method highlighted through practical modeling assignments.  Introduces the use of commercial finite element codes.  3 lectures, 1 laboratory.  Crosslisted as BMED/CE/ME404."
+    },
+    {
+      "id": "CE 405",
+      "course name": "Concrete Materials",
+      "hasPrerequisite": "CE 259",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Supplementary cementitious materials and chemical admixtures and their incorporation into concrete mix designs.  Design and testing of concrete for durability and other specialized properties.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 406",
+      "course name": "Structural Analysis",
+      "hasPrerequisite": "CE 352",
+      "units": "5 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Structural analysis of frames, trusses, and combined systems.  Modern structural analysis theorems are presented along with discussion of their relation to classical methods.  Specific topics include virtual forces, virtual displacements, compatibility, constraints and matrix formulations.  Course may be offered in classroom-based or online format.  4 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 407",
+      "course name": "Structural Dynamics",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 406"
+        },
+        {
+          "prerequisite": "ME 212"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Effect of vibration and transient loads on structural elements.  Dynamics load factors, support motion, damping and natural frequencies of multidimensional structural systems.  Modal analysis.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 413",
+      "course name": "Advanced Civil Computer-Aided Site Design",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "BRAE 239"
+        },
+        {
+          "prerequisite": "CE 113"
+        }
+      ],
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Apply advanced CAD software to develop design techniques and convey the completed design on a set of plans; site coordination, basic road design, grading, and utility design.  2 laboratories."
+    },
+    {
+      "id": "CE 421",
+      "course name": "Traffic Engineering",
+      "hasPrerequisite": "CE 321",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Principles of traffic circulation on highway systems and other modes.  Traffic control.  Traffic data collection and analysis.  Capacity analysis.  Traffic modeling.  New technologies.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 422",
+      "course name": "Highway Geometrics and Design",
+      "hasPrerequisite": "CE 321",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Alignment location and safe geometric design of highways.  Earthwork and drainage related to highway.  Theory and practice in design of alignments, highway cross-sections, intersections, interchanges, and freeways in urban and rural areas.  Application of advanced computer software to highway geometrics.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CE 423",
+      "course name": "Intelligent Transportation Systems",
+      "hasPrerequisite": "CE 321 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Specification and operation of Intelligent Transportation Systems (ITS).  Traffic surveillance and control systems including applications to freeways, urban streets, rural highways, and public transportation.  Standards include the National Architecture for ITS.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 424",
+      "course name": "Public Transportation",
+      "hasPrerequisite": "CE 321",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Interdisciplinary aspects of public transportation problems, systems-team design approach to solutions.  History and present state of public transportation; role of public transportation in urban environment; legislative, political, social, and economic aspects of public transportation systems.  Methodology and procedures for transit planning.  Review of transit studies.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 425",
+      "course name": "Introduction to Railway Engineering",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 321"
+        },
+        {
+          "prerequisite": "CE 381"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Introduction to railroad and railway system analysis and design.  Railroads, rail transit and high speed rail applications.  Track foundation design for various conditions.  Approaches to railway analysis and design and an introduction to railway traffic control and signaling.  4 lectures."
+    },
+    {
+      "id": "CE 431",
+      "course name": "Coastal Hydraulics I",
+      "hasPrerequisite": "ME 341 or ENVE 264",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Waves and their characteristics, types of waves, water wave theories, orbital velocities, refraction of waves, wave diffraction, wave reflection, application of linear theory to wave forces on cylindrical structures, submerged pipelines and vertical flat barriers (sea walls), wave uprush, rubble mound breakwaters.  4 lectures."
+    },
+    {
+      "id": "CE 432",
+      "course name": "Coastal Hydraulics II",
+      "hasPrerequisite": "CE 431",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Reformed breaker height determination, wave runup analysis using a reformed breaker height.  Wave setback analysis.  Pile height determination.  Criteria for types of breaking waves.  Revetment analysis, rip-rap revetment design, wave forces on pilings.  4 lectures."
+    },
+    {
+      "id": "CE 433",
+      "course name": "Open Channel Hydraulics",
+      "hasPrerequisite": "CE 336",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Analysis and characteristics of flow in open channels; critical flows; uniform flow; gradually varied flow; channel design problems, channel transitions and controls.  Rapidly varied flow; hydraulic jump and energy dissipaters.  Unsteady flows, waves and wave propagation, flood routing.  Applications of numerical methods in hydraulic engineering.  4 lectures."
+    },
+    {
+      "id": "CE 434",
+      "course name": "Groundwater Hydraulics and Hydrology",
+      "hasPrerequisite": "CE 336",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Differential equations of groundwater flow, Darcy's Law, solutions of the steady and unsteady flow, differential equations for confined and unconfined flows.  Pumping test design.  Groundwater models, leaky aquifers.  Saltwater intrusion.  4 lectures."
+    },
+    {
+      "id": "CE 435",
+      "course name": "Engineering Hydrology",
+      "hasPrerequisite": "CE 336",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Analysis of hydrologic cycle components such as precipitation, infiltration and evaporation.  Rainfall-runoff analysis to determine peak flows and runoff hydrographs.  Hydrologic river and reservoir routings and their applications for flood plain management.  Application of frequency analysis methods to determine design rainfalls and design flows.  4 lectures."
+    },
+    {
+      "id": "CE 440",
+      "course name": "Hydraulic Systems Engineering",
+      "hasPrerequisite": "CE 336",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Water and wastewater flows.  Design of water distribution systems, trans-mission and storage reservoirs, wastewater collection systems, and storm water systems.  Pumps and pump systems, flow measurements.  Water sources for municipal supply.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 454",
+      "course name": "Structural Design",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 355"
+        },
+        {
+          "prerequisite": "CE 356"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Design of reinforced concrete, steel and timber structures.  Loading standards, code design methods, connection design.  Comprehensive design projects.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CE 455",
+      "course name": "Design of Timber Structures",
+      "hasPrerequisite": "CE 355 or CE 356",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Analysis and design of timber structures with emphasis on construction methodology, and material behavior.  Topics include:  physical and mechanical properties of structural lumber and glued laminated timber; lateral load paths; diaphragms; connections; shear wall design; and combined load design.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 456",
+      "course name": "Seismic Principles for Civil and Environmental Engineering",
+      "hasPrerequisite": "CE 207",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Basic principles in seismic analysis and design of civil and environmental systems.  Seismological aspects of earthquakes.  Simple concepts in structural dynamics.  Simplified code-based analysis and design.  4 lectures.  Not open to students with credit in CE557."
+    },
+    {
+      "id": "CE 457",
+      "course name": "Bridge Engineering",
+      "hasPrerequisite": "CE 355",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Fundamentals of the structural analysis and design of highway bridges.  Construction materials in bridges.  Loads on highway bridges.  Load path and distribution in bridge superstructure.  Design of reinforced concrete, pre-stressed concrete, and composite bridges.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 458",
+      "course name": "Fiber Reinforced Polymer (FRP) Design",
+      "hasPrerequisite": "CE 355",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Properties and mechanical characteristics of Fiber Reinforced Polymer (FRP) composite materials; applications in civil engineering structures as primary or secondary reinforcement; and design techniques based on newly developed ACI 440 design guidelines and worldwide experience in FRP design.  Not open to students with credit in CE558.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 459",
+      "course name": "FRP Strengthening of Reinforced Concrete Structures",
+      "hasPrerequisite": "CE 355",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Flexural and shear strengthening reinforced and prestressed concrete members using fiber reinforced polymer composite plates and laminates; seismic repair and rehabilitation of columns, slabs, beams and structures.  Focus on design philosophy and design methodology, based on the current understanding of FRP-strengthening techniques.  Not open to students with credit in CE556.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 465",
+      "course name": "Civil Engineering Professional Practice",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Advising for Senior Design Project and examination of the non-technical and professional issues engineering design professionals regularly encounter.  Topics include:  communications styles and assertiveness, technical communications (oral and written), lifelong learning, contemporary civil engineering issues, leadership, ethics, and personal and project management.  1 activity."
+    },
+    {
+      "id": "CE 466",
+      "course name": "Senior Design Project I",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 321"
+        },
+        {
+          "prerequisite": "CE 322"
+        },
+        {
+          "prerequisite": "CE 336"
+        },
+        {
+          "prerequisite": "CE 337"
+        },
+        {
+          "prerequisite": "CE 355"
+        },
+        {
+          "prerequisite": "CE 381"
+        },
+        {
+          "prerequisite": "CE 382"
+        },
+        {
+          "prerequisite": "CE 465"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Work on multi-disciplinary teams to complete an integrated civil design project.  Focus on formal instruction, through project based learning, on selected topics in geotechnical, structural, transportation, and water resources engineering design.  Non-technical topics include team building, technical communications, and professional practice skills that must be mastered to become a successful design professional.  2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 467",
+      "course name": "Senior Design Project II",
+      "hasPrerequisite": "CE 466",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Continuation of work on multi-disciplinary teams to complete an integrated civil design project started in CE466.  Focus of formal instruction on selected topics in geotechnical, structural, transportation, and water resources engineering design culminating with oral and written presentations of Senior Design projects.  2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 468",
+      "course name": "Community Engineering Senior Design Project I",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 321"
+        },
+        {
+          "prerequisite": "CE 322"
+        },
+        {
+          "prerequisite": "CE 336"
+        },
+        {
+          "prerequisite": "CE 337"
+        },
+        {
+          "prerequisite": "CE 355"
+        },
+        {
+          "prerequisite": "CE 381"
+        },
+        {
+          "prerequisite": "CE 382"
+        },
+        {
+          "prerequisite": "CE 465"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Two-part series.  Student teams work in cooperation with a local community organization to complete an integrated civil design project.  Projects representative of those encountered in professional practice.  Focus on professional as well as design issues.  Volunteer service required.  2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 469",
+      "course name": "Community Engineering Senior Design Project II",
+      "hasPrerequisite": "CE 468",
+      "units": "3 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Two-part series.  Student teams work in cooperation with a local community organization to complete an integrated civil design project.  Projects representative of those encountered in professional practice.  Focus on professional as well as design issues.  Volunteer service required.  2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "CE 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories."
+    },
+    {
+      "id": "CE 474",
+      "course name": "Environmental Compliance and Permitting",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Fundamentals of State and Federal environmental laws essential to getting Civil Engineering projects permitted.  2 lectures."
+    },
+    {
+      "id": "CE 475",
+      "course name": "Civil Infrastructure and Building Systems",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Principles and practices for the sustainable design, fabrication, and installation of systems for the civil infrastructure and building; including structural, air/gas, water/wastewater, electrical, and control systems.  Methods and materials used for fabrication and installation; including cost and schedule considerations.  4 lectures.  Crosslisted as ARCE/CE475."
+    },
+    {
+      "id": "CE 481",
+      "course name": "Analysis and Design of Shallow Foundations",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 381"
+        },
+        {
+          "prerequisite": "CE 382"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Evaluation of shear strength for foundation design.  Analysis of bearing capacity for generalized conditions.  Design of reinforced concrete spread footings.  Stress distributions beneath loaded areas.  Immediate settlement, consolidation settlement, rate of consolidation, and creep.  4 lectures."
+    },
+    {
+      "id": "CE 486",
+      "course name": "Introduction to Geological Engineering",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 381"
+        },
+        {
+          "prerequisite": "CE 382"
+        },
+        {
+          "prerequisite": "GEOL 201"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Identification and characterization of consolidated geologic materials for the purpose of civil analysis and design.  Interpretation of geologic maps, cross sections, and reports.  Interpretation of aerial photographs.  Engineering considerations important in dealing with transported soils.  4 lectures."
+    },
+    {
+      "id": "CE 487",
+      "course name": "Design of Foundations and Slopes in Rock",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 381"
+        },
+        {
+          "prerequisite": "CE 382"
+        },
+        {
+          "prerequisite": "GEOL 201"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Evaluation of the engineering properties of rocks.  Rock core description.  Slope stability analyses in rock.  Discontinuity analysis.  Rockfall hazard assessment and mitigation.  Design of shallow foundations on rock.  4 lectures."
+    },
+    {
+      "id": "CE 488",
+      "course name": "Engineering Risk Analysis",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 381"
+        },
+        {
+          "prerequisite": "STAT 312"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Introduction to the basic concepts of probability theory, statistics, and decision theory as they pertain to problems in civil and environmental engineering.  Emphasis placed on the use of probabilistic modeling, Bayesian statistics, risk analysis, and decision theory.  4 lectures."
+    },
+    {
+      "id": "CE 493",
+      "course name": "Cooperative Education Experience",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 6 units."
+    },
+    {
+      "id": "CE 494",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 18 units."
+    },
+    {
+      "id": "CE 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A more fully developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units."
+    },
+    {
+      "id": "CE 500",
+      "course name": "Individual Study",
+      "units": "1-3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Advanced study planned and completed under the direction of a member of the department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Enrollment by petition.  Total credit limited to 4 units."
+    },
+    {
+      "id": "CE 501",
+      "course name": "Advanced Matrix Analysis of Structures I",
+      "hasPrerequisite": "CE 406",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Matrix terminology and operations.  Matrix procedures for analysis of two-dimensional frameworks.  Development of stiffness, flexibility and mixed methods.  Development of algorithms and programs for use in the analysis of structural frameworks.  Discussion of modeling issues and limitations.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 504",
+      "course name": "Finite Element Analysis",
+      "hasPrerequisite": "CE 511 or ME 501 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Linear finite element theory and analysis.  Strong, weak and variational formulations.  Physical and isoparametric spaces.  Error estimates and numerical integration.  Development of finite element algorithms.  Use of commercial finite element codes to illustrate course concepts including modeling issues and limitations.  3 lectures, 1 laboratory.  Crosslisted as CE/ME504."
+    },
+    {
+      "id": "CE 511",
+      "course name": "Continuum Mechanics and Elasticity",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Introduction to continuum mechanics.  Kinematics, stress, and balance laws.  Constitutive theory for isotropic and anisotropic solids and viscous fluids.  Applications including design of beams and pressure vessels, stress concentrations, fiber-reinforced composites, and non-homogeneous biological materials.  4 lectures.  Crosslisted as CE511/ME501."
+    },
+    {
+      "id": "CE 513",
+      "course name": "Inelastic Stress Analysis",
+      "hasPrerequisite": "ME 501 or CE 511",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Perfectly plastic and work hardening materials; von Mises and Tresca yield, isotropic and kinematic hardening flow rules, boundary-value problems.  Finite elasticity:  kinematics, Cauchy- and Green-elasticity, invariance, constraints, Neo-Hookean and Mooney-Rivlin materials, experimental approaches, non-uniqueness, anisotropy, residual stress, thermoelasticity, boundary-value problems.  4 lectures.  Crosslisted as CE513/ME503."
+    },
+    {
+      "id": "CE 521",
+      "course name": "Highway Pavement Designs",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 321"
+        },
+        {
+          "prerequisite": "CE 259"
+        },
+        {
+          "prerequisite": "CE 381 or graduate st"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Theories, principles, and procedures in the structural design of highway pavements.  Design of flexible and rigid pavements.  Performance of flexible and rigid pavements in the field and the characterization of pavement materials.  Practical and direct exposure to laboratory testing of pavement materials.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 523",
+      "course name": "Transportation Systems Planning",
+      "hasPrerequisite": "CE 321 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Planning of urban and regional multimodal transportation systems.  Modeling of transportation networks and travel demand.  Travel survey design.  Urban data systems.  Evaluation of alternatives based on economic, social, technological, and other factors.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CE 524",
+      "course name": "Pavement Performance and Management Systems",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 321"
+        },
+        {
+          "prerequisite": "CE 322"
+        },
+        {
+          "prerequisite": "CE 259"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Introduction to pavement management; pavement distress data collection; deflection measurements and analysis; pavement performance modeling; pavement structure design; maintenance planning and rehabilitation strategies; prioritization and optimization; computer applications in pavement management.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CE 525",
+      "course name": "Airport Planning and Design",
+      "hasPrerequisite": "CE 321 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Historical background of aviation and airport development; financing; estimating demand; aircraft characteristics; airport capacity; airspace and air traffic control; site selection; airport configuration; geometric design of landing area; planning and development of terminal areas; lighting; pavement design and drainage.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 526",
+      "course name": "Transportation Safety",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 321"
+        },
+        {
+          "prerequisite": "CE 322"
+        },
+        {
+          "prerequisite": "STAT 312"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Introduction to nature and extent of transportation safety problem worldwide and in the United States.  Several sub-areas of transportation safety:  road safety, human factors, vehicle safety; crash data collection and management; safety planning; hot spot identification; methodologies for conducting transportation accident studies; statistical applications to accident data; predictive model building; 'before-after' studies; countermeasure design.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 527",
+      "course name": "Sustainable Mobility",
+      "hasPrerequisite": "CE 321 or CRP 435 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Presentation and analysis of concepts and designs for sustainable mobility from a global-to-local, interdisciplinary perspective, including pedestrians, bicyclists, and public transportation.  Addresses economy, environment, and equity (social issues) through lectures, panels, excursions and a planning/design project in San Luis Obispo County.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 528",
+      "course name": "Transportation Economics and Analysis",
+      "hasPrerequisite": "CE 321 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Principles of engineering systems analysis and applications to transportation using examples from different modes.  Identification of transportation benefits, costs, user and non-user impacts, transportation cost models, pricing, and optimization.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 529",
+      "course name": "Modeling and Simulation in Transportation",
+      "hasPrerequisite": "CE 321 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Theory and operation of transportation systems, the systems approach, simulation techniques.  Use of available software packages.  Simulation model development, calibration and use.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CE 533",
+      "course name": "Advanced Water Resources Engineering",
+      "hasPrerequisite": "CE 336 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Matrix and simulation methods in hydrology, statistical studies in hydrology and their applications to civil engineering problems.  Generalized hydrologic characteristics.  Hydrologic simulation, computer applications, urban and small watershed hydrology, macroscopic and microscopic approach.  Storm water management models.  Hydrologic design.  4 lectures."
+    },
+    {
+      "id": "CE 535",
+      "course name": "Water Resources Systems Planning and Analysis",
+      "hasPrerequisite": "CE 336 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Water resources planning, development, system analysis and optimization.  Dynamic programming, multi-objective water resource systems.  4 lectures."
+    },
+    {
+      "id": "CE 536",
+      "course name": "Computer Applications in Water Resources with Geographic Info Systems (GIS)",
+      "hasPrerequisite": "CE 336 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Modeling, design and analysis of water, wastewater, stormwater systems.  Integration of water resource systems with Geographic Information Systems (GIS).  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 537",
+      "course name": "Groundwater Contamination",
+      "hasPrerequisite": "CE 434",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Sources and types of groundwater contamination, contamination transport mechanisms.  Sorption and other chemical reactions.  Numerical modeling of contaminant transport.  Nonaqueous phase liquids.  Groundwater remediation and design.  4 lectures."
+    },
+    {
+      "id": "CE 538",
+      "course name": "Urban Water Systems",
+      "hasPrerequisite": "CE 440 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Integration of water delivery, wastewater collection, drainage systems, and associated treatment components in urbanizing areas.  Relationships between surface and groundwater elements of water sources and disposal.  Use of current design models to quantify the benefits of non-traditional options.  4 lectures."
+    },
+    {
+      "id": "CE 539",
+      "course name": "Environmental Hydraulics",
+      "hasPrerequisite": "CE 336 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Application of fluid mechanics principles to environmental flows.  Emphasis on advection, dispersion, stratification and mixing effects.  Stratified flows, turbulent jets and plumes, wastewater and thermal diffusers, cooling ponds and channels, control of environmental problems.  4 lectures."
+    },
+    {
+      "id": "CE 552",
+      "course name": "Analysis and Seismic Design of Reinforced Concrete",
+      "hasPrerequisite": "CE 454",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Emphasis placed on reinforced concrete behavior and seismic design.  Topics include moment curvature analysis and plastic hinge modeling, strut and tie, design of structural walls, design of concrete moment frames and seismic detailing.  4 lectures."
+    },
+    {
+      "id": "CE 553",
+      "course name": "Ductile Design of Steel Structures",
+      "hasPrerequisite": "CE 356",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Plastic analysis and capacity design principle; design of ductile steel structures including moment frames, concentrically braced frames, eccentrically braced frames, buckling-restrained braced frames, and steel plate shear walls according to the AISC Seismic Provisions for Structural Steel Buildings.  3 lectures, 1 activity."
+    },
+    {
+      "id": "CE 555",
+      "course name": "Advanced Civil Engineering Materials Laboratory",
+      "hasPrerequisite": "CE 259 or graduate st",
+      "units": "2 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Fundamental properties of new and advanced materials.  Experimental techniques.  Fracture characteristics and composite response of cement matrix composites.  New materials and products to advanced applications such as automation.  2 laboratories."
+    },
+    {
+      "id": "CE 556",
+      "course name": "Advanced Fiber Reinforced Polymer (FRP) Strengthening of Reinforced Concrete Structures",
+      "hasPrerequisite": "CE 355",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Flexural and shear strengthening reinforced and pre-stressed concrete members using FRP composite laminates and plates; seismic repair and rehabilitation of columns, beams, slabs and whole structures.  Design philosophies based on the current ACI 440 and the most up to date research in FRP composites.  Durability, fire protection and blast mitigation of structures utilizing FRP laminates.  Not open to students with credit in CE459.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 557",
+      "course name": "Seismic Analysis and Design for Civil Engineers",
+      "hasPrerequisite": "CE 407",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Extension of the basic principles of structural dynamics to analysis of civil structures (buildings, bridges, tanks, etc.) to earthquake loading.  Code based (Uniform Building Code and AASHTO) earthquake resistant design of civil structures.  Not open to students with credit in CE456.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 558",
+      "course name": "Advanced Fiber Reinforced Polymer (FRP) Design",
+      "hasPrerequisite": "CE 355",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Properties and mechanical characteristics of FRP composites and design methodologies based on the current understanding and usage of FRP composites.  Applications of composite rebars in civil engineering structures as primary reinforcement.  Design and analysis of reinforced concrete structures utilizing FRP rebars based on the ACI 440 design guidelines.  Not open to students with credit in CE458.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 559",
+      "course name": "Prestressed Concrete Design",
+      "hasPrerequisite": "CE 355 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Advanced analysis, design and behavior of prestressed and precast concrete elements and structures.  Origin of code requirements.  Detailed design of prestressed concrete components of civil engineering systems for buildings and highway construction.  Creep and shrinkage of concrete and relaxation of steel applied to prestressing losses.  4 lectures."
+    },
+    {
+      "id": "CE 570",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  Open to graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 seminars."
+    },
+    {
+      "id": "CE 571",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories."
+    },
+    {
+      "id": "CE 581",
+      "course name": "Advanced Geotechnical Engineering",
+      "hasPrerequisite": "CE 481 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Advanced topics in saturated flow, unsaturated flow, and consolidation.  Stress-strain-deformation response of soils under both drained and undrained loading.  Conventional and advanced laboratory strength testing.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CE 583",
+      "course name": "Geotechnical Earthquake Engineering",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 481"
+        },
+        {
+          "prerequisite": "CE 407 or graduate st"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Introduction to engineering seismology and ground motion evaluation.  Dynamic behavior of soils.  Seismic site response analysis.  Soil liquefaction evaluation methods and mitigation techniques.  Seismic stability of slopes and retaining walls.  Computer-aided analysis.  4 lectures."
+    },
+    {
+      "id": "CE 584",
+      "course name": "Lateral Support Systems",
+      "hasPrerequisite": "CE 481 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Classical and modern earth pressure theories.  Lateral earth pressure calculations for general subsurface conditions.  Analysis and design of reinforced concrete cantilever walls, sheetpile walls, soldier-pile walls, tie-back walls, and mechanically-stabilized earth.  Computer-aided analysis and design.  4 lectures."
+    },
+    {
+      "id": "CE 585",
+      "course name": "Slope Stability Analysis",
+      "hasPrerequisite": "CE 481 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Analysis of stability by planar, circular arc, piecewise-linear, and composite-surface techniques.  Analysis of earth-fill dams and reservoirs for static, steady flow, sudden drawdown, and seismic loading conditions.  Field instrumentation.  Methods for slope remediation and stabilization.  Computer-aided analysis.  4 lectures."
+    },
+    {
+      "id": "CE 586",
+      "course name": "Analysis and Design of Deep Foundations",
+      "hasPrerequisite": "CE 481 or graduate st",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Bearing capacity and settlement analysis of drilled shafts and driven piles.  Analysis and design of single piles and pile groups for vertical, lateral, and combined loading.  Construction procedures, field inspection, and load-testing.  Computer-aided analysis and design.  4 lectures."
+    },
+    {
+      "id": "CE 587",
+      "course name": "Geoenvironmental Engineering",
+      "hasPrerequisite": "CE 381",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Principles for containment applications.  Engineering properties of soils and geosynthetics and their interaction with contaminants and wastes; analysis of geosynthetics used in containment facilities; liners; covers; leachate and gas collection systems; contaminant transport; and monitoring systems.  4 lectures."
+    },
+    {
+      "id": "CE 588",
+      "course name": "Ground Improvement",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CE 381"
+        },
+        {
+          "prerequisite": "CE 382"
+        },
+        {
+          "prerequisite": "CE 481"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Ground improvement applications investigated for modification of geomechanical and hydraulic properties of soils.  Engineering properties of soft ground and high water content materials; mechanical, chemical, and thermal stabilization investigated for foundation and environmental remediation applications.  4 lectures."
+    },
+    {
+      "id": "CE 589",
+      "course name": "Geosynthetics Engineering",
+      "hasPrerequisite": "CE 481",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Geosynthetics applications within civil engineering.  Design content for geotechnical, geoenvironmental, and transportation applications.  Manufacturing processes, material properties, interaction with soils, and service conditions.  4 lectures."
+    },
+    {
+      "id": "CE 591",
+      "course name": "Graduate Seminar I",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Preparation for graduate studies and engineering careers.  Further development of oral and written communication skills.  1 seminar."
+    },
+    {
+      "id": "CE 592",
+      "course name": "Graduate Seminar II",
+      "hasPrerequisite": "CE 591",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Current research activities and analysis/design philosophies in civil and environmental engineering practice.  Development of oral and written presentation skills.  1 seminar."
+    },
+    {
+      "id": "CE 593",
+      "course name": "Cooperative Education Experience",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Advanced study analysis and part-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only."
+    },
+    {
+      "id": "CE 594",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only."
+    },
+    {
+      "id": "CE 595",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  A fully-developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only."
+    },
+    {
+      "id": "CE 596",
+      "course name": "Comprehensive Examination",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Comprehensive exam for a non-thesis master's student.  The comprehensive examination assesses the student's ability to integrate knowledge, show critical and independent thinking, and demonstrate mastery of the subject matter.  Timing of the comprehensive exam shall be scheduled with the faculty advisor per department guidelines."
+    },
+    {
+      "id": "CE 599",
+      "course name": "Design Project (Thesis)",
+      "units": "1-9 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Each individual or group will be assigned a project for solution under faculty supervision as a requirement for the master's degree, culminating in a written report/thesis."
+    }
+  ]
+}

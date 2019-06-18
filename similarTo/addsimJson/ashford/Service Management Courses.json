@@ -1,0 +1,112 @@
+{
+  "subjectOf": {
+    "subject": "Service Management Courses",
+    "id": "SRV"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Service Management Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_SRV 301",
+      "course name": "Introduction to Service Management",
+      "units": "3 Credits",
+      "description": "This course introduces management in the intangible industries organization and addresses the central challenges presented by services organizations. The course also addresses the need for value creation through customers, the role of organizational leadership, and the role of services in modern society."
+    },
+    {
+      "id": "AshFord_SRV 312",
+      "course name": "Service Operations Management",
+      "units": "3 Credits",
+      "description": "This course is an introduction to service-related operations in a variety of business sectors and is studied through the shared aspect of their service elements, drawing upon service management theory to provide the academic framework. Students are introduced to operations management principles, and study the role of the operations manager within service organizations.",
+      "prerequisite": [
+        "SRV 301"
+      ]
+    },
+    {
+      "id": "AshFord_SRV 332",
+      "course name": "Fundamentals of Hospitality",
+      "units": "3 Credits",
+      "description": "This course is a survey of the interrelated industries that comprise the hospitality and tourism industry. The course also introduces the student to the major concepts and components that representing the hotel, food and beverage, restaurant, recreation, theme parks, gaming, club management, convention and event planning, cruises, and tourism services industries.",
+      "prerequisite": [
+        "SRV 301"
+      ]
+    },
+    {
+      "id": "AshFord_SRV 333",
+      "course name": "Resort Management",
+      "units": "3 Credits",
+      "description": "This course provides an overview of resort management and operations in the context of ski, golf, gaming, and other types of resorts. The basic principles of marketing, management, and development of a resort will be covered. The course includes a review of the history of the growth of resorts in the United States, expansion of resorts worldwide, and their operations and characteristics.",
+      "prerequisite": [
+        "SRV 301"
+      ]
+    },
+    {
+      "id": "AshFord_SRV 340",
+      "course name": "Marketing in a Services Environment",
+      "units": "3 Credits",
+      "description": "This course is designed to provide an introduction to the general principles of marketing and an in-depth study of services marketing theory. The concepts the student learns will enable students to develop the skills appropriate in an emerging service economy. The student will be exposed to the relationship between services marketing and the consumer experience. There will be opportunities for the student to apply services marketing theory in non-profit, mass-market retail, hospitality, and restaurant enterprise environments.",
+      "prerequisite": [
+        "SRV 301"
+      ]
+    },
+    {
+      "id": "AshFord_SRV 346",
+      "course name": "Introduction to Restaurant Management",
+      "units": "3 Credits",
+      "description": "Identifies the crucial elements involved in the successful operation of a restaurant and how they interrelate. Students are taken through the process of creating a concept, developing a menu, budgeting and controlling costs, staffing the restaurant, purchasing food and equipment, bar and beverage management, daily operations, and developing a restaurant marketing plan.",
+      "prerequisite": [
+        "SRV 301"
+      ]
+    },
+    {
+      "id": "AshFord_SRV 347",
+      "course name": "Sanitation & Safety",
+      "units": "3 Credits",
+      "description": "This course introduces the student to public health problems that relate to the hospitality industry. Topics include disease transmission through improper food handling and cooking, major types of micro-organisms, environmental conditions which encourage bacterial growth, fire prevention methods and safety, and sanitation rules and practices.",
+      "prerequisite": [
+        "SRV 301"
+      ]
+    },
+    {
+      "id": "AshFord_SRV 423",
+      "course name": "Food & Beverage",
+      "units": "3 Credits",
+      "description": "This course is a study of the systems and techniques appropriate to manage food, beverage, and labor costs in restaurant and catering operations. Topics addressed include management, marketing, menu development, costs and pricing, quality assurance, production, and operational analysis."
+    },
+    {
+      "id": "AshFord_SRV 425",
+      "course name": "Event, Meeting, & Conference Management",
+      "units": "3 Credits",
+      "description": "In this course, students learn strategies to develop meaningful, well-organized conferences, meetings, and special events. The course addresses event logistics, facilities management, event compliance with ADA and other laws/regulations, contract negotiation, labor planning, and issues with food and beverage management.",
+      "prerequisite": [
+        "SRV 301"
+      ]
+    },
+    {
+      "id": "AshFord_SRV 428",
+      "course name": "Non-Profit Agency Management",
+      "units": "3 Credits",
+      "description": "This course serves as an introduction to the non-profit organization and management. Discussions will focus on mission, leadership, marketing, community relations, fund development, staff supervision and professional development."
+    },
+    {
+      "id": "AshFord_SRV 429",
+      "course name": "Fiscal Management of Nonprofit Organizations",
+      "units": "3 Credits",
+      "description": "This course examines the principles and practices of financial management in nonprofit organizations. It is designed to teach students how to use financial information in the management of nonprofit organizations. The use of case studies and applied examples intends to make the course especially practical to those working in the nonprofit environment.",
+      "prerequisite": [
+        "SRV 301"
+      ]
+    },
+    {
+      "id": "AshFord_SRV 438",
+      "course name": "Menu Planning & Design",
+      "units": "3 Credits",
+      "description": "This course includes food service design concept including the menu, the location, and the type of clientele expected. Students will also demonstrate an understanding of menu layout, including selection, development, price structure, and restaurant style.",
+      "prerequisite": [
+        "SRV 301"
+      ]
+    }
+  ]
+}

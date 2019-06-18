@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_HHS 196A", 
+      "course name": "Law+The Human Services"
+    }
+  ], 
+  "subjectOf": {
+    "id": "HHS", 
+    "subject": "Health and Human Services"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Health and Human Services", 
+    "id": "CSUS"
+  }
+}

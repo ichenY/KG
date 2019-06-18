@@ -1,0 +1,112 @@
+{
+  "subjectOf": {
+    "subject": "Anthropology Courses",
+    "id": "ANT"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Anthropology Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_ANT 101",
+      "course name": "Introduction to Cultural Anthropology",
+      "units": "3 Credits",
+      "description": "Students explore culture in its role of guiding human behavior and providing social order, structure, and stability for individuals and groups of people. Culture is presented as a system of adaptation involving beliefs, behavior, language, customs, socio/political strategies, traditions, and technology that evolve over time. Recommended prerequisite: ENG 122."
+    },
+    {
+      "id": "AshFord_ANT 202",
+      "course name": "Human Origins & Prehistory",
+      "units": "4 Credits",
+      "description": "This course will introduce students to the anthropological study of human evolution and prehistory. Students will be introduced to the theory of natural selection and to humanity as a member of the primate order. Topics covered will be the human ancestors, the Neolithic revolution, and how humans both differ and are similar to other primates. ",
+      "prerequisite": [
+        "ANT 101"
+      ]
+    },
+    {
+      "id": "AshFord_ANT 234",
+      "course name": "Family, Kin, & Group",
+      "units": "3 Credits",
+      "description": "The course explores kinship systems, ethnicity, neighborhood and other social arrangements in various cultural settings through the reading of selected ethnographic materials. Students will study the kinship on a cross-cultural and worldwide basis, beginning with immediate social ties in familial contexts to broad connotations in ethnic, national, and universal domains. ",
+      "prerequisite": [
+        "ANT 101"
+      ]
+    },
+    {
+      "id": "AshFord_ANT 307",
+      "course name": "Anthropology of War",
+      "units": "3 Credits",
+      "description": "An examination of the nature of war, primarily as it occurs in pre-industrial societies, and a survey of the anthropological explanations regarding this phenomenon. Emphasis is on understanding the complexity, variability, and cultural embeddedness of war as it occurs around the world. ",
+      "prerequisite": [
+        "ANT 101"
+      ]
+    },
+    {
+      "id": "AshFord_ANT 315",
+      "course name": "Material Culture: Archaeology and the Human Condition",
+      "units": "3 Credits",
+      "description": "This course examines the anthropological sub-discipline of archaeology, the study of the human past, looking specifically at the theories and methods used by archaeologists. Students will learn how archaeologists gather and use data, and how this information is relevant to contemporary society. Students will explore the history and background of archaeology, as well as how archaeologists approach such topics as the origins of inequality, gender roles, complex societies, and ethical issues such as who owns the past. ",
+      "prerequisite": [
+        "ANT 202"
+      ]
+    },
+    {
+      "id": "AshFord_ANT 340",
+      "course name": "Anthropological Theory",
+      "units": "3 Credits",
+      "description": "This course explores anthropological theory in a historical perspective focusing on the rise of a distinct anthropological perspective on the comparative study of human societies and cultures. The course will detail various theoretical models developed in the 19th and 20th centuries to explain the similarities and differences in cultural systems. ",
+      "prerequisite": [
+        "ANT 101"
+      ]
+    },
+    {
+      "id": "AshFord_ANT 343",
+      "course name": "Language, Culture, & Communication",
+      "units": "3 Credits",
+      "description": "This course is an introduction to the study of the relationship of language and culture, including examination of the characteristics and structural principles of natural language. After exploring the basic characteristics of sound, word formation, and sentence structure, these principles are applied to such topics as: language variation, language change, psycholinguistics, and pragmatics. ",
+      "prerequisite": [
+        "ANT 101"
+      ]
+    },
+    {
+      "id": "AshFord_ANT 348",
+      "course name": "Native American Anthropology",
+      "units": "3 Credits",
+      "description": "This course examines the nature and distribution of North American Indian cultures from the pre-Columbian period to the present. Through the use of archeological, anthropological, and contemporary community studies, this course will explore the diversity of traditional North American Indian and Inuit cultures and the adaptation of indigenous peoples to America. ",
+      "prerequisite": [
+        "ANT 101"
+      ]
+    },
+    {
+      "id": "AshFord_ANT 351",
+      "course name": "Anthropology of Religion, Magic, & Ritual",
+      "units": "3 Credits",
+      "description": "This course examines the nature of religious belief systems, myth and ritual, witchcraft, and magic and sorcery in various societies of the world. These behavioral and symbolic forms exist or have existed in virtually all human societies and cultures. In this course, students will study many different belief systems, define these entities; and develop an understanding of how they work in societies. The differences among traditions in nation states on cultures and political systems will be explored. ",
+      "prerequisite": [
+        "ANT 101"
+      ]
+    },
+    {
+      "id": "AshFord_ANT 353",
+      "course name": "Anthropology of Gender",
+      "units": "3 Credits",
+      "description": "This course examines cross-cultural analysis of gender roles, while focusing on non-Western societies, using data from other societies to better understand the gender system of our own culture. Issues include status of women and men, the meaning of femaleness and maleness historically and in contemporary society. Gender roles, transnational migrations, social movements, international relations and religion are explored."
+    },
+    {
+      "id": "AshFord_ANT 462",
+      "course name": "Anthropological Research Methods",
+      "units": "3 Credits",
+      "description": "The course introduces students to qualitative research methods. Students will learn techniques such as participant observation, informal and formal interviewing, archival research, and explore the connection between theory and methodology. The perspective guiding the course is qualitative research as an empirical, rigorous approach that analyzes and interprets social and cultural aspects of human life. "
+    },
+    {
+      "id": "AshFord_ANT 499",
+      "course name": "Ethnographic Study Capstone",
+      "units": "3 Credits",
+      "description": "This course will provide an opportunity for students to engage in a qualitative research project to practice the skills and concepts acquired throughout their programs. Particularly attentive to the problems of conducting ethnographic research in a changing world characterized by transnational ties, the course is meant to form the capstone experience for anthropology and social science majors. ",
+      "prerequisite": [
+        "ANT 462"
+      ]
+    }
+  ]
+}

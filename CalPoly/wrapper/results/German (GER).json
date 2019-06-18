@@ -1,0 +1,83 @@
+{
+  "subject": "German (GER)",
+  "courses": [
+    {
+      "Course number & title": " Elementary German I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Beginning German. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and conversation. Language taught in its intercultural context. 3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Elementary German II",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and conversation.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Elementary German III",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and conversation.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Intermediate German I",
+      "Number of units": "4 units",
+      "Term": "GE Area C5",
+      "Course description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in German within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "Course number & title": " Intermediate German II",
+      "Number of units": "4 units",
+      "Term": "GE Area C5",
+      "Course description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in German within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "Course number & title": " Intermediate German III",
+      "Number of units": "4 units",
+      "Term": "GE Area C5",
+      "Course description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in German within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "Course number & title": " Critical Reading in German Literature",
+      "Number of units": "4 units",
+      "Term": "GE Area C1",
+      "Course description": "Selected readings from German-language authors that show the literary tradition from the Middle Ages to the present.  May include film and other media.  Conducted in German.  4 lectures.  Fulfills GE C1."
+    },
+    {
+      "Course number & title": " Selected Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics.  Open only to undergraduate students.  Conducted in German.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " Advanced German Composition and Grammar",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Written and oral development of structural grammar, syntax and complex components of German.  Vocabulary expansion and idiomatic construction.  Written compositions.  May include German/English translation.  Conducted in German.  4 lectures."
+    },
+    {
+      "Course number & title": " Advanced German Conversation and Grammar",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Oral and written development of structural grammar, syntax and complex components of German.  Expansion of vocabulary and idiomatic expressions through topics focusing on culture.  Individual and/or group presentations.  Conducted in German.  4 lectures."
+    },
+    {
+      "Course number & title": " Significant Works in German",
+      "Number of units": "4 units",
+      "Term": "GE Area C4",
+      "Course description": "Critical analysis and oral discussion of poetry, essays, novels, plays, films, and other media by selected German-language authors.  Conducted in German.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 lectures.  Fulfills GE C4 except for Modern Languages and Literatures majors."
+    },
+    {
+      "Course number & title": " German Literature in English Translation",
+      "Number of units": "4 units",
+      "Term": "GE Area C4",
+      "Course description": "Selected works to be read by students in English translation.  Critical analysis, interpretation, and comparison of works by German-language authors.  Course may include film and other media.  Discussion in English.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.  Fulfills GE C4 except for Modern Languages and Literatures majors."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Conducted in German.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures."
+    }
+  ]
+}

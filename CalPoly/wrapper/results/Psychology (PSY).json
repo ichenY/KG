@@ -1,0 +1,503 @@
+{
+  "subject": "Psychology (PSY)",
+  "courses": [
+    {
+      "Course number & title": " Special Problems for Undergraduates",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Individual investigation, research, study or survey of selected problems in consultation and with prior approval of instructor.  Written report required.  Total credit limited to 4 units."
+    },
+    {
+      "Course number & title": " General Psychology",
+      "Number of units": "4 units",
+      "Term": "GE Area D4",
+      "Course description": "Introduction to the psychological study of human beings. Applications and research in area such as psychobiology, perception, learning, motivation, consciousness, memory and cognition, personality, emotion, development, psychological assessment, social behavior, psychopathology and psychotherapy. A student may enroll for credit in either PSY201 or PSY202, but not both. Course may be offered in classroom-based or online format. 4 lectures. Fulfills GE D4."
+    },
+    {
+      "Course number & title": " General Psychology",
+      "Number of units": "4 units",
+      "Term": "GE Area D4",
+      "Course description": "Introduction to the psychological study of human beings. Applications and research in area such as psychobiology, perception, learning, motivation, consciousness, memory and cognition, personality, emotion, development, psychological assessment, social behavior, psychopathology and psychotherapy. A student may enroll for credit in either PSY201 or PSY202, but not both. 3 lectures, 1 discussion. Fulfills GE D4."
+    },
+    {
+      "Course number & title": " Interpersonal Communication",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Introduction to the interaction process in two-person (dyadic) communication settings.  Emphasis on the functions of varying messages in the initiation, development, maintenance and termination of personal and professional relationships.  4 lectures.  Crosslisted as COMS/PSY212."
+    },
+    {
+      "Course number & title": " Laboratory in Group Activities",
+      "Number of units": "1-3 units",
+      "Term": "CR/NC",
+      "Course description": "Skills and techniques of solving problems in large and small groups. Conducting and reporting meetings. Analyses of leadership dynamics in campus organizations. Credit/No Credit grading only. Total credit limited to 6 units. 1-3 activities."
+    },
+    {
+      "Course number & title": " Social Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "How attitudes, beliefs, and behavior are affected by the social situation.  Gender roles, prejudice, aggression, altruism, attitudes and persuasion, liking and loving, and group behavior.  Use of social psychology to understand diversity issues, reduce racism and sexism and international conflict, improve relationships, and communicate persuasively.  4 lectures."
+    },
+    {
+      "Course number & title": " Family Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Introduction to research and theory on family relationships and behavior across the lifespan.  Contextual influences, diversity of family forms, and topics such as love, mate selection, marital quality, parenting, gender, household work, divorce, and remarriage.  4 lectures.  Crosslisted as CD/PSY254."
+    },
+    {
+      "Course number & title": " Developmental Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Introduction to the scientific study of development with emphasis on the lifespan, from infancy to old age.  Basic research and concepts in understanding social, emotional, cognitive, contextual, and diversity influences on development.  4 lectures.  Crosslisted as CD/PSY256."
+    },
+    {
+      "Course number & title": " African American Psychology",
+      "Number of units": "4 units",
+      "Term": "USCP",
+      "Course description": "A historical overview of African American psychology, and a critical examination of the psychocultural forces (e.g., history of slavery, racism, oppression, education, familial factors) that have helped to shape the beliefs, attitudes, identities, behavior, and well-being of African Americans."
+    },
+    {
+      "Course number & title": " Selected Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " Psychology of Personal Development",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Application of developmental psychology to self awareness.  Includes communication skills, self modification skills and examination of life goals and values.  4 lectures."
+    },
+    {
+      "Course number & title": " Behavior in Organizations",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Characteristics of functioning organizations and their effects on individuals.  Psychological issues relevant to the maintenance of the organization.  Motivation, leadership, group phenomena, communication, decision-making, attitudes, personnel selection and organizational change.  4 lectures."
+    },
+    {
+      "Course number & title": " Intergroup Dialogues",
+      "Number of units": "4 units",
+      "Term": "GE Area D5",
+      "Course description": "Weekly meetings of students from two distinct self-defined identity groups, with trained peer facilitators, in which readings, experiential activities, informed dialogue, and reflective writing are integrated as a means of encouraging self and group awareness and exploring ways to promote just community across difference.  Supplemented by weekly lecture/discussions.  2 lectures, 2 discussions.  Crosslisted as CRP/PSY304.  Fulfills GE D5 except for the following majors:  City and Regional Planning, Child Development, and Psychology."
+    },
+    {
+      "Course number & title": " Personality",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Personality theories and research.  Assessment, dynamics, and development of personality.  Trait, behavioral, social learning, cognitive, humanistic, psychoanalytic and biological approaches.  4 lectures."
+    },
+    {
+      "Course number & title": " Adolescence",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Psychological analysis of the years from prepubescence to young adulthood.  Current research on behavior and development during adolescence with emphasis on physical, affective, cognitive, sociocultural, historical, family, peer and school aspects of life during the post-child, pre-adult years.  4 lectures.  Crosslisted as CD/PSY306."
+    },
+    {
+      "Course number & title": " Psychology of Death",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Psychological aspects of death, loss and grief, including scientific findings, person-culture transactions and expressions in the arts and humanities.  Personal exploration and interdisciplinary application of psychology to issues such as death anxiety, dying processes, funerals, immortality beliefs, suicide, and grieving.  4 lectures."
+    },
+    {
+      "Course number & title": " Environmental Psychology",
+      "Number of units": "4 units",
+      "Term": "GE Area D5",
+      "Course description": "Interrelationship between behavior and the built and natural environments.  Evaluating and understanding environments, environmental stress, and the human aspects of environmental problems.  4 lectures.  Fulfills GE D5 except for Psychology and Child Development majors."
+    },
+    {
+      "Course number & title": " Psychology of Stress",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Examines the relationship between stress and psychological and physical well-being.  Research on the psychological factors influencing stress as well as a description and critical evaluation of methods of stress reduction.  4 lectures."
+    },
+    {
+      "Course number & title": " Psychology of Aging",
+      "Number of units": "4 units",
+      "Term": "GE Area D5",
+      "Course description": "Psychological and physiological aging in the context of the culture.  Theories and research relating to the issues of stability and both positive and negative changes in perception, learning, memory, intelligence, personality, identity, motivation, sexuality, family relationships, career.  Disorders, institutionalization, death and bereavement.  4 lectures.  Fulfills GE D5 except for Psychology and Child Development majors."
+    },
+    {
+      "Course number & title": " Health Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Scientific study of how mental, behavioral, and social processes affect physical health.  Topics include health-risk behaviors and promotion of personal control over health improvement, social status and health disparities, stress and coping, and the patient-provider relationship.  4 lectures."
+    },
+    {
+      "Course number & title": " The Helping Relationship",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Basic skills and approaches common to helping relationships with children, adults, and families.  Examines theoretical, empirical, and practical applications of helping.  Differentiation between professional, paraprofessional, and nonprofessional helping relationships.  2 lectures, 2 activities."
+    },
+    {
+      "Course number & title": " Psychology of Gender",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SU",
+      "Course description": "Investigation of psychological genders and sexualities beyond ideas associated with biological sex.  Exploration of sex/gender/sexuality differences from a social psychological (e.g., socialization) perspective.  Implications of gender roles (including masculinity, femininity, non-binary) and sexual identities for relationships and health.  4 lectures.  Crosslisted as PSY/WGS324."
+    },
+    {
+      "Course number & title": " Introduction to Positive Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Scientific study of the enhancement of strengths and optimal functioning in humans.  Basic research, assessment and helping concepts in understanding optimal functioning within diverse populations.  4 lectures."
+    },
+    {
+      "Course number & title": " Research Methods in Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Introduction to research methods used in psychology and other behavioral sciences.  Topics include the logic and ethics of research; experimental, correlational, and survey methodology; library search strategies; basic statistical procedures; and the format of the research report.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Behavioral Effects of Psychoactive Drugs",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Pharmacokinetic, pharmacodynamic and behavioral effects of psychoactive drugs.  Social and psychological issues related to drug use and misuse.  4 lectures."
+    },
+    {
+      "Course number & title": " Quantitative Research Methods for the Behavioral Sciences",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Thorough introduction to the quantitative aspects of empirical research.  Using SPSS statistical software, students will learn how to choose, conduct, and interpret analyses of research data from different behavioral science disciplines.  2 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Biopsychology",
+      "Number of units": "4 units",
+      "Term": "GE Area B5",
+      "Course description": "Relationship between physiological and behavioral processes such as learning and memory, language, sleep, and abnormal behavior.  Information processing, biochemistry, and structural organization at the cellular and nervous system levels.  4 lectures.  Fulfills GE B5."
+    },
+    {
+      "Course number & title": " Behavioral Genetics",
+      "Number of units": "4 units",
+      "Term": "GE Area B5",
+      "Course description": "Examine the relative influence of genetic and environmental factors on human behavior.  Emphasis on the foundation and application of behavioral genetics to the field of psychology.  Topics include heritability, gene-environment interplay, ethics, and emerging technologies.  4 lectures.  Fulfills GE B5."
+    },
+    {
+      "Course number & title": " Teamwork",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Group dynamics applied to teams.  Topics include team development, basic team processes, conflict management, decision making, leadership, problem solving, and the impacts of diversity and culture on teams.  Focus on effective use of teams in the workplace.  Not open to students with credit for PSY351.  4 lectures."
+    },
+    {
+      "Course number & title": " Group Dynamics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Dynamics of small groups.  Topics include functions of groups, group structure, power, leadership, intragroup conflict, personal space and territoriality, groups as agents of societal and personal change.  Demonstrations emphasizing experiential learning in groups.  Not open to students with credit for PSY350.  2 lectures, 2 activities."
+    },
+    {
+      "Course number & title": " Conflict Resolution: Violent and Nonviolent",
+      "Number of units": "4 units",
+      "Term": "GE Area D5",
+      "Course description": "Psychological, situational, political, and cultural determinants of violence and nonviolence in interpersonal, intergroup, and international conflict.  Self-assessment of conflict resolution attitudes, competencies, and behaviors.  Negotiation, mediation, and other approaches to conflict management.  Educational and structural approaches to violence prevention.  4 lectures.  Fulfills GE D5 except for Psychology and Child Development majors."
+    },
+    {
+      "Course number & title": " Applied Social Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Applications of social psychology to education, business and industry, environmental problems, interpersonal and intergroup relations, health and welfare, mass communication, judicial systems, and politics.  Analysis of social and organizational problems, methods of intervention, and program evaluation.  4 seminars."
+    },
+    {
+      "Course number & title": " Introduction to Clinical and Counseling Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Introduction to the fields of clinical and counseling psychology.  History, education and training, theories, assessment, diagnosis, and treatment.  Introduction to diverse settings, ethical principles, legal guidelines, credentialing and employment opportunities.  4 lectures."
+    },
+    {
+      "Course number & title": " Multicultural Psychology",
+      "Number of units": "4 units",
+      "Term": "USCP",
+      "Course description": "The impact of culture, ethnicity, and race on human behavior within the framework of psychological theory and research.  Emphasis on ethnic minority groups within the U.S.  including:  African Americans, Native Americans, Asian Americans/Pacific Islanders, and Latino/a Americans.  Not open to students in MS Psychology program.  4 seminars."
+    },
+    {
+      "Course number & title": " Forensic Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Application and practice of psychology in both the civil and criminal justice systems.  Examination of police and investigative psychology, correctional psychology, expert witness testimony, psychological evaluations for the courts, understanding aggression.  4 lectures."
+    },
+    {
+      "Course number & title": " Special Problems for Advanced Undergraduates",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Individual investigation, research, study or survey of selected problems in consultation and with prior approval of instructor.  Written report required.  Total credit limited to 4 units."
+    },
+    {
+      "Course number & title": " Special Problems: Experiential Learning",
+      "Number of units": "2-4 units",
+      "Term": "CR/NC",
+      "Course description": "Supervised experience in various community, governmental, educational, or research settings.  Especially designed for individuals in applied settings requiring additional hours or a pre-fieldwork training experience.  Applied psychological, developmental, or educational experiences determined by participating institution, supervising faculty member, and student.  Cannot be substituted for PSY448, PSY449, PSY453, or PSY454.  Credit/No Credit grading only.  Total credit limited to 4 units."
+    },
+    {
+      "Course number & title": " Abnormal Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Normal and abnormal behavior in everyday life.  Anxiety, somatoform, dissociative, mood, childhood, personality, psychotic, cognitive, eating, and substance use disorders and their treatment.  4 lectures."
+    },
+    {
+      "Course number & title": " History and Systems of Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Survey of the philosophical and scientific roots of modern psychology, pioneer laboratories, systems, and schools of psychology, the refining of experimental methods, and applications of psychology in testing and psychological services.  Examination of contributions by women and minorities in psychology.  4 seminars."
+    },
+    {
+      "Course number & title": " Interpersonal Relationships in Childhood and Adolescence",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Current theories and research on the development of interpersonal relationships in childhood and adolescence.  Topics may include parent-child relationships, peer relationships in childhood, intimate relationships in adolescence.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.  Crosslisted as CD/PSY417."
+    },
+    {
+      "Course number & title": " Self and Identity",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Concepts, theories, and research related to the development of the self across the lifespan.  Examination of the influence of temperament, culture, individuation, self-esteem, self-awareness, roles and identity on maturity.  4 seminars."
+    },
+    {
+      "Course number & title": " Sensation and Perception",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Principles of sensory systems, psychophysics, attention and the perception of color, shape, movement, space, and time.  Survey of the development of perception through the lifespan.  4 lectures."
+    },
+    {
+      "Course number & title": " Assessing Children's Development and Environments",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Current developmental and environmental assessments used in care and educational settings and in prevention programs and research.  Practice using, creating, and evaluating child assessments.  3 lectures, 1 activity.  Crosslisted as CD/PSY431."
+    },
+    {
+      "Course number & title": " Psychological Testing",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Theory and practice of psychological measurement and testing.  Principles of test construction, administration, and interpretation.  Survey of common testing domains such as intelligence, scholastic aptitude and achievement, and personality.  4 lectures."
+    },
+    {
+      "Course number & title": " Research Internship I",
+      "Number of units": "5 units",
+      "Term": "CR/NC",
+      "Course description": "Faculty-supervised research experience on various topics in psychology.  Student apprenticeship with a department faculty member to conduct research.  Responsibilities include some or all of the following:  collecting data, entering and/or analyzing data, electronic literature search, report writing.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Research Internship II",
+      "Number of units": "5 units",
+      "Term": "CR/NC",
+      "Course description": "Faculty-supervised research experience on various topics in psychology.  Student apprenticeship with a department faculty member to conduct research.  Responsibilities include some or all of the following:  collecting data, entering and/or analyzing data, electronic literature search, report writing.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Family Intervention",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Basic elements of marriage and family therapy and crisis intervention.  Emphasis on concepts, goals, and techniques of various family therapy approaches and family crisis intervention.  4 lectures."
+    },
+    {
+      "Course number & title": " Supervised Fieldwork I",
+      "Number of units": "5 units",
+      "Term": "CR/NC",
+      "Course description": "Supervised fieldwork experience in various community, governmental, and educational settings.  Applied psychological, developmental, or educational experiences determined by participating institution, supervising faculty member, and student.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Supervised Field Work II",
+      "Number of units": "5 units",
+      "Term": "CR/NC",
+      "Course description": "Supervised fieldwork experience in various community, governmental, and educational settings.  Applied psychological, developmental, or educational experiences determined by participating institution, supervising faculty member, and student.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Behavioral Disorders in Childhood",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Applications of psychological principles to childhood behavioral disorders.  Aggression, delinquency, stress reactions, motivational, perceptual-attentional deficiencies, psychoses, anxiety disorders, biological dysfunctions, and social, emotional and intellectual disabilities.  4 seminars.  Crosslisted as CD/PSY456."
+    },
+    {
+      "Course number & title": " Memory and Cognition",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Principles and theories of memory and cognition including processes; models of perception, attention and memory; concept formation; language; intelligence; problem-solving and decision making; creativity; applications to areas such as law, artificial intelligence, and education.  4 lectures."
+    },
+    {
+      "Course number & title": " Learning",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Theoretical and philosophical foundations of the experimental analysis of behavior.  Principles of classical and operant conditioning including aversive control of behavior through punishment and avoidance learning and the theoretical basis for behavior therapy techniques and applications of learning principles in education and health settings.  4 lectures."
+    },
+    {
+      "Course number & title": " Lifespan Theories",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Comparative study of theories that have been offered as explanations for lifespan development.  Controversial issues, evaluations and applications of theories.  Emphasis on biological, psychological, and social aspects of lifespan development.  4 seminars."
+    },
+    {
+      "Course number & title": " Child Abuse and Neglect",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Issues in child maltreatment, including definitions and forms, causes, consequences, assessment, reporting, treatment, and prevention.  Possible links among research, intervention, and public policy will be emphasized.  4 seminars.  Crosslisted as CD/PSY460."
+    },
+    {
+      "Course number & title": " Senior Project Seminar",
+      "Number of units": "1 unit",
+      "Term": "CR/NC",
+      "Course description": "Discussion of occupational and graduate school opportunities and of current issues in psychology for the purpose of defining professional objectives and individual projects for PSY462.  Senior project progress reports with class critique.  Credit/No Credit grading only.  1 seminar."
+    },
+    {
+      "Course number & title": " Senior Project",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Design and completion of a faculty-supervised project in psychology.  The project must be presented in a formal, written report.  Minimum of 90 hours total time."
+    },
+    {
+      "Course number & title": " Cross-Cultural International Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W, SP",
+      "Course description": "Psychological, cultural, ecological and behavioral influences on human development in different cultural settings.  Focuses on from one to three different cultures outside the U.S.  in any given quarter.  4 seminars."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 seminars."
+    },
+    {
+      "Course number & title": " The Social Psychology of Prejudice",
+      "Number of units": "4 units",
+      "Term": "USCP",
+      "Course description": "Examination of social psychological frameworks for understanding the origins and consequences of prejudice and ways to improve relationships between people who come from different social groups (e.g., race, ethnicity, class, age, sexual orientation, gender).  4 lectures.  Fulfills USCP."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "6 units",
+      "Term": "CR/NC",
+      "Course description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 6 units; total credit limited to 12 units.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "12 units",
+      "Term": "CR/NC",
+      "Course description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 6 units; total credit limited to 12 units.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Individual Study",
+      "Number of units": "1-6 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Advanced study planned and completed under the direction of a member of the department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Enrollment by petition.  Only 6 units may be applied to degree requirements."
+    },
+    {
+      "Course number & title": " Psychopharmacology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Advanced course in brain-behavior relationships.  Neuropathology of brain disorders including the neurochemical etiology and treatment of mental illness and chemical dependency.  4 seminars."
+    },
+    {
+      "Course number & title": " Marriage & Family Therapy: Professional Identity, Theory and Practice",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "History, development, and systemic foundations of the field of Marriage and Family Therapy.  Major models and theories of family therapy with focus on the sociocultural contexts of defining healthy and dysfunctional dynamics, treatment goals, and associated approaches.  Current issues relating to professional identity and functioning in the field.  4 seminars."
+    },
+    {
+      "Course number & title": " Child and Adolescent Psychopathology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Etiological, assessment, diagnostic, and treatment models of child and adolescent disorders.  Diagnostic and Statistical Manual of Mental Disorders.  Genetic, neurobiological, environmental, and sociocultural factors of childhood disorders within a developmental perspective.  Current theory, research, and practice emphasized.  4 seminars."
+    },
+    {
+      "Course number & title": " Counseling & Communication",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Overview of the counseling profession, history, philosophy, theory, and ethics.  Emphasis on developing interviewing, assessment and communication skills.  3 seminars, 1 activity."
+    },
+    {
+      "Course number & title": " Multicultural Counseling and Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Psychological, cultural, and ecological analysis of the experiences and histories of various cultural groups within the United States.  Development of personal self-awareness of multicultural issues and culturally relevant counseling skills.  4 seminars."
+    },
+    {
+      "Course number & title": " Individual Therapy: Theory and Application",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Counseling theories and concepts applied to individuals.  Develop skills in interviewing, assessment, intervention selection, termination and crisis intervention.  Ethics and law included.  4 seminars."
+    },
+    {
+      "Course number & title": " Ethics and the Law: MF Therapy",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SU",
+      "Course description": "Ethical, legal and case management issues related to individual, child, family and group therapy.  Client rights and professional orientation to ethical standards and state regulation of clinical practice.  4 seminars."
+    },
+    {
+      "Course number & title": " Diagnosis and Treatment: Psychopathology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Assessment of mental status.  Diagnostic and statistical Manual of Mental Disorders, treatment planning, treatment case documentation and research applied to client psychopathology.  4 seminars."
+    },
+    {
+      "Course number & title": " Group Therapy: Theory and Application",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Group therapy theory, leadership and research applied to client assessment, screening, treatment selection, evaluation and termination.  Ethics, law included.  4 seminars."
+    },
+    {
+      "Course number & title": " Advanced Psychotherapies",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Theory and application of advanced approaches in psychotherapy, including, but not limited to:  cognitive-behavioral therapies, psychodynamic therapies and humanistic/existential therapies.  The Schedule of Classes will list therapy selected.  Total credit limited to 12 units.  4 seminars."
+    },
+    {
+      "Course number & title": " Counseling Clinic Practicum",
+      "Number of units": "3 units",
+      "Term": "CR/NC",
+      "Course description": "Applied experience and instruction in assessment, diagnosis, treatment planning and treatment of individuals, couples, families and children under direct supervision of faculty in program clinic.  Total credit limited to 12 units.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  Open to graduate students and selected seniors.  Class Schedule will list topic selected.  Total credit limited to 8 units.  4 seminars."
+    },
+    {
+      "Course number & title": " Advanced Family Therapy: Theory and Application",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Theory and application of process, structural and systems approaches to family therapy.  Assessment, diagnosis, treatment and follow-up of family therapy.  Ethics and law related to family therapy.  4 seminars."
+    },
+    {
+      "Course number & title": " Child and Adolescent Therapy: Theory and Application",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Assessment, diagnosis, treatment planning and therapeutic modalities appropriate for children and adolescents.  Both theoretically based and empirically based treatment approaches presented.  Instruction in the assessment and treatment of abuse and neglect of children with relevant ethics and law.  4 seminars."
+    },
+    {
+      "Course number & title": " Psychological Assessment",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Administration, scoring and interpretation of psychological tests.  Reliability and validity of psychological measures.  Ethical and cultural issues in testing.  4 seminars."
+    },
+    {
+      "Course number & title": " Gender and Couple Therapy",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Antecedents to sex-role identity, gender aware therapy, couple therapy, treatment of spousal/partner abuse; human sexuality, behavior, and psychosexual dysfunction.  4 seminars."
+    },
+    {
+      "Course number & title": " Traineeship: Marital and Family Therapy",
+      "Number of units": "4 units",
+      "Term": "CR/NC",
+      "Course description": "Supervised experience in applied psychotherapeutic techniques, assessment, diagnosis and treatment of individual, marital, family and child relationship problems.  Total credit limited to 16 units.  Credit/No Credit grading only.  Weekly seminar with on-site and university supervisors."
+    },
+    {
+      "Course number & title": " Community Mental Health: Issues and Practices",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "An overview of community mental health as envisioned via California's Mental Health Services Act.  Examination of the opportunities and challenges in delivering effective mental health services in publicly-funded settings.  Exploration of concepts and practices, including the recovery model and innovative approaches.  4 seminars."
+    },
+    {
+      "Course number & title": " Research Methods for Counseling Psychology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Research methods relevant to practitioners in counseling psychology and human services.  Basic understanding of descriptive and inferential statistics as well as applications related to these topics.  4 seminars."
+    },
+    {
+      "Course number & title": " Assessment and Treatment of Substance Use Disorders",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Etiological and biopsychosocial factors, as well as assessment, diagnosis, and evidence-based treatment of substance use disorders.  Differential diagnosis, co-occurrence with other conditions, unique population concerns, including use across the lifespan, and local treatment options will be discussed.  4 seminars."
+    },
+    {
+      "Course number & title": " Thesis",
+      "Number of units": "2-4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Completion of a thesis pertinent to the fields of psychology and human services.  Total credit limited to 8 units."
+    }
+  ]
+}

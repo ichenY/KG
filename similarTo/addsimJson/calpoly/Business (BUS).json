@@ -1,0 +1,1387 @@
+{
+  "subjectOf": {
+    "id": "BUS",
+    "subject": "Business"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Business"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_BUS 100",
+      "course name": "Student Orientation and College Success",
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Orientation to majors, minors, and concentrations within the College. Development of a personalized four - year plan to graduation. Career exploration for future career planning and concentration selection. Skills for academic success : goal setting, time management, study skills, registration systems / strategies, adjustment to college life. Credit / No Credit grading only.",
+      "format": "2 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit",
+      "grading": "limited to 4 units"
+    },
+    {
+      "id": "CalPoly_BUS 205",
+      "course name": "Personal Finance",
+      "units": "4 units",
+      "term": [
+        "Summer"
+      ],
+      "description": "Introduction to personal financial planning, including budgeting and savings, tax planning, insurance planning, equity and fixed income investments, and estate and retirement planning. Course offered online only.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 401"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 206",
+      "course name": "Business Professionalism and Career Readiness I",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Career development and preparation which includes self exploration, interpersonal communication, job functions and opportunities for different business disciplines, and formulation of career development plans. Application of technology for personal marketing plan and career development. Credit / No Credit grading only.",
+      "format": "1 activity."
+    },
+    {
+      "id": "CalPoly_BUS 207",
+      "course name": "Legal Responsibilities of Business",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Examination of the American legal system and important legal principles for business operations, such as those involved with contracts, torts, agency, business organizations, and employment. Emphasis on how legal principles help define socially responsible conduct. Case studies.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 212",
+      "course name": "Financial Accounting for Nonbusiness Majors",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to financial accounting theory and practice with an emphasis on financial statement preparation and analysis. Not open to Business majors.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 214",
+      "course name": "Financial Accounting",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Principles of financial accounting for Business majors. The course prepares students to understand and interpret financial statement information. Financial reporting standards are explored to give students an understanding of how financial events are reflected in financial statements.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 215",
+      "course name": "Managerial Accounting",
+      "prerequisite": [
+        "BUS 212 or BUS 214 or equivalent"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Applications of accounting for making business decisions. Content includes planning and control issues including cost behavior, budget preparation, performance reporting ; addresses social responsibility and employee motivational and behavioral considerations. Preparation of spreadsheet applications useful for decision - making.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 630"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 220",
+      "course name": "Business Basics for Entrepreneurs",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Summer"
+      ],
+      "description": "Basic business concepts for non - business major entrepreneurs, including unit economics and simple financial statements, intellectual property, entrepreneurial marketing, information technology, team management, and business ethics.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 301",
+      "course name": "Global Financial Institutions and Markets",
+      "prerequisite": [
+        "ECON 222"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Role of private and public financial institutions in allocating capital globally and promoting international commerce. Financial institutions covered include the FED, IMF, World Bank, investment banks and others. Detailed exploration of the history and functions of these institutions.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 302",
+      "course name": "International and Cross Cultural Management",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Dimensions of culture and its variations within and across nations. Impact of culture on managing in a global context. Development of managerial competencies requisite to working in and supervising multicultural groups in international corporations. Frameworks for analyzing cultural and contextual influences on organizational behavior, culture shock and readjustment, expatriation and repatriation, cultural change and innovation, intercultural conflict, and ethical dilemmas. Case studies, behavioral simulations, self - assessments and fieldwork.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 303",
+      "course name": "Introduction to International Business",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Special terms, concepts, and institutions associated with the environment in which international companies operate. Students will be enabled to understand, analyze and offer solutions to global business problems.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 378",
+        "AshFord_BUS 616",
+        "AshFord_BUS 357"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 304",
+      "course name": "International Supply Chains",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Development of effective supply chains that cross national boundaries with specific examples of import / export between the United States and target country. Study tour to target country as an essential course activity. Pre - trip lectures, readings and assignments ; on - the - road business tours, and post - trip import - export proposal. Conducted in English ; no prior international business or travel experience required. Passport and Visa required. Field trip required. The Schedule of Classes will list country selected.",
+      "format": "3 lectures, 1 activity.",
+      "similarTo": [
+        "AshFord_BUS 631"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 306",
+      "course name": "Business Professionalism and Career Readiness II",
+      "prerequisite": [
+        "BUS 206"
+      ],
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Continuation of BUS206, with interpersonal leadership, networking, business communication, salary and benefit negotiations, and professional image management. Credit / No Credit grading only.",
+      "format": "1 activity."
+    },
+    {
+      "id": "CalPoly_BUS 310",
+      "course name": "Introduction to Entrepreneurship",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Role and impact of entrepreneurship and technology startups ; characteristics and traits of entrepreneurs ; opportunity identification and assessment ; frameworks for building startups ; the founding team ; organizational and legal issues ; business and value proposition models ; acquiring resources ; entrepreneurial risk ; realizing and harvesting value. 4 lectures. Crosslisted as BUS / ENGR310.",
+      "similarTo": [
+        "AshFord_BUS 362"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 311",
+      "course name": "Managing Technology in the International Legal Environment",
+      "units": "4 units",
+      "term": [
+        "ge area d5"
+      ],
+      "description": "Analysis of U.S. and international laws regarding technological innovations from economic, social and political perspectives. Copyrights, patents, trademarks, trade secrets, contracts, products liability and privacy. The Internet, computer programs and biotechnology. 4 lectures. Fulfills GE Area D5 except for Business Administration majors."
+    },
+    {
+      "id": "CalPoly_BUS 313",
+      "course name": "Customer Development",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Experiential approach to understanding the customer development process, including strategies to identify and reach potential customers. Design and implementation of customer discovery, customer validation, and customer acquisition strategies.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 319",
+      "course name": "Accounting Information Systems",
+      "prerequisite": [
+        "BUS 214 or Accounting minors with credit in AGB 214"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Comprehensive coverage of manual and computerized accounting processes and internal controls.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_BUS 320",
+      "course name": "Federal Income Taxation for Individuals",
+      "prerequisite": [
+        "BUS 319"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Federal income taxation and planning for individuals. Federal role of taxation in the business decision - making process. Issues related to individual income tax preparation and introduction to basic property transactions.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 321",
+      "course name": "Intermediate Accounting I",
+      "prerequisite": [
+        "BUS 319"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Comprehensive coverage of financial reporting issues. Covers financial statements, assets other than investments and intangibles, and liabilities.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 322",
+      "course name": "Intermediate Accounting II",
+      "prerequisite": [
+        "BUS 321 with minimum grade of C-"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Comprehensive coverage of financial reporting issues. Covers investments, intangibles, equities, revenue recognition and the Cash Flows Statement.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 323",
+      "course name": "Intermediate Accounting III",
+      "prerequisite": [
+        "BUS 322"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Detailed examination of the technical and theoretical aspects of accounting for leases, pensions, income taxes, accounting changes and errors, and consolidated financial reporting.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 342",
+      "course name": "Fundamentals of Corporate Finance",
+      "prerequisite": [
+        "BUS 214 with a grade of C- or better",
+        "STAT 252 or any 300 level statistics course"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Theory and applications of financing business operations. Financial management of current and fixed assets from internal and external sources. Analysis, planning, control, and problem solving. The use of technology in the form of financial calculators and/or spreadsheets.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 657"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 346",
+      "course name": "Principles of Marketing",
+      "prerequisite": [
+        "ECON 222 with a grade of C- or better for Business Administration"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Development of an understanding of the marketing process : identifying target markets ; developing and launching products or services ; and managing pricing, promotion, and distribution strategies.",
+      "format": "2 lectures, 2 discussions.",
+      "similarTo": [
+        "AshFord_BUS 330"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 382",
+      "course name": "Organizations, People, and Technology",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Evaluation of macro dimensions of business organizations including environment, mission, goals, strategies, structure, people, technology, and internal management systems and processes. Case analysis, experiential class activities. Application to business solutions in technology - oriented settings.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 384",
+      "course name": "Human Resources Management",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to functional areas of the discipline including staffing, compensation, employee development and labor relations. Additional workplace issues addressed include performance and human capital management, employer legal and social responsibility for employee wellbeing, managing a diverse / global workforce, and using human resource information systems.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 303",
+        "AshFord_BUS 692"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 386",
+      "course name": "Employee Training and Development",
+      "prerequisite": [
+        "BUS 384"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Needs assessment, including organization, person, and task or competency analysis. Design, delivery and evaluation of employee training and human resource development in knowledge - based organizational settings. Performance management and feedback systems ; development of learning organizations ; human resource information systems ( HRIS ) applications in career management and training administration.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 387",
+      "course name": "Organizational Behavior",
+      "prerequisite": [
+        "ECON 221",
+        "BUS 207"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Application of behavioral, social and organizational science concepts to management. Exploration of the interactions between individuals and the organizations in which they work and live. Individual, interpersonal, team, intergroup and organizational levels of analysis included in topics such as expectations, perception, communications, creativity, leadership style, cultural and ethical behavior, group dynamics, team effectiveness and work design.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 610",
+        "AshFord_BUS 318"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 389",
+      "course name": "Introduction to Business Negotiation for Entrepreneurs",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Negotiation theory and skills required for successful entrepreneurship. Emphasis on negotiation simulations and role playing, with hands - on experience in applying negotiation skills.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 688"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 391",
+      "course name": "Information Systems",
+      "prerequisite": [
+        "BUS 212 or BUS 214 for Industrial Technology",
+        "BUS 214 for all other majors"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Computer applications in business and industry. Information systems and integrated systems concepts, computer hardware and software, strategic uses of information systems, databases, data warehousing, decision support systems and artificial intelligence, network basics, electronic commerce, systems development, ethical use of information, employing technology in a socially responsible manner, and emerging trends and technologies in information systems.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 392",
+      "course name": "Business Application Development",
+      "prerequisite": [
+        "BUS 391"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "The fundamental concepts and models of application development needed to understand the key processes related to building functioning business applications and appreciate the complexity of application development. The concepts of computer programming, data structures, problem solving, programming logic, and fundamental design techniques. Up - to - date application development tools and technologies currently used by business enterprises.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 393",
+      "course name": "Database Systems in Business",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Design, development, testing, and implementation of databases for business applications. Data modeling with entity relationship diagrams ( ERD ) and class diagrams ( UML ). Data normalization, data integrity, the effect of business rules on data normalization. Advanced queries using structured query language ( SQL ). Database application development culminating in a database project.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 394",
+      "course name": "System Analysis and Design",
+      "prerequisite": [
+        "BUS 391"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Systems analysis and design. Project team creation and performance monitoring. Systems development life cycle and project management, process modeling using data flow diagrams, data modeling with Entity / Relationship ( E / R ) diagrams, Computer Assisted Software Engineering ( CASE ) tools, object modeling with Unified Modeling Language ( UML ), and prototype development.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 461"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 395",
+      "course name": "Systems Design and Implementation",
+      "prerequisite": [
+        "BUS 394 (with a minimum grade of C- or better)"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Systems design and implementation, with focus on project management and incorporating software quality into the software development process, including software testing.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit",
+      "grading": "limited to 4 units"
+    },
+    {
+      "id": "CalPoly_BUS 401",
+      "course name": "General Management and Strategy",
+      "prerequisite": [
+        "BUS 342",
+        "BUS 346",
+        "BUS 387",
+        "BUS 391",
+        "ITP 326",
+        "ITP 330",
+        "ITP 341"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Application of interdisciplinary skills to business and corporate strategy analysis formulation and implementation of business, corporate and global level strategies. Consideration of interdependence between external environments and internal systems. Focus on responsibilities, tasks, and skills of general managers, including socially responsible behavior and governance. Case studies, group problem solving, experiential class activities. Capstone course of Business core curriculum.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_BUS 402",
+      "course name": "International Business Management",
+      "prerequisite": [
+        "BUS 342",
+        "BUS 346",
+        "BUS 387"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Managerial concepts and techniques for analysis and decision making within international businesses. Environmental and organizational factors influencing multinational operations. Assessing international market opportunities and entry modes. Complexities of multinational management strategy, structure and systems, especially during initial stages of internationalization. Case studies and simulations.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 378",
+        "AshFord_BUS 616",
+        "AshFord_BUS 357"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 403",
+      "course name": "Advanced Seminar in International Management",
+      "prerequisite": [
+        "BUS 302",
+        "BUS 402"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Integration of management concepts within complex multinational organizations. Interdisciplinary approach to identifying and assessing multinational and global competitive environments and strategies ; structuring and managing interdependent multinational operations ; addressing conflicts between domestic and international policies and practices in multinational enterprises. Case studies, simulations, group analysis and problem solving.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_BUS 404",
+      "course name": "Governmental and Social Influences on Business",
+      "prerequisite": [
+        "BUS 207",
+        "ECON 222"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Analysis from legal, economic, political, and ethical perspectives, of the changing domestic and international environments of the business enterprise. Topics include administrative law, agencies and regulatory policy, antitrust law, public policy analysis, business - government relations, and corporate responsibility. Case studies.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 406",
+      "course name": "Managing Mergers, Acquisitions and Divestitures",
+      "prerequisite": [
+        "BUS 342",
+        "BUS 346",
+        "BUS 387"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Issues associated with analyzing, negotiating, and managing mergers, acquisitions and divestitures ( MADS ) using cross - cultural, interdisciplinary perspective. Rationale for decision to pursue MADS and processes for identifying targets ; valuing and negotiating MADS ; staffing and human resource management issues ; strategic control and integration ; and cross - cultural conflict and divided loyalties in domestic and international MADS. Lectures, case studies and simulation.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 407",
+      "course name": "Managing People in Global Markets",
+      "prerequisite": [
+        "BUS 387"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Impact of cultural and strategic differences on management of people in multinational organizations. Critical human resource issues in domestic and international operations.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 409",
+      "course name": "Law of Real Property",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Legal problems of acquisition, ownership and transfer of real property. Contracts, agency, estates, and co - ownership, mortgages and deeds, covenants, conditions, and restrictions, easements, landlord - tenant, and zoning.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 410",
+      "course name": "The Legal Environment of International Business",
+      "prerequisite": [
+        "BUS 207",
+        "ECON 222"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "U.S., foreign, and international law affecting international business transactions. U.S. and foreign cultural, ethical, and political norms and legal institutions, and their effect on law and business.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 688"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 412",
+      "course name": "Advanced Managerial Accounting",
+      "prerequisite": [
+        "BUS 215"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Product costing systems including hybrid costing systems, management control systems, cost allocation, activity based costing, cost information for decision making, new manufacturing environments, and strategic control systems. International dimension integrated in the course content.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 591"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 416",
+      "course name": "Volunteer Income Tax Assistance - Senior Project",
+      "prerequisite": [
+        "BUS 320 or equivalent"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Training and practice in the preparation of state and federal individual income tax returns. Coverage of the deductions and credits applicable to individuals. Students provide free tax assistance and income tax preparation to community residents under the supervision of qualified professionals.",
+      "format": "2 lectures, 2 activities."
+    },
+    {
+      "id": "CalPoly_BUS 417",
+      "course name": "Taxation of Corporations and Partnerships",
+      "prerequisite": [
+        "BUS 320 or equivalent"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Comparative study of the taxation of C corporations and flow - through tax entities, including S corporations, partnerships and limited liability companies.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 418",
+      "course name": "Listening to the Customer",
+      "prerequisite": [
+        "GRC 361",
+        "BUS 346"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Discovery and development of customer insights based on a project - oriented introduction to the research process. Development of research questions, and design and application of multiple research methods ( e.g. secondary, observation, interview, focus group, and survey research ). Exploratory and confirmatory approaches leading to the analysis, interpretation, and presentation of results.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 419",
+      "course name": "Strategic Marketing Measurement",
+      "prerequisite": [
+        "BUS 418",
+        "STAT 252"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Development of skills to gather, analyze, and report information critical for marketing decision making. Focus on primary data collection and analytical techniques ( e.g. experimental design, descriptive statistics, cross - tabulation, ANOVA, and regression ). Other methods may include data mining, GIS, and customer relationship management ( CRM ).",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 620"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 421",
+      "course name": "Marketing Analytics and Business Intelligence",
+      "prerequisite": [
+        "BUS 418"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Analysis of customer information using a broad range of tools and techniques. Application of analytic findings to marketing decision - making. Integration of data into reporting platforms that emphasize return on marketing investment.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 422",
+      "course name": "Accounting for Government and Not-For-Profit Entities",
+      "prerequisite": [
+        "BUS 321"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Accounting and reporting by state and local governments and not - for - profit entities. State and local governmental topics include : fund structures, budgetary accounting, the modified accrual basis of accounting, reporting concepts and practices, contributions, restricted resources, endowments.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 424",
+      "course name": "Accounting Ethics",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Study of professional values underlying the accounting profession. Methods for incorporation of ethical reasoning into accounting decision - making. Role of accounting ethics in development of financial statements.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 425",
+      "course name": "Auditing",
+      "prerequisite": [
+        "BUS 322"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Survey of the auditing environment including institutional, ethical, and legal liability dimensions. Introduction to audit planning, assessing materiality and audit risk, collecting and evaluating audit evidence, considering the internal control structure, substantive testing, and reporting.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 430",
+      "course name": "Internship/Cooperative Education",
+      "units": "2-12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Work experience in business, industry, government and other areas of student career interest. Periodic written progress reports, final report, and evaluation by work supervisor required. Credit / No Credit grading. Major credit limited to 4 units ; total credit",
+      "grading": "limited to 12 units."
+    },
+    {
+      "id": "CalPoly_BUS 431",
+      "course name": "Security Analysis and Portfolio Management",
+      "prerequisite": [
+        "BUS 342",
+        "ECON 339"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "In - depth analysis of equity market and its instruments. Detailed study of leading stock valuation models. Impact of changes in the firm 's fundamentals and in macroeconomic factors on stock prices. Brief introduction to equity and index derivatives.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 432",
+      "course name": "Insurance Planning and Risk Management",
+      "prerequisite": [
+        "BUS 342"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Introduction to insurance planning and risk management and its role in financial planning. Key concepts include determining risk exposure and selecting insurance products. Legal aspects of property and liability policy, life, health, and social insurance.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 323"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 433",
+      "course name": "International Finance",
+      "prerequisite": [
+        "BUS 431 or BUS 439"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Financial management of international business. International capital and money markets, international financial institutions, special problems in evaluating direct foreign investment, and financial techniques used in international business operations.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 450"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 434",
+      "course name": "Real Estate Finance",
+      "prerequisite": [
+        "BUS 439"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Analyses of real estate financing techniques and funding sources for development projects. Effects of federal, state, and local taxes on real estate investments. In - depth investigation and computer analyses of real estate investment projects.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 435",
+      "course name": "Real Estate Investment",
+      "prerequisite": [
+        "BUS 439"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Intensive investigation and computer analysis of real estate investment opportunities. Problems in real estate and property management.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 436",
+      "course name": "Entrepreneurial Finance",
+      "prerequisite": [
+        "BUS 342"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Process of financing new and fast - growing firms. Readings on the venture capital process, from seed capital through the initial public offering. Valuation of firms seeking venture capital, and those planning their initial public offering. Valuing convertible securities. Real options valuation.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_BUS 437",
+      "course name": "Retirement and Estate Planning",
+      "prerequisite": [
+        "BUS 342"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Retirement planning and employee benefits ; Social Security and Medicare ; types of retirement plans ; qualified plan characteristics ; distribution options ; and group insurance benefits. Trusts, power of attorney, and probate.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 438",
+      "course name": "Advanced Corporate Finance",
+      "prerequisite": [
+        "BUS 431",
+        "BUS 439"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Corporate finance with an emphasis on managing the corporation to create shareholder value. Detailed treatment of topics such as capital budgeting, capital structure, economic value - added, corporate distribution policy, financial distress, and mergers and acquisitions.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 439",
+      "course name": "Fixed Income Securities Market",
+      "prerequisite": [
+        "BUS 342"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Development of analytical skills for properly valuing fixed income securities. Bond pricing, yields, and volatility ; interest rate term structure and yield curve ; securities, market structure, and analytical techniques ; bond portfolio strategies and an introduction to interest rate derivatives.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 441",
+      "course name": "Computer Applications in Finance",
+      "prerequisite": [
+        "BUS 342"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "A combination lecture / computer lab course focusing on computer acquisition of financial data and the subsequent application of financial theory and analysis to this data so as to facilitate financial decision making.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_BUS 442",
+      "course name": "Introduction to Futures and Options",
+      "prerequisite": [
+        "BUS 431"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "An in - depth analysis of derivatives markets and instruments. Emphasis on the valuation of futures, options, swaps, and other derivative securities.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_BUS 443",
+      "course name": "Case Studies in Real Estate Finance",
+      "prerequisite": [
+        "BUS 431 or BUS 439"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Analytical and decision - making techniques in applying Financial Real Estate theory to business and property management valuation. Real estate valuation techniques and their application to real estate investment. Incorporates case studies, databases, and specialized real estate valuation software, such as ARGUS.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 444",
+      "course name": "Financial Engineering and Risk Management",
+      "prerequisite": [
+        "BUS 431"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Advanced course synthesizing concepts from corporate finance, derivative securities, statistics, and computer science. Emphasis on both computer programming in a matrix programming language ( Matlab ) to solve practical risk management and valuation problems, and analytical training in the area of stochastic calculus, and its application to derivative security pricing. Practical applications of derivatives for controlling risk in an international corporate environment.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 445",
+      "course name": "Ethics and Behavior Finance",
+      "prerequisite": [
+        "BUS 342"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Contemporary theoretical and empirical issues including agency theory, reputation building, game theory, and financial ethics. Discussion of the application of ethics theory to financial decisions. May include lectures, case analyses, student presentations, and guest speakers.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 446",
+      "course name": "International Marketing",
+      "prerequisite": [
+        "BUS 346"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Development of an understanding of global marketing strategy. Acquisition of information about international markets and its use to describe customers, understand markets, and make marketing mix decisions.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 455",
+        "AshFord_BUS 235",
+        "AshFord_BUS 343"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 448",
+      "course name": "The Finance of Mergers and Acquisitions",
+      "prerequisite": [
+        "BUS 438"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Comprehensive coverage of financial aspects concerning mergers and acquisitions. Valuation of companies, strategic and other motivations underlying mergers, structuring of transactions, deal tactics and strategy, leveraged buyouts, and cross - border mergers. Most suitable for careers in corporate finance, and investment banking.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 451",
+      "course name": "New Product Development and Launch",
+      "prerequisite": [
+        "BUS 418",
+        "STAT 252"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Project - based skills for developing new products and planning for their launch. Major phases of product development : product innovation strategy, idea generation and screening, concept development and testing, technology drivers. Introduction to product launch, including segmentation, targeting, positioning, pricing, and branding.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 452",
+      "course name": "Product Management",
+      "prerequisite": [
+        "BUS 419"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Development of individual and project - based skills in managing products in the growth, maturity, and decline stages of their life cycles. Emphasis on distribution, pricing, and communication strategies required to maintain distinctive product advantages. May include developing a comprehensive communication plan and acquiring market - tracking skills.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 697",
+        "AshFord_BUS 337",
+        "AshFord_BUS 201",
+        "AshFord_BUS 441",
+        "AshFord_BUS 611"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 453",
+      "course name": "Digital and New Media Marketing",
+      "prerequisite": [
+        "BUS 418",
+        "GRC 201 or GRC 377",
+        "JOUR 331",
+        "JOUR 342"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Definitions, scope, phases, and tools of digital and new media marketing communications. Planning integrated marketing communications in a systematic way across digital tools and new media channels that reflect a client organization 's strategy for managing its identity, image, and reputation.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 454",
+      "course name": "Marketing Projects",
+      "prerequisite": [
+        "BUS 451",
+        "BUS 452"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Client - based course providing an opportunity to apply marketing abilities. Teams draw upon research, analytical, and strategic marketing skills to develop an actionable plan that addresses a critical marketing challenge faced by an organization. Deliverables include research findings and written and verbal presentation to the organization and instructor.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 697",
+        "AshFord_BUS 330",
+        "AshFord_BUS 611"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 455",
+      "course name": "Marketing Strategy",
+      "prerequisite": [
+        "BUS 451",
+        "BUS 452"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Integration of key marketing concepts using tools such as computer simulations, readings, and/or case studies. Development and implementation of strategic and tactical decisions for companies and brands.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 336",
+        "AshFord_BUS 695"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 458",
+      "course name": "Solving Big World Challenges",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Apply human - centered design practices to address a social or an environmental challenge, specific to a local community. Achieve revenue - generating social impact through innovative business models. Practice team competencies including problem - solving, interviewing, brainstorming, prototyping, and written, visual, and oral communication. 4 lectures. Crosslisted as BUS / COMS458."
+    },
+    {
+      "id": "CalPoly_BUS 459",
+      "course name": "Social Media's Role in Integrated Marketing Communications",
+      "prerequisite": [
+        "BUS 453"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Integrative project experience in social media marketing and/or integrative marketing communications campaign : research target markets, identify appropriate social media and other media channels. Field trips required.",
+      "format": "4 seminars.",
+      "similarTo": [
+        "AshFord_BUS 351"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 461",
+      "course name": "Senior Project I",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Selection and analysis of a problem under faculty supervision. Problems typical of those which graduates must solve in their fields of employment. Formal report is required. Minimum 120 hours total time."
+    },
+    {
+      "id": "CalPoly_BUS 462",
+      "course name": "Senior Project II",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Selection and analysis of a problem under faculty supervision. Problems typical of those which graduates must solve in their fields of employment. Formal report is required. Minimum 120 hours total time."
+    },
+    {
+      "id": "CalPoly_BUS 463",
+      "course name": "Senior Project: Low Income Taxpayer Clinic",
+      "prerequisite": [
+        "BUS 320"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Acquire fundamental knowledge of federal tax laws and procedures in a clinical setting. Practice with multiple authoritative accounting, auditing and tax databases, conduct legal research, and business writing. Resolve real world accounting, auditing and tax controversies for Low Income Taxpayer Clinic clients."
+    },
+    {
+      "id": "CalPoly_BUS 464",
+      "course name": "Applied Senior Project Seminar",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Selection and analysis of business problems and opportunities in directed individual or group - based projects. Problems typical to those which graduates could encounter in their fields of employment. Formal report required.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_BUS 466",
+      "course name": "Senior Project: Sales Development Program",
+      "prerequisite": [
+        "AGB 309 or BUS 346"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Develop selling skills, create a sales portfolio, participate in sales role plays and sales competition, observe a salesperson in action, and explore selling as a career. Formal report required.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_BUS 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 471",
+      "course name": "Compensation",
+      "prerequisite": [
+        "BUS 384",
+        "STAT 252"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Design and management of compensation systems. Job analysis, job evaluation, wage and salary surveys, incentive systems, gainsharing, benefit administration, pay equity and legal regulation. Simulation and case study development of a wage structure, pay level and individual raise policies, administrative controls, salary and program budgets.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 473",
+      "course name": "Employment Law",
+      "prerequisite": [
+        "BUS 207",
+        "BUS 384 or equivalent"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Federal and state labor policy as expressed in common law, relevant statutes, and executive orders. Effects upon employees, management, protected groups, and the public. Current rules analyzed in a contemporary and historical context. Understanding important workplace and employment problems.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_BUS 372"
+      ]
+    },
+    {
+      "id": "CalPoly_BUS 474",
+      "course name": "Independent Study in Accounting",
+      "prerequisite": [
+        "BUS 322"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Individual investigation, research, study or survey of selected topics in accounting, auditing or taxation. Total credit limited to 8 units, repeatable in the same term. Class Schedule will list topic selected."
+    },
+    {
+      "id": "CalPoly_BUS 475",
+      "course name": "Staffing",
+      "prerequisite": [
+        "BUS 384",
+        "STAT 252"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Processes by which individuals and organizations become matched to form the employment relationship. Specific issues related to human resources planning, internal and external recruitment and selection.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 477",
+      "course name": "Managing Change and Development",
+      "prerequisite": [
+        "BUS 382 or BUS 387"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Analysis of development and trends in the field of organization change and development. Application of behavioral and organizational science knowledge and social technology to growth and change of organizations for the purpose of improving effectiveness and sustainability.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_BUS 488",
+      "course name": "Planning and Managing New Ventures",
+      "prerequisite": [
+        "BUS 215",
+        "BUS 310",
+        "BUS 342",
+        "BUS 346",
+        "BUS 436"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "The purpose and process of business planning and the challenges of managing a start - up enterprise. Preparation of a complete business plan : management and organization ; product or service ; marketing ; finance ; operating and control systems ; growth.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_BUS 489",
+      "course name": "Negotiation",
+      "prerequisite": [
+        "BUS 387"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Theory and practice of negotiation in a variety of professional and managerial contexts ( e.g., labor relations, business acquisitions, compensation, business disputes ) and in one - on - one, group, and team - based arrangements. Includes impact of culture, ethics, dispute resolution, coalitions and use of creativity to develop integrative solutions.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 491",
+      "course name": "Decision Support Systems",
+      "prerequisite": [
+        "BUS 391",
+        "STAT 251 or equivalent"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Modeling organizational systems and processes such as computer networks, transportation systems, manufacturing systems, retail systems, etc. Developing computer simulation models and animation of systems to provide decision support in selecting system design alternatives. Applying quantitative methods to model uncertainty and conduct statistical performance analysis.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 495",
+      "course name": "Software Testing",
+      "prerequisite": [
+        "BUS 392"
+      ],
+      "units": "4 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Theory and practice of software testing, including state - of - the - art practices, design issues, staffing issues, test management issues, and other related areas. Software testing tools utilized for applications testing, and test management.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 496",
+      "course name": "Electronic Commerce",
+      "prerequisite": [
+        "BUS 392"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Focus on the technology of electronic commerce, including programming, development environments and security, through a series of lectures, guest speakers, demonstrations, exercises and case studies. Networking, client / server computing, and web / database design concepts. Working e - commerce application required at end of course.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 498",
+      "course name": "Directed Topics in Information Systems",
+      "prerequisite": [
+        "BUS 392"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Specialized Information Systems ( IS ) topic selected from the IS areas of current interest. Intended for advanced IS concentration students who want to learn and acquire in - depth IS knowledge and skills. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BUS 499",
+      "course name": "Data Communications and Networking",
+      "prerequisite": [
+        "BUS 391"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Combines the fundamental concepts of data communications and networking with practical applications in business. Provides a basic understanding of the technical and managerial aspects of business telecommunication. Introduction to data communications and applications and technical fundamentals, and to network products, technologies, applications, and services.",
+      "format": "4 lectures."
+    }
+  ]
+}

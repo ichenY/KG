@@ -1,0 +1,292 @@
+{
+  "subjectOf": {
+    "id": "AG",
+    "subject": "Agriculture"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Agriculture"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_AG 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limited to 4 units, with a maximum of 2 units per quarter. Credit can only be used to satisfy free electives. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_AG 210",
+      "course name": "Agricultural Leadership Experience",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Participation in activities that promote personal growth and leadership development, including team work, cooperation, communication, problem solving, time management, and organization. Support CAFES in recruitment, public awareness, educational programs, campus tours, fundraising, and youth career development events. The Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 2 units",
+      "format": ". 1 activity."
+    },
+    {
+      "id": "CalPoly_AG 212",
+      "course name": "Leadership Practice: Poly Royal Rodeo",
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Application of the management and operations of the Poly Royal Rodeo event taking place during Open House at Cal Poly. Principles and procedures in planning, organizing, financing, promoting, and managing a major collegiate rodeo and the rodeo industry are discussed.",
+      "format": "1 lecture, 2 activities."
+    },
+    {
+      "id": "CalPoly_AG 243",
+      "course name": "Theory and Practice of Rodeo",
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Beginning through advanced skills in the event areas of college rodeo. Areas include saddle bronc, bareback, and bull riding ; calf, team, and breakaway roping ; steer wrestling, goat tying, and barrel racing. Minimum of 10 hours of laboratory per week. Total credit limited to 8 units. Credit / No Credit grading. Enrollment limited to those qualified to compete in intercollegiate rodeo."
+    },
+    {
+      "id": "CalPoly_AG 254",
+      "course name": "Introduction to Agricultural Leadership",
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Orientation to leadership development in agriculture and related settings. Principles and techniques for developing leadership skills, including exploration of personal characteristics, technical skills, interpersonal influence, commitment, goals, and power necessary for effective leaders. Issues facing leaders in agriculture.",
+      "format": "2 lectures."
+    },
+    {
+      "id": "CalPoly_AG 315",
+      "course name": "Organic Crop Production",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Origins, application, regulation and technology of organic crop production. Theoretical and practical issues surrounding organic crop production from a cross - disciplinary perspective. Topics include the history of the organic movement ; current regulation and certification ; and field management practices and technologies. Features industry guest lecturers.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Crosslisted as AEPS / AG315. Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_AG 330",
+      "course name": "Cal Poly Land: Nature, Technology, and Society",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Scientific investigation of the natural features of the Cal Poly landscape and their transformations by land management technology. Analysis of the environmental, economic, social, and political effects of agriculture, resource extraction, and construction technology on that landscape. Emphasis on the educational, land - use, and long term planning issues of technology presented by this case study. 4 lectures.",
+      "other": "Crosslisted as AG / ISLA / UNIV330. Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_AG 339",
+      "course name": "Internship in Agriculture",
+      "units": "1-12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Selected students will spend up to 12 weeks with an approved agricultural firm engaged in production or related business. Time will be spent applying and developing production and managerial skills and abilities. One unit of credit may be allowed for each full week of completed and reported internship. Credit / No Credit grading."
+    },
+    {
+      "id": "CalPoly_AG 350",
+      "course name": "The Global Environment",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Interdisciplinary investigation of how human activities impact the Earth 's environment on a global scale. Examination of population, resource use, climate change, and biodiversity from scientific / technical and social / economic/ historical / political perspectives. Use of remote sensing maps. Sustainable solutions. 4 lectures.",
+      "other": "Crosslisted as AG / EDES / ENGR / GEOG / ISLA / SCM / UNIV350. Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_AG 360",
+      "course name": "Holistic Management",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Application of holistic management, a goal - oriented, value - driven framework for making decisions that are ecologically, economically, and socially sound. Impact of technology and other tools on ecosystem processes. Holistic approach to management, especially of land - based resources, aimed toward greater biodiversity and sustainability. Not open to students with credit in AG450.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as AG / ASCI360. Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_AG 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limited to 4 units, with a maximum of 2 units per quarter. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_AG 410",
+      "course name": "Advanced Agricultural Leadership Experience",
+      "prerequisite": [
+        "AG 210"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Activities that promote personal growth and development from a leadership perspective. Special attention on recruiting, organizing, and engaging volunteers. Teambuilding, cooperation, communication, problem solving, time management, and organization skills are emphasized. Guiding students in serving others in major student activities. The Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 2 units",
+      "format": ". 1 activity."
+    },
+    {
+      "id": "CalPoly_AG 412",
+      "course name": "Advanced Leadership Practice: Poly Royal Rodeo",
+      "prerequisite": [
+        "AG 212"
+      ],
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Management and oversight of AG212 and Poly Royal Rodeo. Emphasis on becoming proficient in working as leaders and as a team with a focus on problem - solving. Annual evaluation of events and planning for the following year 's event while successfully mentoring new students.",
+      "format": "1 lecture, 2 activities."
+    },
+    {
+      "id": "CalPoly_AG 413",
+      "course name": "Committee Management: Poly Royal Rodeo",
+      "prerequisite": [
+        "AG 412"
+      ],
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Continued management of the Poly Royal Rodeo during Open House. Oversight of volunteers and committee members as well as interacting with attendees of the event. Emphasis on leadership and problem solving while working toward building a new management team.",
+      "format": "1 lecture, 1 activity."
+    },
+    {
+      "id": "CalPoly_AG 450",
+      "course name": "Applied Holistic Management",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Application of holistic management, a goal - oriented, value - driven framework for making decisions that are ecologically, economically, and socially sound. Impact of technology and other tools on ecosystem processes. Holistic approach to management, especially of land - based resources, aimed toward greater biodiversity and sustainability. Not open to students with credit in AG / ASCI360.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_AG 452",
+      "course name": "Issues Affecting California Agriculture",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Interactive seminars with speakers from government and industry covering policy and regulations affecting California agriculture. Students develop an understanding of agricultural policy and work in teams to develop a public presentation and position paper on a significant issue. Field trip to Sacramento required.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_AG 454",
+      "course name": "Agricultural Leadership Capstone",
+      "prerequisite": [
+        "AGED 404"
+      ],
+      "units": "2 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Culminating leadership experience. Appraise strengths and areas of personal growth, analyze effective strategies in leading others, examine collegiate experiences, and construct a leadership philosophy integrating the research - based leadership theory, skills and traits explored.",
+      "format": "1 lecture, 1 activity."
+    },
+    {
+      "id": "CalPoly_AG 485",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Part - time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. Formal report and evaluation by work supervisor required. No major credit allowed ; total credit limited to 12 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_AG 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Full - time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. Formal report and evaluation by work supervisor required. No major credit allowed ; total credit limited to 24 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_AG 500",
+      "course name": "Individual Study",
+      "units": "1-6 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Advanced independent study planned and completed under the direction of a member of the college faculty. Total credit",
+      "grading": "limited to 6 units"
+    },
+    {
+      "id": "CalPoly_AG 539",
+      "course name": "Graduate Internship in Agriculture",
+      "units": "1-9 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Application of theory to the solution of problems of agricultural production or related businesses in the field. Analyze specific management problems and perform general management assignments detailed in a contract between the student, the firm or organization, and the faculty advisor before the internship commences. Degree credit",
+      "grading": "limited to 6 units"
+    },
+    {
+      "id": "CalPoly_AG 581",
+      "course name": "Graduate Seminar",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Advanced topics in agriculture and natural resources. Group study of current research and industry trends. Invited speakers covering a variety of topics. Total credit",
+      "grading": "limited to 3 units."
+    },
+    {
+      "id": "CalPoly_AG 585",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Advanced study analysis and part - time work experience in student 's career field ; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government. Must have demonstrated ability to do independent work and research in career field. Total credit limited to 9 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_AG 595",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Advanced study analysis and full - time work experience in student 's career field ; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government. Must have demonstrated ability to do independent work and research in career field. Total credit limited to 9 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_AG 598",
+      "course name": "Reading and Conference",
+      "units": "1-12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Systematic development of an agricultural thesis research project including literature searches, reports and experimental design. Repeatable for up to 12 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_AG 599",
+      "course name": "Thesis",
+      "units": "1-9 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Systematic research of a significant problem. Thesis will include problem identification, significance, methods, data analysis, and conclusion. Students must enroll every quarter in which facilities are used or advisement is received. Degree credit",
+      "grading": "limited to 6 units"
+    }
+  ]
+}

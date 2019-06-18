@@ -1,0 +1,23 @@
+{
+  "courses": [
+    {
+      "term": "Fall, Spring", 
+      "description": "Processes, methodologies, tools, techniques, software, economic analysis, and life-cycle costing for managing different phases of projects. Emphasis on effective management of projects to achieve operational, managerial, and strategic goals of organizations. ", 
+      "course name": "Project Management", 
+      "units": "3 Units", 
+      "id": "CSUS_BUS 162", 
+      "prerequisite": [
+        "MGMT 102"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "BUS", 
+    "subject": "Business Administration"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Business Administration", 
+    "id": "CSUS"
+  }
+}

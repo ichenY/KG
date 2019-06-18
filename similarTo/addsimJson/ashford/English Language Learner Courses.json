@@ -1,0 +1,55 @@
+{
+  "subjectOf": {
+    "subject": "English Language Learner Courses",
+    "id": "ELL"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "English Language Learner Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_ELL 240",
+      "course name": "Linguistically & Culturally Diverse Learners",
+      "units": "3 Credits",
+      "description": "This course explores strategies and techniques to support the success of language and culturally diverse students. The values, customs, and communication styles of cultural groups and their implication for teaching are considered. Research-based instructional approaches to developing English learner literacy will be examined."
+    },
+    {
+      "id": "AshFord_ELL 242",
+      "course name": "Understanding & Teaching English Language",
+      "units": "3 Credits",
+      "description": "In this course students will study the structure of the English language in order to better understand the difficulties that arise in learning a second language. English phonology, syntax, analysis, and application of linguistic theory will be studied."
+    },
+    {
+      "id": "AshFord_ELL 351",
+      "course name": "Listening & Speaking in a Second Language",
+      "units": "3 Credits",
+      "description": "The stages of language development as well as ideas and strategies to enhance oral language learning and acquisition in the classroom will be applied in this course. Theories and methods of teaching language as communication in oral and aural modes will also be applied."
+    },
+    {
+      "id": "AshFord_ELL 353",
+      "course name": "Reading & Writing in a Second Language",
+      "units": "3 Credits",
+      "description": "The relationship between first and second language comprehension as well as the reading comprehension and writing connection will be explored in this course. The use of differentiated literacy instruction for English Language Learners will be the central focus."
+    },
+    {
+      "id": "AshFord_ELL 354",
+      "course name": "Grammar in a Second Language",
+      "units": "3 Credits",
+      "description": "This course will provide students with foundational knowledge of how and why English grammar is necessary for teaching the four language skills, and recognizing and correcting student errors. This course provides students with an overview of English grammar and strategies for implementing grammar instruction. Students will critique lesson plans in terms of best practices, and create their own lesson plans for specific student populations by applying their knowledge of English grammar and language pedagogy."
+    },
+    {
+      "id": "AshFord_ELL 355",
+      "course name": "Methods, Materials, & Technology for Learning a Second Language",
+      "units": "3 Credits",
+      "description": "Strategies for English Language Learners in the content areas while maintaining a language development focus will be illustrated. Specific strategies, materials, technology, and learning activities will be examined to support learning."
+    },
+    {
+      "id": "AshFord_ELL 357",
+      "course name": "English Language Teaching & Adult Learners",
+      "units": "3 Credits",
+      "description": "Theory and methodology applicable to English language instruction are integrated in the context of working with adults. Materials and methods suitable for working with adult English learners will be explored and evaluated in this course."
+    }
+  ]
+}

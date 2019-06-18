@@ -1,0 +1,19 @@
+{
+  "subjectOf": {
+    "subject": "Physical Education and Health Courses",
+    "id": "PED"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Physical Education and Health Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_PED 212",
+      "course name": "Foundation of Movement & Motor Activities",
+      "units": "3 Credits",
+      "description": "Students will examine integrated movement curriculum and the relationship between knowledge, motor skills, and movement activities. Activities will lead to understanding of how the body is used during fundamental motor skills and the progression to more advanced movement. Emphasis is on the study of human movement and the development of motor skills which enhance health related physical fitness. Movement concepts of body awareness, space, and quality of movement are defined. Fundamental movement skills are analyzed and used as a basis for planning physical education coursework."
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "subjectOf": {
+    "id": "JOUR",
+    "subject": "Journalism"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Journalism"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_JOUR 102",
+      "course name": "Introduction to Journalism",
+      "units": "1 unit",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduction to current practices in American news media with a focus on emerging technologies and traditional print and broadcast operations. Exploration of changing career opportunities in news and public relations. Overview of student media organizations and requirements for academic success in journalism.",
+      "format": "1 lecture."
+    },
+    {
+      "id": "CalPoly_JOUR 201",
+      "course name": "Journalism History",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Survey of historical influences in the development of today 's journalism. Contributions of women and minorities to American mass media. Rise of technology in the communication industry.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 203",
+      "course name": "News Reporting and Writing",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to the fundamental techniques of reporting and writing news articles from print and online perspectives. Extensive laboratory and field practices in gathering and evaluating information. Writing basic news stories under close supervision.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "AshFord_JRN 301"
+      ]
+    },
+    {
+      "id": "CalPoly_JOUR 205",
+      "course name": "Agricultural Communications",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Survey of the media of agricultural communication. Newspaper farm pages and sections, general and specialized agricultural magazines. Radio and TV farm broadcasts. Digital media sources. Public and private agencies involved in agricultural communication. Role of California minorities in agriculture. Writing on agriculture - related issues.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_JOUR 218",
+      "course name": "Media, Self and Society",
+      "units": "4 units",
+      "term": [
+        "ge area d4"
+      ],
+      "description": "Overview of the interaction between mass media and individuals in American society. Drawing on theoretical perspectives from mass communication and psychology to explore how individuals develop a coherent understanding of self within a highly mediated world. The power and influence of media messages and practices. Individual responsibility in an information society.",
+      "format": "4 lectures.",
+      "other": "Crosslisted as COMS / JOUR218. Fulfills GE D4."
+    },
+    {
+      "id": "CalPoly_JOUR 219",
+      "course name": "Multicultural Society and the Mass Media",
+      "units": "4 units",
+      "term": [
+        "uscp"
+      ],
+      "description": "The role of the mass media in a democratic multicultural society. Portrayal and stereotyping of ethnic minorities by different mass media forms throughout U.S. history. The growing impact of minorities in the United States. Achievement and goals of current American ethnic media, with special attention to Latinos / as and African - Americans.",
+      "format": "4 lectures.",
+      "other": "Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_JOUR 220",
+      "course name": "Introduction to Radio Broadcasting",
+      "units": "2 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Development of skills and knowledge to produce live and recorded radio shows for the campus radio station KCPR - FM. Basic station operations, FCC compliance standards, and basic station management. Required for KCPR staff.",
+      "format": "2 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 285",
+      "course name": "Introduction to Multimedia Journalism",
+      "prerequisite": [
+        "JOUR 203"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to the social, editorial and technical issues surrounding the web as a form of communication. Fundamentals of gathering, writing and publishing content for the web that includes using photographs, sound, pictures and video to tell a story.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 302",
+      "course name": "Mass Media Law",
+      "prerequisite": [
+        "JOUR 203"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Legal basis for freedom of expression. Court decisions resolving conflicts between First Amendment and right to fair trial, privacy, reputation. Source confidentiality, freedom of information, contempt, copyright. Federal and state laws and regulations affecting mass media reporters, editors, publishers, news directors. Course may be offered in classroom based or online format.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 303",
+      "course name": "Web Audio and Video",
+      "prerequisite": [
+        "JOUR 285"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Concepts and technologies associated with bringing video, still images and audio online. Process of web - based audio and video creation, production and publication, from inception to publishing.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 304",
+      "course name": "Public Affairs Reporting",
+      "prerequisite": [
+        "JOUR 203"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Experience leading to advanced skills in reporting and writing stories about contemporary issues, government and courts. Field and laboratory assignments in beat reporting, public meeting coverage, writing style, investigative techniques, and online journalism research.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 312",
+      "course name": "Public Relations",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Overview of the history, growth and ongoing development of public relations as an information management function in a multicultural environment. Public relations practices used in commercial and non - profit sectors, and firsthand application of public relations skills.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 320",
+      "course name": "Cal Poly Radio Laboratory",
+      "prerequisite": [
+        "JOUR 220"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Field experience in radio station operations at KCPR - FM, the campus radio station. Emphasizes support functions such as recording announcements, planning and carrying out promotions, underwriting, events and other station management duties. Required of students also hosting live or prerecorded on - air programs. Total credit limited to 8 units. Open only to students on staff at KCPR - FM.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 331",
+      "course name": "Contemporary Advertising",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Principles of advertising, copy, layout, and production across media platforms, including online, mobile, social, print and broadcast. Economic, political, and social function of advertising in a free market society. Advertising ethics. Social responsibility of advertising in a multicultural environment. Emerging advertising technologies.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 333",
+      "course name": "Broadcast News",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Beginning broadcast news writing and reporting for radio and television. Emphasis on developing news judgment and producing radio newscasts. Introduction to television studio equipment and procedures. Lab experience includes writing and reporting live on - air for KCPR. Course may be offered in classroom - based or online format.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 334",
+      "course name": "Editing",
+      "prerequisite": [
+        "JOUR 203"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Editing for print and online publication. Using the Associated Press style. Writing headlines, captions, summaries and other display text. Repurposing various media content for the web and other formats. Legal and ethical issues for the editor.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 342",
+      "course name": "Public Relations Writing and Editing",
+      "prerequisite": [
+        "JOUR 312"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Theory, strategic planning and practice in writing persuasive public relations copy for diverse internal and external audiences. Emphasis on gathering information, preparing news releases, newsletters and other communications vehicles. Analysis of various media case studies.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 346",
+      "course name": "Broadcast Announcing and Production",
+      "prerequisite": [
+        "JOUR 203"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Develop on - air skills in the performance of voice - overs, stand - ups, hosting and the production of televised public service announcements. Emphasis on the effective use of audio and non - linear video editing techniques as well as broadcast writing.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 348",
+      "course name": "Electronic News Gathering",
+      "prerequisite": [
+        "JOUR 203",
+        "JOUR 333"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Instruction on electronic news gathering ( ENG ) that includes advanced news writing, field reporting and editing for broadcast. Emphasis on developing research techniques, interviewing skills, responsible and effective non - linear video editing, compelling use of natural sound and professional on - air delivery.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 350",
+      "course name": "Data Journalism",
+      "prerequisite": [
+        "JOUR 285",
+        "STAT 217",
+        "STAT 218"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Introduction to the techniques of finding stories in data sets and presenting them visually via interactive online displays. Emphasis on adapting emerging tools for digital storytelling.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 352",
+      "course name": "Advanced Newspaper Reporting Practicum",
+      "prerequisite": [
+        "JOUR 304 or JOUR 334 (formerly JOUR 233)"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Reporting lab for the print and digital editions of Mustang News. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 353",
+      "course name": "Advanced Broadcast Journalism Practicum",
+      "prerequisite": [
+        "JOUR 333",
+        "JOUR 346"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Students produce a live 30-minute CPTV newscast per week, or a one - hour KCPR segment that incorporates news, information, talk and entertainment. Emphasis on news producing, reporting and announcing skills. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 378",
+      "course name": "Advanced Sportscasting",
+      "prerequisite": [
+        "JOUR 285",
+        "JOUR 303 or JOUR 346"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Develop advanced skills in sports reporting and writing for broadcast, web and social media. Play - by - play. Job search in sports journalism. Field trip may be required. Course offered in hybrid format with classroom - based and online learning.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 385",
+      "course name": "Media Innovation and Entrepreneurship",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Innovation and entrepreneurship in journalism. Human - centered design. Business plan development. Designing content to reach and engage an audience. Identifying opportunities to create sustainable journalistic enterprises for real - world application in Cal Poly 's student - run media organizations.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 390",
+      "course name": "Visual Communication for the Mass Media",
+      "prerequisite": [
+        "JOUR 203"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Theory and application of visual communication in today 's media. Visual communication 's power to inform, educate and persuade. Production of visual media across digital, broadcast and print platforms.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "CalPoly_JOUR 401",
+      "course name": "Global Communication",
+      "prerequisite": [
+        "JOUR 203"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Global communications facilities and operations ; world transmission of information ; survey of world wire services and international print and electronic media. Analysis of press operations under varying government ideologies, including third world countries.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_JOUR 402",
+      "course name": "Journalism Ethics",
+      "prerequisite": [
+        "JOUR 203"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Current issues revolving around the social responsibility of the mass media. Role of the public, government, and media in considerations of media accountability. Professional behavior in media organizations.",
+      "format": "4 seminars.",
+      "similarTo": [
+        "AshFord_JRN 333",
+        "AshFord_JRN 200"
+      ]
+    },
+    {
+      "id": "CalPoly_JOUR 403",
+      "course name": "Multimedia Production for Public Relations and Advertising",
+      "prerequisite": [
+        "JOUR 303 or JOUR 348"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Development of fundamentals pertaining to the technical and aesthetic proficiencies used in video communication for public service, public relations, marketing and advertising. All aspects of pitching, planning, production, editing and post - production in addition to historical and regulatory aspects of communication policy and mandates.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 407",
+      "course name": "Feature Writing",
+      "prerequisite": [
+        "JOUR 203"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Practice in researching, interviewing and the writing and marketing of both long and short form nonfiction articles for various media outlets. Analysis of similar work in current distribution.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 410",
+      "course name": "Advanced Digital Journalism",
+      "prerequisite": [
+        "JOUR 285"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Apply the theories and applications of digital journalism to the development and publication of innovative digital content.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 412",
+      "course name": "Public Relations and Crisis Management",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Apply contemporary public relations theory to turn crisis into opportunity. Analyze Homeland Security and FEMA best practices using public relations framework and strategy. Practical exercises in planning, implementing, and evaluating public relations messages in a variety of media platforms.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 413",
+      "course name": "Public Relations Campaigns",
+      "prerequisite": [
+        "JOUR 312",
+        "JOUR 342"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Development of skills needed to plan and conduct internal and external public relations campaigns for corporate and non - profit organizations. Includes goal setting, management of resources, budgeting, creation of campaign communications, and outcomes analysis.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 415",
+      "course name": "Advanced Public Relations Practice: CCPR",
+      "prerequisite": [
+        "BUS 453 or JOUR 413"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Proposing, creating, managing, and implementing public relations campaigns for community - based clients on behalf of the student - run firm, Central Coast PRspectives.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 418",
+      "course name": "Copyright, Trademark, Patent and Commercial Speech in Digital Media",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Examination of intellectual property rights covered by copyright, trademark and, to a limited degree, patent law as well as commercial speech rights in a digital media age. Emphasis on intellectual property rights as they affect content creators and other publishers in a digital world.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 444",
+      "course name": "Media Internship",
+      "prerequisite": [
+        "JOUR 352",
+        "JOUR 353"
+      ],
+      "units": "3 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Application of techniques on daily basis with media under supervision of department faculty. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_JOUR 460",
+      "course name": "Senior Project",
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Selection and completion of a project under faculty supervision. Projects typical of problems which graduates must solve in their fields of employment. Project results are presented in a formal report. Minimum 90 hours total time."
+    },
+    {
+      "id": "CalPoly_JOUR 462",
+      "course name": "Senior Media Practicum",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Capstone experience that applies principles and tools of print, broadcast and digital journalism and public relations to tell engaging stories across multiple platforms. Emphasis on integrating text, video, audio, graphics, search engine optimization and social networking to produce content for digital publication.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_JOUR 470",
+      "course name": "Selected Advanced Topics",
+      "units": "2-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "2 - 4 lectures."
+    },
+    {
+      "id": "CalPoly_JOUR 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    }
+  ]
+}

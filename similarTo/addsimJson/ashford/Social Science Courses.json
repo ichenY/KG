@@ -1,0 +1,46 @@
+{
+  "subjectOf": {
+    "subject": "Social Science Courses",
+    "id": "SSC"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Social Science Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_SSC 101",
+      "course name": "Introduction to Social Science",
+      "units": "3 Credits",
+      "description": "This course introduces students to the interdisciplinary field of social sciences and some of the disciplines that comprise this field, including anthropology, sociology, political science and history. These subject areas figure prominently in the Social Science major. In this course, students will learn important social science concepts and theoretical approaches, along with the research methods that social scientists use to study human behavior. Throughout the course and through a summative assignment, students will examine how social factors shape social behavior, and some of the consequences of current social problems."
+    },
+    {
+      "id": "AshFord_SSC 320",
+      "course name": "Global Socioeconomic Perspectives",
+      "units": "3 Credits",
+      "description": "This course is an examination of global socioeconomic development in the context of globalization. Topics include population growth, natural resources, sustainable growth, migration, diplomacy, and the global consequences of inequality, poverty, and war. These topics are examined through the lens of social expectations, gender ideals, and economic justice. "
+    },
+    {
+      "id": "AshFord_SSC 330",
+      "course name": "Peacemaking: A Global Study of Conflict Resolution and Activism",
+      "units": "3 Credits",
+      "description": "An interdisciplinary study of peacemaking and activism with a focus on how they impact conflict resolution.Students examine thinking and behavior in response to social conflict such as aggression, threats, prejudice, avoidance, withdrawal, conformity, and obedience. Students study various strategies of peacemaking, activism, and negotiation and then apply these methods to in class activities."
+    },
+    {
+      "id": "AshFord_SSC 340",
+      "course name": "Human Health & Global Environmental Change",
+      "units": "3 Credits",
+      "description": "This course analyzes the relationship between health and the environment and takes into account how health is influenced by natural and manmade environmental factors. Students will consider the history of the relationship between health and the global environment, addressing how groups in the past understood the connection and the actions they took to improve both. The course will also address contemporary theories that highlight how race, gender, and class influence the relationship between health and the environment. By concentrating on these factors, students will consider the negative and positive influences of the environment on human health as well as possible future concerns and issues that might emerge."
+    },
+    {
+      "id": "AshFord_SSC 350",
+      "course name": "eSociety: Science, Technology, and Society",
+      "units": "3 Credits",
+      "description": "The eSociety course focuses on the relationship between society, science, and technology and the social dynamics of knowledge production from a social science perspective. The course provides students with an understanding of how social values affect scientific research and technological innovation as well as the transformative impacts of technologies on society. Through discussions of key concepts and case studies, students will explore how particular scientific facts or technologies become accepted, how controversies are settled, and how science and scientists retain credibility and authority. Students will also engage with the social, ethical, and political consequences of technological developments.",
+      "prerequisite": [
+        "SSC 101"
+      ]
+    }
+  ]
+}

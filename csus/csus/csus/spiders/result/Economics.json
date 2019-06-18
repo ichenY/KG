@@ -1,0 +1,634 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introductory inquiry into the workings and interrelationships of the aggregate economic system. The primary focus is on total production and its distribution, employment and price levels, and the forces influencing them. Other considerations are the roles of government, the monetary sector, and related areas.", 
+      "id": "CSUS_ECON 1A", 
+      "course name": "Introduction to Macroeconomic Analysis"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introductory microeconomic analysis of the workings of supply and demand in the determination of price, resource allocation, and distribution. Markets are analyzed as they affect economic efficiency and income distribution.", 
+      "id": "CSUS_ECON 1B", 
+      "course name": "Introduction to Microeconomic Analysis"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Analysis of the determinants of the aggregate level of output, income, employment and prices. ", 
+      "course name": "Intermediate Macroeconomic Theory", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 100A", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Analysis of household and firm behavior as the foundation of supply and demand. ", 
+      "course name": "Intermediate Microeconomic Theory", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 100B", 
+      "prerequisite": [
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Analysis of the development of economic theory from the predecessors of Adam Smith through John Maynard Keynes. The contributions made to the discipline by its principal figures are compared and evaluated. ", 
+      "course name": "History of Economic Thought", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 101", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B"
+      ]
+    }, 
+    {
+      "term": " or those majoring in economics. ", 
+      "description": "One semester survey of the principles of economics, basic methods of economic analysis, and their application to public policy and current events. ", 
+      "course name": "Introduction to the United States Economy", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 104", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the rationale for government provision of goods and services and presents cost-benefit analysis as a method to evaluate public participation in a market economy. ", 
+      "course name": "Cost Benefit Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 110", 
+      "prerequisite": [
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analysis and evaluation of the economic forces and institutions shaping European economic development through the present period. Attention will be paid to the relationship between changes in the economic environment and attendant cultural, political, and ideological developments in the stages of tribalism, slavery, feudalism, capitalism, and socialism.", 
+      "id": "CSUS_ECON 112", 
+      "course name": "European Economic History"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Consideration of the economic growth and development of the U.S. with emphasis on a theoretical analysis of the economic factors shaping the national destiny. ", 
+      "course name": "Economic History of the United States", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 113", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 104"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Examination of the process of the development of the State's economy as well as analysis of the various public economic issues that are of contemporary concern to Californians. ", 
+      "course name": "The California Economy", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 114", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B", 
+        "ECON 104"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes environmental issues as economic issues. Economics as both a cause and cure for environmental destruction.", 
+      "id": "CSUS_ECON 120", 
+      "course name": "Economics and Environmental Degradation"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Analyzes the economic based problem of exhaustion in both renewable and non-renewable resources. Emphasis is given to the optimal use of these resources over time and the effects that various market and non-market factors have on their future availability. ", 
+      "course name": "Resource Economics", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 123", 
+      "prerequisite": [
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Economic analysis of the public sector and its impact on the allocation of resources and the distribution of income. Emphasis given to the economics of government expenditure and taxation. ", 
+      "course name": "Public Finance", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 130", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30", 
+        "ECON 100B"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Analysis of the economics of state and local government finance, with an emphasis on California's fiscal system. ", 
+      "course name": "State and Local Government Finance", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 132", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the role of financial markets, the banking system, and the Federal Reserve System in the economy. Included are an introduction to present value and the behavior of interest rates, analysis of money creation, and evaluation of monetary policy. ", 
+      "course name": "Money and Banking", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 135", 
+      "prerequisite": [
+        "ECON 1A", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Analyzes the policies of central banks and fiscal authorities as they relate to the stability and growth of the macroeconomy. Examines the theoretical and empirical literature regarding the conduct of monetary and fiscal policy and applies the tools of economic analysis to understand macroeconomic policy debates. ", 
+      "course name": "Monetary and Fiscal Policy", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 138", 
+      "prerequisite": [
+        "ECON 1A", 
+        "STAT 1", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30", 
+        "ECON 100A", 
+        "ECON 140"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of the basics of conducting quantitative economic analysis. Included are basic concepts and methods of data analysis and research. Students will examine economic data using spreadsheets, will develop presentation skills, and be introduced to career opportunities. ", 
+      "course name": "Quantitative Economic Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 140", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B", 
+        "STAT 1", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Covers the basics of regression analysis, estimation, and forecasting. ", 
+      "course name": "Introduction to Econometrics", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 141", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B", 
+        "ECON 140", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30", 
+        "ECON 100A", 
+        "ECON 100B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Covers the basics of conducting applied economic research: the selection of topic, literature survey, choice of research method, formulation of hypothesis, testing of hypothesis using empirical analysis, and summary and conclusions. Designed to enhance the students ability to integrate economic theory, quantitative research skills, and research. ", 
+      "course name": "Economic Research Methods", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 145", 
+      "prerequisite": [
+        "ECON 100A", 
+        "ECON 100B", 
+        "ECON 140"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Economic analysis of labor markets, with special reference to employment, wage determination, and the role of government. ", 
+      "course name": "Labor Economics", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 150", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Introduction to the various aspects of the economics of education. Applies the tools of economic analysis to education policy and problem solving. Topics include cost-benefit analysis of education, the signaling vs. human capital debate, race and gender issues in education, education production functions, and financing education at the elementary, secondary, and post-secondary levels. Emphasis placed on individual and social choice in education. ", 
+      "course name": "Economics of Education", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 152", 
+      "prerequisite": [
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Introduction to the field of health economics.  Applies the tools of economics to the production of health and health care.  Special emphasis on health care institutions, the role of industry, health care reform, and the role of government, in addition to the public provision of care to the disadvantaged. ", 
+      "course name": "Health Economics", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 153", 
+      "prerequisite": [
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Analyzes firm decision-making in a variety of market settings. Topics include pricing and output decisions, entry and exit issues, marketing strategies, horizontal mergers, vertical integration, technological change, and U.S. antitrust policy. ", 
+      "course name": "Industrial Organization", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 160", 
+      "prerequisite": [
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "An analysis of strategic games with sequential or simultaneous moves under complete information and uncertainty. Discussion of theory and techniques is combined with examination of specific classes of games and their application to real-world examples such as markets, voting, auctions, and international relations ", 
+      "course name": "Fundamentals of Game Theory", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 161", 
+      "prerequisite": [
+        "ECON 1B", 
+        "STAT 1", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Analyzes the structure, conduct, and consequences of domestic and international energy markets. Particular emphasis on regulated industries including petroleum, electrical, and other power sources.  The economic impact on energy markets of emerging technology is examined. ", 
+      "course name": "Energy Economics", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 162", 
+      "prerequisite": [
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Examination of government regulation of industry in the North American context:  transportation, communication, energy, and other industries.  Issues include deregulation, public ownership, pricing, and investment. ", 
+      "course name": "Public Economics and Regulation", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 170", 
+      "prerequisite": [
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Economic analysis and appraisal of models of urban development. Includes consideration of the rise of cities, land use, unemployment, poverty, housing, urban renewal, transportation, and the local public sector. ", 
+      "course name": "Urban Economics", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 180", 
+      "prerequisite": [
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Economic analysis of the origins and development of racism, focusing mainly on its impact in the U.S. Differing theoretical explanations surrounding racism will be compared and evaluated.", 
+      "id": "CSUS_ECON 181", 
+      "course name": "Economics of Racism."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Investigation of the current economic status of women in the U.S., of past and present economic discrimination experienced by women in the labor market, of the historical reasons for that discrimination and of the means and methods of ending that discrimination.", 
+      "id": "CSUS_ECON 184", 
+      "course name": "Women and the Economy"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Applies the essential economic concepts and develops them with examples and applications from the sports industry. Covers basic economic concepts: economic principles, supply and demand, perfect competition, and monopoly behavior. It also applies these concepts to a variety of topics: the public finance of sports franchises, the costs/benefits of a sports franchise to a city, labor markets and labor relations, discrimination, and amateurism and college sports. ", 
+      "course name": "Sports Economics", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 186", 
+      "prerequisite": [
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Analysis of the use and treatment of economic theory and history in popular American films. Emphasis is placed on the topics of game theory, industrial organization, entrepreneurship, law and economics, labor economics, the stock market, and American economic history. The entertainment industry will also be examined from an economic perspective.", 
+      "id": "CSUS_ECON 189", 
+      "course name": "Economics at the Movies"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Analysis of the causes and results of trade among nations. Introduction to modern trade theory is combined with examination of trade instruments and policy analysis. ", 
+      "course name": "International Trade", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 190", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Critical examination of the theories and practices of financing trade among nations. International financial and monetary theories focus on how the world and financial system works, given globalization and international economic integration. ", 
+      "course name": "International Finance", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 192", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "An analysis of the factors involved in the growth of economies. The focus is on the application of development economics and growth theory to the process of economic growth in developing countries. Particular attention is given to variables that explain growth, namely, technological progress, population growth, saving, trade, human capital and education, and the role of institutions. ", 
+      "course name": "Development Economics", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 193", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B", 
+        "MATH 24", 
+        "MATH 26A", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Supervised economic-related work experience, research, or teaching assistance to provide an opportunity for the student to apply principles and theories learned in the classroom to the \"real world.\"", 
+      "id": "CSUS_ECON 195", 
+      "course name": "Economic Internship"
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Introduction to the fields of behavioral and experimental economics. Applies tools of microeconomic theory to the decisions made by individuals. Special emphasis on the utility maximization hypothesis, decision making in the face of risk and uncertainty, intertemporal choice, other regarding preferences, game theory, and neuroeconomics. ", 
+      "course name": "Behavioral and Experimental Economics", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 196E", 
+      "prerequisite": [
+        "ECON 100B"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " Units may not be applied towards unit requirement of the Economics major.  ", 
+      "description": "Provides opportunity for lower division students, transfer students, and newly declared majors to be mentored by more advanced upper division students or graduate students. The peer mentoring will help students meet academic deadlines, achieve academic success, become engaged in campus activities and get integrated into the Economics Department. ", 
+      "id": "CSUS_ECON 197A", 
+      "course name": "Economics Exchange Mentee"
+    }, 
+    {
+      "term": " combined.  ", 
+      "description": "Provides opportunity for advanced upper division students or graduate students to mentor lower division students. The peer mentoring will help students meet academic deadlines, achieve academic success, become engaged in campus activities and be integrated into the Economics Department. ", 
+      "course name": "Economics Exchange  Mentor", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_ECON 197B", 
+      "prerequisite": [
+        "ECON 197A", 
+        "ECON 197B"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Supervised tutorials at educational institutions including Sacramento State where and when appropriate arrangements can be made. Prior approval for tutoring must be obtained from the Economics Department. Emphasis is on the development of effectiveness in the teaching of economics.", 
+      "id": "CSUS_ECON 198", 
+      "course name": "Tutoring in Economics"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading. Admission requires approval of the faculty sponsor and the Department Chair.", 
+      "id": "CSUS_ECON 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". ", 
+      "course name": "Advanced Macroeconomic Theory", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 200A", 
+      "prerequisite": [
+        "ECON 141", 
+        "ECON 200M", 
+        "ECON 200B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". ", 
+      "course name": "Advanced Microeconomic Theory", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 200B", 
+      "prerequisite": [
+        "ECON 200M", 
+        "ECON 200A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Applies empirical analysis to topics in microeconomics and macroeconomics. Topics may include stationarity, vector autoregression, vector error correction models, calibration, fixed effects, instrumental variables, multinomial logit, and duration models. Students implement these models using econometric software. Students will write an empirical paper intended to become a prospectus for the master's thesis. ", 
+      "course name": "Advanced Applied Economics", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 200C", 
+      "prerequisite": [
+        "ECON 200A", 
+        "ECON 200B", 
+        "ECON 241"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Equips students with the mathematical techniques necessary for the study of economics and econometrics at the graduate level. Covers linear algebra, derivatives, comparative static analysis, optimization, integrals, and differential equations, with specific applications from economic and econometric theory. ", 
+      "course name": "Mathematics for Economists", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 200M", 
+      "prerequisite": [
+        "ECON 100A", 
+        "ECON 100B", 
+        "MATH 26A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " or their equivalents.", 
+      "course name": "Business Economics", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 204", 
+      "prerequisite": [
+        "ECON 1A", 
+        "ECON 1B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction and analysis of American economic development from a historical perspective, focusing on the trajectory of American economic development from recent advances in theoretical and empirical economics literature. Cover topics on long-term economic growth, technological change, business cycles and fluctuations, financial markets, labor markets, and economic impacts of social change. ", 
+      "id": "CSUS_ECON 213", 
+      "course name": "U.S. Economic Development in Historical Perspective"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "An analysis of the allocation and distribution effects of government expenditures and taxation. ", 
+      "course name": "Public Finance", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 230", 
+      "prerequisite": [
+        "ECON 200B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Analyzes the policies of central bank and fiscal authorities as they relate to full employment and stability of the national economy. ", 
+      "course name": "Monetary and Fiscal Policy", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 238", 
+      "prerequisite": [
+        "ECON 200A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Applied econometric analysis with emphasis on the use of econometric techniques in economic research settings, expressing economic theory in the form of econometric models, data collection, estimation, and interpretation of results. Students work individually or as a team on a current research topic from various fields of economics preselected or approved by instructor. ", 
+      "course name": "Applied Econometric Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 241", 
+      "prerequisite": [
+        "ECON 141", 
+        "ECON 200M"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Historical development, economics and possible policy solutions of the most pressing problems facing central cities and urban areas in the U.S. are presented. Problems discussed include poverty, crime, urban abandonment/suburban sprawl, edge cities, deteriorating infrastructures, and fiscal stress. ", 
+      "course name": "Urban Problems, Economics and Public Policy", 
+      "units": "3 Units", 
+      "id": "CSUS_ECON 251", 
+      "prerequisite": [
+        "PPA 251"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A modern analysis of industry structure, conduct, and performance. Emphasis is placed on the use of game theory to address firm behavior, including price and output decisions, entry and exit, horizontal mergers, technological change, and marketing issues. ", 
+      "id": "CSUS_ECON 260", 
+      "course name": "Industrial Organization and Performance"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to advanced economic theory and econometric methods applied to the economics of food with emphasis on food consumption and the complexity of individual food choices. Utilizing cost-benefit analyses and concepts like constrained utility maximization, household production, opportunity costs of time, and information search, implications for a global food system will be derived. We will apply learned concepts to health and environmental concerns by discussing the recent applied economics and policy evaluation literature. ", 
+      "id": "CSUS_ECON 263", 
+      "course name": "Food Economics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the theories, foundations, and philosophies of economic welfare.  Specifically, the basic techniques of cost-benefit analysis will be presented and applied to various policy issues.", 
+      "id": "CSUS_ECON 265", 
+      "course name": "Cost Benefit Analysis"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analysis of modern trade theories, their empirical relevance, and the role of multinational firms in the evolution of international trade patterns. Discussion focuses on theoretical and empirical evaluation of trade policy instruments. Various trade agreements are also discussed in the context of economic integration and globalization. Attention is also given to foreign direct investment as a vehicle of globalization and the challenges it poses to both multinational firms and host countries. ", 
+      "id": "CSUS_ECON 290", 
+      "course name": "International Trade"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Supervised work experience or research on economic topics in government, financial, business, charitable or other kinds of institutions to provide an opportunity for the student to apply principles and theories learned in the classroom to the \"real world.\"  Partial supervision may be supplied by persons in the institution under study.", 
+      "id": "CSUS_ECON 295", 
+      "course name": "Economic Internship"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Supervised tutorials at educational institutions including Sacramento State where and when appropriate arrangements can be made. Prior approval for tutoring must be obtained from the Economics Department. Emphasis is on the development of effectiveness in the teaching of economics.", 
+      "id": "CSUS_ECON 298", 
+      "course name": "Tutoring In Economics"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading. Admission requires approval of the faculty sponsor and the Department Chair.", 
+      "id": "CSUS_ECON 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis approved for the Master's degree.  Should be taken in final semester prior to the completion of all requirements for the degree. ", 
+      "id": "CSUS_ECON 500", 
+      "course name": "Master's Thesis"
+    }
+  ], 
+  "subjectOf": {
+    "id": "ECON", 
+    "subject": "Economics"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Economics", 
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "courses": [
+    {
+      "units": "4 Units", 
+      "term": "Fall only", 
+      "description": "Introduction to Punjabi as spoken in India and Pakistan.  Instruction will be in all four language skills: speaking, reading, listening and writing.  In addition to getting a start in modern Punjabi, students will also learn about social aspects of the use of Punjabi.", 
+      "id": "CSUS_PUNJ 1A", 
+      "course name": "Elementary Punjabi"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": ", with emphasis on reading, writing, listening and speaking.  Punjabi culture and its reflection in the language is given continued attention. ", 
+      "course name": "Elementary Punjabi", 
+      "units": "4 Units", 
+      "id": "CSUS_PUNJ 1B", 
+      "prerequisite": [
+        "PUNJ 1A", 
+        "PUNJ 1A"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "PUNJ", 
+    "subject": "Punjabi"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Punjabi", 
+    "id": "CSUS"
+  }
+}

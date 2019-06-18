@@ -1,0 +1,142 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to engage students in understanding, implementing, and evaluating strategic leadership practices based on various theories, models, and approaches for achieving organizational transformation. Students will become skilled facilitators of the organizational transformation process by initiating, implementing, sustaining, and evaluating transformation/change efforts. Students will build a solid foundation through the integration of theory and practice in order to implement a planned change process in their home institution. ", 
+      "id": "CSUS_EDD 600", 
+      "course name": "Transformational Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Builds and expands on candidates' knowledge of systems thinking, personal and organizational behaviors, and leadership approaches to the change process. Candidates will demonstrate ethical thinking and action in organizational settings by re-conceptualizing leadership roles and organizational structures. In coursework and related fieldwork components students will apply concepts and theories to improving their respective educational institutions. Among the interactive pedagogies used are: case studies, experiential exercises, dialogue and group activities. ", 
+      "id": "CSUS_EDD 601", 
+      "course name": "Organizational Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Develops in students the skills for informed analysis of educational policy in order to positively influence the educational policy in the K-12 or community college setting. In addition to studying the historical perspectives pertaining to educational policy, practice, and reform, students will investigate the mission of public education. Students will also study governance and inter-governmental relations through contemporary policy development with particular reference to current law, local board policy, shared governance, and working with a variety of constituencies. ", 
+      "id": "CSUS_EDD 602", 
+      "course name": "Policy and Practice for Educational Leaders I"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to engage students in critical analyses of policy at the local, state, national, and international levels. Specific California and federal policy environment structures and processes will be examined. Students will learn about how public policy is generated, potential consequences, ethical dilemmas, social justice, and equity issues. ", 
+      "id": "CSUS_EDD 603", 
+      "course name": "Policy and Practice for Educational Leaders II"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "This course will introduce students to the uses of qualitative and quantitative data analysis by educational leaders for the purpose of improving student and organizational outcomes. In addition, the student will be introduced to qualitative, quantitative and mixed-methods research designs in preparation for conducting independent research and designing a doctoral dissertation. This course will also enable students to critically understand and critique various forms of data and apply it appropriately to a variety of educational issues. ", 
+      "id": "CSUS_EDD 604", 
+      "course name": "Introduction to Educational Research"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "This course is designed to provide doctoral students with instruction in qualitative research approaches as applied to questions of educational leadership and policy. The course will emphasize individual and group interviewing as techniques for qualitative study data collection as well as coding and analysis of qualitative data. This course is particularly useful for doctoral students who plan to conduct a qualitative or mixed method dissertation related to an educational leadership and/or policy topic. ", 
+      "id": "CSUS_EDD 605", 
+      "course name": "Qualitative Research Methods"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "This course will introduce educational leaders to concepts in quantitative research in preparation for conducting independent research. This course will enable students to critically understand, critique, and develop quantitative research methodology and apply it appropriately to various educational issues. ", 
+      "id": "CSUS_EDD 606", 
+      "course name": "Quantitative Research Methods"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Presents theories and frameworks concerning organizational, interpersonal, and cross-cultural communication in educational and community contexts. Includes developing written and verbal skills for specific contexts, including strategic planning, evaluation, presentations, formal and informal texts, technology, crisis management, and public relations. Through research and practical application, enhances communication skills needed for creating inclusive systems and positive results for all stake-holders. ", 
+      "id": "CSUS_EDD 607", 
+      "course name": "Community and Communication in Educational Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to engage students in self introspection of awareness and advocacy in applying theoretical frameworks and research to promote equitable, excellence in schooling. Students will demonstrate the ability to develop cross-cultural relationships across multiple constituents for the purpose of improving students performance and promoting social justice. Students will develop the capacity to be courageous change agents in assuring academic excellence for all students. ", 
+      "id": "CSUS_EDD 608", 
+      "course name": "Diversity and Equity in Complex Organizations"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines how to manage human resources effectively in the dynamic legal, social, and economic environment currently impacting educational institutions. Among the topics included are: formulation and implementation of human resource strategy, job analysis, methods of recruitment and selection, techniques for training and development, performance appraisal, compensation and benefits, and the evaluation of the effectiveness of human resource management frameworks and practices. Class participants will be expected to demonstrate understanding of Human Resource Management (HRM) competencies through assignments, exercises and case analyses. ", 
+      "id": "CSUS_EDD 609", 
+      "course name": "Human Resource Management for Educational Leaders"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Presents curriculum and instruction from a leadership perspective within the contexts of K-12 schools and community colleges. Students examine contemporary issues in school curriculum, including policy initiatives and reform efforts affecting curricular decision-making. Prepares students to analyze and design appropriate strategies for implementing and evaluating district and school curricula and to investigate the implications of curricula for educational programming. Students also learn specific foundations and procedures for professional development that have well-documented effects on student achievement. ", 
+      "id": "CSUS_EDD 610", 
+      "course name": "Curriculum and Instruction Issues for Educational Leaders"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines key legal issues that govern daily and long-range decisions of educational leaders. Focuses on understanding California and federal codes, case law, policies, and significant precedent and will emphasize analysis of key legal concepts and application of law to major areas including finance, personnel, risk management, curriculum, student services, teacher rights, torts, students rights, and access. Examines trends in law and the initiation and influence of educational law to positively influence educational institutions. ", 
+      "id": "CSUS_EDD 611", 
+      "course name": "Legal Issues for Educational Leaders"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides a comprehensive insight into the student services. It addresses both practical and theoretical perspectives intended to build a sense of vision and passion to transform the profession of student affairs and leadership. In particular, examines four distinct arenas: 1) historical and philosophical foundations of student affairs and leadership 2) management and organizational issues, 3) essential skills and professional development in building an equitable organization, and 4) the synthesis of practice and theory. ", 
+      "id": "CSUS_EDD 612", 
+      "course name": "Student Services in Education"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes two related topics with respect to public educational institutions: funding and internal budget management. Provides a state and national overview of the economics and finance of K-12 and higher education, including private and public benefits of education, methods of financing public education, and contemporary policy issues regarding school and college finances. Focuses on how educational leaders can most effectively manage resources to further the vision, goals, and philosophy of the organization. ", 
+      "id": "CSUS_EDD 613", 
+      "course name": "Finance and Budget for Educational Leaders"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This problem based seminar integrates the three themes of the program. Includes conducting a review of the literature that will later be integrated into the candidates' proposal. In addition, each student will study and select theoretical frame/s that supports their doctoral topic. Students will also work in teams formed by research interests. They will present findings to classmates in forums that they facilitate and they will critique each other's work. ", 
+      "id": "CSUS_EDD 614", 
+      "course name": "Issues in Educational Leadership: Synthesis and Application"
+    }, 
+    {
+      "units": "6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides faculty and peer guidance in preparation of material to develop the dissertation proposal. Students will be guided in the clarification of dissertation topic, familiarization with relevant literature, and the development of a sound methodology. Students will learn how to critically analyze and provide constructive criticism to key research components proposed by others. At the end students are expected to complete the first three chapters of their dissertation in anticipation of their dissertation defense. ", 
+      "id": "CSUS_EDD 615", 
+      "course name": "Dissertation Proposal Seminar"
+    }, 
+    {
+      "units": "6 Units", 
+      "term": " Students must have passed their qualifying examination and successfully defended their dissertation proposal.  ", 
+      "description": "Each candidate will work with a dissertation advisor (dissertation committee chair) to conduct independent research leading to the completion of a dissertation. Twelve units of dissertation study will be required for completion of the program. ", 
+      "id": "CSUS_EDD 616", 
+      "course name": "Dissertation I"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Each candidate will work with a dissertation advisor (dissertation committee chair) to conduct independent research leading to the completion of a dissertation. Twelve units of dissertation study will be required for completion of the program. ", 
+      "course name": "Dissertation II", 
+      "units": "6 Units", 
+      "id": "CSUS_EDD 617", 
+      "prerequisite": [
+        "EDD 616"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "EDD", 
+    "subject": "Ed.D. in Educational Leadership"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Ed.D. in Educational Leadership", 
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "subjectOf": {
+    "id": "JPNS",
+    "subject": "Japanese"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Japanese"
+  },
+  "courses": [
+    {
+      "id": "JPNS 101",
+      "course name": "Elementary Japanese I",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Beginning Japanese. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, basic conversation, and introduction to Japanese culture. 3 lectures, 1 activity."
+    },
+    {
+      "id": "JPNS 102",
+      "course name": "Elementary Japanese II",
+      "hasPrerequisite": "JPNS 101 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, basic conversation, and introduction to Japanese culture.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "id": "JPNS 103",
+      "course name": "Elementary Japanese III",
+      "hasPrerequisite": "JPNS 102 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, basic conversation, and introduction to Japanese culture.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "id": "JPNS 201",
+      "course name": "Intermediate Japanese I",
+      "hasPrerequisite": "JPNS 103 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c5"
+      },
+      "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Japanese within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    }
+  ]
+}

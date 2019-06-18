@@ -1,0 +1,90 @@
+{
+  "subjectOf": {
+    "subject": "Health Care Studies Courses",
+    "id": "HCS"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Health Care Studies Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_HCS 308",
+      "course name": "Introduction to Nutritional Concepts",
+      "units": "3 Credits",
+      "description": "This introductory course provides an overview of the basic principles of nutrition including the basic functions, needs, and sources of micro and macronutrients. Students apply nutrition principles to personal needs, as well as needs of individuals across the lifespan. Nutrition controversies are explored in addition to learning about the anatomical and physiological impacts of inadequate/improper nutrition practices and the risk for disease. Note: This course is designed for students with no previous and/or a limited science background. ",
+      "prerequisite": [
+        "HWE 200"
+      ]
+    },
+    {
+      "id": "AshFord_HCS 311",
+      "course name": "Health & Wellness in Adulthood",
+      "units": "3 Credits",
+      "description": "This course provides students with a holistic overview of the multi-faceted dimensions of health and wellness in adulthood. Physical, social, intellectual, emotional occupational, spiritual, and environmental elements of health are explored within the context of a wellness lifestyle."
+    },
+    {
+      "id": "AshFord_HCS 316",
+      "course name": "Cultural Diversity in Health & Illness",
+      "units": "3 Credits",
+      "description": "This course explores the complexities and dimensions of health and illness through diverse cultural perspectives. Traditional health beliefs and practices among selected populations are presented along with the influences of social, political, and demographic changes impacting issues and perceptions of health and illness in a multi-cultural society."
+    },
+    {
+      "id": "AshFord_HCS 321",
+      "course name": "Foundations of Complementary & Alternative Health",
+      "units": "3 Credits",
+      "description": "This course introduces students to basic definitions and classifications of non-allopathic complementary and alternative health systems. Content includes the history and development of practices, practitioner nomenclature, and cultural influences of the major systems of Complementary and Alternative Medicine used today."
+    },
+    {
+      "id": "AshFord_HCS 323",
+      "course name": "Health & Wellness Promotion Throughout the Lifespan",
+      "units": "3 Credits",
+      "description": "This course provides students with a holistic overview of the multi-faceted dimensions of health and wellness across the lifespan. The seven dimensions of health: Physical, social, intellectual, emotional, occupational, spiritual, and environmental are explored within the context of a wellness lifestyle."
+    },
+    {
+      "id": "AshFord_HCS 326",
+      "course name": "Holistic Health",
+      "units": "3 Credits",
+      "description": "This course examines health in relation to living a balanced life and the synergism of mind, body, and spirit, rather than approaching its study solely from the conventional Western or allopathic perspective. Divided into three major themes, the course investigates the principles of strengthening your inner resources, developing healthy lifestyle practices, and taking charge of challenges to the body, mind, and spirit."
+    },
+    {
+      "id": "AshFord_HCS 334",
+      "course name": "Personal Fitness & Wellness for Optimal Living",
+      "units": "3 Credits",
+      "description": "Students will compare their own physical activity habits to national guidelines and explore the benefits of physical activity as well as the consequences of physical inactivity. The five major components of health-related fitness will be further examined throughout this course. Students will learn about various assessments and have an opportunity to design exercise andwellness plans for themselves and potential clients. ",
+      "prerequisite": [
+        "HPR 205",
+        "HWE 200"
+      ]
+    },
+    {
+      "id": "AshFord_HCS 339",
+      "course name": "Introduction to Western Herbalism; Basic Doctrine, Energetics and Classifications",
+      "units": "3 Credits",
+      "description": "This course explores fundamental constructs of Western Herbalism. Its focus is in providing the student a framework from which herbs can be conceptualized as entities with energetic and practical signatures. Consequently, herbs will be presented and appreciated from various and eclectic points of view which describes their characteristics and actions for their application in various body tissue conditions. The course will also cover qualitative descriptions (constitutions) that are tied to the human organism, appreciation of therapeutic laws, and classification of medicinal plants. ",
+      "prerequisite": [
+        "HCS 321",
+        "HCS 326"
+      ]
+    },
+    {
+      "id": "AshFord_HCS 412",
+      "course name": "Health Promotion Planning & Evaluation",
+      "units": "3 Credits",
+      "description": "This course provides an overview of the practical and theoretical elements of health promotion programplanning, implementation, and evaluation in a variety of settings. Students explore models and theoriesused in planning health and wellness promotion campaigns/interventions and how findings of programevaluation can be utilized and applied."
+    },
+    {
+      "id": "AshFord_HCS 435",
+      "course name": "Spirituality, Health, & Healing",
+      "units": "3 Credits",
+      "description": "This course explores the connections between spirituality, culture, health, and healing. Students examine spiritual rituals and practices from multi-cultural perspectives, in addition to examining elements of spiritual care in a variety of health settings and contexts."
+    },
+    {
+      "id": "AshFord_HCS 498",
+      "course name": "Health & Wellness Capstone",
+      "units": "3 Credits",
+      "description": "This course is a synthesis of the major ideas, perspectives, and concepts gained from the study of health and wellness. A substantive paper is developed which requires students to critically analyze their experiences and integrate knowledge gained throughout the program."
+    }
+  ]
+}

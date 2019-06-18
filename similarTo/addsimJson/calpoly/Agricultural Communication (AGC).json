@@ -1,0 +1,230 @@
+{
+  "subjectOf": {
+    "id": "AGC",
+    "subject": "Agricultural Communication"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Agricultural Communication"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_AGC 102",
+      "course name": "Orientation to Agricultural Communication",
+      "units": "2 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Orientation to the communication sector of agriculture. Overview of professional opportunities and skills needed for success in agricultural communications. Preparation of press releases and short articles, and development of a planned program of study.",
+      "format": "2 lectures."
+    },
+    {
+      "id": "CalPoly_AGC 200",
+      "course name": "Special Problems in Agricultural Communication",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies or surveys of selected problems in Agricultural Communication / Agricultural Education. Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "CalPoly_AGC 207",
+      "course name": "Software Applications for Agricultural Publications",
+      "units": "2 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Emphasis on software applications in agricultural communications, including basic Adobe Creative Suite techniques of InDesign and Lightroom, MS Word and Excel. Best practices in electronic delivery and print. Adobe Premiere video, blog template usage and cloud collaboration for professional agricultural communications.",
+      "format": "1 lecture, 1 activity."
+    },
+    {
+      "id": "CalPoly_AGC 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_AGC 301",
+      "course name": "New Media Communication Strategies in Agriculture",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Exploration and implementation of emerging new media communication strategies and technologies to convey information on important issues in agriculture to a global audience. Focus on food and farming dialogues currently populating conversations about production agriculture. Adaptation of different writing styles based on requirements of the various new media channels. Analysis of metrics to measure level of engagement with desired audience.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_AGC 339",
+      "course name": "Internship in Agricultural Communications",
+      "units": "1-12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Selected Agricultural Communication students will spend up to 12 weeks with an approved agricultural firm engaged in production or related business. Time will be spent applying and developing production and managerial skills and abilities. One unit of credit may be allowed for each full week of completed and reported internship. Degree credit limited to 6 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_AGC 400",
+      "course name": "Advanced Special Problems in Agricultural Communication",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies or surveys of selected problems in Agricultural Communication / Agricultural Education. Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "CalPoly_AGC 407",
+      "course name": "Agricultural Publications",
+      "prerequisite": [
+        "JOUR 205",
+        "AGC 207"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Integration of writing, editing, and layout skills in producing agricultural publications. Emphasis on using computer applications in designing publications. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "2 lectures, 2 activities."
+    },
+    {
+      "id": "CalPoly_AGC 426",
+      "course name": "Presentation Methods in Agricultural Communication",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Development, delivery and evaluation of effective means of communication by use of a variety of presentation methods and the use of technology for effective communication.",
+      "format": "2 lectures, 2 activities."
+    },
+    {
+      "id": "CalPoly_AGC 452",
+      "course name": "Current Trends and Issues in Agricultural Communication",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Presentations by experts from government, industry, and professional organizations. Focus on trends and issues that impact agriculture, in particular agricultural communication. Exploration of solutions to problems facing agricultural communication. Field trip required.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_AGC 461",
+      "course name": "Senior Project I",
+      "prerequisite": [
+        "AGED 460"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Empirical application of the scientific method as it relates to the selection of a project. Projects typical of problems that graduates must solve in their field of employment. 1 seminar."
+    },
+    {
+      "id": "CalPoly_AGC 462",
+      "course name": "Senior Project II",
+      "prerequisite": [
+        "AGC 461"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Completion of a project begun in AGC461. Projects typical of problems that graduates must solve in their field of employment. Project results are presented in a formal report. 1 seminar."
+    },
+    {
+      "id": "CalPoly_AGC 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_AGC 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_AGC 500",
+      "course name": "Individual Study In Agricultural Communication",
+      "units": "1-3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Advanced independent study planned and completed under the direction of a member of the Agricultural Education and Communication faculty. Total credit",
+      "grading": "limited to 6 units"
+    },
+    {
+      "id": "CalPoly_AGC 539",
+      "course name": "Graduate Internship in Agricultural Communication",
+      "units": "1-9 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Application of theory to the solution of problems of agricultural production or related business in the field of Agricultural Communication. Analyze specific management problems and perform general management assignments detailed in a contract between the student, the firm or organization, and the faculty advisor before the internship commences. Degree credit",
+      "grading": "limited to 6 units"
+    },
+    {
+      "id": "CalPoly_AGC 570",
+      "course name": "Selected Topics in Agricultural Communication",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "1 to 4 seminars."
+    },
+    {
+      "id": "CalPoly_AGC 571",
+      "course name": "Selected Advanced Laboratory in Agricultural Communication",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_AGC 580",
+      "course name": "Special Problems in Agricultural Communication",
+      "units": "1-3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Individual study of modern issues and problems conducted through research, planning and development. Field problems and in - service study in agricultural industry encouraged. Final written report required. Total credit",
+      "grading": "limited to 9 units with not more than 3 units in"
+    }
+  ]
+}

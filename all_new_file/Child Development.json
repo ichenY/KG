@@ -1,0 +1,579 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "description": "Purposes of and methodological issues involved in assessing and observing early child development and learning in educational and developmental settings. Topics include selection of appropriate observation methods, survey of standardized measures, ethics, and interpretation and implications of assessment data for teaching and learning. Focus will be on becoming objective and unbiased observers, use of both informal and formal assessment tools, and principles of observational assessment research. Students will be required to complete up to 10 hours of observation outside of class. APA style will be introduced to support the development of practical and scholarly communication and writing. ",
+      "id": "CSUS_CHDV 23",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35"
+      ],
+      "course name": "Assessment and Observation in Child Development",
+      "similarTo": [
+        "CalPoly_CD 401",
+        "CalPoly_CD 431"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Interdisciplinary study of human development with practical observations. Addresses physical, socio-cultural, intellectual and emotional aspects of growth and development from conception to death.  A variety of field experiences will be required.",
+      "id": "CSUS_CHDV 30",
+      "course name": "Human Development"
+    },
+    {
+      "term": "Spring only",
+      "description": "Study of research and exemplary practices in the supervision of early childhood teachers, other program staff, parents and volunteers. Content emphasizes adult learning. ",
+      "course name": "Adult Supervision and Mentoring In Early Childhood Programs",
+      "units": "2 Units",
+      "id": "CSUS_CHDV 31",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Basic issues, procedures and practices in the administration and supervision of public and private schools. Requires administrative supervisory fieldwork in an early childhood program. ",
+      "course name": "Administration and Supervision of Early Childhood Programs",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 32",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examination of theory and research on cognitive, social and physical human development from conception through adolescence.  Content will include data-collection techniques such as observation.  Some course material will be applied to an analysis of elementary schooling.",
+      "id": "CSUS_CHDV 35",
+      "course name": "Child and Adolescent Development",
+      "similarTo": [
+        "CalPoly_CD 401",
+        "CalPoly_CD 431",
+        "CalPoly_CD 460",
+        "CalPoly_CD 417"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Directed field experiences in elementary school settings.  Students are required to work at an elementary school and attend an on campus seminar.  Includes the integration of student field experiences with theory and research in Human Development.  Issues in learning, social development, adult career selection and schooling will be explored. ",
+      "course name": "Human Development and Elementary Field Experience",
+      "units": "2 Units",
+      "id": "CSUS_CHDV 35F",
+      "prerequisite": [
+        "CHDV 35"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " May be taken up to four times for credit (maximum 12 units of credit). ",
+      "description": "Designed to provide a range of service learning experiences where students apply their academic knowledge and skills in community-based settings.  The community-based experiences will be combined with classroom activities designed to develop student understanding of topics related to their service activities such as tutoring reading and math, mentoring students from disadvantaged backgrounds, working with special populations of children. ",
+      "id": "CSUS_CHDV 44",
+      "course name": "Community Service Learning in Developmental and Educational Settings",
+      "similarTo": [
+        "CalPoly_CD 207"
+      ]
+    },
+    {
+      "term": " For CHDV majors, must be taken prior to completion of 90 units; completion of 45 total units credit.  ",
+      "description": "Introduction to qualitative research methods and their philosophical underpinnings. The focus will be on theoretical, methodological, and ethical issues in studying human learning and developmental processes from interpretive and social constructivist perspectives. Attention given to methodological strategies used to document and analyze learning and development in context. Strategies include participant-observation field notes, interviews, audio/video recordings, documents, and artifacts, with implications for theory, policy, and practice. APA style will be introduced to support the development of scholarly communication and writing. ",
+      "course name": "Qualitative Methods in Human Development",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 123",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Introduction to qualitative and quantitative research methods and their philosophical underpinnings. Consider theoretical, methodological, and ethical issues in studying learning and developmental processes from interpretive and social constructivist perspectives. Think critically about the generation of research questions and hypotheses and design and conduct of research inquiry, with implications for theory, policy, and practice. Students learn to locate, understand, critique, conduct, and report research findings from multiple approaches and be introduced to APA style writing as a tool for scholarly communication. ",
+      "course name": "Combined Research Methods in Human Development",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 128",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35"
+      ],
+      "similarTo": [
+        "CalPoly_CD 329"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Ways parent education may be conducted in Child Development programs to meet legislated requirements as well as parent needs. Attention will be given to parent education programs which serve children of different ages, diverse language and cultural backgrounds, and children with special needs. The rights and responsibilities of children, parents and teachers will be discussed. Discussion and participation in such classroom activities as panels, presentations, demonstrations and cooperative learning assignments.",
+      "id": "CSUS_CHDV 130",
+      "course name": "Parent Education"
+    },
+    {
+      "term": " Topic areas will vary by semester, and the course may be repeated.  ",
+      "description": "Investigation of the development of language and its relationship to school learning, cognitive development and social development. Both linguistic and communication competence are included. Specific attention to second language acquisition and principles underlying effective instruction in linguistically diverse children.  ",
+      "course name": "Language Development",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 131",
+      "prerequisite": [
+        "CHDV 133",
+        "CHDV 133"
+      ]
+    },
+    {
+      "term": " May be taken as a core requirement and repeated as an elective.  ",
+      "description": "Directed field experiences in settings selected to meet students' experience and needs. Students are required to work at the selected setting and attend an on-campus seminar to explore developmental content and issues.  Discussion will also focus on attention to professional development and ethics in community and educational settings working with children and families.  ",
+      "course name": "Fieldwork in Child Development",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 132",
+      "prerequisite": [
+        "CHDV 123"
+      ],
+      "similarTo": [
+        "CalPoly_CD 207",
+        "CalPoly_CD 329"
+      ]
+    },
+    {
+      "term": " For CHDV majors, must be taken prior to completion of 90 units; completion of 45 total units credit.  ",
+      "description": "Introduction to quantitative research methods in human development and their philosophical underpinnings. Major topics include the structures, design and conduct of research inquiry, and the generation of research questions and hypotheses, and collection of data. Emphasis will also be on engaging in quantitative research as well as increasing students' ability to locate, understand, critique, and report research findings. Students will be challenged to think critically about methodological issues in quantitative research. AP A style will be introduced to support the development of scholarly communication and writing. ",
+      "course name": "Quantitative Methods in Human Development",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 133",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35"
+      ]
+    },
+    {
+      "term": "Summer only",
+      "description": "Theory, research, and practice in development of the child's thinking about mathematical and scientific concepts. Topics will include: (a) early emergence of conceptual reasoning connected with mathematics and science, (b) symbolic development and language of mathematics and science, (c) developmental sequences in mathematical and scientific thinking, (d) California Preschool Learning Foundations; (e) age-appropriate and culturally-relevant experiences to promote mathematic and scientific reasoning. Activities include lecture, discussions, presentations, cooperative learning assignments, and integration of course content with early childhood classroom practice. ",
+      "course name": "Development  of Young Children as Mathematical and Scientific Thinkers",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 134",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of the physical, socio-emotional and cognitive development in children from a crosscultural orientation. Will investigate cultural variables that influence child development from both inter- and intranational perspectives. Discussion of culturally universal and culturally specific behaviors, cognitions and experiences will be covered. ",
+      "course name": "Crosscultural Child Development",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 135",
+      "prerequisite": [
+        "CHDV 133",
+        "CHDV 133"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of theory, research, and exemplary practices and programs for children through elementary school. Activities include discussions, presentations, demonstrations and cooperative learning assignments. ",
+      "course name": "Developmental Experiences, Methods and Curriculum",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 136",
+      "prerequisite": [
+        "CHDV 123",
+        "CHDV 123"
+      ]
+    },
+    {
+      "term": ".  ",
+      "description": "Cognitive development of children from conception through adolescence with consideration of biological and environmental influences. Lectures, discussions and participation in such classroom activities as presentations, demonstrations and cooperative learning assignments. ",
+      "course name": "Cognitive Development",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 137",
+      "prerequisite": [
+        "CHDV 133",
+        "CHDV 137L",
+        "CHDV 137L"
+      ],
+      "similarTo": [
+        "CalPoly_CD 102"
+      ]
+    },
+    {
+      "term": ".  ",
+      "description": ". Emphasis placed on the observation, interaction, documentation, and using a scientific approach to learn about cognitive development. Classroom, field, and research experiences supporting the study of cognitive development. ",
+      "course name": "Cognitive Development Research Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_CHDV 137L",
+      "prerequisite": [
+        "CHDV 133",
+        "CHDV 137",
+        "CHDV 137",
+        "CHDV 137"
+      ]
+    },
+    {
+      "term": ".  ",
+      "description": "Study of the social and emotional development of children from conception through adolescence with consideration of biological and environmental influences. Lectures, discussions and participation in such classroom activities as presentations, demonstrations and cooperative learning assignments. ",
+      "course name": "Social and Emotional Development",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 138",
+      "prerequisite": [
+        "CHDV 133",
+        "CHDV 138L",
+        "CHDV 138L"
+      ]
+    },
+    {
+      "term": ".  ",
+      "description": ". Emphasis placed on the nature of observation, interaction, and using a scientific approach to learn about social and emotional development. Classroom and field experiences related to the study of social and emotional development. ",
+      "course name": "Social and Emotional Development Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_CHDV 138L",
+      "prerequisite": [
+        "CHDV 133",
+        "CHDV 138",
+        "CHDV 138",
+        "CHDV 138"
+      ]
+    },
+    {
+      "term": "Summer only",
+      "description": "Use of play as an educational vehicle in early childhood. Discovering how play helps children develop physically, socially, emotionally, cognitively and creatively through a variety of playful modes. Constructing appropriate developmental play materials and activities with emphasis on the active role of the adult in child's play. Activities include discussions, presentations, demonstrations and cooperative learning assignments. ",
+      "course name": "Educational Play: Theory and Practice",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 139",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced methodology of coordinating early childhood programs, to include organization, staff development and community relations. Includes the functions of parents, aides, volunteers and varied early childhood organizational patterns. ",
+      "course name": "Coordination of Early Childhood Programs",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 140",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examination of what it means to be a child in today's world by comparing social constructions of childhood across the broad historical periods and in contrasting parts of the world. Exploration of cultural beliefs, values and practices of childhood in different historical, social, and economic contexts. Comparative approach provides a critical framework from which to analyze scholarly inquiry about how children develop in families, schools, and broader society. Course content will interest students from a broad array of majors.",
+      "id": "CSUS_CHDV 141",
+      "course name": "History of Childhood: International and Interdisciplinary Perspectives"
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Investigation of the biological processes underlying child development, from conception through adolescence. Emphasis will be on the genetic, neurological, and endocrine processes related to cognition, social, and emotional development. Students will explore the bidirectional nature of psychobiological processes, with specific emphasis on the psychobiological mechanisms underlying the transaction between cultural, educational, and social-emotional related to educational, and mental and physical health functioning. ",
+      "course name": "Mind and Brain in Developmental Context.",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 143",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " May be taken up to four times for credit (maximum 12 units of credit).  ",
+      "description": "Designed to provide a range of service learning experiences where students apply their academic knowledge and skills in community-based settings.  The community-based experiences will be combined with classroom activities designed to develop student understanding of topics related to their service activities such as tutoring reading and math, mentoring students from disadvantaged backgrounds, working with special populations of children. ",
+      "id": "CSUS_CHDV 144",
+      "course name": "Community Service Learning in Developmental and Educational Settings",
+      "similarTo": [
+        "CalPoly_CD 207"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Discussion-based examination of controversial issues linking development, education, and cultural practice in which scholarly inquiry has substantial implications for social policy. Specific topics vary by semester and include topics of both historical relevance and contemporary debates. Content relevant to multiple disciplines including issues such as adolescent risk behavior, bilingual education, brain-base pedagogy, child care, children and the law, cultural diversity, developmental theory and educational practice, gender, literacy practices, motivation, parenting styles, school violence, special education, standardized testing, and technological change. ",
+      "course name": "Controversial Issues in Childhood Development, Education, and Social Policy.",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 145",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Summer only",
+      "description": ". ",
+      "course name": "Early Literacy Development in First and Second Language",
+      "units": "2 Units",
+      "id": "CSUS_CHDV 150A",
+      "prerequisite": [
+        "CHDV 123",
+        "CHDV 133",
+        "CHDV 123",
+        "CHDV 133",
+        "CHDV 150B",
+        "CHDV 150B"
+      ]
+    },
+    {
+      "term": "Summer only",
+      "description": ". Students will observe and validate multiple experiences in which first and second language learners learn language and literacy succesfully. Factors affecting language and literacy development will be addressed. ",
+      "course name": "Early Literacy Development in First and Second Language Practicum",
+      "units": "1 Unit",
+      "id": "CSUS_CHDV 150B",
+      "prerequisite": [
+        "CHDV 123",
+        "CHDV 133",
+        "CHDV 123",
+        "CHDV 133",
+        "CHDV 150B",
+        "CHDV 150A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Readings will depend on the specific mentor's research or scholarly interest; May be repeated up to four times for 12 units of credit, with a limit of 6 units applied towards the CHDV major requirements.  ",
+      "description": "Faculty mentors will meet with graduate and undergraduate apprentices individually or in small groups for guided discussions of assigned readings and/or research data analysis/collection endeavors. Prerequisite: Instructor permission.",
+      "id": "CSUS_CHDV 153",
+      "course name": "Apprenticeship in Advanced Child Development"
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Survey of historical and contemporary attitudes toward parenting. Review of research on child-rearing and parent-child relationships. Use of case studies to explore the influence of personality, developmental stage, family structure, ethnic and cultural factors on parenting. Lecture, Case Study. ",
+      "course name": "Issues in Parenting",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 154",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35",
+        "FACS 52",
+        "FACS 154"
+      ]
+    },
+    {
+      "term": "Cross Listed: FACS 157; only one may be counted for credit.",
+      "description": "Research theory and practice are examined in relation to each area of infant and toddler development (conception through 24 months):  Physical, social, emotional, cognitive, and perceptual.  Individual differences and needs are stressed.  Issues pertinent to individual and group care will be covered.  Activities include lecture, discussion, and observations. ",
+      "course name": "Infant and Toddler:  Development and Care",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 157",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35",
+        "FACS 50",
+        "PSYC 148",
+        "SWRK 125A"
+      ],
+      "similarTo": [
+        "CalPoly_CD 207",
+        "CalPoly_CD 305"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Cooperative Education (Co-op) relates academic theory to professional practice by providing paid work experience in the student's major field of study and academic credit. Students receive supervised employment in school districts, state and community agencies, companies and other appropriate settings. Requires regular meetings with faculty supervisor,  completion of field study assignment, evaluation by field-based supervisor,  and a written final report. ",
+      "id": "CSUS_CHDV 194",
+      "course name": "Cooperative Education Experience"
+    },
+    {
+      "term": ".  ",
+      "description": "This course examines methodological issues involved in assessment, observation, analysis, and design in the field of child development. Topics include the research process. APA style writing, ethics, design and methods, use assessment tools, qualitative and quantitative data analysis and interpretation. The focus will be on becoming critical consumers of research and developing the skills of scientific injury. ",
+      "course name": "Approaches to Research Methods in Child Development A",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 196A",
+      "prerequisite": [
+        "CHDV 30",
+        "CHDV 35",
+        "CHDV 196A"
+      ]
+    },
+    {
+      "term": " Must be taken prior to 90 units.  ",
+      "description": "Two semester sequence of instruction that examines methodological issues involved in assessment, observation, research design, and analytical concepts involved in the field of child and adolescent development. Topics include the research process, APA style writing, ethics, design and methods, use assessment tools, qualitative and quantitative data analysis and interpretation. The focus will be on becoming critical consumers of research and developing the skills for scientific inquiry. ",
+      "course name": "Approaches to Research Methods in Child Development B",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 196B",
+      "prerequisite": [
+        "CHDV 196A"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Individual projects designed especially for students capable of independent study. Admission by written approval of the instructor and Department Chair.",
+      "id": "CSUS_CHDV 199",
+      "course name": "Special Problems",
+      "similarTo": [
+        "CalPoly_CD 200"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Orientation to advanced scholarship in human development with a focus on understanding and evaluating current directions in developmental research. Developmental research methods and analytical strategies will be explored. ",
+      "id": "CSUS_CHDV 200",
+      "course name": "Proseminar in Child Development",
+      "similarTo": [
+        "CalPoly_CD 207",
+        "CalPoly_CD 329"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Advanced seminar focusing on theoretical and empirical readings covering topics in social/emotional development.  Potential topics may include social and emotional development of children from conception through adolescence with consideration of biological and environmental influences.",
+      "id": "CSUS_CHDV 210",
+      "course name": "Seminar in Social Development"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Advanced developmental seminar focusing on theoretical and empirical readings covering topics in cognitive development. Specific topics will be related to cognitive development of children from conception through adolescence with consideration of biological and environmental influences. ",
+      "id": "CSUS_CHDV 211",
+      "course name": "Seminar in Cognitive Development",
+      "similarTo": [
+        "CalPoly_CD 207",
+        "CalPoly_CD 329"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Graduate Writing Intensive course  ",
+      "description": "An in-depth examination of physical, cognitive, and social development from infancy through adolescence. Content includes current developmental theory and research and the application of this research to educational and community settings, with special emphasis on the cultural context of development. The development of critical thinking skills and scholarly writing will be emphasized. ",
+      "id": "CSUS_CHDV 242",
+      "course name": "Theoretical Approaches to Child Development."
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " May be taken up to four times for credit (maximum 12 units of credit). ",
+      "description": "Designed to provide a range of service learning experiences where students apply their academic knowledge and skills in community-based settings.  The community-based experiences will be combined with classroom activities designed to develop student understanding of topics related to their service activities such as tutoring reading and math, mentoring students from disadvantaged backgrounds, working with special populations of children. ",
+      "id": "CSUS_CHDV 244",
+      "course name": "Community Service Learning in Developmental and Educational Settings",
+      "similarTo": [
+        "CalPoly_CD 207"
+      ]
+    },
+    {
+      "units": "3 - 6 Units",
+      "term": " May be repeated twice as long as topic differs.  Three units may be used toward the elective requirements in the Master of Arts in Child Development.  ",
+      "description": "In-depth study of selected topics in cognitive and socio-emotional development of preschool and primary grade children as related to educational practice.  Content includes theory and research on psychological dimensions of children as they participate in various contextual settings. ",
+      "id": "CSUS_CHDV 245",
+      "course name": "Selected Topics in Developmental Theory"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Sources of and developmental changes in motivation, including biological predispositions, critical life events, individual differences, and social, cultural and educational experiences will be examined.  Students will participate in a group research effort on motivation and educational practice. ",
+      "id": "CSUS_CHDV 246",
+      "course name": "Motivation and Learning in Children"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "The cultural basis of human development through an in-depth examination of the socio-emotional, cognitive, language and gender development of children from infancy through adolescence within and across different cultures and communities. Theory, methods, and research of cross-cultural investigations will be considered and applications of course material to educational and community settings will be explored and analyzed. ",
+      "course name": "Theoretical and Applied Perspectives on Cross-cultural Development",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 247",
+      "prerequisite": [
+        "CHDV 242"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Advanced study of the sociocultural influences on curriculum development.  Research, theory, and curricular practices will be analyzed, evaluated and applied to a variety of preschool and primary grade settings. ",
+      "id": "CSUS_CHDV 248",
+      "course name": "Curriculum and Instruction"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Language is an important cognitive and communicative tool that promotes learning.  Through an integrative approach to language and cognitive development, students will examine how children learn through language.  Students will have practical experience in collecting and analyzing children's language learning in educational settings. ",
+      "id": "CSUS_CHDV 249",
+      "course name": "Language Processes in Development"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Critical analysis of quantitative research methods used in the study of development. Core issues in studying development will be discussed as they relate to families and societal issues. Major topics include the philosophical underpinnings of research design, various research methods of inquiry, ethical issues, and the development of reports representative of research questions and data collection. Critical thinking and writing skills will be emphasized. ",
+      "course name": "Quantitative Research Methods",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 250",
+      "prerequisite": [
+        "CHDV 133"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Readings will depend on the specific mentor's research or scholarly interest; May be repeated up to 4 times for credit.  ",
+      "description": "Faculty mentors will meet with graduate and undergraduate apprentices individually or in small groups for guided discussions of assigned readings and/or research data analysis/collection endeavors. ",
+      "id": "CSUS_CHDV 253",
+      "course name": "Apprenticeship in Advanced Child Development"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Seminar to focus on topics/elements/expectations to be included in the culminating experience: defining and narrowing a topic for study; abstract writing; differentiation of primary/secondary source of evidence; development of organizational schemes for a literature review; database literature searches; APA format requirements; time management, range and breadth of evidence for a comprehensive review; connecting the review and project/thesis; writing style and quality; revisions and critical feedback; social/psychological dimensions of thesis/project process; data analysis and statistics help on campus for thesis. ",
+      "id": "CSUS_CHDV 290",
+      "course name": "Seminar for Culminating Experience"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Seminar to focus on topics/elements/expectations for the exam option culminating experience: test preparation and tips, exam writing, practice exam questions, time management, and community building with other students. Students will complete reading and writing assignments related to each exam area and prepare for an exam question related to an approved elective topic of their choice. Students will submit an exam petition to be reviewed and approved by the departmental exam committee. ",
+      "course name": "Culminating Seminar for Exam Option",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 292",
+      "prerequisite": [
+        "CHDV 242",
+        "CHDV 247",
+        "CHDV 250"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Students are required to work at an instructor-approved field site consistent with their career goals and interests and attend an on campus seminar.  ",
+      "description": "Directed field based experience in preschool, elementary or other community based settings serving children from infancy through adolescence and their families.  Designed to provide students the opportunity to develop professional skills and understandings in applied settings or explore career development opportunities with particular emphasis on leadership or administrative skills and knowledge. ",
+      "id": "CSUS_CHDV 295",
+      "course name": "Practicum in Child Development",
+      "similarTo": [
+        "CalPoly_CD 207",
+        "CalPoly_CD 329"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Individual projects at graduate level designed especially  for students capable of independent study.  Departmental petition, signed by instructor with whom student will be working and department chair, required. ",
+      "id": "CSUS_CHDV 299",
+      "course name": "Special Problems",
+      "similarTo": [
+        "CalPoly_CD 200"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Guidance toward completion of thesis or project option for the MA, Child Development program. Credit is given upon successful completion of a thesis, project, or other approved culminating experience.  Open only to the graduate student who has been advanced to candidacy for the Master's degree and has secured the permission of his/her faculty advisor and the Department Chair one full semester prior to registration. ",
+      "id": "CSUS_CHDV 504",
+      "course name": "Culminating Experience in  Child Development: Thesis or Project"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Guidance in ongoing preparation for the examination option for the MA, Child Development program. Credit is given upon successful completion of the examination option for the culminating experience. Open only to the graduate student who has completed all other course requirements, has been advanced to candidacy for the Master's degree, and has secured the permission of the Department Chair one full semester prior to registration. ",
+      "course name": "Culminating Experience in Child Development: Exam Option",
+      "units": "3 Units",
+      "id": "CSUS_CHDV 505",
+      "prerequisite": [
+        "CHDV 292"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "CHDV",
+    "subject": "Child Development"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Child Development",
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,1861 @@
+{
+  "courses": [
+    {
+      "term": " May be taken for workload credit toward establishing full-time enrollment status, but is not applicable to the baccalaureate degree.  ",
+      "description": "Prepares students for the challenging thinking, reading, and writing required in academic discourse. Uses writing as a means for discovery and reflection as well as reading as a source for ideas, discussion, and writing. Concentrates on developing expository essays that communicate clearly, provide adequate levels of detail, maintain overall coherence and focus, and demonstrate awareness of audience and purpose. ",
+      "course name": "Basic Writing Skills",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 1",
+      "prerequisite": [
+        "ENGL 15"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Devoted to the principles of critical thinking and the writing of argumentative essays. Focuses upon formulating defensible statements, evaluating evidence, and applying the principles of inductive and deductive reasoning. ",
+      "course name": "Critical Thinking and Writing",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 1C",
+      "prerequisite": [
+        "ENGL 5"
+      ]
+    },
+    {
+      "term": " May be taken for workload credit toward establishing full-time enrollment status, but is not applicable to the baccalaureate degree.  ",
+      "description": "Offers supplemental instruction in elements of composition and assists students in mastering the writing process with special emphasis on planning and revising essays. Instruction takes place both in traditional classroom setting and in small group and individual tutorials. Students enrolled in this tutorial must also be coenrolled in a first-year composition course as the focus will be drafting and revising the work done in the primary writing course. ",
+      "course name": "Composition Tutorial",
+      "units": "1 Unit",
+      "id": "CSUS_ENGL 1X",
+      "prerequisite": [
+        "ENGL 5",
+        "ENGL 5M",
+        "ENGL 10M",
+        "ENGL 11",
+        "ENGL 11M"
+      ]
+    },
+    {
+      "units": "4 Units",
+      "term": " Receives baccalaureate credit. ",
+      "description": "Offers students a rigorous introduction to academic discourse at the college level in the areas of critical reading, critical thinking, academic discussion, and the use of academic research. Concentrates on using expository texts as a foundation for analyzing the rhetorical strategies and effectiveness of an argument. Promotes academic discussion and fosters intellectual curiosity and collaboration. ",
+      "id": "CSUS_ENGL 3",
+      "course name": "Introduction to Academic Discourse"
+    },
+    {
+      "units": "4 Units",
+      "term": " Receives baccalaureate credit. ",
+      "description": "Offers multilingual students a rigorous introduction to academic discourse at the college level in the areas of critical reading, critical thinking, academic discussion, and the use of academic research. Concentrates on using expository texts as a foundation for analyzing the rhetorical strategies and effectiveness of an argument. Promotes academic discussion and fosters intellectual curiosity and collaboration. ",
+      "id": "CSUS_ENGL 3M",
+      "course name": "Introduction to Academic Discourse for Multilingual Students"
+    },
+    {
+      "units": "3 Units",
+      "term": " Writing requirement ",
+      "description": "Intensive, semester-long course to help students use reading, writing, discussion, and research for discovery, intellectual curiosity, and personal academic growth - students will work in collaborative groups to share, critique, and revise their reading and writing. Students will engage in reading and writing as communal and diverse processes; read and write effectively in and beyond the university; develop metacognitive understandings of their reading, writing, and thinking processes; and understand that everyone develops and uses multiple discourses. ",
+      "id": "CSUS_ENGL 5",
+      "course name": "Accelerated Academic Literacies"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Intensive, semester-long course to help multilingual students use reading, writing, discussion, and research for discovery, intellectual curiosity, and personal academic growth - students will work in collaborative groups to share, critique, and revise their reading and writing. Students will engage in reading and writing as communal and diverse processes; read and write effectively in and beyond the university; develop metacognitive understandings of their reading, writing, and thinking processes; and understand that everyone develops and uses multiple discourses.",
+      "id": "CSUS_ENGL 5M",
+      "course name": "Accelerated Academic Literacies - Multilingual"
+    },
+    {
+      "term": " Writing requirement ",
+      "description": ") to help students use reading, writing, discussion, and research for discovery, intellectual curiosity, and personal academic growth - students will work in collaborative groups to share, critique, and revise their reading and writing. Students will engage in reading and writing as communal and diverse processes; read and write effectively in and beyond the university; develop a metacognitive understanding of their reading, writing, and thinking processes; and understand that everyone develops and uses multiple discourses. ",
+      "course name": "Academic Literacies I",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 10",
+      "prerequisite": [
+        "ENGL 11"
+      ]
+    },
+    {
+      "term": " Writing requirement ",
+      "description": ") to help multilingual students use reading, writing, discussion, and research for discovery, intellectual curiosity, and personal academic growth students will work in collaborative groups to share, critique, and revise their reading and writing. Students will engage in reading and writing as communal and diverse processes; read and write effectively in and beyond the university; develop a metacognitive understanding of their reading, writing, and thinking processes; and understand that everyone develops and uses multiple discourses. ",
+      "course name": "Academic Literacies I - Multilingual",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 10M",
+      "prerequisite": [
+        "ENGL 11M"
+      ]
+    },
+    {
+      "term": " Writing requirement ",
+      "description": ") to help students use reading, writing, discussion, and research for discovery, intellectual curiosity, and personal academic growth - students will work in collaborative groups to share, critique, and revise their reading and writing. Students will engage in reading and writing as communal and diverse processes: read and write effectively in and beyond the university; develop a metacognitive understanding of their reading, writing, and thinking processes; and understand that everyone develops and uses multiple discourses. ",
+      "course name": "Academic Literacies II",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 11",
+      "prerequisite": [
+        "ENGL 10",
+        "ENGL 10"
+      ]
+    },
+    {
+      "term": " Writing requirement ",
+      "description": ") to help multilingual students use reading, writing discussion, and research for discovery, intellectual curiosity, and personal academic growth - students will work in collaborative groups to share, critique, and revise their reading and writing. Students will engage in reading and writing as communal and diverse processes; read and write effectively in and beyond the university; develop a metacognitive understanding of their reading, writing, and thinking processes; and understand that everyone develops and uses multiple discourses. ",
+      "course name": "Academic Literacies II-Multilingual",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 11M",
+      "prerequisite": [
+        "ENGL 10M",
+        "ENGL 10M"
+      ]
+    },
+    {
+      "units": "4 Units",
+      "term": " Utilizes computers.  ",
+      "description": "Instruction in reading and writing skills. Focuses on the interrelationship of reading and writing, with emphasis on development, organization, and clarity of communication.   Lecture three hours; lab two hours. ",
+      "id": "CSUS_ENGL 15",
+      "course name": "College Language Skills"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to the terminology and structure of traditional grammar; analysis of the standard rules for agreement, punctuation, pronoun reference, etc.; introduction to social variance with respect to usage-standard vs. non-standard; and a description of the English sound system (vowels and consonants) and its relationship to standard orthography (sound/letter correspondences) spelling rules. ",
+      "course name": "Structure Of English",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 16",
+      "prerequisite": [
+        "ENGL 5"
+      ]
+    },
+    {
+      "term": " Writing requirement ",
+      "description": ". Emphasizes rhetorical awareness by exploring reading and writing within diverse academic contexts with a focus on the situational nature of the standards, values, habits, conventions, and products of composition. Students will research and analyze different disciplinary genres, purposes, and audiences with the goals of understanding how to appropriately shape their writing for different readers and demonstrating this understanding through various written products. ",
+      "course name": "College Composition II",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 20",
+      "prerequisite": [
+        "ENGL 5",
+        "ENGL 5M",
+        "ENGL 11M",
+        "ENGL 5",
+        "ENGL 5M"
+      ]
+    },
+    {
+      "term": " Writing requirement ",
+      "description": "Advanced writing for multilingual that builds upon the critical thinking, reading, and writing processes introduced in English 5/5M. Emphasizes rhetorical awareness by exploring reading and writing within diverse academic contexts focusing on the situational nature of the standards, values, habits, conventions, and products of composition. Students will research and analyze different disciplinary genres, purposes, and audiences with the goals of understanding how to appropriately shape their writing for different readers and demonstrating this understanding through various written products.  ",
+      "course name": "College Composition II for Multilingual Students",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 20M",
+      "prerequisite": [
+        "ENGL 5",
+        "ENGL 5M"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University.  Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills.  Provides students with the opportunity to interact with fellow students and the seminar leader and to build a community of academic and personal support.",
+      "id": "CSUS_ENGL 21",
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Workshop for students who have had little or no experience writing fiction or poetry and who are trying to decide if they are interested in becoming writers.  Over the course of the semester, students write and polish several poems and short stories which they present for critique and commentary.  In addition, they study the basic elements of fiction and poetry and learn how to use these effectively in their own work.",
+      "id": "CSUS_ENGL 30A",
+      "course name": "Introduction to Creative Writing"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Workshop for students who have had little or no experience writing fiction.  Students write and polish several short stories which they present for critique and commentary.  In addition, they study the basic elements of plot, character, description, and dialogue and learn how to use these effectively in their own fiction.",
+      "id": "CSUS_ENGL 30B",
+      "course name": "Introduction to Writing Fiction"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Designed for lower division students who have little or no experience writing poetry.  Students will write approximately twelve poems in a variety of forms and receive instruction and practice in the workshop method.  In addition, they study the basic elements of poetic craft: rhythm, enjambment, basic figures of speech, etc., and how to use them effectively in their own poetry.",
+      "id": "CSUS_ENGL 30C",
+      "course name": "Introduction to Poetry Writing"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Major developments in the literature of England from Chaucer through the close of the Augustan Age.",
+      "id": "CSUS_ENGL 40A",
+      "course name": "Introduction to British Literature I"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Major developments in the literature of England from the Pre-Romantics and Romantics through the 20th century.",
+      "id": "CSUS_ENGL 40B",
+      "course name": "Introduction to British Literature II"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Major developments in the literature of America from the beginnings through the Civil War.",
+      "id": "CSUS_ENGL 50A",
+      "course name": "Introduction to American Literature I"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Major developments in American Literature from the end of the Civil War to the present.",
+      "id": "CSUS_ENGL 50B",
+      "course name": "Introduction to American Literature II"
+    },
+    {
+      "units": "2 Units",
+      "term": " Utilizes computers; may be repeated for credit. ",
+      "description": "Strategies and techniques to promote greater reading efficiency and flexibility and increase reading speed.  Drills to develop rate and comprehension as well as supplementary practice in the LSC reading lab. ",
+      "id": "CSUS_ENGL 60",
+      "course name": "Reading for Speed and Efficiency"
+    },
+    {
+      "units": "2 Units",
+      "term": " Utilizes computers; May be repeated for credit. ",
+      "description": "Strategies and techniques to promote greater reading efficiency and flexibility as well as to increase reading speed for college-level multilingual readers. Classroom instruction includes drills to develop rate and comprehension as well as supplementary practice in the LSC reading lab. ",
+      "id": "CSUS_ENGL 60M",
+      "course name": "Reading for Speed and Efficiency for Multilingual Students"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "An introduction to world literature written in English that places writers and their works within colonial, post-colonial, and literary contexts.  Texts may come from Africa, India, Southeast Asia, the Middle East, the Caribbean, Canada, and non-English Britain.",
+      "id": "CSUS_ENGL 65",
+      "course name": "Introduction to World Literatures in English"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for credit. ",
+      "description": "Covers the major systems of English grammar in the context of reading passages and the students' own writing. Practice in editing authentic writing. ",
+      "id": "CSUS_ENGL 85",
+      "course name": "Grammar for Multilingual Writers"
+    },
+    {
+      "units": "4 Units",
+      "term": " Utilizes computers.  ",
+      "description": "Focuses on the interrelationships of reading and writing, with emphasis on development, organization, grammar, and clarity of communication.  Lecture three hours; lab two hours. ",
+      "id": "CSUS_ENGL 86",
+      "course name": "College Language Skills for Multilingual Students"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Emphasizes writing and language development. Instruction in reading and essay writing, from idea generation to revision and editing. ",
+      "course name": "Basic Writing Skills for Multilingual Students",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 87",
+      "prerequisite": [
+        "ENGL 86"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 90A",
+      "course name": "Modern Short Plays"
+    },
+    {
+      "term": ".",
+      "description": "Examines cinematic techniques, styles, vocabulary, and discourses. Introduces different ways for writing about films and for working with a variety of cinematic terms. Film form and style will be studied by examining specific scenes in films from different genres, nations, and directors. Films used throughout the course will be selected from different historical periods. ",
+      "course name": "Introduction to Film Studies",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 97",
+      "prerequisite": [
+        "FILM 97"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Designed to engage students in a productive conversation about the various theories of literature and reading that currently inform Literary Studies.  Provides a historical overview of modern theory including, but not limited to, Formalism, Structuralism, Psychoanalysis, Marxism, Deconstruction, and Feminism.  Students are encouraged to apply these theories to their practice of literary criticism and to assess the strengths and weaknesses of each paradigm.",
+      "id": "CSUS_ENGL 100B",
+      "course name": "Literary Theory"
+    },
+    {
+      "term": " May be repeated twice for credit as long as topics vary; Writing Intensive  ",
+      "description": "Investigates one or more schools of literary theory or criticism and their application to works of literature and/or film. ",
+      "course name": "Topics in Literary Theory and Criticism.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 100Z",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Survey of film theory focusing on Auteurism, Class, Expressionism, Formalism, Genre, Gender, Narratology, Neorealism, Phenomenology, Post Structuralism, Psychoanalysis, Realism, Semiology, Structuralism and Third Cinema. ",
+      "course name": "Film Theory and Criticism",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 105",
+      "prerequisite": [
+        "FILM 105"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides intensive practice in prewriting, drafting, revising, and editing academic writing for multilingual writers. Students research, analyse, reflect on, and write about the kinds of writing produced in academic disciplines. Students produce a considerable amount of writing such as informal reading responses, rhetorical analyses, and an extended academic research project: students will submit their writing late in the semester in a GWAR Portfolio, from which they will receive a GWAR Placement. ",
+      "course name": "Writing for GWAR Placement-Multilingual",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 109M",
+      "prerequisite": [
+        "ENGL 20"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides intensive practice in prewriting, drafting, revising, and editing academic writing. Students research, analyse, reflect on, and write about the kinds of writing produced in academic disciplines. Students produce a considerable amount of writing such as informal reading responses, rhetorical analyses, and an extended academic research project: students will submit their writing late in the semester in a GWAR Portfolio, from which they will receive a GWAR Placement. ",
+      "id": "CSUS_ENGL 109W",
+      "course name": "Writing for GWAR Placement"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Student-centered group tutorial which will offer supplemental instruction in elements of academic writing taught in writing-intensive upper-division courses; it will provide support to students concurrently enrolled in writing-intensive upper-division courses throughout the writing process, including drafting, revising, and editing, for a variety of papers. ",
+      "id": "CSUS_ENGL 109X",
+      "course name": "Writing-Intensive Workshop"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of modern English and the basic concepts of modern linguistics.  Students will learn how linguists view regularity in language, as exemplified by data from English.  Students will also learn how English spelling is an imperfect representation of sounds, how the sound system of English operates, how words and sentences are formed and may be analyzed, how the language changes over time, space, and social setting, and how the language is learned by children and adults.",
+      "id": "CSUS_ENGL 110A",
+      "course name": "Linguistics and the English Language"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of the linguistic and social history of the English language, tracing its growth from a minor dialect of the Germanic family to one of the most widely spoken languages of the world.  Topics include structural change in the language, vocabulary growth, and variation in English around the world.",
+      "id": "CSUS_ENGL 110B",
+      "course name": "History of the English Language"
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Prepares language teachers to effectively integrate technology into classrooms. Examines theoretical rationales for using computer-assisted language learning, the range of uses of technology in classrooms, and best practice. Develops students' technological literacy and ability to critically evaluate computer-assisted language teaching materials. ",
+      "course name": "Technology in Second Language Teaching",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 110C",
+      "prerequisite": [
+        "ENGL 210C"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Develops a thorough understanding of basic issues in traditional English grammar and usage.  It emphasizes knowledge of traditional grammar needed by single-subject credential students expecting to teach high school English.  Topics include parts of speech, functions of words in sentences, phrases and clauses, and punctuation.  Students will learn to apply their knowledge of grammar in composition instruction and marking essays.  Students will also study use of specific grammatical features in developing rhetorical styles.",
+      "id": "CSUS_ENGL 110J",
+      "course name": "Traditional Grammar and Standard Usage"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Surveys the major issues involved in the acquisition of second languages and in teaching second language (L2) students. Topics covered include differences between first and second language acquisition, including age, biology, cognitive styles, personality, sociocultural factors, and linguistic variables; in addition, various models, techniques and approaches to L2 teaching are covered.  Special attention is given to the unique demographics and characteristics of language minority students in California's public schools.",
+      "id": "CSUS_ENGL 110P",
+      "course name": "Second Language Learning and Teaching"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "A survey of those aspects of English grammar that are relevant to teaching second language learners of English.  The emphasis is on elements of simple and complex sentences, particularly the structure of noun phrases, the meanings of verb forms, and the expression of adverbial meanings.",
+      "id": "CSUS_ENGL 110Q",
+      "course name": "English Grammar for ESL Teachers"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students learn the basics of the English system of phonology and morphology.  Takes an integrated approach synthesizing the issues of phonics, schemata-building, and whole language strategies in teaching reading and writing to young learners.  Students will also learn the importance of first and second language acquisition for elementary school students.Evaluation will include classroom examinations, and students will also undertake a detailed case study of one child learning to read and write. ",
+      "course name": "Studies in Applied Linguistics",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 116A",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the rich profusion of children's literature from a variety of cultures and countries and provides the opportunity to respond to this literature creatively and personally. Students will become familiar with the basic terminology of literary analysis -- themes, irony, point-of-view, etc.-- in order to deepen and enrich their experiences with the fiction, drama, and poetry available to young people. The readings are balanced for gender, culture, and ethnic concerns. ",
+      "id": "CSUS_ENGL 116B",
+      "course name": "Children's Literary Classics"
+    },
+    {
+      "term": " is a requirement for English majors.  ",
+      "description": "An intensive writing workshop in which student writing is the focus. Students will engage in a writing process that will include feedback from peers and the instructor throughout the process. This writing process may occur in a variety of rhetorical situations and genres. Through reflection on their writing products and processes, students will gain an awareness of themselves as writers. By the end of the course students will complete an extensive research project focused on academic inquiry. ",
+      "course name": "Advanced Composition",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 120A",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 120A"
+      ]
+    },
+    {
+      "term": " May be repeated for credit as long as topic differs.  ",
+      "description": "Offers a rotating series of topics relevant to composition studies, such as technology-based writing, writing across the curriculum, critical literacy, etc. Introduces students to the theory and practice of the field under consideration. Regardless of the topics, students will explore the major scholarly works of the field and produce writing that analyzes and utilizes the concepts in the area under consideration. ",
+      "course name": "Topics in Composition.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 120C",
+      "prerequisite": [
+        "ENGL 20",
+        "ENGL 120A",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Teaches students the most common professional writing genres used in career fields ranging from business to public relations to nonprofit management. Focuses on how business or technical communication is different from academic styles and introduces students to the current writing challenges and practices in these fields. Students will gain instruction and practice composing various essential writing formats, such as memos, reports, and feasibility studies. ",
+      "course name": "Professional Writing.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 120P",
+      "prerequisite": [
+        "ENGL 20",
+        "ENGL 120A",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit as long as topic differs.   Prerequisite ",
+      "description": "Offers a rotating series of topics relevant to rhetorical studies, such as digital rhetoric, cultural rhetorics, contemporary rhetorical theories, etc. Introduces students to the theory and practice of the field under consideration. Regardless of the topic, students will explore the major scholarly works of the field and produce writing that analyzes and utilizes the concepts in the area under consideration. ",
+      "id": "CSUS_ENGL 120R",
+      "course name": "Topics in Rhetoric."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduces principles of analyzing and composing texts appropriate for various social science disciplines. Provides practice in analyzing texts in social science journals and in writing abstracts, summaries, and literature reviews. Appropriate for upper-division undergraduate students and beginning graduate students in TESOL and in other social science programs (e.g., psychology, sociology, anthropology, etc.) ",
+      "id": "CSUS_ENGL 120S",
+      "course name": "Writing in the Social Sciences"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students will learn how to format papers, cite sources, and integrate in-text citations into their work according to MLA and APA formatting and style guides. ",
+      "course name": "MLA and APA Style Guides",
+      "units": "1 Unit",
+      "id": "CSUS_ENGL 120X",
+      "prerequisite": [
+        "ENGL 120A",
+        "ENGL 198T"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "One-on-one tutoring in reading and writing at the University Writing Center. Student writers will meet with assigned tutor an hour a week. Topics could include understanding assignments, prewriting, revising, reading strategies, editing strategies, integrating research, etc. Students must sign up for a regular tutoring session time during week two of the semester at the University Writing Center. ",
+      "id": "CSUS_ENGL 121",
+      "course name": "Writing Center Tutoring"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides prospective secondary school English teachers with an opportunity to think through important issues related to the planning and implementation of literature programs for adolescents.  Equal emphasis will be given to the study of poetry, fiction, non-fiction, drama, and film.  The focus will embrace literature from a variety of cultures and periods. ",
+      "course name": "Literature and Film for Adolescents",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 125A",
+      "prerequisite": [
+        "ENGL 20",
+        "120A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides an introduction to teaching writing in high school and operates on the assumption that the need for and impact of writing competence for students is interdisciplinary and pervasive. The class has a workshop format, and students will practice many of the strategies studied. The texts will cover theoretical issues in teaching composition and practical methods of implementing theory in public school classrooms. ",
+      "course name": "Writing and the Young Writer",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 125B",
+      "prerequisite": [
+        "ENGL 20",
+        "ENGL 120A",
+        "ENGL 110J",
+        "ENGL 110Q",
+        "ENGL 16"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Helps prospective teachers to better understand the unique needs of second language students.  Covers second language acquisition theory with particular emphasis on the teaching of reading and writing for academic purposes.  Practical skills covered will all focus on the particular needs of second language readers and writers, for instance, how to help them to read more efficiently and with greater comprehension, how to write more fluently and accurately in ways that meet the needs and expectations of the academic discourse community.",
+      "id": "CSUS_ENGL 125E",
+      "course name": "Academic Reading and Writing for Second Language Students"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provide students with both the necessary background knowledge as well as the specific pedagogical tools for promoting proficiency in spoken interaction, listening skills, and pronunciation in second language/foreign language contexts, specifically, English as a Second Language (ESL) and English as a Foreign Language (EFL).",
+      "id": "CSUS_ENGL 125F",
+      "course name": "Teaching Oral Skills"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Workshop for students who already have some experience writing short stories.  Students write and polish several stories which they present for critique and commentary.  They also take an in-depth look at the theory and craft of fiction-writing, analyze the stories of contemporary writers from diverse ethnic and cultural backgrounds, and learn how to apply what they have learned to their own writing. ",
+      "course name": "Intermediate Fiction Writing",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 130A",
+      "prerequisite": [
+        "ENGL 30A",
+        "ENGL 30B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ".  Emphasizes practice and experimentation with meters, verse forms, and figures of speech.  Focal points for analysis and discussion will be poems and essays by contemporary poets of various aesthetic orientations, as well as work produced by members of the class. ",
+      "course name": "Intermediate Poetry Writing",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 130B",
+      "prerequisite": [
+        "ENGL 30A",
+        "ENGL 30C",
+        "ENGL 30A",
+        "ENGL 30C"
+      ]
+    },
+    {
+      "term": " May be repeated twice for credit assuming the topic is different.  ",
+      "description": "Provides students with further opportunity to refine their poetic craft beyond the levels achieved in 30C and 130B.  Emphasizes further experimentation with meters, verse forms, and figures of speech as well as questioning the \"rules\" of poetry and encouraging students to blur or defy the boundaries of genre.  Focal points for analysis and discussion will be poems and essays by contemporary poets of various aesthetic orientations, as well as work produced by members of the class. ",
+      "course name": "Special Topics in Poetry Writing",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 130C",
+      "prerequisite": [
+        "ENGL 30A",
+        "ENGL 30C"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Offers an in-depth study of prosody including the principles of meter (line measurement) and scansion (the marking of stressed syllables to determine meter and rhythm), as well as examining the relationship of these principles to verse in English. Examines a variety of poetic schemes, tropes, and forms.  Three hours, lecture and guided practice.",
+      "id": "CSUS_ENGL 130D",
+      "course name": "Meter and Rhythm"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on training students in video literacy and script writing for the video explosion: educational media, documentaries, and interactive programs.",
+      "id": "CSUS_ENGL 130F",
+      "course name": "Writing For Television"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ".",
+      "course name": "Between Genres: Flash Fiction/Prose Poetry",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 130G",
+      "prerequisite": [
+        "ENGL 30A",
+        "ENGL 30B",
+        "ENGL 30C"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Workshop designed for students who have little or no previous experience writing for the screen.  Students write the synopsis, treatment, and part of the master scene script for a feature film, all of which are polished and revised in a workshop setting.  Special attention is given to the dynamics of plot, characterization, and dialogue with an emphasis on the difference between writing for film and writing other kinds of fiction.",
+      "id": "CSUS_ENGL 130J",
+      "course name": "Writing Feature Filmscripts"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students keep a journal and write several drafts of an autobiographical essay which they present for critique and commentary.  They also read and analyze several biographies and journals by writers from diverse ethnic and cultural backgrounds. ",
+      "course name": "Art of Autobiography.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 130M",
+      "prerequisite": [
+        "ENGL 30A",
+        "30B",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students write several non-fiction pieces which may include (but are not limited to) autobiography, memoir, nature-writing, travel writing, and literary memoir.  Students need not previously have had fiction-writing experience to take this course, but they must be prepared to write literary non-fiction of high quality. ",
+      "course name": "Creative Non-Fiction",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 130N",
+      "prerequisite": [
+        "ENGL 30A",
+        "ENGL 30B"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "description": "Theory and practice in the writing of poetry at the advanced level. Consists primarily of the preparation and evaluation of student work. Students arc also assigned supplemental readings designed to help them determine their affinity (or lack of affinity) with current poetic theory and practice. ",
+      "id": "CSUS_ENGL 130W",
+      "prerequisite": [
+        "ENGL 30A",
+        "ENGL 30C"
+      ],
+      "course name": "Advanced Poetry Writing"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "In this creative writing course students will learn how to write children's literature in a wide array of genres, including picture book texts, early readers, poetry, and middle grade and young adult novels. The course will give an overview of these genres and through portfolio assignments allow students to sample different genres and gain expertise in one particular genre. ",
+      "course name": "Creative Writing for Young Audiences",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 130Y",
+      "prerequisite": [
+        "ENGL 30A",
+        "ENGL 30C"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the grammar of Old English with particular attention to its survival in the modern language. Shows students how to use their instincts as native speakers of Modern English to acquire a good working sense of the original form of the language.  Readings in biblical and historical texts will be supplemented by an introduction to Old English paleography which will allow students to access literature in the original.",
+      "id": "CSUS_ENGL 140A",
+      "course name": "Introduction to Old English"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of English literature from 1100 to 1500.  Students will read texts from the various genres of Middle English literature--romance, lyric, ballad, lay, drama, history--in the dialects of origin.  Focuses on how medieval thought both differs from and anticipates modern thought.",
+      "id": "CSUS_ENGL 140B",
+      "course name": "Medieval Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "English Renaissance refers to exploration, experimentation, and creativity during the sixteenth and early seventeenth centuries in England.  The poets, playwrights, and prose writers of the age include Shakespeare, Marlowe, Jonson, Spenser, Donne, Bacon, Sidney, and Milton.  Explores, discusses, and analyzes representative works by figures of the age--including prose and poetry--making connections between the writers and the cultural context in which they worked.",
+      "id": "CSUS_ENGL 140C",
+      "course name": "The English Renaissance"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "In-depth examination of the drama of late 17th century England, a drama which revolutionized the British theater and whose influence is still very much with us.  It includes the study of the age itself, the social and political issues of the time as well as its art, specifically its comedies of manners, which it examines in their historical context as immediate descendants of Jacobean drama and progenitors of the Sentimental comedy of the 18th century.",
+      "id": "CSUS_ENGL 140E",
+      "course name": "Restoration Comedy"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Covers the period from 1680 to 1745, focusing on the major works of England's greatest satirists: John Dryden, Jonathan Swift, John Gay, William Hogarth (the painter), and Alexander Pope.  It begins with a general discussion of the nature and purpose of satire.",
+      "id": "CSUS_ENGL 140F",
+      "course name": "The Golden Age Of Satire"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The novel as we know it today was invented in the 18th century.  Students study the origins of the novel and read several major works of 18th-century British fiction, such as Defoe's Moll Flanders, Richardson's Clarissa, Fielding's Tom Jones, Sterne's Tristram Shandy, and Austen's Pride and Prejudice.  Students also study Samuel Johnson who, though not a novelist, was perhaps the greatest prose writer of the period.",
+      "id": "CSUS_ENGL 140G",
+      "course name": "Birth of the British Novel"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Devoted to exploring the fiction of nineteenth-century British novelists from Jane Austen through Thomas Hardy.  Particular attention is paid to prevalent genres, especially the mixing of romance and realism, narrative and plot structures, imagery patterns, character types and anti-types, and thematic concerns, which usually involve some sort of conflict between the self and society, the individual and institutions (or the environment).",
+      "id": "CSUS_ENGL 140H",
+      "course name": "Nineteenth Century Novel"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines British literature and culture during the late eighteenth and early nineteenth centuries. Topics may include war and revolution, tourism and the picturesque, genius and imagination, the Gothic, Romanic orientalism and literature and the environment. Writers covered may include Smith, Blake, Wollstonecraft, the Wordsworths, Scott, Coleridge, Austen, de Quincey, Byron, the Shelleys, Hemans and Keats.",
+      "id": "CSUS_ENGL 140I",
+      "course name": "British Romanticism"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Explores themes and forms of the Victorian period, stressing the evolving role of the artist and the growth of self-consciousness in verse and prose.  Victorian themes like the divided self, the love-duty conflict, and the inevitable crises of faith are recurring problems in the obsessive Victorian debate between flesh and spirit.  Analyzes this dialectic in the poetry of Browning, Tennyson, the Pre-Raphaelites and Decadents, in a representative novel, and in the prose of Ruskin, Mill, and Pater.",
+      "id": "CSUS_ENGL 140J",
+      "course name": "The Victorian Imagination"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "In-depth examination of some of the important British texts in fiction, poetry, and drama from 1900 to the present.  The works dramatize the important historical, social and aesthetic changes in a century which saw the collapse of the British Empire, the spread of democracy, the rise of Modernism and the Absurd in the arts, and the continuing struggle of the personal statement in an impersonal world.",
+      "id": "CSUS_ENGL 140K",
+      "course name": "Modern British Literature, 1900-Present"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of British fiction from 1900 to the present which covers the struggle between traditional Realism and Modernism in the novel, the decline and fall of the British Empire and the rise of the former colonies as purveyors of fictions in English in their own right, and the development of new experimental forms in the last decades of the 20th century.",
+      "id": "CSUS_ENGL 140L",
+      "course name": "Modern British Fiction, 1900-Present"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "In-depth examination of British drama from the arrival of Ibsen's The Doll House on the British stage (and Shaw's publication of his influential treatise The Quintessence of Ibsenism) both laying to rest for serious artists the moralistic, bourgeois theater of the late 19th century. Includes study of various dramatic movements in England --including realism, absurdism, kitchen-sink naturalism, surrealism, epic theater, expressionism. ",
+      "course name": "Modern British Drama, 1889-Present.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 140M",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Readings in and analysis of English drama written in the period, roughly, from 1500-1660. Provides a survey of playwrights and genres from the entire period or focus on a particular theme or a grouping of authors. Students will come to understand the texts as well as the variety of historical, political, cultural, social, sexual, and religious contexts in which the playwrights of the era composed their works.",
+      "id": "CSUS_ENGL 140R",
+      "course name": "Renaissance Drama"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Topics in periods and movements in the literature of Britain. Course may focus on a limited period (e.g. The Edwardian Age), a single author (e .g. Anthony Trollope or Margery Kempe), an authorial dialogue (e.g. Shakespeare and Wilde or G.M. Hopkins and Christina Rossetti), or a unique literary feature, theme, or structure (e.g. the Sonnet or Literature and the Law).",
+      "id": "CSUS_ENGL 140Z",
+      "course name": "Studies in British Literature"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Non-technical approach to Shakespeare's most representative dramatic works, designed for the non-major. Focuses upon Shakespeare's typical themes, conventions, and techniques, his development of character and situation, and his relationship to the culture and values of both his own and subsequent ages. ",
+      "course name": "The Essential Shakespeare.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 141A",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The works of William Shakespeare circulate in our culture in a wide variety of ways - in music, art, dance, film, television, advertising, management manuals, self-help books, etc. sometimes staying close to the original texts and at other times barley skimming the surface for cultural capital. This course will examine the dynamic relationships between Shakespeare in its diverse forms and popular culture by examining various instances of Shakespearean appropriation and adaptation. Themes include Shakespeare in Love, War, Business, and Youth Culture.",
+      "id": "CSUS_ENGL 141B",
+      "course name": "Shakespop: Shakespeare and Popular Culture"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Reading of The Canterbury Tales in Middle English.  Chaucer's great unfinished poem will be investigated as the pinnacle of literary achievement in the English Middle Ages, a work that attempts, like Dante's Divine Comedy, to account for all the issues and problems of human life as medieval thinkers had come to regard them.",
+      "id": "CSUS_ENGL 145A",
+      "course name": "Chaucer - Canterbury Tales"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Exploration of representative plays from roughly the first half of Shakespeare's career as a dramatist, including early and middle comedies (e.g., A Midsummer Night's Dream, As You Like It), early and middle tragedies (e.g. Richard II, Henry IV, Part One), while situating the plays within their cultural and historical context.)",
+      "id": "CSUS_ENGL 145B",
+      "course name": "Shakespeare - Early Plays, 1592-1600"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Exploration of representative plays from roughly the second half of Shakespeare's career as a dramatist, with emphasis on the major tragedies (Hamlet, Othello, King Lear, and Macbeth), but also including the middle comedies (e.g., Twelfth Night, Measure for Measure) and the later romances (e.g., The Winter's Tale, The Tempest), while situating the plays within their cultural and historic context.",
+      "id": "CSUS_ENGL 145C",
+      "course name": "Shakespeare - Later Plays, 1600-1612"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Students study the major poems of Milton-among them Comus, \"Lycidas,\" Paradise Lost, Paradise Regained, and Samson Agonistes-giving special attention to Paradise Lost.  Students will also consider such prose works as Of Education, the divorce tracts, and Areopagitica, Milton's famous argument against censorship.  Finally, it includes lectures on the Puritan Revolution of 1640-60 and Milton's role in it.",
+      "id": "CSUS_ENGL 145I",
+      "course name": "John Milton"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focusing on the literature of early American settlement, the literature that first defined our nation.  Students analyze such works as oral literature of Native America, earliest writings of Spanish explorers, Puritan settlement literature, Captivity Narratives of the 17th through 19th centuries, Witchcraft Narratives, and Slave Narratives. Students might also study connections to later works (e.g., Puritan literature and Hawthorne's Scarlet Letter, Witchcraft narratives and Miller's The Crucible).",
+      "id": "CSUS_ENGL 150A",
+      "course name": "Early American Literature"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Focuses on one of the great periods in the history of literature.  It has appropriately been called the American Renaissance.  Writers covered might include but not be limited to Poe, Hawthorne, Emerson, Thoreau, Fuller, Melville, Whitman, Dickinson. ",
+      "course name": "American Romanticism.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 150B",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines American literature written during the period after the Civil War, a time of unprecedented change that transformed America from rural, agricultural, and homogeneous culture into its urban, industrial, heterogeneous counterpart.  It investigates how the literature of this period reflected these changes and simultaneously tried to reconcile them with the values of an earlier America.  The magnitude of this endeavor produced a remarkable literary heritage for the 20th century.",
+      "id": "CSUS_ENGL 150C",
+      "course name": "American Realism"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of the important historical movements and conflicts in American literature, including the development of Realism and Naturalism, the experimental Modernist movement of the twenties, the populist literature of the thirties and the development of psychological realism in the forties.",
+      "id": "CSUS_ENGL 150D",
+      "course name": "Early Modern Fiction, 1910-1950"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Many scholars argue that American literature's greatest achievement in the twentieth century literature is in the genre of poetry.  Offers a survey of such movements as the \"New Poetry,\" Modernism, Imagism, Primitivism, and Postmodernism.  Major figures will include, but not be limited to, Robinson, Frost, Eliot, Pound, Millay, Cummings, Stevens, W.C. Williams, Jeffers, Moore, and Hughes.",
+      "id": "CSUS_ENGL 150E",
+      "course name": "American Poetry, 1910-1950"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Surveys American fiction in the decades immediately following World War II.  These novels deal with themes such as exhaustion, social unrest, historical conspiracy, and political coercion.  Representative figures include, but are not limited to, Ralph Ellison, John Barth, Philip Roth, Joan Didion, Thomas Berger, Vladimir Nabokov, Marilynne Robinson, Thomas Pynchon.",
+      "id": "CSUS_ENGL 150F",
+      "course name": "Contemporary American Fiction, 1950-Present"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the richness of American poetry since World War II giving some consideration to the impact of recent world poetry brought to us by our skillful poet/translators.",
+      "id": "CSUS_ENGL 150G",
+      "course name": "Contemporary American Poetry, 1950-Present"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the remarkable flowering of American fiction in the late decades of the twentieth century.  The primary focus is to scrutinize a collection of novels for which there is no firmly established critical opinion but which are nonetheless distinguished fictional accomplishments.  Emphasis is placed on revealing the diversity of voices and the ways in which these writers demonstrate the continuing possibilities for artistic variety and experimentation.",
+      "id": "CSUS_ENGL 150H",
+      "course name": "Recent American Fiction, 1980-Present"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Since the publication of Washington Irving's \"Legend of Sleepy Hollow,\" Americans have excelled at the genre of the short story.  Offers a survey of traditional \"masters\" and recent innovators. Provides an opportunity to read a wide variety of writers (such as Wharton, Chopin, Crane, Gilman, James, Anderson, Hemingway, Faulkner, Ellison, O'Connor, Barth, Oates, Proulx, Roth, Carvey, and Welty) , and examine a range of forms, themes and experiences that reflect and shape American culture.",
+      "id": "CSUS_ENGL 150I",
+      "course name": "Modern American Short Story"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "In-depth examination of American drama, starting with Eugene O'Neill.  Traces American drama from the turn-of-the-century to the present, examining the plays themselves--their themes, dramatic idioms, stage craft and European influences--in their social, historical and artistic contexts.",
+      "id": "CSUS_ENGL 150J",
+      "course name": "Twentieth Century American Drama"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines one of the most remarkable flowerings of literary achievement in American letters, the writing of \"The Lost Generation,\" authors born between 1885 and 1900.  Unified by a profound disillusionment with American culture after World War I, writers such as T.S. Eliot, Eugene O'Neill, William Faulkner, and Ernest Hemingway produced enduring modern masterpieces.  In the process they demonstrated that their generation might find in art what had been lost on the battlefield.",
+      "id": "CSUS_ENGL 150L",
+      "course name": "Lost Generation Writers"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on the California phenomenon--the place where the American dream can reach fulfillment--and how this phenomenon has captivated writers for decades. Presents a cross-section of this fiction, examining the various literary manifestations of the California phenomenon.",
+      "id": "CSUS_ENGL 150M",
+      "course name": "California Fiction"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Explores American works written in the Gothic mode. In novels, captivity narratives, short stories, and poetry, we will investigate representations of terrifying, uncanny, and supernatural phenomena. As we trace the development of the Gothic mode in American literature, we will examine how narratives and poetic depictions of horror rehearse our individual and cultural fears about sexuality, race, violation, rebellion, madness, and death, and we will inquire into that thrill of macabre pleasure that attends the exploration of the darker side of life.",
+      "id": "CSUS_ENGL 150P",
+      "course name": "The American Gothic"
+    },
+    {
+      "units": "3 Units",
+      "description": "Examines literature by American regionalist writers during the late-nineteenth century. Topics may include nationalism, sectional divides, local color, dialect fiction, conditions of publication, and emerging women writers and writers of color. Students will investigate the role that regionalism plays in relation to literary representations that depict the conflicting and complex social, cultural, and historical formation of racialized and gendered identities.",
+      "id": "CSUS_ENGL 150R",
+      "course name": "American Regionalism"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Intensive study of two of the most important American writers of the 20th century: Ernest Hemingway and F. Scott Fitzgerald.  This focus on two authors allows students to read them in-depth, to examine the dynamics of their friendship, and to explore the similarities and differences in their responses to World War I and the Great Depression.",
+      "id": "CSUS_ENGL 155E",
+      "course name": "Hemingway and Fitzgerald"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of Irish literature, beginning with various myths, moving through the bardic period and eighteenth and nineteenth centuries, and then centering upon the \"Irish Renaissance\" (1885-1940).Covers the genres of poetry, drama, and fiction, and representative figures include W.B. Yeats, Patrick Kavanagh, James Joyce, Flann O'Brien, John Synge, Lady Gregory, Sean O'Casey, Sean O'Faolain, and Frank O'Connor.",
+      "id": "CSUS_ENGL 165A",
+      "course name": "A Survey of Irish Literature"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Deals with the considerable body of Postcolonial literature written in English.  Many of the writers come from countries of the former British Commonwealth, including Achebe, Desai, Emccheta, Naipaul, and Rushdie.  It focuses on the literary, cultural and political environments in which the texts are situated and on their relationship to the wider tradition of literature in English. ",
+      "course name": "Postcolonial Literature.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 165D",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on the literature--novels, shorts stories, poetry, and plays--by a wide range of Caribbean authors, among whom are two recent Nobel Prize winners, Derek Walcott and V. S. Naipaul.  Students will learn to appreciate the cultural diversity of this post-colonial literature and will become familiar with its important themes and stylistic techniques.  Students will also experience the multi-dialectal richness and flavor of the Anglophone Caribbean as expressed by authors from linguistically diverse islands.",
+      "id": "CSUS_ENGL 165F",
+      "course name": "Caribbean Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Helps students develop their own working definition of fantasy by examining its central narrative and dramatic structures, image patters, and thematic preoccupations.  At the same time, encourages students to compare these motifs with those of so called \"realist\" fiction so they may understand how blurred conventional distinctions between \"fantasy\" and \"reality\" actually are.",
+      "id": "CSUS_ENGL 170A",
+      "course name": "Fantasy"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Offers a survey of dramatic literature--tragedy, comedy, tragi-comedy--with plays both modern and classical.  Since plays are meant to be seen as well as read, several selections will be available on video to deepen understanding and enjoyment.  Focus is on analysis of genre, theme, structure, and interpretation of the plays.  A term project based on one live performance in Sacramento is also included. ",
+      "course name": "Drama",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 170D",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of the art of short fiction through readings of a variety of world writers.  Representative figures include, but are not limited to, Hawthorne, Melville, Joyce, James, Hemingway, Atwood, O'Connor, Boyle, Cather, Faulkner, Jackson, etc.",
+      "id": "CSUS_ENGL 170E",
+      "course name": "Short Fiction"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "General course in English language poetry written in the late 19th and early 20th century poetry, a period of great innovation in poetry.  It focuses on approach: what is the modern poem and how does one read it?  Emphasis is placed on the function of image, voice, line break, rhythm, etc.  Writers might include Whitman, Dickinson, Yeats, Pound, Eliot, Hardy, and Hopkins.",
+      "id": "CSUS_ENGL 170G",
+      "course name": "Modern Poetry"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Focuses on various comic genres and theories--from 4th century BC to the present.  It examines romantic comedy, tragicomedy, comedies of manners, of humors, of menace; farce, satire, slapstick.  Students also read widely in comic theory, examining aspects psychological, phenomenological, aesthetic--in drama, fiction, poetry and prose. ",
+      "course name": "Introduction To Comedy.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 170H",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Focuses on the literatures and theories of tragedy--from 5th century BC to the present--from Sophocles to Mamet, from Flaubert to Stoppard.  It examines the \"tragic vision\" in light of individual genres, times, social mores, religious beliefs and expectations, using Aristotle for both its touchstone and lodestar. ",
+      "course name": "Introduction To Tragedy.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 170I",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Concentrates on the works of a few distinguished writers of short fiction. In each case the writer is one with a widely acknowledged reputation.  Emphasis is upon exploring how writers shape and manipulate the genre to produce lasting, individual, distinctive works. Representative figures include, but are not limited to, James Joyce, Nathaniel Hawthorne, Sherwood Anderson, Ernest Hemingway, Frank O'Connor, Flannery O'Connor, John Barth, D.H. Lawrence, and Eudora Welty.",
+      "id": "CSUS_ENGL 170K",
+      "course name": "Masters of the Short Story"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the relation between sexuality and literature, exploring different conceptions of sexuality over time and across cultures and the rhetorical strategies employed in representations of sexuality in literary texts.  Topics may include the modern connection between sexuality and identity; the links between nation, race, and sexuality; and the treatment of homosexuality and women's sexuality.  Throughout, careful attention will be paid to the literary forms and discursive strategies (e.g., the confessional mode, modern scientific discourses) used to represent sexuality.",
+      "id": "CSUS_ENGL 170M",
+      "course name": "Literatures Of Sexuality"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides an introduction to the genre of narrative poetry, a historical survey of the vicissitudes of its reception from the nineteenth century to the present, and a close study of representative narrative poems by poets who have excelled in this mode.",
+      "id": "CSUS_ENGL 170N",
+      "course name": "Narrative Poetry"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 170Z",
+      "course name": "Twentieth Century Fiction"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Focuses on four or more African-American poets, representing a historical succession of literary periods. ",
+      "course name": "Forms of African-American Poetry.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 180A",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Focuses on four or more African-American writers of fiction, surveying texts representing a historical succession of literary periods. ",
+      "course name": "",
+      "units": "3 Units",
+      "id": "CSUS_ ",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Employing a lecture-discussion format, involves studies in a single literary genre or a combination of literary genres emphasizing the work of three or fewer African-American authors.",
+      "id": "CSUS_ENGL 180F",
+      "course name": "Major African-American Authors"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Uses a team-teaching approach to sample a range of diverse American literatures.  Texts are selected by the team to represent both mainstream and marginalized groups and to reflect the individual professors' interests and expertise. Examines the commonalities that cross ethnic, racial, class, and gender boundaries as well as the differences that enrich our cultural identity.",
+      "id": "CSUS_ENGL 180H",
+      "course name": "American Identities: In the Intersection of Race, Gender, and Ethnicity."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Students will examine a rich tradition of Jewish American literature in the context of a complex American multicultural narrative. Topics include the immigrant experience, assimilation, alienation, responses to the Holocaust and other forms of anti-Semitism, the place of Israel in the Jewish American imagination, and a contemporary rediscovery of reconstruction of Jewishness and Judaism. Students will interrogate what constitutes Jewish American identity and defines its literature in a culture that is itself conflicted about its secular/religious ethos and the degree to which subjectivity is determined by \"consent and/or descent.\"",
+      "id": "CSUS_ENGL 180J",
+      "course name": "Jewish American Literature"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Gives students an overview of Chicano Literature.  Students examine both contemporary Chicano poetry and fiction. ",
+      "course name": "Chicano Literature.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 180L",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Designed to help students gain an understanding of the diversity as well as the similarities among various Asian American writers.  How do the categories of race, gender, and class affect the way different characters construct their cultural experiences and fashion their personal identities?  By studying the variety of processes through which different protagonists \"become American\"--through assimilation, appropriation, or \"translation\"--students should arrive at a better understanding of how we all construct our own identities. ",
+      "course name": "",
+      "units": "3 Units",
+      "id": "CSUS_ ",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated twice for credit as topics vary. ",
+      "description": "Comparative analysis of two or more ethnic literary and cultural productions with an emphasis on relationships among history, politics, and culture in American, British, or World literatures. ",
+      "id": "CSUS_ENGL 180Z",
+      "course name": "Topics in Multi-Ethnic Literatures"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Covers short stories and novels spanning the century and including women writers from a variety of nationalities, class, cultural and ethnic groups. Emphasizes what Virginia Woolf calls \"the delicate transaction between a writer and the spirit of the age\" and works with the writers presented so as to elicit the developing strands of influence and critique that bring these disparate writers into a common dialogue. ",
+      "course name": "Twentieth Century Fiction by Women.",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 185B",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on the ways in which women writers of the 19th and 20th centuries concern themselves with questions of the differences in male and female experience and how those differences affect their writing.  Students will study the portrayal in fiction of the evolution of the \"modern woman\"--with the conflicts between self and other, dependence and independence, love and power that are part of that process.",
+      "id": "CSUS_ENGL 185C",
+      "course name": "British Women Novelists"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on women writers primarily from the early 20th century with an emphasis on how gender expectations affect people, society, novels, poems.  Students study the theme of awakening, the roles that families, friends, class, social expectations and conditions play in the development of individuality and self-awareness.  Examines  implications of power relationships and certain areas of conflict, such as those between self and other, repression and expression, inner and outer, dependence and independence, love and power.",
+      "id": "CSUS_ENGL 185D",
+      "course name": "American Women Writers"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Readings in and analysis of crime and detective fictions (novels, short stories, plays, etc.).  Crime fiction continually asks us what do we know about people and events and how do we know it.  Investigates a variety of texts that address this desire to know and its connections to the mysterious and the criminal.  Discussions of this popular genre will address the ways in which an obsession with crime and punishment manifests itself in various cultures and cultural moments.",
+      "id": "CSUS_ENGL 190D",
+      "course name": "Detective Fiction"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Approaches supernatural literature from the perspective that, regardless of how bizarre or fantastical a literary work may seem, it deserves serious scholarly study because it represents the realism of apparent human experiences and provides readers with access to the inner workings of the human mind.  Readings include Ambrose Bierce, H.P. Lovecraft, Edgar Allan Poe, Lord Dunsany, Fitz-James O'Brien, and contemporary writers from around the world.",
+      "id": "CSUS_ENGL 190H",
+      "course name": "The Supernatural in Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Helps students understand the primary structures, images, and themes informing Tolkien's Middle Earth and the ways these link the medieval worldview with modern, and even postmodern, wish-and fear-fulfillments.  Students will read Tolkien's criticism, poetry, short tales, The Hobbit, The Lord of the Rings trilogy, and selections from The Silmarillion.",
+      "id": "CSUS_ENGL 190J",
+      "course name": "Tolkien:  Lord of the Rings"
+    },
+    {
+      "units": "3 Units",
+      "description": "The study of popular texts through the various lenses of literary analysis. Students will work with a variety of texts, which might include genre fiction, graphic novels and comics, film and television, and other digital media, to consider the ways and whys of their popularity, as well as their impact, both historical and contemporaneous, on literature, audience, and culture.",
+      "id": "CSUS_ENGL 190P",
+      "course name": "Popular Literature and Culture"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Readings in and analysis of literature by and about lesbians and gay men. Students will work with a variety of texts (fiction, poetry, film, nonfiction) about gay and lesbian identity; at the same time, students will come to understand the historical contexts and shifting theoretical paradigms that have shaped and reshaped conceptions of sexuality.",
+      "id": "CSUS_ENGL 190Q",
+      "course name": "Gay and Lesbian Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Readings in and analysis of romance fictions (primarily novels).  Romances continually promise emotional (and sexual) fulfillment, but what do readers of romance novels get from this reading experience?  Discussions of this popular genre will address the ways in which the pursuit of love and companionship and the indulgence in lust and passion manifest themselves in various cultural moments; critical materials will help theorize the appeals, dangers, and uses of romance fiction.",
+      "id": "CSUS_ENGL 190R",
+      "course name": "Romance Fiction"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Studies and evaluates a selection of dramas on videos, such as but not limited to A Streetcar Named Desire, Death of a Salesman, Doll's House, Hamlet, Oedipus, Pygmalion, and Rosencrantz and Guildenstern. ",
+      "course name": "Great Drama on Video",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 190V",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Conducted by lecture and discussion.  Students see a selection of the best, most enduring, most influential films made during the last hundred years and explore the historic, aesthetic, and philosophical reasons these films have generally been acknowledged as masterpieces.",
+      "id": "CSUS_ENGL 191A",
+      "course name": "Masterpieces of the Cinema"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for 6 units of credit. ",
+      "id": "CSUS_ENGL 195A",
+      "course name": "Writing Center Theory and Practice: Internships"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 195C",
+      "course name": "Internship In Field Work"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Students will work with a Composition faculty member to complete a project for the campus writing programs. The internship may involve the composition program, the University Reading and Writing Center, the Graduation Writing Assessment Requirement, or the Writing Across the Curriculum Program. Students should contact the appropriate coordinator to register for the course and design a project.",
+      "id": "CSUS_ENGL 195W",
+      "course name": "Writing Programs Internship"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Major genres of the cinema conducted by lecture and discussion.  Students see a selection of films from the major genres including (but not limited to) horror, science fiction, and comedy; learn about the history and development of each genre; and explore the commercial, aesthetic, social, and philosophical forces that have shaped the major film genres.",
+      "id": "CSUS_ENGL 197A",
+      "course name": "Film -- Horror, Comedy, Science-Fiction"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on the role of the director in the creation of excellent films.  Students will view, analyze, and discuss memorable films by great directors, concentrating on their personal styles, cinematic strategies, and typical themes.  Representative examples will include such filmmakers as Chaplin, Keaton, Renoir, Welles, Ford, Truffaut, Bunuel, Kurosawa, Hitchcock, Bergman, and others.",
+      "id": "CSUS_ENGL 197G",
+      "course name": "Films of Great Directors"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 197I",
+      "course name": "Film - Depression Giggles"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Students see a selection of films adapted from novels, short stories, or other literary works; read the original work from which the film was adapted; and explore the history, aesthetics, and craft of adapting fiction to film.",
+      "id": "CSUS_ENGL 197K",
+      "course name": "Fiction Into Film"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focus on American films. Topics may cover a range of periods, movements, genres, styles and issues",
+      "id": "CSUS_ENGL 197L",
+      "course name": "The American Film"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Emphasizes the trends, themes, forms, and cinematic techniques, technological advances, and \"revisionist\" genres of recent American films of approximately the last twenty years, partly as a way of analyzing the American film conventions,  partly as a means of examining our contemporary culture, but primarily as a means of analyzing and understanding the films themselves.",
+      "id": "CSUS_ENGL 197M",
+      "course name": "Recent American Films"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Screenings and analysis of films produced in Great Britain. Students will view a variety of British films, starting possibly with silents and early Hitchcock and ending with films from the contemporary moment. Students will come to understand the historical and artistic contexts of the films and encounter the shifting definitions of what represents \"British\" on the screens of the cinema and in the minds of viewers. May provide a survey of films or focus on particular themes, studios, or directors.",
+      "id": "CSUS_ENGL 197P",
+      "course name": "British Film"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Traces Hitchcock's \"game with the audience\" from its beginnings in silent films, through its British period, to its American conclusion. It closely examines important sequences, shots, images, character types, and themes. Students will view several of Hitchcock's classic films in their entirety.",
+      "id": "CSUS_ENGL 197R",
+      "course name": "Films Of Alfred Hitchcock"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Features specialized topics taught by a variety of instructors depending upon the semester.  Topics can include subject matter from literature, linguistics, English education, creative writing, composition/rhetoric, and film.  Tend to the production of a significant research paper, a paper which will emphasize the student's ability to: Analyze and interpret multiple texts; Integrate primary and secondary sources; Construct a sustained, coherent, and rhetorically sophisticated piece of writing. ",
+      "course name": "Senior Seminar In English",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 198T",
+      "prerequisite": [
+        "ENGL 120A"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Departmental petition required. ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_ENGL 199",
+      "course name": "Special Problems"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Required for all MA candidates in English.",
+      "id": "CSUS_ENGL 200",
+      "course name": "Methods and Materials of English Studies"
+    },
+    {
+      "units": "3 Units",
+      "term": " Graduate Writing Intensive (GWI) course. ",
+      "description": "Required of all MA candidates in English under Plans A and C and Creative Writing Plan B, acquaints students with principal sources and techniques of literary research.  It also introduces students to contemporary critical approaches to literature.  Students should take this course as early as possible in their graduate careers, preferably in the first semester.  Students prepare an annotated bibliography and a paper employing a particular critical approach to one of a selection of anchor texts. ",
+      "id": "CSUS_ENGL 200A",
+      "course name": "Methods and Materials of Literary Research."
+    },
+    {
+      "units": "3 Units",
+      "term": " Graduate Writing Intensive (GWI) course. ",
+      "description": "Explores research design and testing methods for quantitative and qualitative research in second language acquisition (SLA). Students develop the ability to read second language acquisition research critically; study a variety of theoretical perspectives represented in current SLA research; and review the history of the current \"burning issues\" in SLA. ",
+      "id": "CSUS_ENGL 200D",
+      "course name": "Materials and Methods of TESOL Research."
+    },
+    {
+      "units": "3 Units",
+      "term": " May be counted as an elective for the M.A. TESOL program. ",
+      "description": "Examine the interplay between curriculum design and classroom assessment.  The goals are 1) to familiarize prospective teachers with the terminology and practices underlying curriculum design and classroom assessment; 2) to develop the ability to analyze student needs and propose appropriate changes to curricula; and 3) to construct and implement language tests that reflect curricula. ",
+      "id": "CSUS_ENGL 200E",
+      "course name": "Curriculum and Assessment Design for Language Classrooms"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 201D",
+      "course name": "Contemporary Theory"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 210B",
+      "course name": "Sociolinguistics and TESOL"
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Prepares language teachers to effectively integrate technology into classrooms. Examines theoretical rationales for using computer-assisted language learning, the range of uses of technology in classrooms, and best practice. Develops students' technological literacy and ability to critically evaluate computer-assisted language teaching materials. ",
+      "course name": "Technology in Second Language Teaching",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 210C",
+      "prerequisite": [
+        "ENGL 110C"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examines the factors affecting the acquisition of a second language, focusing on research in this area since 1970. Topics covered are: transfer and the role of the first language; developmental sequences; the role of input, interaction and output; cognitive and personality variables, including age; and the role of formal instruction and error correction. ",
+      "course name": "Second Language Acquisition",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 210G",
+      "prerequisite": [
+        "ENGL 200D"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Preparation of teachers of English to speakers of other languages. Examines the psycholinguistic bases of the reading process in ESL, provides opportunities for seminars to test reading practices in peer demonstrations, and explores the fundamentals of testing, evaluation, and syllabus design in the ESL curriculum. Particular attention for reading and vocabulary will be given to miscue analysis and acquisition theory.",
+      "id": "CSUS_ENGL 215A",
+      "course name": "Reading/Vocabulary Acquisition"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides the groundwork to prepare teachers of English to speakers of other languages for composition instruction. An examination of the theoretical bases of language acquisition, composing process, and correction/revision strategies that will enable students to plan and demonstrate writing lessons to their peers. Consideration of traditional tests of writing, such as the TOEFL, the WPJ, and innovative forms of evaluation are integrated with syllabus design and text evaluation.",
+      "id": "CSUS_ENGL 215B",
+      "course name": "ESL Writing/Composition"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines those areas of English grammar that are typically taught to non-native speakers. The goals are 1) to familiarize prospective ESL teachers with terminology and analyses that can be used in the classroom; 2) to develop the ability to explain and exemplify grammatical phenomena in terms accessible to ESL students; 3) to review sample materials and techniques for teaching English grammar to non-native speakers.",
+      "id": "CSUS_ENGL 215C",
+      "course name": "Pedagogical Grammar for TESOL"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines aspects of spoken English that are typically taught to non-native speakers. The goals are 1) to familiarize prospective ESL teachers with terminology and analyses that can be used in the classroom; 2) to develop the ability to analyze student difficulties and provide appropriate help; 3) to review sample materials and techniques for teaching spoken English to non-native speakers.",
+      "id": "CSUS_ENGL 215D",
+      "course name": "Pedagogy of Spoken English"
+    },
+    {
+      "units": "3 Units",
+      "term": " Graduate Writing Intensive (GWI) course. ",
+      "description": "Designed for prospective community college and university writing instructors.  It focuses on theory and research in rhetoric, composition, and cognitive development and on practical, pedagogical classroom strategies.  Students discuss a variety of theories and research studies and then apply writing theory to classroom strategies, design lessons, assignments, and syllabi, and practice analyzing and responding to student writing; and prepare a teacher portfolio. ",
+      "id": "CSUS_ENGL 220A",
+      "course name": "Teaching College Composition."
+    },
+    {
+      "term": " May be repeated for credit if topic differs.  ",
+      "description": "Rotating series of topics relevant to composition studies.  Regardless of the topic, students will explore the history of the field, the theory and practice of the field, the major scholarly works of the field, and the relationship of the field of study to the broader field of composition and rhetoric. ",
+      "course name": "Topics in Composition Studies",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 220C",
+      "prerequisite": [
+        "ENGL 220A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the history and current status of research methods and methodologies in Composition Studies.  It explores both producing and consuming research -- studying how and why research has been conducted and how it has been understood and put to practical use by readers of composition research.",
+      "id": "CSUS_ENGL 220D",
+      "course name": "Teaching and Composition Research"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated if topic differs. ",
+      "description": "Designed to help students learn about and apply rhetorical theory. Its goal is to introduce graduate students to the history and theory of rhetorical movements after--or outside of--the rhetorics of Western antiquity.   Evaluation will be based on weekly journal responses to readings, a major paper on rhetorical theories, and a course portfolio. ",
+      "id": "CSUS_ENGL 220R",
+      "course name": "Topics in Rhetorical Theory and Practice"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Writing workshop course designed to immerse graduate students in the discourse of their disciplines; required for graduate students who have received a 3 unit placement on the Writing Placement for Graduate Students (WPG). Focuses on the writing process, text-based academic writing in various academic genres, revising, and editing. Students will produce 5000 words. Includes assessment via Course Portfolio. ",
+      "id": "CSUS_ENGL 220W",
+      "course name": "Writing in Your Discipline."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to theories of teaching literature so students who intend to teach at the college level have examined their assumptions and options before they develop their teaching practices. Organized around three questions: Why do we teach literature? What do we teach? How do we teach?",
+      "id": "CSUS_ENGL 225A",
+      "course name": "Theories of Teaching Literature"
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Introduces students to current theories surrounding the pedagogies and politics of adult literacies within a wide variety of contexts, including community colleges, prisons, and community projects.  Incorporates information on technological literacies, information literacies, cultural literacies, and multiliteracies. In addition, students will be partnered with community literacy experts and required to complete formal observations of adult reading classrooms throughout the semester, fostering collaboration between the local community and the university. ",
+      "course name": "Theoretical Issues in Adult Literacies",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 225C",
+      "prerequisite": [
+        "EDTE 225C"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Topic areas will vary by semester, and the course may be repeated. ",
+      "description": "Seminar in the workshop format designed for experienced writers of fiction.  It is designed to provide intensive instruction in the theory and craft of writing short stories, novels, and screenplays. ",
+      "id": "CSUS_ENGL 230A",
+      "course name": "Writing Fiction"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit ",
+      "description": "Theory and practice in the writing of poetry.  Consists primarily of the preparation and evaluation of student work.  Students are also be assigned supplemental readings designed to help them determine their affinity (or lack of affinity) with current poetic theory and practice. ",
+      "id": "CSUS_ENGL 230B",
+      "course name": "Advanced Poetry Writing"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "In-depth study of prosody including the principles of meter (line measurement) and scansion (the marking of stressed and unstressed syllables to determine meter and rhythm), as well as examining the relationship of these principles to verse in English.  Examines a variety of poetic schemes, tropes, and forms.   Lecture and guided practice.",
+      "id": "CSUS_ENGL 230D",
+      "course name": "Meter and Rhythm"
+    },
+    {
+      "units": "3 Units",
+      "term": " Topic areas will vary by semester, and the course may be repeated. ",
+      "description": "Examines the craft of writing memoir and creative nonfiction as well as the theory and history of contemporary memoir writing. Students will write and workshop their own memoirs and creative nonfiction. Introduces students to literary and philosophical theories of memory and writing as well as look at contemporary memoirs written in a variety of styles. ",
+      "id": "CSUS_ENGL 230E",
+      "course name": "Writing and Theorizing Memoir"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "English 230G offers graduate poets and fiction writers the opportunity to explore/experiment with the long-standing anti-genre of the poetry/fiction hybrid. For 200 years writers around the world have noted the symbiosis between the genres of poetry and prose. Currently, some of America's most exciting writers are currently exploring the margins between prose poetry, flash fiction, and related evolving forms.",
+      "id": "CSUS_ENGL 230G",
+      "course name": "Between Genres: Flash Fiction/Prose Poetry"
+    },
+    {
+      "term": " May be repeated for credit  ",
+      "description": "Workshop provides intensive instruction in the theory and craft of writing fiction designed for students who are already writing at a professional or near-professional level, and for those who have proven themselves ready to take advanced study with careful, individualized direction of the instructor. ",
+      "course name": "Master Class in Writing Fiction",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 230X",
+      "prerequisite": [
+        "ENGL 130A",
+        "ENGL 130M",
+        "ENGL 130N",
+        "ENGL 230A"
+      ]
+    },
+    {
+      "term": " May be repeated for credit.  ",
+      "description": "Designed to provide intensive practice in the techniques and problems of writing poetry.  It is aimed at students interested in creative writing, those who have already done significant work and who have proven themselves ready to take advanced study with careful individualized direction of the instructor. ",
+      "course name": "Master Class in Writing Poetry",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 230Y",
+      "prerequisite": [
+        "ENGL 130B",
+        "ENGL 230B"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Seminars in British literature.",
+      "id": "CSUS_ENGL 240",
+      "course name": "British Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Investigation of the body of Chaucer's poetry, seen against the backdrop of the late 14th century.",
+      "id": "CSUS_ENGL 240A",
+      "course name": "Chaucer"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Explores the Divided-Self of Victorian fiction, a consciousness split between word and flesh, duty and love, society and the self, or most generally between one's public role and one's private needs. Such polar themes affect several fictional genres such as the Pastoral, Gothic, Bildunsroman, Historical Novel and Naturalism.  The word and flesh dialectic also informs the narrative structure of Victorian fiction.",
+      "id": "CSUS_ENGL 240B",
+      "course name": "The World and the Flesh:  Victorian Fiction"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on individual novelists, pairs of novelists, or thematic groupings. Might include works of fiction by authors such as Behn, Defoe, Richardson, Fielding, Steme, Goldsmith, Bumey.",
+      "id": "CSUS_ENGL 240E",
+      "course name": "Major 18th Century Novelists"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Dickens and Thackeray dominated the popular mind as the novelists of the age; no other novelists are more representative of their age and yet can claim to have risen above it. Concentrates on just a few of their novels. Students study the writers and their novels in the context of English society in the 19th century.",
+      "id": "CSUS_ENGL 240F",
+      "course name": "Dickens and Thackeray"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Yeats, often considered a modernist and a poet in the British tradition, saw himself primarily as an Irish poet working within distinctly Irish literary traditions.  Focuses on Yeats' conception of a national, ethnic poetry and the effect that mission had on Ireland's other two major 20th century poets--Kavanagh and Heaney. Students analyze Yeats' most influential work;  Kavanagh and Heaney are studied in terms of their debt to Yeats and their individual expressions of national consciousness.",
+      "id": "CSUS_ENGL 240G",
+      "course name": "Yeats, Kavanagh and Heaney: Ireland's Modern Irish Poets"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Lawrence was immensely original.  Like Tolstoy and Dostoevsky, Lawrence is a prophetic visionary intensely concerned to articulate and embody an all-embracing, profoundly existential, vision of life. Examines Lawrence's work closely after a brief exploration of modernism and Lawrence's relation to it and an examination of how conditions in post-Victorian England and events in Europe in the early 20th century contributed to the making of Lawrence's world view and his role as a controversial outsider.",
+      "id": "CSUS_ENGL 240H",
+      "course name": "DH Lawrence"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on Jane Austen, perhaps England's greatest novelist.  Students read almost all of her work and trace the development of her art from her teenage years until her death in 1817, noting how each new book is a distinct departure from previous ones.  To put Austen's achievement in perspective, students also read Jane Eyre by Charlotte Bronte, one of Austen's severest critics. Comparing the two novelists provides an even clearer sense of the richness and subtlety of Austen's art.",
+      "id": "CSUS_ENGL 240I",
+      "course name": "Jane Austen"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "James Joyce is a monument among twentieth century writers.  His masterful Ulysses and other intricate works have kept generations of critics in business.  Examines his major fictions, studying them in relationship to the life out of which they grew.",
+      "id": "CSUS_ENGL 240J",
+      "course name": "James Joyce"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Sense of exploration, discovery, experimentation, creativity, and moral complexity of the Renaissance era in England (roughly 1550 to 1660) is reflected in the variety and number of plays written by Shakespeare's predecessors, contemporaries, and successors.  Following introductory material on the development of the drama in England, students analyze Elizabethan and Jacobean playwrights, exclusive of Shakespeare. Emphasis is on the forms and themes of the plays, with application of  \"New Historicism\" and attention to Renaissance backgrounds",
+      "id": "CSUS_ENGL 240K",
+      "course name": "English Renaissance Drama"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "When English critic F.R. Leavis declared that the great English novelists were Austen, Eliot, James, and Conrad, he emphasized these writers' intensely moral pre-occupation.  No modern novelist has been more influenced by Conrad than Graham Greene, whose work has the same romantic subject matter and concerns with ethical judgments.  Both writers are concerned with the question: to act or not to act, for either choice has inescapable ethical consequences.",
+      "id": "CSUS_ENGL 240L",
+      "course name": "Conrad and Greene"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the origins and development of the Gothic Novel in England.  Attention is paid to recurring structures and themes such as architecture, the use of a narrative frame, reader identification figure, the divided self, the relationships between sex, violence, and death, the wasteland motif, and existential concerns.  Special attention is given to the role of the reader and his or her response to the novels.",
+      "id": "CSUS_ENGL 240M",
+      "course name": "The Gothic Novel"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of Arthurian literature in the Middle Ages from its origins to Thomas Malory.",
+      "id": "CSUS_ENGL 240N",
+      "course name": "Arthurian Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 240O",
+      "course name": "Satire In Age Swift+Pope"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the major narrative, plot, and genre structures, image patterns, and thematic preoccupations in Dickens' novels, like the interrelationships between homes, prisons, factories and schools.  The influences of Dickens' life, periodical publishing of illustrated magazines, and of Victorian society also receives attention. Introduces students to relevant insights of several \"post-structural\" critical schools, including those of deconstruction, the carnivalesque, liminality, and Lacanian psychology.",
+      "id": "CSUS_ENGL 240R",
+      "course name": "Charles Dickens"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines in detail one aspect of the Irish Renaissance (approximately 1880-1940)--Ireland's contribution to fiction in the twentieth century.  Also examines not only individual writers and works but the development of the genres of the novel and short story and movements such as realism, naturalism, modernism, and post-modernism.  Writers might include Joyce, O'Brien, O'Flaherty, O'Faolain, and others.",
+      "id": "CSUS_ENGL 240S",
+      "course name": "Modern Irish Fiction"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Students will explore the poetry, prose, and drama produced in England during the 16th and 17th centuries.  Contemporary criticism and theory will provide a context for reading these primary works.",
+      "id": "CSUS_ENGL 240T",
+      "course name": "Renaissance Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines a range of sexual identities through which nineteenth-century Britons imagined their lives.  Such identities were influenced by ideas about race, class, status, ethnicity, gender, and age that often differed markedly from our own.  Moves beyond the literary to look at texts from a variety of genres (medical, literary, erotic, and autobiographical) and cover both well-treated and more obscure texts.",
+      "id": "CSUS_ENGL 240U",
+      "course name": "Nineteenth-Century Texts and Sex"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Students read and study British works of fiction-novels and short stories-written after 1979. Although the choice of authors and works might vary from one semester to another, focuses on works of fiction deemed significant and valuable by literary scholars and critics.",
+      "id": "CSUS_ENGL 240X",
+      "course name": "Contemporary British Fiction--1980 to Present"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Open to the investigation of either a limited period (e.g. World War I poets or Victorian Children's literature), a single author (e.g. Hanif Kureishi or Aphra Behn), an authorial dialogue (e.g. Chaucer & Spenser, Stoppard and Shakespeare, Sidney & Wroth), or a unique literary feature, theme, or structure (e.g. Pastoral & Georgic or Empire & Race).",
+      "id": "CSUS_ENGL 240Z",
+      "course name": "Special Topics in British Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 245A",
+      "course name": "Shakespearean Romance"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on the writing of Edith Wharton and Willa Cather, two of our most accomplished early American writers. Shows how these writers, poised on the threshold of the twentieth century-and pulled simultaneously forward and back-explored similar themes, and how, as two of the few revered women writers of this time, they focused particularly on shifting gender roles; Wharton with her eye on interior space and Cather with her eye on exterior space.",
+      "id": "CSUS_ENGL 250A",
+      "course name": "Wharton and Cather"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Readings and discussion of major works by Hawthorne and Melville.",
+      "id": "CSUS_ENGL 250D",
+      "course name": "Hawthorne and Melville"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This seminar on two of America's greatest poets, Whitman and Dickinson, focuses primarily on the poetry, but also on letters and prose pieces.  Students read and discuss criticism on each writer, and study cultural and historical contexts of these two contemporaneous but antithetical poets.  Study includes traditional and feminist studies of Dickinson and Cultural Studies of Whitman. Forms a dialogue between these two remarkable and remarkably different poets; students join in that dialogue.",
+      "id": "CSUS_ENGL 250F",
+      "course name": "Whitman and Dickinson"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The period between the end of the Civil War and the outbreak of World War I was a time of unprecedented and transforming change in American life.  In response to these new conditions came \"the rise of realism,\" which  radically changed American ideas about the nature of fiction, the reality it represented, and its effects on readers. Students study theories of realism, their historical development and the current status of literary theories of realism as influenced by deconstruction and feminist literary theory.  These theoretical positions are applied to a range of short fiction and novels.",
+      "id": "CSUS_ENGL 250H",
+      "course name": "Major American Realists"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "James' innovations in narrative technique paved the way for the emergence of the modern novel; his development of a theory of fiction helped establish an American literary tradition and bring the American novel into the mainstream of British and European literature. Students read James' major works of fiction and criticism with an eye to understanding and enjoying them and to assessing the nature of the writer's contribution to the novel as a serious art form.",
+      "id": "CSUS_ENGL 250J",
+      "course name": "Henry James"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Studying contemporary fiction involves challenges and pleasures.  Unlike studies in most areas of literature where the best writers have been clearly established, studying contemporary fiction means risking one's own critical skills to identify what new texts and writers are significant without the help of earlier generations of scholars and critics.",
+      "id": "CSUS_ENGL 250K",
+      "course name": "Contemporary American Fiction"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on the contributions of women writers to American literature. Begins with a brief overview of feminist critical approaches and of the history of women writing in America.  Close critical analysis of texts focuses on four or five writers from various centuries, regions, and ethnic groups. Covers such writers as Toni Morrison, Sarah Jewett, Marilynne Robinson, Eudora Welty, Lee Smith, Leslie Silko, and others.  Students work collaboratively to present background information and critical approaches to the writers.",
+      "id": "CSUS_ENGL 250L",
+      "course name": "American Women Writers"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Growth of a feminine perspective in literary theory has resulted in a radical reconsideration of the American literary canon, producing new readings of texts, patterns in literature and culture, and connections between texts.  Wharton and Chopin are two writers taking a place of importance in the development of the realistic novel in America and in the creation of a distinctive tradition of women's literature. Focuses on the heuristic possibilities of a distinctly different literature by women, the role of gender, and the contributions of Wharton and Chopin to the novel.",
+      "id": "CSUS_ENGL 250P",
+      "course name": "Wharton and Chopin"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the theme of immigration and that of assimilation in a particular ethnic group: Irish-Americans. Through an examination of the literature, we find an ethnicity that is uneasily part of the American fabric and one defined to a large degree by the culture they either abandoned or were forced to abandon. Representative writers include Eugene O'Neill, Alice McDermott, William Kenney, Mary Gordon, John Gregory Dunne.",
+      "id": "CSUS_ENGL 250Q",
+      "course name": "Irish-American Fiction"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 250R",
+      "course name": "Wm. Faulkner:  Major Fict"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of important recent fiction that has come to be referred to as \"postmodernist\" because its non-traditional themes, subject matter, and narrative technique embody or reflect the postmodern era.",
+      "id": "CSUS_ENGL 250T",
+      "course name": "Postmodern Fiction"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focus on literature dramatizing the roaring, irrepressible twenties, a decade of unprecedented change following the \"Great War to end all wars.\"  Highlighting Fitzgerald, whose life mirrors the times, also includes other \"expatriate\" writers such as Wharton, Dos Passos, Stein, Eliot, and Hemingway, who looked at America from an overseas perspective and reflected on the changes in communication, sensibility, and values resulting from the new freedom of this revolutionary, liminal period.",
+      "id": "CSUS_ENGL 250U",
+      "course name": "Roaring Twenties Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Surveys the range of contemporary cultural phenomena and the relevant modes of analysis currently employed in the widespread practice generally referred to as Cultural Studies.",
+      "id": "CSUS_ENGL 250V",
+      "course name": "Cultural Studies"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on the poetry of T.S. Eliot, one of the dominating figures of English and American literature for a substantial part of the twentieth century: In 1948 he received the Nobel Prize for Literature, and by 1950 his authority had reached a level that seemed comparable in English writing to that of figures like Johnson and Coleridge. Offers students the opportunity to analyze and discuss Eliot's poems. We will trace his poetic/aesthetic development from his early poems (\"Prufrock\" et al.) to his epoch-making The Waste Land, and onward through his conversion to Anglicanism and his mature accomplishment of Four Quartets.",
+      "id": "CSUS_ENGL 250W",
+      "course name": "The Poetry of T.S. Eliot"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The investigation of either a limited period (e.g. The Transcendental period or the Novel of the 1960s), a single author (e.g., Philip Roth or Toni Morrison), or a unique literary feature or structure (e.g. Literary Naturalism or the Experimental Novel).",
+      "id": "CSUS_ENGL 250Z",
+      "course name": "Special Topics in American Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduces and traces through several literary works and genres the fundamental topics in myth criticism; significance of ritual, fairy tales, and archetypal romance forms; contributions of Freudian, Lacanian, and Jungian psychology and their relation to Joseph Campbell's notion of the monomyth; relevance of Victor Turner's \"liminal\" theories of rites of passage in anthropology; importance of recent discoveries with the bicameral and \"triune\" brain in biological sciences; kinds of myth (hero, heroine, American, love, wasteland, artist, time); and relationships between myth criticism and post-structuralism.",
+      "id": "CSUS_ENGL 260A",
+      "course name": "Myth Criticism"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 260D",
+      "course name": "Literature and Biography"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on contemporary literary works from postcolonial locations such as Africa, Australia, South Asia, Canada and the Caribbean.  Explores the relationships between literary texts and the historical and social contexts from which they arise; especially European colonialism.",
+      "id": "CSUS_ENGL 265A",
+      "course name": "Postcolonial Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Literary history designed to introduce the graduate student to bibliographical materials necessary to the successful pursuit of advanced study in English. It will deal with the major historical periods of English and American literature, and looks briefly at the major European traditions.",
+      "id": "CSUS_ENGL 275",
+      "course name": "Seminar in Literary History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 280A",
+      "course name": "Aesthetics of Minority Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of the interaction between aesthetics and ethics in African-American literature.  Emphasizing a call-and-response verbal aesthetic-prominent in the oral traditions of segregated communities throughout the African Diaspora-as an extension of a diasporic ethics of improvisational black identity that, especially late twentieth century literature recovers as basis for challenging the fixed, essentialist ethoi and aesthetics of earlier African-American literature more greatly influenced by traditional, Christian-Humanist discourses on ethnicity.",
+      "id": "CSUS_ENGL 280B",
+      "course name": "The Ethics of Black Verbal Aesthetics"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Students will examine a rich tradition of Jewish American literature in the context of a complex American multicultural narrative. Topics include the immigrant experience, assimilation, alienation, responses to the Holocaust and other forms of anti-Semitism, the place of Israel in the Jewish American imagination, and a contemporary rediscovery or reconstruction of Jewishness and Judaism. Students will interrogate what constitutes Jewish American identity and defines its literature in a culture that is itself conflicted about its secular/religious ethos and the degree to which subjectivity is determined by \"consent and/or descent.",
+      "id": "CSUS_ENGL 280J",
+      "course name": "Jewish American Literature"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 297A",
+      "course name": "Prose Style In Literature"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Individual projects or directed reading. Highly recommended for, and open only to, students who are able to carry on individual tutorial study. Admission by approval of faculty member who is to act as tutor and of graduate advisor or of Department Chair. ",
+      "course name": "Special Problems: English Tutorial",
+      "units": "1 - 3 Units",
+      "id": "CSUS_ENGL 299",
+      "prerequisite": [
+        "ENGL 200"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for up to 6 units of credit. ",
+      "id": "CSUS_ENGL 410A",
+      "course name": "Writing Center Theory and Practice: Internships"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides interns with an opportunity to experience the day-to-day life of an ESL class. Tutors will observe an ESL class, will assist the teacher in conducting various aspects of the class, and will be responsible for planning and teaching at least one class session. Seminar meetings will provide and overview of ESL teaching methodology.",
+      "id": "CSUS_ENGL 410B",
+      "course name": "Internship-ESL Teaching"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_ENGL 410C",
+      "course name": "Internships"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Students considering a teaching career intern in a composition class at an area community college. They work with a mentor teacher on site and meet periodically at CSUS. The internship provides students with an opportunity to experience the day-to-day life of a composition class and hands-on opportunity to design assignments, respond to student writing, conduct class discussions, etc. Students read composition and rhetorical theory with an eye toward day-to-day application in the classroom.",
+      "id": "CSUS_ENGL 410E",
+      "course name": "Internship in Teaching Writing"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Gives graduate students the opportunity to gain teaching experience in a literature classroom. Students will work closely with an instructor-of-record in a large (60+) lecture literature course and in small group discussion sessions under the supervision of the internship coordinator. Interns will also meet periodically with their peers to discuss pedagogical issues and readings as they pertain to their experiences in the classroom. ",
+      "course name": "Internship in Teaching Literature",
+      "units": "3 Units",
+      "id": "CSUS_ENGL 410F",
+      "prerequisite": [
+        "ENGL 220A",
+        "ENGL 220A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Tutoring in adult reading. Tutors work with students who need reading instruction at Sacramento State, local community colleges or adult education agencies in the Sacramento area.",
+      "id": "CSUS_ENGL 410L",
+      "course name": "Internship in Teaching Adult Reading"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Students will work with a Composition faculty member to complete a project for the campus writing program, the University Reading and Writing Center, the Graduation Writing Assessment Requirement, or the Writing Across the Curriculum Program. Students should contact the appropriate program coordinator to register for the course and design a project.",
+      "id": "CSUS_ENGL 410W",
+      "course name": "Writing Programs Internship"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Completion of a thesis, project, comprehensive examination or TESOL comprehensive. ",
+      "id": "CSUS_ENGL 500",
+      "course name": "Culminating Experience"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Completion of a thesis, project, or TESOL comprehensive exam. Requires advancement to candidacy and permission of graduate coordinator. Project and thesis options require GPA of 3.7.",
+      "id": "CSUS_ENGL 598T",
+      "course name": "Culminating Experience - TESOL"
+    }
+  ],
+  "subjectOf": {
+    "id": "ENGL",
+    "subject": "English"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "English",
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,976 @@
+{
+  "subjectOf": {
+    "id": "ART",
+    "subject": "Art"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Art"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_ART 101",
+      "course name": "The Fundamentals of Drawing",
+      "units": "4 units",
+      "term": [
+        "ge area c3"
+      ],
+      "description": "Introduction to the artistic practice and cultural value of drawing from the Renaissance to the 21st Century. Emphasis and expansion of the practical skills of observation, rendering, and understanding the signs of meaning produced in visual art. Development of formal techniques, media experimentation, and content creation through personal expression. Exercises to encourage growth in technical skill, conceptual innovation, critical thinking, and visual communication.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Fulfills GE C3."
+    },
+    {
+      "id": "CalPoly_ART 102",
+      "course name": "Art and Design Foundation Studies I",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduces elements and principles of design, establishing a foundation for all artistic practice. Emphasizing critical thinking and creative problem solving, the interrelationship between form and content are examined. Traditional, digital and lens - based media are explored through individual and collaborative experiences.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 103",
+      "course name": "Art and Design Foundation Studies II",
+      "prerequisite": [
+        "ART 102"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Visual and aesthetic interactions of color, examined through historical and contemporary models. Formal techniques, media experimentation and content creation, explored through individual and collaborative experiences.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 104",
+      "course name": "Art and Design Foundation Studies III",
+      "prerequisite": [
+        "ART 103"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Principles and essential skills for three - dimensional practice in art and design. Understanding, envisioning, and communicating effectively about space, objects, scale, and the relationship of the body to the built environment.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 111",
+      "course name": "Introduction to Art",
+      "units": "4 units",
+      "term": [
+        "ge area c3"
+      ],
+      "description": "Designed to acquaint the non - art major with painting, sculpture, drawing, crafts, architecture and printmaking. Development of vocabulary, analytic skills, and research techniques for the understanding of art objects.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE C3."
+    },
+    {
+      "id": "CalPoly_ART 112",
+      "course name": "Survey of Western Art",
+      "units": "4 units",
+      "term": [
+        "ge area c3"
+      ],
+      "description": "History of major art movements in western civilization from ancient art to the twentieth century. Representative periods of western culture, such as the ancient world, the Middle Ages, the Renaissance, and the modern world.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE C3."
+    },
+    {
+      "id": "CalPoly_ART 122",
+      "course name": "Basic Digital Photography",
+      "units": "4 units",
+      "term": [
+        "ge area c3"
+      ],
+      "description": "Fundamental techniques in photography. Mechanics of digital cameras, optics, composition, perception of light and subject content. Understanding photographic principles and the language of camera vision. Introduction to the impact of photography on culture. Digital camera required.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Fulfills GE C3."
+    },
+    {
+      "id": "CalPoly_ART 148",
+      "course name": "Beginning Sculpture",
+      "units": "4 units",
+      "term": [
+        "ge area c3"
+      ],
+      "description": "Exploration of three dimensional form through problems in modeling, casting, carving, and techniques of assembly. Historical and contemporary concepts as applied to the discipline of sculptural styles.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Fulfills GE C3."
+    },
+    {
+      "id": "CalPoly_ART 182",
+      "course name": "Foundation in Digital Art I",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduction to image creation and manipulation, design, illustration, and layout / composition using digital tools, with an emphasis on visual problem solving and creative expression.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 183",
+      "course name": "Foundation in Digital Art II",
+      "prerequisite": [
+        "ART 182"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Development of digital skills in image creation, design, illustration, layout, and simple animation. Emphasis on visual problem solving, creative expression, and narrative.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies or surveys of selected problems. Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "id": "CalPoly_ART 201",
+      "course name": "Intermediate Drawing",
+      "prerequisite": [
+        "ART 101",
+        "ART 102 or ART 106"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Development of additional drawing techniques with emphasis on form content, pictorial space, B / W media, color, mixed media and composition.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 203",
+      "course name": "Art Theory and Practice",
+      "prerequisite": [
+        "ART 101",
+        "ART 102 or ART 106"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Contemporary issues in art and design, linking ' ideas ' to development of concepts. Emphasis on individual creative process, and problem solving. Focus on contemporary critical thinking regarding aesthetics, techniques, and vocabulary.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 209",
+      "course name": "Beginning Painting",
+      "prerequisite": [
+        "ART 101"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to technical and formal problems in painting. Exploration of pictorial space, light, and color from observation. Physical characteristics of paint, various tools, studio methods, and styles of painting.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 211",
+      "course name": "Art Hist - Ancient to Renaissance",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Development of art from antiquity to the early stages of the Renaissance in Europe. Particular emphasis on European art with appropriate references to sources from antiquity which have been particularly influential on European painting and sculpture. Comparison of relevant parallel examples of the art of non - European cultures.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ART 212",
+      "course name": "Art History - Renaissance through Baroque Eras",
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "The significant visual expressions of Northern and Southern European art of the Renaissance and Baroque period. Relevant parallel examples of the art of antiquity and non - European cultures.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ART 213",
+      "course name": "Art History- Modern Art, 1900-1945",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Examines the development of significant styles and movements in modern art, including Fauvism, German Expressionism, Cubism, Futurism, Neo - Plasticism, Russian and Soviet avant - gardes, Dada, Surrealism, and/or American modernism. Also introduces selected modern developments in graphic design and photography.",
+      "format": "4 lectures.",
+      "other": "Replaces ART 312."
+    },
+    {
+      "id": "CalPoly_ART 222",
+      "course name": "Black and White Photography",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Control and understanding of tonal range under available light. Composition, camera based visual communication skills and concept development. Emphasis on ' photographic seeing ' and professional quality printing.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_ART 224",
+      "course name": "Introduction to Artificial Lighting for Photography",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to studio lighting and contemporary professional studio photography. Production of professional quality prints using digital camera and printing methods.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 227",
+      "course name": "Portrait Photography",
+      "prerequisite": [
+        "ART 224"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Studio and environmental portraiture. Emphasis on light ratios / patterns ; posing and methods of personality portrayal.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 237",
+      "course name": "Graphic Design I",
+      "prerequisite": [
+        "ART 104",
+        "ART 183"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Exploration of the technical and conceptual underpinnings of graphic design. Focus on the design process and how raw ideas are translated into professional work.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 238",
+      "course name": "Typography I",
+      "prerequisite": [
+        "ART 104",
+        "ART 183"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Fundamentals of theory, practice, technology and history of typography. Exercises include the study of letterforms, type with image, proportion and grids, hierarchy, and legibility.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 245",
+      "course name": "Ceramics I",
+      "prerequisite": [
+        "ART 104 or ART 107"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Studio course in basic clay working with emphasis on design quality, hand building, and use of the potter 's wheel.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 260",
+      "course name": "Critique, Discourse and Practice",
+      "prerequisite": [
+        "ART 101",
+        "ART 104"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Developing an individual body of artwork. Rigorous critiques, lectures, and seminar - style discussions aimed at forming a process for discussing artwork. Art writing, research, and individual conceptual and formal development.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ART 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ART 288",
+      "course name": "Interaction Design I",
+      "prerequisite": [
+        "ART 237",
+        "ART 238"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "An introduction to concepts, uses and design principles of interactive media. Exploration of methods for planning and implementing interaction design projects. Not open to students with credit",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "in ART 380."
+    },
+    {
+      "id": "CalPoly_ART 302",
+      "course name": "Figure Drawing",
+      "prerequisite": [
+        "ART 101"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Development of advanced drawing methods and techniques in the study of the human form and structure as it relates to proportion, anatomical analysis, and figure / ground relationships. Understanding materials, techniques, and ideas in the practice of contemporary figure drawing.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 309",
+      "course name": "Intermediate Painting",
+      "prerequisite": [
+        "ART 209"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Continued study of technical and formal problems in painting. Emphasis on the creative process, development of individual ideas, and the connection between form and content. Contemporary issues in painting introduced.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 310",
+      "course name": "Art History - American Art",
+      "prerequisite": [
+        "ART 112",
+        "ART 211"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Major historical periods of American art from the colonial period to the present. Special emphasis will be given to the broader notion of American art as a process of developing an identity of the varied historical and sociological forces that have shaped images in American art.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ART 311",
+      "course name": "Art History - Nineteenth Century Art",
+      "prerequisite": [
+        "ART 111 or ART 112 or ART 211 or ART 212"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "History of painting and sculpture from the French Revolution to the beginning of the 20th century. Focuses on significant movements such as Neo - Classicism, Romanticism, Realism, Impressionism and Post - Impressionism. 4 lectures. Fulfills GE C4 except for Art and Design majors."
+    },
+    {
+      "id": "CalPoly_ART 313",
+      "course name": "Design History",
+      "prerequisite": [
+        "ART 211",
+        "ART 212"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Survey of design from the Victorian era to the present, including major philosophies and movements, political, social, cultural, and technological trends that influenced designers in the 20th century.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ART 314",
+      "course name": "History of Photography",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "In - depth survey of the artistic and cultural achievements in photography from its invention to the present day. Significant photographers, the evolution of aesthetic criteria in the context of other visual arts as well as social / cultural impact. 4 lectures. Fulfills GE C4 except for Art and Design majors."
+    },
+    {
+      "id": "CalPoly_ART 315",
+      "course name": "Art History - Art Since 1945",
+      "prerequisite": [
+        "ART 112 or ART 211 or ART 212 or ART 213"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "History of visual art from 1945 to the present. Focus on significant movements such as Abstract Expressionism, Pop art, minimalism, conceptual art, earthworks, feminism, and postmodernism. Also focus on new mediums such as performance, video, and installation.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ART 316",
+      "course name": "Women as Subject and Object in Art History",
+      "prerequisite": [
+        "ART 112",
+        "ART 211",
+        "ART 212",
+        "ART 213"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Exploration of the role of women in the visual arts. Women as artists, women as portrayed in art, and feminist theory as it applies to the study of the visual arts and art history. 4 lectures. Crosslisted as ART / WGS316."
+    },
+    {
+      "id": "CalPoly_ART 317",
+      "course name": "Asian Art Survey",
+      "prerequisite": [
+        "ART 112",
+        "ART 211"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Survey of the traditional arts of Asia - primarily India, China and Japan. Emphasis on the connections between the visual arts in Asia and the philosophical, social and cultural environments in which they arose.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ART 318",
+      "course name": "Asian Art Topics: National, Religious, and Intellectual Movements",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "In - depth examination of significant art movements in Asia. Each topic will focus on the development of art in Asia within the context of a specific geographical or theoretical framework. Details will vary depending on topic. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "4 lectures"
+    },
+    {
+      "id": "CalPoly_ART 324",
+      "course name": "Photographic Expression",
+      "prerequisite": [
+        "ART 122 or ART 224"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Emphasis on personal expression and developing style, introduction to symbology, visual source development and the work of contemporary creative photographers. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 325",
+      "course name": "Advanced Camera and Lighting Techniques",
+      "prerequisite": [
+        "ART 224"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Emphasis on advanced camera and lighting techniques. Use of architectural exteriors, interiors, landscapes and studio set - ups to assist mastery of large format cameras. Other topics include perspective and sharpness correction, lighting ( available and artificial ), digital imaging and studio equipment.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 329",
+      "course name": "Editorial Photography",
+      "prerequisite": [
+        "ART 325"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Creating, lighting and executing editorial assignments. Producing photography for corporate needs, i.e. annual reports, online presentations, brochures and in - house publications. Emphasis on selecting subject matter and handling lights.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 330",
+      "course name": "Book Arts",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Numerous traditional book structures and derivations including accordion, pamphlet, stab, and multiple signature construction. Emphasis on both craftsmanship and experimentation. Hands - on experience and a broad historical overview of paper and book arts.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 334",
+      "course name": "Illustration I: Techniques and Tools",
+      "prerequisite": [
+        "ART 101"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Introduction to the basic practices of commercial illustration as used in the visual communications industry. Emphasis on the generation of ideas, rendering techniques and tools, and self marketing methods, with an overview of the history of illustration.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 337",
+      "course name": "Graphic Design II",
+      "prerequisite": [
+        "ART 237",
+        "ART 238"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Exploration of identity design problems through the use of symbolism and metaphor. Design and implementation of corporate logos.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 338",
+      "course name": "Typography II",
+      "prerequisite": [
+        "ART 238"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Exploration of typography in the form of text. Application of different typefaces, composition, layout and page systems for the design of periodicals and books.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 345",
+      "course name": "Ceramics II",
+      "prerequisite": [
+        "ART 104 or ART 107",
+        "ART 148 or ART 245"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Studio course in hand, wheel, mold, extruder, jigger, and press forming skills. Design of single and multiple forms and kiln firing procedures. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 348",
+      "course name": "Intermediate Sculpture",
+      "prerequisite": [
+        "ART 104 or ART 107",
+        "ART 148"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Intermediate sculpture course in expressive use of form with modeling, casting, carving, and/or assembly. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 350",
+      "course name": "Computing for Interactive Arts Capstone I",
+      "prerequisite": [
+        "ART 384"
+      ],
+      "units": "2 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Definition and specification of a team - based creative collaboration on a digital interactive art project ( e.g. animation, video game, interactive media display, etc ). Research and techniques, project planning and project team organization, prototype creation.",
+      "format": "1 lecture, 1 laboratory.",
+      "other": "Crosslisted as ART / CSC350."
+    },
+    {
+      "id": "CalPoly_ART 353",
+      "course name": "Intermedia / Art",
+      "prerequisite": [
+        "ART 101",
+        "ART 102 or ART 106",
+        "ART 148"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Studio course emphasizing individual and collaborative creative exploration with project content derived from student 's experience. Focus on using traditional as well as new genres of artistic expression such as site specific installations, video art, book works, and performance art. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 366",
+      "course name": "Junior Studio Art Practice",
+      "prerequisite": [
+        "ART 148",
+        "ART 201",
+        "ART 260",
+        "ART 209"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Critiques, lectures, and seminar - style discussions aimed at establishing a rigorous creative practice. Includes art writing, research, and individual conceptual and formal development.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 370",
+      "course name": "Michelangelo",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "The art and life of Michelangelo (",
+      "format": "1475 - 1564"
+    },
+    {
+      "id": "CalPoly_ART 371",
+      "course name": "Topics in Renaissance Art",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "A thematic analysis of Renaissance",
+      "grading": "Art ( 1300 - 1600",
+      "format": "4 lectures"
+    },
+    {
+      "id": "CalPoly_ART 373",
+      "course name": "New Media Art History",
+      "prerequisite": [
+        "ART 111 or ART 212 or ART 213"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "In - depth study of past and contemporary media arts practices. Explores different approaches used by media artists in the 20th and 21st centuries to examine new media and how the lenses of new technologies are used by artists to present knowledge and alter social, cultural and political behaviors.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ART 383",
+      "course name": "Digital Video I",
+      "prerequisite": [
+        "ART 122 or ART 224"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Introduction to the use of the DSLR camera as a tool for shooting video and basic digital editing including audio editing. Topics will include scripting, storyboarding, composition, motion, editing, lighting and sound. Emphasis on effective communication and expression.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_ART 384",
+      "course name": "Digital 3D Modeling and Design",
+      "prerequisite": [
+        "ART 182"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Development of skills and techniques in the use of three - dimensional design and modeling via digital technology. Capabilities of current software in the design and modeling of three - dimensional form.",
+      "format": "2 lectures, 2 activities."
+    },
+    {
+      "id": "CalPoly_ART 388",
+      "course name": "Interaction Design II",
+      "prerequisite": [
+        "ART 288"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Design of original and innovative digital products of interaction design in different media, using user - centered design and usability analysis. Design research methods to engage potential users form the beginning to the end of the design process.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "id": "CalPoly_ART 402",
+      "course name": "Advanced Figure 2D",
+      "prerequisite": [
+        "ART 302"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Advanced problems in figure drawing and painting. Advanced methods and techniques in the study of the human form as it relates to technical and conceptual issues. Includes working from direct observation of the figure and the development of individual content and approaches. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 409",
+      "course name": "Advanced 2-D",
+      "prerequisite": [
+        "ART 201 or ART 309"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Advanced problems in painting and drawing. Emphasis on the creative process from initial concept to the finished work of art. Investigation of traditional, non - traditional and explorative work to encourage development of personal approach. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 427",
+      "course name": "Advertising Photography",
+      "prerequisite": [
+        "ART 325"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Applied principles of design and color to produce a photograph that sells an idea, product, or service. Joint projects with ART432, Advertising Design. Emphasis on thinking, planning, interpreting, and presenting an idea photographically.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 432",
+      "course name": "Advertising Design",
+      "prerequisite": [
+        "ART 337",
+        "ART 338"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Development of print advertising from concept to final presentation. Emphasis on art direction, photo direction and copywriting. For Art and Design majors only. Computer applications are required for appropriate problems.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 434",
+      "course name": "Illustration II",
+      "prerequisite": [
+        "ART 209",
+        "ART 334"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Advanced development of concepts and illustration techniques and skills, both as analogue and digital, for use in a variety of graphic design applications such as editorial / publication, retail, educational, technical, or advertising purposes.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 437",
+      "course name": "Graphic Design III",
+      "prerequisite": [
+        "ART 337",
+        "ART 338"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Advanced graphic design. The creation of basic 3-D structures, and the application of graphics in 3-D environments ( such as package design and signage ). Emphasis on integrative communication activity of all elements including : color, graphics, 3-D forms, typography, and constructions, and includes market research.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 438",
+      "course name": "Typography III",
+      "prerequisite": [
+        "ART 338"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Advanced exploration of communication and structural aspects of typography. Focus on experimentation and expressively using type to enhance meaning.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 439",
+      "course name": "Type in Motion",
+      "prerequisite": [
+        "ART 438",
+        "ART 488"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Sequential organization of typographic information in time and how ideas such as intonation, proximity, pacing, rhythm and progression can influence and shape meaning. Focus on animated typography for a range of applications.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 448",
+      "course name": "Advanced Topics in Sculpture",
+      "prerequisite": [
+        "ART 348"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Studio course specializing in three - dimensional form. Materials include clay, plaster, metal, or wood. Course content will be selected from various topics that are representational, abstraction, non - objective, or conceptual. The Schedule of Classes will list topic selected. Total credit limited to 8 units ; may be in same term.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 450",
+      "course name": "Computing for Interactive Arts Capstone II",
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Team - based design, construction and deployment of a collaborative interactive computational art project typically found in the fields of animation, game design, and interactive media. Management of inter - disciplinary teams, documentation, creative development, testing, and assessment. 2 laboratories. Crosslisted as ART / CSC450."
+    },
+    {
+      "id": "CalPoly_ART 463",
+      "course name": "Senior Portfolio Project",
+      "prerequisite": [
+        "ART 260"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Planning, preparation, and physical production of a portfolio of work for entrance into the professional job market or graduate school.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 466",
+      "course name": "Senior Studio Art Practice",
+      "prerequisite": [
+        "ART 366"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Builds upon content explored in ART366. Critiques, lectures, and seminar - style discussions aimed at establishing a rigorous creative practice. Art writing, research, and individual conceptual and formal development.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ART 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "1 to 4 laboratories."
+    },
+    {
+      "id": "CalPoly_ART 474",
+      "course name": "Collaborative Studio: Rendering, Animation and Modeling",
+      "prerequisite": [
+        "ART 384"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "A collaborative visualization and design studio focusing on rendering, animation and modeling. Modeling and animation software for design conceptualization and expression. Collaboration in teams. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "2 lectures, 2 activities."
+    },
+    {
+      "id": "CalPoly_ART 483",
+      "course name": "Digital Video II",
+      "prerequisite": [
+        "ART 383"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Advanced practices in digital video. Creation of genre - specific narratives using methods in storyboarding, shooting, editing, and sound design. Advanced methods of storytelling, including documentary video, web - based narratives, and fine art video practices. Creation of quality expressive videos.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_ART 484",
+      "course name": "Animation, Video, and Interactive Design",
+      "prerequisite": [
+        "ART 122 or ART 182 or ART 224"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Creation of in - depth animations and interactive presentations. Advanced scripting, storyboarding, video production, and interactive communication techniques.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 488",
+      "course name": "Interaction Design III",
+      "prerequisite": [
+        "ART 388"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Advanced development of complex systems in the interaction design space and an exploration of emerging technologies.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 489",
+      "course name": "Advanced Interactive Media Art",
+      "prerequisite": [
+        "ART 488"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Advanced topics in the digital media field such as interface design, information architecture techniques, digital typography and interactive storytelling. Survey of new applications of design for the new media, and the development of digital portfolio pieces.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ART 494",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Part - time work experience in business, industry, government, and other areas of student career interest. Positions are paid. Formal report and evaluation by work supervisor required. Major credit limited to 12 units ; total credit limited to 12 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_ART 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Full - time work experience in business, industry, government, and other areas of student career interest. Positions are paid. Formal report and evaluation by work supervisor required. Major credit limited to 12 units ; total credit limited to 12 units. Credit / No Credit grading only."
+    }
+  ]
+}

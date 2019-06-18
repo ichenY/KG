@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Description and explanations of astronomical phenomena and measurements related to the Solar System and exoplanets. Structure and evolution of planetary systems. Formation of solar systems and planets. Occasional observation periods. ",
+      "id": "CSUS_ASTR 4A",
+      "course name": "Introduction to the Solar System"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Description and explanations of astronomical phenomena related to stars, galaxies, and cosmology. Structure and evolution of stellar and galactic systems. Occasional observation periods. ",
+      "id": "CSUS_ASTR 4B",
+      "course name": "Introduction to Stars, Galaxies, and Cosmology"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Nature and history of scientific inquiry into life outside the Earth. Definitions of life. Habitability of planets and moons in our Solar System and of extrasolar planets. Likelihood of intelligent life outside Earth and rationale for the Search for Extra-Terrestrial Intelligence.  ",
+      "id": "CSUS_ASTR 4C",
+      "course name": "Introduction to Astrobiology"
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Study and use of various telescopes; field observation of planets, stars, meteors, asteroids, the moon and sun; laboratory activities relevant to astronomy. Lab three hours. ",
+      "course name": "Astronomical Observation Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_ASTR 6",
+      "prerequisite": [
+        "ASTR 4A",
+        "ASTR 4B",
+        "ASTR 4C"
+      ]
+    },
+    {
+      "term": " This course is approved as a Writing Intensive course.  ",
+      "description": "Planets and satellites, including their composition, structure, and atmospheres, with emphasis on modern techniques and observations. Solar surface phenomena and their influence on planets through the solar wind. Comets, meteorites, and their implications for the origin and evolution of planets. Physical effects governing feasible forms of space exploration and colonization. ",
+      "course name": "The Solar System and Space Exploration.",
+      "units": "3 Units",
+      "id": "CSUS_ASTR 131",
+      "prerequisite": [
+        "ASTR 4A",
+        "ASTR 4B",
+        "4C",
+        "PHYS 11A",
+        "CHEM 1A",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": " This course is approved as a Writing Intensive course.  ",
+      "description": "Types and evolution of stars; structure and evolution of galaxies; overall structure of the universe; current developments in astronomy. ",
+      "course name": "Stars, Galaxies and Cosmology.",
+      "units": "3 Units",
+      "id": "CSUS_ASTR 132",
+      "prerequisite": [
+        "ASTR 4A",
+        "ASTR 4B",
+        "4C",
+        "PHYS 11A",
+        "CHEM 1A",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Spring only \u2013 odd years",
+      "description": "Introduction to historical, observational and theoretical principles of dark matter and dark energy in the Universe. Topics will include dark matter in galaxies (rotation curves, stellar motions), dark matter in clusters (virial theorem, x-ray observations), MACHOs and WIMPs as dark matter candidates, as well as the discovery of dark energy through supernovae observations, and additional probes of  dark energy. Dark matter and dark energy will be discussed in the cosmological context of the Big Bang theory. ",
+      "course name": "Dark Matter and Dark Energy",
+      "units": "3 Units",
+      "id": "CSUS_ASTR 150",
+      "prerequisite": [
+        "PHYS 106",
+        "PHYS 110"
+      ]
+    },
+    {
+      "units": "1 - 2 Units",
+      "term": " Open only to students competent to assume individual work on approval of the instructor.  Up to 2 units may be taken for a grade. ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_ASTR 199",
+      "course name": "Special Problems"
+    }
+  ],
+  "subjectOf": {
+    "id": "ASTR",
+    "subject": "Astronomy"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Astronomy",
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the nature and possible meanings of higher education, the functions and resources of the University, and provides students with the opportunity to interact with fellow students and the seminar leader and to build a community of academic and personal support.  Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills.", 
+      "id": "CSUS_GNST 21", 
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    }
+  ], 
+  "subjectOf": {
+    "id": "GNST", 
+    "subject": "General Studies"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "General Studies", 
+    "id": "CSUS"
+  }
+}

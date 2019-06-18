@@ -1,0 +1,122 @@
+{
+  "subjectOf": {
+    "subject": "Journalism Courses",
+    "id": "JRN"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Journalism Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_JRN 101",
+      "course name": "Digital & Media Literacy",
+      "units": "3 Credits",
+      "description": "This course is designed to teach students to critically examine the impact of digital media and mediated messages on their everyday lives. Throughout the course, students explore the underlying power relationships of the media industry, the construction of media messages, and the influence of digital media on individuals, groups, and society."
+    },
+    {
+      "id": "AshFord_JRN 200",
+      "course name": "Elements of Journalism",
+      "units": "3 Credits",
+      "description": "Elements of Journalism provides students with an understanding of the field of journalism. The course focuses on developing the students skills in the areas of grammar, spelling, punctuation, Associated Press (AP) style writing, the inverted pyramid, news gathering, interviewing and other elements of journalism.",
+      "prerequisite": [
+        "ENG 121",
+        "122"
+      ]
+    },
+    {
+      "id": "AshFord_JRN 201",
+      "course name": "Multimedia News Writing and Editing",
+      "units": "3 Credits",
+      "description": "This course is designed to provide the principles and techniques of effective writing and editing for news in various platforms. There will be an emphasis on accuracy of information, presentation, clarity, precision, and efficiency in the use of language. Students will also begin to discover the various career opportunities and the field and begin to develop their goals through the Career Services Integration pieces built into the course.",
+      "prerequisite": [
+        "JRN 200"
+      ]
+    },
+    {
+      "id": "AshFord_JRN 301",
+      "course name": "Newsgathering & Reporting",
+      "units": "3 Credits",
+      "description": "This course focuses on gathering, evaluating, writing, and editing information for news stories tailored to various forms of media.",
+      "prerequisite": [
+        "JRN 201"
+      ]
+    },
+    {
+      "id": "AshFord_JRN 321",
+      "course name": "Visual Journalism",
+      "units": "3 Credits",
+      "description": "This course will teach students the importance of visual elements in news, and how to effectively incorporate visual elements into news stories for various media platforms. Students will also be introduced to industry-standards related to the design of visual news and the various software programs that are used.",
+      "prerequisite": [
+        "JRN 301"
+      ]
+    },
+    {
+      "id": "AshFord_JRN 331",
+      "course name": "Advanced Writing & Editing for the Media",
+      "units": "3 Credits",
+      "description": "This course is designed to provide the principles and techniques of good writing for the mass media with an emphasis on accuracy of information, presentation, clarity, precision and efficiency in use of the language. Additionally, students will focus on the standards of writing for the Web, which differ substantively from the traditional media."
+    },
+    {
+      "id": "AshFord_JRN 333",
+      "course name": "Ethics in Journalism",
+      "units": "3 Credits",
+      "description": "Ethics in journalism begins with an overview of ethical foundations and philosophy with a focus on case studies in the media and the application of ethical standards and decision making to issues faced by journalists on a daily basis.",
+      "prerequisite": [
+        "JRN 200"
+      ]
+    },
+    {
+      "id": "AshFord_JRN 339",
+      "course name": "Global Journalism",
+      "units": "3 Credits",
+      "description": "This course is designed to provide the student with an overview of the major issues facing global journalism. It focuses on the social, cultural, and governmental aspects of the international media and their relationship to journalism from the perspective of a democratic system.",
+      "prerequisite": [
+        "JRN 301"
+      ]
+    },
+    {
+      "id": "AshFord_JRN 341",
+      "course name": "Specialized Journalism",
+      "units": "3 Credits",
+      "description": "This course introduces students to the various genres of journalistic writing. Students learn to employ skills acquired from previous journalism courses to specific types of news reporting. Genres include the following: investigative journalism, sports journalism, entertainment journalism, business journalism, and environmental journalism.",
+      "prerequisite": [
+        "JRN 301"
+      ]
+    },
+    {
+      "id": "AshFord_JRN 410",
+      "course name": "Journalism Law",
+      "units": "3 Credits",
+      "description": "The study of the law of journalism and mass communication is a vast field. This course provides a broad overview of the rule of law, the First Amendment, disruptive speech, libel, protecting privacy, reporters privilege and electronic media regulation.",
+      "prerequisite": [
+        "JRN 200"
+      ]
+    },
+    {
+      "id": "AshFord_JRN 412",
+      "course name": "Advanced Editorial & Feature Writing",
+      "units": "3 Credits",
+      "description": "Students in this course will apply journalistic skills to opinion writing for editorial pages. It provides tools for evaluating critical thinking and argumentation for evaluating editorial writing. Additionally, students will learn the skills and requirements for feature writing.",
+      "prerequisite": [
+        "JRN 301"
+      ]
+    },
+    {
+      "id": "AshFord_JRN 415",
+      "course name": "Methods of Research & Analysis in Journalism",
+      "units": "3 Credits",
+      "description": "This course teaches students research methods of utility and analysis in journalism with a focus on survey research, electronic database searching, government sites, and the evaluation of data sets in journalism research studies."
+    },
+    {
+      "id": "AshFord_JRN 425",
+      "course name": "Journalism & Politics",
+      "units": "3 Credits",
+      "description": "This course is designed to aid students in determining how the media shape the context of American government and politics. Students will study American political journalism theory, current practice, convergence, and emerging technological change and their impact on public opinion and policy.",
+      "prerequisite": [
+        "JRN 301"
+      ]
+    }
+  ]
+}

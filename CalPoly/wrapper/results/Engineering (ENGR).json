@@ -1,0 +1,233 @@
+{
+  "subject": "Engineering (ENGR)",
+  "courses": [
+    {
+      "Course number & title": " Engineering Student Success",
+      "Number of units": "1 unit",
+      "Term": "CR/NC",
+      "Course description": "Strategies for success as an engineering student, including development of intrinsic motivation, time management, self-advocacy, campus resources, and career preparation. Engineering design process, teamwork, and communication skills. Credit/No Credit grading only. 1 activity."
+    },
+    {
+      "Course number & title": " Introduction to Engineering",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Introduction to engineering and the computing disciplines with emphasis on the design process, professionalism, communication, teamwork, diversity and skills for academic success in engineering. 2 lectures."
+    },
+    {
+      "Course number & title": " Introduction to Design Thinking",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Introduction to the process of design thinking and human centered design, including design process, methodology, and implementation.  Empathy, creativity, iterative prototyping, and contextual design of products and services.  4 lectures."
+    },
+    {
+      "Course number & title": " Selected Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " Engineering Professional Success",
+      "Number of units": "1 unit",
+      "Term": "CR/NC",
+      "Course description": "Strategies for success as an engineering professional.  Preparation for job searches, including networking and building a professional identity.  Exploration of engineering within context of society and community.  Intended for First Generation and new transfer students.  Credit/ No Credit grading only.  1 activity."
+    },
+    {
+      "Course number & title": " Transportation and Manufacturing in the Twenty-First Century",
+      "Number of units": "4 units",
+      "Term": "GE Area F",
+      "Course description": "Role of transportation and manufacturing technology in the twenty-first century.  Effects of technological change upon society, and the principles associated with the advancement of transportation and manufacturing technologies in the automotive industry and the industrial-military complex.  Case studies of systems to compare alternative approaches to problem solving.  4 lectures.  Fulfills GE Area F."
+    },
+    {
+      "Course number & title": " Introduction to Entrepreneurship",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Role and impact of entrepreneurship and technology startups; characteristics and traits of entrepreneurs; opportunity identification and assessment; frameworks for building startups; the founding team; organizational and legal issues; business and value proposition models; acquiring resources; entrepreneurial risk; realizing and harvesting value.  4 lectures.  Crosslisted as BUS/ENGR310."
+    },
+    {
+      "Course number & title": " The Learn By Doing Lab Teaching Practicum",
+      "Number of units": "2 units",
+      "Term": "CR/NC",
+      "Course description": "Early teaching experience in an informal science, technology, engineering, and mathematics (STEM) teaching and learning environment.  Principles of inquiry-driven STEM education, lesson design, implementation and assessment.  Intended for undergraduates exploring STEM teaching as a career.  Total credit limited to 4 units.  Credit/No Credit grading only.  1 seminar, 1 laboratory.  Crosslisted as ENGR322/SCM302/HNRS302."
+    },
+    {
+      "Course number & title": " Needfinding in New Product Design",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Identification and characterization of human needs for future products, systems, services, and environments.  Observation and interview techniques based on ethnographic approaches and building design empathy.  Emphasis on development of broad and flexible thinking skills for designers to address the needs of a changing society.  Field trips required.  4 lectures."
+    },
+    {
+      "Course number & title": " The Global Environment",
+      "Number of units": "4 units",
+      "Term": "GE Area F",
+      "Course description": "Interdisciplinary investigation of how human activities impact the Earth's environment on a global scale.  Examination of population, resource use, climate change, and biodiversity from scientific/technical and social/economic/ historical/political perspectives.  Use of remote sensing maps.  Sustainable solutions.  4 lectures.  Crosslisted as AG/EDES/ENGR/GEOG/ISLA/SCM/UNIV350.  Fulfills GE Area F."
+    },
+    {
+      "Course number & title": " Special Problems for Advanced Undergraduates",
+      "Number of units": "2-4 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 4 units."
+    },
+    {
+      "Course number & title": " Engineering as a Profession",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Preparation for the transition from academia to industry.  Working knowledge of key topics such as leadership, organizational structure, intellectual property, business models, and product development cycles, along with an appreciation of impact of technology on society.  3 lectures."
+    },
+    {
+      "Course number & title": " Special Topics in Bioengineering",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Current topics in bioengineering, including medical applications and industrial applications.  Total credit limited to 16 units, with a maximum of 4 units per quarter.  See The Schedule of Classes for topic selected.  4 lectures."
+    },
+    {
+      "Course number & title": " Interdisciplinary Senior Design Project I",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "First of three courses taken sequentially in a team based interdisciplinary senior design project.  Development of sponsor's needs and generation of design solutions.  Project management, cost analysis, intellectual property, test plans, impact analysis on society, and ethical considerations.  Communication of results to project sponsor.  2 laboratories."
+    },
+    {
+      "Course number & title": " Interdisciplinary Senior Design Project II",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Continuation of ENGR459 and senior project.  Activities focus on detail design, analysis and material procurement.  2 laboratories."
+    },
+    {
+      "Course number & title": " Interdisciplinary Senior Design Project III",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Continuation of ENGR460 and completion of senior project.  Design verified through prototyping and testing.  2 laboratories."
+    },
+    {
+      "Course number & title": " Senior Project",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Selection and completion of project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results presented in a formal report.  Minimum commitment of 150 hours."
+    },
+    {
+      "Course number & title": " Interdisciplinary Entrepreneurial Senior Design Project I",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "First of three courses taken sequentially in a team based interdisciplinary senior design project with engineering and business students.  Entrepreneurial process through design of a product or service, using customer development and agile engineering.  2 laboratories."
+    },
+    {
+      "Course number & title": " Interdisciplinary Entrepreneurial Senior Design Project II",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Continuation of ENGR463 and a team based interdisciplinary senior design project with engineering and business students.  2 laboratories."
+    },
+    {
+      "Course number & title": " Interdisciplinary Entrepreneurial Senior Design Project III",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Continuation of ENGR464 and a team based interdisciplinary senior design project with engineering and business students.  2 laboratories."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures."
+    },
+    {
+      "Course number & title": " Selected Advanced Laboratory",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories."
+    },
+    {
+      "Course number & title": " Senior Project Design Laboratory I",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Selection, development, and completion of project by individuals or team which is typical of problems graduates must solve in their fields of employment or applied research.  Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning scheduling and research and may involve students from several disciplines.  Formulation of outline, literature review, and project schedule.  2 laboratories."
+    },
+    {
+      "Course number & title": " Senior Project Design Laboratory II",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Selection, development, and completion of project by individuals or team which is typical of problems graduates must solve in their fields of employment or applied research.  Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning scheduling and research and may involve students from several disciplines.  Formulation of outline, literature review, and project schedule.  2 laboratories."
+    },
+    {
+      "Course number & title": " Senior Project Design Laboratory III",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Continuation of ENGR482.  Completion of project by individuals or team typical of problems graduates must solve in their fields of employment or applied research.  Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning, scheduling and research, and may involve students from several disciplines.  Formulation of outline, literature review, and project schedule.  2 laboratories."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "2 units",
+      "Term": "CR/NC",
+      "Course description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 6 units."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "6 units",
+      "Term": "CR/NC",
+      "Course description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 18 units."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "12 units",
+      "Term": "CR/NC",
+      "Course description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A more fully developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units."
+    },
+    {
+      "Course number & title": " Individual Study",
+      "Number of units": "2-4 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Advanced study planned and completed under the direction of faculty.  Open to graduate students who have demonstrated the ability to do independent work.  Total credit limited to 8 units."
+    },
+    {
+      "Course number & title": " Advanced Topics in Bioengineering",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Current topic in bioengineering research/application in detail, including medical applications and industrial applications.  Takes advantage of capabilities of resident or visiting faculty.  Total credit limited to 16 units.  See The Schedule of Classes for topic selected.  4 lectures."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures."
+    },
+    {
+      "Course number & title": " Selected Advanced Laboratory",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories."
+    },
+    {
+      "Course number & title": " Biochemical Engineering",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Types of microorganisms and microbially-mediated biochemical reactions for biotechnology applications.  Stoichiometric and thermodynamic principles for microbial growth and metabolism.  Material and energy balances for aerobic and anaerobic growth and bioreactor design.  Kinetics of enzyme catalyzed reactions.  Field trips required.  3 seminars, 1 laboratory.  Crosslisted as ENGR/ENVE581."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "2 units",
+      "Term": "CR/NC",
+      "Course description": "Advanced study analysis and part-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "6 units",
+      "Term": "CR/NC",
+      "Course description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "12 units",
+      "Term": "CR/NC",
+      "Course description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  A fully-developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Industry Sponsored Project Experience",
+      "Number of units": "1-9 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Designed for MS students who are performing a work-for-others research project that requires a Non-disclosure Agreement.  Students who qualify will be required file a detailed, supervised report and undergo an examination on the work performed.  Total credit limited to 9 units.  1 to 9 supervision."
+    },
+    {
+      "Course number & title": " Design Project (Thesis)",
+      "Number of units": "1-9 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Each individual or group will select, with faculty guidance and approval, a topic for independent research or investigation resulting in a thesis or project to be used to satisfy the degree requirement.  An appropriate experimental or analytical thesis or project may be accepted."
+    }
+  ]
+}

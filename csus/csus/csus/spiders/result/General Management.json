@@ -1,0 +1,58 @@
+{
+  "courses": [
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "This capstone course focuses on the integration of functional areas of a business and requires students to determine strategies/policies at the general-management level. Students address problems and issues faced by companies from a general management perspective which integrates accounting, financial, marketing, human resources, and operations in relation to the environment within a framework of balance between profit or cost-effectiveness and social responsibility. ", 
+      "course name": "Strategic Management", 
+      "units": "3 Units", 
+      "id": "CSUS_GM 105", 
+      "prerequisite": [
+        "MIS 101"
+      ]
+    }, 
+    {
+      "term": " .  ", 
+      "description": "Basics of business-level strategy and how they are applied in modern organizations. Underlying primary principles, theories and practices are examined and discussed.  Cases presenting actual, real-world situations will be analyzed to derive solutions to the business-level opportunities and problems facing strategic managers. ", 
+      "course name": "Fundamentals of Business Strategy", 
+      "units": "3 Units", 
+      "id": "CSUS_GM 170", 
+      "prerequisite": [
+        "HROB 101", 
+        "MKTG 101", 
+        "FIN 101", 
+        "OPM 101", 
+        "GM 170"
+      ]
+    }, 
+    {
+      "units": "6 - 12 Units", 
+      "term": " Open to all upper division students, subject to permission of the Management Area. Petitions can be obtained from the Student Affairs Office, Tahoe 2065.  ", 
+      "description": "In-depth supervised work experience in management for the purpose of exposing the student to comprehensive management experience in business, governmental, or service agencies. ", 
+      "id": "CSUS_GM 194", 
+      "course name": "Cooperative Education Experience in Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open to upper division students, subject to permission of the Management Area.  Petitions can be obtained from the Student Affairs Office, Tahoe 2065.  Open to declared business administration majors only.  ", 
+      "description": "Supervised work experience in business, governmental or service agencies for the purpose of increasing student understanding of the nature and scope of their operations.  Supervision is provided by the faculty and the cooperating agencies. ", 
+      "id": "CSUS_GM 195", 
+      "course name": "Internship in Strategic Management"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Admission requires approval of the instructor and the Associate Dean. Petitions can be obtained from the Undergraduate Business Advising Center, Tahoe 1030. ", 
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. ", 
+      "id": "CSUS_GM 199", 
+      "course name": "Special Problems in Strategic Management"
+    }
+  ], 
+  "subjectOf": {
+    "id": "GM", 
+    "subject": "General Management"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "General Management", 
+    "id": "CSUS"
+  }
+}

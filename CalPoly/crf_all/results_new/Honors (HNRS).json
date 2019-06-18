@@ -1,0 +1,838 @@
+{
+  "subjectOf": {
+    "id": "HNRS",
+    "subject": "Honors"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Honors"
+  },
+  "courses": [
+    {
+      "id": "HNRS 100",
+      "course name": "Introduction to the Honors Community",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Topics on sustainability, diversity, ethics, and transition to life at Cal Poly. Introduction to Honors Program opportunities. Mentoring and building community. Collaboration with local service organizations. For University Honors Program students only. Credit/No Credit grading only. 1 lecture, 1 activity."
+    },
+    {
+      "id": "HNRS 101",
+      "course name": "Public Speaking",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area a2"
+      },
+      "description": "Introduction to the principles of public speaking. Practical experience in the development, presentation, and critical analysis of speeches to inform, to persuade, and to actuate. Not open to students with credit in COMS102. 4 lectures. Crosslisted as COMS/HNRS101. Fulfills GE A2; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A2."
+    },
+    {
+      "id": "HNRS 102",
+      "course name": "Principles of Oral Communication",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area a2"
+      },
+      "description": "Introduction to the fundamentals and principles which underlie effective oral communication. Practical experience in various types of speaking situations: informative speaking, persuasive speaking, and panel discussion. Not open to students with credit in COMS101. 4 lectures. Crosslisted as COMS/HNRS102. Fulfills GE A2; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A2."
+    },
+    {
+      "id": "HNRS 112",
+      "course name": "Race, Culture and Politics in the United States",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d1; uscp"
+      },
+      "description": "Introductory and interdisciplinary study of the ways that race and ethnicity are created by both historical processes and American institutional formation - specifically social, political, economic, legal and cultural institutions. Special attention paid to the interlocking systems of race, class, gender and sexuality. 4 lectures. Crosslisted as ES/HNRS112. Fulfills GE D1 and USCP."
+    },
+    {
+      "id": "HNRS 131",
+      "course name": "General Physics I",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATH 141 with grade C- or better"
+        },
+        {
+          "prerequisite": "MATH 142 or MATH 182 (or concurrent enrollment)"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3; ge area b4"
+      },
+      "description": "Fundamental principles of mechanics.  Vectors, particle kinematics.  Equilibrium of a rigid body.  Work and energy, linear momentum, rotational kinematics and dynamics.  Primarily for engineering students, and for students majoring in the physical sciences.  Not open to students with credit in PHYS141.  3 lectures, 1 laboratory.  Crosslisted as HNRS/PHYS131.  Fulfills GE B3 & B4."
+    },
+    {
+      "id": "HNRS 132",
+      "course name": "General Physics II",
+      "hasPrerequisite": "PHYS 131 or HNRS 131 or PHYS 141",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3; ge area b4"
+      },
+      "description": "Oscillations, waves in elastic media, sound waves.  Temperature, heat and the first law of thermodynamics.  Kinetic theory of matter, second law of thermodynamics.  Geometrical and physical optics.  3 lectures, 1 laboratory.  Crosslisted as HNRS/PHYS132.  Fulfills GE B3 & B4."
+    },
+    {
+      "id": "HNRS 134",
+      "course name": "General Physics IA",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATH 141 with grade C- or better"
+        },
+        {
+          "prerequisite": "MATH 142 or MATH 182 (or concurrent enrollment)"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3"
+      },
+      "description": "Fundamental principles of mechanics.  Vectors, particle kinematics.  Equilibrium of a rigid body.  Work and energy, linear momentum, rotational kinematics and dynamics.  Primarily for engineering and science students.  Not open to students with credit in PHYS131.  4 lectures.  Crosslisted as HNRS134/PHYS141.  Fulfills GE B3."
+    },
+    {
+      "id": "HNRS 141",
+      "course name": "Calculus I",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b1"
+      },
+      "description": "Limits, continuity, differentiation.  Introduction to integration.  4 lectures.  Crosslisted as HNRS/MATH141.  Fulfills GE Area B1; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "HNRS 142",
+      "course name": "Calculus II",
+      "hasPrerequisite": "MATH 141 with a grade of C- or better or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b1"
+      },
+      "description": "Techniques of integration, applications to physics, transcendental functions.  4 lectures.  Crosslisted as HNRS/MATH142.  Fulfills GE B1; for students admitted Fall 2016 or later, a grade of C- or better in one GE B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "HNRS 143",
+      "course name": "Calculus III",
+      "hasPrerequisite": "MATH 142 with a grade of C- or better or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b1"
+      },
+      "description": "Infinite sequences and series, vector algebra, curves.  4 lectures.  Crosslisted as HNRS/MATH143.  Fulfills GE B1; for students admitted Fall 2016 or later, a grade of C- or better in one GE B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "HNRS 145",
+      "course name": "Reasoning, Argumentation, and Writing",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area a3"
+      },
+      "description": "The principles of reasoning in argumentation.  Examination of rhetorical principles and responsible rhetorical behavior.  Application of these principles to written and oral communications.  Effective use of research methods and sources.  4 lectures.  Crosslisted as COMS/ENGL/HNRS145.  Fulfills GE A3; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A3."
+    },
+    {
+      "id": "HNRS 148",
+      "course name": "Reasoning, Argumentation and Professional Writing",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area a3"
+      },
+      "description": "The principles of reasoning in professional writing.  Discussion and application of rhetorical principles, both oral and written, in professional environments.  Study of methods, resources and common formats used in corporate or research writing.  4 lectures.  Crosslisted as ENGL/HNRS148.  Fulfills GE A3; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A3."
+    },
+    {
+      "id": "HNRS 149",
+      "course name": "Technical Writing for Engineers",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area a3"
+      },
+      "description": "The principles of technical writing.  Discussion and application of rhetorical principles in technical environments.  Study of methods, resources and common formats used in corporate or research writing.  4 lectures.  Crosslisted as ENGL/HNRS149.  Fulfills GE A3; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A3."
+    },
+    {
+      "id": "HNRS 161",
+      "course name": "Creating Sustainable Communities I",
+      "units": "2 units",
+      "inTerm": {
+        "term": "ge area d3"
+      },
+      "description": "Environmental, historical, and social dimensions of sustainability. Elements of sustainable communities in a local and global context. Resilience and systems thinking. Introduction to research skills. Developing community within the Honors Program. Includes a service learning component. For University Honors Program students only. 1 lecture, 1 activity. Upon completion of HNRS161 and HNRS162, a student will receive 4 units of GE credit for Area D3."
+    },
+    {
+      "id": "HNRS 162",
+      "course name": "Creating Sustainable Communities II",
+      "hasPrerequisite": "HNRS 161",
+      "units": "2 units",
+      "inTerm": {
+        "term": "ge area d3"
+      },
+      "description": "Continuation of HNRS161.  Environmental, historical, and social dimensions of sustainability.  Institutional views of sustainability.  Environmental justice.  Appropriate technology.  Developing community within the Honors Program.  Includes a service learning component.  For University Honors Program students only.  1 lecture, 1 activity."
+    },
+    {
+      "id": "HNRS 163",
+      "course name": "Creating Sustainable Communities III",
+      "hasPrerequisite": "HNRS 162",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Continuation of HNRS161 and 162.  Implementation and assessment of a year-long community service project, initiative, or campaign.  Project management and interpersonal communication.  Developing community within the Honors Program.  For University Honors Program students only.  1 lecture, 1 activity."
+    },
+    {
+      "id": "HNRS 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Individual investigation, research, projects, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.  Credit/No Credit grading only."
+    },
+    {
+      "id": "HNRS 201",
+      "course name": "Survey of Economics",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d2"
+      },
+      "description": "Basic principles of microeconomics and macroeconomics. Emphasis on applications to current national and global economic issues. For majors requiring one quarter of economics. Not open to students having previous credit in ECON222 or equivalent. 4 lectures. Crosslisted as ECON/HNRS201. Fulfills GE D2."
+    },
+    {
+      "id": "HNRS 202",
+      "course name": "United States History Since 1865",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d1; uscp"
+      },
+      "description": "Survey of the second half of U.S. history, including reconstruction, industrialization, the regulatory state, foreign affairs, and the remaking of citizenship rights and society. Particular attention to how race, class, and gender shaped changing definitions of freedom and equality. Not open to students with credit in HIST206 or HIST207. 4 lectures. Crosslisted as HIST/HNRS202. Fulfills GE Area D1 and USCP."
+    },
+    {
+      "id": "HNRS 203",
+      "course name": "United States History to 1865",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d1; uscp"
+      },
+      "description": "Survey of the first half of U.S. history, including: contact and settlement, American Revolution, slavery, westward expansion, early California, Civil War, and California and U.S. Constitutions. Particular attention to how race, class, and gender shaped changing definitions of freedom and equality. Not open to students with credit in HIST206 or HIST207. 4 lectures. Crosslisted as HIST201/HNRS203. Fulfills D1 and USCP."
+    },
+    {
+      "id": "HNRS 204",
+      "course name": "Introduction to Women's and Gender Studies in the United States",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d1; uscp"
+      },
+      "description": "Introduction to theories and research on how genders and sexualities in the US shape and are shaped by historical processes and US institutional formation - specifically social, political, economic, legal, cultural institutions. Emphasis on interlocking systems of gender, sexuality, race and class. 4 lectures. Crosslisted as HNRS204/WGS201. Fulfills GE Area D1 and USCP."
+    },
+    {
+      "id": "HNRS 207",
+      "course name": "Freedom and Equality in American History",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d1; uscp"
+      },
+      "description": "The multiple and conflicting ways in which various Americans (defined in terms of race, class and gender) have struggled to formulate and promote their own understandings of freedom and equality, from the pre-conquest era to the present. 4 lectures. Not open to students with credit in HIST201 or HIST202. Crosslisted as HIST/HNRS207. Fulfills GE D1 and USCP."
+    },
+    {
+      "id": "HNRS 211",
+      "course name": "Engineering Statics",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATH 241 (or concurrently)"
+        },
+        {
+          "prerequisite": "PHYS 131 or PHYS 141"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Analysis of forces on engineering structures in equilibrium.  Properties of forces, moments, couples, and resultants.  Equilibrium conditions, friction, centroids, area moments of inertia.  Introduction to mathematical modeling and problem solving.  Vector mathematics where appropriate.  3 lectures.  Crosslisted as HNRS/ME211."
+    },
+    {
+      "id": "HNRS 212",
+      "course name": "Global Origins of United States Cultures",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d3; uscp"
+      },
+      "description": "How the global dispersal of Europeans, Asians, and Africans, the hemispheric dispersal of Latin Americans, and the forced internal migration of Native Americans have contributed to American cultural heritage and the struggles for ethnic, class and gender equality, and justice. 4 lectures. Crosslisted as ES/HNRS212. Fulfills GE D3 and USCP."
+    },
+    {
+      "id": "HNRS 213",
+      "course name": "Modern Political Economy",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d2"
+      },
+      "description": "The relationship between states and economies in the modern period. Themes of modernization, industrialization, and colonial expansion. The  major theories of political economy, especially liberalism and socialism. 4 lectures. Crosslisted as HIST/HNRS213. Fulfills GE D2."
+    },
+    {
+      "id": "HNRS 214",
+      "course name": "Engineering Dynamics",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATH 241"
+        },
+        {
+          "prerequisite": "ME 211 or ARCE 211"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Analysis of motions of particles and rigid bodies encountered in engineering.  Velocity, acceleration, relative motion, work, energy, impulse, and momentum.  Further development of mathematical modeling and problem solving.  Vector mathematics where appropriate.  3 lectures.  Crosslisted as HNRS214/ME212."
+    },
+    {
+      "id": "HNRS 216",
+      "course name": "Comparative Social Movements",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d3"
+      },
+      "description": "History of global social movements from the late nineteenth century to the present. May include, but not limited to: socialism, nationalism, feminism, fascism and communism, pacifism, life reform, gay liberation, indigenous peoples' movements, and environmentalism. Includes a service learning component. 4 lectures. Crosslisted as HIST/HNRS216. Fulfills GE D3."
+    },
+    {
+      "id": "HNRS 223",
+      "course name": "World History, 1800 - Present",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d3"
+      },
+      "description": "Comparative history of Western and non-Western societies in global perspective. Cross-cultural exchange, interaction, and conflict in the making of the modern world, with focus on the economic, political, and cultural transformations that facilitated and emerged from imperialism. 4 lectures. Crosslisted as HIST/HNRS223. Fulfills GE D3."
+    },
+    {
+      "id": "HNRS 230",
+      "course name": "Philosophical Classics: Knowledge and Reality",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c2"
+      },
+      "description": "Critical examination of primary philosophical texts, from the ancient and modern periods, with focus on the nature of reality and the sources and limits of human knowledge.  4 lectures.  Crosslisted as HNRS/PHIL230.  Fulfills GE C2."
+    },
+    {
+      "id": "HNRS 231",
+      "course name": "Philosophical Classics: Ethics and Political Philosophy",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c2"
+      },
+      "description": "Readings from primary philosophical texts, from the ancient and modern periods, with focus on the identification, evaluation and contemporary relevance of the central ethical and political themes and arguments presented in them.  Course may be offered in classroom-based or online format.  4 lectures.  Crosslisted as HNRS/PHIL231.  Fulfills GE C2."
+    },
+    {
+      "id": "HNRS 232",
+      "course name": "Masterworks of British Literature from the Late 18th Century to the Present",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c1"
+      },
+      "description": "Broadly surveys Romantic, Victorian, Modern, and Contemporary British literature in an historical-cultural context.  Investigates works from several genres and a variety of national and cultural voices.  May include such writers as Wordsworth, Wollstonecraft, Dickens, G.  Eliot, Wilde, Woolf, Yeats, and Gordimer.  4 lectures.  Crosslisted as ENGL231/HNRS232.  Fulfills GE C1."
+    },
+    {
+      "id": "HNRS 241",
+      "course name": "Calculus IV",
+      "hasPrerequisite": "MATH 143",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Partial derivatives, multiple integrals, introduction to vector analysis.  4 lectures.  Crosslisted as HNRS/MATH241."
+    },
+    {
+      "id": "HNRS 242",
+      "course name": "American Literature: 1830 to the Present",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c1"
+      },
+      "description": "A broad survey of later American literature from the rise of literary nationalism to the present.  A wide range of writers and genres, including novels, short stories, poems, plays, essays, and autobiographies.  Not open to students with credit in ENGL 240.  4 lectures.  Crosslisted as ENGL/HNRS242.  Fulfills GE C1."
+    },
+    {
+      "id": "HNRS 244",
+      "course name": "Linear Analysis I",
+      "hasPrerequisite": "MATH 143",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Separable and linear ordinary differential equations with selected applications; numerical and analytical solutions.  Linear algebra:  vectors in n-space, matrices, linear transformations, eigenvalues, eigenvectors, diagonalization; applications to the study of systems of linear differential equations.  4 lectures.  Crosslisted as HNRS/MATH244."
+    },
+    {
+      "id": "HNRS 251",
+      "course name": "Great Books I: Introduction to Classical Literature",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c1"
+      },
+      "description": "Examination of the ancient epics and classical literature of Mesopotamia, Greece, and Rome.  May include such readings as The Epic of Gilgamesh, the Iliad, the Odyssey, Genesis, Exodus, Antigone, the Symposium, the Aeneid, and Marcus Aurelius's Meditations.  4 lectures.  Crosslisted as ENGL/HNRS251.  Fulfills GE C1."
+    },
+    {
+      "id": "HNRS 261",
+      "course name": "Leadership: Self Evaluation",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Interpersonal leadership and communication skills with a focus on self evaluation.  Personality assessment, preparation of a personal leadership development plan, and goal setting.  Values and moral development.  For University Honors Program students only.  1 activity."
+    },
+    {
+      "id": "HNRS 262",
+      "course name": "Leadership: Group Dynamics",
+      "hasPrerequisite": "HNRS 261",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Teamwork and team building skills with a focus on group dynamics.  Understanding the effects of diversity on team dynamics and performance.  Cross-cultural communication and leadership.  Development of trust, feedback, and conflict resolution.  For University Honors Program students only.  1 lecture."
+    },
+    {
+      "id": "HNRS 263",
+      "course name": "Leadership: Coaching and Mentoring",
+      "hasPrerequisite": "HNRS 262",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Strategies for effective coaching and mentoring.  Servant leadership, recognition of motivational sources in others, and positive psychology in leadership.  Development of a leadership philosophy.  For University Honors Program students only.  1 lecture."
+    },
+    {
+      "id": "HNRS 265",
+      "course name": "Research and Information Skills for Honors Students",
+      "hasPrerequisite": "HNRS 162",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Identifying information resources and research support services available through Kennedy Library.  Methods, best-practices, and ethical standards related to planning, carrying out, summarizing, and publishing scholarly research.  Written, oral, and visual presentation of research findings.  For University Honors Program students only.  1 lecture, 1 activity."
+    },
+    {
+      "id": "HNRS 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "HNRS 299",
+      "course name": "Honors Group Seminar",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Students in the Honors Program are required to take at least eight courses for honors credit before graduation. Taking an Honors course may not be possible due to scheduling conflicts or unavailability of courses. This course allows students to engage in honors-level work in a standard, non-honors course on a group basis. Credit/No Credit grading only. Total credit limited to 4 units; repeatable in same term. Must achieve a B or better in the related standard course. 1 seminar."
+    },
+    {
+      "id": "HNRS 302",
+      "course name": "The Learn By Doing Lab Teaching Practicum",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Early teaching experience in an informal science, technology, engineering, and mathematics (STEM) teaching and learning environment.  Principles of inquiry-driven STEM education, lesson design, implementation and assessment.  Intended for undergraduates exploring STEM teaching as a career.  Total credit limited to 4 units.  Credit/No Credit grading only.  1 seminar, 1 laboratory.  Crosslisted as ENGR322/SCM302/HNRS302."
+    },
+    {
+      "id": "HNRS 303",
+      "course name": "Economics of Poverty, Discrimination and Immigration",
+      "hasPrerequisite": "ECON 201 or ECON 222",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5; uscp"
+      },
+      "description": "Economic analysis of the cause, extent and impact of poverty, discrimination and immigration and of the policies designed to address these socioeconomic issues.  Emphasis on the experience of African-Americans, Latinos, and women in the United States.  4 lectures.  Crosslisted as ECON/HNRS303.  Fulfills GE D5 except for Economics majors.  Fulfills USCP."
+    },
+    {
+      "id": "HNRS 304",
+      "course name": "Values and Technology",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4"
+      },
+      "description": "Humanistic investigation into the theoretical and practical applications of technology with specific reference to the social effects of technological change.  For all majors.  Non-technical.  4 lectures.  Crosslisted as HNRS304/ISLA303.  Fulfills GE C4."
+    },
+    {
+      "id": "HNRS 310",
+      "course name": "Air and Space",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area Fall"
+      },
+      "description": "Technological innovations that have led to modern aircraft and spacecraft as viewed from an historical perspective.  Development of aerodynamics, propulsion systems, light-weight structures, and control systems.  How aviation has affected, and been affected by, history.  Impact of aviation on society, including civil and military aircraft/spacecraft.  Federal regulation of aviation, including air traffic control and airlines.  Future developments in air and space technology.  4 lectures.  Crosslisted as AERO/HNRS310.  Fulfills GE Area F."
+    },
+    {
+      "id": "HNRS 311",
+      "course name": "Computers for Poets",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area Fall"
+      },
+      "description": "How computers and computer devices work.  Introduction to software systems and applications.  How computers connect with various media including images, speech and data.  How information is encoded and transmitted across networks.  Relationship between the computer and human information processing.  4 lectures.  Crosslisted as CSC310/HNRS311.  Fulfills GE Area F."
+    },
+    {
+      "id": "HNRS 312",
+      "course name": "East Asian Culture and Civilization",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "The pre-modern and modern histories of China and Japan.  Focus on the traditional era, the transition to modernity, cultural uniqueness within East Asian civilization, and western images of Asia.  4 lectures.  Crosslisted as HIST310/HNRS312.  Fulfills GE D5 except for History majors."
+    },
+    {
+      "id": "HNRS 317",
+      "course name": "The Lure of the Sea",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "The history of the sea, people who travel across it, live alongside or in the midst of it, or simply seek it out.  Topics include imperialism, maritime commerce, port cities, littoral societies, piracy, tourism, popular culture.  4 lectures.  Crosslisted as HIST/HNRS317.  Fulfills GE D5 except for History majors."
+    },
+    {
+      "id": "HNRS 320",
+      "course name": "Topics and Issues in Values, Media and Culture",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4"
+      },
+      "description": "The interplay of values, media, and culture from an interdisciplinary perspective.  Descriptive subtitles assigned to each course.  The Schedule of Classes will list topic selected.  4 lectures.  Total credit limited to 8 units with different subtopic; repeatable in same term.  Crosslisted as HNRS/ISLA320.  Fulfills GE C4."
+    },
+    {
+      "id": "HNRS 321",
+      "course name": "Undergraduate Research Methods and Practice",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Research methods and tools for sciences and humanities, including formulating a research question, designing a study, using the scientific method to conduct and analyze surveys, and analyzing data.  Emphasis on working in interdisciplinary research teams.  Total credit limited to 8 units.  2 lectures, 2 activities.  Crosslisted as HNRS/UNIV321."
+    },
+    {
+      "id": "HNRS 322",
+      "course name": "Leadership and Project Management",
+      "units": "2 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Theory and practice in leadership and project management skills for engineering design teams.  Basic issues related to, and tools used for, managing projects and concepts comprising project management.  Emphasis on situations requiring resolutions and management decisions by groups representing various elements of an enterprise.  2 lectures.  Crosslisted as HNRS/IME322."
+    },
+    {
+      "id": "HNRS 323",
+      "course name": "Modern America",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "American history since 1900.  Focus on domestic and foreign policy interactions, struggle of disenfranchised groups for social and political equality, and changes in culture and identity.  4 lectures.  Crosslisted as HIST322/HNRS323.  Fulfills GE D5 except for History majors."
+    },
+    {
+      "id": "HNRS 324",
+      "course name": "The Historical Novel in the United States, 1960s to the Present",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "An introduction to the historical novel as it has developed in the United States since the 1960s.  Exploration of how historical novels typically represent the past and the ways in which they change our notion of what counts as 'history.' 4 lectures.  Crosslisted as HIST/HNRS324.  Fulfills GE D5 except for History majors."
+    },
+    {
+      "id": "HNRS 332",
+      "course name": "British Literature in the Age of Enlightenment: 1660-1798",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; gWinterr"
+      },
+      "description": "In-depth exploration of the dominant themes and preoccupations of the Age of Enlightenment.  Historical and cultural contexts of canonical and non-canonical literature emphasized to illustrate 18th century Britons' views of themselves and their changing world.  May include such writers as Dryden, Behn, Defoe, Swift, Pope, and Johnson.  4 lectures.  Crosslisted as ENGL/HNRS332.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units)."
+    },
+    {
+      "id": "HNRS 333",
+      "course name": "British Literature in the Age of Romanticism: 1798-1832",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; gWinterr"
+      },
+      "description": "In-depth exploration of the literature of the British Romantic period.  Cultural, historical, and philosophic contexts will also be examined in both canonical and non-canonical works.  May include such writers as Blake, Wordsworth, Keats, and Wollstonecraft.  4 lectures.  Crosslisted as ENGL/HNRS333.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units)."
+    },
+    {
+      "id": "HNRS 334",
+      "course name": "Modern Europe, 1789-1914",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "Europe's 'long nineteenth century' reveals continuity and dramatic changes in politics, social structures and identities, forms of cultural expression, and scientific and technological knowledge.  Topics include the French and Industrial revolutions; liberalism; nationalism; socialism; modernism; imperialism; and World War I.  4 lectures.  Crosslisted as HIST/HNRS334.  Fulfills GE D5 except for History majors."
+    },
+    {
+      "id": "HNRS 335",
+      "course name": "Modern Europe, 1914-Present",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "Examination of twentieth-century European history.  Topics include:  First World War, World Economic Crisis, communism, fascism, mass culture, shifting gender roles, Second World War, Cold War, Velvet Revolution, and the European Union.  4 lectures.  Crosslisted as HIST/HNRS335.  Fulfills GE D5 except for History majors."
+    },
+    {
+      "id": "HNRS 336",
+      "course name": "Social Ethics",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; uscp"
+      },
+      "description": "Examination of contemporary moral problems, solutions to these problems, and the arguments for these solutions, with emphasis on two or more of the following sample problem areas:  abortion, suicide and euthanasia, capital punishment, family ethics, race relations, social justice, war, women's issues.  4 lectures.  Crosslisted as PHIL335/HNRS336.  Fulfills GE C4 except for Philosophy majors.  Fulfills USCP."
+    },
+    {
+      "id": "HNRS 338",
+      "course name": "Critical Issues in American Politics",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "Examination of significant social, legal, economic and political issues that face the country and how the basic institutions of government-national, state, local-are responding to them; assessment of policies to correct these problems.  4 lectures.  Crosslisted as HNRS/POLS338.  Fulfills GE D5 except for Political Science majors."
+    },
+    {
+      "id": "HNRS 340",
+      "course name": "Sexuality Studies",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "Sexuality in a cultural and historical context.  Changing definitions of human subjectivity.  The cultural and social regimes that control and create sexuality (including the 'invention' of homo/heterosexuality and the social, legal and political systems that define sexual ab/normality).  Contemporary issues of sexual orientation and topics of sexuality in relation to gender and race.  4 seminars.  Crosslisted as WGS/HNRS340.  Fulfills GE D5."
+    },
+    {
+      "id": "HNRS 341",
+      "course name": "The Literary Sources of the American Character: 1865-1914",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; gWinterr"
+      },
+      "description": "Analysis of literary Realism and Naturalism in their cultural and historical contexts.  May include such writers as Whitman, Dickinson, Twain, Chopin, James, Wharton, Dreiser, Norris, and Crane who are seen to accommodate the sense of danger, doubt, and disorder of the time.  4 lectures.  Crosslisted as ENGL/HNRS341.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units)."
+    },
+    {
+      "id": "HNRS 342",
+      "course name": "The Literary Sources of the American Character: 1914-1956",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; gWinterr"
+      },
+      "description": "The writers of the modern period and those of the early post-modern age, including writers marked by stylistic innovation and a willingness to challenge traditionally accepted standards.  May include such writers as Hemingway, Fitzgerald, Stein, Hughes.  4 lectures.  Crosslisted as ENGL/HNRS342.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units)."
+    },
+    {
+      "id": "HNRS 343",
+      "course name": "Multiple Voices of Contemporary American Literature",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; gWinterr"
+      },
+      "description": "In-depth study of American fiction, poetry, and drama written since 1956.  How contemporary literature examines enduring American themes and breaks new ground with the inclusion of diverse voices.  4 lectures.  Crosslisted as ENGL/HNRS343.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units)."
+    },
+    {
+      "id": "HNRS 345",
+      "course name": "Women Writers of the Twentieth Century",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; gWinterr; uscp"
+      },
+      "description": "In-depth exploration of works of 20th century women authors within their historical and cultural contexts.  Analysis of canonical and non-canonical writing by women of differing classes, races, ethnicities, and sexual preferences.  Literary techniques through which texts reflect or challenge such cultural constructs as gender, identity, sexuality, motherhood, etc.  The emergence of a female literary tradition.  May include such writers as Woolf, Rich, Kingston, Yamamoto, Morrison, Cervantes.  4 lectures.  Crosslisted as ENGL/HNRS345.  Fulfills GE C4 except for English majors.  Fulfills USCP.  Fulfills GWR for students with junior standing (90 units)."
+    },
+    {
+      "id": "HNRS 347",
+      "course name": "African American Literature",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; gWinterr; uscp"
+      },
+      "description": "The writings of African Americans from the end of the eighteenth century to the present.  Individual works and literary trends among African Americans of various periods and contexts:  intellectual, political, and cultural.  4 lectures.  Crosslisted as ENGL/HNRS347.  Fulfills GE C4 except for English majors.  Fulfills USCP.  Fulfills GWR for students with junior standing (90 units)."
+    },
+    {
+      "id": "HNRS 350",
+      "course name": "The Scientific Revolution, c",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "History of the intellectual, social, and cultural changes in the early modern period known as the 'Scientific Revolution.' Main topics include the Copernican Revolution, mechanical philosophy, natural history, and the social and material practices of early modern science.  4 lectures.  Crosslisted as HIST/HNRS350.  Fulfills GE D5 except for History majors."
+    },
+    {
+      "id": "HNRS 352",
+      "course name": "Modern Drama",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; gWinterr"
+      },
+      "description": "Reading and analysis of world drama of the last 150 years, thereby enhancing student awareness of modern culture, history, ethics, politics, and the human condition.  Design work, multi-media forms, art, music, and cinema as components or informing elements of the works under consideration.  4 lectures.  Crosslisted as ENGL/HNRS352.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units)."
+    },
+    {
+      "id": "HNRS 353",
+      "course name": "Gender, Race, Culture, Science and Technology",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area Fall; uscp"
+      },
+      "description": "Interdisciplinary examination of the complex relationships between gender, race, culture, science, technology in educational, work, knowledge production, policy, and ethical contexts.  Topics may include reproductive, medical, genetic, and emerging technologies and exploration of efforts to create more socially responsible science/technology.  3 lectures, 1 activity.  Crosslisted as ES350/HNRS353/WGS350.  Fulfills GE Area F and USCP."
+    },
+    {
+      "id": "HNRS 361",
+      "course name": "Honors Track - Research, International, and Community Service Experience",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Completion of an approved Honors experience track in research, international study, or community service.  Personal reflection on the experience.  Peer evaluation.  Presentation of the experience to the Honors and greater Cal Poly communities.  For University Honors Program students only.  1 lecture."
+    },
+    {
+      "id": "HNRS 380",
+      "course name": "Literary Themes",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; gWinterr"
+      },
+      "description": "Literature selected according to a particular theme.  Emphasis on critical interpretation, aesthetic appreciation, and historical and cultural contexts.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 lectures.  Crosslisted as ENGL/HNRS380.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units)."
+    },
+    {
+      "id": "HNRS 391",
+      "course name": "Appropriate Technology for the World's People: Development",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "A broad overview of international development and appropriate design for sustainability.  Besides traditional classroom work, students work in teams to address problems with technical solutions.  Collaboration with mentors from the university, private sector, and nonprofits serves to provide diverse background and project mentorship.  4 lectures.  Crosslisted as HNRS/PSC/UNIV391.  Fulfills GE D5."
+    },
+    {
+      "id": "HNRS 392",
+      "course name": "Appropriate Technology for the World's People: Design",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area Fall"
+      },
+      "description": "Addresses the needs of international impoverished communities with technological solutions, which are inexpensive, ecologically sustainable, and socially appropriate.  Group study of target communities, and design and construction of an appropriate technology prototype.  Not open to students with credit in PSC/UNIV/HNRS492.  3 lectures, 1 laboratory.  Crosslisted as HNRS/PSC/UNIV392.  Fulfills GE Area F."
+    },
+    {
+      "id": "HNRS 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "id": "HNRS 411",
+      "course name": "New Media Arts I",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Advanced-level presentation of new media theory, design and practice.  Topics covered include, but are not limited to, interactivity theory, user-centered system design, cognitive psychology, media analysis, and basic web design theory.  Total credit limited to 8 units.  4 lectures.  Crosslisted as ENGL/HNRS411."
+    },
+    {
+      "id": "HNRS 412",
+      "course name": "New Media Arts II",
+      "hasPrerequisite": "ENGL 411",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Advanced level of work with the primary technologies and design/critique theories currently at use in the professional creation of new media works.  Lectures and readings expand upon material presented in ENGL411.  4 lectures.  Crosslisted as ENGL/HNRS412."
+    },
+    {
+      "id": "HNRS 424",
+      "course name": "Design of Museum Displays of Science, Engineering and Technology",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "The design and creation of educational museum displays that highlight science, engineering, and technology.  Projects done by multidisciplinary teams and for clients in the community.  Emphasis on design, teamwork, service learning and project management.  3 lectures, 1 laboratory.  Crosslisted as HNRS/UNIV424."
+    },
+    {
+      "id": "HNRS 450",
+      "course name": "Solar Photovoltaic System Engineering",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 118"
+        },
+        {
+          "prerequisite": "PHYS 121"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Engineering principles, design, and installation of solar photovoltaic power systems including grid-tie and off-grid systems.  Photonic energy conversion, solar module engineering, solar power electronics, photovoltaic site planning, mechanical and structural considerations, permit processes, government incentives, and analysis of financial and investment issues.  Field trips required.  3 lectures, 1 laboratory.  Crosslisted as BRAE/EE/HNRS450."
+    },
+    {
+      "id": "HNRS 461",
+      "course name": "Honors Capstone Seminar",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Forum for graduating seniors to share their Honors experiences.  Presentation and defense of a capstone project or experience before a diverse group of subject experts and laypersons.  Seminars on communication and career guidance.  For University Honors Program students only.  Credit/No Credit grading only.  1 seminar."
+    },
+    {
+      "id": "HNRS 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "HNRS 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories."
+    },
+    {
+      "id": "HNRS 475",
+      "course name": "Sustainable Forest and Environmental Practices",
+      "units": "12 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Typical modules related to sustainable forest management, ecosystem sampling and inventory methods, photo interpretation, hydrologic resources, road condition, project impact analysis, best management practices.  Topics covered vary from term to term depending on the priority for learning modules.  Residency at Swanton Pacific and extended field trips required.  8 lectures, 4 activities.  Crosslisted as HNRS/NR475."
+    },
+    {
+      "id": "HNRS 492",
+      "course name": "Appropriate Technology for the World's People: Design",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Addresses the needs of international impoverished communities with techno-logical solutions, which are inexpensive, ecologically sustainable, and socially appropriate.  Group study of target communities, and design and construction of an appropriate technology prototype.  Seminar paper required.  Not open to students with credit in PSC/UNIV/HNRS392.  3 lectures, 1 laboratory.  Crosslisted as PSC/UNIV492."
+    },
+    {
+      "id": "HNRS 499",
+      "course name": "Honors Group Seminar",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Students in the Honors Program are required to take at least eight courses for honors credit before graduation. Taking an Honors course may not be possible due to scheduling conflicts or unavailability of courses. This course allows students to engage in honors-level work in a standard, non-honors course on a group basis. Credit/No Credit grading only. Total credit limited to 4 units, repeatable in same term. Must achieve a B or better in the related standard course. 1 seminar."
+    }
+  ]
+}

@@ -1,0 +1,1162 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Fundamental concepts of computers, computation and programming; history and principles of computing; problem solving; input, output; data representation, storage, and file organization; computer hardware, networking and data communication; social, economic and ethical implications; computer security and privacy. Students will solve problems using a programming language. Lecture, two hours; technical activity and laboratory, two hours. ",
+      "id": "CSUS_CSC 1",
+      "course name": "Introduction to Computer Science",
+      "similarTo": [
+        "CalPoly_CSC 225",
+        "CalPoly_CSC 321",
+        "CalPoly_CSC 123",
+        "CalPoly_CSC 476",
+        "CalPoly_CSC 582",
+        "CalPoly_CSC 108",
+        "CalPoly_CSC 483",
+        "CalPoly_CSC 436",
+        "CalPoly_CSC 349",
+        "CalPoly_CSC 349",
+        "CalPoly_CSC 400",
+        "CalPoly_CSC 200",
+        "CalPoly_CSC 492",
+        "CalPoly_CSC 491",
+        "CalPoly_CSC 492",
+        "CalPoly_CSC 491",
+        "CalPoly_CSC 409",
+        "CalPoly_CSC 236",
+        "CalPoly_CSC 232",
+        "CalPoly_CSC 235",
+        "CalPoly_CSC 303",
+        "AshFord_INF 322"
+      ]
+    },
+    {
+      "term": " May be taken by those wishing to obtain credit by examination. Please refer to examination credit guidelines in the University catalog.  Not open to students who have received credit for CSC  1 or MIS  5. ",
+      "description": " but intended for students who already have significant knowledge of the fundamental concepts of computers and/or computer programming. Students must attend the orientation session during the first class meeting. Two placement tests, one on programming and one on concepts, will be scheduled and used to determine student's prior preparation. ",
+      "course name": "Introduction to Computer Science for Advanced Students",
+      "units": "3 Units",
+      "id": "CSUS_CSC 1A",
+      "prerequisite": [
+        "CSC 1"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 108"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the role and use of personal computers, emphasizing the use and relevancy of common software for word processing, database, spreadsheet analysis, graphics, and communications. Examination of the personal computing milieu and the applications environment. Lecture two hours, technical activity and laboratory two hours.",
+      "id": "CSUS_CSC 5",
+      "course name": "Personal Computing"
+    },
+    {
+      "units": "3 Units",
+      "term": "Summer only",
+      "description": "Internet applications such as email, instant messaging, file transfer, secure communications, the web, and related tools and protocols. Basics of the web-publishing process and methods used to locate authoritative information on the internet. Webpage design, internet security and emerging technologies on the internet. ",
+      "id": "CSUS_CSC 8",
+      "course name": "Introduction to Internet Technologies"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ", Introduction to Internet Technologies. Provided by electronic means in addition to meetings for orientation, laboratory demonstrations, and tests. Internet applications such as Email, instant messaging, file transfer, secure communications, the Web, and related tools and protocols. Basics of the Web-publishing process and methods used to locate authoritative information on the Internet. Webpage design, Internet security and emerging/declining technologies on the Internet. ",
+      "course name": "Self-Paced Introduction to Internet Technologies",
+      "units": "3 Units",
+      "id": "CSUS_CSC 8S",
+      "prerequisite": [
+        "CSC 8"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to computer science with an emphasis on programming concepts and methodology. Intended to assist students with little or no programming experience to understand the basic principles of programming logic. Topics include computer hardware and software, problem solving and algorithm development, flow of control, modular design using techniques that can be applied to common programming languages. Lecture two hours, technical activity and laboratory two hours. ",
+      "id": "CSUS_CSC 10",
+      "course name": "Introduction to Programming Logic",
+      "similarTo": [
+        "CalPoly_CSC 582"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". Preqrequisite: Math 11",
+      "course name": "Accelerated Introduction to Programming Logic",
+      "units": "3 Units",
+      "id": "CSUS_CSC 10A",
+      "prerequisite": [
+        "CSC 10",
+        "CSC 10"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Programming concepts using an object-oriented programming language. Introduction to methodologies for program design, development, testing, and documentation. Topics include program design, algorithm design, number systems, classes and objects, methods (functions), control structures, arrays, and interactive input/output. Lecture two hours, technical activity and laboratory two hours. ",
+      "course name": "Programming Concepts and Methodology I",
+      "units": "3 Units",
+      "id": "CSUS_CSC 15",
+      "prerequisite": [
+        "CSC 10"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 483"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Designed to assist students in developing a more thorough understanding of programming methodology and problem solving techniques. Activity two hours. ",
+      "course name": "Programming Methodology I Workshop",
+      "units": "1 Unit",
+      "id": "CSUS_CSC 15W",
+      "prerequisite": [
+        "CSC 15"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Application of object-oriented techniques for systematic problem analysis and specification, design, coding, testing, and documentation. Semester-long project approach emphasizing larger programs. Managing program complexity using abstraction. Introduction to algorithm analysis and Big-O notation. Advanced language features. Basic sorting and searching algorithms. Recursion. Lecture two hours, technical activity and laboratory two hours. ",
+      "course name": "Programming Concepts and Methodology II",
+      "units": "3 Units",
+      "id": "CSUS_CSC 20",
+      "prerequisite": [
+        "CSC 15"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 349"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University.  Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills.  Development of information competence and computer literacy.  Students interact with fellow students and the seminar leader to build a community of academic and personal support.",
+      "id": "CSUS_CSC 21",
+      "course name": "First Year Seminar:  Becoming an Educated Person",
+      "similarTo": [
+        "CalPoly_CSC 481",
+        "CalPoly_CSC 580",
+        "CalPoly_CSC 480"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Computer Programming using Visual Basic. Topics include the Visual Basic Integrated Development Environment, visual user interface development, concepts of object-oriented programming, variables, control structures, arrays, functions, subroutines, strings, files, and database access. Applications will be created in areas such as business, games, and multimedia. Lecture two hours, technical activity and laboratory two hours. ",
+      "id": "CSUS_CSC 22",
+      "course name": "Visual Programming in BASIC"
+    },
+    {
+      "term": ". Lecture two hours, technical activity and laboratory two hours. ",
+      "description": "Topics include: types, operators, control structures, input/output, arithmetic operations, the C library and preprocessor, functions and parameters, arrays, strings, pointers, and structures. Program design and style will be emphasized. Students will use a compiler. ",
+      "course name": "Introduction to C Programming",
+      "units": "3 Units",
+      "id": "CSUS_CSC 25",
+      "prerequisite": [
+        "CSC 60",
+        "CSC 25"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 564",
+        "CalPoly_CSC 105",
+        "CalPoly_CSC 101",
+        "CalPoly_CSC 422",
+        "CalPoly_CSC 469",
+        "CalPoly_CSC 560",
+        "CalPoly_CSC 521",
+        "CalPoly_CSC 302",
+        "AshFord_CRJ 626"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to the essential discrete structures used in Computer Science, with emphasis on their applications. Topics include: counting methods, elementary formal logic and set theory, recursive programming, digital logic and combinational circuits, real number representation, regular expressions, finite automata. ",
+      "course name": "Discrete Structures for Computer Science",
+      "units": "3 Units",
+      "id": "CSUS_CSC 28",
+      "prerequisite": [
+        "MATH 29",
+        "CSC 20",
+        "CSC 20"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 409"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Internal representation of numeric and non-numeric data, assembly level machine architecture, addressing modes, subroutine linkage, polled input/output, interrupts, high-level language interfacing, macros and pseudo operations. Lecture two hours, technical activity and laboratory two hours. ",
+      "course name": "Introduction to Computer Architecture",
+      "units": "3 Units",
+      "id": "CSUS_CSC 35",
+      "prerequisite": [
+        "CSC 15"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 108"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Features of the C language commonly used in systems programming, application to systems programming in a UNIX environment.  Topics include C preprocessor macros, I/O, bit-manipulation facilities, timesharing system concepts, file permissions, shell script programming, make files and source code control, basic system calls like fork and exec, pointers and dynamic memory allocation, libraries and relocation and linking concepts including assembler handling of symbol tables.  Prior knowledge of a C like programming language is presumed. ",
+      "course name": "Introduction to Systems Programming in UNIX",
+      "units": "3 Units",
+      "id": "CSUS_CSC 60",
+      "prerequisite": [
+        "CSC 20",
+        "CSC 35"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Hands-on course covering the processes and guidelines for creating and customizing interactive webpages. Emphasis on use of HTML/XHTML, CSS, and tools to create webpages. HTML/XHTML syntax to create, format, and link documents. Use of tables, graphics, styles, forms, multimedia, and other features in webpages. Effective webpage design and website organization. Lecture two hours and technical activity and laboratory two hours. ",
+      "course name": "Web Development with HTML/XHTML and Tools",
+      "units": "3 Units",
+      "id": "CSUS_CSC 80",
+      "prerequisite": [
+        "CSC 8"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Topics include technology and law, computer basics for digital investigations, network basics for digital investigations, investigation of computer crime, and the handling of digital evidence. ",
+      "course name": "Digital Evidence and Computer Crime",
+      "units": "3 Units",
+      "id": "CSUS_CSC 114",
+      "prerequisite": [
+        "CSC 1",
+        "CSC 8",
+        "CSC 8S",
+        "CSC 80"
+      ]
+    },
+    {
+      "term": "Summer only",
+      "description": "Internet security problems and discussion of potential solutions: network vulnerabilities and attacks, secure communication and use of cryptography, Internet security protocols and tools to defend against network attacks, network intrusion detection, and wireless network security. Survey and use of software tools for network security. ",
+      "course name": "Internet Security",
+      "units": "3 Units",
+      "id": "CSUS_CSC 115",
+      "prerequisite": [
+        "CSC 1",
+        "CSC 8",
+        "CSC 8S",
+        "CSC 80"
+      ]
+    },
+    {
+      "term": "Summer only",
+      "description": "Fundamentals of computer forensics and cyber-crime scene analysis including laws, regulations, and international standards; formal methodology for conducting security incident investigations; categories of electronic evidence. Projects involving digital forensic tools. ",
+      "course name": "Cyber Forensics",
+      "units": "3 Units",
+      "id": "CSUS_CSC 116",
+      "prerequisite": [
+        "CSC 1",
+        "CSC 8",
+        "CSC 8S",
+        "CSC 80"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Managing and maintaining Web servers. Administering open source and commercial Web servers, Web hosting alternatives, professional standards and practices of website hosting, Web server installation, configuration, management, and security. Selecting and using technologies to support professional quality websites. Lecture two hours; technical activity and laboratory two hours. ",
+      "course name": "Web Server Administration",
+      "units": "3 Units",
+      "id": "CSUS_CSC 120",
+      "prerequisite": [
+        "CSC 80"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Client-side Web programming using JavaScript, DHTML, and client-side Web technologies. Event-driven programming, dynamic data types, control structures, and introduction to object-oriented programming and program design. Use of cookies and built-in objects. Validation and processing of forms. Basic features of the Document Object Model. ",
+      "course name": "Client-Side Web Programming",
+      "units": "3 Units",
+      "id": "CSUS_CSC 121",
+      "prerequisite": [
+        "CSC 22",
+        "CSC 80",
+        "CSC 60",
+        "CSC 130"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fundamentals of building effective database-driven web applications. Particular emphasis on database access via web interfaces. Introduction to database management systems, their structure and usage, SQL, integrating web applications with databases, design and implementation of dynamic web database applications. ",
+      "course name": "Web Database Applications",
+      "units": "3 Units",
+      "id": "CSUS_CSC 122",
+      "prerequisite": [
+        "CSC 10",
+        "CSC 22",
+        "CSC 80"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Developing multi-tiered enterprise-level Web applications. Standards of Web services and other current Web technologies, including XML, AJAX, and server-side programming such as Java EE, .NET, or PHP. Development of Web applications such as those used for e-commerce, e-business, and content management.  Format consists of two 1.5 hour lecture/lab sessions per week. ",
+      "course name": "Web Application Development",
+      "units": "3 Units",
+      "id": "CSUS_CSC 123",
+      "prerequisite": [
+        "CSC 22",
+        "CSC 121",
+        "CSC 122",
+        "CSC 60",
+        "CSC 134"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 436"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Techniques and processes to create 3D computer models and environments. Exercises, assignments and projects designed to build skill levels with 3D computer modeling tools. Demonstrations and workshops in the use of 3D computer modeling software. Critiques, discussion and presentations to develop students' conceptual grasp of 3D computer modeling and virtual reality environments. Example applications in art/new media and computer gaming.  ",
+      "course name": "3D Computer Modeling",
+      "units": "3 Units",
+      "id": "CSUS_CSC 126",
+      "prerequisite": [
+        "CSC 10",
+        "ART 97",
+        "ART 142"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 476"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Creative skills and techniques for animating 3D computer-modeled objects/environments. Topics include animation techniques; keyframing and interpolation; deformation and morphing; path control; skeletal animation; model rigging and skinning; forward and inverse kinematics, constraints and IK solvers; particle systems; fluid, cloth, hair, and fur simulation; shape keys; and soft body animation. Emphasis on both skill development and creative application of modeling and animation techniques. Includes demos, in class and homework excercises, and self directed projects. ",
+      "course name": "3D Computer Animation",
+      "units": "3 Units",
+      "id": "CSUS_CSC 127",
+      "prerequisite": [
+        "ART 142",
+        "CSC 126",
+        "ART 143"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Specification, implementation, and manipulation of complex data structures: linear/lists, stacks, queues, trees, sets, and graphs. Design and analysis of algorithms. Recursion and stack-based memory management. Advanced searching and sorting. NP-completeness. ",
+      "course name": "Data Structures and Algorithm Analysis",
+      "units": "3 Units",
+      "id": "CSUS_CSC 130",
+      "prerequisite": [
+        "CSC 20",
+        "CSC 28",
+        "CSC 28"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 349"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Principles of Software Engineering covering the software development life cycle, including software requirements engineering (elicitation, modeling, analysis and specification), software design, software implementation and testing.  Main topics include various software development process models, method and techniques for specifying requirements, architectural and detailed design specification, prototyping, top-down and bottom-up software implementation and testing. Topics also include project management, project documentation and the development of communication skills through written documentation and oral presentation. ",
+      "course name": "Computer Software Engineering",
+      "units": "3 Units",
+      "id": "CSUS_CSC 131",
+      "prerequisite": [
+        "CSC 130"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 409",
+        "CalPoly_CSC 236",
+        "CalPoly_CSC 232",
+        "CalPoly_CSC 235"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to computing theory with examples and applications. Automata and formal languages; language recognition and generation; language hierarchy; deterministic and non-deterministic automata; regular expressions; pushdown automata and context-free grammars; properties of regular and context-free languages; Turing machines; computable and noncomputable functions; decidability. ",
+      "course name": "Computing Theory",
+      "units": "3 Units",
+      "id": "CSUS_CSC 132",
+      "prerequisite": [
+        "CSC 28",
+        "CSC 130",
+        "CSC 130"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to computer graphics and advanced topics in object-oriented (OO) programming.  The OO paradigm is used throughout, utilizing computer graphics as the vehicle for solidifying basic OO concepts, studying the implementation of event-driven systems, and for developing a thorough understanding of advanced OO concepts such as inheritance and polymorphism.  Topics include fundamental concepts of object-oriented programming, software design patterns, graphic devices, line and surface drawing, simple 2D and 3D representation, and use of User Interface components. ",
+      "course name": "Object-Oriented Computer Graphics Programming",
+      "units": "3 Units",
+      "id": "CSUS_CSC 133",
+      "prerequisite": [
+        "CSC 130",
+        "CSC 131"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Entity-Relationship (ER) model; relational model; relational database design by ER-to-relational mapping; design of applications using database technology; SQL; schema definition, constraints, and queries; relational algebra; data normalization; access methods such as indexing and hash structures; introduction to transaction processing. ",
+      "course name": "Database Management Systems",
+      "units": "3 Units",
+      "id": "CSUS_CSC 134",
+      "prerequisite": [
+        "CSC 130"
+      ],
+      "similarTo": [
+        "AshFord_INF 322"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to computing theory with examples and applications. Automata and formal languages; regular expressions; deterministic and non-deterministic finite automata; pumping lemma for regular languages; push-down automata and context-free grammars; language recognition; parsing techniques including recursive descent; Turing machines; computable and non-computable functions. Design and implementation of selected features of programming languages. Functional and logic programming paradigms. ",
+      "course name": "Computing Theory and Programming Languages",
+      "units": "3 Units",
+      "id": "CSUS_CSC 135",
+      "prerequisite": [
+        "CSC 28",
+        "CSC 35",
+        "CSC 130"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Evolution and characteristics of programming languages. Scripting, procedural, object-oriented, functional and logic paradigms. Language specification; interpreters and compilers; virtual machines; parsing techniques. Design and implementation of selected features of programming languages. Programming languages used in the development of intelligent systems, with introduction to Artificial Intelligence. Trends in programming languages. ",
+      "course name": "Programming Languages",
+      "units": "3 Units",
+      "id": "CSUS_CSC 136",
+      "prerequisite": [
+        "CSC 35",
+        "CSC 132"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to computer organization and architecture. Combinational devices, sequential and synchronized circuits, memory organization, CPU architecture and organization, bus structures, input/output, interrupts, DMA, memory hierarchy, introduction to instruction level parallelism, multithreading, and multiprocessing. Exposure to hardware security issues. ",
+      "course name": "Computer Organization",
+      "units": "3 Units",
+      "id": "CSUS_CSC 137",
+      "prerequisite": [
+        "CSC 28",
+        "CSC 35",
+        "CSC 130"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Overview of the fundamentals of computer networks and connections between networks, from the physical layer up through peer-to-peer communications at the application level.  Lower layer characteristics including serial vs. parallel, capacity issues, high-speed connections, LAN framing and error handling.  LAN vs. WAN characteristics, network architecture and the ISO network model.  Internetworking components including LANs, repeaters, routers, bridges, and gateways.  Internet addresses, TCP/IP, and the Domain Name System.  Common Internet client/server application protocols including SMTP and FTP.  Client/Server programming involving sockets.  World Wide Web characteristics including CGI and HTTP protocol, Web pages, Web browsers, Web servers, and Applets.  Introduction to advanced Web issues such as Web security, search engine operations, and Web database operations. ",
+      "course name": "Computer Networks and Internets",
+      "units": "3 Units",
+      "id": "CSUS_CSC 138",
+      "prerequisite": [
+        "CSC 35",
+        "CSC 60",
+        "CSC 130",
+        "CPE 138"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Concepts, principles, fundamental issues, organization and structure of contemporary operating systems. Topics include processes, threads, concurrency, scheduling, inter- process communication and synchronization, deadlock, real and virtual memory management, device management, file systems, network and distributed operating systems, security, and protection. ",
+      "course name": "Operating System Principles",
+      "units": "3 Units",
+      "id": "CSUS_CSC 139",
+      "prerequisite": [
+        "CSC 60",
+        "CSC 130",
+        "CSC 137",
+        "CPE 185"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Algorithm design using dynamic programming, randomization and greedy methods. Analysis using recurrence relations and amortization. String and network-flow algorithms. NP-completeness, reductions, and approximation algorithms. Review of divide-and-conquer design and asymptotic notation. ",
+      "course name": "Advanced Algorithm Design and Analysis",
+      "units": "3 Units",
+      "id": "CSUS_CSC 140",
+      "prerequisite": [
+        "CSC 130"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 349"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Design and performance issues of computers. Instruction set architecture, computer arithmetic, processor design, survey of contemporary architectures, interfacing I/O devices, hierarchal memory design and analysis, parallelism and multiprocessing, distributed systems, techniques for enhancing performance, and an introduction to EDA tools for design and verification of computers. Design and simulation of a microcomputer in an HDL. ",
+      "course name": "Advanced Computer Organization",
+      "units": "3 Units",
+      "id": "CSUS_CSC 142",
+      "prerequisite": [
+        "CSC 137",
+        "CPE 166",
+        "CPE 185",
+        "CPE 142"
+      ]
+    },
+    {
+      "term": "Not offered",
+      "description": "Modeling and simulation techniques; Monte Carlo methods; queuing theory;  model formulation, data collection and analysis, experimental design; model verification and validation. ",
+      "course name": "Modeling and Experimental Design",
+      "units": "3 Units",
+      "id": "CSUS_CSC 148",
+      "prerequisite": [
+        "MATH 26B",
+        "MATH 31",
+        "STAT 50",
+        "ENGR 115"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Practical approach to compiler design and implementation. Organization of a compiler, algorithms for lexical, syntactic and semantic analysis, recursive descent and/or LALR parsing, organization of symbol tables, error detection and recovery, object code generation. Modular design will be emphasized. ",
+      "course name": "Compiler Construction",
+      "units": "3 Units",
+      "id": "CSUS_CSC 151",
+      "prerequisite": [
+        "CSC 135"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 483"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Introduction to design and analysis of cryptographic systems. Symmetric cryptography: Block ciphers and secure hash functions. Asymmetric cryptography: Key exchange and public-key systems. Authentication and encryption in an adversarial model. Simple cryptanalysis. Protocol design and analysis. ",
+      "course name": "Cryptography",
+      "units": "3 Units",
+      "id": "CSUS_CSC 152",
+      "prerequisite": [
+        "CSC 60",
+        "CSC 130",
+        "STAT 50",
+        "ENGR 115"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Fundamentals of computer forensics, cyber-crime scene analysis and electronic discovery. Technical and formal methodology for conducting security incident investigations; file systems and storage analysis, data hiding techniques, network forensics; projects involving using, understanding, and designing digital forensics tools; anti-forensics; legal issues and standards. ",
+      "course name": "Computer Forensics Principles and Practices",
+      "units": "3 Units",
+      "id": "CSUS_CSC 153",
+      "prerequisite": [
+        "CSC 138",
+        "CPE 138"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Introduction to network and computer security with a focus on how intruders gain access to systems, how they escalate privileges, and what steps can be taken to secure a system against such attacks.  Topics include: Perimeter defenses, intrusion detection systems, social engineering, distributed denial of service attacks, buffer overflows, race conditions, trojans, and viruses. ",
+      "course name": "Computer System Attacks and Countermeasures",
+      "units": "3 Units",
+      "id": "CSUS_CSC 154",
+      "prerequisite": [
+        "CSC 138",
+        "CPE 138"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Modeling, viewing, and rendering techniques in 3D computer graphics systems. Topics include modeling systems and data structures; polygonal and parametric surface representation; transformations, windowing, clipping and projections in 3D; hidden surface removal algorithms; techniques for realism such as shading, shadows, highlights, and texture; fractals and procedural models; introduction to animation; hardware support for computer graphics; and the application of graphics principles to virtual reality systems and 3D games. ",
+      "course name": "Advanced Computer Graphics",
+      "units": "3 Units",
+      "id": "CSUS_CSC 155",
+      "prerequisite": [
+        "CSC 133"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Application of operating system principles to the design and implementation of a multitasking operating system. Students will write an operating system for a computer platform. Topics include: scheduling of processes, control and allocation of computer resources, and user interfacing. ",
+      "course name": "Operating System Pragmatics",
+      "units": "3 Units",
+      "id": "CSUS_CSC 159",
+      "prerequisite": [
+        "CSC 139",
+        "CPE 159"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Architecture and implementation of computer game systems.  Topics include game engine architecture; screen management and rendering control; geometric models; algorithms and data structures for spatial partitioning, occlusion, and collision detection; real-time interactive 3D graphics and animation techniques; behavioral control for autonomous characters; simulation of physical phenomena; sound and music in games; optimization techniques; multi-player games and networking; game development tools and environments.  Substantial programming and project work. ",
+      "course name": "Computer Game Architecture and Implementation",
+      "units": "3 Units",
+      "id": "CSUS_CSC 165",
+      "prerequisite": [
+        "CSC 130",
+        "CSC 133",
+        "MATH 26A",
+        "MATH 30",
+        "PHYS 5A",
+        "PHYS 11A"
+      ]
+    },
+    {
+      "term": "Spring only \u2013 odd years",
+      "description": "Analysis and specification of functional and non-functional requirements for real-time and non-real-time software systems in the context of a software development lifecycle. Determining customer and user software requirements and ensuring that specifications are correct, complete, and testable. Includes modeling techniques, methods for representing real-time requirements, and the use of Computer-Aided Software Engineering (CASE) tools to illustrate analysis concepts. ",
+      "course name": "Software Requirements and Specification",
+      "units": "3 Units",
+      "id": "CSUS_CSC 170",
+      "prerequisite": [
+        "CSC 131"
+      ]
+    },
+    {
+      "term": "Spring only \u2013 even years",
+      "description": "Fundamental issues in the management and economics of a software engineering project in the context of the software development lifecycle. Topics include: techniques for project planning (budgeting and scheduling), controlling (including quality assurance and configuration management), organizing, staffing, and directing a software project (leadership and motivation); and contemporary issues in management. ",
+      "course name": "Software Engineering Project Management",
+      "units": "3 Units",
+      "id": "CSUS_CSC 171",
+      "prerequisite": [
+        "CSC 131"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Enhanced Entity-Relationship (EER) modeling; relational database design based on EER; SQL views; integrity constraints and triggers; stored procedures and functions; database programming techniques; query processing and optimization; transactions concurrency and recovery techniques; relational decomposition and normalization algorithms; database schema and data security. ",
+      "course name": "Advanced Database Management Systems",
+      "units": "3 Units",
+      "id": "CSUS_CSC 174",
+      "prerequisite": [
+        "CSC 131",
+        "CSC 134"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Advanced object-relational systems, advanced catalog systems, security mechanisms, distributed database processing, advanced schema design-partitioning, introduction to data warehousing and data mining, materialized views, Internet technologies, parallel query processing, system utilities, database tuning, DBA tools and techniques. ",
+      "course name": "Database Architecture and Optimization",
+      "units": "3 Units",
+      "id": "CSUS_CSC 176",
+      "prerequisite": [
+        "CSC 174"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Data warehousing involves data preprocessing, data integration, and providing on-line analytical processing (OLAP) tools for the interactive analysis of multidimensional data, which facilitates effective data mining.  Data mining is the automated extraction of hidden predictive information from databases.  Data mining applies concepts and techniques from the fields of databases, machine learning, algorithms, information retrieval, and statistics.  Topics include: data warehousing, association analysis, classification, clustering, numeric prediction, and selected advanced data mining topics. ",
+      "course name": "Data Warehousing and Data Mining",
+      "units": "3 Units",
+      "id": "CSUS_CSC 177",
+      "prerequisite": [
+        "CSC 134",
+        "STAT 50",
+        "ENGR 115"
+      ]
+    },
+    {
+      "term": "Spring only \u2013 even years",
+      "description": "Testing, verification, validation, and control of real-time and non-real-time software systems in the context of a software development lifecycle. Topics include: unit, integration and system testing; verification and validation (V&V), quality assurance, metrics, and configuration management. ",
+      "course name": "Software Testing and Quality Assurance",
+      "units": "3 Units",
+      "id": "CSUS_CSC 179",
+      "prerequisite": [
+        "CSC 131"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Theory and implementation of a variety of techniques used to simulate intelligent behavior.  Expert systems, fuzzy logic, neural networks, evolutionary computation, and two-player game-tree search will be covered in depth.  Knowledge representation, pattern recognition, hybrid approaches, and handling uncertainty will also be discussed. ",
+      "course name": "Intelligent Systems",
+      "units": "3 Units",
+      "id": "CSUS_CSC 180",
+      "prerequisite": [
+        "MATH 26B",
+        "MATH 31",
+        "STAT 50",
+        "ENGR 115",
+        "CSC 130",
+        "CSC 135"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "First of a two-course sequence in which student teams undertake a project to develop and deliver a software product.  Approved project sponsors must be from industry, government, a non-profit organization, or other area.  Teams apply software engineering principles in the preparation of a software proposal, a project management plan and a software requirements specification.  All technical work is published using guidelines modeled after IEEE documentation standards.  Oral and written reports are required.  Lecture one hour, laboratory three hours. ",
+      "course name": "Senior Project: Part I",
+      "units": "2 Units",
+      "id": "CSUS_CSC 190",
+      "prerequisite": [
+        "CSC 130",
+        "CSC 131",
+        "CSC 192",
+        "ENGL 109M",
+        "ENGL 109W"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 492",
+        "CalPoly_CSC 491"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". Teams apply software engineering principles to the design, implementation and testing of their software product.  All technical work is published using guidelines modeled after IEEE documentation standards along with an appropriate user manual.  Oral and written reports are required.  Senior project is completed with the successful delivery, installation and demonstration of the software along with all approved documentation.  Lecture one hour, laboratory three hours. ",
+      "course name": "Senior Project-Part II",
+      "units": "2 Units",
+      "id": "CSUS_CSC 191",
+      "prerequisite": [
+        "CSC 190",
+        "CSC 190"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 492",
+        "CalPoly_CSC 491"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Designed to help students learn more about the labor market and opportunities in the Computer Science field. Students will examine their interests, consider their goals, and learn how to conduct an effective proactive job search. Strategies for long term career growth will be identified. ",
+      "course name": "Career Planning",
+      "units": "1 Unit",
+      "id": "CSUS_CSC 192",
+      "prerequisite": [
+        "CSC 130",
+        "CSC 190",
+        "CSC 198",
+        "CSC 199"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit.  ",
+      "description": "Series of weekly seminars on Computer Science topics. These topics cover subjects not normally taught in the course of a school year and they range from the very theoretical in Computer Science through applications to presentations by industry on working conditions, real world environment and job opportunities. ",
+      "id": "CSUS_CSC 194",
+      "course name": "Computer Science Seminar",
+      "similarTo": [
+        "CalPoly_CSC 303"
+      ]
+    },
+    {
+      "units": "1 - 4 Units",
+      "term": " Faculty approval required. May be repeated for credit.  ",
+      "description": "Directed observations and work experience in computer science with firms in the industry or public agencies. Supervision is provided by the instructional staff and the cooperating agencies. ",
+      "id": "CSUS_CSC 195",
+      "course name": "Fieldwork in Computer Science"
+    },
+    {
+      "units": "1 - 12 Units",
+      "term": " Requires satisfactory completion of the work assignment and a written report.  ",
+      "description": "Supervised employment in a professional engineering or computer science environment. Placement arranged through the Career Center. ",
+      "id": "CSUS_CSC 195A",
+      "course name": "Professional Practice"
+    },
+    {
+      "units": "1 - 12 Units",
+      "term": " Requires satisfactory completion of the work assignment and a written report.  ",
+      "description": "Supervised employment in a professional engineering or computer science environment. Placement arranged through the Career Center. ",
+      "id": "CSUS_CSC 195B",
+      "course name": "Professional Practice"
+    },
+    {
+      "units": "3 Units",
+      "description": "Introduction to cloud computing. Cloud services. Deployment options. The installation, configuration, and deployment of a cloud infrastructure based upon industrial standards. Step-by-step cloud setup as well as the development of scripts for automated deployment. The installation, building, deployment, testing, and provisioning of a multi-tier cloud based mobile application as a cloud service. ",
+      "id": "CSUS_CSC 196P",
+      "prerequisite": [
+        "CSC 134",
+        "CSC 138",
+        "CSC 139"
+      ],
+      "course name": "Cloud and Mobile Computing Pragmatics"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Parallel programming with emphasis on developing Graphics Processing Unit (GPU) computing applications. GPU architecture and programming model, mapping computations to parallel hardware, parallel computation patterns, parallel programming optimization techniques, application case studies. ",
+      "course name": "Parallel Programming with GPUs",
+      "units": "3 Units",
+      "id": "CSUS_CSC 196U",
+      "prerequisite": [
+        "CSC 60",
+        "CSC 130",
+        "CSC 137",
+        "MATH 30",
+        "MATH 26A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Design principles and concepts for visualizing data; current visualization systems and languages, exploratory data analysis, interaction techniques, high-dimensional data, network visualization, and text visualization. ",
+      "course name": "Data Visualization",
+      "units": "3 Units",
+      "id": "CSUS_CSC 196V",
+      "prerequisite": [
+        "CSC 130",
+        "CSC 134",
+        "STAT 50",
+        "ENGR 115"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Students will serve in leadership roles in computer science activities, provide tutoring or technical assistance in labs, assist instructors in grading coursework, or assist in other activities related to the subject matter and concerns of the department.",
+      "id": "CSUS_CSC 198",
+      "course name": "Co-Curricular Activities in Computer Science"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students who appear competent to carry on individual work; approval of faculty supervisor and advisor required. May be repeated for credit. ",
+      "description": "Individual projects or directed reading in specified topics in computer science. ",
+      "id": "CSUS_CSC 199",
+      "course name": "Special Problems",
+      "similarTo": [
+        "CalPoly_CSC 400",
+        "CalPoly_CSC 200"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Notations for the specification of programming language syntax and semantics; attribute, translational, operational, axiomatic, algebraic, denotational, and action semantics. Applications of programming language syntax and programming language semantics. Use of meta languages to generate executable language definitions for language implementation, program transformation, program property analysis, and rapid software prototyping. Principles of logic, functional, and object-oriented programming languages. ",
+      "id": "CSUS_CSC 201",
+      "course name": "Programming Language Principles"
+    },
+    {
+      "term": ".  ",
+      "description": "Database management system (DBMS) architecture; database file organizations and access methods; the relational model and relational algebra; SQL query language; introduction to query optimization; concurrent transaction processing and backup and recovery; applications using embedded SQL, object types, and stored procedures; database analysis and design notations: EER, UML, and XML; web database environments; database security and administration throughout course. ",
+      "course name": "Data Models for Database Management Systems",
+      "units": "3 Units",
+      "id": "CSUS_CSC 204",
+      "prerequisite": [
+        "CSC 174"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Overview of computer systems organization and design. Concepts of instruction set architecture, interactions of hardware-software interface, principles of performance analysis, processor design, instruction level parallelism, survey of contemporary architectures, hierarchical memory design and analysis, interfacing I/O devices, parallel processing and multiprocessing, and introduction to EDA tools and methodologies for computer systems design and verification. ",
+      "id": "CSUS_CSC 205",
+      "course name": "Computer Systems Structure"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Design and analysis of algorithms. Classical design paradigms including greedy, divide-and-conquer, dynamic programming, and backtracking algorithmic methods. Alternative paradigms of computing including parallel and numerical approaches. Theoretical limits of computation. Selected additional topics such as genetic, approximation, and probabilistic algorithms. ",
+      "id": "CSUS_CSC 206",
+      "course name": "Algorithms And Paradigms",
+      "similarTo": [
+        "CalPoly_CSC 349"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Research methodology, problem formulation, and problem solving. Orientation to the requirements for Master's Thesis or Project. Presentations on various research topics. ",
+      "course name": "Research Methodology",
+      "units": "1 Unit",
+      "id": "CSUS_CSC 209",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "The application of information technology and computer science to biological problems, in particular to biomedical science issues involving genetic sequences.  Algorithms and their applications to DNA sequencing and protein database search; tools and techniques for data integration to transform genetic sequencing data into comprehensible information to study biological processes. ",
+      "course name": "Bioinformatics: Data Integration and Algorithms",
+      "units": "3 Units",
+      "id": "CSUS_CSC 212",
+      "prerequisite": [
+        "CSC 130",
+        "STAT 50",
+        "BIO 10"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Historical perspective of knowledge-based systems and their relationship to artificial intelligence. Concepts of knowledge representation and automated reasoning. Survey of expert systems in a variety of applications in engineering and other fields. Implementation of expert systems and expert system shells. ",
+      "id": "CSUS_CSC 214",
+      "course name": "Knowledge-Based Systems",
+      "similarTo": [
+        "CalPoly_CSC 481"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Nature of intelligence and possibility of its realization on digital computers via algorithmic and heuristic programming methods. Knowledge representation. Search procedures. Problem-solving paradigms and simulation of cognitive processes. Machine learning. Natural language understanding, expert systems, and knowledge engineering. Image understanding. Future of artificial intelligence and limits of machine intelligence. ",
+      "id": "CSUS_CSC 215",
+      "course name": "Artificial Intelligence",
+      "similarTo": [
+        "CalPoly_CSC 580",
+        "CalPoly_CSC 480"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to major paradigms and methods of machine learning. Inductive learning, explanation-based learning, classifier systems and genetic algorithms, analogical reasoning, case-based learning, connectionist learning, data driven approaches to empirical discovery, and basis of learning theory. Focus is on representative systems that have been built. ",
+      "id": "CSUS_CSC 219",
+      "course name": "Machine Learning"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Integration of managerial and technical activities in system engineering that control  the cost, schedule, and technical achievement of the developing software system.  Application of the principles, activities, tasks and procedures of system engineering and software engineering to the development of a software system. ",
+      "course name": "Software System Engineering",
+      "units": "3 Units",
+      "id": "CSUS_CSC 230",
+      "prerequisite": [
+        "CSC 131"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Software quality and quantity metrics in software engineering.  Measurement theory and metrics.  Metrics include management metrics, indirect and direct metrics and predictive metrics.  Uses of metrics include software cost and schedule estimates, model calibration, and software productivity measurements.  Metrics techniques include the Goal-Question-Metric approach, COCOMO, and function point analysis. ",
+      "id": "CSUS_CSC 231",
+      "course name": "Software Engineering Metrics"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Software engineering requirements including elicitation, analysis, specification, verification and management.  Emphasizes IEEE software engineering requirements and standards and the concept of operations (ConOps) document.  Techniques include structured analysis, use cases and object-oriented analysis. ",
+      "id": "CSUS_CSC 232",
+      "course name": "Software Requirements Analysis and Design"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Advanced methods and procedures for managing a software development project.  Includes project planning, scheduling, and cost estimation, project organizational types, staffing and training considerations, leading and motivating computer personnel, and methods for measuring and controlling a project.  Emphasizes IEEE software engineering management standards and keys to project success. ",
+      "id": "CSUS_CSC 233",
+      "course name": "Advanced Software Engineering Project Management"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Verification and validation (V & V) techniques to identify and resolve software problems and high-risk issues early in the software lifecycle.  Application of V & V to all phases of the lifecycle process.  Includes planning and reporting on the V & V effort.  Topics also include software quality assurance and software testing. ",
+      "course name": "Software Verification and Validation",
+      "units": "3 Units",
+      "id": "CSUS_CSC 234",
+      "prerequisite": [
+        "CSC 131"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Software architecture styles. Concepts and activities for software architecture design. Notations, models, and specification languages for software architecture design. Engineering discipline and guidance for software architecture design. Techniques, methods, tools for designing, building, analyzing, and evaluating software architecture. Object-oriented approach for software architecture design. Architecture-based software development. Management of software architecture design. Reuse of software architecture design. ",
+      "id": "CSUS_CSC 235",
+      "course name": "Software Architecture"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Basic concepts of formal methods in secure software engineering;  formal methods based software development models and methodologies; formal methods for software system specification, modeling, analysis, verification, information assurance and security; systems and tools for the application of formal methods in secure software engineering; advances of formal methods in secure software engineering. ",
+      "id": "CSUS_CSC 236",
+      "course name": "Formal Methods in Secure Software Engineering"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Microprocessor/microcomputer architecture and hardware/software interfacing design. RISC v. CISC architecture in-depth, case studies of several popular commercial advanced 32-bit microprocessors. Microcomputer firmware architecture is discussed and illustrated with detailed examples. Term project in which students specify, design and build the hardware and firmware of a computer system. ",
+      "course name": "Microprocessor Systems Architecture",
+      "units": "3 Units",
+      "id": "CSUS_CSC 237",
+      "prerequisite": [
+        "CSC 205"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Issues involved in design of interaction between people and computers. Insight and experience in key issues of HCI design. Emphasis on identifying issues and tradeoffs in interaction design. Development and evaluation of alternative solutions to design problems. ",
+      "id": "CSUS_CSC 238",
+      "course name": "Human-Computer Interface Design",
+      "similarTo": [
+        "CalPoly_CSC 486"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced concepts of concurrent processes, concurrent programming and operating systems. Virtual memory management systems, deadlock, file systems, operating system performance measurement and evaluation. ",
+      "course name": "Advanced Operating Systems Principles and Design",
+      "units": "3 Units",
+      "id": "CSUS_CSC 239",
+      "prerequisite": [
+        "CSC 205"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Design and verification methodology using hardware description and verification languages (HDVLs). Advances in IC chip design; introduction to HDVLs such as System Verilog; HDVL language basics including data types, arrays, structures, unions, procedural blocks, tasks, functions, and interface concepts; design hierarchy; verification planning and productivity; verification infrastructure; guidelines for efficient verification of large designs; assertion-based verification; comprehensive computer-related design projects. ",
+      "course name": "Computer-Aided Systems Design and Verification",
+      "units": "3 Units",
+      "id": "CSUS_CSC 242",
+      "prerequisite": [
+        "CSC 205",
+        "EEE 273"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Topics in the design and implementation of database management systems. Database system concepts and architectures; query compiler, query processing algorithms, logical and physical query plans, query optimization; recovery, concurrency control; transaction management in centralized database management systems and distributed database management systems. Also exploration of current research directions, issues, and results related to databases and data management. ",
+      "course name": "Database System Design",
+      "units": "3 Units",
+      "id": "CSUS_CSC 244",
+      "prerequisite": [
+        "CSC 174",
+        "CSC 204"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 366"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Performance and cost measures; software and hardware performance monitors; data reduction and evaluation; analytic and simulation models of hardware and program behavior; performance-cost trade-offs and resource allocation. ",
+      "id": "CSUS_CSC 245",
+      "course name": "Performance Modeling and Evaluation"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Principles and technologies behind computer security. Introduction to encryption and decryption; security mechanisms in computer programs, operating systems, databases, and networks; administration of computer security, and legal and ethical issues. ",
+      "id": "CSUS_CSC 250",
+      "course name": "Computer Security",
+      "similarTo": [
+        "CalPoly_CSC 521",
+        "CalPoly_CSC 302"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Programming language translation, lexical analysis, syntax analysis including LR, LALR, and predictive techniques.  Semantic analysis including semantic specification.  Code generation and optimization including control and data flow analysis.  Storage management.  Error detection and recovery. ",
+      "course name": "Principles of Compiler Design",
+      "units": "3 Units",
+      "id": "CSUS_CSC 251",
+      "prerequisite": [
+        "CSC 151",
+        "CSC 201"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to design and analysis of cryptographic systems.  Symmetric cryptography: block ciphers and secure hash functions.  Asymmetric cryptography: key exchange and public-key systems.  Authentication and encryption in an adversarial model.  Simple cryptanalysis.  Protocol design and analysis. ",
+      "id": "CSUS_CSC 252",
+      "course name": "Cryptography Theory and Practice"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Structured security incident investigations internal and external; emphasis on analysis of electronic evidence and proper audit; utilization of scientific aids in obtaining information from computing devices; legal electronic evidence. ",
+      "id": "CSUS_CSC 253",
+      "course name": "Computer Forensics",
+      "similarTo": [
+        "CalPoly_CSC 105",
+        "CalPoly_CSC 101",
+        "AshFord_CRJ 626"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "In-depth study of network security problems and discussion of potential solutions.  Topics include: network vulnerabilities and attacks, secure communication, Internet security protocols and tools to defend against network attacks, network intrusion detection, and wireless network security.  Survey and demonstration of software tools used for network security. ",
+      "id": "CSUS_CSC 254",
+      "course name": "Network Security",
+      "similarTo": [
+        "CalPoly_CSC 422"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Computer networking fundamentals with emphasis on higher level protocols and functions. Network design considerations, software design and layering concepts, interface design, routing and congestion control algorithms, internetworking, transport protocol design, and end-to-end communication, session and application protocols. Specific examples of commercial and international standards. ",
+      "id": "CSUS_CSC 255",
+      "course name": "Computer Networks",
+      "similarTo": [
+        "CalPoly_CSC 564"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Distributed system architectures, distributed object model,  component-based design, time and global states, coordination and agreement, distributed transactions and concurrency control, replication, security, distributed multimedia systems, message passing and distributed shared memory, Web services and Service-Oriented Architecture (SOA), Grid computing. Emphasis on scalability, manageability, security, and dependability of distributed systems. ",
+      "course name": "Distributed Systems",
+      "units": "3 Units",
+      "id": "CSUS_CSC 258",
+      "prerequisite": [
+        "CSC 204"
+      ],
+      "similarTo": [
+        "CalPoly_CSC 469",
+        "CalPoly_CSC 560"
+      ]
+    },
+    {
+      "term": "Cross Listed: EEE  273; only one may be counted for credit.",
+      "description": "Advanced logic modeling, simulation, and synthesis techniques.  Topics include modeling, simulation, and synthesis techniques, using Hardware Description Language (HDL's), Register Transfer Level (RTL) representation, high-level functional partitioning, functional verification and testing, computer-aided logic synthesis, logical verification and testing, timing and delay analysis, automated place and route process, and design with Application Specific Integrated Circuits (ASICs) and programmable logic. ",
+      "course name": "Hierarchical Digital Design Methodology",
+      "units": "3 Units",
+      "id": "CSUS_CSC 273",
+      "prerequisite": [
+        "CSC 205",
+        "CPE 64"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Fundamental concepts, principles and issues of data communication systems.  The ISO/OSI reference model is used as a vehicle for discussion and emphasizes the lower layer of the model.  Specific topics include:  motivation and objectives, layered architectures, physical layer principles and protocols, data link and medium access control principles and protocols, circuit, packet and cell switching, local area network design principles and performance comparisons, high speed networking, introduction to wide area network architectures.  Typical examples and standards are cited for point-to-point, satellite, packet radio and local area networks. ",
+      "id": "CSUS_CSC 275",
+      "course name": "Advanced Data Communication Systems"
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Introduction to parallel architecture covering computer classification schemes, fine and coarse grain parallelism, processor interconnections, and performance issues of multiprocessor systems.  Includes parallel and pipelined instruction execution, structure of multiprocessor systems, memory hierarchy and coherency in shared memory systems, programming issues of multiprocessor systems, arithmetic pipeline design, and design for testability. ",
+      "course name": "Advanced Computer Architecture",
+      "units": "3 Units",
+      "id": "CSUS_CSC 280",
+      "prerequisite": [
+        "CSC 205",
+        "EEE 280"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Contemporary topics in computer science will be offered as needed.   Topics offered:",
+      "id": "CSUS_CSC 288",
+      "course name": "Special Topics in Computer Science - Software Engineering",
+      "similarTo": [
+        "CalPoly_CSC 409"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Faculty approval required. May be repeated for credit. ",
+      "description": "Directed observations and work experience in computer science with firms in the industry or public agencies. Supervision is provided by the instructional staff and the cooperating agencies. ",
+      "id": "CSUS_CSC 295",
+      "course name": "Fieldwork"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " May be repeated for credit. ",
+      "description": "Any properly qualified student who wishes to pursue a problem of his own choice may do so if the proposed subject is acceptable to the member of the staff with whom he/she works and to his/her advisor. ",
+      "id": "CSUS_CSC 299",
+      "course name": "Special Problems",
+      "similarTo": [
+        "CalPoly_CSC 400",
+        "CalPoly_CSC 200"
+      ]
+    },
+    {
+      "term": " May be repeated for credit.  ",
+      "description": "Completion of a thesis approved for the Master's degree. ",
+      "course name": "Master's Thesis",
+      "units": "1 - 5 Units",
+      "id": "CSUS_CSC 500",
+      "prerequisite": [
+        "CSC 209"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Completion of a project approved for the Master's degree. ",
+      "course name": "Master's Project",
+      "units": "1 - 2 Units",
+      "id": "CSUS_CSC 502",
+      "prerequisite": [
+        "CSC 209"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "CSC",
+    "subject": "Computer Science"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Computer Science",
+    "id": "CSUS"
+  }
+}

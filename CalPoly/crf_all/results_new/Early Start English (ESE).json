@@ -1,0 +1,22 @@
+{
+  "subjectOf": {
+    "id": "ESE",
+    "subject": "Early Start English"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Early Start English"
+  },
+  "courses": [
+    {
+      "id": "ESE 90",
+      "course name": "Early Start Program: English",
+      "units": "1.5 units",
+      "inTerm": {
+        "term": "Summer"
+      },
+      "description": "Review of fundamental writing and rhetoric skills intended for students who need to meet the CSU Early Start Program (ESP) requirement.  Not for baccalaureate credit.  Credit/No Credit grading only.  Formerly ESE 100."
+    }
+  ]
+}

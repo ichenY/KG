@@ -1,0 +1,1377 @@
+{
+  "subjectOf": {
+    "id": "MATH",
+    "subject": "Mathematics"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Mathematics"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_MATH 92",
+      "course name": "Beginning Algebra Review",
+      "units": "3 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Review of basic algebra skills at the beginning algebra level intended primarily to prepare students",
+      "grading": "for MATH 96 ( formerly MATH 104",
+      "format": "3 lectures.",
+      "other": "for MATH 96 ( formerly MATH 104 )"
+    },
+    {
+      "id": "CalPoly_MATH 94",
+      "course name": "Beginning Algebra Workshop",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of beginning algebra. Not for baccalaureate credit. Credit / No Credit grading only.",
+      "format": "1 laboratory.",
+      "other": "Formerly MATH 110."
+    },
+    {
+      "id": "CalPoly_MATH 95",
+      "course name": "Stretch Precalculus Algebra I Workshop",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Review of basic algebra skills intended primarily to prepare students for the precalculus content in MATH115. Not for baccalaureate credit. Credit / No Credit grading only.",
+      "format": "1 activity."
+    },
+    {
+      "id": "CalPoly_MATH 96",
+      "course name": "Intermediate Algebra",
+      "units": "3 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Review of basic algebra skills at the intermediate algebra level intended primarily to prepare students for MATH116. Not for baccalaureate credit. Credit / No Credit grading only.",
+      "format": "3 lectures.",
+      "other": "Formerly MATH 104.",
+      "similarTo": [
+        "AshFord_MAT 221",
+        "AshFord_MAT 222"
+      ]
+    },
+    {
+      "id": "CalPoly_MATH 98",
+      "course name": "Intermediate Algebra Workshop",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of intermediate algebra. Not for baccalaureate credit. Credit / No Credit grading only.",
+      "format": "1 laboratory.",
+      "other": "Formerly MATH 114."
+    },
+    {
+      "id": "CalPoly_MATH 112",
+      "course name": "Nature of Modern Math",
+      "units": "4 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Topics from contemporary mathematics, their development, applications, and role in society. Some typical topics, to be chosen by the instructor : graph theory, critical path analysis, statistical inference, coding, game theory, and symmetry. 4 lectures. Fulfills GE Area B1 ; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "CalPoly_MATH 115",
+      "course name": "Stretch Precalculus Algebra I",
+      "units": "3 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Pre - calculus college algebra without trigonometry with built - in review of basic algebra skills necessary to be successful in pre - calculus. MATH115 or MATH116, and MATH117 are equivalent to MATH118, but are taught at a slower pace. Upon completion of MATH115 or MATH116, and MATH117, a student will receive 4 units of GE credit for Area B1. Students admitted Fall 2016 or later need a grade of C- or better in one of their GE Area B1 requirements in order to fulfill GE Area B. Not open to students with credit in MATH116, MATH118, MATH141, MATH161, or MATH221.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 116",
+      "course name": "Precalculus Algebra I",
+      "units": "3 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Pre - calculus college algebra without trigonometry. Special products and factoring, exponents and radicals. Fractional and polynomial equations. Matrices, determinants, and systems of equations. Polynomial, rational, exponential, and logarithmic functions. Graphing, inequalities, absolute value, and complex numbers. MATH115 or MATH116, and MATH117 are equivalent to MATH118, but are taught at a slower pace. Upon completion of MATH115 or MATH116, and MATH117, a student will receive 4 units of GE credit for Area B1. Students admitted Fall 2016 or later need a grade of C- or better in one of their GE Area B1 requirements in order to fulfill GE Area B. Not open to students with credit in MATH115, MATH118, MATH141, MATH161, or MATH221. Credit will be granted in only one of the following courses : MATH115, MATH116, or MATH118.",
+      "format": "3 lectures.",
+      "similarTo": [
+        "AshFord_MAT 221",
+        "AshFord_MAT 222"
+      ]
+    },
+    {
+      "id": "CalPoly_MATH 117",
+      "course name": "Precalculus Algebra II",
+      "prerequisite": [
+        "MATH 115 with a grade of C- or better",
+        "MATH 116 with a grade of C- or better"
+      ],
+      "units": "3 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Pre - calculus college algebra without trigonometry. Special products and factoring, exponents and radicals. Fractional and polynomial equations. Matrices, determinants, and systems of equations. Polynomial, rational, exponential, and logarithmic functions. Graphing, inequalities, absolute value, and complex numbers. MATH115 or MATH116, and MATH117 are equivalent to MATH118, but are taught at a slower pace. Upon completion of MATH115 or MATH116, and MATH117, a student will receive 4 units of GE credit for Area B1. Students admitted Fall 2016 or later need a grade of C- or better in one of their GE Area B1 requirements in order to fulfill GE Area B. Not open to students with credit in MATH118.",
+      "format": "3 lectures.",
+      "similarTo": [
+        "AshFord_MAT 221",
+        "AshFord_MAT 222"
+      ]
+    },
+    {
+      "id": "CalPoly_MATH 118",
+      "course name": "Precalculus Algebra",
+      "units": "4 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Pre - calculus algebra without trigonometry. Special products and factoring, exponents and radicals. Fractional and polynomial equations. Matrices, determinants, and systems of equations. Polynomial, rational, exponential, and logarithmic functions. Graphing, inequalities, absolute value, and complex numbers. MATH118 is equivalent to MATH115 or MATH116, and MATH117. Not open to students with credit in MATH117, MATH141, MATH161, or MATH221. Credit will be granted in only one of the following courses : MATH115, MATH116, or MATH118. 4 lectures. Fulfills GE Area B1 ; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "CalPoly_MATH 119",
+      "course name": "Precalculus Trigonometry",
+      "units": "4 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Rectangular and polar coordinates. Trigonometric functions, fundamental identities. Inverse trigonometric functions and relations. Vectors, complex numbers, conic sections, and analytic geometry. Not open to students with credit in MATH141, MATH161, or MATH221. 4 lectures. Fulfills GE Area B1 ; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "CalPoly_MATH 126",
+      "course name": "Pre-Calculus Algebra Workshop I",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of precalculus algebra. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 127",
+      "course name": "Pre-Calculus Algebra Workshop II",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of pre - calculus algebra. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 128",
+      "course name": "Pre-Calculus Algebra Workshop",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of pre - calculus algebra. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 129",
+      "course name": "Precalculus Trigonometry Workshop",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of pre - calculus trigonometry. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 141",
+      "course name": "Calculus I",
+      "units": "4 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Limits, continuity, differentiation. Introduction to integration. 4 lectures. Crosslisted as HNRS / MATH141. Fulfills GE Area B1 ; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "CalPoly_MATH 142",
+      "course name": "Calculus II",
+      "prerequisite": [
+        "MATH 141 with a grade of C- or better or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Techniques of integration, applications to physics, transcendental functions. 4 lectures. Crosslisted as HNRS / MATH142. Fulfills GE B1 ; for students admitted Fall 2016 or later, a grade of C- or better in one GE B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "CalPoly_MATH 143",
+      "course name": "Calculus III",
+      "prerequisite": [
+        "MATH 142 with a grade of C- or better or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Infinite sequences and series, vector algebra, curves. 4 lectures. Crosslisted as HNRS / MATH143. Fulfills GE B1 ; for students admitted Fall 2016 or later, a grade of C- or better in one GE B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "CalPoly_MATH 151",
+      "course name": "Calculus Workshop I",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of calculus. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 152",
+      "course name": "Calculus Workshop II",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of calculus. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 153",
+      "course name": "Calculus Workshop III",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of calculus. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 161",
+      "course name": "Calculus for the Life Sciences I",
+      "units": "4 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Review of exponential, logarithmic, and trigonometric functions. Differential and integral calculus with applications to the biological sciences. Introduction to differential equations and mathematical modeling. Examples, exercises and applications to emphasize problems in life sciences. Not open to students with credit in MATH141. 4 lectures. Fulfills GE Area B1 ; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "CalPoly_MATH 162",
+      "course name": "Calculus for the Life Sciences II",
+      "prerequisite": [
+        "MATH 161"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Review of exponential, logarithmic, and trigonometric functions. Differential and integral calculus with applications to the biological sciences. Introduction to differential equations and mathematical modeling. Examples, exercises and applications to emphasize problems in life sciences. Not open to students with credit in MATH142. 4 lectures. Fulfills GE B1 ; for students admitted Fall 2016 or later, a grade of C- or better in one GE B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "CalPoly_MATH 171",
+      "course name": "Calculus for the Life Sciences Workshop I",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of calculus for the life sciences. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 172",
+      "course name": "Calculus for the Life Sciences Workshop II",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of calculus for the life sciences. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 182",
+      "course name": "Calculus for Architecture and Construction Management",
+      "prerequisite": [
+        "MATH 141"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Integral calculus with applications to architecture and construction management. The algebra of vectors. Polar, cylindrical, and spherical coordinate systems. Not open to students with credit in MATH142. 4 lectures. Fulfills GE B1 ; for students admitted Fall 2016 or later, a grade of C- or better in one GE B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "CalPoly_MATH 192",
+      "course name": "Calculus for Architecture and Construction Management Workshop",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of calculus to architecture and construction management. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 202",
+      "course name": "Orientation to Mathematics Major",
+      "prerequisite": [
+        "MATH 143"
+      ],
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Career opportunities in the field of mathematics, preparing a field of study, and a survey of departmental facilities and procedures related to research, study and graduation. Credit / No Credit grading only. 1 lecture."
+    },
+    {
+      "id": "CalPoly_MATH 206",
+      "course name": "Linear Algebra I",
+      "prerequisite": [
+        "MATH 143"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Systems of linear equations. Matrix algebra, including inverses and determinants. Vectors, vector spaces, bases and linear transformations in real coordinate space of n dimensions. Eigenvalues, eigenvectors and diagonalization. Applications of linear algebra. Introduction to inner products and orthogonality.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_MAT 221",
+        "AshFord_MAT 222"
+      ]
+    },
+    {
+      "id": "CalPoly_MATH 221",
+      "course name": "Calculus for Business and Economics",
+      "units": "4 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Polynomial calculus for optimization and marginal analysis, and elementary integration. Not open to students with credit in MATH142. 4 lectures. Fulfills GE Area B1 ; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "CalPoly_MATH 227",
+      "course name": "Mathematics for Elementary Teaching I",
+      "units": "4 units",
+      "term": [
+        "ge area b1"
+      ],
+      "description": "Introduction to problem solving, set theory, number systems, arithmetic operations, models, and number theory. This class is designed for Liberal Studies majors. Other students will be admitted only by consent of instructor. 4 lectures. Fulfills GE Area B1 ; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B."
+    },
+    {
+      "id": "CalPoly_MATH 231",
+      "course name": "Calculus for Business and Economics Workshop",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of business calculus. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 241",
+      "course name": "Calculus IV",
+      "prerequisite": [
+        "MATH 143"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Partial derivatives, multiple integrals, introduction to vector analysis. 4 lectures. Crosslisted as HNRS / MATH241."
+    },
+    {
+      "id": "CalPoly_MATH 242",
+      "course name": "Differential Equations I",
+      "prerequisite": [
+        "MATH 206",
+        "MATH 241"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Ordinary differential equations : first - order linear equations, separable equations, exact equations, second - order linear equations, nonhomogeneous equations, systems of first - order linear equations, systems of nonlinear equations, modeling and applications. Not open to students with credit in MATH244.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 244",
+      "course name": "Linear Analysis I",
+      "prerequisite": [
+        "MATH 143"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Separable and linear ordinary differential equations with selected applications ; numerical and analytical solutions. Linear algebra : vectors in n - space, matrices, linear transformations, eigenvalues, eigenvectors, diagonalization ; applications to the study of systems of linear differential equations. 4 lectures. Crosslisted as HNRS / MATH244."
+    },
+    {
+      "id": "CalPoly_MATH 248",
+      "course name": "Methods of Proof in Mathematics",
+      "prerequisite": [
+        "MATH 143"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Methods of proof ( direct, contradiction, conditional, contraposition ) ; valid and invalid arguments. Examples from set theory. Quantified statements and their negations. Functions, indexed sets, set functions. Proofs in number theory, algebra, geometry and analysis. Proof by induction. Equivalence and well - defined operations and functions. The axiomatic method.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 251",
+      "course name": "Calculus Workshop IV",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of calculus. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 254",
+      "course name": "Linear Analysis Workshop I",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the theory, problems, and applications of linear analysis. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 258",
+      "course name": "Methods of Proof in Mathematics Workshop",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the methods and techniques of proof in mathematics. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 300",
+      "course name": "Technology in Mathematics Education",
+      "prerequisite": [
+        "MATH 248"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Examination of existing hardware and software designed for educational uses. Discussion of mathematical topics appropriate for computer enhancement. Special methods and techniques for educational uses of computers. Emphasis on activity learning and applications. Computer as a classroom management device.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 304",
+      "course name": "Vector Analysis",
+      "prerequisite": [
+        "MATH 206 or MATH 244",
+        "MATH 241"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area b6"
+      ],
+      "description": "Differential and integral calculus of vector - valued functions. Green 's Theorem, Stokes ' Theorem, and the Divergence Theorem. Applications and generalizations. 4 lectures. Fulfills GE B6."
+    },
+    {
+      "id": "CalPoly_MATH 306",
+      "course name": "Linear Algebra II",
+      "prerequisite": [
+        "MATH 206 or MATH 244",
+        "MATH 241"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Rigorous development of real and complex vector spaces, including infinite dimensional spaces. Subspaces, bases, products and direct sums. Examples and properties of linear transformations. Similarity, eigenvalues, eigenvectors and diagonalization. Characteristic and minimal polynomials, Cayley - Hamilton Theorem.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_MAT 221",
+        "AshFord_MAT 222"
+      ]
+    },
+    {
+      "id": "CalPoly_MATH 316",
+      "course name": "Introduction to Linear Algebra Workshop II",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the methods and techniques of proof in linear algebra. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 328",
+      "course name": "Mathematics for Elementary Teaching II",
+      "prerequisite": [
+        "MATH 227 with a grade of C- or better or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to rational and real numbers, probability and counting techniques, statistics, and geometry. Computer applications.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 329",
+      "course name": "Mathematics for Elementary Teaching III",
+      "prerequisite": [
+        "MATH 328"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Introduction to rational and real numbers, probability and counting techniques, statistics, and geometry. Computer applications.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 330",
+      "course name": "Algebraic Thinking with Technology",
+      "prerequisite": [
+        "MATH 329"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Algebraic concepts for elementary teachers. Mathematical patterns, equations and inequalities, linear and quadratic functions, exponential and logarithmic functions, systems of equations, roots of polynomials, factoring of polynomials, and right - triangle trigonometry. Computer applications.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 335",
+      "course name": "Graph Theory",
+      "prerequisite": [
+        "MATH 248 or junior st"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduction to graph theory and its applications : isomorphism, paths and searching, connectedness, trees, tournaments, planarity, graph colorings, matching theory, network flow, adjacency and incidence matrices. Further topics to be selected from the theory of finite state machines, Ramsey theory, extremal theory, and graphical enumeration.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 336",
+      "course name": "Combinatorial Math",
+      "prerequisite": [
+        "MATH 248 or junior st"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Methods of enumerative combinatorics : sum, product, and division rules, bijective and recursive techniques, inclusion and exclusion, generating functions, and the finite difference calculus. Advanced topics to be selected from the theory of partitions, Polya theory, designs, and codes.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 341",
+      "course name": "Theory of Numbers",
+      "prerequisite": [
+        "MATH 248 with a grade of C- or better or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Properties of numbers. Euclid 's Algorithm, greatest common divisors, diophantine equations, prime numbers, congruences, number theoretic functions, the quadratic reciprocity laws, primitive roots and indices.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 344",
+      "course name": "Linear Analysis II",
+      "prerequisite": [
+        "MATH 206",
+        "MATH 242",
+        "MATH 244"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area b6"
+      ],
+      "description": "Linear methods applied to the solution of differential equations. Laplace transforms. Series solutions to ordinary differential equations. Orthogonality in n - space, Gram - Schmidt orthogonalization and least squares methods. Orthogonal bases in function spaces, Sturm - Liouville theory. Fourier series and transforms. Special functions of applied mathematics. 4 lectures. Fulfills GE B6."
+    },
+    {
+      "id": "CalPoly_MATH 350",
+      "course name": "Mathematical Software",
+      "prerequisite": [
+        "MATH 206 or MATH 244",
+        "MATH 241"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Problem - solving using mathematical software.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 351",
+      "course name": "Typesetting with LaTeX",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Preparing documents, especially mathematical ones, using LaTeX and AMS - LaTeX. Credit / No Credit grading only. 1 lecture."
+    },
+    {
+      "id": "CalPoly_MATH 370",
+      "course name": "Putnam Exam Seminar",
+      "units": "2 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Directed group study of mathematical problem solving techniques. Open to undergraduate students only. Class members are expected to participate in the annual William Lowell Putnam Mathematical Competition. Course may be repeated up to eight units.",
+      "format": "2 seminars."
+    },
+    {
+      "id": "CalPoly_MATH 371",
+      "course name": "Math Modeling Seminar",
+      "units": "2 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Directed group study of mathematical modeling techniques. Open to undergraduate students only. Class members are expected to participate in the annual Mathematical Competition in Modeling. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "2 seminars."
+    },
+    {
+      "id": "CalPoly_MATH 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit",
+      "grading": "limited to 8 units"
+    },
+    {
+      "id": "CalPoly_MATH 404",
+      "course name": "Introduction to Differential Geometry",
+      "prerequisite": [
+        "MATH 304"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Theory of curves and surfaces in space. Topics such as Frenet formulas, curvature, geodesics, Cartan structural equations, Gauss - Bonnet Theorem.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 406",
+      "course name": "Linear Algebra III",
+      "prerequisite": [
+        "MATH 306"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Rigorous development of real and complex inner product spaces. Orthogonal bases and direct sums of subspaces. Linear transformations on inner product spaces. Properties of self - adjoint and normal operators. Additional topics such as the Jordan Decomposition Theorem and the Spectral Theorem.",
+      "format": "4 lectures.",
+      "similarTo": [
+        "AshFord_MAT 221",
+        "AshFord_MAT 222"
+      ]
+    },
+    {
+      "id": "CalPoly_MATH 408",
+      "course name": "Complex Analysis I",
+      "prerequisite": [
+        "MATH 242",
+        "MATH 244"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area b6"
+      ],
+      "description": "Elementary analytic functions and mappings. Cauchy 's Integral Theorem ; Poisson 's Integral Formula. Taylor and Laurent series, theory of residues, and the evaluation of integrals. Harmonic functions, conformal mappings. 4 lectures. Fulfills GE B6."
+    },
+    {
+      "id": "CalPoly_MATH 409",
+      "course name": "Complex Analysis II",
+      "prerequisite": [
+        "MATH 408"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Elementary analytic functions and mappings. Cauchy 's Integral Theorem ; Poisson 's Integral Formula. Taylor and Laurent series, theory of residues, and the evaluation of integrals. Harmonic functions, conformal mappings.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 412",
+      "course name": "Introduction to Analysis I",
+      "prerequisite": [
+        "MATH 306"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Introduction to concepts and methods basic to real analysis. Topics such as the real number system, sequences, continuity, uniform continuity and differentiation.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 413",
+      "course name": "Introduction to Analysis II",
+      "prerequisite": [
+        "MATH 412"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "A continuation of Introduction to Analysis I covering such topics as integration, infinite series, uniform convergence and functions of several variables.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 414",
+      "course name": "Introduction to Analysis III",
+      "prerequisite": [
+        "MATH 413"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Continuation of Introduction to Analysis II covering such topics as differentiation and integration of functions of several variables and other advanced topics.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 416",
+      "course name": "Differential Equations II",
+      "prerequisite": [
+        "MATH 206",
+        "MATH 242",
+        "MATH 244"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Qualitative theory of ordinary differential equations : Existence and Uniqueness Theorem, phase portraits, limit sets, stability of fixed points and periodic orbits, energy functions, Poincare - Bendixson Theorem, Poincare maps, bifurcations, attractors, chaos.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 418",
+      "course name": "Partial Differential Equations",
+      "prerequisite": [
+        "MATH 344"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Mathematical formulation of physical laws. Separation of variables. Orthogonal functions and generalized Fourier series. Bessel functions, Legendre polynomials. Sturm - Liouville problem. Boundary value problems ; nonhomogeneous techniques. Applications to heat flow, potential theory, vibrating strings and membranes.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 419",
+      "course name": "Introduction to the History of Mathematics",
+      "prerequisite": [
+        "MATH 248 with a grade of C- or better"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Evolution of mathematics from earliest to modern times. Major trends in mathematical thought, the interplay of mathematical and technological innovations, and the contributions of great mathematicians. Appropriate for prospective and in - service teachers.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 422",
+      "course name": "Introduction to Analysis I Workshop",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the methods and techniques of proof in introductory analysis. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 423",
+      "course name": "Advanced Mathematics for Teaching",
+      "prerequisite": [
+        "MATH 442",
+        "MATH 481"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Introduction to mathematics education research and advanced exploration of the mathematics taught in California 's public high schools and middle schools through problem analysis, concept analysis, and problem connections.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 424",
+      "course name": "Organizing and Teaching Mathematics",
+      "units": "4 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Organization, selection, presentation, application and interpretation of subject matter in mathematics. Introduction to current issues in mathematics education. For students who will be teaching in secondary schools. Credit / No Credit grading only.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 425",
+      "course name": "Mathematics Student Teaching Seminar",
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Principles and practice in effective teaching of mathematics at the middle and high school level, learning theories, curriculum content and structure, classroom issues, and the teaching profession. Credit / No Credit grading only. Total credit",
+      "grading": "limited to 4 units.",
+      "format": "2 seminars."
+    },
+    {
+      "id": "CalPoly_MATH 435",
+      "course name": "Discrete Mathematics with Applications I",
+      "prerequisite": [
+        "MATH 248 with a grade of C- or better",
+        "MATH 336"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Methods of discrete mathematics with applications. Generating functions and Lagrange inversion, partition theory, permutation statistics and q - analogues, posets and Moebius inversion. Additional topics including lattice paths and basic hypergeometric series. 4 lectures. Not open to students with credit in MATH530."
+    },
+    {
+      "id": "CalPoly_MATH 436",
+      "course name": "Discrete Math with Applications II",
+      "prerequisite": [
+        "MATH 435"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Methods of discrete mathematics with applications. Polya theory, codes, designs, matroids, the combinatorics of symmetric functions, and tableaux combinatorics. Additional topics including transversals and Latin squares, asymptotics, and discrete probability theory. 4 lectures. Not open to students with credit in MATH531."
+    },
+    {
+      "id": "CalPoly_MATH 437",
+      "course name": "Game Theory",
+      "prerequisite": [
+        "MATH 206 or MATH 244",
+        "MATH 248 with a grade of C- or better"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Development of the mathematical concepts, techniques, and models used to investigate optimal strategies in competitive situations ; games in extensive, normal, and characteristic form, Nash equilibrium points and Nash Bargaining Model.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 440",
+      "course name": "Topology I",
+      "prerequisite": [
+        "MATH 412"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Introduction to general topological spaces with emphasis on surfaces and manifolds. Open and closed sets, continuity, compactness, connectedness. Quotient spaces. 4 lectures. Not open to students with credit in MATH540."
+    },
+    {
+      "id": "CalPoly_MATH 441",
+      "course name": "Topology II",
+      "prerequisite": [
+        "MATH 440"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Introduction to general topological spaces with emphasis on surfaces and manifolds. Fundamental group. Triangulations of spaces, classification of surfaces. Other topics may include covering spaces, simplicial homology, homotopy theory and topics from differential topology. 4 lectures. Not open to students with credit in MATH541."
+    },
+    {
+      "id": "CalPoly_MATH 442",
+      "course name": "Euclidean Geometry",
+      "prerequisite": [
+        "MATH 248 with a grade of C- or better or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Foundations of Euclidean geometry, finite geometries, congruence, similarities, polygonal regions, circles and spheres. Constructions, mensuration, the parallel postulate. Appropriate for prospective and in - service mathematics teachers.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 443",
+      "course name": "Modern Geometries",
+      "prerequisite": [
+        "MATH 442"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Non - Euclidean and projective geometries. Properties of parallels, biangles, Saccheri and Lambert quadrilaterals, angle - sum and area. Limiting curves : hyperbolic trigonometry, duality, perspectivity, quadrangles, fundamental theorems of projective geometry, conics.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 451",
+      "course name": "Numerical Analysis I",
+      "prerequisite": [
+        "MATH 206",
+        "MATH 242",
+        "MATH 244"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Topics in interpolation and approximation methods, initial value problems, and boundary value problems of ordinary differential equations.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 452",
+      "course name": "Numerical Analysis II",
+      "prerequisite": [
+        "MATH 451"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Numerical techniques for solving partial differential equations of the parabolic, hyperbolic and elliptic type. Further topics in approximation theory.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 453",
+      "course name": "Numerical Optimization",
+      "prerequisite": [
+        "MATH 306",
+        "MATH 451"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Algorithms for solving optimization problems that can not be solved analytically. Descent algorithms including exact and practical line - searches, steepest descent method, and Newton and quasi - Newton methods for unconstrained minimization. Optimality conditions for constrained optimization, linear programming. Projection and Lagrangian methods, and interior point methods for constrained minimization.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 459",
+      "course name": "Senior Project Seminar",
+      "prerequisite": [
+        "MATH 306"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Written and oral analyses and presentations by students on topics from advanced mathematics and mathematical modeling. Not open to students with credit in MATH460.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_MATH 460",
+      "course name": "Senior Project Applied Seminar",
+      "prerequisite": [
+        "MATH 306",
+        "MATH 344"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Written and oral analyses and presentations by students on topics in applied mathematics, including applications to sustainability. Construction of mathematical models for physical and biological problems, with analysis and interpretation of the solutions of these models using both analytical and numerical techniques. Not open to students with credit in MATH459.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_MATH 461",
+      "course name": "Senior Project I",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Selection and development of a mathematics project under faculty supervision. Minimum 60 hours total time."
+    },
+    {
+      "id": "CalPoly_MATH 462",
+      "course name": "Senior Project II",
+      "prerequisite": [
+        "MATH 461"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Completion of a mathematics project under faculty supervision. Project results are presented in a formal report. Minimum 60 hours total time."
+    },
+    {
+      "id": "CalPoly_MATH 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 474",
+      "course name": "Advanced Topics in Geometry and Topology",
+      "prerequisite": [
+        "MATH 248"
+      ],
+      "units": "1 unit",
+      "term": [
+        "tbd"
+      ],
+      "description": "Exploration of advanced topics and problems in geometry and topology through reading, writing and oral presentations. The Schedule of Classes will list the specific topic as a subtitle. Total credit",
+      "grading": "limited to 6 units",
+      "format": ". 1 seminar."
+    },
+    {
+      "id": "CalPoly_MATH 475",
+      "course name": "Advanced Topics in Mathematics",
+      "prerequisite": [
+        "MATH 306"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Exploration of advanced topics and problems in mathematics. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 476",
+      "course name": "Advanced Topics in Applied Mathematics",
+      "prerequisite": [
+        "MATH 306"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Exploration of advanced topics and problems in applied mathematics. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 481",
+      "course name": "Abstract Algebra I",
+      "prerequisite": [
+        "MATH 306 or MATH 341"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Introduction to the study of groups. Topics include groups of permutations, cyclic groups, normal subgroups and quotient groups. Homomorphisms, Lagrange 's Theorem, Cayley 's Theorem, the Isomorphism Theorems and the Fundamental Theorem of Finite Abelian Groups.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 482",
+      "course name": "Abstract Algebra II",
+      "prerequisite": [
+        "MATH 481"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to rings and fields. Reducible and irreducible polynomials, ideals, prime and maximal ideals, quotient rings, ring homomorphisms, the Isomorphism Theorems, integral domains, unique factorization domains, principal ideal domains, Euclidean domains, fields of fractions, field extensions and finite fields.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 483",
+      "course name": "Abstract Algebra III",
+      "prerequisite": [
+        "MATH 482"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Algebraic field extensions, the tower law, ruler - and - compass constructions, the primitive element theorem, algebraic and transcendental numbers, algebraic closure, the fundamental theorem of algebra, finite fields, Galois extensions and the fundamental theorem of Galois theory. Not open to students with credit in MATH560.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 485",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Part - time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. Formal report and evaluation by work supervisor required. No major credit allowed ; total credit limited to 12 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_MATH 491",
+      "course name": "Abstract Algebra I Workshop",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of the methods and techniques of proof in abstract algebra. Credit / No Credit grading only.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATH 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Full - time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. Formal report and evaluation by work supervisor required. No major credit allowed ; total credit limited to 12 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_MATH 500",
+      "course name": "Individual Study",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual research or advanced study planned and completed under the direction of a departmental faculty member. Open only to graduate students demonstrating ability to do independent work. Total credit",
+      "grading": "limited to 12 units."
+    },
+    {
+      "id": "CalPoly_MATH 501",
+      "course name": "Analytic Methods in Applied Mathematics",
+      "prerequisite": [
+        "MATH 344 or AERO 300"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduction to advanced methods of mathematics useful in the analysis of engineering problems. Selected topics in perturbation theory, optimization and Fourier analysis. Not open to students in math major or master 's degree program in mathematics.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 502",
+      "course name": "Numerical Methods in Applied Mathematics",
+      "prerequisite": [
+        "MATH 344 or AERO 300"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Introduction to advanced numerical analysis. Numerical techniques for solving ordinary and partial differential equations, error analysis, stability, methods for linear systems. Not open to students in math major or master 's degree program in mathematics.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 504",
+      "course name": "Mathematical Topics for Teachers",
+      "units": "1-4 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Mathematical topics for practicing credentialed teachers. Professional growth through improvement of teachers ' mathematical content knowledge and pedagogical approaches using technology, discussion, reflection, and hands - on activities. Content will vary according to teaching level. The Schedule of Classes will list topic selected. Total credit limited to 12 units. Not open to students in math major or master 's degree program in mathematics. Credit / No Credit grading only.",
+      "format": "1 - 4 activities."
+    },
+    {
+      "id": "CalPoly_MATH 505",
+      "course name": "Graduate Teaching Seminar",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Principles and practice in effective teaching of college - level mathematics. Issues related to present and future teaching experiences, including time management, professionalism, student assessment, grading, classroom management, and qualities of good mathematics teachers. Reflection on individual teaching, and consideration of improvements in instruction. Credit / No Credit grading only. Total credit",
+      "grading": "limited to 2 units",
+      "format": ". 1 seminar."
+    },
+    {
+      "id": "CalPoly_MATH 520",
+      "course name": "Applied Analysis I",
+      "prerequisite": [
+        "MATH 408",
+        "MATH 412"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Advanced mathematical methods of analysis in science and engineering, integrated with modeling of physical phenomena. Topics include applications of complex analysis, Fourier analysis, ordinary and partial differential equations. Additional topics to be drawn from perturbation methods, asymptotic analysis, dynamical systems, numerical methods, optimization, and the calculus of variations.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 521",
+      "course name": "Applied Analysis II",
+      "prerequisite": [
+        "MATH 520"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Advanced mathematical methods of analysis in science and engineering, integrated with modeling of physical phenomena. Topics include applications of complex analysis, Fourier analysis, ordinary and partial differential equations. Additional topics to be drawn from perturbation methods, asymptotic analysis, dynamical systems, numerical methods, optimization, and the calculus of variations.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 530",
+      "course name": "Discrete Mathematics with Applications I",
+      "prerequisite": [
+        "MATH 248 with a grade of C- or better",
+        "MATH 336"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Methods of discrete mathematics with applications. Generating functions and Lagrange inversion, partition theory, permutation statistics and q - analogues, posets and M\u7e79bius inversion. Additional topics including lattice paths and basic hypergeometric series. 4 lectures. Not open to students with credit in MATH435."
+    },
+    {
+      "id": "CalPoly_MATH 531",
+      "course name": "Discrete Mathematics with Applications II",
+      "prerequisite": [
+        "MATH 435 or MATH 530"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Methods of discrete mathematics with applications. Polya theory, codes, designs, matroids, the combinatorics of symmetric functions, and tableaux combinatorics. Additional topics including transversals and Latin squares, asymptotics, and discrete probability theory. 4 lectures. Not open to students with credit in MATH436."
+    },
+    {
+      "id": "CalPoly_MATH 540",
+      "course name": "Topology I",
+      "prerequisite": [
+        "MATH 412 or graduate st"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Introduction to general topological spaces with emphasis on surfaces and manifolds. Open and closed sets, continuity, compactness, connectedness. Quotient spaces. 4 lectures. Not open to students with credit in MATH440."
+    },
+    {
+      "id": "CalPoly_MATH 541",
+      "course name": "Topology II",
+      "prerequisite": [
+        "MATH 440 or MATH 540"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Introduction to general topological spaces with emphasis on surfaces and manifolds. Fundamental group. Triangulations of spaces, classification of surfaces. Other topics may include covering spaces, simplicial homology, homotopy theory and topics from differential topology. 4 lectures. Not open to students with credit in MATH441."
+    },
+    {
+      "id": "CalPoly_MATH 550",
+      "course name": "Real Analysis",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduction to Lebesgue measure and integration, convergence theorems, Lp spaces, Radon - Nikodym Theorem and Fubini 's Theorem.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 560",
+      "course name": "Field Theory",
+      "prerequisite": [
+        "MATH 482 or graduate st"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Polynomial rings, field extensions, normal and separable extensions, automorphisms of fields, fundamental theorem of Galois theory, and further topics such as solvable groups, solution by radicals, insolvability of the quintic. Not open to students with credit in MATH483.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 561",
+      "course name": "Graduate Algebra",
+      "prerequisite": [
+        "MATH 483 or MATH 560"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "An introduction to advanced topics from modern algebra, including group actions, the Sylow theorems, semi - direct products and modules over a principal ideal domain. Other topics may include commutative algebra, advanced Galois theory, homological algebra, and topics from advanced linear algebra.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 570",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for graduate students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    },
+    {
+      "id": "CalPoly_MATH 580",
+      "course name": "Seminar",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Built around topics in advanced mathematics chosen according to the common interests and needs of the students enrolled. Each seminar will have a subtitle according to the nature of the content. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "1 - 4 seminars."
+    },
+    {
+      "id": "CalPoly_MATH 599",
+      "course name": "Thesis",
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Serious research endeavor devoted to the development, pedagogy or learning of mathematics. Course to be taken twice for a total of 6 units."
+    }
+  ]
+}

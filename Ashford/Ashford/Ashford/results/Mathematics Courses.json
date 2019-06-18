@@ -1,0 +1,43 @@
+{
+  "subjectOf": {
+    "subject": "Mathematics Courses",
+    "id": "MAT"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Mathematics Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_MAT 205",
+      "course name": "Quantitative Explorations in Everyday Life",
+      "units": "3 Credits",
+      "description": "This course is designed to engage students in complex and realistic situations involving the mathematical phenomena of quantity, change and relationship. Emphasis is placed on authentic contexts which will introduce the concepts of numeracy, proportional reasoning, dimensional analysis, rates of growth, personal finance, consumer statistics, and mathematics for citizenship. Upon completion, students should be able to utilize quantitative information as consumers and to make personal, professional, and civic decisions by decoding, interpreting, using, and communicating quantitative information found in modern media and encountered in everyday life."
+    },
+    {
+      "id": "AshFord_MAT 221",
+      "course name": "Introduction to Algebra",
+      "units": "3 Credits",
+      "description": "This course establishes a strong base for an Algebraic exploration of mathematical topics. Student understanding is built up through learning the basics of real numbers and Algebra terminology, writing, solving, and graphing equations, and manipulating polynomials through various operations. Students will develop a familiarity and ease of working with the language and notation of Algebra while learning to think logically through algorithms and solving methods. Emphasis will be placed on developing an awareness of the use of mathematics as it exists in the world today."
+    },
+    {
+      "id": "AshFord_MAT 222",
+      "course name": "Intermediate Algebra",
+      "units": "3 Credits",
+      "description": "In this course students will explore a wider range of Algebra topics beyond the introductory level. Topics will include polynomials, functions, rational expressions, systems of equations and inequalities, operations with radicals, and quadratic equations. Emphasis will be placed on developing an awareness of the use of mathematics as it exists in the world today."
+    },
+    {
+      "id": "AshFord_MAT 232",
+      "course name": "Statistical Literacy",
+      "units": "3 Credits",
+      "description": "This course is designed to meet general education quantitative reasoning (mathematics) requirements. It will cover such topics as sampling, bias, probability, distributions, graphical methods of portraying data, measures of center, dispersion and position and the Central Limit Theorem. It will also cover computational techniques such as correlation, regression and confidence intervals."
+    },
+    {
+      "id": "AshFord_MAT 540",
+      "course name": "Statistical Concepts for Research",
+      "units": "3 Credits",
+      "description": "This course demonstrates how to apply selected statistical techniques to a wide variety of problems and situations arising in the areas of business, economics, finance, management, social science, health, psychology, and education. Topics include graphical description of data; measures of location and dispersion; probability; discrete and continuous random variables; sampling distributions and estimation; confidence intervals and hypothesis tests; simple linear regression and correlation."
+    }
+  ]
+}

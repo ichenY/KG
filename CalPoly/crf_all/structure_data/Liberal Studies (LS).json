@@ -1,0 +1,241 @@
+{
+  "subjectOf": {
+    "id": "LS",
+    "subject": "Liberal Studies"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Liberal Studies"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_LS 201",
+      "course name": "Orientation to Liberal Studies",
+      "units": "1 unit",
+      "term": [
+        "Fall"
+      ],
+      "description": "Career and academic planning, co - curricular, extra - curricular opportunities, and pathway into a K-8 teaching profession. Academic policies and procedures, goal settings, elements of career in education, and other topics relevant to student and professional success. Intended for new students in the Liberal Studies major. Not open to students with credit",
+      "grading": "in LS 101.",
+      "format": "1 activity."
+    },
+    {
+      "id": "CalPoly_LS 211",
+      "course name": "Visual Arts in the Elementary Classroom",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Theory, aesthetics, appreciation and applications of visual arts, through multiple two dimensional art strategies, as related to educational processes for the elementary classroom. Focus on elements, principles of design while fostering artistic perception. One Saturday field trip required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_LS 214",
+      "course name": "Constitutional Issues in the History of U",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Examination of U.S. and California constitutions, significant legislation, and court cases affecting public education from the colonial period to the present. Overview of contributions by individuals of historical, national, and international educational significance. Examination of landmark decisions.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_LS 230",
+      "course name": "Field Experience in the Elementary Classroom I",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Overview of current practices and issues in elementary education, including teacher compensation, cultural impact on schools, time and classroom management, English learners, and the affective aspect of teaching. 24 hours of fieldwork required.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_LS 250",
+      "course name": "Field Experience in the Elementary Classroom II",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Overview of current practices and issues in elementary education, including components of effective teaching, motivating students, diagnostic / prescriptive teaching, curriculum, and accountability. In addition to class time, 24 hours of fieldwork required. Participation in public schools requires fingerprint clearance.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_LS 260",
+      "course name": "Children's Literature",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Analysis and evaluation of traditional literature, fantasy, realistic fiction, historical fiction, informational books, picture books, and poetry for children in multiple subject classroom grades K-6. Emphasis on multicultural texts. 4 lectures. Crosslisted as ENGL / LS260."
+    },
+    {
+      "id": "CalPoly_LS 290",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_LS 301",
+      "course name": "Liberal Studies Career Preparation",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Overview of ethical, legal, and historical issues in education ; major foundational philosophies in American public education. Career pathways in education, targeted advising, portfolio building and professional goals and opportunities. Not open to students with credit",
+      "grading": "in LS 101.",
+      "format": "1 activity."
+    },
+    {
+      "id": "CalPoly_LS 305",
+      "course name": "Project Based Learning in STEM Education",
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Extended collaborative study of a question or problem in STEM using a Project Based Learning ( PBL ) environment ; includes consideration of the educational framework and principles of PBL. Topics will have an engineering design component that will require application of mathematics, technology, and science. The Schedule of Classes will list topic selected. Total credit limited to 4 units. Credit / No Credit grading only.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_LS 310",
+      "course name": "Storytelling: Modern Applications of Traditional Narrative",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Techniques for selection, preparation and presentation of traditional folktales and myths for an audience. Applications of storytelling in teaching and organizations ; theory and history of folk literature and mythology.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_LS 370",
+      "course name": "Performing Arts in the Elementary Classroom",
+      "prerequisite": [
+        "LS 211"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Current theory and practice of standards based performing arts with an emphasis on the use of music, theater, media arts and dance, as discrete disciplines with historical and cultural context in the classroom. Attendance at outside performances required.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_LS 380",
+      "course name": "Subject Matter Apprenticeship",
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Structured application of a specific content area in schools and informal educational settings. Topics include : Arts, English, Science, Mathematics, History / Social Studies, and Physical Education and Health. The Schedule of Classes will list topic selected. Participation in public schools requires mandated fingerprint clearance. Total credit limited to 4 units. Credit / No Credit grading only.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_LS 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "id": "CalPoly_LS 410",
+      "course name": "Subject Matter Seminar",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Analysis and practice of subject matter knowledge and skills to facilitate K-8 learning through identifying major themes and questions. The use of inquiry, assessment, curriculum integration, and technology to connect discipline specific content to contemporary social issues. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_LS 411",
+      "course name": "Advanced History/Social Sciences Integration for the K-8 Classroom",
+      "prerequisite": [
+        "GEOG 308",
+        "HIST 208"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Analysis and practice of history and social sciences knowledge and skills to facilitate K-8 learning through identifying major themes and questions. The use of inquiry, assessment, curriculum integration, and technology to connect discipline specific content to contemporary social issues.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_LS 412",
+      "course name": "Advanced Arts Integration for the K-8 Classroom",
+      "prerequisite": [
+        "LS 211"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Analysis and practice of Arts knowledge and skills to facilitate K-8 learning through identifying major themes and questions. The use of inquiry, assessment, curriculum integration, and technology to connect discipline specific content to contemporary social issues. Field trips required. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_LS 461",
+      "course name": "Senior Project Seminar",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Examination of issues in education of state, national and international concern. Students prepare presentations and conduct individual research and analysis of selected problems. Substantial research paper required.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_LS 462",
+      "course name": "Senior Project Research",
+      "prerequisite": [
+        "LS 410 or LS 411 or LS 412"
+      ],
+      "units": "2-4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Application of content and theory to the educational experience of one specific subject matter area in the Liberal Studies program. Total credit",
+      "grading": "limited to 4 units"
+    },
+    {
+      "id": "CalPoly_LS 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    }
+  ]
+}

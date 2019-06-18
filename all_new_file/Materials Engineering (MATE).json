@@ -1,0 +1,680 @@
+{
+  "subjectOf": {
+    "id": "MATE",
+    "subject": "Materials Engineering"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Materials Engineering"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_MATE 110",
+      "course name": "Introduction to Materials Engineering Design  I",
+      "units": "1 unit",
+      "term": [
+        "Fall"
+      ],
+      "description": "Laboratory work in teams to design, build and test a product. Material from math, science and engineering courses tied together.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 120",
+      "course name": "Introduction to Materials Engineering Design II",
+      "prerequisite": [
+        "MATE 110"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Winter"
+      ],
+      "description": "Second design laboratory, working in teams to design, build and test a complex system that benefits humanity. Focus on complete design process including project management, documentation in design, manufacturing techniques, and analysis of testing data. Issues of engineering ethics, technology and society, the environment and sustainability also studied.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 130",
+      "course name": "Introduction to Materials Engineering Design III",
+      "prerequisite": [
+        "MATE 120"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Spring"
+      ],
+      "description": "Third design laboratory in a sequence. Includes working in teams on project that benefits humanity. Issues of engineering ethics, technology and society, the environment and sustainability.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "CalPoly_MATE 210",
+      "course name": "Materials Engineering",
+      "prerequisite": [
+        "CHEM 111 or CHEM 124 or CHEM 127"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Structure of matter. Physical and mechanical properties of materials including metals, polymers, ceramics, composites, and electronic materials. Equilibrium diagrams. Heat treatments, materials selection and corrosion phenomena.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 215",
+      "course name": "Materials Laboratory I",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Focus on processing - structure - properties relationships of materials, including crystal structures, electronic properties of materials, materials selection, phase diagrams, corrosion, mechanical properties of polymers, cold work and annealing of alloys and heat treatments of steels.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 222",
+      "course name": "Materials Selection Life Cycle",
+      "prerequisite": [
+        "MATE 210"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Materials selection for sustainable product design. Use of material selection software and techniques to solve design problems with multiple objectives and constraints. Focus on Triple Bottom Line design including functionality, economic viability, and sustainability. Principles and tools for weighted property optimization, production cost modeling, and life cycle analysis introduced through project - based learning mode.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 225",
+      "course name": "Materials Laboratory II",
+      "prerequisite": [
+        "MATE 215"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Fall"
+      ],
+      "description": "Process - structure relationships of materials. Introduction to materials characterization techniques including differential scanning calorimetry, x - ray diffraction, and metallography. Emphasis on materials engineering professional practices and written communication.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 232",
+      "course name": "Materials, Ethics, and Society",
+      "prerequisite": [
+        "MATE 210"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Materials Engineering principles through the context of historical and current events. Ethics and systems thinking are integrated in the study of the impacts of materials and technology on society during the Stone Age, Bronze Age, and Iron Ages, as well as today 's world. Topics include crystallography, phase diagrams, microstructures, processing techniques, and nanotechnology.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 235",
+      "course name": "Materials Laboratory III",
+      "prerequisite": [
+        "MATE 225"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Winter"
+      ],
+      "description": "Mechanical property testing by tensile tests and hardness tests. Emphasis of data interpretation and analysis with structure - property relationships of materials. Continued materials engineering professional practices.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 310",
+      "course name": "Noncrystalline Material Systems",
+      "prerequisite": [
+        "MATE 210",
+        "MATE 340",
+        "STAT 312"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Design and synthesis of noncrystalline material systems. Synthesis, processing techniques, properties and fabrication methods of organic and inorganic polymeric materials.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 325",
+      "course name": "Transport Phenomena I",
+      "prerequisite": [
+        "PHYS 132",
+        "MATH 141"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Fall"
+      ],
+      "description": "Directed group laboratory study of energy transport. Focus on conduction and convection.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 326",
+      "course name": "Transport Phenomena II",
+      "prerequisite": [
+        "MATH 141",
+        "ME 211"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Winter"
+      ],
+      "description": "Directed group laboratory study of fluid static and dynamic properties and behavior. Focus on non - compressible conditions.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 327",
+      "course name": "Transport Phenomena III",
+      "prerequisite": [
+        "CHEM 124",
+        "PHYS 133"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Spring"
+      ],
+      "description": "Introduction to radiative heat transfer and the material properties that control it.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 330",
+      "course name": "Composite Materials Systems",
+      "prerequisite": [
+        "MATE 350"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Properties, design and applications of composite material systems, concentrating on polymer - matrix, ceramic - fiber composites. Materials ( matrices, fibers ), mechanical behavior and properties, and manufacturing methods treated in detail. Laboratory practice concentrates on the mechanical testing of fiber - reinforced composite materials.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 340",
+      "course name": "Electronic Materials Systems",
+      "prerequisite": [
+        "MATE 210",
+        "PHYS 133"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Design of electronic materials systems utilizing the basic concepts in electron theory of solids, electrical properties and conduction in materials, magnetic phenomena and optical properties in materials.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 350",
+      "course name": "Structural Materials Systems",
+      "prerequisite": [
+        "MATE 360"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Design of structural materials systems. Topics include stress, strain, elasticity, anelasticity, plasticity, fracture and fatigue.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 359",
+      "course name": "Living in a Material World",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Evolution of materials ( ceramics, metals, polymers, composites, semiconductors ) in the context of history. Traces the link between historical and technological developments enabled by materials from the Stone Age to the Electronic Age. 4 lectures. Crosslisted as HIST / MATE359.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_MATE 360",
+      "course name": "Metallurgical Materials Systems",
+      "prerequisite": [
+        "MATE 232",
+        "MATE 235"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Physical metallurgy of engineering alloys including ferrous ( steel ) and nonferrous ( aluminum, copper ) systems. Connection to phase diagrams, microstructural development and phase transformations, physical and mechanical properties, precipitation hardening, cold work and annealing treated in detail. Laboratory focuses on microstructure development in steels and aluminum alloy casting.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 370",
+      "course name": "Kinetics of Materials and Process Design",
+      "prerequisite": [
+        "MATE 360",
+        "MATE 380"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Design of processes for engineering materials. Topics include kinetics in materials : solid - state diffusion ( steady - state and non - steady - state ), nucleation and growth kinetics, solid state phase transformations.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 380",
+      "course name": "Thermodynamics and Physical Chemistry",
+      "prerequisite": [
+        "CHEM 125",
+        "PHYS 133",
+        "MATH 143",
+        "MATE 210",
+        "MATE 215"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Thermodynamics concepts related to materials engineering systems and processes : process flowsheets, mass and energy balances, Ellingham diagrams. Physical chemistry concepts related to materials engineering : ideal gases, systems and surroundings, first through third laws of thermodynamics, phase equilibria, chemical reactions.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "CalPoly_MATE 401",
+      "course name": "Materials Characterization Techniques",
+      "prerequisite": [
+        "MATE 210",
+        "MATE 215"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Hands - on experience with materials characterization instruments, such as scanning electron microscopy ( SEM ), light optical microscopy, x - ray diffraction ( XRD ), and atomic force microscopy ( AFM ). Open - ended projects to develop expertise with trouble - shooting ability, and the process of materials characterization and analysis 2",
+      "format": "lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_MATE 410",
+      "course name": "Nanoscale Engineering",
+      "prerequisite": [
+        "CHEM 125",
+        "PHYS 133",
+        "MATE 210"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Material properties ( mechanics, electronics, heat transfer, photonics, fluid mechanics and biomechanics ) at the nanometer scale. Evaluation of nano - scale systems designed from a bottoms - up approach with unique properties. Exploration of integration of biology, chemistry, physics and engineering.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 420",
+      "course name": "Biopolymers and Bionanocomposites",
+      "prerequisite": [
+        "MATE 310 or CHEM 444"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Exploration of the synthesis, processing, properties, and performance of biologically derived polymers. Examination of nano - scale reinforcements and their use to enhance performance of biopolymers. Emphasis on reading and interpreting contemporary scientific literature.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 425",
+      "course name": "Corrosion Engineering",
+      "prerequisite": [
+        "CHEM 125 or CHEM 128",
+        "MATE 210",
+        "MATE 215"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Forms of corrosion. Influences of environmental variables on corrosion. Methods of corrosion control.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 430",
+      "course name": "Micro/Nano Fabrication",
+      "prerequisite": [
+        "BMED 212 or MATE 210"
+      ],
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Fabrication science and technology for creating micro and nano scale devices. Explore basic processes such as oxidation, diffusion, ion implantation, etching, chemical and physical vapor deposition, photolithography. Develop an understanding of the science of each process and how to select the right steps for fabricating electronic, photon and micro - electro - mechanical systems devices. 3 lectures. Crosslisted as BMED434/EE423/MATE430."
+    },
+    {
+      "id": "CalPoly_MATE 435",
+      "course name": "Microfabrication Laboratory",
+      "units": "1 unit",
+      "term": [
+        "Winter"
+      ],
+      "description": "Application of basic processes involved in microfabrication : cleanroom protocol, oxidation, diffusion, photolithography etching and sputtering. Explore process development through fabrication of electronic, photonic or microfluidic devices. Each student will be part of a team that will fabricate and test a device.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 440",
+      "course name": "Welding Metallurgy and Joining of Advanced Materials",
+      "prerequisite": [
+        "MATE 210"
+      ],
+      "units": "3 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Principles, primary variables, and microstructural changes associated with the joining process. Physics of energy transfer. Heat and mass balances in joining, thermodynamic and kinetic justification of solidification and near interface microstructures. Heterogeneous interfaces, adhesion, wetting. Relation between process selection, interface design, microstructure, and properties, weldability.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 445",
+      "course name": "Joining of Advanced Materials Laboratory",
+      "prerequisite": [
+        "MATE 210"
+      ],
+      "units": "2 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Laboratory to accompany MATE440. Illustration of principles, primary variables, and microstructural changes associated with the joining process. Physics of energy transfer. Heat and mass balances in joining, thermodynamic and kinetic justification of solidification and near interface micro - structures. Heterogeneous interfaces, adhesion, wetting. Relation between process selection, interface design, microstructure, and properties, weldability.",
+      "format": "2 laboratories."
+    },
+    {
+      "id": "CalPoly_MATE 446",
+      "course name": "Surface Chemistry of Materials",
+      "prerequisite": [
+        "CHEM 125 or CHEM 128",
+        "CHEM 351",
+        "MATE 380"
+      ],
+      "units": "3 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Surface energy. Capillarity, solid and liquid interface, adsorption. Surface areas of solids. Contact angles and wetting. Friction, lubrication and adhesion. Relationship of surface to bulk properties of materials. Applications. 3 lectures. Crosslisted as CHEM / MATE446."
+    },
+    {
+      "id": "CalPoly_MATE 450",
+      "course name": "Fracture and Failure Analysis",
+      "prerequisite": [
+        "MATE 210",
+        "MATE 215",
+        "MATE 350"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Fracture processes and fracture mechanics of structural materials concentrating on engineering alloys. Topics include fracture of alloys, fracture mechanics ( Griffith analysis, Linear Elastic Fracture Mechanics ), and fatigue. Laboratory focuses on fracture surface analysis, failure analysis, and mechanical testing.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 458",
+      "course name": "Microelectronics and Electronics Packaging",
+      "prerequisite": [
+        "EE 112 or EE 201"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Materials, processes, and reliability of microelectronics and electronics packaging, surface mount assembly and printed circuit board fabrication. Organic substrates and ceramic substrates. Mechanical design, thermal, and electrical considerations in electronic packaging. Design for manufacturability. Overview of optoelectronics packaging and other emerging technologies in microelectronics and electronic packaging. Project on design and manufacture of an electronic device.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 460",
+      "course name": "Materials Selection in Mechanical Design",
+      "prerequisite": [
+        "MATE 350"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Materials - based approach to mechanical design. Using mechanical and physical properties of materials ( performance indices ) to select structural materials for applications ( Materials Selection Charts ). Detailed background of material properties - information from materials and mechanics. Numerous case studies highlight the concepts covered.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "1 to 4 laboratories."
+    },
+    {
+      "id": "CalPoly_MATE 482",
+      "course name": "Senior Project I",
+      "prerequisite": [
+        "IME 144"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Fall"
+      ],
+      "description": "Foundations of senior project design. Completion of the preliminary stages of selecting a senior project, designing experiments, evaluating realistic constraints, conducting initial experiments, and managing a project timeline.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_MATE 483",
+      "course name": "Senior Project II",
+      "prerequisite": [
+        "MATE 482"
+      ],
+      "units": "2 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Continuation of senior project. Completion of a senior project experimental component under the guidance of a faculty supervisor. Research methodology, experimental design, experimental work and data analysis.",
+      "format": "2 laboratories."
+    },
+    {
+      "id": "CalPoly_MATE 484",
+      "course name": "Senior Project III",
+      "prerequisite": [
+        "MATE 483"
+      ],
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Continuation of MATE483. Completion of a senior project data analysis and communication under the guidance of a faculty supervisor. Mathematical modeling and technical communication.",
+      "format": "2 laboratories."
+    },
+    {
+      "id": "CalPoly_MATE 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Full - time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. A more fully developed formal report and evaluation by work supervisor required. Credit / No Credit grading only. No major credit allowed ; total credit",
+      "grading": "limited to 24 units."
+    },
+    {
+      "id": "CalPoly_MATE 500",
+      "course name": "Individual Study",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Advanced study planned and completed under the direction of a member of department faculty. Open only to graduate students who have demonstrated ability to do independent work. Enrollment by petition. Total credit",
+      "grading": "limited to 12 units."
+    },
+    {
+      "id": "CalPoly_MATE 510",
+      "course name": "Materials Analysis",
+      "prerequisite": [
+        "MATE 210"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Fundamentals of materials characterization methods and thin - film microanalytical techniques, including optical techniques, electron microscopy, X - ray techniques, and ion beam techniques. Selection of surface analysis techniques.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 522",
+      "course name": "Advanced Ceramics",
+      "prerequisite": [
+        "MATE 210"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Development, utilization, and control of properties in ceramic materials ( inorganic - nonmetallic solids ). Emphasis on application on processing to achieve structure and properties. Structure of crystalline ceramics and of glasses. Mechanical, thermal, optical, magnetic, and electrical properties. Application of ceramics in technology. Physical chemistry of ceramics.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 530",
+      "course name": "Biomaterials",
+      "prerequisite": [
+        "BIO 161",
+        "MATE 210"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Structure - function relationships for materials in contact with biological systems. Interactions of materials implanted in the body. Histological and hematological considerations including foreign body responses, inflammation, carcinogenicity, thrombosis, hemolysis, immunogenic and toxic properties. Microbial interaction with material surfaces, degradation. 4 lectures. Crosslisted as BMED / MATE530."
+    },
+    {
+      "id": "CalPoly_MATE 550",
+      "course name": "Micro Systems",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Fundamentals of intelligent systems employing sensors, actuators and intelligent controls. Impact on material properties as devices shrink in the micrometer realm. Applications toward exploring nanotechnology.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 570",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for graduate students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 571",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_MATE 590",
+      "course name": "Solidification and Densification",
+      "prerequisite": [
+        "MATE 210"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Thermodynamics, kinetics and morphologies of solid - liquid interfaces. Heat flow in castings, crystal growth. Solidification mechanics, solute redistribution. Production, characterization and testing of metal powders. Compacting of powder. Sintering with / without liquid phase. Hot pressing, properties of sinterings as a function of processing conditions. Application of theory to the production of useful materials.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_MATE 599",
+      "course name": "Design Project (Thesis)",
+      "units": "2-5 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Each individual or group will be assigned a project for solution under faculty supervision as a requirement for the master 's degree, culminating in a written report / thesis."
+    }
+  ]
+}

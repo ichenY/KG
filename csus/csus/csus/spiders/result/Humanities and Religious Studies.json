@@ -1,0 +1,745 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Comparative inquiry into the nature of global religions, including Hinduism, Buddhism, Confucianism, Daoism, Judaism, Christianity, and Islam. Experiential, social, and material aspects of religions will be considered as well as beliefs and practices.", 
+      "id": "CSUS_HRS 4", 
+      "course name": "Exploring World Religions"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the literature, art, architecture, philosophy and history of the ancient and medieval West, with emphasis on classical Greece and Rome and the European Middle Ages.", 
+      "id": "CSUS_HRS 10", 
+      "course name": "Arts and Ideas of the West: Ancient to Medieval"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the literature, art, architecture, music,  philosophy, and history of the West from the Renaissance to the present.", 
+      "id": "CSUS_HRS 11", 
+      "course name": "Arts and Ideas of the West: Renaissance to Modern"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University.  Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills.", 
+      "id": "CSUS_HRS 21", 
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Introduction to the cultural history of ancient and early medieval Asia incorporating examples of art, literature, philosophy, and religion, providing a survey of China, India, and several other distinct cultures of the areas surrounding them--especially Japan.", 
+      "id": "CSUS_HRS 70", 
+      "course name": "Arts and Ideas of Asia: Ancient to Medieval"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Introduction to the cultural history of late medieval and modern Asia incorporating examples of art, literature, philosophy, and religion, providing a survey of China, India, and several other distinct cultures of the areas surrounding them--especially Japan.", 
+      "id": "CSUS_HRS 71", 
+      "course name": "Arts and Ideas of Asia: Medieval to Modern"
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Advanced study of  interdisciplinary methods applied to the arts, including literature, music and other modes of humanistic expression. ", 
+      "course name": "Approaches to the Humanities", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 105", 
+      "prerequisite": [
+        "HRS 10", 
+        "HRS 11"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Exploration of the history and methodology of Religious Studies, including the analysis of several significant theories of the origin and function of religion.  Methods and theories drawn from the disciplines of psychology, sociology, history, anthropology, philosophy and feminist studies.", 
+      "id": "CSUS_HRS 108", 
+      "course name": "Approaches to Religious Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Examination of the Golden Age of Athens and the birth of Western humanism; studies in the classical ideals, tragedy, comedy, poetry, history, philosophy, art and architecture.", 
+      "id": "CSUS_HRS 113", 
+      "course name": "The Culture of Classical Greece"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Study of Roman culture and its influence.  Emphasis on art, architecture, literature, history, philosophy and religion of Rome from the early Republic to the end of the Western Empire.", 
+      "id": "CSUS_HRS 114", 
+      "course name": "The Culture of Classical Rome"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A focused study of ancient Roman culture as understood through investigation of materials artifacts, especially as found in archaeological sites and museum exhibits. The majority of course time will be spent in Rome and in Pompeii and other locations near Bay of Naples. Visits to archaeological sites and museums will be supplemented by readings of relevant texts and by ongoing discussion.", 
+      "id": "CSUS_HRS 115", 
+      "course name": "Material Culture of Ancient Rome"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Survey of ancient Roman paganism, the wide variety of religious beliefs, practices, and institutions found throughout the Roman world.  Topics include Greek influences, traditional religion, state and ruler cults, healing cults, oracles, astrology, mystery religions, priests and priestesses, prayer, sacrifice, and religious philosophies.", 
+      "id": "CSUS_HRS 117", 
+      "course name": "Paganism in the Roman World"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Study of Greek and Roman myths and hero tales and their place in the arts and literature of Western civilization.  Also provides an introduction to the general nature and function of myth.", 
+      "id": "CSUS_HRS 119", 
+      "course name": "Classical Mythology"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of the conflicting cultures that have shaped the social, religious and ethical perspectives of Western Culture. Readings in the Bible, Plato, Greek drama, the New Testament, and church fathers. ", 
+      "course name": "Reason and Revelation: The Origins of Western Culture.", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 120", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Survey of the historical narratives and other literature of the Bible, analysis of archeological evidence and introduction to the basic problems of textual criticism.  Topics of study will include the origins and development of early Judaism and its interaction with surrounding cultures.", 
+      "id": "CSUS_HRS 121", 
+      "course name": "Introduction to the Hebrew Bible/Old Testament"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Study of the New Testament literature in its historical and cultural setting. Topics covered include the literary relationships of the four Gospels, the historical Jesus, the evolution of early Christianity, and the diverse theologies represented in the letters of Paul and other canonical and non-canonical writings.", 
+      "id": "CSUS_HRS 122", 
+      "course name": "Introduction to the New Testament"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Christianity from Jesus to Martin Luther. Emphasis on the evolution of Christian thought and institutions and the relationship of the Church to popular culture and secular powers. ", 
+      "course name": "History of Christianity to the Reformation", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 126", 
+      "prerequisite": [
+        "HIST 126"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "European Christianity from the Reformation to the present. Emphasis on the evolution of Christian thought, the co-existence of the Catholic and Protestant traditions and the relationship of religious and secular values in European society. ", 
+      "course name": "History of Christianity Since the Reformation", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 127", 
+      "prerequisite": [
+        "HIST 127"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Decline of Rome to the Renaissance. Emphasis on the cultural development of the West from the Germanic invasions until the advent of Humanism with attention to theology, art, architecture and literature to illustrate the dynamics of these diverse years.", 
+      "id": "CSUS_HRS 131", 
+      "course name": "Medieval Culture"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Investigates the nature and implications of Renaissance Humanism in Italy (14th and 15th centuries) as well as its impact in Northern Europe in the 16th century. Includes the literary works of such writers as Petrarch, Pico, Machiavelli, Erasmus and Cervantes, along with the art of Giotto, Botticelli, Michelangelo, Brunelleschi, Cellini, Dufay, da Vinci, and the music of Palestrina. ", 
+      "course name": "Renaissance.", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 132", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Multi-faceted survey of the culture of Europe and North America in the Age of the Baroque and Enlightenment (1600-1792).  Emphasizes literature, music, painting, architecture and ideas in France, Britain, Germany and Italy.", 
+      "id": "CSUS_HRS 134", 
+      "course name": "Baroque and the Enlightenment"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Interdisciplinary survey of the cultures of Europe and North America in the 19th century.  Building on the Romantic aesthetic developed late in the 18th century.  Considers the literature, music, painting and ideas of northern Europe and America until the 1900s.", 
+      "id": "CSUS_HRS 135", 
+      "course name": "Romanticism and Revolution"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Investigation of those crises in art and society underlying the development of modernism and post-modernism.", 
+      "id": "CSUS_HRS 136", 
+      "course name": "Birth Of The Modern"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Exploration of concepts and expressions of postmodernism and its emphasis on irony, citation, and the interconnectedness of politics, aesthetics, and philosophy across the disciplines (art, literature, architecture, film) and the continents (Europe, Asia, Africa, America and Latin America).", 
+      "id": "CSUS_HRS 137", 
+      "course name": "Global Crossings: Art and Culture 1945 to Present"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Survey and analysis of the fundamental tenets of Judaism set within the context of the historical and intellectual development of the Jewish People.", 
+      "id": "CSUS_HRS 141", 
+      "course name": "Introduction To Judaism"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Study of the beliefs, practices, institutions and history of the Christian religion. Emphasis on the Orthodox, Roman Catholic, and Protestant traditions and the relationship of Christianity to global cultures.", 
+      "id": "CSUS_HRS 142", 
+      "course name": "Introduction to Christianity"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Survey of the Islamic way of life: its beliefs, traditions and practices from Quranic origins and the Sunna of the Prophet Muhammad. The historical development of Islamic law, religious sects, mysticism, and intellectual thought of the global Muslim community from medieval to contemporary times.", 
+      "id": "CSUS_HRS 144", 
+      "course name": "Introduction To Islam"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Survey of the expression of Islamic values in religious practice, philosophy, theology, art, architecture, music, and literature in different geographic locations and historical periods.", 
+      "id": "CSUS_HRS 145", 
+      "course name": "Introduction to Islamic Cultures"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "An inquiry into the history and development of Islam in United States. Special emphasis will be placed on issues related to race, ethnicity, gender, ritual practice, and the politics of being Muslim in America.", 
+      "id": "CSUS_HRS 146", 
+      "course name": "Islam in America"
+    }, 
+    {
+      "term": "Cross listed: ", 
+      "description": "Examines in cultural and historical perspective, drawing on both ancient and contemporary sources, the key practices and ideas of Buddhist traditions in India, China, Southeast Asia, Tibet, Japan, and other surrounding regions; as well as the more recent spread of these practices and ideas to Europe, North America, and Australia. ", 
+      "course name": "History of Buddhism", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 147", 
+      "prerequisite": [
+        "HIST 147"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Survey of African cultural and artistic forms which explores the intersection of culture and the humanities in different African contexts-past and present. Emphasizes the cultural diversity of the African continent, and surveys how different cultural, ethical, aesthetic, and religious values are expressed in literature, visual art, music, architecture, and ritual. Focuses primarily on sub-Saharan Africa.", 
+      "id": "CSUS_HRS 148", 
+      "course name": "African Arts and Cultures"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the nature and function of myth. The specific literature studied will be exclusive of classical mythology and because of the breadth of subject matter will vary in content. The mythology of at least four cultures will be covered each term.", 
+      "id": "CSUS_HRS 151", 
+      "course name": "World Mythology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the meaning of mysticism as a \"direct experience of ultimate reality\" in the world's religions.  The history, teachings, belief systems and scriptures of Hinduism, Buddhism, Daoism, Confucianism, Judaism, Christianity and Islam will be studied to illuminate the lives and works of each religion's great mystical thinkers.", 
+      "id": "CSUS_HRS 152", 
+      "course name": "Great Mystics of the World"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of primary sources dealing with the sacred dimensions of food and farming in pre-modern and modern world cultures. Attention paid to sustainable, small-scale farming, and spiritual perspectives that promote and reinforce sustainable food practices. Interested students may receive one additional unit of credit for 20 hours of work with a local organization involved in farming and/or local food distribution through the Community Engagement Center and reflection assignments relating this work to course materials.", 
+      "id": "CSUS_HRS 154", 
+      "course name": "Food, Farming, and the Sacred"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Comparative inquiry into the critical connection between religion and nature.  Traditional views of selfhood, the sacred, morality and specific ecological issues, such as energy consumption will be examined through representative sources in world religions.", 
+      "id": "CSUS_HRS 155", 
+      "course name": "Spirit and Nature"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Topically structured, interdisciplinary introduction to the cultural experiences of historically under-represented groups. Historical and contemporary events, as well as values and beliefs in American culture, are examined through various artistic expressions, such as music, painting and literature.", 
+      "id": "CSUS_HRS 161", 
+      "course name": "Multicultural America."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the ways in which physical spaces within America contribute to the formation of American identities and vice versa.  Interdisciplinary and topically organized, analyzes both exterior and interior spaces: city, suburb, regions, body, mind, and the borderlands, to name a few.  Also studies the interaction of race, class, gender, and sexuality with space and identity.", 
+      "id": "CSUS_HRS 162", 
+      "course name": "American Space and Identity"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Interdisciplinary survey of major events, trends and figures in American history viewed through the lenses of American literature, visual arts, music and architecture. The arts in America are studied in relation to major ideas, significant personalities and important historical events from the period of the early republic to the present. ", 
+      "course name": "", 
+      "units": "3 Units", 
+      "id": "CSUS_ ", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X", 
+        "HIST 168"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Chronological survey of American films and their cultural significance from the 1890s to the present.  Focus on films produced in Hollywood, the contexts in which they were created and the impact of Hollywood as a geographical and mythical place in the development of American culture. ", 
+      "course name": "Hollywood and America", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 169", 
+      "prerequisite": [
+        "HIST 169"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Introduction to the field study of religious communities.  Addresses the nature of religious pluralism in the U.S. today.  The practice and belief systems of at least five different religious communities will be studied each semester.  Students are required to do an in-depth term project based on research in one or more religious communities ", 
+      "course name": "The Religious Landscape of the Sacramento Valley.", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 170", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X", 
+        "ANTH 170"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Comparative study of the cultural heritages of China and Japan through literature, art, religion, philosophy and history.  East Asian modes of thinking and humanistic expressions will be identified and contrasted with those of the West.", 
+      "id": "CSUS_HRS 171", 
+      "course name": "Introduction to the East Asian World"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to classical Chinese culture through a survey of history,  philosophy, religion, literature and art. The course identifies the uniqueness of Chinese culture as well as the common concerns it shares with other high cultures.", 
+      "id": "CSUS_HRS 172", 
+      "course name": "The Classical Culture of China"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of Chinese philosophic and religious ideas through representative works in English. The traditional Chinese views on human nature, society, politics, morality, and spirituality are examined. The Chinese transformation of Buddhism will also be discussed. The inner dynamics of traditional Chinese thought and its contemporary implications are explored.", 
+      "id": "CSUS_HRS 173", 
+      "course name": "Chinese Philosophy and Religion"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of representative Japanese literature (in English translation) from the late Tokugawa through the modern period.  Traditional Japanese values will be identified and Japan's journey toward modernity examined.  Both the uniqueness of Japanese culture and common concerns among cultures will be explored.", 
+      "id": "CSUS_HRS 174", 
+      "course name": "Modern Japanese Literature and Culture"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Mystical nature of Daoist and Zen teachings will be emphasized.  The organic linkage between Daoism in China and Buddhism in India will be explored.  The emergence of Zen as a quintessential representative of East Asian cultural and aesthetic values will be discussed.", 
+      "id": "CSUS_HRS 175", 
+      "course name": "Zen Buddhism and Daoism"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of the Confucian tradition as it unfolded in China and influenced China's East Asian Neighbors. Philosophical and religious dimensions, as well as the evolution and transformation of this uniquely Chinese tradition over time, will be studied. The Confucian influence on Chinese culture, philosophy, religion, literature, political structure and social organization will be identified and analyzed.", 
+      "id": "CSUS_HRS 176", 
+      "course name": "The Confucian Tradition"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "An introduction to the bewildering diversity of Indian religions, relating religious practices & ideas to broader cultural developments, including visual arts and literature. Focuses on the way Hindu, Buddhist, Jain and Sikh traditions address the concept of karma in distinctive ways, paying special attention to the way words and intentions are said to influence the consequences of a person's deeds.", 
+      "id": "CSUS_HRS 178", 
+      "course name": "Religions of India"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to religious life on the Indian subcontinent during its ancient period, relating religious practices and ideas to broader cultural developments, including visual arts and literature.", 
+      "id": "CSUS_HRS 178A", 
+      "course name": "Religions of India I: The Formative Period"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A survey of Hindu religious teachings, stories, and history, as expressed through the holy days and festivals celebrated each fall by Hindus throughout India and abroad, during which ideas, stories, and values are transmitted from one generation to the next. Examines the little understood and rarely discussed historical development behind each celebration, based on both ancient and contemporary sources, thereby reveling why Hindu ideas and history have remained compelling to Hindus for thousands of years.", 
+      "id": "CSUS_HRS 179A", 
+      "course name": "The Hindu Year: Fall"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A Survey of Hindu religious teachings, stories, and history, as expressed through the holy days and festivals celebrated each spring and summer by Hindus throughout India and abroad, during which ideas, stories, and values are transmitted from one generation to the next. Examines the little understood and rarely discussed historical development behind each celebration, based on both ancient and contemporary sources, thereby revealing why Hindu ideas and history have remained compelling to Hindus for thousands of years.", 
+      "id": "CSUS_HRS 179B", 
+      "course name": "The Hindu Year: Spring"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the aesthetics of cinema with special attention to the evolution of critical theories of cinema within the framework of twentieth century arts and ideas.", 
+      "id": "CSUS_HRS 180", 
+      "course name": "The Film"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of contemporary film and film criticism from an interdisciplinary perspective, stressing the links between film, literature, the visual arts and society.", 
+      "id": "CSUS_HRS 181", 
+      "course name": "Contemporary Issues in Film"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Summer only", 
+      "description": "Examination of the religious and spiritual dimensions of selected films from around the world.  The cinematic arts are examined in relationship to religious and spiritual concerns, concepts, and values.", 
+      "id": "CSUS_HRS 183", 
+      "course name": "World Religions and Cultures in Cinema"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of major social issues confronting American women, examined through their images in film and other visual and literary arts.", 
+      "id": "CSUS_HRS 185", 
+      "course name": "Women in Film and American Culture"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Exploration of the aesthetic of fantasy.  Approaches may include emphasis on the historical development of the quest-romance or the use of the fantastic as social commentary.  Particular genres, such as science fiction, may be explored.", 
+      "id": "CSUS_HRS 188", 
+      "course name": "Fantasy and Romance"
+    }, 
+    {
+      "term": "Cross listed: ", 
+      "description": "Seminar for Humanities and Religious Studies majors. Examines cultural constructions of the body through analysis of art and literature and through the insights of media studies, cultural studies, sociological, psychology, and anthropology. ", 
+      "course name": "Seminar in HRS: The Body", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 190B", 
+      "prerequisite": [
+        "HRS 290B"
+      ]
+    }, 
+    {
+      "term": "Cross listed: ", 
+      "description": "Seminar for Humanities and Religious Studies majors. Examines philosophies and theories of perception as applied to cultures, religious traditions, nature, film and literature. Investigates consciousness through examination of the subjectivity of human perception. ", 
+      "course name": "Seminar in HRS: Many Realities of Consciousnes", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 190C", 
+      "prerequisite": [
+        "HRS 290C"
+      ]
+    }, 
+    {
+      "term": "Cross listed: ", 
+      "description": "Seminar for Humanities and Religious Studies majors. Examines myths, theories, and perceptions of death and afterlife in cross-cultural and historical perspective through analysis of literature, the visual arts, and music.   ", 
+      "course name": "Seminar in HRS: Death and Afterlife", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 190D", 
+      "prerequisite": [
+        "HRS 290D"
+      ]
+    }, 
+    {
+      "term": "Cross listed: ", 
+      "description": "Seminar for Humanities and Religious Studies. Examines the hero in cross-cultural and historical perspective through analysis of visual artifacts, literature, history, philosophy, music and film. ", 
+      "course name": "Seminar in HRS: The Hero", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 190H", 
+      "prerequisite": [
+        "HRS 290H"
+      ]
+    }, 
+    {
+      "term": " ", 
+      "description": "Seminar in Humanities and Religious Studies majors. Examines the role of the body in the creation of saints' cults in medieval Europe through analysis of literature and art. Considers how the idea of martyrdom set the terms for an ideal Christian life and explores the role relics, pilgrimage and miracle stories played in medieval society. ", 
+      "course name": "Saints, Relics, and Miracles in Late Antique and Medieval Europe", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 190M", 
+      "prerequisite": [
+        "HRS 290M"
+      ]
+    }, 
+    {
+      "term": " May be repeated once for credit.  ", 
+      "description": "Senior seminar for Humanities and Religious Studies majors with Humanities Concentration; focuses on the perspectives and methods of the academic study of the humanities. Topics chosen by the instructor. ", 
+      "course name": "Seminar in Humanities", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 195", 
+      "prerequisite": [
+        "HRS 105"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be taken twice for credit if topic differs.  ", 
+      "description": "Special experimental course on specific themes, figures, or topic areas. ", 
+      "id": "CSUS_HRS 196", 
+      "course name": "Experimental Offerings in Humanities and Religious Studies"
+    }, 
+    {
+      "term": " May be repeated once for credit.  ", 
+      "description": "Senior seminar for Humanities and Religious Studies majors with Religious Studies Concentration; focuses on the perspectives and methods of the academic study of religion. Topics chosen by the instructor. ", 
+      "course name": "Seminar in Religious Studies", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 198", 
+      "prerequisite": [
+        "HRS 108"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " May be repeated for credit. ", 
+      "description": "Tutorial-reading course involving independent research. Topic and research method to be decided upon jointly by student and instructor. ", 
+      "id": "CSUS_HRS 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Interdisciplinary seminar on cultural movements, figures, and art forms of eras from prehistory to the Europen Middle Ages. Focus on the West with some global comparison. Emphasis on theoretical perspectives, methods, and research techniques germane to the humanaties. ", 
+      "id": "CSUS_HRS 200A", 
+      "course name": "Culture and Expression: Prehistory to the Middle Ages"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Interdisciplinary seminar on cultural movements, figures and art forms of eras from the Renaissance to the present.  Focus on the West with some global comparison.  Emphasis on theoretical perspectives, methods and research techniques germane to the liberal arts. ", 
+      "id": "CSUS_HRS 200B", 
+      "course name": "Culture and Expression: Renaissance to the Present."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to critical methodologies in the Humanities and to techniques of formal analysis as applied to specific eras and artworks in Western cultural history. ", 
+      "id": "CSUS_HRS 202", 
+      "course name": "Western Aesthetics: Traditions and Revision"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Introduction to significant philosophical issues involving space and  time. An investigation into the current state of these issues. ", 
+      "course name": "Space and Time", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 205", 
+      "prerequisite": [
+        "PHIL 192D"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Traces the stages through which the concept of the \"self\" emerges in Western literature, philosophy and the arts, from Antiquity to the 20th Century. Focus is on the transformation of moral identity as the West moves from a divinely ordered cosmos to a relativized universe.", 
+      "id": "CSUS_HRS 209", 
+      "course name": "Versions of the Self in Western Literature and the Arts"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Exploration of the relationships and roles of women and men in the context of religious life.  May focus extensively on one or more particular religious traditions cross-culturally, or draw on a wider spectrum of examples.  Special attention paid to the complementary nature of men's and women's roles in many religious traditions; and also the way that male perspectives have dominated many areas of formal religious discourse, noting the dissenting voices of women often hidden in more informal types of expression. ", 
+      "course name": "Gender and Religion in Cross-Cultural Perspective", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 210", 
+      "prerequisite": [
+        "LIBA 210"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A graduate-level survey of ancient Greek culture. Emphasis on social and private life, religion, historiography, literature, philosophy, drama, art, and architecture.", 
+      "id": "CSUS_HRS 213", 
+      "course name": "Ancient Greek Culture"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A graduate-level survey of Roman culture. Emphasis on social and private life, religion, historiography, literature, philosophy, drama, art, and architecture.", 
+      "id": "CSUS_HRS 214", 
+      "course name": "Ancient Roman Culture"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Multicultural exploration of how our nation's history has been constructed, experienced, told and valued from varying ethno-cultural points of view, including each student's personal history.", 
+      "id": "CSUS_HRS 216", 
+      "course name": "Historical Reflections on the American Dream"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Inquiry into the issues, theories, and methods associated with popular and material culture studies in order to provide students with insights into the past and present nature of American experience. Intended to be an exploration of the ways in which popular and material culture both reflect and contribute to the search for meaning in everyday life.", 
+      "id": "CSUS_HRS 217", 
+      "course name": "Ordinary America"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to offer a variety of topics in the study of religion.  Seminar presents a rotating series of subjects ranging from ancient religious literature to contemporary religious problems.", 
+      "id": "CSUS_HRS 220", 
+      "course name": "Seminar in Religious Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Seminar traces the historical origin and cultural evolution of the God concept in monotheistic religions. Topics include the archaeological record of humanity's earliest religious artifacts, evidence for the prehistoric worship of the \"Great Goddess\" figure, an examination of the polytheistic religions of the ancient Near East and their influence on the development of monotheism. Analyzes the evolving portrait of the Deity in the Hebrew Bible (Old Testament), the New Testament, and the Koran.", 
+      "id": "CSUS_HRS 222", 
+      "course name": "Evolving Concepts of God: Portrait of Deity in Monotheistic Religions"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Survey of the major religious beliefs and practices in the Greco-Roman world from 100B.C.E. -- 400C.E. Topics include  traditional Greek and Roman religions, healing cults, philosophical religion and Gnosticism.", 
+      "id": "CSUS_HRS 224", 
+      "course name": "Religions of the Roman Empire"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Examines two of the more creative literary genres that make up the canonical and deuterocanonical literature of the Jewish and Christian bibles.  Both the historical and theological underpinnings of wisdom and apocalyptic writing will be explored in-depth, with some consideration given to literary analogues in Egyptian, Mesopotamian and Greek culture.  Significant research into wisdom and apocalyptic writings outside of the testamental framework required. ", 
+      "course name": "Wisdom and Apocalyptic Literature", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 226", 
+      "prerequisite": [
+        "LIBA 226"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Survey of the major genres of Christian literature in the first three centuries CE and their relationship to the development of Christian thought and institutions. Topics include the New Testament; Jewish-Christian literature; Gnostic Christian literature; apocryphal gospels, acts, epistles, and apocalypses; polemical literature; lives of saints; and canons and creeds produced by early church councils.", 
+      "id": "CSUS_HRS 228", 
+      "course name": "Early Christian Literature"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Arts and ideas of the twelfth and thirteenth centuries in Western Europe, structured according to the principle of the \"reconciliation of opposites.\"  The Gothic period sees such opposites as faith and reason, vertical and horizontal (in architecture), counterpoint brought into harmony (in music).  The period culminates in Dante's masterpiece, the Divine Comedy, which exhibits the reconciliation of opposites in such sets as female/male, faith/reason, human/divine, beauty/horror, and chaos/harmony.", 
+      "id": "CSUS_HRS 234", 
+      "course name": "The Gothic Spirit"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Interdisciplinary study of Romanticism and other literary, philosophical, and artistic movements of the 18th and 19th centuries. Topics will vary from term to term.", 
+      "id": "CSUS_HRS 235", 
+      "course name": "Transcendence & Transgression in the Romantic Period"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Interdisciplinary studies in the arts of the modern era. ", 
+      "id": "CSUS_HRS 236", 
+      "course name": "Modernism: Contingent Realities of Self and World"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This seminar is an exploration of how \"the global\" is conceptualized in an age with competing notions of the individual and the community. Special emphasis will be placed on race, class, ethnicity & gender to elucidate the many paths that thought, language, and identity take when traversing borders.", 
+      "id": "CSUS_HRS 237", 
+      "course name": "Global Citizenship and Culture"
+    }, 
+    {
+      "term": "Cross listed: ", 
+      "description": "Seminar for graduate students studying in the Department of Humanities and Religious Studies. Examines cultural constructions of the body through analysis of art and literature and through the insights of media studies, cultural studies, sociology, psychology, and anthropology. ", 
+      "course name": "Seminar in HRS: The Body", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 290B", 
+      "prerequisite": [
+        "HRS 190B"
+      ]
+    }, 
+    {
+      "term": "Cross listed: ", 
+      "description": "Seminar for graduate students studying in the Department of Humanities and Religious Studies. Examines philosophies and theories of perception as applied to cultures, religious traditions, nature, film and literature. Investigates consciousness through examination of the subjectivity of human perception. ", 
+      "course name": "Seminar in HRS: The Many Realities of Consciousness", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 290C", 
+      "prerequisite": [
+        "HRS 190C"
+      ]
+    }, 
+    {
+      "term": "Cross listed: ", 
+      "description": "Seminar for graduate students studying in the Department of Humanities and Religious Studies. Examines myths, theories, and perceptions of death and afterlife in cross-cultural and historical perspective through analysis of literature, the visual arts, and music.   ", 
+      "course name": "Seminar in HRS: Death & Afterlife", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 290D", 
+      "prerequisite": [
+        "HRS 190D"
+      ]
+    }, 
+    {
+      "term": "Cross listed: ", 
+      "description": "Seminar for graduate students studying in the Department of Humanities and Religious Studies. Examines the hero in cross-cultural and historical perspective through analysis of visual artifacts, literature, history, philosophy, music and film. ", 
+      "course name": "Seminar in HRS: The Hero", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 290H", 
+      "prerequisite": [
+        "HRS 190H"
+      ]
+    }, 
+    {
+      "term": " ", 
+      "description": "Seminar for graduate students in Department of Humanities and Religious Studies. Examines the role of the body in the creation of saints' cults in medieval Europe through analysis of literature and art. Considers how the idea of martyrdom set the terms for an ideal Christian life and explores the role relics, pilgrimage and miracle stories played in medieval society. ", 
+      "course name": "Saints, Relics, and Miracles in Late Antique and Medieval Europe", 
+      "units": "3 Units", 
+      "id": "CSUS_HRS 290M", 
+      "prerequisite": [
+        "HRS 190M"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be taken twice for credit if topic differs.  ", 
+      "description": "Special graduate-level experimental course on specific themes, figures or topic areas. Scheduled as needed. ", 
+      "id": "CSUS_HRS 296", 
+      "course name": "Experimental Offerings in Humanities & Religious Studies"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Graduate level tutorial-reading course involving independent research.  Topic and research method to be decided upon jointly by student and instructor. ", 
+      "id": "CSUS_HRS 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis or comprehensive examination. ", 
+      "id": "CSUS_HRS 500", 
+      "course name": "Culminating Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "HRS", 
+    "subject": "Humanities and Religious Studies"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Humanities and Religious Studies", 
+    "id": "CSUS"
+  }
+}

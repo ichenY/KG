@@ -1,0 +1,401 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Primarily for non-majors interested in acquiring a background of information in theatre.  Plays, history, acting theories, technical methods and people in the theatre.  Lectures, demonstrations and discussions will characterize the greater portion of the course.", 
+      "id": "CSUS_THEA 1", 
+      "course name": "Introduction To Theatre"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Broad survey of the nature and development of theatrical performance from ancient times through the Renaissance which emphasizes the relationship between theatre and the larger philosophical social and political concerns of its time.", 
+      "id": "CSUS_THEA 2", 
+      "course name": "History of the Theatre:  Ancient to Renaissance"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Investigates the relationship between the development of theatre styles, structures and institutions, and philosophical, political, and cultural practices after 1660.  Considers plays, production styles,  theatre as an institution, and issues of representation of gender, race and class.", 
+      "id": "CSUS_THEA 3", 
+      "course name": "Theatre History"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Interpretations of seminal dramatic scripts emphasizing the aesthetics of the theatrical art in relation to the cinematic medium.", 
+      "id": "CSUS_THEA 5", 
+      "course name": "Aesthetics of Theatre and Film"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the art of acting, including a review of actors and acting - past and present.  Basic exercises in voice and diction, movement, and character will be utilized.", 
+      "id": "CSUS_THEA 9", 
+      "course name": "Appreciation Of Acting"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "An introduction to, and a solid working foundation of, the basic building blocks of the acting craft. Through ensemble building, personal reflection, physical commitment, and vocal awareness exercises, students have the opportunity to improve and grow as an actor in both individual and partnered performance. Key learning goals include the ability to understand, interpret and execute the foundational elements of drama (plot, character, thought, and language). ", 
+      "id": "CSUS_THEA 11", 
+      "course name": "Acting Study I"
+    }, 
+    {
+      "term": " without instructor permission. ", 
+      "description": "This course provides a comprehensive look at the technical side of stage makeup and stage costumes, with an emphasis on makeup application and costume construction. Students learn use of materials, equipment, theatre terminology, and the practical aspects of costume and stage makeup realization. Students work on costume and makeup projects from start to finish in the makeup lab and costume shop. ", 
+      "course name": "Stage Makeup and Costume Construction", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 14", 
+      "prerequisite": [
+        "THEA 16", 
+        "THEA 20"
+      ]
+    }, 
+    {
+      "term": " without instructor permission. ", 
+      "description": "Principles of scenic and stage prop construction, techniques of mounting and shifting stage scenery, and the study of ground plans and construction drawings for theatrical production. Lecture/lab activity. ", 
+      "course name": "Stagecraft", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 16", 
+      "prerequisite": [
+        "THEA 14", 
+        "THEA 20"
+      ]
+    }, 
+    {
+      "term": " without instructor permission. ", 
+      "description": "Principles of stage lighting, fixtures, control and color. Introduction to basic concepts and practices of lighting design. Lecture/lab activity. ", 
+      "course name": "Lighting", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 20", 
+      "prerequisite": [
+        "THEA 14", 
+        "THEA 16"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University. Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills. Students will have the opportunity to interact with fellow classmates and the seminar leader to build a community of academic support and personal support.", 
+      "id": "CSUS_THEA 21", 
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Through lecture and discussion, students explore the foundational elements of play scripts. The class investigates the structure of a play as well as its use of character, thought, plot, diction, song, and spectacle to analyze how a play's social and cultural elements inform potential productions. ", 
+      "course name": "Script Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 100", 
+      "prerequisite": [
+        "THEA 2", 
+        "THEA 3", 
+        "THEA 3"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to the basic fundamentals of voice production and movement for the actor. Basic anatomy and physiology, relaxation, alignment, and breath work and its connection to movement. Feldenkrais, the Alexander Technique, and physical strengthening exercises are used in combination with vocal exercises to develop the actor's voice and body. Vocal and physical improvisation are introduced through various voice and movement exercises. ", 
+      "course name": "Voice and Movement I", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 102A", 
+      "prerequisite": [
+        "THEA 11"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Strengthening and enhancing the vocal work developed in Voice and Movement I is continued with an in depth study of the International Phonetic Alphabet and its importance when performing heightened language plays. Solo presentation and a devised final ensemble project round out the course requirements. ", 
+      "course name": "Voice and Movement II", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 102B", 
+      "prerequisite": [
+        "THEA 11", 
+        "THEA 102A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "To further develop the basic concepts of acting through scene work from the American modern repertoire. Particular emphasis is placed on the importance of a play's given circumstances, and the commitment required to make bold, active tactic choices when developing a character. Further investigation of the actor's process in analyzing text and incorporating research through character analysis, as it ties into performance, are explored.  ", 
+      "course name": "Acting Study II", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 104", 
+      "prerequisite": [
+        "THEA 11", 
+        "THEA 102A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Exploration of the major movements in Latin American cinema beginning with the initial impetus of the Argentine and Mexican film industry of the late 1940's and the relationship of their aesthetic formulas to the cultural and socio/political climate of major Latin American nations.", 
+      "id": "CSUS_THEA 106", 
+      "course name": "Latin American Film"
+    }, 
+    {
+      "term": " Field trip.   ", 
+      "description": "Practical experience in production procedures, characterization and basic principles of play direction. Analyzes directing techniques. Class typically attends a rehearsal and performance at Capital Stage (professional theatre in Midtown). ", 
+      "course name": "Directing", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 107", 
+      "prerequisite": [
+        "THEA 2", 
+        "THEA 3", 
+        "THEA 11", 
+        "THEA 14", 
+        "THEA 16", 
+        "THEA 20", 
+        "THEA 100"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Practical study in singer-actor performance techniques. Major consideration is given to coordination of gesture and/or choreography, dialogue, melody, and lyric. ", 
+      "course name": "Musical Theatre", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 109", 
+      "prerequisite": [
+        "THEA 11"
+      ]
+    }, 
+    {
+      "term": " May be taken twice for credit.  ", 
+      "description": "The study of ways to research, rehearse and perform advanced acting styles and techniques with an emphasis on text analysis, given circumstances, subtext, and heightened language. ", 
+      "course name": "Acting Study III: Advanced Acting", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 110", 
+      "prerequisite": [
+        "THEA 11", 
+        "THEA 102A", 
+        "THEA 102B", 
+        "THEA 104"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "An in-depth study of the business of becoming a working professional actor and the techniques needed when auditioning for a professional theatre company. Students prepare an audition repertoire that is appropriate to their age and type; audition for a panel of theatre professionals and receive feedback for both areas of skill and those needing improvement. Resumes, headshots, trade papers, skill sets, and financial budgeting are examples of the areas included within the content of this course. An introduction to television/commercial and musical theatre audition techniques is also incorporated. ", 
+      "course name": "Audition Technique", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 111", 
+      "prerequisite": [
+        "THEA 11", 
+        "THEA 102A", 
+        "THEA 104", 
+        "THEA 109"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " provides the vocal, physical, and analytical tools with which to approach this material in an intelligent and confident manner.  Scene and monologue work is detailed and extensive. ", 
+      "course name": "Acting Styles: Shakespeare", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 113", 
+      "prerequisite": [
+        "THEA 11", 
+        "THEA 102A", 
+        "THEA 102B", 
+        "THEA 104", 
+        "THEA 113"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Play production with puppets. Practical work in constructing and manipulating various kinds of puppets. Simple puppets for use at elementary level; hand puppet production. Lecture/lab activity.", 
+      "id": "CSUS_THEA 115", 
+      "course name": "Puppetry"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Multicultural puppetry was developed to introduce the student to the techniques and construction of puppetry and its use in a multicultural setting. Puppetry has been found to be an excellent tool for the teaching of multiculturalism to children. Emphasizes the methodology in the development of multicultural/multilingual scripts and their use in the implementation of curriculum. The ability to speak a second language is not a prerequisite.", 
+      "id": "CSUS_THEA 115A", 
+      "course name": "Multicultural Puppetry."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of special problems and techniques in the production of formal and improvisational drama for children; a consideration of techniques, methods and materials for use in the classroom to support and supplement curricular goals.", 
+      "id": "CSUS_THEA 118", 
+      "course name": "Children's Theatre"
+    }, 
+    {
+      "term": " requires students to work on one departmental production a semester for a minimum of 4 hours/week; may be repeated for credit. ", 
+      "description": "Practical experience in handling technical stagecraft problems, stage management, and crew management. Activity and participation in major productions. Four hours per week minimum required in workshop. ", 
+      "course name": "Practicum in Technical Production", 
+      "units": "1 Unit", 
+      "id": "CSUS_THEA 120A", 
+      "prerequisite": [
+        "THEA 120A"
+      ]
+    }, 
+    {
+      "term": " requires student to work on two departmental productions a semester for a minimum of 8 hours/week; may be repeated for credit. ", 
+      "description": "Practical experience in handling technical stagecraft problems, stage management, crew management. Activity and participation in major productions. Eight hours minimum a week required workshop. ", 
+      "course name": "Practicum in Technical Production", 
+      "units": "2 Units", 
+      "id": "CSUS_THEA 120B", 
+      "prerequisite": [
+        "THEA 120B"
+      ]
+    }, 
+    {
+      "term": " requires students to work on three departmental productions a semester for 12 hours/week; may be repeated for credit. ", 
+      "description": "Practical experience in handling technical stagecraft problems, stage management, and crew management. Activity and participation in major productions. 12 hours minimum a week required work shop. ", 
+      "course name": "Practicum in Technical Production", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 120C", 
+      "prerequisite": [
+        "THEA 120C"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Participation in the preparation, rehearsal and performance of a departmental production. Approximately 50 hours of participation (including rehearsal and performance time) for one unit of credit. Admission by audition. A total of six undergraduate units may be taken.", 
+      "id": "CSUS_THEA 121", 
+      "course name": "Rehearsal and Performance"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advancement in the methods of developing concepts for and of productions involving analysis of the script, research and spatial awareness in relation to scenic and lighting design. ", 
+      "course name": "Lighting and Set Design", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 123", 
+      "prerequisite": [
+        "THEA 16", 
+        "THEA 20"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Study of costume history, design elements, play and character analysis, rendering and presentation techniques, and production procedures. Practical experience in the basics of costume construction with a focus on character interpretation and collaboration with other theatre artists.", 
+      "id": "CSUS_THEA 131", 
+      "course name": "Costume Design"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Survey of the contributions of theatre artists in the African Diaspora. The reading list includes dramas from Africa, the Caribbean and United Stats and focuses on how social, cultural, and political climates influence Black Drama.", 
+      "id": "CSUS_THEA 140", 
+      "course name": "Black Drama in the African Diaspora"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Survey and performance course that focuses on identity theories and the contributions of contemporary female theatre artists. Lecture two hours; lab two hours. ", 
+      "course name": "Women and Theatre: Staging Diversity.", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 144", 
+      "prerequisite": [
+        "WOMS 144"
+      ]
+    }, 
+    {
+      "term": "Crosslisted: ", 
+      "description": "A historical review of the development of major international film styles and themes. Theoretical and critical concepts derived from this study of international film and then used as the basis to analyze contemporary films of South America, Europe, India, East Asia, Africa and the Middle East. Emphasis is on both the development of formal film techniques and a comparison of the unique cultural values that shape the film narrative style.  ", 
+      "course name": "Contemporary World Cinema", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 155", 
+      "prerequisite": [
+        "FILM 155"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Survey of African American theatre and drama as a reflection of African American history and culture from slavery to today. This is a writing-intensive course. ", 
+      "course name": "African American Theatre and Culture.", 
+      "units": "3 Units", 
+      "id": "CSUS_THEA 170", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of contemporary Chicano/Latino, Chicana/Latina theatre and drama from 1965 to the present, and its approaches toward performance. The course focuses on new trends, influences and new developments in playwriting, directing, performance styles, and its impact on the movie industry.", 
+      "id": "CSUS_THEA 173", 
+      "course name": "Contemporary Chicano/Latino Theatre: Themes and Performance 1965-Present"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of the historical and artistic contributions of Native Americans, Chicano/Latinos, African-Americans and Asian-Americans to American Theatre. Focuses on a range of plays from various ethnic and racial groups, forming a multicultural classroom experience; specifically study groups, from 1965 to the present, and examine the cultural, sociological and political climate in which these plays were created.", 
+      "id": "CSUS_THEA 174", 
+      "course name": "Multicultural Perspectives in American Theatre."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of the historical and artistic contributions of Native American, Chicano/Latino, African-Americans and Asian American to the American cinema. The course will concentrate on a range of films with an emphasis on multicultural theoretical and critical writings and will examine the cultural and socio-political climate in which these films were crafted.", 
+      "id": "CSUS_THEA 175", 
+      "course name": "Multicultural Perspectives in American Film."
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "This capstone course provides practical experience in theatrical production by focusing on the foundational elements of play production and the collaborative page-to-page production process.  ", 
+      "course name": "Senior Production", 
+      "units": "2 Units", 
+      "id": "CSUS_THEA 190", 
+      "prerequisite": [
+        "THEA 2", 
+        "THEA 3", 
+        "THEA 11", 
+        "THEA 14", 
+        "THEA 16", 
+        "THEA 20", 
+        "THEA 100", 
+        "THEA 120A", 
+        "THEA 104", 
+        "THEA 107", 
+        "THEA 121", 
+        "THEA 123", 
+        "THEA 131"
+      ]
+    }, 
+    {
+      "units": "3 - 12 Units", 
+      "term": " Open only to upper division or graduate students with appropriate course preparation.  ", 
+      "description": "Supervised employment in a company or producing agency working on theatre-related work, arranged through the Theatre and Dance Department and the Cooperative Education Program office. Requires preparation of application packet, completion of a 3-6 month full-time or part-time work assignment, and a written report. No more than 3 units will be counted towards the degree. ", 
+      "id": "CSUS_THEA 194", 
+      "course name": "Theatre-Related Work Experience"
+    }, 
+    {
+      "units": "2 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Internship with local theatre company or arts organization that provides direct, supervised experience with different aspects of performance and/or theatre management. Requires students to maintain a journal and submit a final paper to faculty internship coordinator. Graded: Credit/ No Credit Units: 2.00 - 3.00 ", 
+      "id": "CSUS_THEA 195", 
+      "course name": "Fieldwork"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Departmental petition required.  ", 
+      "description": "Individual project or directed reading. ", 
+      "id": "CSUS_THEA 199", 
+      "course name": "Special Problems in Theatre"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis, directing project, or playwriting project. ", 
+      "id": "CSUS_THEA 500", 
+      "course name": "Culminating Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "THEA", 
+    "subject": "Theatre"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Theatre", 
+    "id": "CSUS"
+  }
+}

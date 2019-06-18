@@ -1,0 +1,1423 @@
+{
+  "subjectOf": {
+    "id": "CSC",
+    "subject": "Computer Science"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Computer Science"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_CSC 101",
+      "course name": "Fundamentals of Computer Science",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Basic principles of algorithmic problem solving and programming using methods of top - down design, stepwise refinement and procedural abstraction. Basic control structures, data types, and input / output. Introduction to the software development process : design, implementation, testing and documentation. The syntax and semantics of a modern programming language. Credit not available for students who have taken CSC / CPE108.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC101.",
+      "similarTo": [
+        "CSUS_CSC 253"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 105",
+      "course name": "Fundamentals of Computer Science I Supplemental Instruction",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Facilitated study and discussion of fundamental concepts of computer science and familiarization with programming environments. Credit / No Credit grading only.",
+      "format": "1 laboratory.",
+      "other": "Crosslisted as CPE / CSC105.",
+      "similarTo": [
+        "CSUS_CSC 253"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 108",
+      "course name": "Accelerated Introduction to Computer Science",
+      "prerequisite": [
+        "MATH 118 (or equivalent) with a grade of C- or better"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Accelerated introduction to basic principles of algorithmic and object - oriented problem solving and programming. Introduction to programming language concepts including control structures, data types, classes, and inheritance. Program design principles. Use and implementation of algorithms ( searching, sorting, recursion ) and data structures ( lists, stacks, and queues ). Intended for students with experience in algorithmic problem solving and using basic control structures and data types in a modern programming language ( CPE / CSC101 ), but who are not ready for CPE / CSC202. Not open to students with credit in",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "CPE / CSC 102 or CPE / CSC202.",
+      "similarTo": [
+        "CSUS_CSC 35",
+        "CSUS_CSC 1A"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 123",
+      "course name": "Introduction to Computing",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Use of a supportive software development environment to design, develop, and test applications in a selected topic domain that demonstrates the potential of careers in computing. An introduction to computing and to the selected topic domain. The Schedule of Classes will list topic selected. No programming experience required. Not for students with credit in",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "CPE / CSC 103 or CPE / CSC203.",
+      "similarTo": [
+        "CSUS_CSC 1"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 171",
+      "course name": "Introduction to Interactive Entertainment",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Use of click - and - drag software application to create an entertaining or informative, socially responsible application, such as a game. Team collaboration to design, develop, and test applications. Focus on design, teamwork, and using an iterative development process. An enjoyable introduction to both computer science and interactive entertainment. No computer science experience required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+      "similarTo": [
+        "CSUS_CSC 199",
+        "CSUS_CSC 299"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 202",
+      "course name": "Data Structures",
+      "prerequisite": [
+        "MATH 141 or MATH 221 with a grade of C- or better"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to data structures and analysis of algorithms. Abstract datatypes. Specification and implementation of advanced data structures. Theoretical and empirical analysis of recursive and iterative algorithms. Software performance evaluation and testing techniques. Not open to students with credit in CSC / CPE108.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC202. Formerly CPE / CSC 103."
+    },
+    {
+      "id": "CalPoly_CSC 203",
+      "course name": "Project-Based Object-Oriented Programming and Design",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Object - oriented programming and design with applications to project construction. Introduction to class design, interfaces, inheritance, generics, exceptions, streams, and testing.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC203. Formerly CPE / CSC 102."
+    },
+    {
+      "id": "CalPoly_CSC 209",
+      "course name": "Problem Solving with Computers",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Reinforcement of computer science fundamentals. Review of important algorithms, language features, design, syntax, and testing techniques. Repeated application of techniques to solve problems in a constrained amount of time. Primarily intended to support students preparing for the Association for Computing Machinery 's International Collegiate Programming Contest. Credit / No Credit grading only. Total credit",
+      "grading": "limited to 15 units",
+      "format": ". 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 225",
+      "course name": "Introduction to Computer Organization",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to computer systems. Simple instruction set architecture and the computer hardware needed to implement that architecture. Machine and assembly language programming.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 1"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 231",
+      "course name": "Programming for Engineering Students",
+      "prerequisite": [
+        "MATH 142",
+        "PHYS 121 or PHYS 131 or PHYS 141"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Programming techniques and procedures with applications to engineering problems. Introduction to numerical methods and simulation. Credit not allowed for CSC, Software Engineering or CPE majors.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_CSC 232",
+      "course name": "Computer Programming for Scientists and Engineers",
+      "prerequisite": [
+        "MATH 118 or equivalent"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Computer programming, with an emphasis on procedural programming, taught using a language hosted by applications commonly used in science and engineering. Credit not allowed for CSC, CPE or Software Engineering majors.",
+      "format": "2 lectures, 1 activity.",
+      "similarTo": [
+        "CSUS_CSC 131"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 234",
+      "course name": "C and Unix",
+      "prerequisite": [
+        "MATH 142"
+      ],
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "The C programming language and the UNIX programming environment. Operators, standard I / O functions, strings, pointers and arrays, data types and storage classes. Unix shell programming and basic I / O system calls. Credit not allowed for CSC, Software Engineering or CPE majors.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_CSC 235",
+      "course name": "Fundamentals of Computer Science for Scientists and Engineers I",
+      "prerequisite": [
+        "MATH 141 or MATH 161 with a grade of C- or better"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Introduction to the fundamentals of computer programming with an emphasis on mathematical, scientific and engineering applications : principles of algorithmic problem solving and procedural programming using a modern programming language, data types, elementary data structures, input / output and control structures. Not a substitute for",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "CSC / CPE101 for CSC / CPE",
+      "similarTo": [
+        "CSUS_CSC 131"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 236",
+      "course name": "Fundamentals of Computer Science for Scientists and Engineers II",
+      "prerequisite": [
+        "CSC 235 with a grade of C- or better"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Further study of computer program development with an emphasis on mathematical, scientific and engineering applications. Introduction to more complicated data types and structures. Practice of more complicated techniques of procedural programming. Introduction to the principles of object - oriented programming using a modern programming language. Detailed discussion of lists and classic list algorithms, algorithm analysis, multidimensional arrays, records, dynamic data structures, file input / output, classes. Not a substitute for",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "CSC / CPE202 for CSC / CPE /",
+      "similarTo": [
+        "CSUS_CSC 131"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 290",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_CSC 300",
+      "course name": "Professional Responsibilities",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "The responsibilities of the computer science professional. The ethics of science and the IEEE / ACM Software Engineering Code of Ethics. Quality tradeoffs, software system safety, intellectual property, history of computing and the social implications of computers in the modern world. Applications to ethical dilemmas in computing. Technical presentation methods and practice.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 301",
+      "course name": "Personal Software Process",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Principles and practices for defining and applying software processes to individual software development tasks. Quantitative methods for the measurement and analysis of software development cost and quality. Interpretation and evaluation of process metrics for creation of improvement plans. Adaptation of processes to individual styles.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 302",
+      "course name": "Computers and Society",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Social, ethical, political and technological implications and effects of computers in the modern world. Examination of the benefits and side - effects of computer applications and automation. Case study review and analysis.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE Area F.",
+      "similarTo": [
+        "CSUS_CSC 250"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 303",
+      "course name": "Teaching Computer Science",
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Practical coverage of educational techniques appropriate for tutoring in CSC / CPE undergraduate courses, including Socratic methods for tutoring of technical topics, design of test questions and grading rubrics, and lecture presentation. Intended for CSC / CPE / SE students interested in tutoring, grading, or a career in teaching computer science.",
+      "format": "1 lecture, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 194"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 305",
+      "course name": "Individual Software Design and Development",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Practical software development skills needed for construction of mid - sized production - quality software modules, using the CSC upper division programming language. Topics include inheritance, exceptions, and memory and disk - based dynamic data structures. Students must complete an individual programming project of mid - level complexity.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 307",
+      "course name": "Introduction to Software Engineering",
+      "prerequisite": [
+        "CSC 141 or CSC 348"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Requirements, specification, design, implementation, testing and verification of large software systems. Study and use of the software process and software engineering methodologies ; working in project teams. Not open to students with credit in CSC308.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 308",
+      "course name": "Software Engineering I",
+      "prerequisite": [
+        "CSC 141 or CSC 348"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Principles for engineering requirements analysis and design of large complex software systems. Software process models. Methods of project planning, tracking, documentation, communication, and quality assurance. Analysis of engineering tradeoffs. Group laboratory project. Technical oral and written presentations.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 309",
+      "course name": "Software Engineering II",
+      "prerequisite": [
+        "CSC 308"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Continuation of the software lifecycle. Methods and tools for the implementation, integration, testing and maintenance of large software systems. Software development and test environments. Software quality assurance. Group laboratory project. Technical presentation methods and practice.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 310",
+      "course name": "Computers for Poets",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "How computers and computer devices work. Introduction to software systems and applications. How computers connect with various media including images, speech and data. How information is encoded and transmitted across networks. Relationship between the computer and human information processing. 4 lectures. Crosslisted as CSC310/HNRS311.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_CSC 311",
+      "course name": "Computational Art",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Interdisciplinary creation of static and animated computational art using algorithms. General design principles in a digital setting, including color, shape, composition, perspective, principles of animation. Development of computational tools such as variables, iteration, logic, functions. Creative expression via coding and creative coding.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_CSC 320",
+      "course name": "Practical Computer Security for Everyone",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Exploration of practical computer security in everyday life for non - majors. Covering the principles, technologies and tools used to secure the Internet and keep ourselves ' digitally ' secure, including : privacy and anonymity, web and data security, cryptography, malware, authentication and access control.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_CSC 321",
+      "course name": "Introduction to Computer Security",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Survey of topics in computer system and network security, including protection, access control, distributed access control, operating system security, applied cryptography, network security, firewalls, secure coding practices, and case studies from real - world systems.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC321.",
+      "similarTo": [
+        "CSUS_CSC 1"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 323",
+      "course name": "Cryptography Engineering",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "An introduction to the theory and practice of building secure, cryptographic systems. Core cryptographic primitives. Implementation, evaluation and subversion of widely deployed cryptographic products and protocols.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 325",
+      "course name": "Introduction to Privacy: Policy and Technology",
+      "prerequisite": [
+        "CSC 300"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Introduction to policies and technologies related to digital privacy. Legal decisions and policies, domestic and global cultural expectations, and privacy related technologies including applications to surveillance, big data, websites, mobile, and privacy by design.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 344",
+      "course name": "Music Programming",
+      "prerequisite": [
+        "CSC 141 or CSC 348"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Music - producing programs. Software synthesizers : oscillators, coupled oscillators, wavetable synthesis. Sound processing units / filters : LTI, FIR, IIR, nonlinear. Physics of sound, mathematical foundations of sound synthesis and filtering, existing sound formats ( both sampled and MIDI ).",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 348",
+      "course name": "Discrete Structures",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Structures of computer science : logic, sets, relations, functions, graphs and trees. Propositional and predicate logic. Applications of predicate logic to preconditions, postconditions, and proof techniques. Complexity of algorithms. Not open to students with credit",
+      "format": "4 lectures.",
+      "other": "in CSC 141."
+    },
+    {
+      "id": "CalPoly_CSC 349",
+      "course name": "Design and  Analysis of Algorithms",
+      "prerequisite": [
+        "CSC 141",
+        "MATH 142",
+        "MATH 142",
+        "MATH 248",
+        "MATH 248"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Intermediate and advanced algorithms and their analysis. Mathematical, geometrical, and graph algorithms. NP - complete problems. Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search. Course may be offered in classroom - based or online format.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 130",
+        "CSUS_CSC 140",
+        "CSUS_CSC 206"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 350",
+      "course name": "Computing for Interactive Arts Capstone I",
+      "prerequisite": [
+        "ART 384"
+      ],
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Definition and specification of a team - based creative collaboration on a digital interactive art project ( e.g. animation, video game, interactive media display, etc ). Research and techniques, project planning and project team organization, prototype creation.",
+      "format": "1 lecture, 1 laboratory.",
+      "other": "Crosslisted as ART / CSC350."
+    },
+    {
+      "id": "CalPoly_CSC 357",
+      "course name": "Systems Programming",
+      "prerequisite": [
+        "CSC 225 or CPE/EE 229 or CPE/EE 233"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "C programming language from a system programming perspective. Standard C language including operators, I / O functions, and data types in the context of system functions. Unix commands, shell scripting, file system, editors.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC357."
+    },
+    {
+      "id": "CalPoly_CSC 365",
+      "course name": "Introduction to Database Systems",
+      "prerequisite": [
+        "CSC 141",
+        "MATH 248",
+        "MATH 248"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Basic principles of database management systems ( DBMS ) and of DBMS application development. DBMS objectives, systems architecture, database models with emphasis on Entity - Relationship and Relational models, data definition and manipulation languages, the Structured Query Language ( SQL ), database design, application development tools.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 366",
+      "course name": "Database Modeling, Design and Implementation",
+      "prerequisite": [
+        "CSC 365"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "The database modeling problem. Database modeling levels : external, conceptual, logical and physical. Database models : entity - relationship, relational, object - oriented, semantic, and object - relational. Normal forms. Distributed database design. Functional analysis of database applications and transaction specification, design, and implementation.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 244"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 369",
+      "course name": "Introduction to Distributed Computing",
+      "prerequisite": [
+        "STAT 312",
+        "STAT 321 or STAT 350"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Introduction to distributed computing paradigms and cloud computing. Modern distributed computing infrastructures. Problem - solving in a distributed computing environment.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 371",
+      "course name": "Game Design",
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "In - depth study of game design including rules, player interaction, and storytelling. Exploration of effective use of sound, art, and game controls in creating meaningful play. Development of fully functioning and engaging games, following standard domain - specific software development processes and using physical prototyping and playtesting. Current, industry - tested game engines.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 378",
+      "course name": "Interactive Entertainment Engineering",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Project - based, software oriented, design of interactive entertainment applications. Topics may include interactive storytelling, game physics, game AI, scripting, and development of virtual worlds using modeling and rendering tools. Projects require significant programming.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 400",
+      "course name": "Special Problems",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies or surveys of selected problems. Total credit",
+      "grading": "limited to 4 units",
+      "similarTo": [
+        "CSUS_CSC 199",
+        "CSUS_CSC 299"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 402",
+      "course name": "Software Requirements Engineering",
+      "prerequisite": [
+        "CSC 307 or CSC 309"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Software requirements elicitation, analysis and documentation. Team process infrastructure and resource estimation to support appropriate levels of quality. Software architectural design.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 405",
+      "course name": "Software Construction",
+      "prerequisite": [
+        "CSC 305",
+        "CSC 402"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Design and construction of sizeable software products. Technical management of software development teams. Software development process models, software design, documentation, quality assurance during development, software unit and integration testing ; CASE tools, development environments, test tools, configuration management.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 406",
+      "course name": "Software Deployment",
+      "prerequisite": [
+        "CSC 405"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Deployment of a sizeable software product by a student team. Software maintenance and deployment economic issues. Management of deployed software : version control, defect tracking and technical support.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 409",
+      "course name": "Current Topics in Software Engineering",
+      "prerequisite": [
+        "CSC 307 or CSC 309"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Selected topics in software engineering. Topics may include program generation, quality assurance, formal methods, software metrics, design methods, testing, or software development processes. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 131",
+        "CSUS_CSC 288"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 410",
+      "course name": "Software Evaluation",
+      "prerequisite": [
+        "CSC 349",
+        "STAT 301",
+        "STAT 312",
+        "STAT 321 or STAT 350"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Theory and practice of evaluation of software and software systems. Design of experiments for measuring software performance, measuring software output quality, comparing multiple implementations of the same algorithm, and evaluation of software heuristics. Selection of appropriate software evaluation measures and criteria.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 422",
+      "course name": "Network and Web Security",
+      "prerequisite": [
+        "CPE 464"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Introduction to network and web security, including denial of service, botnets, access control, routing attacks, transport layer attacks, tunneling mechanisms, VPNs, IDS, firewalls, penetration testing, key distribution, browser security, social network security, email security, jamming, and wireless security.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC422.",
+      "similarTo": [
+        "CSUS_CSC 254"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 424",
+      "course name": "Software Security",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Principles behind secure software design including threat models, trust management, common vulnerabilities and mitigation techniques, robust software development, isolation of untrusted code, auditability, and testing.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 429",
+      "course name": "Current Topics in Computer Security",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Selected topics in emerging areas of computer security. Potential topics include : network and web security, critical infrastructure protection, embedded systems security, malware analysis, mobile security, and digital forensics, among others. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 430",
+      "course name": "Programming Languages I",
+      "prerequisite": [
+        "CSC 349"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Construction of the front end of a compiler including lexical analysis, syntactic analysis, type checking, and formal semantics. Introduction to regular languages, finite automata, and context - free grammars.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 431",
+      "course name": "Programming Languages II",
+      "prerequisite": [
+        "CSC 430"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Language principles and design issues : bindings, conversion, parameter passing, and dynamic semantics. Language implementation : intermediate code representation, memory management, code optimization, and code generation. Functional programming languages.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 435",
+      "course name": "Introduction to Object Oriented Design Using Graphical User Interfaces",
+      "prerequisite": [
+        "CSC 305"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Principles of object - oriented design, with emphasis on use of these principles in the design of graphical interfaces. Comparison and contrasting of two major object - oriented languages and their corresponding GUI class libraries. Language - independent object - oriented design methods, and application of these methods in the construction of a GUI - based project. Course may be offered in classroom - based or online format.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 436",
+      "course name": "Mobile Application Development",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Inception, development, testing, and deployment of mobile applications. Introduction to tools, libraries, and frameworks for one or more mobile platforms and devices. Emphasis on software engineering best practices for developing entrepreneurial or humanitarian mobile - centric applications.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 123"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 437",
+      "course name": "Dynamic Web Development",
+      "prerequisite": [
+        "CSC 365 with a grade of C- or better"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Project - based study of web - based three - tiered applications, including current best practices and tools for design, implementation and testing of browser interface, serverside business logic, object - relational mapping, databases, and web services.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 445",
+      "course name": "Theory of Computation I",
+      "prerequisite": [
+        "CSC 141 or CSC 348"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Theory of formal languages and automata. Turing machines. Chomsky hierarchy. Theory of decidability and computability.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_CSC 448",
+      "course name": "Bioinformatics Algorithms",
+      "prerequisite": [
+        "CSC 349"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduction to the use of computers to solve problems in molecular biology. The algorithms, languages, and databases important in determining and analyzing nucleic and protein sequences and their structure.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 450",
+      "course name": "Computing for Interactive Arts Capstone II",
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Team - based design, construction and deployment of a collaborative interactive computational art project typically found in the fields of animation, game design, and interactive media. Management of inter - disciplinary teams, documentation, creative development, testing, and assessment. 2 laboratories. Crosslisted as ART / CSC450."
+    },
+    {
+      "id": "CalPoly_CSC 453",
+      "course name": "Introduction to Operating Systems",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to sequential and multiprogramming operating systems ; kernel calls, interrupt service mechanisms, scheduling, files and protection mechanisms, conventional machine attributes that apply to operating system implementation, virtual memory management, and I / O control systems.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC453."
+    },
+    {
+      "id": "CalPoly_CSC 454",
+      "course name": "Implementation of Operating Systems",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Design and implementation of multiprogramming kernels, systems programming methodology, interprocess communications, synchronization, device drivers and network access methods.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 458",
+      "course name": "Current Topics in Computer Systems",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Selected aspects of design, implementation and analysis of networks, advanced operating and distributed systems. Topics may include process management, virtual memory, process communication, context switching, file system designs, persistent objects, process and data migration, load balancing, security and networks. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC458."
+    },
+    {
+      "id": "CalPoly_CSC 466",
+      "course name": "Knowledge Discovery from Data",
+      "prerequisite": [
+        "CSC 349",
+        "STAT 312",
+        "STAT 321 or STAT 350"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Overview of modern knowledge discovery from data ( KDD ) methods and technologies. Topics in data mining ( association rules mining, classification, clustering ), information retrieval, web mining. Emphasis on use of KDD techniques in modern software applications.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 468",
+      "course name": "Database Management Systems Implementation",
+      "prerequisite": [
+        "CSC 365"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Data structures and algorithms used in the implementation of database systems. Implementation of data and transaction managers : access methods interfaces, concurrency control and recovery, query processors and optimizers. Introduction to implementation of distributed database systems.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 469",
+      "course name": "Distributed Systems",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Foundations of distributed systems, distributed hash tables ( peer - to - peer systems ), failure detectors, synchronization, election, inter - process communication, consensus, replication, key - value stores, and measurements.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CSC / CPE469.",
+      "similarTo": [
+        "CSUS_CSC 258"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 471",
+      "course name": "Introduction to Computer Graphics",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Graphics software development and use of application programming interfaces for 3D graphics. The graphics pipeline, modeling, geometric and viewing transforms, lighting and shading, rendering, interaction techniques and graphics hardware.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC471."
+    },
+    {
+      "id": "CalPoly_CSC 473",
+      "course name": "Advanced Rendering Techniques",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Illumination models, reflectance, absorption, emittance, Gouraud shading, Phong shading, raytracing polyhedra and other modeling primitives, coherence, acceleration methods, radiosity, form factors, advanced algorithms.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 474",
+      "course name": "Computer Animation",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Basic and advanced algorithms for generating sequences of synthetic images. Interpolation in time and space, procedural and keyframe animation, particle systems, dynamics and inverse kinematics, morphing and video.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 476",
+      "course name": "Real-Time 3D Computer Graphics Software",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Basic and advanced algorithms for real - time, interactive, 3D graphics software. Modeling ( polygon mesh, height field, scene graph ), real - time rendering and shading ( visibility processing, LOD, texture and light maps ), collision detection ( bounding volumes, complexity management ), interactive controls, multi - player game technology, game engine architecture.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC476.",
+      "similarTo": [
+        "CSUS_CSC 126"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 477",
+      "course name": "Scientific and Information Visualization",
+      "prerequisite": [
+        "CSC 349"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Basic data processing ( magnitude, grouping and segmentation ), visualization design, cognition and perception, spatial data visualizations ( 2D and 3D, e.g. GIS data, medical data ) information data visualization, spatial encoding, color encoding, and interaction.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 478",
+      "course name": "Current Topics in Computer Graphics",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Selected aspects of the design, implementation and analysis of computer graphics. Topics may include rendering, modeling, visualization, animation, virtual reality, computer vision, multimedia, and perception issues. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 480",
+      "course name": "Artificial Intelligence",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Programs and techniques that characterize artificial intelligence. Programming in a high level language.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 215"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 481",
+      "course name": "Knowledge Based Systems",
+      "prerequisite": [
+        "CSC 480"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "In - depth treatment of knowledge representation, utilization and acquisition in a programming environment. Emphasis on the use of domain - specific knowledge to obtain expert performance in programs.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 214"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 483",
+      "course name": "Current Topics in Human-Computer Interaction",
+      "prerequisite": [
+        "CSC 484"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Selected aspects of the field of human - computer interaction. Topics may include dynamic information visualization, universal access, social impact of technology usage, educational technology, human cognition and performance studies, and extended usability evaluation techniques. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 151"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 484",
+      "course name": "User-Centered Interface Design and Development",
+      "prerequisite": [
+        "CSC 307 or CSC 308"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to the importance of user - centered principles in the design of good interfaces and effective human - computer interaction. Topics include : study of human characteristics affected by interface design, effective requirements data collection and analysis, user - centered approaches to software engineering, and evaluation of interface and interaction quality.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 486",
+      "course name": "Human-Computer Interaction Theory and Design",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Application of the theories of human - computer interaction to the task of user - centered design. Survey of techniques for studying and involving users in different aspects of the design process, and demonstration of where and when applicable. Combining of theoretical understanding with practical experience to design solutions to problems facing interactive systems designers.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 238"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 489",
+      "course name": "Current Topics in Artificial Intelligence",
+      "prerequisite": [
+        "CSC 480"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Selected aspects of the design, implementation and analysis of advanced systems and concepts in the area of artificial intelligence. Topics may include knowledge representation, reasoning, learning, or planning, and specific techniques like intelligent agents, genetic algorithms, semantic web, or robotics. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 490",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. Class schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_CSC 491",
+      "course name": "Senior Project I",
+      "prerequisite": [
+        "CSC 307 or CSC 309"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Selection and completion of a project by individuals or team which is typical of problems which graduates must solve in their fields of employment. Project may include students from other disciplines. Formulation of outline, literature review, and project schedule.",
+      "similarTo": [
+        "CSUS_CSC 191",
+        "CSUS_CSC 190"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 492",
+      "course name": "Senior Project II",
+      "prerequisite": [
+        "CSC 491"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Selection and completion of a project by individuals or team which is typical of problems which graduates must solve in their fields of employment. Project may include students from other disciplines. Project results are presented in a formal report.",
+      "similarTo": [
+        "CSUS_CSC 191",
+        "CSUS_CSC 190"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 493",
+      "course name": "Cooperative Education Experience",
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Part - time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. Formal report and evaluation by work supervisor required. Credit / No Credit grading only. No major credit allowed ; total credit",
+      "grading": "limited to 6 units"
+    },
+    {
+      "id": "CalPoly_CSC 494",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Full - time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. Formal report and evaluation by work supervisor required. Credit / No Credit grading only. No major credit allowed ; total credit",
+      "grading": "limited to 18 units."
+    },
+    {
+      "id": "CalPoly_CSC 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Full - time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. A more fully developed formal report and evaluation by work supervisor required. Credit / No Credit grading only. No major credit allowed ; total credit",
+      "grading": "limited to 24 units."
+    },
+    {
+      "id": "CalPoly_CSC 496",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "1 to 4 laboratories."
+    },
+    {
+      "id": "CalPoly_CSC 500",
+      "course name": "Directed Study",
+      "units": "2-3 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Individual directed study of advanced topics. Total credit limited to 4 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_CSC 508",
+      "course name": "Software Engineering I",
+      "prerequisite": [
+        "CSC 307 or CSC 308"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "In - depth study of requirements engineering, software project management, formal specifications and object - oriented analysis.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_CSC 509",
+      "course name": "Software Engineering II",
+      "prerequisite": [
+        "CSC 508"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "In - depth study of software modeling and design. Formal design methodologies. Design patterns. Detailed case studies of existing projects. Tools and methods for designing large software systems.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_CSC 515",
+      "course name": "Computer Architecture",
+      "prerequisite": [
+        "CPE 315"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Comparative study and design of multiprocessor, dataflow, RISC, high level language and other new computer architectures. VLSI processor design techniques.",
+      "format": "3 seminars, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC515."
+    },
+    {
+      "id": "CalPoly_CSC 521",
+      "course name": "Computer Security",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Exploration of advanced topics in computer security with an emphasis on research topics.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 250"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 530",
+      "course name": "Languages and Translators",
+      "prerequisite": [
+        "CSC 430"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Advanced programming language and translator concepts. Language concepts to be covered will be selected from current state - of - the - art languages and current issues in language design. Compiler concepts will include retargetable code generation, use of translator - writing systems, and error recovery.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_CSC 540",
+      "course name": "Theory of Computation II",
+      "prerequisite": [
+        "CSC 445"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Advanced topics in theoretical computer science from such areas as automata theory, cellular automata theory, computational complexity, and program verification.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_CSC 550",
+      "course name": "Operating Systems",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "General concepts of computer architecture and operating systems. Design features of advanced computers, general time - sharing systems and schemes for dynamic memory allocation, scheduling and protection. Dynamic linkage between subroutines. Intercommunication between input / output and processors.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_CSC 560",
+      "course name": "Database Systems",
+      "prerequisite": [
+        "CSC 365"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Current topics in database systems : distributed databases and transactions, nested and long - running transactions, distributed concurrency control, semantic and object - oriented data models, database systems for non - traditional applications : engineering design databases, active, logic, temporal, multimedia, and real - time databases.",
+      "format": "4 seminars.",
+      "similarTo": [
+        "CSUS_CSC 258"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 564",
+      "course name": "Computer Networks: Research Topics",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Exploration of advanced topics in emerging computer networking technologies ; focus on leading edge computer network research topics.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC564.",
+      "similarTo": [
+        "CSUS_CSC 255"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 566",
+      "course name": "Topics in Advanced Data Mining",
+      "prerequisite": [
+        "CSC 466 or CSC 480 or CSC 582"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Advanced topics in the areas of data mining, knowledge discovery in data, machine learning, information retrieval and intelligent analysis of information. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_CSC 569",
+      "course name": "Distributed Computing",
+      "prerequisite": [
+        "CSC 141 or CSC 348"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Principles and practices in distributed computing : interprocess communications, group communications, client - server model, distributed objects, message queue system, distributed services, mobile agents, object space, Internet protocols. Distributed algorithms : consensus protocols, global state protocols. Fault tolerance : classification of faults, replication.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as CPE / CSC569."
+    },
+    {
+      "id": "CalPoly_CSC 570",
+      "course name": "Current Topics in Computer Science",
+      "units": "2-4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Directed group study of selected topics for graduate students. Topics will normally consist of continuations of those",
+      "grading": "limited to 12 units. 2 to",
+      "format": "4 seminars.",
+      "other": "in CSC 520, CSC530"
+    },
+    {
+      "id": "CalPoly_CSC 572",
+      "course name": "Computer Graphics",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Advanced topics in computer graphics with emphasis on leading edge computer graphics technologies and advanced topics in graphics fundamentals.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 580",
+      "course name": "Artificial Intelligence",
+      "prerequisite": [
+        "CSC 480"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Current research in the field of artificial intelligence with emphasis on cooperative agents, distributed agents, and decision making in complex, concurrent environments. AI programming in a distributed environment.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 215"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 581",
+      "course name": "Computer Support for Knowledge Management",
+      "prerequisite": [
+        "CSC 480 or CSC 484 or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Methods and techniques that computer - based systems can provide to make the management of knowledge and information in digital form easier for the user. Emphasis on support for knowledge - intensive activities performed by users.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_CSC 582",
+      "course name": "Introduction to Natural Language Processing",
+      "prerequisite": [
+        "CSC 466 or CSC 480 or graduate st"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Classic Natural Language Processing systems and techniques ; review of recent advancements in the subject. Topics selected from : parsing, tagging, word - sense disambiguation, natural language generation, data mining, voice recognition, vocalization, knowledge management, semantic networks, stylistics and machine learning.",
+      "format": "3 lectures, 1 laboratory.",
+      "similarTo": [
+        "CSUS_CSC 10"
+      ]
+    },
+    {
+      "id": "CalPoly_CSC 590",
+      "course name": "Thesis Seminar",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Preparation for conducting research in the field of computer science, through discussions, selected readings, and student presentations. 1 seminar."
+    },
+    {
+      "id": "CalPoly_CSC 593",
+      "course name": "Cooperative Education Experience",
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Advanced study analysis and part - time work experience in student 's career field ; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government. Must have demonstrated ability to do independent work and research in career field. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_CSC 594",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Advanced study analysis and full - time work experience in student 's career field ; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government. Must have demonstrated ability to do independent work and research in career field. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_CSC 595",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Advanced study analysis and full - time work experience in student 's career field ; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government. Must have demonstrated ability to do independent work and research in career field. A fully - developed formal report and evaluation by work supervisor required. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_CSC 596",
+      "course name": "Thesis I",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual research or activity under faculty supervision, beginning work on the master 's thesis."
+    },
+    {
+      "id": "CalPoly_CSC 597",
+      "course name": "Thesis II",
+      "prerequisite": [
+        "CSC 596"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual research or activity under faculty supervision, continuing work on the master 's thesis."
+    },
+    {
+      "id": "CalPoly_CSC 599",
+      "course name": "Thesis III",
+      "prerequisite": [
+        "CSC 597"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual research or activity under faculty supervision leading to an acceptable thesis."
+    }
+  ]
+}

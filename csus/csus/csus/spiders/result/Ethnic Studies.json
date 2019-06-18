@@ -1,0 +1,519 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the language of Swahili speaking people.  Emphasis is on developing vocabulary and writing skills.  Attention will be given to understanding the relationship of language to culture.", 
+      "id": "CSUS_ETHN 1A", 
+      "course name": "Elementary Swahili"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " with more emphasis on developing reading and listening skills along with further developing writing abilities. Provides deeper knowledge of the customs, traditions and experiences of Swahili speaking people. ", 
+      "course name": "Elementary Swahili", 
+      "units": "3 Units", 
+      "id": "CSUS_ETHN 1B", 
+      "prerequisite": [
+        "ETHN 1A", 
+        "ETHN 1A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to African Studies. Examines the most common myths found in both popular and academic literature about Africa and its people.", 
+      "id": "CSUS_ETHN 10", 
+      "course name": "Africa: Myths and Realities"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduces the diverse institutional, cultural, and historical issues relating to the past and present life circumstances of Asian Americans, Mexican Americans, Black Americans, and Native Americans. Designed to introduce students to information presented in upper division courses with ethnic studies content.", 
+      "id": "CSUS_ETHN 11", 
+      "course name": "Introduction to Ethnic Studies."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Fulfills the General Education requirements of Area D1A (Foundations in the Social and Behavioral Sciences) as well as the General Education Honors Program. ", 
+      "description": "Introduces the diverse institutional, cultural, and historical issues relating to the past and present life circumstances of Asian Americans, Mexican Americans, Black Americans, and Native Americans. Focuses may include leadership, identity development, problem solving skills, community organizing and empowerment. Designed to introduce students to information presented in upper division courses with ethnic studies content. ", 
+      "id": "CSUS_ETHN 11H", 
+      "course name": "Introduction to Ethnic Studies (Honors)."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the basic concepts, theoretical perspectives, and research methodologies in comparison to other social science disciplines.  The intersection of class, race/ethnicity, and gender of various Asian American and non-Asian American groups will be explored from a socio-historical perspective.", 
+      "id": "CSUS_ETHN 14", 
+      "course name": "Introduction to Asian American Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Only open to students admitted to EOP Learning Communities Program. ", 
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University.  Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills. ", 
+      "id": "CSUS_ETHN 21", 
+      "course name": "First Year Seminar:  Becoming an Educated Person"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to exploring the Chicano/Latino experience in the U.S. An overview of the diverse and multiple experiences of people of Mexico, Cuba, Puerto Rico, Dominican Republic, Central and South America. From a socio-historical perspective, the intersections of class, race/ethnicity, and gender will be explored.", 
+      "id": "CSUS_ETHN 30", 
+      "course name": "Introduction to Chicano/Latino Studies."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "In-depth study into the principles of Native American religion and philosophical thought and the resulting impact of European culture upon the Native American societies.", 
+      "id": "CSUS_ETHN 50", 
+      "course name": "Native American Religion and Philosophy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Broad overview to the field of Native American Studies, including history, sovereignty, popular imagery, economic development, literature, philosophy, religion, urbanization, gender, social issues, and cultures of native peoples.  Introduction to Native American Studies; recognizes intra-tribal, trans-national, and various historical, cultural, and political relationships, and issues through an interdisciplinary approach.  The primary focus will be post 1900.", 
+      "id": "CSUS_ETHN 53", 
+      "course name": "Introduction to Native American Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Introduction to Pan African Studies. It is intended to introduce students to the context from which Pan African Studies arose, including the Western intellectual tradition, and to consider the substantive objections to Pan African Studies as a legitimate academic discipline. It is intended to show humanities and social science emphases of the discipline, and the interdisciplinary character of the discipline as a whole. Upon completion, students should have a broad exposure to the subject matter of the discipline, an acute appreciation of some of its philosophical concerns, a recognition of some of the principal methodologies employed by its scholars, some familiarity with major scholars in the discipline, and the ability to explore these subjects independently.", 
+      "id": "CSUS_ETHN 70", 
+      "course name": "Introduction to Pan African Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Provides students with an understanding of the unique contours of leadership throughout the African Diaspora through an interdisciplinary approach to understanding particular problems, necessities and styles of leadership. Examines leaders and leadership roles within the African Diaspora with an emphasis on a variety of positions and contexts in the areas of politics, religion, art, and education, including the international, national, and local community (grassroots) arenas.", 
+      "id": "CSUS_ETHN 71", 
+      "course name": "Leadership in the African Diaspora"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course is designed as a survey of the Black image within popular culture. Students will interrogate the roots of African American stereotypes within North. American culture. Through an understanding of this history, we will assess how these stereotypes have evolved over time and the role they have played in constructing and positioning African Americans in American society. Students examine the ways in which African Americans actively construct images of themselves for a variety of political and social purposes.", 
+      "id": "CSUS_ETHN 72", 
+      "course name": "Black Images in Popular Culture"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated once for credit. ", 
+      "description": "Designed for CAMP students new to University life, form and functions. The three hour lecture/discussions per week are focused on assisting students with making a successful transition to the University. ", 
+      "id": "CSUS_ETHN 94", 
+      "course name": "CAMP Transition and Problem Solving"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Generation after generation, university students have been key constituents in movements for social change. From public demonstrations to research studies, colleges and universities afford countless opportunities for students to advocate for a better world. This course explores how students can utilize university resources to explore interests and concerns, hone academic skills and contribute to social change.", 
+      "id": "CSUS_ETHN 96B", 
+      "course name": "Contemporary Issues and Social Change"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Recommended for students new to the university experience and students having completed fewer than 45 units of course work. May be repeated twice for total credits not to exceed 6 units. ", 
+      "description": "Co-curricular activities related to the subject matter and intellectual concerns in Ethnic Studies. ", 
+      "id": "CSUS_ETHN 98", 
+      "course name": "Co-Curricular Activities"
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Through an interdisciplinary approach, introduces the four major American ethnic groups -Black, American Indian, Chicano, Asian American. Focuses on themes common to all four groups (racism, economic and political oppression) and demonstrates the varied contributions of each culture to American social and economic life. ", 
+      "course name": "", 
+      "units": "3 Units", 
+      "id": "CSUS_ ", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Survey of the experiences of various Asian groups in the U.S. from the mid-nineteenth century to present. The historical forces affecting the immigration and settlement patterns of Chinese, Japanese, Filipinos, Koreans, Asian Indians and Southeast Asians (Vietnamese, Cambodians, Laotians) will be compared and contrasted. Students will analyze the problems resulting from limited access to the social, political, and economic institutions of U.S. society.", 
+      "id": "CSUS_ETHN 110", 
+      "course name": "The Asian American Experience"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Examine several issues and factors shaping the experiences of recent immigrant groups (Vietnamese, Mien, Hmong, Cambodians, Laotians) from Southeast Asia to the U.S. Focuses on the dynamic relationship between ethnicity, minority assignment and social integration as these effect the experiences of these immigrant groups.", 
+      "id": "CSUS_ETHN 111", 
+      "course name": "Southeast Asians in the US"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines several important social issues such as emerging communities, education, employment and occupations, anti-Asian violence, media images and stereotypes, families and identities, and political empowerment shaping the contemporary experiences of diverse Asian American groups.", 
+      "id": "CSUS_ETHN 112", 
+      "course name": "Contemporary Asian American Issues"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the historical and contemporary experiences of various Asian American communities through active investigation. The concepts, methods, and theories commonly utilized in community research will be covered.", 
+      "id": "CSUS_ETHN 113", 
+      "course name": "Asian American Communities"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the  Asian American immigration within the context of the larger Asian global migration. Emphasis will be placed on the period from the 16th century to the contemporary Asian global migration.  A critical examination of the  perspectives on the Pacific region and how the economic, social, political and historical forces affected migration and the formation of Asian global communities.", 
+      "id": "CSUS_ETHN 114", 
+      "course name": "Asian Americans and Globalization"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of biracial/multiracial populations, their social histories, social experiences and social identities within various sociological and social psychological theoretical frameworks. An exploration of the relationship biracial/multiracial groups have had, and continue to have, with the larger white majority and monoracially identified minorities.", 
+      "id": "CSUS_ETHN 115", 
+      "course name": "Biracial and Multiracial Identity in the US"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Critical examination of the historical and contemporary political experiences of Asian Americans and their pursuits of immigration rights, citizenship, political identity, equality, freedom, and incorporation into the U.S. political system.", 
+      "id": "CSUS_ETHN 116", 
+      "course name": "Asian American Politics and Public Policy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Cross Listed: GOVT 117; only one may be counted for credit.", 
+      "description": "To systematically and analytically introduce the predominant political trends and concepts presently entertained and harbored in the Black Community. A necessary adjunct to this dialogue is the racist theme in American society since on balance this is the matrix out of which the political alternatives and concepts grew. ", 
+      "id": "CSUS_ETHN 117", 
+      "course name": "Black Political Thought"
+    }, 
+    {
+      "term": ".", 
+      "description": "Using an interdisciplinary approach, course offers a broad introduction to the principle values and traditions shaping Asian American women's lives in the U.S. Examines cultural diversity, gender inequality and conflicts between traditions and social practices through critical analysis of literature, film and cultural theories as expressions of identity. Topics covered include: cultural heritage and philosophies, intergenerational conflict, transnationalism, gender roles and socio-economic practices. Provides comprehensive understanding of principle factors governing Asian American women's lives at the nexus of Asian and American cultures. ", 
+      "course name": "Asian American Women", 
+      "units": "3 Units", 
+      "id": "CSUS_ETHN 118", 
+      "prerequisite": [
+        "WOMS 118"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Overview of the Filipino American experience from the 16th century to the present.  Immigration and settlement of Filipinos in the U.S. will be critically examined within the context of historical, social, economic, and political forces in American society.  How the Filipino labor market status, race, class, and sex/gender relations affected the evolution and formation of Asian American communities will be critically examined.", 
+      "id": "CSUS_ETHN 119", 
+      "course name": "The Filipino American Experience"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Explores the historical and cultural background of Hmong Americans.  Major emphasis is on the many experiences of the Hmong Americans including the social, economic, and political conditions that prompted their migration from Laos to the U.S.  Explores the complex patterns of Hmong American acculturation in relation with other Asian and non-Asian immigrant groups.", 
+      "id": "CSUS_ETHN 121", 
+      "course name": "Hmong American Experience"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Examines the history and migration of Sikhs throughout the world, including the United States. Topics include the origin of Sikhism, Sikh history/religion/culture/social institutions and social relations, direct and secondary migration, race and ethnic relations, second-generation identity issues, and global diaspora/transnationalism.", 
+      "id": "CSUS_ETHN 122", 
+      "course name": "Sikh Americans and Globalization"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Transmits knowledge and understanding of how racism confronts and divides American society. Attention will be given to the effects of racism on the experiences of Chicanos/Mexican Americans in American society.", 
+      "id": "CSUS_ETHN 130", 
+      "course name": "Chicano/Mexican-American Experience"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Ethnohistorical analysis of La Raza Cosmica designed to convey crosscultural knowledge and understanding of peoples from Mexico, Cuba, Puerto Rico and Central America. Includes a comparative analysis of ethnic identity and a survey of socio-cultural, political and economic changes which have influenced U.S./Latin American policy and immigration patterns of Latinos to the U.S.", 
+      "id": "CSUS_ETHN 131", 
+      "course name": "La Raza Studies."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Critical analysis of the cultural influence that the family, community, religion, economic status and peers play upon the decisions, the values and roles held by Chicanas. An examination of the processes which have resulted in the change of attitudes, values and roles of the contemporary Chicana.", 
+      "id": "CSUS_ETHN 132", 
+      "course name": "La Mujer Chicana"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines aging crossculturally among ethnic groups in America. Emphasis will be placed on a review of the current literature on aging and ethnicity. Also examines changing roles and values in Black, Hispanic, Asian and Native American families.", 
+      "id": "CSUS_ETHN 133", 
+      "course name": "Crosscultural Aging in America."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Contemporary issues affecting the daily lives of people living in the U.S. - Mexico Borderlands. Theories, gender issues, political, economic and social relationships on both sides of the border will be examined.", 
+      "id": "CSUS_ETHN 136", 
+      "course name": "US Mexican Border Relations"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Socio-economic, historical and contemporary issues affecting the various peoples living in the Latin America and the Caribbean.  We will examine the intersection of race and ethnicity as well as class, gender, and identity, with attention paid to the contributions and presence of Asians, Africans, Europeans, and Indigenous peoples.", 
+      "id": "CSUS_ETHN 137", 
+      "course name": "Race and Ethnicity in Latin America and Caribbean"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Advanced course in American Indian history, political and social relations, with emphasis upon current movements and problems of Native American life.", 
+      "id": "CSUS_ETHN 140", 
+      "course name": "Native American Experience"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Cross Listed: GOVT 141; only one may be counted for credit.", 
+      "description": "Examines the social, political, cultural, and economic factors which have been important to the African diaspora. Examines how African people have responded to those factors, both in terms of formal, political thought, and in terms of political movements and political institutions. Examines thought and proactive, comparability to Africa, U.S., Caribbean, Central and South America. ", 
+      "id": "CSUS_ETHN 141", 
+      "course name": "Politics of the African Diaspora."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the regulatory powers that American Indian tribes possess over their peoples and territories.  Students will acquire an understanding of tribal governmental history, internal affairs, jurisdictional conflicts, government relations, federal Indian public policy and economic development.  The political aspects of tribal government administration and the emergence of self-governance as a foundation for self-determination, development and sustainability will be explored.", 
+      "id": "CSUS_ETHN 142", 
+      "course name": "Native American Tribal Governments"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Students will examine various ways American Indians are imagined by popular culture through film, including drama, comedy and documentary.  Beyond identifying and analyzing images of Indians as well as myths about their historical and contemporary circumstances, students will be challenged to investigate and understand the tenuous relationship between fact and fiction in popular culture.", 
+      "id": "CSUS_ETHN 143", 
+      "course name": "American Indians, Film and Popular Culture"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Through the genre of biography and autobiography, students will examine the relevance of Native voice and memory in reference to the development of identity, cultural transformation, indigenous knowledge, political activism, and historical consciousness.  Students will analyze the political, economic and cultural contexts in which Native voices and memories emerge. ", 
+      "course name": "Native Voice, Memory, and Biography.", 
+      "units": "3 Units", 
+      "id": "CSUS_ETHN 145", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of how Native American oral tradition and storytelling affect the experience of tribal expression. Examines the foundation of this tradition through an analysis and comparison of  traditional and contemporary forms.", 
+      "id": "CSUS_ETHN 150", 
+      "course name": "Native American Oral Tradition and Storytelling"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Examination of the traditional, non-traditional, and contemporary roles of Native American women.  The relationship of these roles to both Indian and non-Indian societies.  An exploration of Native women's issues through histories, literatures, and oral traditions, focusing on Native American women's perspectives.  Colonization has drastically impacted native women and the lives of their families, nations and communities.  Resistance and de-colonization efforts by Native women will be illuminated and analyzed.", 
+      "id": "CSUS_ETHN 151", 
+      "course name": "Native American Women"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Examines the legal history developed between American Indians and Euro-Americans.  Includes an introduction to events, circumstances, and relationships that developed social and legal concepts.  There will  be an examination of constitutional principles, laws and United State's policies from the early 1800's to the present and the impacts of these doctrines on American Indian sovereign powers.  The students will acquire a basic understanding of the sources of political conflict in contemporary American Indian communities and American society.", 
+      "id": "CSUS_ETHN 152", 
+      "course name": "American Indians, Sovereignty and US Laws"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Examines genocide cases, such as the Armenian genocide, the Jewish Holocaust, the genocide of Roma, the Cambodian \"Killing Fields\", genocide in East Timor, ethnic cleansing in Bosnia, the genocide of the Tutsi  in Rwanda and genocide in the Darfur region of Sudan, as well as the genocide of Native Americans, and other indigenous peoples. Addresses causes of, and responses to, genocide around the world, especially in Africa, Asia and Latin America. This phenomenon is examined historically, descriptively, comparatively and theoretically.", 
+      "id": "CSUS_ETHN 155", 
+      "course name": "Genocide and Holocaust Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Common existential experiences of indigenous people all over the world namely the Batwa and Pygmies in Central Africa, the Khoisan of Southern Africa, the Berber in Northern Africa, the Sami in Northern Europe, the Basque in France and Spain, the Hawaiians in the Pacific, the Ainu of Japan, the Aborigines in Australia, and Native Americans in the Americas.", 
+      "id": "CSUS_ETHN 156", 
+      "course name": "Indigenous People"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explores the historical and contemporary development of Chicano/Latino political activity in the United States. Will review essential components of the U.S. political system and examines relevant theories and concepts that have impacted public policy debate related to education, employment, health, housing, immigration, and income inequity. Primarily focuses on the political history and present day circumstances of the three largest Latino groups, Mexican Americans, Puerto Ricans, and Cuban Americans.", 
+      "id": "CSUS_ETHN 161", 
+      "course name": "Chicano/Latino Politics and Public Policy"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Application of research and theory specific to Latino/Chicano and American Indian families; strategies for applying this knowledge to areas of service, therapy, policy, and education.  Lecture/discussion, internet enhancement. ", 
+      "course name": "American Indigenous Families:  Issues and Perspectives", 
+      "units": "3 Units", 
+      "id": "CSUS_ETHN 166", 
+      "prerequisite": [
+        "FACS 166A"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Family is an adaptable and changing institution of society. Research and theory on Asian American families will be highlighted with an emphasis on applying the information to areas of service, therapy, policy, and education. Experiences of various Asian groups in the U. S. will be compared. ", 
+      "course name": "Asian American Families: Issues and Perspectives", 
+      "units": "3 Units", 
+      "id": "CSUS_ETHN 167", 
+      "prerequisite": [
+        "FACS 166B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Investigation into the subjective aspects of Pan African Studies (Black Studies). Covers such topical areas as the struggle by Black Americans for education, the genesis of the Black Studies movement, Black culture, institutional change, etc. The very nature of the course permits the coverage of a broad range of subject matter. Students are encouraged to take specific courses offered by the Pan African Studies program for more extensive investigation.", 
+      "id": "CSUS_ETHN 170", 
+      "course name": "Pan African Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of the African's concept of God with particular emphasis on His works, His relationship to His creations, and His worship. Also covers the concepts of evil, ethics, justice and various metaphysical ideas.", 
+      "id": "CSUS_ETHN 171", 
+      "course name": "African Religions and Philosophies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Examines the historical and social forces that shape the lives of Black women.  Examines the Black woman's role in the family, community, work force and society in general.", 
+      "id": "CSUS_ETHN 172", 
+      "course name": "Black Women In America"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Using the interdisciplinary approach, several institutional factors affecting the structure, evolution, and function of the Black Family unit in the U.S. will be studied. Permits a broad, yet systematic, examination of the Black Family in order to understand the several dynamics affecting the Black Family in particular and Black Americans in general.", 
+      "id": "CSUS_ETHN 173", 
+      "course name": "The Black Family in the United States"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Special topics in African studies.", 
+      "id": "CSUS_ETHN 177", 
+      "course name": "Topics In African Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "This course focuses on the human rights abuses and Genocides that occurred in colonial and post-colonial Africa. It explores Genocide in Rwanda, Darfur, Namibia, and mass killings in Congo. It examines Campaigns of cultural Genocide, ideological pressure, and the involvement of former colonial powers in mass killings. Different approaches of conflict resolution such as the South African Truth and Reconciliation model will be examined. Causes and conditions of Genocide will be interpreted through interdisciplinary literature.", 
+      "id": "CSUS_ETHN 177A", 
+      "course name": "Genocide and Human Rights: Africa"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Provides students with an understanding of the essential role Black music assumes in the development of people of African descent throughout the Black Diaspora. Major topics include the historical development of Black music, the role of music in Black resistance and other forms of political behavior, the economic exploitation of Black music and the Black musician and the influence of globalization.", 
+      "id": "CSUS_ETHN 179", 
+      "course name": "Black Music and Black Consciousness"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Focuses on four or more African-American poets, representing a historical succession of literary periods. ", 
+      "course name": "Forms of African-American Poetry.", 
+      "units": "3 Units", 
+      "id": "CSUS_ETHN 180A", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Focuses on four or more African-American writers of fiction, surveying texts representing a historical succession of literary periods. ", 
+      "course name": "", 
+      "units": "3 Units", 
+      "id": "CSUS_ ", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "This course is designed as an intensive survey of African American cinema that engages questions of history, culture, politics and the overall function of race and representation in American society. Our focus in this class is to understand Pan African filmmakers and their respective films. We will focus on cultural factors intrinsic to Pan African societies and how cinema fits into this context, as well as how issues of gender, sexuality and class impact the films.", 
+      "id": "CSUS_ETHN 181", 
+      "course name": "Cinematic Representations of Pan African Identities"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "This course is designed to be an intensive survey of the evolution of hip hop as a form of social protest that developed into a global cultural movement. The course draws parallels from hip hop's historical function with past and present U.S. social movements advocating for social justice, including the recent #BlackLivesMatter movement. Students will also examine cultural studies theoretical concepts analyzing mainstream's exploitation and marginalization of race, class, gender and sexuality representations in hip hop.", 
+      "id": "CSUS_ETHN 182", 
+      "course name": "Protest in Hip Hop"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to provide students with contemporary theoretical knowledge and practical skills for conducting research in the Asian American, Black American, Chicano, and Native American communities. Methodology which addresses issues and research perspectives distinctly germane to researching a targeted community is examined. ", 
+      "id": "CSUS_ETHN 194", 
+      "course name": "Research in Ethnic Studies"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Allow students, with faculty supervision, to work closely with the ethnic minority communities. Students may work with a community agency, community organization, or other site with instructor approval.  ", 
+      "course name": "Ethnic Studies Fieldwork", 
+      "units": "1 Unit", 
+      "id": "CSUS_ETHN 195A", 
+      "prerequisite": [
+        "ETHN 195B"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Seminar discussions designed to synthesize and assess knowledge in Ethnic Studies courses applied to fieldwork experiences. ", 
+      "course name": "Ethnic Studies Seminar", 
+      "units": "2 Units", 
+      "id": "CSUS_ETHN 195B", 
+      "prerequisite": [
+        "ETHN 195A"
+      ]
+    }, 
+    {
+      "term": " May be repeated twice for total credits not to exceed 6 units. ", 
+      "description": " credits by participating in Ethnic Studies classes as tutors and/or section or discussion leaders; teaching as voluntary instructors or tutors in courses offered by community organizations. ", 
+      "course name": "Co-Curricular Activities", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_ETHN 198", 
+      "prerequisite": [
+        "ETHN 198"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading. Admission requires approval of the faculty member under whom the individual work is to be conducted, the appropriate program director and the Chair of Ethnic Studies.", 
+      "id": "CSUS_ETHN 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Open to classified and unclassified graduate students. Allow qualified students to explore topics, issues, and subjects pertinent to ethnic groups in the U.S.", 
+      "id": "CSUS_ETHN 299", 
+      "course name": "Special Problems/Individual Study"
+    }
+  ], 
+  "subjectOf": {
+    "id": "ETHN", 
+    "subject": "Ethnic Studies"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Ethnic Studies", 
+    "id": "CSUS"
+  }
+}

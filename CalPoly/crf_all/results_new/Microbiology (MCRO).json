@@ -1,0 +1,216 @@
+{
+  "subjectOf": {
+    "id": "MCRO",
+    "subject": "Microbiology"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Microbiology"
+  },
+  "courses": [
+    {
+      "id": "MCRO 100",
+      "course name": "Introduction to Microbiology Research",
+      "hasPrerequisite": "BIO 161",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Group research experience in microbiology through participation in a faculty-student research project.  Foundations of the scientific method including literature review, design of experiments, common laboratory techniques, data analysis, interpretation of results and scientific communication.  Intended for freshmen and sophomores with no research experience.  Priority to MCRO majors.  Credit/No Credit grading only.  1 seminar, 1 laboratory."
+    },
+    {
+      "id": "MCRO 221",
+      "course name": "Microbiology",
+      "hasPrerequisite": "CHEM 110 or CHEM 111 or CHEM 124 or CHEM 127 or PSC 102",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b2; ge area b4"
+      },
+      "description": "Morphology, metabolism, classification, and identification; microbiology of air, soil, water, and foods with applications to industry, agriculture, medicine, and public health.  Not open to students with credit in MCRO224; not open for major credit for BIO/MCRO/MSCI.  3 lectures, 1 laboratory.  Fulfills GE B2 & B4."
+    },
+    {
+      "id": "MCRO 224",
+      "course name": "General Microbiology I",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "BIO 161"
+        },
+        {
+          "prerequisite": "CHEM 111"
+        },
+        {
+          "prerequisite": "CHEM 124 or CHEM 127"
+        }
+      ],
+      "units": "5 units",
+      "inTerm": {
+        "term": "ge area b2; ge area b4"
+      },
+      "description": "Microbial cellular structure and function, nutrition and growth dynamics, control of microbial growth, metabolism, genetics, and viruses.  Both prokaryotic and eukaryotic microorganisms emphasized.  3 lectures, 2 laboratories.  Fulfills GE B2 & B4."
+    },
+    {
+      "id": "MCRO 225",
+      "course name": "General Microbiology II",
+      "hasPrerequisite": "MCRO 224",
+      "units": "5 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Microbial diversity, systematics, ecology, and symbiotic relationships.  Introduction to host-microorganism interactions including pathogenesis, epidemiology, and immunology.  3 lectures, 2 laboratories."
+    },
+    {
+      "id": "MCRO 301",
+      "course name": "Wine Microbiology",
+      "hasPrerequisite": "WVIT 202",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Wine yeasts, bacteria, and molds:  morphology and methods of identification; successful alcoholic and malolactic fermentations; management and prevention of unwanted microbial growth; micro-organisms and flavor development.  3 lectures, 1 laboratory.  Crosslisted as MCRO/WVIT301."
+    },
+    {
+      "id": "MCRO 320",
+      "course name": "Emerging Infectious Diseases",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "BIO 161"
+        },
+        {
+          "prerequisite": "MCRO 221 or MCRO 224"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Summer"
+        }
+      ],
+      "description": "Recent outbreaks of human diseases, interrelationships between infectious disease agents, human biology, and the environment.  Infectious agents and disease processes, virulence mechanisms, and host immune response.  Clinical approaches and surveillance methods to detect, investigate, and monitor emerging pathogens.  Factors involved in the accelerating emergence of diseases and bioterrorist agents.  3 lectures."
+    },
+    {
+      "id": "MCRO 342",
+      "course name": "Public Health Microbiology",
+      "hasPrerequisite": "MCRO 221 or MCRO 224",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Principles of disease prevention and control.  Water-, food-, and air-borne microbial contaminations and epidemiology of ensuing diseases.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "MCRO 402",
+      "course name": "General Virology",
+      "hasPrerequisite": "BIO 351 or CHEM 373",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Infective macromolecules (prions, viroids, and viruses) associated with microbes, plants, and animals.  Epidemiology, immune responses, pathogenicity, carcinogenesis, diagnoses, vaccination, and therapy.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "MCRO 421",
+      "course name": "Food Microbiology",
+      "hasPrerequisite": "MCRO 221 or MCRO 224",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Physiological activities of microorganisms involved in the preparation, preservation, deterioration, and toxicity of foods and related products.  Detection and prevention of spoilage microorganisms and foodborne pathogens.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "MCRO 423",
+      "course name": "Medical Microbiology",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MCRO 225"
+        },
+        {
+          "prerequisite": "CHEM 216"
+        },
+        {
+          "prerequisite": "CHEM 312 or CHEM 316"
+        }
+      ],
+      "units": "5 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Microorganisms as agents of disease in humans.  Epidemiology, host-parasite relationships, and chemotherapy.  The compromised host and opportunistic disease.  Laboratory safety.  Procedures for laboratory diagnosis of human diseases.  Rapid miniaturized methods of identification.  3 lectures, 2 laboratories."
+    },
+    {
+      "id": "MCRO 424",
+      "course name": "Microbial Physiology",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MCRO 225"
+        },
+        {
+          "prerequisite": "CHEM 313 or CHEM 371"
+        }
+      ],
+      "units": "5 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Cellular structure and life processes of bacteria; chemical composition, growth, and metabolism.  General biological and evolutionary considerations.  3 lectures, 2 laboratories."
+    },
+    {
+      "id": "MCRO 433",
+      "course name": "Microbial Biotechnology",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MCRO 221 or MCRO 224"
+        },
+        {
+          "prerequisite": "BIO 303 or BIO 351 or equivalent"
+        },
+        {
+          "prerequisite": "CHEM 216"
+        },
+        {
+          "prerequisite": "CHEM 312 or CHEM 316 or equivalent"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Principles and methods used for production of enzymes, pharmaceuticals, chemicals, and food additives using micro-organisms.  Topics include screening and strain improvement, regulation of metabolite production, genetic engineering, heterologous gene expression systems, large-scale production, and intellectual property.  3 lectures."
+    },
+    {
+      "id": "MCRO 436",
+      "course name": "Microbial Ecology",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "BIO 160"
+        },
+        {
+          "prerequisite": "BIO 161"
+        },
+        {
+          "prerequisite": "BIO 263"
+        },
+        {
+          "prerequisite": "MCRO 221 or MCRO 224"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Ecology and interactions of microorganisms in natural environments.  Role of microorganisms in ecosystem function such as nutrient cycling, extreme environments, symbioses.  Applications of microorganisms in the environment such as bioremediation, biocontrol, biofuels.  Field trip may be required.  2 lectures, 2 activities."
+    }
+  ]
+}

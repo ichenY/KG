@@ -1,0 +1,31 @@
+{
+  "subjectOf": {
+    "subject": "General Education Courses",
+    "id": "GEN"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "General Education Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_GEN 102",
+      "course name": "Digital Literacy for Life & the Workplace",
+      "units": "3 Credits",
+      "description": "This course offers an overview of digital literacy as it applies to personal, academic, financial, and professional success. Students will analyze the impact of digital technology on personal and social communication to develop digital literacy skills that will assist in achieving academic and career goals. An overview of financial literacy in the digital age is introduced with practical strategies for application in personal and professional life."
+    },
+    {
+      "id": "AshFord_GEN 103",
+      "course name": "Information Literacy",
+      "units": "3 Credits",
+      "description": "This course will provide a foundation in information literacy skills. Students will learn distinct research methods for various types of questions as well as develop methods to evaluate resources based on authorship, authority, credibility, information type, currency, and purpose. A focus on the use and acknowledgement of resources will provide students with a ground for future ethical research. The course will emphasize the use of academic research and organization tools with a focus on applying those methods to make informed choices and think critically about various sources of information."
+    },
+    {
+      "id": "AshFord_GEN 499",
+      "course name": "General Education Capstone",
+      "units": "3 Credits",
+      "description": "This course provides students with a cumulative and integrative learning experience grounded in their general education experience. Through the study of selected interdisciplinary topics and course-embedded assessments students will demonstrate mastery of essential competencies and application of different ways of knowing. Students will apply the general education principles informed by ethical and critical sensibility and provide evidence of growth in acquiring the habits of active citizenship. A minimum grade of C   is required to meet course requirements."
+    }
+  ]
+}

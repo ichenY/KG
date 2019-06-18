@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "term": "Fall, Spring", 
+      "description": "Swallowing problems from infancy through old age; growth patterns and failures in younger populations; feeding and swallowing problems related to normal aging processes and those associated with neurogenic disorders. Assessment and treatment. Includes theoretical and experiential components. Overview of the role of Speech-Language Pathologist in the hospital setting including learning how to read medical charts, basic insurance information, understanding other disciplines and how they affect the job and career of an SLP in the hospital, and medical terms/abbreviations. ", 
+      "course name": "Dysphagia and the Medical Setting", 
+      "units": "3 Units", 
+      "id": "CSUS_SPHP 227", 
+      "prerequisite": [
+        "CSAD 218", 
+        "CSAD 221"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Assessment, scheduling and conducting language speech and hearing programs in schools. Related issues including scope of practice, managed care, interagency cooperation and transdisciplinary approaches. ", 
+      "course name": "Speech/Language Internships Seminar", 
+      "units": "2 Units", 
+      "id": "CSUS_SPHP 250", 
+      "prerequisite": [
+        "CSAD 228A", 
+        "CSAD 228B", 
+        "CSAD 228C", 
+        "CSAD 229A", 
+        "CSAD 229B", 
+        "CSAD 229C", 
+        "CSAD 241S", 
+        "CSAD 242A", 
+        "CSAD 242B", 
+        "CSAD 242C", 
+        "CSAD 243A", 
+        "CSAD 243B", 
+        "CSAD 243C", 
+        "CSAD 244", 
+        "CSAD 245", 
+        "CSAD 295I", 
+        "CSAD 295M", 
+        "CSAD 295P", 
+        "CSAD 295S"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "SPHP", 
+    "subject": "Speech Pathology and Audiology"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Speech Pathology and Audiology", 
+    "id": "CSUS"
+  }
+}

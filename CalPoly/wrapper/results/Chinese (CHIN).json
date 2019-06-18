@@ -1,0 +1,41 @@
+{
+  "subject": "Chinese (CHIN)",
+  "courses": [
+    {
+      "Course number & title": " Elementary Mandarin Chinese I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Beginning Mandarin Chinese. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and introduction to Chinese culture. 3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Elementary Mandarin Chinese II",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and introduction to Chinese culture.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Elementary Mandarin Chinese III",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and introduction to Chinese culture.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Intermediate Mandarin Chinese I",
+      "Number of units": "4 units",
+      "Term": "GE Area C5",
+      "Course description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Mandarin Chinese within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "Course number & title": " Intermediate Mandarin Chinese II",
+      "Number of units": "4 units",
+      "Term": "GE Area C5",
+      "Course description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Mandarin Chinese within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "Course number & title": " Intermediate Mandarin Chinese III",
+      "Number of units": "4 units",
+      "Term": "GE Area C5",
+      "Course description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Mandarin Chinese within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    }
+  ]
+}

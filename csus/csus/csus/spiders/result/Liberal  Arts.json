@@ -1,0 +1,99 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": " Writing Intensive  ", 
+      "description": "Interdisciplinary seminar on cultural movements, figures, and art forms of the modern period from the Baroque to the present.  Focus on the West with some global comparison.  Emphasis on theoretical perspectives, methods, and research techniques germane to the liberal arts. ", 
+      "id": "CSUS_LIBA 200C", 
+      "course name": "Culture and Expression: The Modern Period."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Cross Listed: THEA 204; only one may be counted for credit.", 
+      "description": "Study of the relationship between discourses of culture, politics, aesthetics, and live performance. Critical theories drawn from new methodology and ideologies will be applied to theatrical representations, both classical and contemporary. ", 
+      "id": "CSUS_LIBA 204", 
+      "course name": "Performance Of Culture"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the role of the Judeo-Christian apocalypse in the creation of modern realms of discourse, including political thought, modern science, and secular values generally.", 
+      "id": "CSUS_LIBA 208", 
+      "course name": "Politics in the Age of Antichrist: Prophecy and Society, 1500-1800"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Exploration of the relationships and roles of women and men in the context of religious life.  May focus extensively on one or more particular religious traditions cross-culturally, or draw on a wider spectrum of examples.  Special attention paid to the complementary nature of men's and women's roles in many religious traditions; and also the way that male perspectives have dominated many areas of formal religious discourse, noting the dissenting voices of women often hidden in more informal types of expression. ", 
+      "course name": "Gender and Religion in Cross-Cultural Perspective", 
+      "units": "3 Units", 
+      "id": "CSUS_LIBA 210", 
+      "prerequisite": [
+        "HRS 210"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Cross Listed: PSYC 296M; only one may be counted for credit.", 
+      "description": "Examines the presentation of psychological themes in contemporary feature films. It will consider such topics as: Adolescence, Adulthood and Aging, Homosexuality, Drug Addiction, and Physical Disability as they are portrayed in films created for a mass market. ", 
+      "id": "CSUS_LIBA 211", 
+      "course name": "Psychological Issues in Films"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study and analysis of uniquely American cultural patterns, social institutions, and core values, and how they are perceived both in America and abroad.", 
+      "id": "CSUS_LIBA 215", 
+      "course name": "Images of America at Home and Abroad"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Examines two of the more creative literary genres that make up the canonical and deuterocanonical literature of the Jewish and Christian Bibles.  Both the historical and theological underpinnings of wisdom and apocalyptic writing will be explored in-depth, with some consideration given to literary analogues in Egyptian, Mesopotamian and Greek cultures.   Significant research into wisdom and apocalyptic writings outside of the testament framework required. ", 
+      "course name": "Wisdom and Apocalyptic Literature", 
+      "units": "3 Units", 
+      "id": "CSUS_LIBA 226", 
+      "prerequisite": [
+        "HRS 226"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Philosophic investigation of moral problems in the medical world, including decision making, rights and values pertaining to human life, and the principles of justice applied to the health care field.", 
+      "id": "CSUS_LIBA 232", 
+      "course name": "Moral Dilemmas in Modern Medicine"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analytical study of the Nazi extermination of European Jewry, with particular emphasis given to the roots of exterminationist anti-Semitism, and to the cultural response of Jews and non-Jews to the tragedy of mass-murder.", 
+      "id": "CSUS_LIBA 243", 
+      "course name": "The Holocaust"
+    }, 
+    {
+      "term": " may be counted toward the major. ", 
+      "description": "Individual projects or directed reading. ", 
+      "course name": "Special Problems", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_LIBA 299", 
+      "prerequisite": [
+        "LIBA 299"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis, project or comprehensive examination. ", 
+      "id": "CSUS_LIBA 500", 
+      "course name": "Culminating Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "LIBA", 
+    "subject": "Liberal  Arts"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Liberal  Arts", 
+    "id": "CSUS"
+  }
+}

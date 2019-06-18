@@ -1,0 +1,104 @@
+{
+  "subjectOf": {
+    "id": "GSP",
+    "subject": "Graduate Studies-Packaging"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Graduate Studies-Packaging"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_GSP 530",
+      "course name": "Packaging Value Chain",
+      "units": "2 units",
+      "term": [
+        "Winter",
+        "Summer"
+      ],
+      "description": "Packaging value chain from raw material supplier to retailers in the context of meeting current needs within the packaging arena. Global exploration of value chain strategies to increase innovation, sustainability, cost savings, quality, organizational agility, and responsiveness. Course offered online only.",
+      "format": "2 lectures."
+    },
+    {
+      "id": "CalPoly_GSP 532",
+      "course name": "Packaging Materials",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Fundamental and physical properties of packaging materials. Processing of materials. Design and fabrication of packaging materials for efficient, economically viable and environmental sustainable product - package systems for global supply chain solutions. Course offered online only.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSP 533",
+      "course name": "Advanced Packaging Laws and Regulations",
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Overview of packaging laws and regulations. Content ranges from FDA, USDA, FTC, and EPA concepts, to labeling and structural issues such as bio - terror, product security and environmental packaging to materials issues, litigation, international concepts and intellectual property issues. Course offered online only.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_GSP 535",
+      "course name": "Packaging Value in Logistics and Supply Chain Management",
+      "units": "3 units",
+      "term": [
+        "Summer"
+      ],
+      "description": "Integrated view of procurement, operations and logistics management. Management of the flow of products from raw material sourcing and acquisition through delivery to the final user. Capturing and understanding the value across these flows and how to increase it. Course offered online only.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_GSP 536",
+      "course name": "Packaging Design",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Overview of structural and graphic design concepts for package design with focus on creating value throughout the entire packaging value chain. Topics include design thinking, innovation, design processes, two - dimensional and three - dimensional design elements, positioning, value creation, and distribution packaging considerations. Course offered online only.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSP 538",
+      "course name": "Quality Evaluation of Packaged Products",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Overview of the role of quality of packaged product and techniques used for testing and evaluating quality of consumer products as related to material quality assessment, product - package interaction and human - package interaction. Course is offered online only.",
+      "format": "4 Lectures."
+    },
+    {
+      "id": "CalPoly_GSP 539",
+      "course name": "Marketing and Sales for Packaged Products",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Packaging as a means to increase sales of product. Package design, structure, materials and production costs. Exploration of color, imagery, sustainability, and recent trends. Course is offered online only.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSP 540",
+      "course name": "Quantitative Analysis for Packaging",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Analytical and quantitative techniques. Summary measures, smoothing, interpolation curve fitting, root - finding, extrema. Numerical differentiation, integration. Boundary value problems. Numerical simulation. Course is offered online only.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSP 541",
+      "course name": "Corporate Finance for Packaging",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Decisions with financial implications for firms ' owners and stakeholders in the context of packaging. Choice of best packaging alternative from the financial standpoint. Course offered online only.",
+      "format": "4 Lectures."
+    }
+  ]
+}

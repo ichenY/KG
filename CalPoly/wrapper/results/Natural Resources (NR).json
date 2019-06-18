@@ -1,0 +1,401 @@
+{
+  "subject": "Natural Resources (NR)",
+  "courses": [
+    {
+      "Course number & title": " Careers in Natural Resources Management and Environmental Sciences",
+      "Number of units": "1 unit",
+      "Term": "CR/NC",
+      "Course description": "Analysis and development of career goals in natural resources and environmental sciences. Acquainting students with potential career options and preparation of academic plans for the majors in the Natural Resources Management and Environmental Sciences Department. Credit/No Credit grading. 1 activity. Crosslisted as ERSC/NR140."
+    },
+    {
+      "Course number & title": " Introduction to Forest Ecosystem Management",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Fundamentals of forestry including basic silviculture, forest protection, measurement and policy. Integrated resource management of forest lands for water production, forage, recreation, wildlife, and timber. 3 lectures."
+    },
+    {
+      "Course number & title": " Environmental Management",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Environmental management as a process within functioning societies seeking a harmonious balance between human activities and intrinsic behavior of the natural environment.  Major components of the natural environment and the political and social activities that impact that environment.  3 lectures."
+    },
+    {
+      "Course number & title": " Resource Law Enforcement",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Law enforcement applied to natural resource conservation on public and private lands. Examination of state and federal laws related to fish and wildlife management. Problems associated with implementation of resource laws examined. 3 lectures. Crosslisted as NR/RPTA203."
+    },
+    {
+      "Course number & title": " Wildland Fire Control",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Fire control techniques used on various wildland fuels. Elementary fire physics, fuels, weather, fire behavior, tactics and fire suppression techniques, line construction, 'mop-up', fire line safety, air operations and fire organization. Meets basic wildland fire fighter certification requirements for the USDA Forest Service. Partially meets California Department of Forestry Firefighter I requirements. 2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Dendrology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Identification, classification, silvical characteristics, distribution, environmental requirements and economic importance of woody plants in shrub, woodland, and forest ecosystems of the United States.  Emphasis on species located in the Pacific Coastal, Sierran, and Cascade ecosystems.  2 lectures, 2 laboratories."
+    },
+    {
+      "Course number & title": " Land and Resource Measurements",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Introduction to land and resource measurement technology and methods - field instruments, property description, map and photograph reconciliation, data accuracy and precision. Trigonometric functions as applied to natural resources applications. Field trips required. 1 laboratory."
+    },
+    {
+      "Course number & title": " Applications in GIS",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "ARC/INFO and ArcView Geographic Information System (GIS) computer software to explore environmental, natural resource, social and economic issues using spatial data. Develop and apply data base and software management competencies. 1 lecture, 2 laboratories. Crosslisted as LA/NR218."
+    },
+    {
+      "Course number & title": " Forest Surveying",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Use and care of tapes, staff compass, abney levels, total stations, and GPS receivers.  Keeping field notes, measurements by tape.  Closed and open traverse by compass and total stations.  Turning angles and determining directions of lines.  Map reading and public land description.  GPS measurements.  Weekend field trips required.  1 lecture, 1 laboratory.  Crosslisted as BRAE/NR247."
+    },
+    {
+      "Course number & title": " Forest Practices and Environmental Protection",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Relationships between forest ecosystem management, forest practices, harvesting methods, timber harvest planning, components of forest harvesting, harvesting effects; cost analysis of harvesting methods; safety management; value-added forest utilization; environmental protection; and road location.  Overnight or weekend field trips required.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Selected Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " Intercollegiate Forestry Activities",
+      "Number of units": "1 unit",
+      "Term": "CR/NC",
+      "Course description": "Beginning through advanced skills in the event areas of college forestry activities.  Instruction in use of specialized equipment and safety.  Minimum of 4 hours of laboratory per week.  Total credit limited to 18 units.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Natural Resource Ecology and Habitat Management",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Resource ecology and management implications in the major ecosystems of North America.  Importance of maintaining the natural dynamics of energy flow and nutrient cycles at the community and ecosystem level to sustain uses and values.  Humanity's role as a principal factor of change of the resources in natural systems.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Fire Ecology",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Effects of wildland fires on shrub, woodland, and forest environments to include fuels, plants, soil, water, wildlife, and air.  Emphasis on western U.S.  forest and shrub ecosystems.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Fire and Society",
+      "Number of units": "4 units",
+      "Term": "GE Area D5",
+      "Course description": "Prehistorical and historical record of human use of and attitude toward fire.  Mythology and religion of fire.  Traditional, cultural and ethnic variations and their influence on modern U.S.  institutions involved in managing fire.  3 lectures, 1 activity.  Crosslisted as ES/NR308.  Fulfills GE D5."
+    },
+    {
+      "Course number & title": " Technology of Wildland Fire Management",
+      "Number of units": "4 units",
+      "Term": "GE Area F",
+      "Course description": "Models and technology to solve complex land management problems.  Historic, current and future perspectives of wildland fire in California.  Sustainability and ecosystem health.  Assumptions and limitations of fire behavior and suppression models.  3 lectures, 1 activity.  Fulfills GE Area F."
+    },
+    {
+      "Course number & title": " Environmental Life-Cycle Analysis",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W, SP",
+      "Course description": "Estimation and assessment of environmental impacts of human activity and product development using life-cycle analysis methodology; organization and presentation of modeling results.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Measurements and Sampling in Forested Environments",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W, SP",
+      "Course description": "Principles and methods of sampling and measurement for forest and natural resource quantities and qualities.  Modeling and estimation for tree volumes, stand structure and composition, and related forest vegetation.  Applications in sampling, statistical and inventory techniques.  2 lectures, 2 laboratories.  Overnight, weekend field laboratories required."
+    },
+    {
+      "Course number & title": " The World of Spatial Data and Geographic Information Technology",
+      "Number of units": "4 units",
+      "Term": "GE Area F",
+      "Course description": "Basic foundation for understanding the world through geographic information and tools available to utilize spatial data.  Application of Geographic Information Systems (GIS) and related technologies, including their scientific basis of operation.  Not open to students with credit in LA/NR218.  3 lectures, 1 activity.  Crosslisted as LA/NR317.  Fulfills GE Area F."
+    },
+    {
+      "Course number & title": " Watershed Processes and Management",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Introduction, analysis, and measurement of watershed processes of precipitation, evapotranspiration, streamflow, stream channels, erosion, and riparian functions.  Watershed management toward aquatic habitat and water quality goals.  Weekend field trip required.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Water Systems Technology, Issues and Impacts",
+      "Number of units": "4 units",
+      "Term": "GE Area F",
+      "Course description": "Sustainable strategies and technologies to enhance freshwater supplies and marine habitats.  Systems treated include artificial wetlands, stormwater, drinking water, agricultural and industrial waste water.  3 lectures, 1 activity.  Fulfills GE Area F."
+    },
+    {
+      "Course number & title": " Human Dimensions in Natural Resources Management",
+      "Number of units": "4 units",
+      "Term": "GE Area D5",
+      "Course description": "Social, economic, political and ecological conditions and institutions that influence decisions affecting the environment; examination of human-caused environmental impacts and how they in turn influence social institutions.  4 lectures.  Fulfills GE D5 except for Forestry and Natural Resources majors."
+    },
+    {
+      "Course number & title": " Social Dimensions of Sustainable Food and Fiber Systems",
+      "Number of units": "4 units",
+      "Term": "GE Area D5",
+      "Course description": "Historical, political, socio-economic, and cultural dimensions of sustainable food and fiber systems.  Overview of frameworks used for understanding agro-ecological sustainability with an emphasis on human elements.  Exploration of core sustainability concepts, practices, and goals through case studies.  4 lectures.  Fulfills GE D5 except for Environmental Management and Protection majors."
+    },
+    {
+      "Course number & title": " Natural Resources Economics and Valuation",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Theory of efficient use of renewable and nonrenewable natural resources, including methods for attaching value to marketable and non-market natural resources.  Environmental economic theories and techniques to address allocation of water, timber, wildlife/fisheries, open space, and recreation.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Conflict Management in Natural Resources",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Application of behavioral science principles and techniques in the management of natural resource systems.  Management of internal and external human resource issues and concerns in natural resources organizations is emphasized.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Internship in Forest and Natural Resources",
+      "Number of units": "1-12 units",
+      "Term": "CR/NC",
+      "Course description": "Selected students will spend up to 12 weeks with an approved firm or agency engaged in forest or natural resources management.  Applying and developing managerial skills and abilities.  One unit of credit may be allowed for each full week of completed and reported internship.  Credit/No Credit grading."
+    },
+    {
+      "Course number & title": " Wildland Fire Management",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Wildland fuels, fire weather, and fire danger ratings in chaparral, grassland, and forested areas.  Advanced modeling of surface and crown fire behavior.  Fire management strategies and implications, policies and objectives of fire management organizations.  Saturday field trips may be required.  3 lectures."
+    },
+    {
+      "Course number & title": " Urban Forestry",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Establishment and management of municipal forests, wildland-urban interface, wildlife habitat, and pollution abatement.  Management of forest areas requiring special attention because of heavy recreational use, fire hazard, watershed, and societal values.  Full-day field trips may be required.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Introduction to Emergency Management in California",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Emergency management emphasizing the Standardized Emergency Management System (SEMS) and Emergency Operations Center (EOC) operations.  Earthquake hazard used as the case to explore potential wide geographic impacts, multiple secondary hazards, and multidisciplinary problem-solving methods in natural disasters faced by local governments and communities.  2 lectures, 1 activity.  Crosslisted as CRP/NR351."
+    },
+    {
+      "Course number & title": " Ethnicity and the Land",
+      "Number of units": "4 units",
+      "Term": "GE Area C4; USCP",
+      "Course description": "Comparative study of how race and culture shape landscapes, and how social hierarchies allocate the use of natural resources and the burdens of environmental pollution.  4 lectures.  Crosslisted as ES/NR360.  Fulfills GE C4 and USCP."
+    },
+    {
+      "Course number & title": " Silviculture and Vegetation Management",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Applied forest ecology focusing on development of prescriptions for achieving diverse forest ecosystem management objectives.  Topics include natural stand dynamics, traditional/contemporary silvicultural systems, forest health assessments/diagnoses, emulating natural disturbances, and managing ecosystem services.  Overnight and/or weekend field trips required.  2 lectures, 2 laboratories."
+    },
+    {
+      "Course number & title": " Special Problems for Advanced Undergraduates",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 12 units."
+    },
+    {
+      "Course number & title": " Disaster Recovery",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Strategies and procedures for public sector management of recovery from disasters.  Understanding the role of, and relationship between, federal, state and local agencies to provide assistance to individuals and communities in the post-disaster environment.  Issues in the recovery process.  2 lectures, 1 activity.  Crosslisted as CRP/NR401."
+    },
+    {
+      "Course number & title": " Forest Health",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Impact and losses to forested areas caused by physical and biotic agents (such as insects and diseases) other than fire; relation of direct and indirect control practices to forest management.  Saturday field trips required.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Environmental Law",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Detailed examination of the law governing use and protection of natural resources with focus on the legal institutions entrusted with the public duty of protecting the environment.  3 lectures.  Crosslisted as CRP/NR404."
+    },
+    {
+      "Course number & title": " Indigenous Peoples and International Law and Policy",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Interdisciplinary examination of the evolution of international law effecting indigenous peoples in the U.S.  and in the Americas.  Development of international legal and sociological norms and their impact on human rights of indigenous peoples with particular attention to environmental issues.  4 lectures.  Crosslisted as ES/NR406."
+    },
+    {
+      "Course number & title": " Water Resource Law and Policy",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Detailed examination of the various legal systems of water use, regulation and management in California and the United States.  Discussion on the key concepts and principles of state, federal and interstate water quantity and quality control; focusing on issues and problems, why conflicts occur and how solutions evolve.  3 lectures.  Crosslisted as CRP/NR408."
+    },
+    {
+      "Course number & title": " Senior Assessment Project",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Principles and practices of integrated sampling and inventory of natural resource values in terrestrial ecosystems, culminating in a student project report.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Sustainable Forest Management",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Biophysical, economic, social and political influences on optimal forest management for purposes of providing sustained yields of goods and services.  Growth and yield modeling; forest investment analysis; sustainable forest production; harvest schedule modeling.  Day field trip required.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Environmental Impact Analysis and Management",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "National Environmental Policy and California Environmental Quality Acts as applied to environmental and natural resource management problems and projects.  Intent, purpose and history of the laws; differences between laws identified.  Request for proposals and preparation of environmental assessment documents covered.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Applied GIS",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Acquisition, organization and analysis of spatial data from diverse sources using Geographic Information System (GIS) software.  GIS modeling applications and validation techniques used in development and preparation of client-driven projects.  1 lecture, 2 activities."
+    },
+    {
+      "Course number & title": " Watershed Assessment and Protection",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Analysis of streamflow, peak flows, and land management effects using established techniques and hydrologic models.  Fluvial processes, sediment transport, and channel restoration techniques.  Assessment and restoration of watersheds toward protection of aquatic and public resources.  Weekend field trips required.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Wetlands",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "The formation, characteristics, and functions of wetlands.  Genesis of hydric soils.  Plant adaptations to saturated soils.  Wetlands as wildlife habitat.  Policies and social issues associated with wetlands.  The procedures of wetland delineations.  3 lectures, 1 laboratory.  Crosslisted as BIO/NR/SS421."
+    },
+    {
+      "Course number & title": " Applied Resource Analysis and Assessment",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Environmental impacts in responses to resource management, projects, programs and activities.  Preparation, implementation, and coordination of environmental plans.  Criteria for measurements, interpretation, and evaluation.  Resource inventories, analysis, evaluation, synthesis, environmental assessment writing and preparation.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Wood Properties, Products and Sustainable Uses",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Principles of wood properties, green building practices, sustainable and efficient use of renewable wood resources including methods for using wood as an energy source.  Field trips required.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Environmental Policy Analysis",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Policy process approach to understanding the efforts to resolve natural resource problems in the public and private sector.  Principles and techniques used to analyze the effects of environmental policies.  Analysis of major federal and state environmental laws.  4 lectures."
+    },
+    {
+      "Course number & title": " Wildland-Urban Fire Protection",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Biophysical and socioeconomic issues affecting wildland fire management in urbanized landscapes.  Fire risk assessment.  Pre-fire prevention, mitigation, and preparedness, during-fire response, and post-fire recovery actions by public- and private-sector agencies and residents.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Ecosystem Management",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Capstone course that integrates biophysical, economic and socio-political sciences.  Principles, concepts and techniques designed to utilize resources while sustaining ecosystem health within acceptable limits of change.  Ecosystem assessment, planning, management and monitoring project.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures."
+    },
+    {
+      "Course number & title": " Selected Advanced Laboratory",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories."
+    },
+    {
+      "Course number & title": " Leadership Practice",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Tasks associated with development of personal leadership skills.  Study and practice in setting goals and objectives; developing, evaluating and implementing a project independently and as part of a team; decision making and problem-solving emphasized.  Total credit limited to 4 units.  1 laboratory.  Crosslisted as NR/RPTA472."
+    },
+    {
+      "Course number & title": " Sustainable Forest and Environmental Practices",
+      "Number of units": "12 units",
+      "Term": "Term Typically Offered: SU",
+      "Course description": "Typical modules related to sustainable forest management, ecosystem sampling and inventory methods, photo interpretation, hydrologic resources, road condition, project impact analysis, best management practices.  Topics covered vary from term to term depending on the priority for learning modules.  Residency at Swanton Pacific and extended field trips required.  8 lectures, 4 activities.  Crosslisted as HNRS/NR475."
+    },
+    {
+      "Course number & title": " Senior Project - Advanced Internship Experience in Environmental Science/Management",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Independent internship experience conducted under faculty supervision focusing on a discipline area of environmental science/management.  Completion of a project as a component of their internship.  Satisfies the senior project requirement.  Minimum 90 hours required.  Crosslisted as ERSC/NR476."
+    },
+    {
+      "Course number & title": " Senior Project - Research Experience in Environmental Science",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Guided research experience in a specific area of environmental science.  Implementation of materials and methods.  Collection, analysis and interpretation of data.  Completion of formal written report.  Satisfies senior project requirement.  1 lecture, 2 laboratories.  Crosslisted as ERSC/NR477."
+    },
+    {
+      "Course number & title": " Senior Project - Current Topics in Environmental Science/Management",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Critical evaluation and formal presentation of current issues in environmental science/management.  Evaluation of current topics, analysis of supporting evidence, and synthesis and presentation of resulting perspectives on different approaches to current challenges in environmental science/management.  Satisfies the senior project requirement.  3 lectures.  Crosslisted as ERSC/NR478."
+    },
+    {
+      "Course number & title": " Senior Project - Independent Study",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 90 hours total time.  Crosslisted as ERSC/NR479."
+    },
+    {
+      "Course number & title": " Individual Study",
+      "Number of units": "1-3 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Advanced independent study planned and completed under the direction of a member of the department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Total credit limited to 4 units."
+    },
+    {
+      "Course number & title": " Tropical Forest Ecosystem",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Tropical forest ecosystem classification, function and limitations.  Applied tropical forest management systems; tropical problems, management, and political strategies; over-grazing and desertification; overcutting and fuelwood shortages.  3 seminars."
+    },
+    {
+      "Course number & title": " Applications in Biometrics and Econometrics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Parametric and semi-parametric statistical methods in modeling biological and economic phenomena.  Biometric modeling of stand growth and inventory.  Econometric modeling of market and environmental values.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Environmental Modeling",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Methods and modeling approaches used in quantifying ecological and environmental processes and conditions, such as fire behavior, wildland hydrology, terrestrial and aquatic habitat condition, using GIS and other models.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Graduate Internship in Forest Resources",
+      "Number of units": "1-9 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Application of theory to the solution of problems of forest resources or related businesses in the field.  Analyze specific management problems and perform general management assignments detailed in a contract between the student, the firm or organization, and the faculty advisor before the internship commences.  Degree credit limited to 6 units."
+    },
+    {
+      "Course number & title": " Selected Topics in Forest Resources",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1-4 seminars."
+    },
+    {
+      "Course number & title": " Selected Topics Forest Resources Laboratory",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group laboratory of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1-4 laboratories."
+    },
+    {
+      "Course number & title": " Applications in Advanced Watershed Hydrology",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Techniques and applications in watershed hydrology to real-world projects.  Projects could include water quality or quantity assessments, water quality or channel morphology monitoring, and structural and non-structural enhancements for channel and upland watersheds, culminating in a final report and presentation.  2 laboratories."
+    },
+    {
+      "Course number & title": " Graduate Seminar in Environmental Sciences",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Student study and presentation of selected developments, trends and problems in the field of forest and natural resources, earth and soil sciences, and environmental management.  3 seminars.  Crosslisted as NR/SS581."
+    },
+    {
+      "Course number & title": " Thesis",
+      "Number of units": "1-9 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Individual research in forest or natural resources management under the general supervision of faculty, leading to a graduate thesis.  Degree credit limited to 9 units."
+    }
+  ]
+}

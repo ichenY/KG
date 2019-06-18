@@ -1,0 +1,171 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": " Taught in ASL without voice. ",
+      "description": "Students will learn basic vocabulary and grammar of American Sign Language. Upon completion of this course, students will be able to exchange basic information about themselves and their families such as their names, where they live, and their interests. Through out-of-class readings, in-class discussions and demonstrations, and experiences within the deaf community, students are exposed to elements of the deaf culture and community. ",
+      "id": "CSUS_DEAF 51",
+      "course name": "American Sign"
+    },
+    {
+      "term": " Taught in ASL without voice.  ",
+      "description": ". Expansion of conversational range includes talking about other people and activities, giving directions, and making requests. Students develop discourse skills appropriate for establishing connections with deaf acquaintances and handling a variety of interruptions. Through in-class discussions/demonstrations, course readings, and out-of-class field experience, students are exposed to elements of the deaf culture and community. ",
+      "course name": "American Sign",
+      "units": "3 Units",
+      "id": "CSUS_DEAF 52",
+      "prerequisite": [
+        "DEAF 51",
+        "DEAF 51"
+      ]
+    },
+    {
+      "term": " Taught in ASL without voice.  ",
+      "description": " to talk about people and places in a contextually-reduced framework. Students learn to describe places, objects, and events. Students develop basic narrative skills to tell about past events. Through in-class discussions/demonstrations, course readings, and out-of-class field experience, students are exposed to elements of the deaf community and culture. ",
+      "course name": "American Sign",
+      "units": "4 Units",
+      "id": "CSUS_DEAF 53",
+      "prerequisite": [
+        "DEAF 52"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students will develop increased fluency in their expressive and receptive abilities in fingerspelling through in-class practice and viewing of videotaped narratives. Students will also reinforce their abilities to utilize ASL numbering systems for time, money, measurements, and game scores, amount others. ",
+      "course name": "ASL Fingerspelling and Numbers",
+      "units": "1 Unit",
+      "id": "CSUS_DEAF 56",
+      "prerequisite": [
+        "DEAF 52"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students will develop increased understanding of the types and uses of classifiers in ASL and develop further abilities to utilize this component of ASL in their expressive and receptive signing abilities through in-class practice, viewing of videotaped narratives, and individual practice outside of class. ",
+      "course name": "ASL Classifiers",
+      "units": "2 Units",
+      "id": "CSUS_DEAF 57",
+      "prerequisite": [
+        "DEAF 53"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Course introduces students to topics central to the deaf and deaf community, including audiology, education, culture, and history. Utilizing readings, lectures and group discussion, students will learn about the anatomy and causes of deafness, early intervention and education of deaf children, communication strategies and their effectiveness, the deaf as a cultural group and deaf/hearing relationships. Upon course completion, students will understand deaf individuals and their community in a holistic perspective and apply this knowledge toward further studies into the deaf culture and community.",
+      "id": "CSUS_DEAF 60",
+      "course name": "Introduction to Deaf Studies"
+    },
+    {
+      "term": " Taught in ASL without voice.  ",
+      "description": "Principles, methods and techniques of manual communication with deaf people using American Sign Language. Emphasis on the continuation of developing advanced manual communication skills with a focus on techniques for informing others of factual information and instruction about rules and methods for students who will work or interact with adult deaf persons. Continuation of the analysis of the culture of deafness with emphasis on participation in the community. ",
+      "course name": "American Sign",
+      "units": "4 Units",
+      "id": "CSUS_DEAF 154",
+      "prerequisite": [
+        "DEAF 53"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Students will build upon communicative skills developed in EDS 154 to develop and expand on their abilities to discuss parts of the body and health conditions, tell a personal narrative about themselves and moments in theirs and others' lives, as well as to retell and translate simple stories into ASL. ",
+      "course name": "American Sign",
+      "units": "4 Units",
+      "id": "CSUS_DEAF 155",
+      "prerequisite": [
+        "DEAF 154"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "An overview of the education of the deaf from prehistoric times to the present will be provided. Roots of current trends and events in deaf education will be explored, with projections for the future. Current issues such as mainstreaming, cochlear implants, communication modalities for instruction and others are discussed in both a historical context and from a deaf perspective. ",
+      "course name": "Deaf History",
+      "units": "3 Units",
+      "id": "CSUS_DEAF 161",
+      "prerequisite": [
+        "DEAF 60",
+        "DEAF 154"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Course introduces students to deaf people as a cultural and linguistic minority in America through coverage of sociolinguistic, anthropological, and historic issues in the development of deaf culture and community in America and worldwide. Utilizing readings, lectures and group discussion, topics will include: theories of culture; language use; cross-cultural interaction and intercultural processes, and deaf literature and art. Upon course completion, students will understand current and past educational, legal and medical policies and their impact on deaf and hard-of-hearing people. ",
+      "course name": "Deaf Culture and Community",
+      "units": "3 Units",
+      "id": "CSUS_DEAF 162",
+      "prerequisite": [
+        "DEAF 60",
+        "DEAF 154"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Students will be exposed to a number of ASL stories on videotape, learn several different forms of ASL literature and develop their own stories and narratives in each format.  They will understand the effects of genre, style, perspective, and other artistic techniques on ASL storytelling, and utilize similar techniques in their developed stories. Students may perform their stories for a general audience. ",
+      "course name": "ASL Literature",
+      "units": "3 Units",
+      "id": "CSUS_DEAF 163",
+      "prerequisite": [
+        "DEAF 57",
+        "DEAF 60",
+        "DEAF 154",
+        "DEAF 161",
+        "DEAF 162",
+        "DEAF 164"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Examines origins and linguistic structure of American Sign Language (ASL). Cross-linguistic comparisons with spoken and signed languages of other countries will be made. Students will learn aspects of ASL phonology, morphology and syntax. Sociolinguistic aspects of ASL usage in regard to gender, ethnicity, geographical region and educational status will be discussed. Conducted entirely in American Sign Language. ",
+      "course name": "Sign Language Structure and Usage",
+      "units": "3 Units",
+      "id": "CSUS_DEAF 164",
+      "prerequisite": [
+        "DEAF 154"
+      ]
+    },
+    {
+      "term": " May be repeated when diffrent topic is offered.  ",
+      "description": "This course will explore a specific theme of interest to faculty and students within the program, with course content changed each semester. Selected topics will touch upon issues of special concern and interest to the Deaf community such as genetics, multicultural issues, media representations of deafness, theatre and performance art, visual arts, and other subjects which may arise in the fiuture. Course will consist of readings, discussion, independent research, and viewing of various media as appropriate. ",
+      "course name": "Seminar: Current Issues in the Deaf -World",
+      "units": "2 - 5 Units",
+      "id": "CSUS_DEAF 165",
+      "prerequisite": [
+        "DEAF 60",
+        "DEAF 154",
+        "DEAF 161",
+        "DEAF 162"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "This course links active participation in the Deaf community to the content of previous Deaf Studies courses. In particular this course examines how to be a good ally within the Deaf community in the midst of a context of power, privilege and difference. Following a Service Learning model, student teams will collaborate on various service projects contributing to the Deaf community. In addition, some students may be assigned volunteer placements serving the Deaf community. ",
+      "course name": "Experiences in the Deaf Community",
+      "units": "3 Units",
+      "id": "CSUS_DEAF 166",
+      "prerequisite": [
+        "DEAF 155",
+        "DEAF 161",
+        "DEAF 162",
+        "DEAF 164"
+      ]
+    },
+    {
+      "term": " Departmental petition required.  ",
+      "description": "Individual projects designed especially for students capable of independent study. ",
+      "course name": "Independent Study in Deaf Studies",
+      "units": "1 - 3 Units",
+      "id": "CSUS_DEAF 199",
+      "prerequisite": [
+        "DEAF 154"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "DEAF",
+    "subject": "Deaf Studies"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Deaf Studies",
+    "id": "CSUS"
+  }
+}

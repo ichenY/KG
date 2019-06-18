@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Review of elementary algebra and measurement geometry through a program of independent study. ", 
+      "id": "CSUS_LS 10I", 
+      "course name": "ELM Self-Paced Course"
+    }
+  ], 
+  "subjectOf": {
+    "id": "LS", 
+    "subject": "Learning Skills"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Learning Skills", 
+    "id": "CSUS"
+  }
+}

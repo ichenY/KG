@@ -1,0 +1,239 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Introduction to the field of Graphic Design. Subjects include career possibilities, current trends, issues and practices in the industry. The basic theory, techniques and practices involved in solving a visual communication problem will also be introduced.",
+      "id": "CSUS_GPHD 5",
+      "course name": "Introduction to Graphic Design"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Designed to familiarize students with basic understanding of the digital hardware, software, and vocabulary utilized by visual artists from a variety of disciplines.  Discussions and activities will cover both creative and efficient application of digital tools and techniques. Students will complete assignments utilizing a variety of applications which may include page layout, illustration, digital image processing, and 3-D rendering software.",
+      "id": "CSUS_GPHD 10",
+      "course name": "Introduction to Digital Design"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Overview of the history of graphic design. Emphasis on symbol, type, and image development, from early pictographs to modern communication design.",
+      "id": "CSUS_GPHD 20",
+      "course name": "History Of Graphic Design"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides a basic understanding of how visual structures are created and interpreted. Students study the main components of visual structures, become familiar with basic laws of color, and learn the basics of the gestalt principles of visual organization. ",
+      "course name": "Visual Basics",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 25",
+      "prerequisite": [
+        "ART 20A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to the tools, materials and methodologies the creative process in graphic design. Students study the main components of visual structures, become familiar with basic laws of color, and learn the basic principles of visual organization. The skill of rapid prototyping, through the processes of idea development, thumbnailing, sketching, and mockup, will be covered. Basic concepts in visual systems and graphic message making will be introduced. A special emphasis will be placed on craftsmanship in this course.  ",
+      "course name": "Visual Basics II",
+      "units": "5 Units",
+      "id": "CSUS_GPHD 30",
+      "prerequisite": [
+        "GPHD 25"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Explores the history and perceptual development of type and its application to design principles. Language and technology will be reviewed. Problems will demonstrate theoretical concepts and their application. ",
+      "course name": "Typography I - Theory",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 120",
+      "prerequisite": [
+        "GPHD 5",
+        "GPHD 20",
+        "ART 20A",
+        "PHOT 40",
+        "GPHD 10",
+        "GPHD 25",
+        "GPHD 30",
+        "GPHD 122",
+        "GPHD 125"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Introduction to project management techniques specific to the creative business and technical processes for graphic design. Orchestration of image editing, vector and compositing software will be covered with an emphasis in accuracy and efficiency. Various codes and regulations related to graphic design will be reviewed. ",
+      "course name": "Design Production and Management",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 122",
+      "prerequisite": [
+        "GPHD 5",
+        "GPHD 20",
+        "ART 20A",
+        "PHOT 40",
+        "GPHD 10",
+        "GPHD 20",
+        "GPHD 25",
+        "GPHD 30",
+        "GPHD 120",
+        "GPHD 125"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Introduction to the language and perception of design. Elements of art and their relationship to the applied art of type, visual organization, and message. Design for advertising, marketing, and business. Ideation, creative thinking methods, thumbnails, storyboarding and presentational techniques. Computer integration with a variety of applications and techniques. ",
+      "course name": "Visual Principles I",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 125",
+      "prerequisite": [
+        "GPHD 5",
+        "GPHD 20",
+        "ART 20A",
+        "PHOT 40",
+        "GPHD 10",
+        "GPHD 20",
+        "GPHD 25",
+        "GPHD 30",
+        "GPHD 120",
+        "GPHD 122"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Advanced typography and its relationship with message. Application of typographic principles to a diverse series of graphic design problems utilizing type and image. Computer integration with a variety of applications and techniques. ",
+      "course name": "Typography II - Publication and Collateral Design",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 130",
+      "prerequisite": [
+        "GPHD 120",
+        "GPHD 122",
+        "GPHD 125",
+        "GPHD 135"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Emphasis is on design of a user-centered experience in an interactive environment. Enables the students to understand the characteristics of relevant technology and select appropriate forms and functions to create specific experience for users. ",
+      "course name": "User Interface Design",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 135",
+      "prerequisite": [
+        "GPHD 120",
+        "GPHD 122",
+        "GPHD 125",
+        "GPHD 130"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Emphasis on the development of conceptual themes, formal exploration, and user-centered interaction in time-based multimedia design.  Enables the students to create vital experiences using text, sound, image, motion, and interactivity. ",
+      "course name": "Time-Based Graphic Design",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 140",
+      "prerequisite": [
+        "GPHD 130",
+        "GPHD 135",
+        "GPHD 142",
+        "GPHD 145"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Builds on established research, process and project management techniques and provides students with the opportunity to focus on a practical investigation in design.  Theoretical, professional, and historical issues facing the design profession will be reviewed.  Development of both visual and written research material will culminate in an oral presentation and then be applied to an appropriate project. ",
+      "course name": "Advanced Graphic Design I",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 142",
+      "prerequisite": [
+        "GPHD 130",
+        "GPHD 135",
+        "GPHD 140",
+        "GPHD 145"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Advanced exploration of visual study.  Students will learn to orchestrate a diverse yet unified visual campaign for a particular client.  Image making will be stressed in this course as students experiment with techniques and media including but not limited to photography and illustration. ",
+      "course name": "Visual Image",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 145",
+      "prerequisite": [
+        "GPHD 130",
+        "GPHD 135",
+        "GPHD 140",
+        "GPHD 142"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Introduction to the concepts and tools used in a digital portfolio production for entry into the practice of design or the advanced study. Exploration and development of the graphic design portfolio and resume in digital and print form. Discussions will cover such topics as networking, interview tips, employment issues, and presentation skills. ",
+      "course name": "Graphic Design Digital Portfolio",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 150",
+      "prerequisite": [
+        "GPHD 140",
+        "GPHD 142",
+        "GPHD 145",
+        "GPHD 152",
+        "GPHD 155"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Advanced course in graphic design that requires students to provide solutions to real world design problems.  Helps refine the students individual design process and advance their understanding of professional practice.  Professional, business, and ethical issues facing the design profession will be reviewed.  Development of both visual and written material will be required in a group environment as well as oral and visual presentations of this material. ",
+      "course name": "Advanced Graphic Design II",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 152",
+      "prerequisite": [
+        "GPHD 140",
+        "GPHD 142",
+        "GPHD 145",
+        "GPHD 150",
+        "GPHD 155"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Applied design and typography. Combines the study of symbol, function, and implementation. Investigates design problems from their origin, defining the problem through exploration of various creative solutions, to final design of a symbol applied to various corporate and business collateral. ",
+      "course name": "Corporate Identity and System Design",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 155",
+      "prerequisite": [
+        "GPHD 140",
+        "GPHD 142",
+        "GPHD 145",
+        "GPHD 150",
+        "GPHD 152"
+      ]
+    },
+    {
+      "term": " may be counted toward the major.  ",
+      "description": "Directed observation and supervised work experience in an approved business, government, or service agency. Internships are offered to increase student understanding of the nature and scope of agency operations and giving students orientation in occupational specialties. Supervision is provided by authorized persons in the cooperating agencies and collaborative supervision is provided by the Graphic Design faculty. Minimum of three hours per week per unit of credit is required. Each student maintains a record of activities and assignments and prepares periodic reports. ",
+      "course name": "Fieldwork in Graphic Design",
+      "units": "3 Units",
+      "id": "CSUS_GPHD 195",
+      "prerequisite": [
+        "GPHD 130",
+        "GPHD 135",
+        "GPHD 195"
+      ]
+    },
+    {
+      "term": " may be counted toward a Graphic Design degree. ",
+      "description": "Individual projects or directed projects open to students who wish to attempt independent work. ",
+      "course name": "Special Problems",
+      "units": "1 - 3 Units",
+      "id": "CSUS_GPHD 199",
+      "prerequisite": [
+        "GPHD 199"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "GPHD",
+    "subject": "Graphic Design"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Graphic Design",
+    "id": "CSUS"
+  }
+}

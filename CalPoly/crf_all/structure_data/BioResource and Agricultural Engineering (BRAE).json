@@ -1,0 +1,907 @@
+{
+  "subjectOf": {
+    "id": "BRAE",
+    "subject": "BioResource and Agricultural Engineering"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "BioResource and Agricultural Engineering"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_BRAE 121",
+      "course name": "Agricultural Mechanics",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Identification and use of tools and materials ; shop safety ; tool sharpening and care ; concrete mixes and materials ; simple electric wiring ; metal work ; pipe fitting ; basic woodworking ; estimating quantities and costs. Students are required to meet safety regulations in laboratory work.",
+      "format": "1 lecture, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 128",
+      "course name": "Careers in Bioresource and Agricultural Engineering",
+      "units": "2 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduction to careers associated with BioResource and Agricultural Engineering, and Agricultural Systems Management. Professional engineering registration process. Engineering problem solution and report format. Design procedures. Engineering fundamentals. Laboratory includes visits to facilities relating to career opportunities.",
+      "format": "1 lecture, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 129",
+      "course name": "Laboratory Skills and Safety",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to fabrication and construction materials used in the field of Agricultural Engineering. Fabrication skills in the development of wood, metal, concrete projects, and creative design. Strength tests of wood, fasteners, concrete, and student design projects.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 133",
+      "course name": "Introduction to Engineering Design Graphics",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Visual communication in engineering design and problem solving. Principles of freehand sketching, engineering graphics, and computer - aided - drafting. Perspective and orthographic sketching, orthographic drawing with instruments and computer, applied descriptive geometry.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 141",
+      "course name": "Agricultural Machinery Safety",
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Evaluation of safe tractor and equipment operation. Supervised field operation emphasizing the safe and efficient performance of modern farm and utility - industrial equipment.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 142",
+      "course name": "Agricultural Power and Machinery Management",
+      "prerequisite": [
+        "MATH 116 or equivalent"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Evaluation of agricultural machinery and tractor power performance. Equipment studied includes primary and secondary tillage tools, grain drills, row crop planters, sprayers, grain and forage harvesters, and specialty crop harvesters. Emphasis on management, selection, cost analysis using computers and efficient operation of agricultural machinery.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 151",
+      "course name": "CAD for Agricultural Engineering",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Computer aided drafting on a desktop personal computer using Autocad software. Drawing setup. 2-D projections including automatic dimensioning and hatching. Isometric construction, drawing layers, library symbols. Use of 3-D drawing software.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 152",
+      "course name": "3-D Solids Modeling",
+      "prerequisite": [
+        "BRAE 133",
+        "BRAE 151 or equivalent courses"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to 3-dimensional solids modeling using state - of - the - art software. Model generation and modification of associative properties, assembly modeling, extrusions and revolutions.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies or surveys of selected problems. Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "CalPoly_BRAE 203",
+      "course name": "Agricultural Systems Analysis",
+      "prerequisite": [
+        "MATH 118 or equivalent"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Agricultural Systems Analysis investigates the interrelationships between sub - components in an overall system. Problem solving algorithms, network analysis, project planning techniques, and optimization.",
+      "format": "2 lectures, 2 activities."
+    },
+    {
+      "id": "CalPoly_BRAE 213",
+      "course name": "Bioengineering Fundamentals",
+      "prerequisite": [
+        "MATH 142"
+      ],
+      "units": "2 units",
+      "term": [
+        "ge area b2"
+      ],
+      "description": "Treatment of the engineering applications of biology. Genetic engineering and the industrial application of microbiology. Systems physiology with engineering applications. Structure and function relationships in biological systems. The impact of life on its environment. Course may be offered in classroom - based or online format. 2 lectures. Crosslisted as BMED / BRAE213. Fulfills GE B2."
+    },
+    {
+      "id": "CalPoly_BRAE 216",
+      "course name": "Fundamentals of Electricity",
+      "prerequisite": [
+        "BRAE 129",
+        "MATH 142",
+        "PHYS 131"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Application of electricity in BioResource and Agricultural Engineering, including basic electric circuits. Will include wiring materials, code regulations, electrical measurements, R - L - C circuit fundamentals, system planning, motors, basic electronics, and an introduction to computer usage.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 232",
+      "course name": "Agricultural Structures Planning",
+      "prerequisite": [
+        "BRAE 151",
+        "PHYS 132"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Planning of facilities required in production systems. Materials and processes used in construction of agricultural structures. Environmental factors affecting crop storage structures and animal housing. Design of structural environments to meet the needs of commodities, animals, and plants.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 234",
+      "course name": "Introduction to Mechanical Systems in Agriculture",
+      "prerequisite": [
+        "PHYS 131"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Introduction to elements used in the mechanical transmission of power and force in agricultural systems. Power transmission using v - belts. roller chain, gear and shaft drives, hydraulic actuators. Linear and nonlinear actuation devices including linkages, cams, and hydraulic / pneumatic cylinders.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 236",
+      "course name": "Principles of Irrigation",
+      "prerequisite": [
+        "MATH 141",
+        "SS 121"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Land grading design, operation, management, and evaluation of irrigation methods.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 237",
+      "course name": "Introduction to Engineering Surveying",
+      "prerequisite": [
+        "MATH 119 or equivalent"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "An introduction to basic field note keeping as well as the use of steel tapes, automatic levels, total stations and survey tools. Training in the procedures for differential and profile leveling ; angle measurement and traversing. Hands - on experience with the use of GPS for surveying. An understanding in computations to determine direction, elevations, and earthwork volumes. Practice in map reading and building layout.",
+      "format": "1 lecture, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 239",
+      "course name": "Engineering Surveying",
+      "prerequisite": [
+        "MATH 119 or equivalent"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Development of proper field note taking and procedures for measuring using automatic levels, total stations and GPS systems. Understanding in the procedures and computations for differential leveling, profiles, traversing, triangulation and topographic surveys. Computations in traverse adjustment, contour mapping, earthwork volumes, curve alignments and building layout. Understanding in map reading, the use of datums, photogrammetry, CAD design and boundary law.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_BRAE 240",
+      "course name": "Agricultural Engineering Laboratory",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual projects. Total credit",
+      "grading": "limited to 4 units",
+      "format": ". 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 244",
+      "course name": "Precision Farming",
+      "prerequisite": [
+        "AEPS 133 or AEPS 190 or AEPS 260 or BRAE 237 or BRAE 239"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Precision agriculture applications. Integrating GIS, GPS, and remote sensing technologies with site - specific farming practices to optimize agricultural productivity. Field trip required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 247",
+      "course name": "Forest Surveying",
+      "prerequisite": [
+        "NR 215"
+      ],
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Use and care of tapes, staff compass, abney levels, total stations, and GPS receivers. Keeping field notes, measurements by tape. Closed and open traverse by compass and total stations. Turning angles and determining directions of lines. Map reading and public land description. GPS measurements. Weekend field trips required.",
+      "format": "1 lecture, 1 laboratory.",
+      "other": "Crosslisted as BRAE / NR247."
+    },
+    {
+      "id": "CalPoly_BRAE 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BRAE 301",
+      "course name": "Hydraulic and Mechanical Power Systems",
+      "prerequisite": [
+        "PHYS 121 or PHYS 141"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Selection, application and use of hydraulic components and mechanical power transmission equipment. Use of standardized circuit design procedures.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 302",
+      "course name": "Servo Hydraulics",
+      "prerequisite": [
+        "BRAE 216 or BRAE 324",
+        "BRAE 234 or BRAE 301"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Application of microcomputers and programmable logic controllers to hydraulic, pneumatic and mechanical systems. Theory, instrumentation and sensors used in process and control systems used in agricultural equipment.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 312",
+      "course name": "Hydraulics",
+      "prerequisite": [
+        "PHYS 132",
+        "ME 211"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Static and dynamic characteristics of liquids, flow in open and closed channels, uniform and nonuniform flow, flow measurement, pumps.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 320",
+      "course name": "Principles of Bioresource Engineering",
+      "prerequisite": [
+        "BRAE 232",
+        "BRAE 236",
+        "PHYS 132"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Theory and applications of bioprocess technology in biological and agricultural systems. Engineering properties of biological materials and organisms. Basic unit operations, fluid mechanics and heat / mass transfer as applied to bioprocess technology. Special requirements of agricultural and biological processes.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 321",
+      "course name": "Agricultural Safety",
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Principles of agricultural safety. Accident causation and prevention, hazard identification and abatement, laws and regulations. Machinery, electrical, chemical, livestock, shop and fire safety. Safety program development.",
+      "format": "2 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_BRAE 324",
+      "course name": "Principles of Agricultural Electrification",
+      "prerequisite": [
+        "MATH 119",
+        "PHYS 121"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Applications of DC / AC electricity in agriculture. National Electric Code regulations. The wiring of agricultural structures and electrical distribution. Series, parallel and series - parallel circuits, R - L - C circuits, electric motors, electronics.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 328",
+      "course name": "Measurements and Computer Interfacing",
+      "prerequisite": [
+        "EE 321",
+        "EE 361",
+        "CSC 231 or CSC 232 or CSC 234"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Transducers and engineering measurements in agricultural engineering. Covering transducer characteristics, signal processors and controllers, instrumentation techniques, and the use of the computer in the measurement and control of typical engineering problems.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 331",
+      "course name": "Irrigation Theory",
+      "prerequisite": [
+        "BRAE 236"
+      ],
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Plant - water - soil relations using evapo - transpiration, plant stress, soil moisture deficiency, frequency and depth of irrigation, salinity, infiltration, drainage and climate control.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_BRAE 335",
+      "course name": "Internal Combustion Engines",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Principles of operation of internal combustion engines. Theory of operation and diagnosis evaluation and repair of small engines, gasoline and diesel engines and economics of operation, use and repair. Power analysis and application.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 337",
+      "course name": "Landscape Irrigation",
+      "prerequisite": [
+        "MATH 118"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Design of sprinkler and drip irrigation systems including : site characteristics, soil variables affecting water storage and infiltration rate, plant selection and hydrozones, hydraulics, nozzle spacing, selection of system components, back flow prevention, plumbing codes and cost estimating. Irrigation system evaluation and audit irrigation scheduling, and water budget.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 339",
+      "course name": "Internship in Bioresource and Agricultural Engineering",
+      "units": "1-12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Students will spend up to 12 weeks with an approved agricultural firm engaged in production or related business. Time will be spent applying and developing production and managerial skills and abilities. One unit of credit may be allowed for each full week of completed and reported internship. Degree credit limited to 6 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_BRAE 340",
+      "course name": "Irrigation Water Management",
+      "prerequisite": [
+        "MATH 118 or higher"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Soil - plant - water relationships ; evapotranspiration ; irrigation schedules ; salinity and drainage ; irrigation efficiency. Water measurement ; soil moisture measurement ; irrigation systems and practical constraints affecting scheduling. California water supply and budget ; water rights ; local, state and federal water institutions ; California water issues.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_BRAE 342",
+      "course name": "Agricultural Materials",
+      "prerequisite": [
+        "PHYS 121",
+        "SS 121",
+        "MATH 119"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Physical properties of agricultural materials and their measurement. Strength of materials, material flow and transport, material deformation, shape and size classification, moisture relationships and biological interactions. Interactions between agricultural materials, the environment and equipment used to handle them.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 343",
+      "course name": "Mechanical Systems Analysis",
+      "prerequisite": [
+        "BRAE 342"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Use of statics and dynamics to make original calculations, plans, sketches, graphics, drawings, schemes and layouts for the fabrication and construction of machines.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 344",
+      "course name": "Fabrication Systems",
+      "prerequisite": [
+        "BRAE 343"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Fabrication systems including cutting, sawing, shearing, bending, welding, grinding, cleaning, painting and proper safety procedures. Experimental projects to include team design and construction, presentation, organization, and evaluation.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_BRAE 345",
+      "course name": "Aerial Photogrammetry and Remote Sensing",
+      "prerequisite": [
+        "MATH 118"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Object recognition, three - dimensional equipment, and interpretation of aerial photographs. Print alignment, stereoscopic viewing, scales, elevation determination, and application. Orthophotos and their relationship to Geographic Information Systems ( GIS ). Application of aerial photos to regional studies.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 348",
+      "course name": "Energy for a Sustainable Society",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Study of how the transition can be made from fossil fuels to renewable energy sources including hydro, biomass, solar, wind, and energy conservation. Environmental, economic, and political consequences of a renewable energy - based sustainable society.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_BRAE 400",
+      "course name": "Special Problems",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems in agriculture. Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "CalPoly_BRAE 403",
+      "course name": "Agricultural Systems Engineering",
+      "prerequisite": [
+        "MATH 242 or MATH 244"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Engineering and economic principles combined with mathematical optimization techniques to evaluate parameters in agricultural production and processing systems. Project planning techniques, linear and nonlinear modeling, response surface methodology. Professional responsibilities in Agricultural Engineering including ethics, patents, copyrights, liability.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 405",
+      "course name": "Chemigation",
+      "prerequisite": [
+        "BRAE 236 or BRAE 340"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Spring"
+      ],
+      "description": "Fertilizer and chemical injection through irrigation systems. Hardware, fertilizer compounds, and distribution uniformity. Matching chemicals and equipment to specific irrigation methods. Safety.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 414",
+      "course name": "Irrigation Engineering",
+      "prerequisite": [
+        "BRAE 331 or BRAE 340",
+        "BRAE 312 with a grade of C or better"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Design of on - farm irrigation systems ; micro, surface, and sprinkler irrigation systems ; canals and pumps ; economic and strategies of pipe design ; pipeline protection.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 418",
+      "course name": "Agricultural Systems Management I",
+      "prerequisite": [
+        "BRAE 203",
+        "AGB 301",
+        "AGB 310"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Project management of agricultural systems. Emphasis placed on a team approach to problem solution. Case studies and student projects used to explore the following topics : project leadership, project organization, communication, needs assessment, feasibility studies, cost analysis, decision making, solution implementation, and evaluation.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 419",
+      "course name": "Agricultural Systems Management II",
+      "prerequisite": [
+        "BRAE 418"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Project management of agricultural systems. Emphasis placed on a team approach to problem solution. Case studies and student projects used to explore the following topics : project leadership, project organization, communication, needs assessment, feasibility studies, cost analysis, decision making, solution implementation, and evaluation.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_BRAE 421",
+      "course name": "Equipment Engineering",
+      "prerequisite": [
+        "BRAE 152",
+        "CE 204",
+        "ME 212"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Design and construction of specialized agricultural components and equipment.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 422",
+      "course name": "Equipment Engineering",
+      "prerequisite": [
+        "BRAE 421"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Design and construction of specialized agricultural components and equipment.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_BRAE 425",
+      "course name": "Computer Controls for Agriculture",
+      "prerequisite": [
+        "BRAE 324"
+      ],
+      "units": "3 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Computer activated controls as applied to agricultural machinery, agricultural structures, processing and irrigation industries. Encompassing control logic to evaluate stability behavior of systems of computer interfacing, data input and control output.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 428",
+      "course name": "Agricultural Robotics and Automation",
+      "prerequisite": [
+        "BRAE 328"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Agricultural applications of signal processing, control theories, machine vision and robot basics for agricultural production and processing. Approaches and constraints related to agricultural automation and the use of robotics in field applications. Engineering approach to problem - solving and experimental data analysis. Field trip required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 432",
+      "course name": "Agricultural Buildings",
+      "prerequisite": [
+        "PHYS 121",
+        "BRAE 342",
+        "BRAE 343"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Selection of buildings, storage units, and related equipment for production agriculture. Economics and functionality of various designs and construction materials. Environmental factors affecting crop storage and animal housing.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 433",
+      "course name": "Agricultural Structures Design",
+      "prerequisite": [
+        "BRAE 232",
+        "CE 204"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Structural analysis and design of agricultural service and processing buildings. Emphasis on use of wood, metals, and reinforced concrete in light construction.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 434",
+      "course name": "Automotive Engineering for a Sustainable Future",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Multidisciplinary investigation of automotive renewable fuels and electric / hybrid vehicles. Analyze and design related technologies and systems. Methods for complete - cycle energy and GHG analysis. Comparative emissions, efficiency, power output, and infrastructure requirements. Laboratory projects converting engines and vehicles to operate on alternative fuels or electric propulsion.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as BRAE / EE434."
+    },
+    {
+      "id": "CalPoly_BRAE 435",
+      "course name": "Drainage",
+      "prerequisite": [
+        "BRAE 312 or BRAE 340"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Relevant principles of hydrology and porous media flow. Flow nets, wells and ground water, design of simple surface and sub - surface drains.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 438",
+      "course name": "Drip/Micro Irrigation",
+      "prerequisite": [
+        "BRAE 236 or BRAE 340"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Drip / micro irrigation hardware and management. Emphasizes agricultural drip / micro irrigation with some landscape application. Filtration, emitters, chemical injection, agronomic constraints, and scheduling. Field trip(s ) included.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 440",
+      "course name": "Agricultural Irrigation Systems",
+      "prerequisite": [
+        "BRAE 340 or graduate st"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "On - farm irrigation system evaluation and management. Drip, micro - spray, furrow, border strip, sprinkler systems. Irrigation efficiency and uniformity. Pumping costs. For non - BRAE majors only.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 447",
+      "course name": "Advanced Surveying with GIS Applications",
+      "prerequisite": [
+        "BRAE 239"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Collecting field data ; processing the data ; generating graphical representation of the data ; design based on the data and laying out the design in the field ; and available record resources for use in GIS systems and their accuracy.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_BRAE 448",
+      "course name": "Bioconversion",
+      "prerequisite": [
+        "MATH 118 or equivalent"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Biological, thermal and physical techniques for converting biomass into useful energy forms for agriculture and industry. Laboratory exercises include experiments with anaerobic digestion of animal wastes into methane, ethanol fermentation of grains and composting of agricultural residues. Technical and economic feasibility of biofuels.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 450",
+      "course name": "Solar Photovoltaic System Engineering",
+      "prerequisite": [
+        "PHYS 118",
+        "PHYS 121"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Engineering principles, design, and installation of solar photovoltaic power systems including grid - tie and off - grid systems. Photonic energy conversion, solar module engineering, solar power electronics, photovoltaic site planning, mechanical and structural considerations, permit processes, government incentives, and analysis of financial and investment issues. Field trips required.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as BRAE / EE / HNRS450."
+    },
+    {
+      "id": "CalPoly_BRAE 460",
+      "course name": "Senior Project Organization",
+      "units": "1 unit",
+      "term": [
+        "Fall"
+      ],
+      "description": "Selection and organization of senior project. Involves time management, research techniques, budgeting and project presentation. Documentation of multidisciplinary team experience. 1 lecture."
+    },
+    {
+      "id": "CalPoly_BRAE 461",
+      "course name": "Senior Project I",
+      "prerequisite": [
+        "BRAE 460"
+      ],
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Solution of an engineering or systems management problem in agriculture. May involve research methodology, problem statement, analysis, synthesis, project design, construction, and evaluation. Project requires 150 hours with a minimum of faculty supervision."
+    },
+    {
+      "id": "CalPoly_BRAE 462",
+      "course name": "Senior Project II",
+      "prerequisite": [
+        "BRAE 461"
+      ],
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Solution of an engineering or systems management problem in agriculture. May involve research methodology, problem statement, analysis, synthesis, project design, construction, and evaluation. Project requires 150 hours with a minimum of faculty supervision."
+    },
+    {
+      "id": "CalPoly_BRAE 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    },
+    {
+      "id": "CalPoly_BRAE 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_BRAE 481",
+      "course name": "Advanced Agricultural Mechanics",
+      "units": "2 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Advanced shop skills. Carpentry, electricity, plumbing, surveying, power mechanics, tractor equipment operation and maintenance.",
+      "format": "1 lecture, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 485",
+      "course name": "Cooperative Education Experience in BioResource and Agricultural Engineering",
+      "units": "6 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Part - time work experience with an approved BioResource and Agricultural Engineering firm engaged in production or related business, industry or governmental agency. Positions are paid and usually require relocation and registration in course for two consecutive quarters. Formal report and evaluation by work supervisor required. Major credit limited to 4 units ; total credit limited to 12 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_BRAE 495",
+      "course name": "Cooperative Education Experience in BioResource and Agricultural Engineering",
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Full time work experience with an approved BioResource and Agricultural Engineering firm engaged in production or related business, industry or governmental agency. Positions are paid and usually require relocation and registration in course for two consecutive quarters. Formal report and evaluation by work supervisor required. Major credit limited to 4 units ; total credit limited to 12 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_BRAE 500",
+      "course name": "Individual Study",
+      "units": "1-3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Advanced study planned and completed under the direction of a member of the department faculty. Open only to graduate students who have demonstrated ability to do independent work. Enrollment by petition. Total credit limited to 6 units, repeatable in same term."
+    },
+    {
+      "id": "CalPoly_BRAE 532",
+      "course name": "Water Wells and Pumps",
+      "prerequisite": [
+        "BRAE 312 or BRAE 340 or CE 336 or ME 341"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Water well drilling, design, and development. Pump characteristics and system head. Series and parallel operation. Design of pump intakes. Variable speed electric drives and engines. Pump testing.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 533",
+      "course name": "Irrigation Project Design",
+      "prerequisite": [
+        "BRAE 340 or BRAE 312 or equivalent (hydraulics/fluid mechanics course)"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Engineering solutions and social aspects of improved water delivery to farms and canal automation. Flow measurement. Water user associations. Unsteady canal and pipeline controls. PID controls and modeling.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BRAE 570",
+      "course name": "Selected Advanced Topics in BioResource and Agricultural Engineering",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "1 to 4 seminars."
+    },
+    {
+      "id": "CalPoly_BRAE 571",
+      "course name": "Selected Advanced Laboratory in Bioresources and Agricultural Engineering",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_BRAE 599",
+      "course name": "Thesis in BioResource and Agricultural Engineering",
+      "units": "1-9 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Systematic research of a significant problem in bioresource and agricultural engineering. Thesis will include problem identification, significance, methods, data analysis, and conclusion. Students must enroll every quarter in which facilities are used or advisement is received. Degree credit",
+      "grading": "limited to 6 units"
+    }
+  ]
+}

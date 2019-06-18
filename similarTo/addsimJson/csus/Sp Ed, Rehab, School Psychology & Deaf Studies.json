@@ -1,0 +1,653 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Descriptive and interpretative statistics in education and allied fields. Use of calculators and statistical tables. Lecture three hours.",
+      "id": "CSUS_EDS 140",
+      "course name": "Introductory Behavioral Statistics"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Legislative provisions related to implementation of special education programs and procedures will be a primary focus. Additional emphasis will be given to pertinent judicial decisions and to law as it relates to special education in a multicultural context.",
+      "id": "CSUS_EDS 201",
+      "course name": "Legal Aspects of Special Education"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines topics and issues in neurodevelopmental disabilities and includes educational, clinical, habilitative, therapeutic, and medical perspectives.  Focuses on collaborative, interdisciplinary perspectives on educational and related interventions with students who have neurodevelopmental disabilities.",
+      "id": "CSUS_EDS 202",
+      "course name": "Seminar in Neurodevelopmental Disabilities"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Review of literature, and simulated experience in the various roles of the resource specialist in special education programs in the schools. Professional problem-solving strategies; standards and procedures; model program organizational alternatives; management approaches of resource specialist program (RSP); major developments and trends at Federal, State and local levels; references to legal provisions, rules and regulations in special education. ",
+      "course name": "Seminar for Resource Specialists: Management and Delivery of Services",
+      "units": "3 Units",
+      "id": "CSUS_EDS 203",
+      "prerequisite": [
+        "EDS 201"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Prepares Mild/Moderate/Severe and multiple subject teacher candidates to teach mathematics content standards for California public schools. Prepares teacher candidates with the knowledge of basic principles and strategies related to mathematics education. Candidates develop, implement, and evaluate math curricula appropriate for those students receiving special education services with mild/moderate/severe disabilities. Expanded treatment of mathematics pedagogy, manipulative, technological supports, accommodations, inclusive instructional techniques, and strategies specially suited in instruction of English language learners and students with disabilities. Prerquisite: Admittance to Mild/Moderate or Moderate/Severe Credential Program or permission of respective special education coordinator.  ",
+      "course name": "Mathematics Curriculum and Instruction in Inclusive Classrooms",
+      "units": "2 Units",
+      "id": "CSUS_EDS 213A",
+      "prerequisite": [
+        "EDS 213B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ") in a setting for students who receive special and/or general education services. ",
+      "course name": "Mathematics Curriculum and Instruction in Inclusive Classrooms Lab",
+      "units": "1 Unit",
+      "id": "CSUS_EDS 213B",
+      "prerequisite": [
+        "EDS 213A",
+        "EDS 213A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Prepares mild/moderate/severe and multiple subject teacher candidates to teach history-social science content standards for California public schools to all students, including English Learners and students with disabilities; to use analytical and critical thinking skills in history and social science; and to integrate history-social science topics, themes and concepts with other subject areas. Pedagogical topics include the use of timelines, maps, and artifacts, case studies, simulations, literature, art, multiple perspectives, SDAIE, cooperative projects, and research activities. ",
+      "course name": "Social Science Curriculum and Instruction in Inclusive Classrooms",
+      "units": "2 Units",
+      "id": "CSUS_EDS 214A",
+      "prerequisite": [
+        "EDS 214B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ") in a setting for students who receive special and/or general education services. ",
+      "course name": "Social Science Curriculum and Instruction in Inclusive Classrooms Lab",
+      "units": "1 Unit",
+      "id": "CSUS_EDS 214B",
+      "prerequisite": [
+        "EDS 214A",
+        "EDS 214A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Prepares mild/moderate/serve and multiple subject teacher candidates to teach science content standards for California public schools to all students. Give participants the knowledge of basic principles and strategies related to science education appropriate for general education (k-8) teacher candidates. Participants will also develop, implement, and evaluate science curricula appropriate for those students with mild/moderate/severe disabilities. This includes an expanded treatment of science pedagogy, manipulative, technological supports, accommodations, inclusive instructional techniques, and other strategies specially suited to the instruction of English Learners and students with disabilities. ",
+      "course name": "Science Curriculum and Instruction in Inclusive Classrooms",
+      "units": "2 Units",
+      "id": "CSUS_EDS 215A",
+      "prerequisite": [
+        "EDS 215B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ") in a setting for students who receive special and general education services. ",
+      "course name": "Science Curriculum and Instruction in Inclusive Classrooms Lab",
+      "units": "1 Unit",
+      "id": "CSUS_EDS 215B",
+      "prerequisite": [
+        "EDS 215A",
+        "EDS 215A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students will learn to use positive behavioral supports to enhance the quality of life for individuals with serious behavioral challenges.  Using the research-based methods and materials from the National Rehabilitation Research and Training Center on Positive Behavioral Support, provides the student with a thorough background in functional assessment and the design of positive behavioral support plans which are in compliance with both state (Hughes Bill) and federal (IDEA) law.  After individual assessment and support plans have been covered, moves to class-wide methods of positive behavioral support and school-wide methods.  The content is research-based. ",
+      "course name": "Positive Behavioral Support: Effective Individual, Class-wide and School-wide Applications (Moderate",
+      "units": "3 Units",
+      "id": "CSUS_EDS 217",
+      "prerequisite": [
+        "EDSP 119",
+        "EDSP 205",
+        "EDSP 206",
+        "EDSP 207",
+        "EDSP 208",
+        "EDSP 216",
+        "EDSP 220",
+        "EDSP 235",
+        "EDS 291A",
+        "EDS 291B",
+        "EDSP 413",
+        "EDSP 414"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the premises of workforce development and advocacy with emphases on adult learning styles and learning communities.   Explores the specific needs of the formal and informal vocational, technical and adult learning community in an ever-changing work environment.",
+      "id": "CSUS_EDS 222",
+      "course name": "Perspectives Workforce Dev"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_EDS 223",
+      "course name": "Organization Learning Comm"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_EDS 224",
+      "course name": "WF Assess+Accountability"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_EDS 226",
+      "course name": "Resource Enhance For WDA"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_EDS 227",
+      "course name": "Issues Impacting WDA"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_EDS 228",
+      "course name": "Sem:Future Workforce Dev"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Designed to equip students with the group process skills and understanding essential to the practice of school psychology. Focus on both developing counseling groups within the schools and on the understanding of group process necessary to being an effective agent in the school setting. Topics include the logistics of working within a school system, balancing groups, soliciting referrals, sharing information, participating in staff meeting, and facilitating parent teacher and other school level meetings such as Individualized Education Program Planning meetings.",
+      "id": "CSUS_EDS 231",
+      "course name": "Group Process in School Psychology"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Explores leadership roles of school psychologists. ",
+      "id": "CSUS_EDS 239",
+      "course name": "Education Specialist Seminar"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Assessment of behaviors using the techniques of applied behavior analysis. Students will learn how to do functional assessments of behavior. Methods appropriate for assessment of children in the school setting are emphasized. ",
+      "id": "CSUS_EDS 240",
+      "course name": "Functional Assessment of Behavior"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of basic theories of counseling and therapy used by school psychologists, with emphasis on children and youths inn an educational setting and their families. Refinement of one's own counseling orientation is required. ",
+      "course name": "Counseling and Psychotherapy for School Psychologists",
+      "units": "3 Units",
+      "id": "CSUS_EDS 241",
+      "prerequisite": [
+        "EDS 440"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Designed to introduce prospective school psychologists to both theory and practice in the assessment of cognitive abilities. Students will be exposed to various approaches to cognitive assessment including information processing, CBA, dynamic, and psychometric. Students will learn to administer and interpret major standardized cognitive assessment instruments including the WISC-R, WAIS-R, Stanford-Binet FE, K-ABC, and others. Lecture. ",
+      "course name": "Cognitive Assessment",
+      "units": "3 Units",
+      "id": "CSUS_EDS 242A",
+      "prerequisite": [
+        "EDS 242B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Clinic based practice lab.  Lab will be a synthesis and application of course content in the assessment of cognitive function.  Students will be assigned clients for purposes of administering, scoring, evaluating and reporting assessment data. ",
+      "course name": "Cognitive Assessment Lab",
+      "units": "4 Units",
+      "id": "CSUS_EDS 242B",
+      "prerequisite": [
+        "EDS 242A"
+      ]
+    },
+    {
+      "term": ". May be taken twice for credit. ",
+      "description": ". Students will be assigned five to seven cases. They will assess the children, meet with the families to gather history, and render interpretation. ",
+      "course name": "Assessment Practicum",
+      "units": "3 Units",
+      "id": "CSUS_EDS 243",
+      "prerequisite": [
+        "EDS 242A",
+        "EDS 244",
+        "EDS 247",
+        "EDS 242A",
+        "EDS 242B",
+        "EDS 244",
+        "EDS 247"
+      ]
+    },
+    {
+      "term": ", unless granted special permission of faculty. ",
+      "description": ". Students will be assigned five cases. They will assess the children, meet with the families to gather history, and render interpretation.  ",
+      "course name": "Assessment Practicum A",
+      "units": "3 Units",
+      "id": "CSUS_EDS 243A",
+      "prerequisite": [
+        "EDS 242A",
+        "EDS 244",
+        "EDS 244"
+      ]
+    },
+    {
+      "term": ", unless granted special permission of faculty.  ",
+      "description": ". Students will be assigned five to seven cases (with some cases in Fieldwork placements). Development of skills in assessment, analysis of data, intervention planning and conveying results orally and in writing. ",
+      "course name": "Assessment Practicum",
+      "units": "3 Units",
+      "id": "CSUS_EDS 243B",
+      "prerequisite": [
+        "EDS 243A",
+        "EDS 247",
+        "EDS 242A",
+        "EDS 243A",
+        "EDS 244",
+        "EDS 247",
+        "EDS 247"
+      ]
+    },
+    {
+      "term": ".  ",
+      "description": ". Students will be assigned cases by the practicum supervisor as appropriate. Students are expected to successfully engage in all stages of assessment process with clients.  ",
+      "course name": "Assessment Practicum",
+      "units": "3 Units",
+      "id": "CSUS_EDS 243C",
+      "prerequisite": [
+        "EDS 243B",
+        "EDS 243A",
+        "EDS 243B",
+        "EDS 244",
+        "EDS 247",
+        "EDS 243A",
+        "EDS 243B"
+      ]
+    },
+    {
+      "term": " Must be admitted to School Psychology Program.  ",
+      "description": ":  Assessment Practicum. ",
+      "course name": "Social, Emotional and Behavioral Assessment",
+      "units": "3 Units",
+      "id": "CSUS_EDS 244",
+      "prerequisite": [
+        "EDS 242A",
+        "EDS 242B",
+        "EDS 243",
+        "EDS 243"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Overview of psychology in the schools.  Topics include school systems, program development, service delivery models and the role of the school psychologist.  Students will engage in systematic school observations. ",
+      "id": "CSUS_EDS 245",
+      "course name": "Psychology In The Schools"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study and application of various primary, secondary, and tertiary academic interventions designed to prevent school failure and/or learning challenges. Examines techniques of identifying pupils who are experiencing academic difficulties that interfere with school functioning, and intervention techniques designed to remediate or ameliorate these problems. ",
+      "id": "CSUS_EDS 246A",
+      "course name": "Preventive Academic Interventions"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study and application of various primary, secondary, and tertiary psychological interventions designed to prevent school failure and/or emotional challenges. Examines techniques of identifying pupils who are experiencing mental health difficulties that interfere with school functioning, and intervention techniques designed to address these problems. ",
+      "id": "CSUS_EDS 246B",
+      "course name": "Preventive Mental Health Interventions"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Assessment of client behavior using formal and non-formal methods based on neuropsychological principles. Students will learn to use interview techniques, standardized cognitive and projective tests, and neuropsychological screening procedures to assess students with special needs. Report writing, parent conferences, and consultation strategies will be stressed.",
+      "id": "CSUS_EDS 247",
+      "course name": "Assessment of Special Needs"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Cognitive, socio-emotional and personality development through the lifespan (with emphasis on birth through early adulthood) as influences on the learning process.   Includes analysis of theories, empirical research and current issues in human development and learning as applied to school learning.",
+      "id": "CSUS_EDS 248",
+      "course name": "Human Development and Learning"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Departmental petition required. ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_EDS 249",
+      "course name": "Special Seminar: School Psychology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Leads to the development of a Professional Level II Education Specialist Credential induction plan for the support and professional development of the teacher credential candidate as required by the California Commission on Teacher Credentialing.  The candidate, the university advisor, and the employer's representative work together to plan course work, and provide individual assistance, and professional development opportunities to address individual performance goals.  Seminar. ",
+      "course name": "Advanced Teacher Induction Seminar",
+      "units": "2 Units",
+      "id": "CSUS_EDS 252A",
+      "prerequisite": [
+        "EDS 252B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Level II candidate, university advisor/supervisor and employer's representative work collaboratively to develop a professional plan which relates to the CCTC standards and the individual learning needs of the student.  The class is designed as a lab to support the acquisition of all proscribed Level II standards and to support the development of the candidate's professional portfolio for assessment of designated competencies. ",
+      "course name": "Advanced Teacher Induction Seminar Lab",
+      "units": "1 Unit",
+      "id": "CSUS_EDS 252B",
+      "prerequisite": [
+        "EDS 252A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Formulation of individual rehabilitation plans as a joint client-counselor process; rehabilitation case records used to foster understanding of the disabled client and his problems. ",
+      "course name": "Case Practices in Vocational Rehabilitation Counseling",
+      "units": "3 Units",
+      "id": "CSUS_EDS 263",
+      "prerequisite": [
+        "EDUC 155"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the work evaluation process and the modalities utilized, with emphasis on the use of work evaluation in the rehabilitation process.",
+      "id": "CSUS_EDS 264",
+      "course name": "Seminar in Counseling: Work Evaluation"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Examination of myths regarding the disabled client. Course includes an exploration of counseling families with a disabled member, the impact of disability upon sexuality and upon interpersonal relationships. Factual data will be presented. The student's attitude toward the disabled will be examined.",
+      "id": "CSUS_EDS 265",
+      "course name": "Current Issues in Counseling: Disabled"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "For candidates accepted into the Level II Alternative Option Program; skills for inservice training, working with paraprofessionals, coordinating meetings, developing consensus, dealing with conflict and serving as part of collaborative teams; e-mail, use of Listproc and attendance at monthly seminars required; attaining and documenting competencies and developing portfolios related to outcomes of the Level II Mild/Moderate or Moderate/Severe Specialist Credential.  Lecture. ",
+      "course name": "Advanced Studies in Special Education-Seminar I",
+      "units": "3 Units",
+      "id": "CSUS_EDS 267A",
+      "prerequisite": [
+        "EDS 267B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ") in a setting(s) for students who receive special education services. The 3-unit lab section requires approximately 90 hours of related field-based and/or on-the-job activities. E-mail/Internet access required. ",
+      "course name": "Advanced Studies in Special Education Seminar I Laboratory",
+      "units": "3 Units",
+      "id": "CSUS_EDS 267B",
+      "prerequisite": [
+        "EDS 267A",
+        "EDS 267A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "For candidates accepted into the Level II Alternative Option Program; skills for ongoing individualized assessment and curriculum adaptation to meet needs of diverse populations and advanced skills for behavioral management in inclusive settings; e-mail, use of Listproc and attendance at monthly seminars required; attaining and documenting competencies and developing portfolios related to outcomes of the Level II M/M or M/S Specialist Credentials; individualized planning for candidates who are self-directed and committed to self improvement.  Lecture. ",
+      "course name": "Advanced Studies in Special Education-Seminar II",
+      "units": "3 Units",
+      "id": "CSUS_EDS 268A",
+      "prerequisite": [
+        "EDS 268B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ") in a setting(s) for students who receive special education services. The 3-unit lab section requires approximately 90 hours of related field-based and/or on-the-job activities. E-mail/internet access required. ",
+      "course name": "Advanced Studies in Special Education Seminar II Laboratory",
+      "units": "3 Units",
+      "id": "CSUS_EDS 268B",
+      "prerequisite": [
+        "EDS 268A",
+        "EDS 268A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "For candidates seeking to meet Special Education CCTC requirements for Level 2 (Induction) Multiple or Single Subject Teaching Credentials.  Candidates must demonstrate skills for ongoing IDEA and State mandates, curriculum adaptation to meet individual needs, and advanced skills for behavioral management in inclusive settings.  All activities will be tied to attaining and documenting CCTC Level 2 special education standards through individual portfolios.  Assignments will be designed to emphasize an interdisciplinary perspective to collaborative problem solving.  E-mail/Internet access required. ",
+      "course name": "Collaborative Strategies for Inclusive Practice",
+      "units": "2 Units",
+      "id": "CSUS_EDS 269A",
+      "prerequisite": [
+        "EDS 269B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Field-based practice lab (30 hours field).  Lab will be synthesis and application of course content in a setting for students who receive special education services.  Students will verify experiences across the age-span and in inclusive settings, agencies, and/or other natural environments. ",
+      "course name": "Collaborative Strategies for Inclusive Practice Lab",
+      "units": "1 Unit",
+      "id": "CSUS_EDS 269B",
+      "prerequisite": [
+        "EDS 269A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Development of knowledge, strategies, and skills in the areas of dyslexia, social skills and transition, and other specific learning challenges for individuals with mild/moderate disabilities. ",
+      "course name": "Instructional Strategies - Mild/Moderate",
+      "units": "2 Units",
+      "id": "CSUS_EDS 273A",
+      "prerequisite": [
+        "EDS 273B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ") in developing instructional strategies for the Mild/Moderate Credential Program area. Students are required to participate in class visitations, student tutoring, and interviews. ",
+      "course name": "Instructional Strategies - Mild/Moderate - Lab",
+      "units": "1 Unit",
+      "id": "CSUS_EDS 273B",
+      "prerequisite": [
+        "EDS 273A",
+        "EDS 273A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Overview of current theories, research, policies and practices regarding educational services for children, from birth to 8, with disabilities and their families. Topics emphasized include typical/atypical development, interdisciplinary assessment, family involvement, community resources, program planning, mainstreaming, and collaborative case management. Requires observations/field study in settings serving young children with disabilities.",
+      "id": "CSUS_EDS 290",
+      "course name": "Issues in Early Childhood Education for Children with Disabilities"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Offers an overview of technology usage in special education. Topics covered include: current research; identification of needs of exceptional children that can be met through use of microcomputers; evaluation and prescription of software, hardware and assistive devices; writing computer-assisted instructional programs to meet special needs; time management, and the general implementation of microcomputers into a special education program. ",
+      "course name": "Technology in Special Education",
+      "units": "2 Units",
+      "id": "CSUS_EDS 291A",
+      "prerequisite": [
+        "EDS 291B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ") in technology usage with students who receive special education services. ",
+      "course name": "Technology in Special Education Lab",
+      "units": "1 Unit",
+      "id": "CSUS_EDS 291B",
+      "prerequisite": [
+        "EDS 291A",
+        "EDS 291A"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Departmental petition required. ",
+      "description": "Individual projects at graduate level especially for students capable of independent study. ",
+      "id": "CSUS_EDS 299",
+      "course name": "Special Problems"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". ",
+      "course name": "Assessment Center Laboratory for Multiple Subject Candidates",
+      "units": "2 Units",
+      "id": "CSUS_EDS 332",
+      "prerequisite": [
+        "EDSP 420B",
+        "EDS 332"
+      ]
+    },
+    {
+      "term": " Approximately 320 hours are required to meet competencies.  ",
+      "description": "Students teaching in a cooperating LEA/District providing services for students receiving Moderate/Severe special education program services.  Candidates must meet the criteria for student teaching to be accepted to this course. ",
+      "course name": "Student Teaching:  Moderate/Severe",
+      "units": "5 - 10 Units",
+      "id": "CSUS_EDS 412",
+      "prerequisite": [
+        "EDSP 233"
+      ]
+    },
+    {
+      "units": "1 - 10 Units",
+      "term": " May be repeated for credit.  ",
+      "description": "Fieldwork experience is designed to allow students to explore roles in public schools and to gain experience in the organization and operation of schools, classrooms, and special services. The field placement allows students to work with pupils in public school settings that offer individual and group counseling; consultation with teachers, parents, and other school staff, and special accommodations for students with special needs. Students will work under the supervision of a credentialed school psychologist or school counselor at local school sites. A faculty supervisor from the School Psychology Training Program will work closely with students and field supervisor. ",
+      "id": "CSUS_EDS 439",
+      "course name": "Early Fieldwork in School Psychology"
+    },
+    {
+      "units": "1 - 10 Units",
+      "term": " May be repeated for credit.  ",
+      "description": "Fieldwork experience is designed to allow students to explore roles in public schools and to gain experience in the organization and operation of schools, classrooms, and special services. The field placement allows students to work with pupils in public school settings that offer individual and group counseling; consultation with teachers, parents, and other school staff, and special accommodations for students with special needs. Students will work under the supervision of a credentialed school psychologist or school counselor at local school sites. A faculty supervisor from the School Psychology Training Program will work closely with students and field supervisor. ",
+      "id": "CSUS_EDS 439A",
+      "course name": "Early Fieldwork in School Psychology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced fieldwork experience providing the opportunity for students to engage in the following activities: individual and group counseling; consultation with teachers, parents, and other school staff, and assessment of students. Students will work under the supervision of a credentialed school psychologist. A faculty supervisor from the School Psychology Training Program will work with students and field supervisor.  ",
+      "course name": "Early Fieldwork in School Psychology",
+      "units": "1 - 10 Units",
+      "id": "CSUS_EDS 439B",
+      "prerequisite": [
+        "EDS 439A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Ongoing fieldwork experience providing the opportunity for students to more fully develop their skills in: individual and group counseling; consultation with teachers, parents, and other school staff, and assessment of students. Students will work under the supervision of a credentialed school psychologist and a faculty supervisor from the School Psychology Training Program.  ",
+      "course name": "Early Fieldwork in School Psychology",
+      "units": "1 - 10 Units",
+      "id": "CSUS_EDS 439C",
+      "prerequisite": [
+        "EDS 439B"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised practice in individual counseling. ",
+      "id": "CSUS_EDS 440",
+      "course name": "Practicum in Individual Counseling/School Psychology"
+    },
+    {
+      "units": "3 - 15 Units",
+      "term": "Fall, Spring",
+      "description": "Directed field study for school psychologists. Supervised experiences are arranged in school psychology. ",
+      "id": "CSUS_EDS 441",
+      "course name": "Internship in School Psychology"
+    },
+    {
+      "units": "3 - 15 Units",
+      "term": "Fall, Spring",
+      "description": "Directed field study for school psychologists. Supervised experiences are arranged in school psychology. ",
+      "id": "CSUS_EDS 441A",
+      "course name": "Internship in School Psychology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced field study for school psychologists interns. Supervised experiences are arranged in school psychology.  ",
+      "course name": "Internship in School Psychology",
+      "units": "3 - 15 Units",
+      "id": "CSUS_EDS 441B",
+      "prerequisite": [
+        "EDS 441A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Third semester of advanced field study for school psychologist interns. Supervised experiences are arranged in school psychology.  ",
+      "course name": "Internship in School Psychology",
+      "units": "3 - 15 Units",
+      "id": "CSUS_EDS 441C",
+      "prerequisite": [
+        "EDS 441B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fourth semester of advanced field study for school psychologists interns. Final semester in which candidates may accrue hours. Supervised experiences are arranged in school psychology. ",
+      "course name": "Internship in School Psychology",
+      "units": "3 - 15 Units",
+      "id": "CSUS_EDS 441D",
+      "prerequisite": [
+        "EDS 441C"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised practice in individual counseling. ",
+      "id": "CSUS_EDS 460",
+      "course name": "Practicum in Individual Counseling/VRC"
+    },
+    {
+      "units": "3 - 15 Units",
+      "term": "Fall, Spring",
+      "description": "Directed field study for rehabilitation counselors. Supervised experiences are arranged in rehabilitation counseling. Forty hours of experience required for each unit of credit. ",
+      "id": "CSUS_EDS 461",
+      "course name": "Field Study in Counseling/VRC"
+    },
+    {
+      "units": "10 Units",
+      "term": "Fall, Spring",
+      "description": "Students will be placed in approved settings which serve students with serious emotional disturbance as a primary disability; be expected to demonstrate skills for instruction across content areas; interact with emotionally disturbed students using a combination of counseling and behavior management strategies; and consult with families, co-workers, mental health representatives and other in a collaborative style. ",
+      "id": "CSUS_EDS 472E",
+      "course name": "Student Teaching: Serious Emotional Disturbance"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_EDS 530",
+      "course name": "Project In WDA I"
+    },
+    {
+      "units": "4 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_EDS 531",
+      "course name": "Project In WDA II"
+    },
+    {
+      "units": "4 - 6 Units",
+      "term": " Open only to the graduate students who have been advanced to candidacy for the education specialist degree. Number of units of credit is determined by the candidate's education specialist advisory committee. ",
+      "description": "Credit given upon successful completion of a thesis approved for the education specialist degree. ",
+      "id": "CSUS_EDS 540",
+      "course name": "Education Specialist Thesis: School Psychology"
+    },
+    {
+      "units": "4 - 6 Units",
+      "term": "Fall, Spring",
+      "description": "Credit given upon successful completion of a project approved for the M.A. in Education/School Psychology option. ",
+      "id": "CSUS_EDS 541",
+      "course name": "Master's Project: Education/School Psychology (Plan B)"
+    },
+    {
+      "units": "4 - 6 Units",
+      "term": " Open only to the graduate student who has been advanced to candidacy. Department petition is required. Number of units of credit is determined by the candidate's advisor. ",
+      "description": "Credit given upon successful completion of a project approved for the Education Specialist degree. ",
+      "id": "CSUS_EDS 542",
+      "course name": "Education Specialist Project: School Psychology"
+    }
+  ],
+  "subjectOf": {
+    "id": "EDS",
+    "subject": "Sp Ed, Rehab, School Psychology & Deaf Studies"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Sp Ed, Rehab, School Psychology & Deaf Studies",
+    "id": "CSUS"
+  }
+}

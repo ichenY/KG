@@ -1,0 +1,277 @@
+{
+  "courses": [
+    {
+      "term": "Fall, Spring",
+      "description": "Geomatics and the principles of surveying measurements for distance, direction, and elevation. Special emphasis on the application of surveying skills relevant to the field of construction, including building, bridge, and sitework layout techniques and procedures, establishment of reference line and grade, topographic mapping, and earthwork computations. Lecture two hours. Laboratory 3 hours. ",
+      "course name": "Construction Surveying and Layout",
+      "units": "3 Units",
+      "id": "CSUS_CM 9",
+      "prerequisite": [
+        "CM 10",
+        "CM 20",
+        "CM 21",
+        "MATH 30",
+        "CM 21",
+        "MATH 30",
+        "CM 21"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Introduction to the Construction Management program and the many facets of the construction industry and to the various career opportunities. The unique products of construction, the organizations involved, and the people that make it happen. Guest speakers. Lecture one hour.",
+      "id": "CSUS_CM 10",
+      "course name": "The Construction Industry"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": " may be taken concurrently.",
+      "course name": "Fundamentals of Construction Management",
+      "units": "3 Units",
+      "id": "CSUS_CM 15",
+      "prerequisite": [
+        "CM 10",
+        "CM 10"
+      ],
+      "similarTo": [
+        "CalPoly_CM 115",
+        "CalPoly_CM 443"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Introduction to construction materials; to their properties in-place in completed projects, and to their characteristics that affect construction processes. The organizations, methods, equipment and safety considerations that are common to projects of all types and to all segments of the industry. Field trips. Lecture two hours; laboratory three hours. ",
+      "course name": "Construction Materials and Processes",
+      "units": "3 Units",
+      "id": "CSUS_CM 20",
+      "prerequisite": [
+        "CM 10",
+        "CM 10"
+      ],
+      "similarTo": [
+        "CalPoly_CM 371",
+        "CalPoly_CM 310"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Instruction and exercises in graphic techniques and procedures applicable to construction. Analysis of drawings in the civil, architectural, structural, mechanical, and electrical fields and how drawings affect construction planning. Freehand sketching. Isometric and oblique projections. Material quantity surveying.   Lecture two hours; laboratory three hours. ",
+      "course name": "Construction Graphics",
+      "units": "3 Units",
+      "id": "CSUS_CM 21",
+      "prerequisite": [
+        "CM 10",
+        "CM 10"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Analyzes construction contract documents. Technical and legal interpretations and implications to managers of the construction process. Quantity surveying. Lecture two hours; laboratory three hours. ",
+      "course name": "Construction Documents",
+      "units": "3 Units",
+      "id": "CSUS_CM 22",
+      "prerequisite": [
+        "CM 20",
+        "CM 21",
+        "CM 20"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Introduction to the solution of engineering design problems. Concepts of units, vectors, equilibrium, forces, force systems, shear and moment diagrams. Lecture three hours. ",
+      "course name": "Engineering Mechanics--Statics",
+      "units": "3 Units",
+      "id": "CSUS_CM 30",
+      "prerequisite": [
+        "MATH 26A",
+        "MATH 30"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Study of the engineering performance characteristics of materials. Covers testing concepts and procedures. Includes basic properties of metals, aggregates, cements, concrete, timber, asphalt, masonry and plastics with emphasis on construction applications. Lecture two hours; laboratory three hours. ",
+      "course name": "Properties of Construction Materials",
+      "units": "3 Units",
+      "id": "CSUS_CM 40",
+      "prerequisite": [
+        "PHYS 5A"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Application of advanced legal concepts to the construction process. Analyzes problems relating to contract formation, administration, and interpretation. Includes bidding and contract enforcement; litigation of disputes vs. arbitration; liability for negligence, warranty, and strict liability; safety; license law requirements; mechanics' liens and stop notices; bond rights and obligations. Lecture three hours. ",
+      "course name": "Legal Aspects of Construction",
+      "units": "3 Units",
+      "id": "CSUS_CM 110",
+      "prerequisite": [
+        "MGMT 101",
+        "CM 22",
+        "CM 126"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Study of federal and state labor law; labor unions, and their importance in the construction industry; and an analysis of the growth of open-shop construction.  Employment law. Lecture three hours.",
+      "id": "CSUS_CM 111",
+      "course name": "Construction Labor Relations"
+    },
+    {
+      "term": "Fall only",
+      "description": "Introduction to the analysis and management of construction projects in terms of the work that must be performed in the construction process. Analyzes operations and methods using concepts and techniques, including video, that are applicable to all types of projects in all segments of the industry, variables affecting productivity. Safety as an integral part of project and operations management. Field trips. Lecture two hours; laboratory three hours. ",
+      "course name": "Construction Operations and Methods Analysis",
+      "units": "3 Units",
+      "id": "CSUS_CM 120",
+      "prerequisite": [
+        "CM 22",
+        "CM 121"
+      ],
+      "similarTo": [
+        "CalPoly_CM 522"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Study of the basic approaches to estimating the cost of construction projects from a managerial viewpoint. Types of estimates and methods; elements of cost, variables and costing concepts; analysis procedures for detailed estimates. Lecture two hours; laboratory three hours. ",
+      "course name": "Fundamentals of Construction Estimating",
+      "units": "3 Units",
+      "id": "CSUS_CM 121",
+      "prerequisite": [
+        "CM 22",
+        "CM 120"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Study of engineering construction projects with emphasis on equipment-paced operations including safety aspects. Engineering fundamentals and other factors that affect equipment selection and production. Amplification of recording and analysis techniques. Unit price contracts. Field trips. Lecture two hours; laboratory three hours. ",
+      "course name": "Engineering Construction",
+      "units": "3 Units",
+      "id": "CSUS_CM 124",
+      "prerequisite": [
+        "CM 125",
+        "CM 135"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Study of the concepts and practices involved in the total estimating and bidding process in construction, from initial project selection to submission of final bids. Covers considerations in project selection, sub-bid analysis, contingency and risk analysis, pricing concepts, bidding models, and an introduction to computer applications. A complete project estimate and bid is prepared by each student. Lecture two hours; laboratory three hours. ",
+      "course name": "Advanced Estimating and Bidding",
+      "units": "3 Units",
+      "id": "CSUS_CM 125",
+      "prerequisite": [
+        "CM 120",
+        "CM 121"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Introduction to the study of Project Management as it is used on the larger construction project. Students study how construction contractors manage cost, time, scope, and quality. The theory of Project Management is developed and compared to management of the on-going business enterprise. Matrix and functional organizations are examined within the context of the industrial, commercial and heavy contract construction industries using the principles of the management process. Lecture three hours. ",
+      "course name": "Construction Project Management",
+      "units": "3 Units",
+      "id": "CSUS_CM 126",
+      "prerequisite": [
+        "CM 125",
+        "CM 127",
+        "CM 110"
+      ],
+      "similarTo": [
+        "CalPoly_CM 371",
+        "CalPoly_CM 212",
+        "CalPoly_CM 214"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Study of the concepts used in planning and controlling construction projects. Arrow, PERT, precedence, and linear scheduling methods; resource leveling; time-cost analysis; bar charts; and time-scaled diagrams. Manual procedures followed by computer applications. Lecture three hours. ",
+      "course name": "Planning, Scheduling and Control",
+      "units": "3 Units",
+      "id": "CSUS_CM 127",
+      "prerequisite": [
+        "CM 121"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Consideration of technical, legal, business and human factors (including safety) in applying the functional approach to the management of construction organizations, projects, and operations. The individual construction professional in a competitive industry: personal and professional development, ethics, stress, physical and mental health. The industry and the construction professional in relation to the social and physical environments. Lecture three hours. ",
+      "course name": "Senior Project",
+      "units": "3 Units",
+      "id": "CSUS_CM 129",
+      "prerequisite": [
+        "CM 110",
+        "CM 111",
+        "CM 124",
+        "CM 126",
+        "HROB 101"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Introduction to structural design. Consideration of load conditions, stresses, strain, beam deflection and column action. Basic design of structural steel members with emphasis on systems used in practical situations. Beams, trusses, and columns are designed using the Uniform Building Code as a reference and the results are shown on detailed drawings and sketches. Lecture three hours. ",
+      "course name": "Structures I -- Design Principles and Structural Steel Design",
+      "units": "3 Units",
+      "id": "CSUS_CM 130",
+      "prerequisite": [
+        "CM 30",
+        "CM 40",
+        "CM 40"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Study of the properties and behaviors of soils used as materials in construction. Index and physical properties of soils including compaction; permeability, compressibility, and shear strength. Methods of laboratory and field tests. Principles of foundation design, pavements, embankments and temporary soil support systems for trenches and cuts. Lecture two hours; laboratory three hours. ",
+      "course name": "Soils and Foundations",
+      "units": "3 Units",
+      "id": "CSUS_CM 135",
+      "prerequisite": [
+        "CM 130"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Basic principles of thermodynamics with application to heating, ventilating and air conditioning systems. Introduction to electrical circuits and circuit analysis with construction applications. Lecture three hours. ",
+      "course name": "Principles of Mechanical and Electrical Engineering",
+      "units": "3 Units",
+      "id": "CSUS_CM 136",
+      "prerequisite": [
+        "PHYS 5B",
+        "CM 30"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Basic design of structural timber members with emphasis on systems used in practical situations. Beams, trusses, and columns are designed using the Uniform Building Code as a reference and the results are shown on detailed drawings and sketches. Application of engineering principles to satisfy construction requirements that are not designed or shown in typical construction documents. Includes analysis and design of concrete form systems, shoring, and falsework, and construction dewatering. Lecture three hours. ",
+      "course name": "Structures II -- Timber and Formwork Design",
+      "units": "3 Units",
+      "id": "CSUS_CM 140",
+      "prerequisite": [
+        "CM 130"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Basic design concepts of reinforced concrete and reinforced masonry design. Topics and examples include design of beams, slabs, columns and walls. Students are required to demonstrate drafting ability. Assignments include design and drawings of various structural systems. Lecture three hours. ",
+      "course name": "Structures III -- Reinforced Concrete and Reinforced Masonry",
+      "units": "3 Units",
+      "id": "CSUS_CM 150",
+      "prerequisite": [
+        "CM 130"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students competent to carry on individual work. Admission to this course requires approval of an instructor and the program coordinator. ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_CM 199",
+      "course name": "Special Problems"
+    }
+  ],
+  "subjectOf": {
+    "id": "CM",
+    "subject": "Construction Management"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Construction Management",
+    "id": "CSUS"
+  }
+}

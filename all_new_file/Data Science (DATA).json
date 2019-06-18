@@ -1,0 +1,69 @@
+{
+  "subjectOf": {
+    "id": "DATA",
+    "subject": "Data Science"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Data Science"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_DATA 301",
+      "course name": "Introduction to Data Science",
+      "prerequisite": [
+        "STAT 302 or STAT 312"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Introduction to the field of data science and the workflow of a data scientist. Types of data ( tabular, textual, sparse, structured, temporal, geospatial ), basic data management and manipulation, simple summaries, and visualization.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_DATA 401",
+      "course name": "Data Science",
+      "prerequisite": [
+        "CSC 365",
+        "CSC 466",
+        "DATA 301",
+        "STAT 331",
+        "STAT 419"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Principles of data science and big data analytics. Volume, velocity, and variety of data. Acquisition, processing, and cleaning of large data - sets. Analytics for big data.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_DATA 451",
+      "course name": "Data Science Capstone I",
+      "prerequisite": [
+        "DATA 401"
+      ],
+      "units": "2 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Working with clients to develop data - driven solutions for systems to be constructed in DATA452. Specification and design requirements, elicitation techniques, research and data gathering methods ; project planning, time and budget estimating ; project team organization. Ethics and professionalism.",
+      "format": "2 laboratories."
+    },
+    {
+      "id": "CalPoly_DATA 452",
+      "course name": "Data Science Capstone II",
+      "prerequisite": [
+        "DATA 451"
+      ],
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Team - based design, implementation, deployment and delivery of a system or analytical methodology that involves working with and analyzing large quantities of data. Technical management of research and development teams. Technical documentation, quality assurance, integration and systems testing. Design and conduct of empirical studies. Visualization and presentation of results orally and in writing.",
+      "format": "2 laboratories."
+    }
+  ]
+}

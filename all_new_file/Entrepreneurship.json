@@ -1,0 +1,38 @@
+{
+  "courses": [
+    {
+      "term": " Only students with an Entrepreneurship Concentration will be admitted.  ",
+      "description": "Focuses on the opportunities and challenges involved in the management of a business venture and its growth opportunities.  Growth is the ultimate resource constrainer, stretching all the resources of a company to the limit and often beyond.  Develops a venture spanning approach that examines the business venture and the challenges that tasks venture management to the limit.  Provides students with a series of frameworks, analytical skills and techniques, heuristics, and decision-making tools that can be used in growing entrepreneurial businesses. ",
+      "course name": "Venture Growth Strategies",
+      "units": "3 Units",
+      "id": "CSUS_ENTR 185",
+      "prerequisite": [
+        "ENTR 187",
+        "ENTR 189"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Objective is to lead students through all steps necessary in starting a business: analyzing personal and business goals, researching the market, developing a marketing plan, determining land, building, equipment, supplies, inventory, people needed, determining cash flow and pro forma financial statements, and money needed. The output of all this will be a professional business plan and financial package ready to submit to prospective investors.",
+      "id": "CSUS_ENTR 187",
+      "course name": "Entrepreneurship"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Offers a multidisciplinary framework for studying and developing corporate entrepreneurship.  Covers the climate and culture of an entrepreneurial organization, strategies for developing new business ventures within an organization, and strategies for transforming firms toward a more entrepreneurially driven organization.  As a result, students will increase their understanding of environment, processes and strategies that will create value and build competence through entrepreneurial activities within organizations. ",
+      "id": "CSUS_ENTR 189",
+      "course name": "Corporate Entrepreneurship"
+    }
+  ],
+  "subjectOf": {
+    "id": "ENTR",
+    "subject": "Entrepreneurship"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Entrepreneurship",
+    "id": "CSUS"
+  }
+}

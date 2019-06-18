@@ -1,0 +1,25 @@
+{
+  "subjectOf": {
+    "subject": "Freshman Experience Courses",
+    "id": "EXP"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Freshman Experience Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_EXP 105",
+      "course name": "Personal Dimensions of Education",
+      "units": "3 Credits",
+      "description": "This course is designed to help adult learners beginning their university studies to achieve academic success. Students will explore learning theories, communication strategies, and personal management skills. Adult learners will develop strategies for achieving success in school and work. Students will also be introduced to the Universitys institutional outcomes and learning resources. Successful completion with a C- or better or equivalent is required."
+    },
+    {
+      "id": "AshFord_EXP 200",
+      "course name": "Fundamentals of Adult Learning",
+      "units": "3 Credits",
+      "description": "This course presents adult and experiential learning theories and applies them to the students life and experiences. Kolbs Model of Experiential Learning will be examined and used to analyze prior learning experiences. Students will investigate the roles of reflection and metacognition in the learning process. Guidance and practice will be given in developing an experiential essay structure that will plausibly demonstrate college-level experiential learning outcomes. The experiential essay written in the course can be submitted to the Prior Learning Assessment Center at the completion of the course for a potential of three additional credits."
+    }
+  ]
+}

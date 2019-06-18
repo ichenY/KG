@@ -1,0 +1,460 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the concepts of morality, obligation, human rights and the good life. Competing theories about the foundations of morality will be investigated.", 
+      "id": "CSUS_PHIL 2", 
+      "course name": "Ethics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of the basic skills of good reasoning needed for the intelligent and responsible conduct of life. Topics include: argument structure and identification, validity and strength of arguments, common fallacies of reasoning, use and abuse of language in reasoning, principles of fair play in argumentation.", 
+      "id": "CSUS_PHIL 4", 
+      "course name": "Critical Thinking"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Representative selection of philosophical problems will be explored in areas such as knowledge, reality, religion, science, politics, art and morals.", 
+      "id": "CSUS_PHIL 6", 
+      "course name": "Introduction to Philosophy: Knowledge, World and Self"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University. Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills. Students have the opportunity to interact with fellow classmates and the seminar leader to build a community of academic support and personal support.", 
+      "id": "CSUS_PHIL 21", 
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the history of philosophy, emphasizing such themes as the foundations of knowledge, the nature of reality, the basis of a good life and a just society, the existence of God, and the nature of self, and tracing the development of these themes from antiquity to the modern period.", 
+      "id": "CSUS_PHIL 26", 
+      "course name": "History of Philosophy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the major developments in Western philosophy after the Middle Ages, with emphasis on the period from Descartes to Kant. Attention will be paid to the general historical and cultural setting within which the philosophical theories developed.", 
+      "id": "CSUS_PHIL 27", 
+      "course name": "History of Early Modern Philosophy"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Basic regulatory and ethical requirements for doing research. Topics covered include protection of human subjects, data management, authorship, peer review, mentoring, animal experimentation, conflict of interest, and collaborative research.", 
+      "id": "CSUS_PHIL 56", 
+      "course name": "Research Integrity"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to deductive logic. Topics include: basic concepts of deductive logic; techniques of formal proof in propositional and predicate logic.", 
+      "id": "CSUS_PHIL 60", 
+      "course name": "Deductive Logic I"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to inductive logic and the problem of decision under uncertainty. Topics include: the nature of inductive rationality, philosophical theories of induction and probability, cognitive biases and common errors in inductive reasoning, and philosophical problems in defining risk, rational agency, and the expected value of an action.", 
+      "id": "CSUS_PHIL 61", 
+      "course name": "Inductive Logic"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Moral concerns of everyday life stressing such features of moral character as right and wrong conduct, virtue and vice, the emotions, attitudes, and personal relationships. Emphasis is on analytical and critical discussion of philosophical theories and competing viewpoints.", 
+      "id": "CSUS_PHIL 100", 
+      "course name": "Ethics and Personal Values"
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Moral controversies that divide society today, such as abortion, the death penalty, affirmative action, sexism, war and peace. Emphasis is on identifying the relevant values and moral principles underlying competing views and subjecting them to rational assessment. ", 
+      "course name": "Ethics and Social Issues.", 
+      "units": "3 Units", 
+      "id": "CSUS_PHIL 101", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Prepares students planning careers in professional practice or public service to identify, understand, and resolve ethical problems. Includes examinations of (i) ethical theory, rights and duties, virtue ethics, utilitarian ethics, social contract theory, and role morality; (ii) the philosophical underpinnings of professional codes of conduct, regulations, and norms of professional and public service practices; (iii) moral reasoning and argumentation; (iv) the relation between ethical judgement and action; (v) the relation between professional practice, public service, and democratic principles.", 
+      "id": "CSUS_PHIL 102", 
+      "course name": "Professional and Public Service Ethics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Analytical treatment of controversial moral issues which emerge in the business world, e.g., affirmative action, corporate responsibility,  the global economy, industry and environmental damage, social effects of advertising, the computer threat to personal privacy, ownership of computer programs. Discussion will focus on basic moral principles and concepts relevant to these issues.", 
+      "id": "CSUS_PHIL 103", 
+      "course name": "Business and Computer Ethics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Ethical dilemmas faced by professionals and patients in the field of medicine, e.g., patient self-determination and informed consent, discrimination in health care, euthanasia, abortion, surrogate motherhood, genetic modification, and rights to health care. Emphasis is on the well-reasoned application of general moral principles to practical medical decisions.", 
+      "id": "CSUS_PHIL 104", 
+      "course name": "Bioethics"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of the values implicit in a scientific culture and the problems that arise as a commitment to the development of scientific knowledge and technology. These problems include: distinguishing good scientific practice from bad; the intrinsic value of scientific knowledge independent of its benefits in application; the proper and improper applications of scientific knowledge. ", 
+      "course name": "Science and Human Values.", 
+      "units": "3 Units", 
+      "id": "CSUS_PHIL 105", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Investigation of the main approaches to ethics in Western moral philosophy. Emphasis on Plato, Aristotle, Hume, Kant and Mill. ", 
+      "course name": "History Of Ethics.", 
+      "units": "3 Units", 
+      "id": "CSUS_PHIL 112", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": "Spring only \u2013 even years", 
+      "description": "Study of selected works of fiction which focus on philosophically controversial questions, e.g., basic moral dilemmas, the meaning of life, alienation, nihilism, the existence of God. ", 
+      "course name": "Philosophy In Literature.", 
+      "units": "3 Units", 
+      "id": "CSUS_PHIL 115", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Study of the problem of the existing individual, or inner self -- most especially the problem of choice in the context of radical freedom and finitude. Particular attention will be paid to the philosophical writings of Kierkegaard, Nietzsche, Heidegger and Sartre, through some major literary works of these figures and others (Camus, Dostoevsky) will also be considered. ", 
+      "course name": "Existentialism.", 
+      "units": "3 Units", 
+      "id": "CSUS_PHIL 117", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A philosophical examination of the individual, the community, and rights; the conflict between individual rights and the common good; various conceptions of justice, equality, liberty and the public good; and the relationship of politics to ethics, economics, law; war and peace.", 
+      "id": "CSUS_PHIL 122", 
+      "course name": "Political Philosophy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only \u2013 even years", 
+      "description": "Study of feminist perspectives on important philosophical questions.  Examples of the questions treated are: mind-body dualism; reason and emotion; the fact/value distinction; the nature of the public and private realms; equal rights; and whether knowledge is intrinsically \"gendered.\"  Different feminist perspectives will be considered and compared with traditional approaches to these questions.", 
+      "id": "CSUS_PHIL 123", 
+      "course name": "Philosophy and Feminism"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Study of the philosophical problems that arise in the sciences: the nature of scientific reasoning, the limits and styles of explanation, identifying pseudoscience, values in science, unity and diversity of the sciences, and science's impact on our world view.", 
+      "id": "CSUS_PHIL 125", 
+      "course name": "Philosophy Of Science"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of the philosophical basis of the biological sciences:  the power and limits of evolution as a scientific explanation; Darwinism, its refinements, alternatives and critics; the origin and nature of life; the scope of evolution as an explanation, including critical investigations of evolutionary psychology and sociobiology.", 
+      "id": "CSUS_PHIL 126", 
+      "course name": "The Meanings Of Evolution"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the origins of Western philosophy, with emphasis on the works of the Pre-Socratics, Plato, and Aristotle. ", 
+      "id": "CSUS_PHIL 127", 
+      "course name": "History of Ancient Philosophy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the major developments in Western philosophy after the Middle Ages with emphasis on the period from Descartes to Kant. ", 
+      "id": "CSUS_PHIL 128", 
+      "course name": "History of Modern Philosophy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Summer only", 
+      "description": "Introduction to philosophical theology, the philosophical study of religious assertions, arguments, and beliefs: the existence and nature of God; the rationality of religious belief; the relation of faith to reason; the problem of evil; immortality and resurrection; the possibility of miracles; the meaning of religious language.  Includes both traditional and contemporary approaches.", 
+      "id": "CSUS_PHIL 131", 
+      "course name": "Philosophy Of Religion"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Inquiry into the nature of art, beauty and criticism, with critical consideration of representative theories.", 
+      "id": "CSUS_PHIL 136", 
+      "course name": "Philosophy Of Art"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": ". ", 
+      "course name": "Chinese Philosophy.", 
+      "units": "3 Units", 
+      "id": "CSUS_PHIL 145A", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X", 
+        "PHIL 145B"
+      ]
+    }, 
+    {
+      "term": ".  ", 
+      "description": "Survey of the major schools of Indian philosophical development.  The emphasis will be on the Hindu and Buddhist traditions, with consideration given to competing notions of the self, consciousness, the origin of human suffering, and the possibility of transcendence. ", 
+      "course name": "Philosophies Of India.", 
+      "units": "3 Units", 
+      "id": "CSUS_PHIL 145B", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "PHIL 145A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Major topics in ethical theory with attention to their contemporary formulation, including such topics as utilitarianism vs. rights-based theories and the dispute over the objectivity of ethics.", 
+      "id": "CSUS_PHIL 152", 
+      "course name": "Recent Ethical Theory"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Rival theories of the nature of the mind and mental activity, including dualism, materialism, functionalism. Difficulties in achieving a theoretical understanding of familiar psychological concepts such as belief, sensation, emotion, intention. ", 
+      "id": "CSUS_PHIL 153", 
+      "course name": "Philosophy Of Mind"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Study of philosophical issues concerning language: theories of the nature of linguistic meaning, in particular those involving the concepts of sense, reference, truth conditions, intention, convention, speech act, and force.  Topics include the relation between meaning and reference to objects, and between meaning and mental processes.  Emphasis on  contemporary views, including views on the promise of a theory of language to shed light on fundamental philosophical problems in metaphysics and the philosophy of mind.", 
+      "id": "CSUS_PHIL 154", 
+      "course name": "Philosophy Of Language"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Theories of the nature of law, e.g., natural law, legal positivism, legal realism. Selected controversies in contemporary law will also be studied, such as the justification of punishment, the legislation of morality, judicial activism vs. judicial restraint.", 
+      "id": "CSUS_PHIL 155", 
+      "course name": "Philosophy Of Law"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Further study of deductive logic. Topics include: principles of inference for quantified predicate logic; connectives; quantifiers; relations; sets; modality; properties of formal logical systems, e.g. consistency and completeness; and interpretations of deductive systems in mathematics, science, and ordinary language. ", 
+      "course name": "Deductive Logic II", 
+      "units": "3 Units", 
+      "id": "CSUS_PHIL 160", 
+      "prerequisite": [
+        "CSC 28", 
+        "PHIL 60"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Further study of inductive logic. Topics include: the nature of uncertainty, probability and inductive rationality, Bayes' Theorem, the nature of utility, expected value theory, decisions under uncertainty, game theory, strict and weak dominance, decision-theoretic paradoxes, pure and mixed strategy Nash equilibria. ", 
+      "id": "CSUS_PHIL 161", 
+      "course name": "Inductive Logic II"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Rise of the analytic tradition in contemporary Anglo-American philosophy represents a turn toward common sense, science, language, logic and rigor. Readings will cover the philosophical movements of common sense, logical atomism, logical positivism, ordinary language philosophy and more recent analytical philosophy.", 
+      "id": "CSUS_PHIL 176", 
+      "course name": "Twentieth Century Anglo-American Philosophy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the concept of knowledge. Representative topics include: the role of sense perception and memory, the importance of certainty, the justification of belief, philosophical skepticism, the concept of truth and the nature of philosophical inquiry. Emphasis is on contemporary formulations. ", 
+      "id": "CSUS_PHIL 180", 
+      "course name": "Knowledge and Understanding"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines arguments concerning the nature of reality. Representative topics include: substance, space, time, God, free will, determinism, identity, universals. Emphasis is on contemporary formulations. ", 
+      "id": "CSUS_PHIL 181", 
+      "course name": "Metaphysics"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "A required capstone experience in the philosophy major. The course involves: completion of a senior essay under direction of a faculty member; preparation for knowledge and skills examination; submission of written critiques for three public events in philosophy; completion of departmental assessment questionnaire. ", 
+      "id": "CSUS_PHIL 189", 
+      "course name": "Senior Seminar in Philosophy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " This course can be repeated for credit once if the second iteration focuses on a different philosopher than the first  ", 
+      "description": "An examination of the works of one or more important philosophers in different philosophical areas such as ethics, political philosophy, metaphysics, logic and epistemology. ", 
+      "id": "CSUS_PHIL 190", 
+      "course name": "Selected Philosophers"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Advanced in-depth study of an ethical dilemma faced by professionals and patients in the field of medicine, such as patient self-determination and informed consent, discrimination in health care, euthanasia, abortion, surrogate motherhood, genetic modification, or rights of health care. ", 
+      "id": "CSUS_PHIL 192B", 
+      "course name": "Topics in Bioethics"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Introduction to significant philosophical issues involving space and time.  An investigation into the current state of these issues.  ", 
+      "course name": "Space and Time", 
+      "units": "3 Units", 
+      "id": "CSUS_PHIL 192D", 
+      "prerequisite": [
+        "HRS 205"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " This course can be repeated for credit once if the second iteration focuses on a different specific topic within Epistemology.  ", 
+      "description": "Topics include: the nature of inquiry, knowledge, explanation, understanding, rationality, judgment, and decision.   ", 
+      "id": "CSUS_PHIL 192E", 
+      "course name": "Topics in Epistemology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " This course can be repeated once for credit if the second iteration focuses on a different specific topic within Ethics  ", 
+      "description": "Topics include: animal rights, abortion, euthanasia and assisted suicide, poverty, race, gender, same-sex marriage, war and humanitarian intervention, environmental ethics, ethics of science or technology, and other advanced topics in bioethics. ", 
+      "id": "CSUS_PHIL 192F", 
+      "course name": "Topics in Ethics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Advanced topics in the philosophy of language. Topics may include: sense and reference, meaning and force, intentions vs. conventions, conditions for sameness of sense, conditions for successful reference, propositional content, indexical and demonstrative reference, and the semantics of propositional attitude and perceptual reports, linguistic pragmatics. ", 
+      "id": "CSUS_PHIL 192L", 
+      "course name": "Topics in Philosophy Language"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "Topics in Philosophy of Mind. Topics may include: Artificial Intelligence; Qualia; functionalism; philosophy of neuroscience; property dualism; eliminative materialism; or specific theories of consciousness. Emphasis is on contemporary formulations. ", 
+      "id": "CSUS_PHIL 192M", 
+      "course name": "Topics in Philosophy of Mind"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Contemporary topics in metaphysics. Topics may include: Ontology; realism and anti-realism; universals; individuals; substance; identity through time and change; kinds and degrees of necessity; physicalism; moral realism; realism regarding social entities. Emphasis is on contemporary formulations. ", 
+      "id": "CSUS_PHIL 192O", 
+      "course name": "Topics in Contemporary Metaphysics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " This course can be repeated for credit once if the second iteration focuses on a different specific topic within Social and Political Philosophy.   ", 
+      "description": "Topics include: specific theories such as anarchism, libertarianism, and contractualism; feminist theories; critical race theory; philosophy of education; and other concepts such as authority, justice, rights, equality, and freedom.  ", 
+      "id": "CSUS_PHIL 192P", 
+      "course name": "Topics in Social and Political Philosophy"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "Topics may include: The problem of evil, atheism, modal arguments for God's existence, design arguments for God's existence, reformed epistemology, recent work in natural theology, divine hiddenness, skeptical theism, or Molinism. Emphasis is on contemporary formulations. ", 
+      "id": "CSUS_PHIL 192R", 
+      "course name": "Topics in Philosophy of Religion"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " This course can be repeated for credit once if the second iteration focuses on a different specific topic within the Philosophy of Science   ", 
+      "description": "Topics include: Issues in the epistemology and ontology of science; special problems in the philosophy of mathematics, physics, chemistry, cognitive science, and biology; naturalistic and non naturalistic approaches to understanding scientific inquiry. ", 
+      "id": "CSUS_PHIL 192S", 
+      "course name": "Topics in Philosophy of Science"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " This course can be repeated for credit once if the second iteration focuses on a different specific topic within the Philosophy of Social Science.   ", 
+      "description": "Topics include: the ontology of social kinds, social construction, individualism vs. structuralism, philosophy of economics, explanations of social injustice, critical theory, methodology of social sciences, and categorization and measurement in the social sciences.  ", 
+      "id": "CSUS_PHIL 192T", 
+      "course name": "Topics in Philosophy of Social Science"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Supervised work experience in an approved office or organization where significant philosophical issues are raised.  The student must write regular reports on these issues.  Supervision is provided by the faculty instructor and a managing official in the work situation.  Open to majors only. ", 
+      "id": "CSUS_PHIL 195", 
+      "course name": "Philosophy Internship"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Experimental offerings will be scheduled as needed.", 
+      "id": "CSUS_PHIL 196", 
+      "course name": "Experimental Offerings in Philosophy"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Capstone seminar for Honors Program students in Philosophy major. Student will propose, research, write, and present an honors thesis; student will also provide comments and criticism of other honors theses. ", 
+      "id": "CSUS_PHIL 197", 
+      "course name": "Honors Thesis"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Requires prior approval of the faculty member under whom work is to be conducted. ", 
+      "description": "Special projects calling for independent philosophical investigation under the supervision of an individual faculty member. ", 
+      "id": "CSUS_PHIL 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Requires graduate status and prior approval of the faculty member under whom work is to be conducted. ", 
+      "description": "Special projects calling for independent philosophical investigation under the supervision of an individual faculty member. ", 
+      "id": "CSUS_PHIL 299", 
+      "course name": "Special Problems"
+    }
+  ], 
+  "subjectOf": {
+    "id": "PHIL", 
+    "subject": "Philosophy"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Philosophy", 
+    "id": "CSUS"
+  }
+}

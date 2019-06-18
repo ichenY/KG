@@ -1,0 +1,620 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the field of sociology; its basic concepts and principles; the analysis and explanation of culture, personality, social institutions, social change, population, social processes and collective behavior.", 
+      "id": "CSUS_SOC 1", 
+      "course name": "Principles of Sociology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to major social problems in the U.S., with an emphasis on systemic problems, such as economic, racism and sexism. Problems in major social institutions such as the family, social services, criminal justice and the environment are also addressed.", 
+      "id": "CSUS_SOC 3", 
+      "course name": "Social Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "An exploration of social issues that contemporary families face every day with an integration of the life course perspective and sociopsychological viewpoint. Issues covered may include varying family constellations, mate selection, intimacy, communication, adjustment, cohesion, attachment, aging, foster care and adoption, gender, race/ethnic/cultural influences, social stratification, family/partner violence, health, and social policy.", 
+      "id": "CSUS_SOC 5", 
+      "course name": "Exploring Issues Facing Contemporary Families"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduces basic steps in the research process and/or basic steps in critically evaluating discussions on social issues. Students are taught to recognize common errors through the analysis of non-technical applied research and/or through newspapers and sociological articles about social issues and problems. Emphasizes the logical steps involved in thinking critically about social research and/or social problems such as quality of operational definitions, weaknesses in research design, sampling errors, value assumptions, logical consistency between premises and conclusions, and the structure of arguments.", 
+      "id": "CSUS_SOC 8", 
+      "course name": "Sense and Nonsense in Social Issues and Research"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduces the concepts utilized by sociologists in the analysis of controversial issues in crime and social control, e.g., norms, roles, subcultures, labeling, social conflict, social stratification, racism, sexism, etc. Particular attention is paid to sources of data and trends over time. Issues covered include, but are not limited to: capital punishment, drugs and drug policy, domestic violence, abortion, driving under the influence, police use of deadly force, private prisons and juvenile justice reform.", 
+      "id": "CSUS_SOC 10", 
+      "course name": "Issues in Crime and Social Control"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Provides students with an overall view of the role and techniques of statistics in the presentation and interpretation of social science data. Lectures emphasize descriptive statistics: measures of central tendency and variability, and association and correlation. Introduction is given to statistical inference: sampling distributions, hypothesis-testing, and estimation. Lab sessions provide demonstrations and training in the practical application of concepts and techniques dealt with in lectures. Students learn to use the computer as an aid in data processing and analysis. ", 
+      "id": "CSUS_SOC 101", 
+      "course name": "Introduction to Statistics for Sociologists"
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Students will be introduced to the basic steps in research; problem definition, research design, sampling, data collection methods, and analysis. Laboratory excercises reinforce methodological processes, including finding and evaluating existing research studies, operationalizing concepts, developing questionnaires, and analyzing primary data. Students will learn how to process and analyze both qualitative and quantitative data, including analytic induction, manipulation of computerized data files, bivaraite and multivariate analysis, table construction, and preparation of written research reports. Lab exercises reinforce computer and statistical skills. ", 
+      "course name": "Research Methods in Sociology", 
+      "units": "4 Units", 
+      "id": "CSUS_SOC 102", 
+      "prerequisite": [
+        "SOC 101"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": "An advanced course in research design and analysis. Introduces students to advanced data analysis techniques and how to use them to investigate social problems and issues. Students will build on the knowledge they have accumulated in previous courses in sociological research methods and theory to design and complete a research project. Specific methodological strategies taught will vary, and could include regression analysis, ethnography, comparative-historical methods, qualitative interviewing, evaluation research and longitudinal survey analysis. ", 
+      "course name": "Advanced Sociological Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 103", 
+      "prerequisite": [
+        "SOC 101", 
+        "SOC 102"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Studies population including growth and decline, fertility and mortality trends, migration, human ecology, and the interrelationship of population and socioeconomic change.", 
+      "id": "CSUS_SOC 106", 
+      "course name": "Births, Deaths and Borders"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Takes a political economic approach to urban development, with special emphasis on the roles played by various social groups and institutions. Particular attention is given to the effects of urban growth, oppositional movements to growth and the global developments that affect urban conditions.", 
+      "id": "CSUS_SOC 110", 
+      "course name": "Urban Life and Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes the institutions, norms, values, and traditions of the Chicano community. Included is an examination of the Chicano community's progress in mainstream American life with attention to the effect of ethnocentrism, racism and class.", 
+      "id": "CSUS_SOC 118", 
+      "course name": "Chicano Community."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes relations among various racial, religious, nationality, and gender groups as they interact with racism, ethnocentrism and class in the U.S. and the world.", 
+      "id": "CSUS_SOC 120", 
+      "course name": "Ethnic and Race Relations."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the social phenomena of labor migration, immigration, and transnationalism, and places their origins and development in the context of political-economic national inequalities. Advances an understanding of why societies experience migration, immigration, and transnationalism, and evaluates competing and complementary theoretical frameworks explaining these migratory processes, particularly as they relate to the U.S.  Special attention will be given to race, gender, and class relations as impacted by labor migration processes.", 
+      "id": "CSUS_SOC 122", 
+      "course name": "Immigration Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduces students to the sociological analysis of Black American life in the U.S. -- the complex phenomena of Black issues, emerging theories of race, and the cumulative scholarship on black identity, experience, socio-economic status, and social organization.. Focus is on the original contributions of social scientists to Black Studies in Sociology.", 
+      "id": "CSUS_SOC 123", 
+      "course name": "Black Studies in Sociology"
+    }, 
+    {
+      "term": ", ETHN 124 and FACS 124. Only one may be counted for credit.", 
+      "description": "Examines the nature and forms of social justice and injustice.  Key philosophical and theoretical models and debates over the meaning of social justice, using historical and contemporary examples to highlight important concepts and controversies are addressed. Faculty from different departments within SSIS, and occasionally from other colleges, will address how their discipline understands and analyzes issues of social justice.  Students will be encouraged to critically assess the assumptions of various perspectives on social justice, and to address the relationship of academe and social activism in achieving social justice. ", 
+      "course name": "Social Justice in Interdisciplinary Perspective", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 124", 
+      "prerequisite": [
+        "ANTH 130", 
+        "ID 124", 
+        "ENVS 124"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of the ways race, class and gender, as well as the intersection of all three, affect the distribution of valued resources in a society.  Other social inequalities such as age, sexual orientation, or nationality, etc. may also be examined.  Attention is given to struggles to change or preserve economic and political inequalities. ", 
+      "course name": "Social Inequalities", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 125", 
+      "prerequisite": [
+        "SOC 1"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines how gender designation of \"male\" and \"female\" impacts an individual's life; explores the social construction of masculinity and femininity in the family, school, workplace, everyday interactions, and within racialized and colonized societies; studies the consequences of gender difference and inequality that result in violence and abuse, sexual harassment, hate crimes, wage differentials and unequal opportunities.", 
+      "id": "CSUS_SOC 126", 
+      "course name": "Sociology of Gender"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduces students to the field of men and masculinity.  Examines the construction of masculinity in sports, family, work and other social relationships, showing how it affects and is affected by people, institutions and society.  Explores the diverse  experiences based on race, class, occupation, physical ability and sexuality, and the implications for people from such diverse groups.", 
+      "id": "CSUS_SOC 127", 
+      "course name": "Men, Masculinity and Society"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Studies sexuality including historical and cultural differences in sexual attitudes, beliefs and behaviors.  Also examines the mutual influence of sexuality and social institutions, such as the family, the economy, politics and religion. ", 
+      "course name": "Sociology Of Sexuality", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 128", 
+      "prerequisite": [
+        "SOC 1"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Analyzes political order and change from the viewpoint of cultural values and the institutional structure of societies. Examines group behavior patterns related to ideology, elites, masses, classes, movements, parties, and other power groups. Surveys differing theories and methodologies for the study of political processes across cultures and societies. ", 
+      "course name": "Political Sociology", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 130", 
+      "prerequisite": [
+        "SOC 1"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines sport in a global context, focusing on the dynamic nature of sports in response to changes in society.  Addresses the effect sport has on both the society and the individual, from socialization to nationalism.  Focuses on both participants (youth, amateurs, professionals) and spectators (parents, fans, etc.) at all levels of involvement, from community to international competition.  Highlights cross-cultural differences in the relationships between sport and other social institutions such as government, corporations, and the media. ", 
+      "course name": "Sport in a Global Perspective.", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 133", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduces the \"Sociological Imagination\" by linking the personal histories found in films to larger social structures. The evolution of important contemporary global and domestic social issues is discussed by analyzing the sociological content of major motion pictures. The socio-historical development of the American film industry is also examined to explore its ideological role in challenging and perpetuating various forms of class, race, and gender discrimination.", 
+      "id": "CSUS_SOC 134", 
+      "course name": "Sociology of Film"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes social processes that produce popular culture by contrasting interrelationships between institutional power structures and collective behavior.  Examines theories of popular culture, mass movements, and individualism; social change, cultural hegemony, sub-cultures, and organizational studies.", 
+      "id": "CSUS_SOC 135", 
+      "course name": "Sociology of Popular Culture"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Analyzes old and new social movements -- pre-political and political, cultural and identity types -- class, labor, feminist, ethnic, environmental, left and right. Challenges by movements to institutional order. Surveys differing theories and methodologies for the study of movements and degree of change (reform, revolutionary) across cultures and societies. ", 
+      "course name": "Social Movements", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 136", 
+      "prerequisite": [
+        "SOC 1"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines paradigm changes of science in society and how views of science and technology are socially constructed. Analyzes the representations of scientists, scientific inquiry, and technological innovation. Explores the ways in which science has driven social change, and vice-versa.", 
+      "id": "CSUS_SOC 137", 
+      "course name": "Sociology of Science"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Studies human society, the natural environment, and their mutual interactions. Examines environmental sociology at several levels, from the micro level of individual communities to the meso level of government policies to macro theoretical considerations. Analysis of environmental issues in a global context also included.", 
+      "id": "CSUS_SOC 138", 
+      "course name": "Environmental Sociology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines social relationships between humans and animals as pets, companions, workers, entertainers, and food. Analyzes the representations of animals. Studies our relationships with animals both on the level of social groups and as individuals. Applies sociological approaches to the study of human-animal relationships, including the social movements around animal rights.", 
+      "id": "CSUS_SOC 139", 
+      "course name": "Animals in Society"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the organization and functions of educational institutions; the rise of mass education and changes in educational systems to the present; the role of teachers, parents, and schools in education; the impact of gender, race, and class on educational outcomes and processes. ", 
+      "course name": "Sociology of Education", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 140", 
+      "prerequisite": [
+        "SOC 1"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the social contexts of health, illness, and medical care. Emphasizes the debates and contrasting perspectives that characterize the sociological study of health and illness. Topics include the social, global, environmental, and occupational factors influencing health and illness; the politics surrounding physical and mental illness; the patient's perspective on illness; ethical issues in medicine as they relate to medical technology; and health care reform. The influence of health status on identity and interaction will also be addressed. ", 
+      "course name": "Sociology of Health and Illness", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 144", 
+      "prerequisite": [
+        "SOC 1"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes the process of aging in the context of social structure and processes. Specifically, it deals with such issues as the age structure of society, social values and norms that define the aged, social stratification and aging, social institutions and the aged, theoretical and methodological issues in social gerontology.", 
+      "id": "CSUS_SOC 146", 
+      "course name": "Sociology of Aging"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines major principles governing face to face interaction and their application in understanding the student's own experience: creating and preserving meaning, \"realities\" and selves through dramaturgy, negotiation and power; the relationship between status and intimacy; the impact of status resources (such as race and gender) on the status assignment process; the self concept; the role of emotions in social life.", 
+      "id": "CSUS_SOC 150", 
+      "course name": "Social Psychology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines social dimensions -- causes and characteristics -- of adult crime and deviant behavior in American society. Makes some international comparisons. Police, courts and prisons are examined. Special attention is given to current issues in crime and deviance.", 
+      "id": "CSUS_SOC 155", 
+      "course name": "Criminology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines social determinants of juvenile delinquency, including family, urban conditions, social-psychological and sociological factors. Analyzes the juvenile justice system, including law enforcement, the courts and community treatment programs.", 
+      "id": "CSUS_SOC 156", 
+      "course name": "Delinquency"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Sociologically analyzes American courts and prisons from prosecutorial intake through sentencing and incarceration. Emphasis is on the role of social factors (in particular race, class and gender) in decision-making practices at each stage of processing. Topics will include, but are not limited to: preventive detention, prosecutorial intake, plea-bargaining, jury selection, pre-sentence investigation reports, sentencing, and legal reconstruction of the American prison in the modern era.", 
+      "id": "CSUS_SOC 157", 
+      "course name": "Issues in Courts and Prisons"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduces students to the history of attempts to define and explain deviant behavior; explains social conditions and processes associated with careers of deviants; examines relationship of deviance to problems of social control.", 
+      "id": "CSUS_SOC 158", 
+      "course name": "Sociology of Deviance"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Cross-cultural study focuses on Japanese and Chinese societies and cultures and their influences on other Asian developments.  Emphasizes their distinctive institutions, norms, values, and traditions in relation to contemporary social, economic, and political processes.", 
+      "id": "CSUS_SOC 160", 
+      "course name": "Asian Societies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Discusses the fundamental aspects of Middle East Societies covering such topics as population, family, women, patterns of living, social stratification, education, economic development, politics and armies in the Middle East.", 
+      "id": "CSUS_SOC 162", 
+      "course name": "Middle Eastern Societies and Culture"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines in detail the major sources of conflict in the Middle East with special reference to the Arab-Israeli conflict, the arms buildup in the Arabian-Persian Gulf, energy crisis and the multi-national aspect of Middle East oil.  Attempts to discuss the impact of these conflicts on the processes of social and economic development.", 
+      "id": "CSUS_SOC 163", 
+      "course name": "Conflict, Oil and Development in the Middle East"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines globalization and its effect on local societies, including the impact of globalization on local labor and work practices, the social organization of local firms and business enterprises, local social structures such as gender, class, race/ethnicity, and local social patterns such as consumption and leisure activities.", 
+      "id": "CSUS_SOC 164", 
+      "course name": "Sociology of Globalization"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduces students to the sociology of the family including an examination of the family in various cultures with the emphasis on the American family in all its many forms.", 
+      "id": "CSUS_SOC 166", 
+      "course name": "The Family"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the relationship between the individual and society: social interaction, human development, behavior in groups and collectivities, personality and social structure. Theories and empirical studies. ", 
+      "course name": "Self and Society.", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 168", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Analyzes the American family, past, present, and future, focusing on explanation and consequences of changes in child-bearing, courtship, marriage, and the interrelationships between the individual and the family and society. Focuses on connecting course material to real world organizations and programs in the community that are associated with or linked to families. Per week: lecture two hours; fieldwork in the community two to three hours.", 
+      "id": "CSUS_SOC 169", 
+      "course name": "Changing American Family"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduces students to the sociology of childhood and adolescence, focusing on theoretical foundations, methodological challenges, and empirical examination of youth from preschool through high school.  Focuses on peer relations within wider contexts shaped by gender, race, and social class.", 
+      "id": "CSUS_SOC 170", 
+      "course name": "Sociology of Children and Adolescents"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Acquaints students with the sociological foundations of religion in society.  Emphasis is on the history, development and overall structure of the institution of religion, its relation to social, ethnic and class-based groups and its effect on society in general, and how its social development in America differs from other cultures.", 
+      "id": "CSUS_SOC 171", 
+      "course name": "Sociology of Religion"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the social organization of work and economic organization; the rise of industrial society and changes in workplace relations to the present; the role of technology and ideology in the workplace; industrial reforms and alternative forms of economic organization.", 
+      "id": "CSUS_SOC 175", 
+      "course name": "Work and Occupations"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Introduction to the study of labor in the U.S., including the nature of work, characteristics of the work force, and an overview of contemporary labor and industrial relations systems within the framework of current U.S. economic and political developments. ", 
+      "course name": "Labor and the American Social Structure.", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 176", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X", 
+        "LBRS 100"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course educates students on bullying as a social experience, introducing how social forces, environment and context impact the culture of bullying. Students will develop an understanding about how programs and policies impact bullying rates based on social theoretical perspective. Students will gain a better understanding of how research is related to intervention and prevention practices. Then, from a whole school approach, using the resources available to the school, students will implement different components of an anti-bullying program at a school site.", 
+      "id": "CSUS_SOC 185", 
+      "course name": "Bullying as a Social Experience"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines social structure and social determinants of behavior in small groups; socialization, social control, social change, leadership, social ranking, social conflict and morale. ", 
+      "course name": "Sociology of Small Groups", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 190", 
+      "prerequisite": [
+        "SOC 1"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Surveys the history of sociological theory from Comte to the present. ", 
+      "course name": "Sociological Theory", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 192", 
+      "prerequisite": [
+        "SOC 1"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be repeated twice for credit; Three times with exception as determined by the instructor.  ", 
+      "description": "Provides opportunity for freshman, sophomores, and juniors majoring in sociology to be mentored for improved student success and retention. Students receive peer mentoring to facilitate closer integration into campus community through participation in events, organizations, and conferences sponsored by the sociology department. Students learn how to build productive relationships with professors and receive timely advising for better retention and success rates. Course does not count toward sociology major but toward degree requirements. ", 
+      "id": "CSUS_SOC 193A", 
+      "course name": "Mentoring in Sociology"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": " May be repeated twice for credit; Three times with exception to be determined by the instructor.  ", 
+      "description": "Provides opportunities for junior and senior sociology majors to mentor and gain practical out-of-class experience. Students learn the principles of mentoring and contribute to student retention and success and close the retention gap. Course provides practical orientation and guidance for the best practices in mentoring that contribute to a positive campus culture. ", 
+      "id": "CSUS_SOC 193B", 
+      "course name": "Peer Mentoring in Sociology"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines contemporary issues and social developments within the research specialization of department faculty.  Provides a forum to discuss and evaluate controversies and advancements in the discipline of sociology, including theory and methodology. ", 
+      "course name": "Special Topics in Sociology", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 194", 
+      "prerequisite": [
+        "SOC 1"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " below.) ", 
+      "course name": "Internship and Fieldwork", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_SOC 195", 
+      "prerequisite": [
+        "SOC 199"
+      ]
+    }, 
+    {
+      "term": " combined may be applied to the Sociology upper division major requirement.  ", 
+      "description": "Advanced exploration of the scholarship of learning as applied to sociological methods and/or data analysis. Students will work independently on an applied semester project, but will also attend agreed upon number of computer lab hours each week and engage in course activities with a focus on how to best structure learning opportunities and apply content. ", 
+      "course name": "Linking Statistics Education and Practice", 
+      "units": "1 - 2 Units", 
+      "id": "CSUS_SOC 198", 
+      "prerequisite": [
+        "SOC 101", 
+        "SOC 195", 
+        "SOC 198", 
+        "SOC 199"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " above.)", 
+      "course name": "Individual Study Projects", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_SOC 199", 
+      "prerequisite": [
+        "SOC 195"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Describes our graduate program, clearly explains our requirements and standards for successful completion of the M.A., shows students how the profession works and how to work in the profession (public submissions, conference presentations, job searches), and explains how to get through the program in a timely manner with a strong thesis.  We will discuss Ph.D. programs and the application process, job opportunities and the role of professional sociologists outside academe. ", 
+      "id": "CSUS_SOC 200A", 
+      "course name": "Orientation to Graduate Studies in Sociology"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provides students with faculty and peer support for the process of developing a draft of a thesis prospectus or project proposal.  This includes the clarification of expectations, familiarization with research resources, and support provided through feedback in a structured environment. ", 
+      "course name": "Thesis Prospectus/Project Preparation Seminar", 
+      "units": "2 Units", 
+      "id": "CSUS_SOC 200B", 
+      "prerequisite": [
+        "SOC 214"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Critically examines major theories, research, and debates in the field of urban sociology, including social ecology, Marxist, subcultural, and postmodernist perspectives.  Course materials will be framed within two main themes; the dynamics of cooperation and conflict under urban conditions, and the tension between private interests and public life in urban settings.  Methodological emphasis will be on case studies, ethnographic, and social historical analysis. ", 
+      "id": "CSUS_SOC 210", 
+      "course name": "Urban Sociology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open to classified graduate students in sociology, all others by instructor permission only; Graduate Writing Intensive ", 
+      "description": "Deals specifically with such issues as the role of research within the discipline, the ethics of conducting research, the rationale behind field and survey methods, the validity and reliability of data collected through these methods and alternative approaches to data collection. ", 
+      "id": "CSUS_SOC 214", 
+      "course name": "Research Methods."
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduces techniques used to analyze sociological data.  Emphasis will be placed on the basic concepts of quantitative models used to explore causality, along with an introduction to software to carry out multivariate analysis.  Qualitative analytical techniques and software will also be introduced. ", 
+      "course name": "Data Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_SOC 215", 
+      "prerequisite": [
+        "SOC 101"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Course deals with main theoretical orientations in sociology representing radical, liberal and conservative viewpoints on social change. Examines the historical context of events that affected Western countries such as the Industrial Revolution, French Revolution, and the emergence of nationalism and human rights. Course approach is theoretical, historical and global. ", 
+      "id": "CSUS_SOC 220", 
+      "course name": "Seminar: Social Change"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes contemporary issues in stratification literature including class, status, power, sex/gender, identity, ethnicity, mobility, equality/inequality. Discusses differing theories, methodologies, and controversies according to student interests. ", 
+      "id": "CSUS_SOC 225", 
+      "course name": "Social Stratification"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Intended to introduce graduate students to diverse theories that explain gender relations in contemporary society.  Provides a critical perspective on how we construct men's and women's identities and how the consequences of such a construction affect institutions, culture and society.  Broken up in four sections: origins of gender inequality and issues surrounding research, theoretical perspectives, marginalized groups, and gendered issues in society.", 
+      "id": "CSUS_SOC 226", 
+      "course name": "Sociology of Gender"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes and critiques institutional structure. Studies shared understanding in groups, corporations, communities, institutions or societies and their hierarchical order. ", 
+      "id": "CSUS_SOC 230", 
+      "course name": "Seminar: Social Organization"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines advanced social psychology. Focuses on symbolic interactionism, ethnomethodology and other recent developments in sociological social psychology, phenomenology, humanistic social psychology and critical reflexive sociology. ", 
+      "id": "CSUS_SOC 235", 
+      "course name": "Social Psychology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the complex relationship between human society and its surrounding environment. Theoretical perspectives are complemented by empirical research on environmental issues. Special attention is given to issues relating to the local and regional California environment. Analyzes environmental issues in a global context.", 
+      "id": "CSUS_SOC 238", 
+      "course name": "Environmental Sociology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes and critiques terms and issues in social and sociological theory including levels of social reality and differing perspectives - positivism, idealism, realism, post-modernism, feminism, etc. ", 
+      "id": "CSUS_SOC 240", 
+      "course name": "Seminar: Sociological Theory"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Comprehensively reviews and evaluates major sociological theories of crime and deviance, methods of studying crime and deviance, current empirical research in crime and deviance, empirical testing of sociological explanations of crime and deviance, and empirical evaluation of crime and deviance control policy.", 
+      "id": "CSUS_SOC 255", 
+      "course name": "Social Research in Crime and Deviance"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Discusses in-depth several contemporary issues such as the political dimension of Islam, population growth and food security, oil and development, regional conflict, national integration and forces of modernization, etc. The selection of the topics will depend on current events.", 
+      "id": "CSUS_SOC 260", 
+      "course name": "Contemporary Issues of the Middle East and North Africa"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the social constructs of race and ethnicity as \"central organizing principles\" in the making and development of our modern world, particularly in the U.S., and how they have interacted with class and gender to create and maintain cultural and material social inequalities.  Evaluates competing and complementary theoretical frameworks explaining how race and ethnicity affect individual and group social-structural location (e.g., class position, educational attainment, and political power).", 
+      "id": "CSUS_SOC 265", 
+      "course name": "Race and Ethnic Relations"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Sociologically examines the family, with an emphasis on the contemporary American family. The numerous stages and variations of the family life cycle will be considered, with an emphasis on changes and the causes and consequences of the changes. ", 
+      "id": "CSUS_SOC 266", 
+      "course name": "Sociology of The Family"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated twice for credit  ", 
+      "description": "Examines contemporary issues and social developments within the research specialization of department faculty. Provides a forum to discuss and evaluate controversies and advancements in the discipline of sociology including theory and methodologies. ", 
+      "id": "CSUS_SOC 294", 
+      "course name": "Special Topics in Sociology"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Supervised internship and fieldwork experience in a variety of settings: (1) public or private agencies in the Sacramento community, (2) ethnic and/or minority communities, and (3) educational institutions including area community colleges and universities. Supervision is provided by authorized persons in the field and collaborative supervision is provided by sociology faculty at Sacramento State. ", 
+      "id": "CSUS_SOC 295", 
+      "course name": "Internship and Fieldwork"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open only to students who appear competent to carry on individual work. Admission requires approval of the sponsor of the project and the Department Chair. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_SOC 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 - 6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis or a project. Thesis: the 6 unit master's thesis requirement must be completed under the direction of the student's thesis committee. Project: the 6 unit project requirement must be completed under the direction of the student's project committee. ", 
+      "id": "CSUS_SOC 500", 
+      "course name": "Culminating Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "SOC", 
+    "subject": "Sociology"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Sociology", 
+    "id": "CSUS"
+  }
+}

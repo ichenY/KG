@@ -1,0 +1,95 @@
+{
+  "courses": [
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Discussion of the military as one element of national power; its role in American defense; its purpose, weapons and organizations; its participation in international treaties.  Discussion of other subjects required for a student to understand the military and its place in modern society. Fall only.", 
+      "id": "CSUS_MILS 14", 
+      "course name": "Introduction to Military Science I"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Discussion of the military's role in American Society, current society attitudes, sources of its leaders, and an examination of its structure. Spring only.", 
+      "id": "CSUS_MILS 15", 
+      "course name": "Introduction to Military Science II"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". Fall only.", 
+      "course name": "Principles and Tactics of the Soldier", 
+      "units": "1 Unit", 
+      "id": "CSUS_MILS 24", 
+      "prerequisite": [
+        "MILS 25"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Students will gain insight and practical experience in the manager-leader skills of counseling using the Army's sixteen leadership dimensions as a model.  The student will understand the elements of leadership, and undergo the Army's  Leadership Assessment Program in class.  Interactive role playing scenarios will be conducted and behavior recorded in a group setting.  The student will be given individual feedback on the results of the assessment by scheduling a private appointment with the instructor. Spring only.", 
+      "id": "CSUS_MILS 25", 
+      "course name": "Leadership Assessment and Beginning Counseling Skills"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Intensive examination of one or more special problems in Military Science. Possible areas of study include examination of the structure of the military and its place in modern society, participation in international treaties, leadership skills, decision making, as well as other topics in military science. ", 
+      "id": "CSUS_MILS 99", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Principles and practice in fundamentals applicable to military instruction to include planning, presentation, execution and evaluation.  Student presentations exemplify lecture material.  Application of small combat unit tactics (squad and platoon) will solidify concepts discussed in class. Fall only.", 
+      "id": "CSUS_MILS 134", 
+      "course name": "Principles Of Instruction"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Military small unit tactical theory and application are taught and serve as a basis for leadership development. Introduces principals of combat contemporary operating environment, Geneva Law of Land Warfare, and military offensive and defensive operations. Emphasis is placed on developing critical thinking, problem solving, and communication skills. Spring only.  ", 
+      "course name": "Military Operations", 
+      "units": "2 Units", 
+      "id": "CSUS_MILS 135", 
+      "prerequisite": [
+        "MILS 134"
+      ]
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Comprehensive course in the organization, structure, and functions of the various types of staffs and an introduction to the theory and application of military law and legal systems focusing on the Uniform Code of Military Justice and the rights of the accused under the Constitution. Fall only.", 
+      "id": "CSUS_MILS 144", 
+      "course name": "Principles of Military Administration"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Capstone seminar designed to bring together all previous Military Science instruction.  Examines contemporary leadership problems.  Designed to provide the ROTC cadet with the basic management skills necessary for a foundation for future growth as a junior officer. Spring only.", 
+      "id": "CSUS_MILS 145", 
+      "course name": "Military Leadership and Ethics"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Intensive examination of one or more special problems in military science. Possible areas of study include leadership dimensions, professional ethics, critical thinking, problem solving, communication skills as well as other topics in military science. ", 
+      "course name": "Special Problems", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_MILS 199", 
+      "prerequisite": [
+        "MILS 14", 
+        "MILS 15", 
+        "MILS 24", 
+        "MILS 25"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "MILS", 
+    "subject": "Military Science"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Military Science", 
+    "id": "CSUS"
+  }
+}

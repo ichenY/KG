@@ -1,0 +1,82 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Interpreting cinema as literary text, this course will explore, compare, and contrast diverse cultures through cinema. All films will be viewed in the original language with English subtitles. The focus will be on linguistic, cultural, and regional characteristics, values, and differences. This section will focus on cinematic interpretations of world literatures.",
+      "id": "CSUS_WLL 15",
+      "course name": "World Literatures in Film"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University.  Designed to help students develop academic success strategies and to improve learning skills.  Students will interact with fellow students to build a community of academic and personal support.  Introduces foreign languages as an academic discipline by requiring students to develop the habits of thinking and learning necessary in a complex, multicultural world.",
+      "id": "CSUS_WLL 21",
+      "course name": "First Year  Seminar: Becoming an Educated Person"
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "This isthe first part of the two-semester hybrid course on Ancient Greek language and written culture. The language component of the course is taught online through interactive language-teaching website, while the weekly meetings are mainly discussions on Ancient Greek texts in translation. The focus in this first part is on basic grammatical rules, the reading and construction of simple sentences, and the study of Greek written culture from its beginnings to the Classical Period. ",
+      "course name": "Language and written culture in Ancient Greece",
+      "units": "3 Units",
+      "id": "CSUS_WLL 120A",
+      "prerequisite": [
+        "HIST 101A"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "This is the second part of a two-semester hybrid course on Ancient Greek language and written culture. The language component of the course is taught online through an interactive language-teaching website, while the weekly meetings are mainly discussions on Ancient Greek texts in translation. The focus in this second part is on advanced grammar, the reading and understanding of long passages, and the study of Greek written culture from the Classical Period to the Roman era. ",
+      "course name": "Language and written culture in Ancient Greece",
+      "units": "3 Units",
+      "id": "CSUS_WLL 120B",
+      "prerequisite": [
+        "WLL 120A",
+        "HIST 101B"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "description": "Individual projects or directed reading. Open only to students who appear competent to carry on independent study. ",
+      "id": "CSUS_WLL 199",
+      "course name": "Special Problems"
+    },
+    {
+      "term": ".",
+      "description": "Problems of teaching foreign language; evaluation of methods in the light of objectives; discussion of techniques and source materials. Should be taken prior to or with student teaching. Discussion, participation in such classroom activities as panel discussions, presentations and demonstrations. ",
+      "course name": "Foreign Languages in the Secondary School",
+      "units": "3 Units",
+      "id": "CSUS_WLL 385",
+      "prerequisite": [
+        "EDTE 385"
+      ]
+    },
+    {
+      "units": "1.5 Units",
+      "term": "Cross Listed: EDTE 385A; only one may be counted for credit.",
+      "description": "This course is designed for candidates who are preparing to teach world languages in secondary school settings in California public schools. candidates will learn about current theoretical bases for second-language acquisition and how such theories inform classroom practice. Candidates have introductory opportunities to practice principles of learning from which teachers can draw as they make decisions about instruction. Lecture Discussion and simulation. Prerequisite Admission into the Single Subject Teacher Credential Program ",
+      "id": "CSUS_WLL 385A",
+      "course name": "Methods in World Language Education, A"
+    },
+    {
+      "term": "Cross Listed: EDTE 385B; only one may be counted for credit.",
+      "description": " and is designed for candidates preparing to teach world languages in secondary school settings in California public schools. Candidates will learn additional methodologies for planning and delivering instruction in world languages. Candidates will practice instructional strategies and will design lessons. Candidates will implement assessments that capture student learning of key world language outcomes, including oral language and written language development and reading fluency. Strategies for teaching cultural appreciation are also embedded. Lecture, discussion and simulation. ",
+      "course name": "Methods in World Languages Education, B",
+      "units": "1.5 Units",
+      "id": "CSUS_WLL 385B",
+      "prerequisite": [
+        "WLL 385A",
+        "WLL 385A"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "WLL",
+    "subject": "World Languages & Literatures"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "World Languages & Literatures",
+    "id": "CSUS"
+  }
+}

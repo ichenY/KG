@@ -1,0 +1,330 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Winter", 
+      "description": "Course looks at the earth as an ecosystem composed of biological, chemical, and physical systems. Focus is on the interaction of these systems with each other and with human population, technology, and production. Students should acquire the fundamentals of a scientific understanding of the ecological implications of human activities. Specific topics treated within the context of ecosystem analysis include energy flows, nutrient cycles, pollution, resource use, climate changes, species diversity, and population dynamics.", 
+      "id": "CSUS_ENVS 10", 
+      "course name": "Introduction to Environmental Science"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "The earth as an ecosystem composed of biological, chemical, and physical systems. Focus is on the interaction of these systems with each other and with human population, technology, and production. Students should acquire the fundamentals of a scientific understanding of the ecological implications of human activities. Specific topics treated within the context of the ecosystem analysis include energy flows, nutrient cycles, pollution, resource use, climate change, species diversity, and population dynamics. Students read important original research on topics. All students participate in a semester long project that applies the principles of the course to a real environmental issue.", 
+      "id": "CSUS_ENVS 10H", 
+      "course name": "Honors Environmental Science"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines Western cultural values and personal beliefs toward the environment.  Teaches critical thinking skills to analyze issues to make informed choices that may impact the earth, its resources and their management as consumers, leaders, professionals and moral agents.", 
+      "id": "CSUS_ENVS 11", 
+      "course name": "Environmental Issues and Critical Thinking"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University.  Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills.  Provides students with the opportunity to interact with fellow classmates and the seminar leader to build a community of academic and personal support.", 
+      "id": "CSUS_ENVS 21", 
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of a variety of environmental issues with emphasis on the social aspects of the problems and solutions. The class is conducted primarily through discussion, with an unusually high degree of student responsibility. Group and individual projects are designed to involve students in community affairs as well as to give them an opportunity to develop a personal perspective on environmental issues.", 
+      "id": "CSUS_ENVS 110", 
+      "course name": "Contemporary Environmental Issues"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Consideration of how human beings should act with regard to the non-human natural world in the context of complex societal needs.  Students will use critical thinking skills to integrate insights from the sciences, social sciences, and humanities to make ethical decisions.", 
+      "id": "CSUS_ENVS 111", 
+      "course name": "Environmental Ethics"
+    }, 
+    {
+      "term": " PCR/IR students are encouraged to contact the department regarding enrollment into this course. ", 
+      "description": "Global perspective on current problems of environmental protection and resource use. Population growth, food production, industrialization, technology and cultural change are considered, with heavy emphasis on the social dynamics of environmental problems. A variety of political views is studied, and an attempt is made to develop a perspective useful to students in personal and political decisions. ", 
+      "course name": "International Environmental Problems.", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 112", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Research tools and methods used by environmental professionals including selected statistical procedures, data sources and presentation and interpretation of results.  Students will become familiar with the wide range of equipment available to fit their special needs including the computer time-sharing system. ", 
+      "course name": "Quantitative Methods for Environmental Science", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 120", 
+      "prerequisite": [
+        "STAT 1"
+      ]
+    }, 
+    {
+      "term": ".  ", 
+      "description": "This field course includes the direct observation of human impact on specific environments and examples of mitigation strategies. Students will learn information gathering and data presentation methodologies useful in environmental impact assessment. Lecture three hours per week; one-day and weekend field trips will be arranged. ", 
+      "course name": "Field Methods in Environmental Science", 
+      "units": "2 Units", 
+      "id": "CSUS_ENVS 121", 
+      "prerequisite": [
+        "ENVS 175"
+      ]
+    }, 
+    {
+      "term": " or have some actual experience with environmental impact documentation before taking this course. ", 
+      "description": "Review of legislative and judicial requirements for environmental impact analysis. Students will be asked to review actual project environmental impact reports, analyze the methods employed, understand the relationship of the report to the planning process, and prepare such a document. ", 
+      "course name": "Environmental Impact Analysis: CEQA and NEPA", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 122", 
+      "prerequisite": [
+        "ENVS 128"
+      ]
+    }, 
+    {
+      "term": ". Only one may be counted for credit.", 
+      "description": "Examines the nature and forms of social justice and injustice. Addresses key philosophical and theoretical models and debates over the meaning of social justice, using historical and contemporary examples to highlight important concepts and controversies. Faculty from different departments within SSIS, and occasionally from other colleges, will address how their discipline understands and analyzes issues of social justice. Students will be encouraged to critically assess the assumptions of various perspectives on social justice, and to address the relationship of academe and social activism in achieving social justice. ", 
+      "course name": "Social Justice in Interdisciplinary Perspective", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 124", 
+      "prerequisite": [
+        "ANTH 130", 
+        "ID 124", 
+        "SOC 124"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Cross Listed: GOVT 128; only one may be counted for credit.", 
+      "description": "Introduction to environmental law, including: the evolution of environmental legislation, environmental issues in the court system, environmental regulation and administrative law, and environmental torts.  Emphasis is on understanding legal process and the special challenges environmental problems present to the legal system. ", 
+      "id": "CSUS_ENVS 128", 
+      "course name": "Environment and the Law"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Focuses on the aspects of toxicology which enable us to study and explore environmental issues concerning human and ecosystem health. It will explore the impact of human activity since World War II in contributing to human disease and ecosystem disruption. Risk perception and communication as it concerns environmental toxicology will also be discussed. ", 
+      "course name": "Environmental Toxicology", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 130", 
+      "prerequisite": [
+        "CHEM 6A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course provides the historical, scientific, legal, institutional, and economic background needed to understand the social and ecological challenges of providing water for California's growing population, agricultural economy, and other uses- all of which are made more complex by climate change. We will look at past and current debates around cases ranging from local issues on the American River to statewide issues that converge in the Sacramento-San Joaquin Delta. Both physical and social science research skills will be developed. ", 
+      "course name": "California Water and Society", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 135", 
+      "prerequisite": [
+        "ENVS 120"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Course will introduce students to the interdisciplinary field of conservation biology through the lens of modern society. Students will acquire a basic understanding of the history of the field of conservation, and the values that drive our desire to preserve species and natural systems. Students will learn about conservation challenges, will analyze the scientific and social factors that contribute to addressing those challenges, and will learn to appreciate the diverse perspectives that are vital in modern conservation. ", 
+      "course name": "Conservation and Society", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 137", 
+      "prerequisite": [
+        "ENVS 10", 
+        "BIO 1"
+      ]
+    }, 
+    {
+      "term": ".", 
+      "description": "The study of human society, the natural environment, and their mutual interactions. Examines environmental sociology at several levels, from the micro level of individual communities to the meso level of government policies to macro theoretical considerations. Analyzes environmental issues in a global context also included. ", 
+      "course name": "Introduction to Environmental Sociology", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 138", 
+      "prerequisite": [
+        "SOC 138"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course covers the concepts and tools necessary to understand society's diverse technology and policy choices around energy production and use. Students will apply both quantitative and qualitative methods to analyze opportunities and impacts of energy systems with consideration for environmental sustainability, international development, and social equity. We will consider a range of energy technologies, their historical trajectories, current drivers, and prospects for addressing energy challenges at different scales, from households to the global climate. ", 
+      "id": "CSUS_ENVS 140", 
+      "course name": "Energy, Society, and the Environment"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines issues of environmental, social, and economic sustainability in domestic and international contexts. Students will study the science, policy, and implementation of sustainable practices regarding water, food, and energy resources. Students will learn the history of sustainability, definitions of sustainability, how sustainability is measured, and how sustainability applies to urban and rural landscapes. ", 
+      "course name": "Sustainability Science & Policy", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 144", 
+      "prerequisite": [
+        "ENVS 10", 
+        "BIO 1"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course uses campus initiatives in food and bio-waste recycling, combined with vermiculture and aquaponics, to address larger topics in urban food production. This subject has significance for addressing concerns about food access, security, quality, and even local economic development. The course will include hands-on activities on campus, projects with local urban agriculture organizations, and reports connecting the specifics of the course with core questions in environmental science and policy", 
+      "id": "CSUS_ENVS 147", 
+      "course name": "Urban Agriculture and Aquaponics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Required field trips. ", 
+      "description": "Ecological aspects of the production of food and fiber, with emphasis on the sustainability and adequacy of the global food supply to meet the needs of a growing, urbanized population. Covers topics basic to all agricultural systems - soil development, fertility, irrigation, nutrient cycles, crop selection - while contrasting methods developed for large-scale industrial food production with traditional and/or organic farming methods. ", 
+      "id": "CSUS_ENVS 149", 
+      "course name": "Agroecology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Overview of concepts and practices in restoration ecology, emphasizing the application of ecological principles to restoration design, implementation, and monitoring. Major course topics will include historical ecology, soils and hydrology, plant and animal ecology, exotic species, endangered species concerns, mitigation, monitoring, planning, and assessment as they apply in a restoration context. Students will work in local restoration projects; field trips required.", 
+      "id": "CSUS_ENVS 151", 
+      "course name": "Restoration Ecology"
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Course investigates the motivations and barriers to engaging in pro-environmental behaviors. Focus on theories from multiple social and behavioral sciences to understand how individuals form judgments and decisions regarding natural resource and ecosystem management. Specific topics may include principal-agent theory, dual-process theory, multi-criteria decision-making, theory of planned behavior, norm-value-belief, community-based social marketing, and structured decision-making. Students will build skills in stakeholder engagement and science communication. ", 
+      "course name": "Environmental Management and Decision-Making", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 155", 
+      "prerequisite": [
+        "ENVS 10"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Field trips required. ", 
+      "description": "Introduces and discusses characteristics of wetland systems; principles of wetland ecology; functions of wetlands; and regulations and permitting process regarding development near and within wetlands. Appropriate for students planning careers in natural resource management. Though not a substitute for professional training in wetlands delineation and functional assessment, students will gain a basis for such assessments. Familiarity with basic principles of chemistry, physics, and biology recommended. ", 
+      "id": "CSUS_ENVS 158", 
+      "course name": "Wetlands Ecology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Field Trip. Required field trip to Chawse Indian Grinding Rocks State Park. Fee Course. $15 per student. ", 
+      "description": "Evaluates sustainable management of ecosystems by local indigenous people, using traditional resource management, traditional ecological knowledge and Western science. Familiarizes students with the fields of ethnobiology, ethnoecology, and historical ecology. Students learn about the relationship between people and plants, with a focus on how traditional plant knowledge reflects and is reflected by environmental perceptions. ", 
+      "id": "CSUS_ENVS 163", 
+      "course name": "Ethnoecology"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Traces the development of the changing relationship between human society and the natural environment. Focuses on changing attitudes and behaviors toward the environment from the pre-colonial era through the present. Also examines the relationship between industrialization and the technological revolution and nature and examine past and present conservation and environmental movements. ", 
+      "course name": "American Environmental History", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 165", 
+      "prerequisite": [
+        "HIST 165"
+      ]
+    }, 
+    {
+      "term": "Cross Listed: GOVT 171; only one may be counted for credit.", 
+      "description": ". ", 
+      "course name": "Environmental Politics and Policy", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 171", 
+      "prerequisite": [
+        "ENVS 128"
+      ]
+    }, 
+    {
+      "term": ".  ", 
+      "description": "Examines both the negative and positive impacts that anthropogenic effects have on groundwater, streams, and lakes by utilizing the application of field sampling techniques and laboratory analysis currently used to assess pollution impacts. Introduces the interrelationships among plants, animals and environmental factors within polluted aquatic ecosystems. Emphasizes laboratory and field procedures used in strategies taken to assess and manage these impacts. ", 
+      "course name": "Aquatic Pollution Assessment", 
+      "units": "3 Units", 
+      "id": "CSUS_ENVS 175", 
+      "prerequisite": [
+        "BIO 160", 
+        "CHEM 1A", 
+        "ENVS 121"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Series of at least 10 seminars in ecological and environmental issues. Topics with each seminar will vary each semester. ", 
+      "course name": "Ecological and Environmental Issues Seminar", 
+      "units": "1 Unit", 
+      "id": "CSUS_ENVS 186B", 
+      "prerequisite": [
+        "BIO 1", 
+        "BIO 2", 
+        "ENVS 186B", 
+        "BIO 186B"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Students will participate in the semester-long University seminar and will be exposed to a variety of environmental issues and topics presented by speakers from CSUS, the USGS, government and professional organizations, among many others. Topics include issues such as climate change, water use and conversation, environmental sustainability, environmental policy and decision-making, and many important regional issues.", 
+      "id": "CSUS_ENVS 187", 
+      "course name": "Environmental Studies Seminar"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explores an environmental problem or issue in great depth. It includes a detailed review of the scientific literature, synthesis, and integration of information from the literature, and evaluation of the information leading to conclusions and recommendations that address the problem or issue. Thesis subjects are chosen by the student, and can be from a myriad perspectives addressed in the Environmental Studies curriculum including scientific, social, political, economic, and cultural issues. ", 
+      "id": "CSUS_ENVS 190", 
+      "course name": "Senior Thesis"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open to majors only, subject to instructor permission. ", 
+      "description": "Supervised work experience in an approved legislative or administrative office at some level of local, state or federal government, or in a public or private organization that is concerned with the environment. Supervision is provided by the faculty instructor and responsible officials in the work situation. ", 
+      "id": "CSUS_ENVS 195", 
+      "course name": "Environmental Studies Internship"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " Open to majors only, subject to instructor permission. ", 
+      "description": "This introductory work experience is designed for sophomores and juniors. The student must complete 45 hours of environmentally related work in a volunteer position with an environmental organization or participation in an environmentally focused event. Supervision is provided by the faculty instructor and responsible officials in the work situation. ", 
+      "id": "CSUS_ENVS 195M", 
+      "course name": "Mini Internship"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "This course examines camp programs in a wide variety of settings, for a variety of populations. Topics cover camp theories, camp management, risk-management, activity planning, inclusive programming, and staff training. Includes an emphasis on leadership, supervision, and organizational development of camp programs. Course uses lecture, field experiences, guest speakers, and service learning.", 
+      "id": "CSUS_ENVS 196G", 
+      "course name": "Youth Recreation in Camp Settings"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open only to students who are competent to carry on individual work. Admission requires permission of the Director and the faculty member who will direct the work. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_ENVS 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "2 - 6 Units", 
+      "term": " Open only to graduate students specializing in environmental studies.  ", 
+      "description": "Graduate internship experiences in practical setting. ", 
+      "id": "CSUS_ENVS 295", 
+      "course name": "Practicum"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Courses offered on an experimental basis. ", 
+      "id": "CSUS_ENVS 296", 
+      "course name": "Experimental Offerings in Environmental Studies"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Departmental petition required. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_ENVS 299", 
+      "course name": "Special Problems: Individual Study"
+    }
+  ], 
+  "subjectOf": {
+    "id": "ENVS", 
+    "subject": "Environmental Studies"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Environmental Studies", 
+    "id": "CSUS"
+  }
+}

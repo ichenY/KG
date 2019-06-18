@@ -1,0 +1,277 @@
+{
+  "subjectOf": {
+    "id": "GEOG",
+    "subject": "Geography"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Geography"
+  },
+  "courses": [
+    {
+      "id": "GEOG 150",
+      "course name": "Human Geography",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d3"
+      },
+      "description": "The interplay of cultures, places, and environments, with emphasis on diversity and globalization. Topics include characteristics and patterns of human population, migration, ethnicity, agriculture, geopolitics, language, religion, urbanization, industry, and international development. 4 lectures. Fulfills GE D3."
+    },
+    {
+      "id": "GEOG 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "GEOG 250",
+      "course name": "Physical Geography",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Addresses the origins and patterns of the earth's diverse assemblage of climates, landforms, biota and soils. A major focus on relationship between human cultures and these earthly environments. 4 lectures. Crosslisted as ERSC/GEOG250."
+    },
+    {
+      "id": "GEOG 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "GEOG 300",
+      "course name": "Geography of United States",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "The population (including origin, ethnicity, migration, and distribution), land utilization, and economic development viewed against the background of the physical environment.  Topically and regionally organized.  Pervading themes include landscape evolution and alteration, regional cultural distinctiveness, and current problems.  4 lectures.  Fulfills GE D5 except for Anthropology/Geography and Social Sciences majors."
+    },
+    {
+      "id": "GEOG 301",
+      "course name": "Geography of Resource Utilization",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "Multicultural, global perspective on the interdependence of people, ecosystems, and resource utilization.  Topics include population, resource economics, food, forestry, fishing, water resources, air pollution, climate change, minerals, and energy.  Grounded in principles of economic geography and environmental science, with emphasis on sustainability.  4 lectures.  Fulfills GE D5 except for Anthropology/Geography majors."
+    },
+    {
+      "id": "GEOG 308",
+      "course name": "Global Geography",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "Examination of the major world regions such as Europe, the Middle East, Africa, Asia and Latin America.  Focus on the origins and content of contemporary cultural landscapes and on their utility for understanding international differences, interactions, and current events.  Particular attention to the relationship between humans and the environment.  4 lectures.  Fulfills GE D5 except for Anthropology/Geography and Social Sciences majors."
+    },
+    {
+      "id": "GEOG 318",
+      "course name": "Applications in GIS",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "ArcGIS Desktop Geographic Information System (GIS) computer software to explore environmental, natural resource, social and economic issues using spatial data.  Principles of cartography and map interpretation.  Development of data base and software management competencies.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "GEOG 325",
+      "course name": "Climate and Humanity",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Geographic perspective on the interrelationships between climate and human cultures.  Effects of people on climate and the influence of climate and weather upon human activities and behavior.  Focus on global human conditions which are responsible for the alteration of climate and in turn are vulnerable to climate change.  4 lectures.  Crosslisted as ERSC/GEOG325."
+    },
+    {
+      "id": "GEOG 328",
+      "course name": "Applications in Remote Sensing",
+      "hasPrerequisite": "GEOG 250",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Introduction to the use of satellite imagery to analyze natural and human features on the earth.  Applications in geology, water, climate, vegetation, agriculture, and urban land use.  Fundamentals of processing digital satellite images.  Emphasis on bridging the earth and social sciences.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "GEOG 333",
+      "course name": "Human Impact on the Earth",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Global assessment of the impact of humans on the earth's vegetation, animals, soil, water and atmosphere.  Emphasis on problems stemming from the interactions of human attitudes, technologies, and population with natural resources.  4 lectures.  Crosslisted as ERSC/GEOG333."
+    },
+    {
+      "id": "GEOG 340",
+      "course name": "Geography of California",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Analysis of the land and people of California from a geographical perspective.  Patterns of environment, history, settlement, water, agriculture, ethnicity, economy, politics, and urban growth.  Current issues are examined in a national and global context.  4 lectures."
+    },
+    {
+      "id": "GEOG 350",
+      "course name": "The Global Environment",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area Fall"
+      },
+      "description": "Interdisciplinary investigation of how human activities impact the Earth's environment on a global scale.  Examination of population, resource use, climate change, and biodiversity from scientific/technical and social/economic/ historical/political perspectives.  Use of remote sensing maps.  Sustainable solutions.  4 lectures.  Crosslisted as AG/EDES/ENGR/GEOG/ISLA/SCM/UNIV350.  Fulfills GE Area F."
+    },
+    {
+      "id": "GEOG 370",
+      "course name": "Geography of Latin America",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "Geographic analysis of the lands and peoples of Mexico, Central America, the Caribbean, and South America.  Patterns of environment, culture, politics, economy, and development.  Issues (local, regional, and global) shaping Latin America today, with emphasis on U.S.-Latin America relations.  4 lectures.  Fulfills GE D5 except for Anthropology/Geography majors."
+    },
+    {
+      "id": "GEOG 380",
+      "course name": "Geography of the Caribbean",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area d5"
+      },
+      "description": "Geographic analysis of the Caribbean including the Greater Antilles, Lesser Antilles, and the Caribbean coasts of Central and South America.  Investigates patterns and relationships between the physical and cultural geographies from local, regional, and global perspectives.  4 lectures.  Fulfills GE D5 except for Anthropology and Geography majors."
+    },
+    {
+      "id": "GEOG 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "GEOG 408",
+      "course name": "Geography of International Development",
+      "hasPrerequisite": "GEOG 308",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Detailed analysis of international development from a geographical perspective.  Survey of various theories of development and their cultural and ecological components at multiple geographic scales, including institutions and actors involved.  Applicable skills for development research and practice, emphasizing sustainability.  4 lectures."
+    },
+    {
+      "id": "GEOG 414",
+      "course name": "Global and Regional Climatology",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "The earth's pattern of climates and the physical processes that account for them.  Focus on interrelationships between climate and the physical/biological and cultural environments.  Special emphasis on modern climate changes and their consequences.  3 lectures, 1 laboratory.  Crosslisted as ERSC/GEOG414."
+    },
+    {
+      "id": "GEOG 415",
+      "course name": "Applied Meteorology and Climatology",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Physical processes in the atmosphere that determine regional weather, climate and climate variability.  Surface and satellite systems for weather observation, and weather/climate modeling.  Dynamics of weather systems, including thunderstorms and hurricanes.  Emphases on weather/climate affecting agriculture and other human activities.  3 lectures, 1 activity.  Crosslisted as ERSC/GEOG415."
+    },
+    {
+      "id": "GEOG 440",
+      "course name": "Advanced-Applications in GIS",
+      "hasPrerequisite": "GEOG 318",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Applications in Geographic Information Systems (GIS) emphasizing research, methodologies, and career fields to geography, earth sciences, and the social sciences.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "GEOG 455",
+      "course name": "Anthropology-Geography Research Design and Methods",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Development of knowledge and skills needed to conduct original scientific anthropology-geography research and prepares students for senior projects.  Various empirical methodologies highlighted, with a focus on quantitative design and measurement of human culture, biology, behavior, environment and ecology.  3 lectures, 1 laboratory.  Crosslisted as ANT/GEOG455."
+    },
+    {
+      "id": "GEOG 461",
+      "course name": "Senior Project I",
+      "units": "2 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 120 hours total time."
+    },
+    {
+      "id": "GEOG 462",
+      "course name": "Senior Project II",
+      "units": "2 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 120 hours total time."
+    },
+    {
+      "id": "GEOG 464",
+      "course name": "Professional Preparation for Anthropologists/Geographers",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "ANT 201"
+        },
+        {
+          "prerequisite": "GEOG 150"
+        }
+      ],
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Preparation for professional advancement in the fields of anthropology and geography.  Supervised career planning emphasizing resume development, selection of an internship or international experience, exploration of career options and graduate programs.  Lectures from outside, practicing professionals.  Credit/No Credit grading only.  1 seminar."
+    },
+    {
+      "id": "GEOG 465",
+      "course name": "Internship",
+      "hasPrerequisite": "GEOG 464",
+      "units": "3-8 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Supervised training, research, and work in public and private organizations.  Credit/No Credit grading only.  Total credit limited to 18 units."
+    },
+    {
+      "id": "GEOG 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 12 units.  1-4 lectures."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "subjectOf": {
+    "subject": "Geography Courses",
+    "id": "GEO"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Geography Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_GEO 308",
+      "course name": "Geographic Information Systems",
+      "units": "3 Credits",
+      "description": "This course is an introduction to the Geographic Information Systems (GIS) software that is widely used to conduct spatial analysis in the areas of environmental science, defense and intelligence, emergency response, business, education, government, health and human services, public safety, transportation, and utilities and communication. Students will learn the ArcGIS system and become experienced in the analysis of spatially related data and the digitized map system.Note: the software used in this course has specific computer requirements including, Windows 8 Operating System, 2.2 GHZ minimum speed, and 2GB minimum Memory/ RAM."
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "subjectOf": {
+    "subject": "Early Childhood Education Courses",
+    "id": "ECE"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Early Childhood Education Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_ECE 101",
+      "course name": "Introduction to Early Childhood Education",
+      "units": "3 Credits",
+      "description": "This course provides an overview of the field of early childhood education including history, philosophy, advocacy, public policy, issues, trends, and careers."
+    },
+    {
+      "id": "AshFord_ECE 201",
+      "course name": "Introduction to Early Childhood Behavior Management",
+      "units": "3 Credits",
+      "description": "Introduction to Early Childhood Behavior Management will address age appropriate behavioral expectations. Challenging behaviors will be identified as well as strategies to assist with classroom management. Strategies to increase positive self-esteem as well as strategies to assist with classroom management will be examined. Students will also apply the understanding of how planning and assessment will be utilized to address challenging behaviors in the classroom. The final project will include creating a behavior plan to address a child's needs."
+    },
+    {
+      "id": "AshFord_ECE 203",
+      "course name": "Introduction to Curriculum & Instruction for the Early Childhood Classroom",
+      "units": "3 Credits",
+      "description": "Introduction to Curriculum and Instruction for the Early Childhood Classroom examines the relationship between curriculum, instruction, and assessment. This course is designed to provide students with the opportunity to apply developmentally appropriate practices to lessons. In addition, students will create lessons that are inclusive of culture and individual differences. Finally, students will apply knowledge of aligning professional standards to the curriculum and to the classroom. The final project will include a comprehensive curriculum plan."
+    },
+    {
+      "id": "AshFord_ECE 205",
+      "course name": "Introduction to Child Development",
+      "units": "3 Credits",
+      "description": "Introduction to Child Development examines the principles of child development from birth to adolescence. The course begins with students discussing the major developmental stages, domains, and milestones of child development. Students will also analyze how knowledge of theories, developmental stages, and domains of development support developmentally appropriate practices. Throughout the course students will explore the importance of family involvement and the strategies that foster communication and engagement from families. Finally, using their knowledge of developmentally appropriate practices, students will describe environments that nurture the physical, socio-emotional, language and cognitive growth of every child."
+    },
+    {
+      "id": "AshFord_ECE 207",
+      "course name": "Professional Responsibilities in the Early Childhood Environment",
+      "units": "3 Credits",
+      "description": "Professional Responsibilities in the Early Childhood Environment examines key topics related to high quality early learning environments. In this course, students will discuss ways to involve families in the health, safety and nutritional growth of their children. Students will also utilize their knowledge of developmentally appropriate practices to plan for high-quality learning environments for young children. Finally, this course examines administrative practices, workforce issues, professional standards, and ethical behaviors associated with operating a high quality early childhood environment."
+    },
+    {
+      "id": "AshFord_ECE 214",
+      "course name": "Nutrition & Health of Children & Families",
+      "units": "3 Credits",
+      "description": "This course provides a study of the health and nutrition needs of children and families."
+    },
+    {
+      "id": "AshFord_ECE 311",
+      "course name": "Early Childhood Curriculum & Methods",
+      "units": "3 Credits",
+      "description": "This course focuses on curriculum development in early childhood and teaching strategies with a developmentally appropriate approach. Students will prepare curriculum and practice teaching strategies which illustrate the characteristics of play and creativity. The guidance of young children to include behavior management and creating positive learning environments will also be emphasized."
+    },
+    {
+      "id": "AshFord_ECE 312",
+      "course name": "Administration of Early Childhood Education Programs",
+      "units": "3 Credits",
+      "description": "This course focuses on the development and implementation of early childhood programs for a variety of age groups and purposes. Specifically, curriculum development, materials, teaching strategies, evaluation, budgets, hiring procedures and state guidelines/regulations are addressed as are the skills and competencies to implement the above."
+    },
+    {
+      "id": "AshFord_ECE 313",
+      "course name": "Collaboration with Parents & Community",
+      "units": "3 Credits",
+      "description": "Factors that promote effective communication and collaboration with parents of babies and preschool-aged children, families and community resources are considered in this course."
+    },
+    {
+      "id": "AshFord_ECE 315",
+      "course name": "Language Development in Young Children",
+      "units": "3 Credits",
+      "description": "This course provides an introduction to the developmental stages of language acquisition in young children from birth to the age of 6. The focus of the course is on the facilitation of language acquisition in young children."
+    },
+    {
+      "id": "AshFord_ECE 320",
+      "course name": "Cognition & Language Development",
+      "units": "3 Credits",
+      "description": "Adolescence is the largest developmental period other than infancy. The purpose of this course is to provide a solid foundation for educators and other professionals to be able to support the developing adolescent. In this course, students will examine the key physical, social-emotional, behavioral, and cognitive changes in adolescence and explain methods for fostering positive peer and family relationships. Students will analyze the role of media and technology and its impact on adolescent development. Additionally, students will summarize the key elements that influence adolescent identity-development and propose strategies for supporting adolescents facing mental health and behavioral issues."
+    },
+    {
+      "id": "AshFord_ECE 332",
+      "course name": "Child Development",
+      "units": "3 Credits",
+      "description": "This course provides a basic introduction to the nature of human growth and development as it occurs from conception through early childhood. Students learn about motor, cognitive, social, emotional, moral, aesthetic, and language development in early childhood."
+    },
+    {
+      "id": "AshFord_ECE 335",
+      "course name": "Childrens Literature",
+      "units": "",
+      "description": "Students learn how to select and use childrens books and other media relating to physical, cognitive, emotional, and social development of babies and preschool-aged children."
+    },
+    {
+      "id": "AshFord_ECE 341",
+      "course name": "Social & Emotional Growth of Infants & Toddlers",
+      "units": "3 Credits",
+      "description": "Social-emotional development including the management of emotions and the ability to establish positive relationships with others will be covered in this course. Students will learn the important elements in a childcare setting that support healthy social, emotional, and behavioral adjustment in infants and toddlers."
+    },
+    {
+      "id": "AshFord_ECE 343",
+      "course name": "Quality Care Environments for Infants & Toddlers",
+      "units": "3 Credits",
+      "description": "Students will learn both theory and application of why and how to set up, arrange and change early childhood learning environments to effectively meet the developmental needs of very young children. The role of the teacher, the importance of the environment, design principles, health and safety will be covered in this course."
+    },
+    {
+      "id": "AshFord_ECE 345",
+      "course name": "Infant & Toddler Learning & Development",
+      "units": "3 Credits",
+      "description": "Emphasis will be placed on effective activities and practices to promote language development, cognitive development and motor skill development in young children. Sensory, music and movement development will also be covered in this course. Appropriate behavior teaching and coaching for infants, toddlers, and 2-year-olds will be discussed."
+    },
+    {
+      "id": "AshFord_ECE 347",
+      "course name": "Culture, Family & Childcare",
+      "units": "3 Credits",
+      "description": "This course will increase the students expertise and understanding of all the components that must work together to create an effective childcare setting in which all children can thrive. Elements to be covered in the planning of a childcare environment include discipline and behavior management as well as consideration of the childs developmental level, the family and cultural context."
+    },
+    {
+      "id": "AshFord_ECE 351",
+      "course name": "Play & Learning for the Young Child",
+      "units": "3 Credits",
+      "description": "In this course students explore the significant role and impact of play on the development of children. Students will actively participate in discussions and activities related to major theorists, current research on play, the developmental stages of play, cultural influences, and current trends and topic related to play."
+    },
+    {
+      "id": "AshFord_ECE 353",
+      "course name": "Cognitive Development of Infants & Young Children",
+      "units": "3 Credits",
+      "description": "Students examine the theoretical frameworks related to cognitive development in children providing them with a foundational understanding of the theories of brain development. Using that foundation, students evaluate the relationship between cognitive development and the developmental domains in children and the influences on brain development. Additionally, students analyze how environment and genetics impact brain development and cognitive functioning and evaluate the educational and societal implications for children in the context of cognitive development and functioning. Throughout the course, students also synthesize their learning from the course to develop strategies and techniques in their work with children in a variety of educational settings to promote optimal cognitive development."
+    },
+    {
+      "id": "AshFord_ECE 354",
+      "course name": "Assessment & Intervention During Early Childhood",
+      "units": "3 Credits",
+      "description": "Throughout this course, students analyze the purpose of assessment in supporting children across all developmental domains. Using this foundation, students examine the practical application of assessment tools and utilize assessment strategies to enhance the growth and development of children. Finally, students synthesize their learning by developing an assessment portfolio that contains intervention strategies for meeting the developmental needs of children."
+    },
+    {
+      "id": "AshFord_ECE 355",
+      "course name": "Understanding Behavior & Family Dynamics",
+      "units": "3 Credits",
+      "description": "This course explores developmental theory and the relationship to the socialization and education of young children in child rearing, caring, and education. Special emphasis will be placed upon exploring how the child is viewed in the context of his or her family and the community at large."
+    },
+    {
+      "id": "AshFord_ECE 405",
+      "course name": "Children & Families in a Diverse Society",
+      "units": "3 Credits",
+      "description": "This course will provide a clear and practical introduction to multicultural and anti-bias issues, and aid students in developing culturally relevant methods in working with children and families in early childhood settings."
+    },
+    {
+      "id": "AshFord_ECE 430",
+      "course name": "Early Childhood Education Capstone",
+      "units": "3 Credits",
+      "description": "This is the capstone course for the Early Childhood Education and the Early Childhood Education Administration Major, to be taken at the completion of the major courses. This course provides students with the opportunity to integrate and apply their learning from the course of study for Early Childhood Education in a comprehensive manner. Students will reflect on the courses taken and develop an understanding on the National Association for the Education of Young Children (NAEYC) and the National Council for Accreditation of Teacher Education (NCATE) standards, developmentally appropriate practices based upon child development research, center-based curriculum and professionalism. This course will culminate with a comprehensive final project that integrates the student learning throughout the program as well as a final exam that covers the program learning outcomes."
+    },
+    {
+      "id": "AshFord_ECE 600",
+      "course name": "Leadership, Innovation, and Social Justice in Early Childhood Education",
+      "units": "3 Credits",
+      "description": "Students in this course will be introduced to the professional knowledge, skills, dispositions, and standards expected of early childhood education professionals and innovative leaders in the field. Further, this course will introduce several programmatic themessocial justice, 21st century teaching and learning, and leadershipto inspire students to be active early childhood advocates for children. Students will also gain insights and understanding related to the academic, personal, and professional expectations of graduate students to support their success in the MAECEL program and in their profession."
+    },
+    {
+      "id": "AshFord_ECE 601",
+      "course name": "Introduction to Early Childhood Education",
+      "units": "3 Credits",
+      "description": "This course provides an overview of the field of early childhood education including history, philosophy, advocacy, public policy, issues, trends, and careers."
+    },
+    {
+      "id": "AshFord_ECE 605",
+      "course name": "Children & Families in a Diverse Society",
+      "units": "3 Credits",
+      "description": "This course will provide a clear and practical introduction to multicultural and anti-bias issues and will aid students in developing culturally relevant methods in working with children and families in early childhood settings."
+    },
+    {
+      "id": "AshFord_ECE 611",
+      "course name": "Early Childhood Curriculum & Methods",
+      "units": "",
+      "description": "This course focuses on curriculum development in early childhood and teaching strategies with a developmentally appropriate approach. Students will prepare curriculum and practice teaching strategies which illustrate the characteristics of play and creativity. The guidance of young children to include behavior management and creating positive learning environments will also be emphasized."
+    },
+    {
+      "id": "AshFord_ECE 612",
+      "course name": "Administration of Early Childhood Education",
+      "units": "3 Credits",
+      "description": "This course focuses on the development and implementation of early childhood programs for a variety of age groups and purposes. Specifically, curriculum development, materials, teaching strategies, evaluation, budgets, hiring procedures and state guidelines/regulations are addressed as are the skills and competencies to implement the above."
+    },
+    {
+      "id": "AshFord_ECE 623",
+      "course name": "Collaboration with Parents & Community",
+      "units": "3 Credits",
+      "description": "Factors that promote effective communication and collaboration with parents of babies and preschool-aged children, families and community resources are considered in this course."
+    },
+    {
+      "id": "AshFord_ECE 624",
+      "course name": "Advanced Topics in Child Development, Learning, and Developmentally Appropriate Practices",
+      "units": "3 Credits",
+      "description": "This course examines current issues, trends, theories, and research related to child development and developmentally appropriate practices in the early childhood classroom. Students generate ethical solutions to relevant issues in the field of early childhood education and social justice. Further, students will examine how various leadership models foster professional knowledge and skills within their chosen field of study. Using this information, students design a classroom environment that incorporates evidence-based and developmentally appropriate strategies that promote optimal learning and development in young children. ",
+      "prerequisite": [
+        "ECE 600",
+        "EDU 650"
+      ]
+    },
+    {
+      "id": "AshFord_ECE 625",
+      "course name": "Family& Community Engagement",
+      "units": "3 Credits",
+      "description": "This course focuses on factors that promote effective engagement with families of infants, toddlers and preschool-aged children, and the impact of this relationship on young childrens development, learning and behavior. Integration of concepts with best practice in early care and education, as well as family context and community resources are considered in this course."
+    },
+    {
+      "id": "AshFord_ECE 630",
+      "course name": "Language, Physical & Social Development in Young Children",
+      "units": "3 Credits",
+      "description": "This course provides an introduction to the developmental stages of language acquisition, physical and social development in young children from birth to 6. The focus of the course is on the specific developmental milestones in young children."
+    },
+    {
+      "id": "AshFord_ECE 631",
+      "course name": "Building Family and Community Partnerships",
+      "units": "3 Credits",
+      "description": "This course provides opportunities for students to examine partnerships among early childhood professionals, families, and the communities in which they work. Throughout the course, students evaluate how their daily instructional practices promote positive outcomes for young children. Students explore the various partnerships necessary in early childhood education and discover how these partnerships can support curriculum, learners development, and the learning environment. Course requirements provide several opportunities for students to examine and discuss the effectiveness of ethical communication and collaboration strategies. Approaching course topics as reflective practitioners, students are able to determine how these specific partnerships fit into their future roles. ",
+      "prerequisite": [
+        "ECE 600",
+        "EDU 650"
+      ]
+    },
+    {
+      "id": "AshFord_ECE 642",
+      "course name": "Quality Curriculum in Early Childhood Education",
+      "units": "3 Credits",
+      "description": "In this course, students examine the relationship between theory, research, and practice in creating quality curriculum for the early childhood classroom. In addition, students evaluate a wide array of approaches, instructional strategies, and tools utilized to positively influence each childs learning and development. Students also analyze their roles as leaders in evaluating curriculum materials and models that align with state and national standards. Utilizing this information, students design challenging curriculum that promotes comprehensive development and learning outcomes for all young children and across all domains of development. ",
+      "prerequisite": [
+        "ECE 600",
+        "EDU 650"
+      ]
+    },
+    {
+      "id": "AshFord_ECE 653",
+      "course name": "Cognitive Development of Infants & Young Children",
+      "units": "3 Credits",
+      "description": "This course deals with theories regarding cognitive development in children from birth to eight years of age including knowledge resulting from brain research. The relationship between the rate of cognitive development and overall development will be explored throughout the course. Students will apply this knowledge to design programs to meet the needs of children with varying needs and abilities."
+    },
+    {
+      "id": "AshFord_ECE 654",
+      "course name": "Assessment & Intervention in Early Childhood",
+      "units": "3 Credits",
+      "description": "This course explores the issues around early assessment and intervention with young children. Specific developmental concerns will be identified and intervention programs will be examined."
+    },
+    {
+      "id": "AshFord_ECE 657",
+      "course name": "Assessment to Support Young Children and Families",
+      "units": "3 Credits",
+      "description": "In this course, students examine the purpose and ethical use of assessment and evaluation strategies, tools, and procedures in early childhood education. In addition, students analyze assessment methods related to developmental concerns and intervention strategies in early childhood settings. Students also evaluate leadership roles and responsibilities in building effective learning environments and programs through assessment partnerships and action research initiatives with families and colleagues. Throughout the course, students learn how to utilize effective assessment strategies to positively influence child development."
+    },
+    {
+      "id": "AshFord_ECE 660",
+      "course name": "Action Research and Inquiry in Education",
+      "units": "3 Credits",
+      "description": "Students enrolled in this course are introduced to action research and are provided with an explanation of the goals, rationale, and value of action research in the early childhood environment. Students will demonstrate effective use of research sources using digital tools and evaluative methods. They will apply methodologies and use ethics to evaluate various educational theories and research and acquire skills that support best practices. During this course, students will identify a problem, construct an action research proposal, collect and analyze data, and identify implications for future action research while considering their professional and leadership capabilities. ",
+      "prerequisite": [
+        "ECE 631",
+        "ECE 642",
+        "ECE 657"
+      ]
+    },
+    {
+      "id": "AshFord_ECE 671",
+      "course name": "Management and Administration of Early Childhood Programs",
+      "units": "3 Credits",
+      "description": "This course provides students with an overview of the knowledge and skills necessary to develop and administrate an early childhood facility. Students will create a personal definition of leadership and evaluate high-quality early childhood programs that meet the needs of diverse children, families, and communities. In addition, students will develop a strategic plan that meets high-quality and developmentally appropriate aspects of early childhood programs. Students will also examine how early childhood administrators evaluate faculty and staff. ",
+      "prerequisite": [
+        "ECE 600",
+        "EDU 650"
+      ]
+    },
+    {
+      "id": "AshFord_ECE 672",
+      "course name": "Personnel Management & Staff Development for Early Childhood Administrators",
+      "units": "3 Credits",
+      "description": "In this course, students evaluate professional early childhood learning resources that target learning outcomes, program needs, and support family and community partnerships. Students also develop a strategic plan to foster professional learning and development for early childhood staff and teachers that includes professional learning models. In addition, students create a system that supports the development of effective personnel management practices and promotes high-quality programs. Throughout the course, students analyze ethical and professionally sound decision-making and leadership practices used in early childhood education."
+    },
+    {
+      "id": "AshFord_ECE 673",
+      "course name": "Advocacy, Policy, and Social Justice in Early Childhood Education",
+      "units": "3 Credits",
+      "description": " In this course, students will learn about public policy and law as it relates to early childhood education. Students will leverage leadership skills, advocacy skills, and professional knowledge to promote educational transformation, social justice, and positive change in early childhood education. ",
+      "prerequisite": [
+        "ECE 671"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "subjectOf": {
+    "id": "LA",
+    "subject": "Landscape Architecture"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Landscape Architecture"
+  },
+  "courses": [
+    {
+      "id": "LA 101",
+      "course name": "Introduction to Landscape Architecture",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Introduction to the profession of landscape architecture and orientation to the department curriculum and learning processes. 4 lectures."
+    },
+    {
+      "id": "LA 170",
+      "course name": "Principles of Design Communication",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Overview of design communications for landscape architects incorporating the principles, techniques, skills and tools used in design generation, exploration, review and implementation. 4 laboratories."
+    },
+    {
+      "id": "LA 171",
+      "course name": "Principles of Digital Communication",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Introduction of digital media applications, software and techniques for landscape architects. Principles, techniques, skills and tools for using digital media in design projects. 4 lectures."
+    },
+    {
+      "id": "LA 202",
+      "course name": "Design Fundamentals I",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Introduction to the principles, methods and elements of two- and three-dimensional design in order to communicate intended concepts and meanings.  Exploration of the basic design elements including composition, design process and the creation of spatial settings.  4 laboratories."
+    },
+    {
+      "id": "LA 203",
+      "course name": "Design Fundamentals II",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 202"
+        },
+        {
+          "prerequisite": "LA 243"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Continuation of ideas introduced in LA202 with the introduction of environmental and visual perception, including three-dimensional site design and landscape architectural design principles.  Spatial design and sequencing of space with concern for human behavioral, environmental and natural site factors and generation of program, concept and design development.  4 laboratories."
+    },
+    {
+      "id": "LA 204",
+      "course name": "Design Fundamentals III",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 203"
+        },
+        {
+          "prerequisite": "LA 241"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Continuation of ideas introduced in LA202 and LA203 with the introduction of the principles of design theory, landscape ecology and technical applications.  Problems of increasing complexity incorporate critical and creative problem solving, the relationship of aesthetics, response to human needs and design for sustainable environments.  4 laboratories."
+    },
+    {
+      "id": "LA 211",
+      "course name": "History of Landscape Architecture: Ancient Civilizations through Colonial America",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c3"
+      },
+      "description": "Exploration of the continuous alteration of the landscape through recorded time and examination of how humankind has influenced this change. The metaphor of 'garden' provides understanding for agrarian regions, urban spaces, and vernacular landscapes of the world. 4 lectures. Fulfills GE C3."
+    },
+    {
+      "id": "LA 212",
+      "course name": "History of Modern and Contemporary Landscape Architecture",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c3"
+      },
+      "description": "Philosophies and ethics of important personalities in twentieth and twenty-first century landscape architecture. Design theories supporting these individuals' projects and the nature of their practice, combined with the influential events in industry, the arts and sciences, politics, and society of these centuries. 4 lectures. Fulfills GE C3."
+    },
+    {
+      "id": "LA 218",
+      "course name": "Applications in GIS",
+      "units": "3 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "ARC/INFO and ArcView Geographic Information System (GIS) computer software to explore environmental, natural resource, social and economic issues using spatial data. Develop and apply data base and software management competencies. 1 lecture, 2 laboratories. Crosslisted as LA/NR218."
+    },
+    {
+      "id": "LA 220",
+      "course name": "Landscape Ecology: Concepts, Issues and Interrelationships",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b5"
+      },
+      "description": "Concepts, theories and techniques related to landscape analysis, ecology, planning and design with an emphasis on landscape assessment, sustainability, land health, environmental protection and restoration, and natural resource management. 4 lectures. Fulfills GE B5."
+    },
+    {
+      "id": "LA 221",
+      "course name": "California Plants and Plant Communities",
+      "hasPrerequisite": "BIO 114 or BOT 121",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Introduction to the horticultural characteristics and landscape design potential of California native plants, California plant communities and associated vernacular plants.  Includes experience in field identification, basic planting design, installation techniques and maintenance requirements.  Required field trips.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "LA 241",
+      "course name": "Site Engineering Techniques and Applications",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 202"
+        },
+        {
+          "prerequisite": "LA 243"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Introduction and application of the techniques, methods, principles and criteria for site engineering and landform design.  Includes an introduction to soil science, survey methods, and experiences in the principles, procedures and application of site grading and drainage for landscape architecture.  4 laboratories."
+    },
+    {
+      "id": "LA 242",
+      "course name": "Implementation Strategies",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 203"
+        },
+        {
+          "prerequisite": "LA 241"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Introduction and application of the methods, principles and criteria for landscape implementation.  Encompasses fundamental design and technical decisions common to landscape architectural design and construction projects including the development of concept, design development and working drawings, and construction management process.  3 lectures, 1 activity."
+    },
+    {
+      "id": "LA 243",
+      "course name": "Materials and Techniques of Landscape Construction",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Introduction to the properties, uses and inherent qualities of the fundamental materials of landscape architectural concerns and associated construction techniques and processes.  Materials and techniques explored as a source of design ideas, form and expression in landscape architecture.  3 lectures, 1 activity."
+    },
+    {
+      "id": "LA 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "LA 317",
+      "course name": "The World of Spatial Data and Geographic Information Technology",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area Fall"
+      },
+      "description": "Basic foundation for understanding the world through geographic information and tools available to utilize spatial data.  Application of Geographic Information Systems (GIS) and related technologies, including their scientific basis of operation.  Not open to students with credit in LA/NR218.  3 lectures, 1 activity.  Crosslisted as LA/NR317.  Fulfills GE Area F."
+    },
+    {
+      "id": "LA 320",
+      "course name": "Design Theory for Landscape Architects",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 211"
+        },
+        {
+          "prerequisite": "LA 212"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Complements the material and knowledge presented in the history of landscape architecture, architecture and art courses.  Design theory and associated concepts as they are related to landscape architecture.  Literature research and analysis of completed design projects.  The artists/designers, materials and overall expressions of work are related to the social and economic issues of the time as well as their associations with the other arts and sciences.  4 lectures."
+    },
+    {
+      "id": "LA 330",
+      "course name": "Cultural Landscapes: People, Places and Ethical Decisions",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 211"
+        },
+        {
+          "prerequisite": "LA 212"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Investigation of the complexities and interrelatedness of culture, environment and ethical decisions.  Interpretation of personal and cultural values and ethics in terms of decisions made and behaviors and actions expressed in the built landscape.  4 lectures."
+    },
+    {
+      "id": "LA 349",
+      "course name": "Advanced Planting Design",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 233"
+        },
+        {
+          "prerequisite": "AEPS 234"
+        },
+        {
+          "prerequisite": "AEPS 381 or LA 221"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Advanced examination of the theories and applied principles of planting design.  Emphasis on connections between art and science in the design of parks, gardens and other landscapes.  Case studies and field trips.  2 lectures, 2 activities."
+    },
+    {
+      "id": "LA 350",
+      "course name": "Advanced Landscape Construction",
+      "hasPrerequisite": "LA 242",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Examination and application of advanced landscape construction techniques.  Emphasis on design, development, construction, and testing of contemporary landscape technologies and practices.  Field trip may be required.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "LA 370",
+      "course name": "Professional Practice",
+      "hasPrerequisite": "LA 204",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Issues related to the practice of landscape architecture incorporating processes, procedures and outcomes of professional practice.  Topics include professional ethics, business and legal aspects of the profession, relationships to the client and society, personal goal setting, resume and portfolio preparation.  4 lectures."
+    },
+    {
+      "id": "LA 371",
+      "course name": "Internship",
+      "units": "3 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Involvement in a work setting related to landscape architecture.  Thirty hours work experience per unit of credit.  Credit/No Credit grading only."
+    },
+    {
+      "id": "LA 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "LA 401",
+      "course name": "Research Project",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Research methods in landscape architecture and proposal writing techniques.  Students prepare proposal and strategy for fifth year study in area of concentration.  2 seminars."
+    },
+    {
+      "id": "LA 402",
+      "course name": "Design Theory and Exploration Focus Studio",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 204"
+        },
+        {
+          "prerequisite": "LA 211"
+        },
+        {
+          "prerequisite": "LA 212 or consent of instructor"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Summer"
+        }
+      ],
+      "description": "Exploration and application of design theory, exploratory design process and form exploration to design and planning projects.  Emphasis on incorporation of inquiry techniques based on the synthesis of interdisciplinary frameworks of art and design theory with historical and cultural issues.  Total credit limited to 12 units.  4 laboratories."
+    },
+    {
+      "id": "LA 403",
+      "course name": "Natural Environments Design Focus Studio",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 204"
+        },
+        {
+          "prerequisite": "LA 211"
+        },
+        {
+          "prerequisite": "LA 212 or consent of instructor"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Assessment, exploration and integration of landscape ecology, sustainability and environmental planning to design and planning projects.  Emphasis on interpretation and application of environmental and ecological issues at a range of design scales.  Total credit limited to 12 units.  4 laboratories."
+    },
+    {
+      "id": "LA 404",
+      "course name": "Cultural Environments Design Focus Studio",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 204"
+        },
+        {
+          "prerequisite": "LA 211"
+        },
+        {
+          "prerequisite": "LA 212 or consent of instructor"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Assessment, exploration and interpretation of cultural values, issues and landscapes to design and planning projects.  Emphasis on observation and inquiry of diverse cultural settings, differences in cultural values and personal ethics in the design process.  Total credit limited to 12 units.  4 laboratories."
+    },
+    {
+      "id": "LA 405",
+      "course name": "Project Design and Implementation Focus Studio",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 204"
+        },
+        {
+          "prerequisite": "LA 243"
+        },
+        {
+          "prerequisite": "LA 242"
+        },
+        {
+          "prerequisite": "LA 241 or consent of instructor"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Development, exploration and integration of project design and implementation strategies to design and planning projects.  Emphasis on creative and exploratory problem solving, spatial design, project resolution, and graphic communication.  Total credit limited to 12 units.  4 laboratories."
+    },
+    {
+      "id": "LA 406",
+      "course name": "Interdisciplinary Design Studio",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 402"
+        },
+        {
+          "prerequisite": "LA 405 or consent of instructor"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Design studio with focus on interdisciplinary modes of practice and collaborative approaches to design.  Interdisciplinary design process may be explored through project program and collaboration with students in allied majors.  Field trip required.  Total credit limited to 12 units.  4 laboratories."
+    },
+    {
+      "id": "LA 431",
+      "course name": "CAD and Digital Media Communications (ILC)",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 170"
+        },
+        {
+          "prerequisite": "LA 204 or consent of instructor"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Integrated Learning Course (ILC) to assist integration and application of computer-aided drafting (CAD) skills in coursework, project planning and design studio courses.  Focus on CAD skills and integration of digital media.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "id": "LA 432",
+      "course name": "Landscape Ecology Applications (ILC)",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Integrated Learning Course (ILC) to assist integration and application of landscape ecology principles in project planning and design studio courses.  Focus on understanding and developing a framework for ecological planning and design to anticipate consequences of planning and design decisions.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "id": "LA 433",
+      "course name": "Cultural Environments (ILC)",
+      "hasPrerequisite": "LA 211",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Integrated Learning Course (ILC) to assist integration and application of culture, environment and personal ethics in coursework, project planning and design studio courses.  Focus on skills, distinctions and integration of analyzing the cultural landscape, understanding diverse cultural values and assessing personal ethics.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "id": "LA 434",
+      "course name": "Project Design and Implementation (ILC)",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 241"
+        },
+        {
+          "prerequisite": "LA 242"
+        },
+        {
+          "prerequisite": "LA 243 or consent of instructor"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Integrated Learning Course (ILC) to assist integration and application of project design principles and implementation strategies in project planning and design studio courses.  Focus on skills, techniques and decisions of the design, documentation and construction processes.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "id": "LA 435",
+      "course name": "Professional Practice (ILC)",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Integrated Learning Course (ILC) to assist integration and application of professional practice principles and techniques in planning and design studio and internship courses.  Focus on achieving a high level of professional quality, ethical concern, and legal responsibility in project work.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "id": "LA 436",
+      "course name": "Traditional and Digital Media Communications (ILC)",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 170"
+        },
+        {
+          "prerequisite": "LA 202"
+        },
+        {
+          "prerequisite": "LA 203"
+        },
+        {
+          "prerequisite": "LA 204 or consent of instructor"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Integrated Learning Course (ILC) to assist integration and application of graphic communication and presentation skills in coursework, project planning and design studio courses.  Focus on skills, distinctions and integration of traditional and digital media explorations.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "id": "LA 437",
+      "course name": "3D Digital Design Communications (ILC)",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "LA 170"
+        },
+        {
+          "prerequisite": "LA 204 or consent of instructor"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Integrated Learning Course (ILC) to assist integration and application of 3D digital graphic communication and presentation skills in coursework, project planning and design studio courses.  Focus on skills and integration of three-dimensional digital media explorations.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "id": "LA 438",
+      "course name": "GIS Application to Design Projects (ILC)",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Integrated Learning Course (ILC) to assist integration and application of geographic information systems (GIS) and spatial information into focus design studio courses.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "id": "LA 439",
+      "course name": "Planting Design (ILC)",
+      "hasPrerequisite": "LA 221",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Integrated Learning Course (ILC) to assist the integration and application of plant selection, use and appropriateness in planning and design studio courses.  Focus is on the skills, theories and principles of planting design.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "id": "LA 461",
+      "course name": "Senior Design Project Focus Studio",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Comprehensive landscape architectural design and research project showing professional level competency in the integration of design theory, landscape architectural principles and project resolution.  Emphasis on creative resolutions, organization and communication skills and technical abilities in program generation, design process, design and research.  Total credit limited to 8 units.  4 laboratories."
+    },
+    {
+      "id": "LA 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures."
+    },
+    {
+      "id": "LA 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories."
+    },
+    {
+      "id": "LA 482",
+      "course name": "Evaluating Social and Behavioral Factors for Open Space Design",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "User oriented approach to open space design.  Interview and survey techniques, behavioral trace mapping and systematic observation, post occupancy evaluation and similar methods are used to generate user input and feedback in the design process.  Understanding the behavioral implications of designed environments.  2 lectures, 2 activities."
+    },
+    {
+      "id": "LA 483",
+      "course name": "Special Studies in Landscape Architecture",
+      "units": "1-12 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Special issues and problems through research, field trips, seminars and other forms of investigation and involvement.  Course requirements are determined prior to each individual project through a contractual agreement between students and department.  Departmental Off Campus Study Program guidelines apply.  Total credit limited to 36 units.  1-12 activities."
+    },
+    {
+      "id": "LA 485",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 6 units; total credit limited to 18 units.  Credit/No Credit grading only."
+    },
+    {
+      "id": "LA 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 12 units; total credit limited to 24 units.  Credit/No Credit grading only."
+    },
+    {
+      "id": "LA 585",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Advanced study analysis and part-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Total credit limited to 9 units.  Credit/No Credit grading only."
+    },
+    {
+      "id": "LA 595",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only."
+    }
+  ]
+}

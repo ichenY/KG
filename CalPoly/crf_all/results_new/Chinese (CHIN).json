@@ -1,0 +1,72 @@
+{
+  "subjectOf": {
+    "id": "CHIN",
+    "subject": "Chinese"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Chinese"
+  },
+  "courses": [
+    {
+      "id": "CHIN 101",
+      "course name": "Elementary Mandarin Chinese I",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Beginning Mandarin Chinese. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and introduction to Chinese culture. 3 lectures, 1 activity."
+    },
+    {
+      "id": "CHIN 102",
+      "course name": "Elementary Mandarin Chinese II",
+      "hasPrerequisite": "CHIN 101 or appropriate score on placement exam or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and introduction to Chinese culture.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "id": "CHIN 103",
+      "course name": "Elementary Mandarin Chinese III",
+      "hasPrerequisite": "CHIN 102 or appropriate score on placement exam or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and introduction to Chinese culture.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "id": "CHIN 201",
+      "course name": "Intermediate Mandarin Chinese I",
+      "hasPrerequisite": "CHIN 103 or appropriate score on placement exam or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c5"
+      },
+      "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Mandarin Chinese within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "id": "CHIN 202",
+      "course name": "Intermediate Mandarin Chinese II",
+      "hasPrerequisite": "CHIN 201 or appropriate score on placement exam or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c5"
+      },
+      "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Mandarin Chinese within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "id": "CHIN 203",
+      "course name": "Intermediate Mandarin Chinese III",
+      "hasPrerequisite": "CHIN 202 or appropriate score on placement exam or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c5"
+      },
+      "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Mandarin Chinese within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    }
+  ]
+}

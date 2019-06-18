@@ -1,0 +1,816 @@
+{
+  "courses": [
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Introduces students to civil engineering as a profession.  Topics include the technical disciplines (environmental, geotechnical, structural, transportation, and water resources), the role of civil engineers in planning, constructing and operating infrastructure, and professional responsibilities such as licensure and ethics.  Case studies are used to explore both technical and nontechnical aspects of civil engineering projects such as design and environmental constraints, constructability, and social and political issues.", 
+      "id": "CSUS_CE 1A", 
+      "course name": "Civil Engineering Seminar"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "In-depth graphic analysis and solution of typical three dimensional space problems by applying the principles of orthogonal projection.  Fundamentals of interactive computer aided design and drafting. Lecture one hour; laboratory three hours.", 
+      "id": "CSUS_CE 4", 
+      "course name": "Engineering Graphics and CAD"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Instruments, methods and theories necessary for the measurement of distance, direction, angles and elevations. Application of data to traverse computations, estimation of earthwork volumes, transportation facility design and construction layout. Introduction to legal aspects of surveying, geodetic surveys, maps, boundary surveys and new technologies used in surveying. Lecture two hours; laboratory three hours. ", 
+      "course name": "Plane and Topographic Surveying", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 9", 
+      "prerequisite": [
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Soil and rock mechanics and their relations to geological features influencing design, construction and maintenance of engineering projects. Lectures and field problems. ", 
+      "course name": "Engineering Geology", 
+      "units": "2 Units", 
+      "id": "CSUS_CE 100", 
+      "prerequisite": [
+        "ENGR 112"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Development of programming- and algorithm-based problem-solving skills in civil engineering using modern programming and scripting languages and scientific computing programs. Application to numerical methods, data science, and visualization.  ", 
+      "course name": "Computer Applications in Civil Engineering", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 101", 
+      "prerequisite": [
+        "ENGR 30", 
+        "CE 4", 
+        "CE 4"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to the principles of structural analysis and design by testing of structural elements. Experimental verification of the assumptions of strength of materials. Introduction to laboratory techniques. Laboratory three hours. ", 
+      "course name": "Structural Laboratory", 
+      "units": "1 Unit", 
+      "id": "CSUS_CE 113", 
+      "prerequisite": [
+        "CE 101", 
+        "ENGR 112", 
+        "ENGL 109M", 
+        "ENGL 109W"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Laboratory experiments relating the principles of fluid mechanics to real fluid flow. Laboratory three hours. ", 
+      "course name": "Hydraulics Laboratory", 
+      "units": "4 Units", 
+      "id": "CSUS_CE 135", 
+      "prerequisite": [
+        "CE 101", 
+        "CE 137", 
+        "CE 137"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Hydrologic and hydraulic fundamentals which are common to water resources projects; introduction to reservoirs, dams, pipelines, channels, hydraulic machinery, ground water, water rights, statistical analysis, engineering economy applications, and water resources planning. ", 
+      "course name": "Water Resources Engineering", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 137", 
+      "prerequisite": [
+        "CE 1A", 
+        "CE 101", 
+        "ENGR 115", 
+        "ENGR 132"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Introduction to hydrologic engineering design. Precipitation analysis, hydrograph and flood routing applications for civil engineering. Groundwater hydrology including quality problems in development of subsurface water resources. Statistical applications in hydrology. ", 
+      "course name": "Hydrology", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 138", 
+      "prerequisite": [
+        "CE 137"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Civil engineering design problems in open channel flow. Model design, pressure problems, design application of hydraulic analysis in structures, transitions, culverts, weirs and spillways. Channel design including roughness for subcritical and supercritical flow. Analyzes and design problems in steady, uniform, gradually and rapidly varied flow. ", 
+      "course name": "Open Channel Hydraulics", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 139", 
+      "prerequisite": [
+        "CE 137"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to the legal and business environment of professional engineering practice, including legal responsibilities of professionals, ethics, risk and liability, types and use of contracts, specifications, the construction bid process, and environmental responsibilities.  Elements of engineering organizations such as business economics, human resources, and project management. ", 
+      "course name": "Civil Engineering Professional Practice", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 146", 
+      "prerequisite": [
+        "CE 1A", 
+        "ENGR 30", 
+        "CE 1A", 
+        "CE 1A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to the fundamental topics in Transportation Engineering. Focus on roadway geometric design, layout considerations, pavement materials and design, traffic operations and analysis. Lecture three hours; laboratory three hours. ", 
+      "course name": "Transportation Engineering", 
+      "units": "4 Units", 
+      "id": "CSUS_CE 147", 
+      "prerequisite": [
+        "CE 1A", 
+        "CE 9", 
+        "CE 101", 
+        "ENGR 115", 
+        "ENGL 109M", 
+        "ENGL 109M", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Transportation systems evaluation and management. Focus on transportation planning methods, including data analysis, estimation of future demand, evaluation of travel demand impacts on existing systems, and transportation system decision-making. ", 
+      "course name": "Transportation Systems", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 148", 
+      "prerequisite": [
+        "CE 147"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": ". ", 
+      "course name": "Traffic Analysis and Design", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 149", 
+      "prerequisite": [
+        "CE 147", 
+        "CE 265"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Fundamental geographic information system (GIS) concepts; GIS data acquisition and analysis; GIS analytical methods. Lab exercises with GIS software used to introduce students to typical uses of GIS in civil engineering. This course may be paired with the graduate-level course GIS Applications in Civil Engineering. Lecture two hours; lab three hours. ", 
+      "course name": "Introduction to GIS in Civil Engineering", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 151", 
+      "prerequisite": [
+        "ENGR 115", 
+        "CE 9", 
+        "CE 137", 
+        "CE 147", 
+        "CE 170A", 
+        "CE 171A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Analysis of statically determinate and indeterminate beams, frames, and trusses. Includes energy principles, flexibility and stiffness analyses, and influence lines. Computers are used to aid in the solution of complex structural problems. ", 
+      "course name": "Introduction to Structural Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 161", 
+      "prerequisite": [
+        "CE 1A", 
+        "CE 101", 
+        "CE 146", 
+        "ENGR 112", 
+        "MATH 35", 
+        "MATH 100", 
+        "CE 146"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Theory and practice in design of structural steel members and connections using current design specifications. Design of tension and compression members, laterally supported and unsupported beams, beam-columns, and bolted and welded connections. Use of microcomputers in design. ", 
+      "course name": "Structural Design in Steel I", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 163", 
+      "prerequisite": [
+        "CE 161"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Theory and practice in design of reinforced concrete beams, slabs, columns, footings and retaining walls. Includes study of design, preparation and testing of cements, aggregates and concrete mixtures. ", 
+      "course name": "Reinforced Concrete Design", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 164", 
+      "prerequisite": [
+        "CE 113", 
+        "CE 161", 
+        "CE 113"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Analyzes simple structures' response to dynamic loads with emphasis on response to earthquake ground motion. Introduction to multi-story buildings dynamics. Modal and approximate analyses of earthquake response. Dynamic analysis and building code procedures. ", 
+      "course name": "Seismic Behavior of Structures", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 166", 
+      "prerequisite": [
+        "CE 101", 
+        "CE 161", 
+        "ENGR 110"
+      ]
+    }, 
+    {
+      "term": "Fall only \u2013 even years", 
+      "description": "Analyzes and design of pre-stressed concrete structures using ultimate strength and working stress methods. Detailed study of stress-strain behavior of P.C. members. Study of bond and shear. An introduction to least-weight design. ", 
+      "course name": "Pre-stressed Concrete Design", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 168", 
+      "prerequisite": [
+        "CE 161", 
+        "CE 164", 
+        "CE 164"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Wood as a structural material. Design of sawn and glulam beams, concentrically and eccentrically loaded columns, shear walls, flexible diaphragms and connections for vertical and lateral loading including effects of wind and seismic forces. ", 
+      "course name": "Timber Design", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 169A", 
+      "prerequisite": [
+        "CE 161"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Reinforced masonry as a structural material. Design of reinforced masonry beams, concentrically and eccentrically loaded columns, walls for vertical and lateral loading including effects of wind and seismic forces. Design of a small building for wind and seismic loading including torsional effects. ", 
+      "course name": "Reinforced Masonry Design", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 169B", 
+      "prerequisite": [
+        "CE 161"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to the principles and practices of environmental quality management. Physical and chemical principles affecting environmental quality. Water and air quality parameters, their importance, and natural processes that affect them. Introduction to treatment processes and waste management. Environmental ethics. Lecture three hours. Laboratory three hours. ", 
+      "course name": "Principles of Environmental Engineering", 
+      "units": "4 Units", 
+      "id": "CSUS_CE 170", 
+      "prerequisite": [
+        "CHEM 1E", 
+        "CHEM 1A", 
+        "CE 1A", 
+        "CE 101", 
+        "CE 146", 
+        "ENGR 115", 
+        "CE 146"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to principles of environmental quality management. Environmental ethics. Physical and chemical principles affecting environmental quality. Water quality parameters, their importance, and natural processes that affect them. Environmental health and risk assessment. ", 
+      "course name": "Principles of Environmental Engineering", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 170A", 
+      "prerequisite": [
+        "CHEM 1E", 
+        "CHEM 1A", 
+        "ENGR 115", 
+        "CE 1A", 
+        "CE 101", 
+        "CE 101"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to environmental engineering professional practices. Water and wastewater treatment processes. Solid waste management. Air quality parameters and management. Sustainability. ", 
+      "course name": "Environmental Engineering Practice", 
+      "units": "2 Units", 
+      "id": "CSUS_CE 170B", 
+      "prerequisite": [
+        "CE 170A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Composition and properties of soils; soil classification; soil compaction; soil-water interaction, including permeability and seepage analyses; soil stresses; soil compressibility, consolidation, and settlement analysis; soil shear strength. Lecture three hours; laboratory three hours. ", 
+      "course name": "Soil Mechanics", 
+      "units": "4 Units", 
+      "id": "CSUS_CE 171A", 
+      "prerequisite": [
+        "CE 1A", 
+        "CE 100", 
+        "CE 101", 
+        "ENGR 112", 
+        "ENGL 109M", 
+        "ENGL 109M", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Lateral earth pressures and principles of retaining wall design; slope stability analysis and principles of slope stabilization design; ultimate bearing capacity of soils, allowable bearing pressures and settlement of structures; principles of foundation design including shallow foundations and deep foundations. ", 
+      "course name": "Soil Mechanics and Foundation Engineering", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 171B", 
+      "prerequisite": [
+        "CE 171A"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Hydraulic design of water distribution and sewerage systems. Computer-assisted pipe network analysis. Analysis of pump systems. Pump station design. Other selected topics. ", 
+      "course name": "Design of Urban Water and Sewer Systems", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 172", 
+      "prerequisite": [
+        "CE 137"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Analysis and design of selected physical, chemical, and biological facilities for water purification and wastewater treatment. Emphasis is on design based on loading factors and integration of unit processes into treatment systems. ", 
+      "course name": "Design of Water Quality Control Processes", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 173", 
+      "prerequisite": [
+        "CE 170B", 
+        "ENGR 132"
+      ]
+    }, 
+    {
+      "term": "Not offered", 
+      "description": "Equilibrium distribution of contaminants among air, water and solid phases of soil systems; analysis and modeling of soil vapor extraction (SVE), pump and treat, and soil washing systems; movement of gasses in landfills; infiltration through landfill cover; geosynthetic liner systems; hazardous waste containment systems. ", 
+      "course name": "Geoenvironmental Engineering", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 181", 
+      "prerequisite": [
+        "CE 170B", 
+        "CE 171A", 
+        "CE 170B"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Introduction to seismology and seismic hazard analysis; determination of building code design loads; prediction of soil-site effects; evaluation of liquefaction triggering, cyclic softening and associated consequences; introduction to mitigation techniques for liquefaction and ground failure hazards. ", 
+      "course name": "Geotechnical Earthquake Engineering", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 184", 
+      "prerequisite": [
+        "CE 171A"
+      ]
+    }, 
+    {
+      "term": " Student must have taken or be registered for 3 of the 5 core civil engineering courses ", 
+      "description": "Introduction to professional engineering practice through case studies of existing projects, including estimating, scheduling, and specifications. Evaluation of design alternatives for engineering projects using principles of engineering economy and cost benefit analysis. Engineering ethics and professional responsibilities. ", 
+      "course name": "Civil Engineering Project Skills", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 190A", 
+      "prerequisite": [
+        "CE 137", 
+        "CE 147", 
+        "CE 161", 
+        "CE 170A", 
+        "CE 171A"
+      ]
+    }, 
+    {
+      "term": " This course must be taken in the final semester. ", 
+      "description": "Culminating degree requirement. Completion of a conceptual design and evaluation of alternatives under realistic constraints for proposed infrastructure projects. Students work in teams with practicing professionals providing mentoring. Draws upon full educational experience to date. Lecture two hours. Laboratory three hours. ", 
+      "course name": "Senior Project", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 190B", 
+      "prerequisite": [
+        "CE 190A"
+      ]
+    }, 
+    {
+      "term": ", EEE194", 
+      "description": "Designed for Civil Engineering students making career decisions. Instruction will include effective career planning strategies and techniques including skill assessments, employment search strategy, goal setting, time management, interview techniques and resume writing. Lecture one hour. ", 
+      "course name": "Career Development in Civil Engineering", 
+      "units": "1 Unit", 
+      "id": "CSUS_CE 194", 
+      "prerequisite": [
+        "ENGR 194"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " May be repeated for credit.  ", 
+      "description": "Supervised work experience in civil engineering with public agencies or firms in the industry. ", 
+      "id": "CSUS_CE 195", 
+      "course name": "Fieldwork in Civil Engineering"
+    }, 
+    {
+      "units": "1 - 12 Units", 
+      "term": " Requires satisfactory completion of the work assignment and a written report.  ", 
+      "description": "Supervised employment in a professional engineering or computer science environment. Placement arranged through the College of Engineering and Computer Science. ", 
+      "id": "CSUS_CE 195A", 
+      "course name": "Professional Practice"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "Principles of groundwater, and occurrence and movement of groundwater. Groundwater flow, Darcy's Law, solutions of steady and unsteady flow problems. Confined and unconfined aquifers, leaky aquifers, pumping test design, and groundwater management. ", 
+      "id": "CSUS_CE 196M", 
+      "prerequisite": [
+        "CE 137"
+      ], 
+      "course name": "Groundwater Engineering"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open to students judged capable of carrying out individual work. Admission requires departmental approval and sponsorship of a supervising faculty member. Cannot be used as a technical elective in the major. Consult the CE Department for admission procedures and other requirements. May be repeated. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_CE 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "term": " Open to only those students prepared and capable of carrying out independent work. Admission requires departmental approval and sponsorship of a supervising faculty member. Can be used as a technical elective in the major. Consult the CE Department for admission procedures and other requirements. May not be repeated for credit.  ", 
+      "description": "Individual project, research, or directed reading on an advanced topic.  ", 
+      "course name": "Independent Study Technical Elective", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 199E", 
+      "prerequisite": [
+        "CE 137", 
+        "CE 146", 
+        "CE 147", 
+        "CE 161", 
+        "CE 170", 
+        "CE 171A"
+      ]
+    }, 
+    {
+      "term": "Fall only \u2013 even years", 
+      "description": "Flexibility and stiffness methods of structural analysis are applied to two- and three-dimensional framed structures. Use of computer software to perform analysis is discussed in detail. Techniques of computer modeling are discussed. ", 
+      "course name": "Computer Methods of Structural Analysis I", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 231A", 
+      "prerequisite": [
+        "CE 161"
+      ]
+    }, 
+    {
+      "term": "Spring only \u2013 odd years", 
+      "description": "Continuation of CE  231A with extension of theory to allow for the analysis of a wider variety of structures. Structural analysis software is used for the analysis of three-dimensional structures. Fundamentals of the finite element method and computer modeling with applications to structural problems. ", 
+      "course name": "Computer Methods of Structural Analysis II", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 231B", 
+      "prerequisite": [
+        "CE 231A"
+      ]
+    }, 
+    {
+      "term": "Spring only \u2013 odd years", 
+      "description": "Theory and applications of nonlinear structural analysis including geometric and material nonlinear effects. Stability issues and second-order analysis methods in the context of moment amplification effects, member buckling, and the behavior of structural elements and frames undergoing large deformations. Inelastic material behavior and stress resultant plasticity concepts within a line-type element framework. Computer implementation of geometric nonlinear behavior. ", 
+      "course name": "Nonlinear Structural Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 232", 
+      "prerequisite": [
+        "CE 231A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only \u2013 odd years", 
+      "description": "Response of structures modeled as single-degree systems to harmonic, periodic, and arbitrary excitation and earthquake ground motion; effects of damping and material nonlinearity; numerical methods using spreadsheets; response spectra. Response of structures modeled as multi-degree systems: modeling of structure mass, damping and elastic stiffness; solution by modal superposition; time-history and response spectrum analysis; implications for codes for earthquake-resistant design. Microcomputer software is extensively used. ", 
+      "id": "CSUS_CE 234", 
+      "course name": "Dynamics and Earthquake Response of Structures"
+    }, 
+    {
+      "term": "Spring only \u2013 even years", 
+      "description": "Advanced design methodology of steel structures using Load and Resistance Factor Design (LRFD). System level behavior, especially from a seismic loading perspective, is integrated into the design of steel components and connections. Other topics include plate girder design, plastic design of indeterminate systems, design of moment frame systems, and design of braced-frame systems. ", 
+      "course name": "Advanced Steel Design", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 235", 
+      "prerequisite": [
+        "CE 163"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only \u2013 even years", 
+      "description": "Investigation of resource planning using the \"systems approach\". Objectives of resource development; basic economic and technologic concepts, and economic factors affecting system design. Consideration of evaluation, institutional constraints, and uncertainty in water resources systems. Familiarization with modern computer techniques. Applications of concepts to air and land resources. ", 
+      "id": "CSUS_CE 250", 
+      "course name": "Systems Analysis of Resources Development"
+    }, 
+    {
+      "term": "Fall only \u2013 odd years", 
+      "description": "Application of single and multi-objective planning to the design and operation of water resources projects. Objectives and constraints for water projects, criteria and procedures for evaluation, planning under uncertainty.  Application in water development and water quality planning, with case studies. ", 
+      "course name": "Water Resources Planning", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 251", 
+      "prerequisite": [
+        "CE 250"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Theory and practice of chemical processes affecting water quality. Chemical equilibrium, stoichiometry and kinetics of aqueous chemistry. Acid-base, precipitation-dissolution, oxidation-reduction, and coordination chemistry. Adsorption. ", 
+      "course name": "Environmental Quality Processes I", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 252A", 
+      "prerequisite": [
+        "CE 170"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Theory and practice of biological processes for controlling water. Stoichiometry and kinetics of microbial growth. Aerobic and anaerobic metabolism. Engineered suspended and attached growth systems. Introduction to sludge treatment. ", 
+      "course name": "Environmental Quality Processes II", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 252B", 
+      "prerequisite": [
+        "CE 170", 
+        "CE 252A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Theory and practice of physical and chemical processes used in engineered water and wastewater systems. Adsorption, ion exchange, gas transfer, membrane processes, coagulation, flocculation, sedimentation, filtration, precipitation, disinfection, and stripping. Physical/chemical reactors. ", 
+      "course name": "Environmental Quality Processes III", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 252C", 
+      "prerequisite": [
+        "CE 170", 
+        "CE 252A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of pollution sources and effects on water bodies, and the management issues and tools used to protect environmental quality. Topics include point and nonpoint pollution sources, interactions in the environment, Federal and State laws, water quality objectives, beneficial uses, and regulatory mechanisms such as basin plans and total maximum daily loads (TMDLs). Emphasis is on surface water. ", 
+      "course name": "Water Quality Management", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 254", 
+      "prerequisite": [
+        "CE 170", 
+        "CE 252A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of the mechanics of movement of chemicals in soil, including equilibrium and partition models, development of mass transport equations in porous media, analytical solution for one-dimensional transport, lumped parameter transport model (linear reservoir model), transport of reactive and conservative chemicals numerical solutions of transport models, transport in the unsaturated zone and coupled models for saturated and unsaturated zone. ", 
+      "course name": "Transport of Chemicals in Soil Systems", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 255", 
+      "prerequisite": [
+        "MATH 45"
+      ]
+    }, 
+    {
+      "term": "Fall only \u2013 odd years", 
+      "description": "Introduction to the complexities of comprehensive intermodal transportation planning. Study of transportation problems, system operating characteristics, alternative modes, and the planning process.  Analyzes factors affecting travel behavior and methods of forecasting demand for travel by various modes. ", 
+      "course name": "Transportation Planning", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 261", 
+      "prerequisite": [
+        "CE 148"
+      ]
+    }, 
+    {
+      "term": "Fall only \u2013 even years", 
+      "description": "Advanced study of current topics in highway and mass transportation facility design including safety, curve design, pavement design and drainage facility design.  Focuses on current design practice and recent or impending changes in design practice. ", 
+      "course name": "Advanced Transportation Facility Design", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 262", 
+      "prerequisite": [
+        "CE 147"
+      ]
+    }, 
+    {
+      "term": "Fall only \u2013 even years", 
+      "description": "Study of traffic flow characteristics including flow rate, speed, and density, at both the microscopic and macroscopic levels. Traffic flow analysis using the theoretical methods including capacity analysis, traffic stream models, shockwave analysis, and queuing analysis. Emphasis is on theory with demonstration of practical applications. ", 
+      "course name": "Traffic Flow Theory", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 263", 
+      "prerequisite": [
+        "CE 147", 
+        "CE 148"
+      ]
+    }, 
+    {
+      "term": "Fall only \u2013 odd years", 
+      "description": "Traffic data collection and analysis, practical application of theoretical methods of analysis such as capacity, level of service, and queuing theory. Investigation of traffic control techniques such as actuated signals and signal systems, and study of management techniques for traffic congestion. ", 
+      "course name": "Analysis and Control of Traffic Systems", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 265", 
+      "prerequisite": [
+        "CE 147", 
+        "CE 148", 
+        "CE 263"
+      ]
+    }, 
+    {
+      "term": "Spring only \u2013 even years", 
+      "description": "Advanced topics in behavior and design in reinforced concrete.  Detailing for seismic response. ", 
+      "course name": "Advanced Design in Reinforced Concrete", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 266", 
+      "prerequisite": [
+        "CE 161", 
+        "CE 163", 
+        "CE 164"
+      ]
+    }, 
+    {
+      "term": "Spring only \u2013 even years", 
+      "description": "Analyzes and design of various structural systems for buildings: frames, tubes, shear walls with or without openings and interaction between these types. Secondary effects such as P^, material and geometrical nonlinearities. ", 
+      "course name": "Structural Systems for Buildings", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 267", 
+      "prerequisite": [
+        "CE 232"
+      ]
+    }, 
+    {
+      "term": "Fall only \u2013 even years", 
+      "description": "Behavior and design of short and medium-span prestressed concrete bridges using American Association of State Highway and Transportation Officials (AASHTO) Load Resistance Factor Design (LRFD) specifications. Topics include: bridge types, aesthetics; design process; superstructure load types and live load analysis; limit states and load combinations; prestressed concrete materials; flexural analysis and design; shear analysis and design; and introduction to substructure analysis and design, including seismic design criteria. A team project is required. ", 
+      "course name": "Pre-stressed Concrete Bridge Design", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 268", 
+      "prerequisite": [
+        "CE 164"
+      ]
+    }, 
+    {
+      "term": "Spring only \u2013 even years", 
+      "description": "Fundamental principles of pavement analysis, design, and evaluation. Topics include pavement materials, mechanics, traffic and environmental loadings, pavement performance, design methods, construction and economic evaluation. ", 
+      "course name": "Pavement Design", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 269", 
+      "prerequisite": [
+        "CE 147", 
+        "CE 171A"
+      ]
+    }, 
+    {
+      "term": "Spring only \u2013 even years", 
+      "description": "Analyses of hydrologic and meteorologic phenomena by mathematical, statistical, and system methods, linear and non linear, stochastic and parametric hydrology, computer applications in hydrology. ", 
+      "course name": "Modern Hydrologic Techniques", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 271", 
+      "prerequisite": [
+        "CE 137", 
+        "CE 138", 
+        "ENGR 203"
+      ]
+    }, 
+    {
+      "term": "Spring only \u2013 even years", 
+      "description": "Steady uniform and non-uniform open channel flows including gradually, rapid and spatially varied flows; analysis of supercritical flow in transition; basic principles of unsteady flows; long wave theory; Saint-Venant Equations and their solutions including method of characteristics, explicit and implicit finite difference numerical methods. ", 
+      "course name": "Advanced Engineering Hydraulics", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 272", 
+      "prerequisite": [
+        "CE 137"
+      ]
+    }, 
+    {
+      "term": "Spring only \u2013 odd years", 
+      "description": "Theories and structure of hydraulic model components; application of HEC-RAS (River Analysis System) and HEC-HMS (Hydrologic Modeling System) computer programs; emphasis on flood routing methods; dam safety analysis methodology including dam break and dam overtopping cases; application of microcomputers in hydraulics computations. ", 
+      "course name": "Hydrologic Modeling", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 274", 
+      "prerequisite": [
+        "CE 272"
+      ]
+    }, 
+    {
+      "term": "Fall only \u2013 even years", 
+      "description": "Occurrence and movement of groundwater; physical characteristics of aquifers; analysis of steady-state groundwater flow problems by mathematical, digital computer, electrical analog and graphical methods; analysis of unsteady-state problems in confined and unconfined, aquifers; multiple well systems. ", 
+      "course name": "Groundwater Hydrology", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 276", 
+      "prerequisite": [
+        "CE 137"
+      ]
+    }, 
+    {
+      "term": "Fall only \u2013 even years", 
+      "description": "Advanced analyses in soil mechanics and their practical applications in foundation engineering; compressibility of soils, settlement analysis, and tolerable settlement; lateral earth pressures and design of earth retaining structures;  bearing capacity of shallow foundations; in-situ soil testing for foundation design; design of deep foundations, including driven piles, drilled shaft foundations, and laterally loaded piles. ", 
+      "course name": "Advanced Soil Mechanics and Foundation Engineering I", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 280A", 
+      "prerequisite": [
+        "CE 171A"
+      ]
+    }, 
+    {
+      "term": "Fall only \u2013 odd years", 
+      "description": "Advanced analyses in shear strength of cohesionless and cohesive soils, including stress-strain characteristics of soils, total and effective stress analyses; slope stability analyses for natural slopes, fill slopes, earth dams, levees, and methods of slope stabilization; analysis and design of anchored bulkheads, cellular cofferdams, soil nail walls, tieback walls, mechanically stabilized earth walls, and segmental retaining walls.   ", 
+      "course name": "Advanced Soil Mechanics and Foundation Engineering II", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 280B", 
+      "prerequisite": [
+        "CE 171A"
+      ]
+    }, 
+    {
+      "term": "Fall only \u2013 even years", 
+      "description": "Advanced analysis principles and procedures for calculating monotonic and cyclic soil element response effective stress and pore water pressure distributions, dynamic site response, and soil deformations; application to analysis of complex geotechnical engineering systems such as levees, dams, and wharfs. Laboratory time devoted to numerical analysis software and physical element and small scale tests. Lecture two hours. Laboratory three hours. ", 
+      "course name": "Geotechnical Modeling", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 280C", 
+      "prerequisite": [
+        "CE 171A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Principles of soil stabilization and earth reinforcement; mechanical compaction and treatment of difficult soils, including expansive soils, collapsible soils, oversize materials, and compressible fill; prefabricated vertical drains and preloading; dynamic deep compaction; vibro compaction; vibro-replacement; rammed aggregate pier; compaction grouting; jet grouting; slurry grouting; chemical grouting; deep soil mixing; slurry trench walls. ", 
+      "course name": "Ground Modification Engineering", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 283", 
+      "prerequisite": [
+        "CE 171A"
+      ]
+    }, 
+    {
+      "term": "Spring only \u2013 odd years", 
+      "description": "Introduction to vibration theory; wave propagation in soils and dynamic behavior of soils and foundations; dynamic tests; analysis of dynamically loaded foundations; causes of earthquakes; earthquake magnitude and zones; ground motions induced by earthquakes; earthquake-resistant design of foundations and earth dams. ", 
+      "course name": "Soil Dynamics and Earthquake Engineering", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 284", 
+      "prerequisite": [
+        "CE 171A"
+      ]
+    }, 
+    {
+      "term": "Fall only \u2013 even years", 
+      "description": "Overview of geotextiles, geogrids and geonets; geosynthetic properties and test methods; geosynthetic functions and mechanisms as in separation, roadway and soil reinforcement, filtration, and drainage; applications and design methods; construction, fabrication and installation. ", 
+      "course name": "Geosynthetics I", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 285", 
+      "prerequisite": [
+        "CE 171A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Overview of geomembranes, geosynthetic clay liners, and geocomposities.  Topics include:   geosynthetic properties and test methods; geosynthetic functions and mechanisms as in landfill liners, liquid barriers and carriers, erosion control, drainage, and design and construction methods. ", 
+      "course name": "Geosynthetics II", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 286", 
+      "prerequisite": [
+        "CE 171A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Theory and practice of project management in civil engineering. Interrelationship of planning, design, and construction. New technologies and techniques used in both US and international architectural/engineering/construction (A/E/C) markets.Topics: Project initiation, early estimates, project budgeting, work plans, design proposals, scheduling, tracking, design coordination, construction, project close-out, team and personal management skills, and quality control. ", 
+      "id": "CSUS_CE 289", 
+      "course name": "Project Management for Civil Engineers"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Principles and practices of stormwater management. Physical and chemical principles affecting stormwater quality, environmental effects, and treatment. Regulatory purposes and requirements for managing construction and post-construction runoff. Choosing and designing Best Management Practices. Erosion control. Hydrologic and hydraulic design of small drainage systems. Emphasis on California climatic and regulatory conditions. ", 
+      "course name": "Stormwater Management", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 296D", 
+      "prerequisite": [
+        "CE 137", 
+        "CE 170"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to fundamental concepts of geographic information systems (GIS), methods, and applications in civil engineering. Design and develop GIS-based analytical methods and solutions for civil engineering problems. Lab exercises are used to design and practice GIS applications in civil engineering. This course may be paired with CE 196H. ", 
+      "course name": "GIS Applications in Civil Engineering", 
+      "units": "3 Units", 
+      "id": "CSUS_CE 296H", 
+      "prerequisite": [
+        "ENGR 115", 
+        "CE 9", 
+        "CE 137", 
+        "CE 147", 
+        "CE 171A"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Approval of a petition must be obtained from the faculty supervising the work and the Department Graduate Program Coordinator. Letter grade or Credit/No Credit. ", 
+      "description": "Special problems in graduate research. ", 
+      "id": "CSUS_CE 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 - 6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Successful completion of either:  A.  Thesis (3-6 units), or B. Project (3-6 units) or  C.  Directed Study and Examination (3 units).  Plan A requires a thesis and is primarily research-orientated. Plan B requires a project report that is primarily application oriented. Plan C requires a detailed literature review or experimental data analysis resulting in a written report plus an examination by three faculty. A public presentation is required for all three plans. ", 
+      "id": "CSUS_CE 500", 
+      "course name": "Culminating Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "CE", 
+    "subject": "Civil Engineering"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Civil Engineering", 
+    "id": "CSUS"
+  }
+}

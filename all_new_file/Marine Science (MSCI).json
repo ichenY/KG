@@ -1,0 +1,204 @@
+{
+  "subjectOf": {
+    "id": "MSCI",
+    "subject": "Marine Science"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Marine Science"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_MSCI 100",
+      "course name": "Introduction to Marine Sciences",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Introduction to Marine Sciences faculty, the Biology Department and campus resources, research opportunities, possible careers, studying science, and current topics in marine sciences. Credit / No credit grading only. 1 lecture."
+    },
+    {
+      "id": "CalPoly_MSCI 301",
+      "course name": "Biological Oceanography",
+      "prerequisite": [
+        "BIO 160",
+        "BIO 161",
+        "BIO 263",
+        "PSC 201",
+        "CHEM 129",
+        "STAT 218"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Interdisciplinary study of marine organisms, how they interact with each other and their physical, chemical and geological environment. Emphasis on how these interactions impact abundance, diversity and temporal and spatial distributions.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_MSCI 303",
+      "course name": "Ocean Sampling Techniques",
+      "prerequisite": [
+        "CHEM 302",
+        "MSCI 301",
+        "STAT 218"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduction to techniques in oceanography and marine sciences. Hands - on technical training in sampling, measuring, tagging and tracking of bathymetry and geography ; waves, tides and currents ; salinity, temperature and pressure ; dissolved oxygen and pH ; irradiance and light scattering ; phytoplankton and zooplankton ; and benthic fauna and marine macrofauna.",
+      "format": "1 lecture, 2 labs."
+    },
+    {
+      "id": "CalPoly_MSCI 307",
+      "course name": "World Aquaculture: Applications, Methodologies and Trends",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Life histories and habitats of important species of fishes, invertebrates and algae. Methodologies for the commercial propagation of specific forms. Global and regional coverage, including socioeconomic trends, controversies and applications in developed and less developed regions of the world. Not open for major credit in Biological Sciences.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_MSCI 324",
+      "course name": "Marine Mammals, Birds and Reptiles",
+      "prerequisite": [
+        "BIO 162",
+        "BIO 263",
+        "STAT 218"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Introduction to the biology, ecology and evolution of mammals, reptiles and birds of the marine environment, with an emphasis on Central California species, diversity patterns, evolutionary relationships, adaptations to the ocean, and conservation issues. Field trips required.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_MSCI 328",
+      "course name": "Marine Ecology",
+      "prerequisite": [
+        "BIO 160",
+        "BIO 162",
+        "BIO 263"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to the functional biology of marine plants and animals and the ecological processes that underlie their distribution and abundance in open oceans, coastal regions, and estuaries. Field trips required.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_MSCI 330",
+      "course name": "Technologies for Ocean Discovery",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Survey of ocean sensor systems, sensor platforms, and other emerging technologies that provide new understanding of the ocean, current issues in marine science, and the social context and societal implications of discoveries in ocean sciences. Course projects could include presentations, data analysis, and hands - on design of sensors. Field trip required.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_MSCI 401",
+      "course name": "Marine Science Outreach",
+      "prerequisite": [
+        "PSC 201 or MSCI 301 or MSCI 328"
+      ],
+      "units": "1-2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Volunteer or internship experience in a marine science business, industry, government agency or informal science center. Positions require communicating science to the public. Formal report and evaluation by work supervisor required. Major credit limited to 4 units. Total credit limited to 8 units. Credit / No credit grading only."
+    },
+    {
+      "id": "CalPoly_MSCI 410",
+      "course name": "Scientific Diving",
+      "prerequisite": [
+        "BIO 263"
+      ],
+      "units": "3 units",
+      "term": [
+        "Summer"
+      ],
+      "description": "Advanced training in scientific methods associated with practical training in scuba diving. Satisfies American Academy of Underwater Sciences standards. Combination of theory, techniques and scuba diving. Experience collecting data and handling scientific equipment underwater. AAUS certification will require additional assessments outside of class. Field trips and additional fee required.",
+      "format": "1 lecture, 2 labs."
+    },
+    {
+      "id": "CalPoly_MSCI 428",
+      "course name": "Marine Conservation and Policy",
+      "prerequisite": [
+        "BIO 160",
+        "BIO 263",
+        "BIO 327 or BIO 401 or BOT 326 or MSCI 328"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Examination of how science and policy are used to evaluate and implement marine conservation and resource management. Topics include endangered species, fisheries, climate change, marine protected areas, research and conservation topics and developing policy for management decision - making. Field trip required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MSCI 437",
+      "course name": "Marine Botany",
+      "prerequisite": [
+        "BIO 162"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Comprehensive examination of the ecology, life histories, functional morphology, physiology, and taxonomy of marine algae and marine plants. Laboratory emphasizes species endemic to the central coast of California.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MSCI 438",
+      "course name": "Aquaculture",
+      "prerequisite": [
+        "BIO 160",
+        "BIO 162",
+        "BIO 263"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Propagation and rearing of fishes, invertebrates and algae from marine, freshwater, and estuarine habitats. Current methodologies and general life histories. Global perspective including aquacultural development in developed and developing countries.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MSCI 439",
+      "course name": "Fisheries Science and Resource Management",
+      "prerequisite": [
+        "BIO 162"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Scientific investigation of marine and freshwater fisheries. Methodologies and quantitative strategies for study of finfish and invertebrates. Role of oceanographic or limnological processes on stock maintenance. Impact of human exploitation on maintenance of sustainable yields, including user - group conflict issues, and regional / global controversies. Lab / field protocols, basic fisheries statistical procedures, molecular methods, computer simulations.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MSCI 440",
+      "course name": "Communicating Ocean Sciences to Informal Audiences",
+      "prerequisite": [
+        "MSCI 328",
+        "PSC 201",
+        "ZOO 322"
+      ],
+      "units": "3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Simultaneous focus on developing a knowledge of ocean sciences and the advanced educational approaches for communicating that knowledge. Teaching skills developed through coursework, outreach events and design of collaborative projects at museums and aquariums. Primary objective is to learn how to present ocean - themed hands - on, inquiry - based science exhibits, in order to improve the scientific literacy of audiences of all ages. Field trip required.",
+      "format": "1 lecture, 2 activities."
+    }
+  ]
+}

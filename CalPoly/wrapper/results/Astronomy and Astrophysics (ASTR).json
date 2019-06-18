@@ -1,0 +1,83 @@
+{
+  "subject": "Astronomy and Astrophysics (ASTR)",
+  "courses": [
+    {
+      "Course number & title": " Introduction to the Solar System",
+      "Number of units": "4 units",
+      "Term": "GE Area B3",
+      "Course description": "Descriptive astronomical properties of the Earth, Moon, other planets and their satellites. Comets, asteroids and other members of the Solar System. Theories of the formation of the Solar System. Opportunities for telescope observations. Intended for non-engineering and non-science majors. Not open to students who have completed or are taking ASTR301 or ASTR302. 4 lectures. Fulfills GE B3."
+    },
+    {
+      "Course number & title": " Introduction to Stars and Galaxies",
+      "Number of units": "4 units",
+      "Term": "GE Area B3",
+      "Course description": "Descriptive astronomical properties of the Sun, stars, galaxies and interstellar material. Expanding universe and cosmological models. Opportunities for telescope observations. Not open to students who have completed or are taking ASTR 112, ASTR301, ASTR302, or PHYS132. 4 lectures. Fulfills GE B3."
+    },
+    {
+      "Course number & title": " Special Problems for Undergraduates",
+      "Number of units": "1-2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "Course number & title": " Selected Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " Planetary Systems",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Quantitative and descriptive properties of planetary systems, including our solar system.  Physics of planets and their formation, moons, comets, and interplanetary media.  Extrasolar planets and astrobiology.  3 lectures."
+    },
+    {
+      "Course number & title": " Stars and Galaxies",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Quantitative and descriptive properties of stars, galaxies and interstellar material; including stellar structure and evolution, and structure and evolution of galaxies.  3 lectures."
+    },
+    {
+      "Course number & title": " Longitude, Navigation, and Timekeeping",
+      "Number of units": "4 units",
+      "Term": "GE Area F",
+      "Course description": "The state of navigation prior to 1800 and the world wide problem of determining longitude at sea.  Emphasis on historical and modern-day scientific solutions to the longitude problem and navigation technology, time and timekeeping, celestial navigation, and awareness of technological solutions to societal problems.  4 lectures.  Fulfills GE Area F."
+    },
+    {
+      "Course number & title": " Cosmology",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Introduction to the basic ideas of modern observational cosmology from the Big Bang to the ultimate fate of the universe.  Topics include:  special and general relativity, curvature of space, dark matter, dark energy, cosmic microwave background, type Ia supernovae.  3 lectures."
+    },
+    {
+      "Course number & title": " Special Problems for Advanced Undergraduates",
+      "Number of units": "1-2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "Course number & title": " Research Experience for Advanced Undergraduates",
+      "Number of units": "1-2 units",
+      "Term": "CR/NC",
+      "Course description": "Individual investigations, research, studies, or surveys of selected problems.  Credit/No Credit grading only.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "Course number & title": " Observational Astronomy",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Introduction to observational astronomy.  Coordinate systems, telescopes and observational instruments (CCDs, filters, spectrographs), observational methods and techniques, data reduction and analysis.  Laboratory activities include use of a telescope, CCD camera for data acquisition, data reduction and analysis, and presentation of results.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " Selected Advanced Laboratory",
+      "Number of units": "1-2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group laboratory study of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 2 laboratories."
+    }
+  ]
+}

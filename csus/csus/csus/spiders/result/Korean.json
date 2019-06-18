@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "units": "5 Units", 
+      "term": "Fall only", 
+      "description": "Develops elementary spoken Korean language, reading and writing in Hangul, and the practical skills required to effectively use the modern language. The relationship between language and culture will also be emphasized. Includes an emphasis on the culture, customs, and traditions of Korea.", 
+      "id": "CSUS_KORN 1A", 
+      "course name": "Elementary"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": ". Develops elementary spoken Korean language, reading and writing in Hangul, and the practical skills required to effectively use the modern language. The relationship between language and culture will also be emphasized. Includes an emphasis on the culture, customs, and traditions of Korea. ", 
+      "course name": "Elementary", 
+      "units": "5 Units", 
+      "id": "CSUS_KORN 1B", 
+      "prerequisite": [
+        "KORN 1A", 
+        "KORN 1A"
+      ]
+    }, 
+    {
+      "term": " Meets the Foreign Language Graduation Proficiency Requirement.  ", 
+      "description": "Intermediate Korean on the further development of speaking, reading, and grammatical skills through dialogues, discussions, and reading. ", 
+      "course name": "Intermediate", 
+      "units": "4 Units", 
+      "id": "CSUS_KORN 2A", 
+      "prerequisite": [
+        "KORN 1B"
+      ]
+    }, 
+    {
+      "term": " Meets the Foreign Language Graduation Proficiency Requirement.  ", 
+      "description": ". Further development of speaking, reading, grammar, and composition skills at the intermediate to intermediate-high level.  ", 
+      "course name": "Intermediate", 
+      "units": "4 Units", 
+      "id": "CSUS_KORN 2B", 
+      "prerequisite": [
+        "KORN 2A", 
+        "KORN 2A"
+      ]
+    }, 
+    {
+      "units": "0.5 - 99 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_KORN 92OS", 
+      "course name": "KORN 92OS.Overseas Study - Lower Division"
+    }, 
+    {
+      "units": "0.5 - 99 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_KORN 192OS", 
+      "course name": "KORN 192OS.Overseas Study - Upper Division"
+    }
+  ], 
+  "subjectOf": {
+    "id": "KORN", 
+    "subject": "Korean"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Korean", 
+    "id": "CSUS"
+  }
+}

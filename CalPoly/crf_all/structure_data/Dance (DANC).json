@@ -1,0 +1,316 @@
+{
+  "subjectOf": {
+    "id": "DANC",
+    "subject": "Dance"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Dance"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_DANC 130",
+      "course name": "Pilates and Conditioning Fundamentals",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Introduction to Joseph Pilates ' Physicalmind conditioning method. Development of ideal physical fitness for the attainment and maintenance of a uniformly developed body and sound mind. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 6 units",
+      "format": ". 2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 131",
+      "course name": "Beginning Ballet",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Fundamentals of ballet technique stressing alignment, turn - out, five basic positions, seven movements of dance, and terminology. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 6 units",
+      "format": ". 2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 132",
+      "course name": "Beginning Modern Dance",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Fundamentals of modern technique stressing alignment, off - centered use of torso, floorwork, movement phrases, and improvisation exercises. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 6 units",
+      "format": ". 2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 133",
+      "course name": "Beginning Jazz Dance",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction of jazz dance techniques stressing a variety of styles, alignment, isolation, polyrhythms, syncopation, improvisation, and phrasing. Performance technique and presentation of simple dance phrases. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 6 units",
+      "format": ". 2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 134",
+      "course name": "Beginning Ballroom Dance",
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Selected ballroom dances including the cha - cha - cha, foxtrot, merengue, rumba, samba, swing, tango, waltz, and line dance hustle. Emphasis on alignment, etiquette, leading and following, performance techniques, and presentation of simple dance phrases. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 6 units",
+      "format": ". 2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 135",
+      "course name": "International Folk Dance",
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Introduction to international folk dances including round, longway, and square sets. Study of various dance steps, formation, positions, historical and cultural background. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 6 units",
+      "format": ". 2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 210",
+      "course name": "Active Wellness",
+      "units": "4 units",
+      "term": [
+        "ge area d4"
+      ],
+      "description": "Investigation of health and wellness ideologies and techniques for dancers and non - dancers through active participation in fitness circuits and lecture. Elements of fitness, injury prevention, somatic methodologies, anatomy, and body image will be presented and discussed to help students maintain and cultivate optimum health now and in the future.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Fulfills GE D4."
+    },
+    {
+      "id": "CalPoly_DANC 221",
+      "course name": "Dance Appreciation",
+      "units": "4 units",
+      "term": [
+        "ge area c3"
+      ],
+      "description": "Diverse dance forms. Focus on major western dance artists and their works from the 19th century to the present. Cultural context, style and forms in dance. Introductory survey of major experiments in dance. Purchase of concert ticket(s ) may be required. Course may be offered in classroom - based or online format.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE C3."
+    },
+    {
+      "id": "CalPoly_DANC 231",
+      "course name": "Intermediate Ballet",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Continuation of training in basic technical skills in ballet stressing phrasing, performance, and more complex step patterns. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 6 units.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 232",
+      "course name": "Intermediate Modern Dance",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Continuing study of DANC132 with emphasis on various movement styles, phrasing, more complex step patterns, and performance. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 6 units.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 233",
+      "course name": "Intermediate Jazz Dance",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Continuation of DANC133 with emphasis on more extensive movement vocabulary. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 6 units.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 234",
+      "course name": "Intermediate Ballroom Dance",
+      "prerequisite": [
+        "DANC 134 or intermediate level experience as determined by instructor at first class meeting"
+      ],
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Continuation of DANC134. Selected ballroom dances : cha cha, foxtrot, merengue, rumba, swing, tango, hustle, paso doble, polka and samba. Emphasis on variations, styles, and performance skill. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 6 units.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_DANC 280",
+      "course name": "Body Awareness and Expression",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Directed group study of movement techniques and exercises to facilitate expressive physical performance. Body effectiveness, alignment and conditioning practice integrated with creative exploration and movement analysis of effort, spatial awareness and detailed body usage. 4 lectures. Crosslisted as DANC / TH280."
+    },
+    {
+      "id": "CalPoly_DANC 321",
+      "course name": "Cultural Influence on Dance in America",
+      "units": "4 units",
+      "term": [
+        "ge area c4; uscp"
+      ],
+      "description": "Multicultural approach to history of dance in America, with emphasis on American Indian, West African, Caribbean, Mexican, European, and Asian contributions and influences. Explores culture through dance. Purchase of concert ticket(s ) required. 4 lectures. Fulfills GE C4 except for Theatre Arts majors. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_DANC 331",
+      "course name": "Advanced Ballet and Repertory",
+      "prerequisite": [
+        "DANC 231 or intermediate level experience as determined by instructor at first class meeting"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Advanced ballet technique and reconstruction of historical ballet repertories from the romantic, classical, neoclassical, and modern periods. Participation in dance performance of selected repertory. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 6 units.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 332",
+      "course name": "Contemporary Dance Repertory",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Intermediate to advanced dance skills learned through the study and performance of selected contemporary dance repertory. Addresses problems in advanced performance technique. Informal presentation in performance situation. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 6 units.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 340",
+      "course name": "Dance Composition",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Principles of dance composition. Exploration of creative potential and development of movement motifs through choreographic studies. Preparation for informal public presentation of student generated choreographic works. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 lecture, 1 laboratory, 2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 341",
+      "course name": "Dance Concert Practicum",
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Advanced practical application of choreography and dance concert production. Production of the student - produced Spring Dance Concert will be developed and executed. Investigation of complete choreographic work via peer and faculty review. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "2 laboratories."
+    },
+    {
+      "id": "CalPoly_DANC 345",
+      "course name": "Choreography/Workshop in Dance Concert Preparation",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Workshop in concert preparation for major public dance production. Exploration and process of concert dance choreography. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 16 units.",
+      "format": "2 activities, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_DANC 346",
+      "course name": "Dance Production",
+      "prerequisite": [
+        "DANC 331"
+      ],
+      "units": "1-4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Directed production of annual Orchesis Dance Company Concert and other public performances. Attendance of professional dance concert(s ) required. Purchase of concert ticket(s ) may be required. Total credit",
+      "grading": "limited to 16 units.",
+      "format": "1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_DANC 381",
+      "course name": "Dance Teaching Methods for Dance Minors",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Dance skills and techniques. Experience in selected dance forms. Rhythmic structure and analysis of dance steps. Includes introduction to dance pedagogy, curricular materials and evaluative procedures. Purchase of concert ticket(s ) may be required.",
+      "format": "2 lectures, 2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 400",
+      "course name": "Special Problems",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research and studies or survey of selected problems in dance and related areas. Total credit limited to 8 units with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "CalPoly_DANC 430",
+      "course name": "Advanced Selected Techniques",
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Directed study of selected topics for advanced dance students. Focus on advanced level technique, style, concepts and choreography of classical and contemporary dance forms. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_DANC 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed study of selected topics for advanced dance students. Class Schedule will list topics selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    },
+    {
+      "id": "CalPoly_DANC 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for dance students. Class Schedule will list topics selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    }
+  ]
+}

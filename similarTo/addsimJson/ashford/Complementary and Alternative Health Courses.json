@@ -1,0 +1,23 @@
+{
+  "subjectOf": {
+    "subject": "Complementary and Alternative Health Courses",
+    "id": "CAH"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Complementary and Alternative Health Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_CAH 390",
+      "course name": "Introduction to Chinese Medicine",
+      "units": "3 Credits",
+      "description": "Introduction to Chinese medicine is the study of the medical system and healing practices traditionally used in China, and more recently, in the United States and other countries. The course endeavors to explore the conceptual framework of Chinese medicine; in particular, from a contextual and historical perspective. Additionally the course will focus on how Chinese Medicine understands the concepts of health and disease, creating context for how health imbalances are understood in the medical system. ",
+      "prerequisite": [
+        "HCS 321",
+        "HCS 326"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course examines contemporary issues in education, with special attention to the social, cultural, political, economic, and institutional dynamics of educational processes and the impacts on students, schools, and communities. Fulfilling the mission of the Masters programs and the College of Education vision, the course focuses on preparing students to become social change agents in schools and communities. Topics covered will fit into the two threads of (a) curriculum and (b) social emotional well-being of students.", 
+      "id": "CSUS_EDGR 210", 
+      "course name": "Contemporary Issues in Education: Curriculum and Social Emotional Well Being of Students"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course examines contemporary issues in education, with special attention to the social, cultural, political, economic, and institutional dynamics of educational processes and the impacts on students, schools, and communities. Fulfilling the mission of the Masters programs and the College of Education vision, the course focuses on preparing students to become social change agents in schools and communities. Topics covered will fit into the two threads of (a) context of schooling and (b) leadership.", 
+      "id": "CSUS_EDGR 211", 
+      "course name": "Contemporary Issues in Education: Context of Schooling and Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course examines contemporary issues in literacy. The course introduces students to pedagogies and politics of new literacies within a variety of contexts: academic, new literacy studies, technology literacy, cultural, family, community, and workplace literacy. From a frame of literacy/illiteracy, students examine its connections with economic, political, social, occupational, education, governmental, and cultural change. Students will study how literacy programs are organized and implemented, examine research on the rationale for literacy, including the connection between literacy and healthy, livelihoods, empowerment, community development and cognitive skills.", 
+      "id": "CSUS_EDGR 220", 
+      "course name": "Issues in New Literacies throughout the Lifespan"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " This course serves as a foundation for further study and must be taken prior to 250. This course satisfies the GWI requirement.  ", 
+      "description": "Orientation to graduate study design to introduce students to research within their field of study and across disciplines in the College of Education. Overview of qualitative and quantative methods and basic statistical concepts. Focus on writing to communicate evidence-based knowledge in a professional manner using APA style. Includes research presentations, active discussion, critical reading, and analytical writing with some activities. ", 
+      "id": "CSUS_EDGR 260", 
+      "course name": "Writing and Research Across the Disciplines."
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall only", 
+      "description": "Explore and identify potential Culminating Experience project topics in instructional design and/or educational technology trends and issues through surveys of published research, discussions, and presentations with peers and professionals. Compare and contrast existing literature and research, identify trends, recognize real-world best practices, and explore underlying factors contributing or relating to your Culminating Experience topic of interest.", 
+      "id": "CSUS_EDGR 287A", 
+      "course name": "Seminar in Culminating Experience Exploration and Design"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Discuss, develop and propose a Culminating Experience project in instructional design and/or educational technology based on prior exploration and identification of topics and issues. Develop program ePortfolio. Prerequesite: ", 
+      "course name": "Seminar in Culminating Experience Development and Proposal", 
+      "units": "2 Units", 
+      "id": "CSUS_EDGR 287B", 
+      "prerequisite": [
+        "EDGR 287A"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "EDGR", 
+    "subject": "Education - Graduate Professional Studies in Education"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Education - Graduate Professional Studies in Education", 
+    "id": "CSUS"
+  }
+}

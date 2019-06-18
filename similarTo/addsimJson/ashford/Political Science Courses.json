@@ -1,0 +1,88 @@
+{
+  "subjectOf": {
+    "subject": "Political Science Courses",
+    "id": "POL"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Political Science Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_POL 111",
+      "course name": "Introduction to Political Science",
+      "units": "3 Credits",
+      "description": "This course is an introduction to the complexity and nuance of Political Science. It explores the political and social dynamics of choice, action, and consequence that underlie and support all political phenomena. Specifically, this course focuses on the why and how of politics rather than the what, in order to provide students with useful, current, and relevant conceptual and theoretical tools for enhancing their critical thinking skills."
+    },
+    {
+      "id": "AshFord_POL 201",
+      "course name": "American National Government",
+      "units": "3 Credits",
+      "description": "A survey of government at the national level. Emphasis is placed on the constitutional basis of American government, federalism, the sources and forms of political behavior, the operation of the three branches of government, and the making of national policy."
+    },
+    {
+      "id": "AshFord_POL 211",
+      "course name": "Introduction to Politics",
+      "units": "3 Credits",
+      "description": "This course is an introduction to selected institutions, processes, and political behaviors associated with the study of politics in the United States and globally."
+    },
+    {
+      "id": "AshFord_POL 255",
+      "course name": "Introduction to International Relations",
+      "units": "3 Credits",
+      "description": "This course in International Relations is an introductory study of the interactions and interconnectivity of the countries of the world. The course emphasizes the need to think critically about international politics and foreign policy. Consequently, this course focuses topically on how and why wars begin, balances of power between states, international institutions, collective security, international communications, human rights, globalization, regime types, international trade, environmental change, imperialism, injustice, inequality, and other issues relevant to the changing world."
+    },
+    {
+      "id": "AshFord_POL 303",
+      "course name": "The American Constitution",
+      "units": "3 Credits",
+      "description": "This course is a study of the Constitution of the United States and its role in American history and government. The study covers the drafting and ratification of the Constitution, its subsequent amendment and interpretation, and its contemporary role in American politics and government."
+    },
+    {
+      "id": "AshFord_POL 310",
+      "course name": "Environmental Policies",
+      "units": "3 Credits",
+      "description": "Examines political, social, and economic policies and their impact on the global environment. Also explores ways in which policy decisions can serve to protect the environment."
+    },
+    {
+      "id": "AshFord_POL 319",
+      "course name": "State & Local Government",
+      "units": "3 Credits",
+      "description": "This course examines the structure and processes of state and local governments and their related current problems and issues. There is a focus on the effect of Federalism and its effect on States."
+    },
+    {
+      "id": "AshFord_POL 325",
+      "course name": "Congress & the Presidency",
+      "units": "3 Credits",
+      "description": "This course examines the notion of shared governance as it applies to two central institutions of the American national government, Congress and the Presidency. Students have an opportunity to learn more about the history, structure, and functions of each institution but there is much emphasis placed on the relationship between Congress and the Presidency. Topics include leadership, policymaking, tensions within each institution and between the different institutions, and a focus on a variety of public policy areas."
+    },
+    {
+      "id": "AshFord_POL 353",
+      "course name": "Comparative Politics",
+      "units": "3 Credits",
+      "description": "This course introduces the basic concepts and theories of comparative politics through an analysis of selected political systems and governments from various regions and societies across the world. Topical analysis in the course includes an emphasis on key political institutions, political culture, ideology, globalization, conflict and stability, various state and non-state actors, and on issues associated with economic development and underdevelopment."
+    },
+    {
+      "id": "AshFord_POL 355",
+      "course name": "International Relations",
+      "units": "3 Credits",
+      "description": "The course in international relations is the study of relations between different nations of the world with an emphasis on understanding the political implications of international security matters and the international political economy. The topical emphasis on nationalism, diplomacy, conflict, international organizations and actors, human rights, political economy, and key global issues offers insights into the principles of identity, cooperation, and the use of power in an international context."
+    },
+    {
+      "id": "AshFord_POL 411",
+      "course name": "Political Behavior",
+      "units": "3 Credits",
+      "description": "Students will study political behavior as it relates to campaigns and elections in the United States.Selected course themes include political communication, participation, voting, and elections."
+    },
+    {
+      "id": "AshFord_POL 480",
+      "course name": "Methodology in Political Science",
+      "units": "3 Credits",
+      "description": "This course completes the process of learning how to conduct political analysis and critically assess statistical research. In this course, students will learn how to measure political science events and actions, identify and assess pertinent variables, design valid hypothesis testing techniques, control for alternative hypotheses, and interpret data in various formats, including graphs, statistical tables, and charts. Students will utilize pragmatic, relevant Political Science-related exercises to enhance and refine their political science analysis skills.",
+      "prerequisite": [
+        "POL 470"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,915 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring, Summer",
+      "description": "Principles of manufacturing processes in the areas of metal removal, forming, joining and casting and fundamentals of numerical control. Study includes applications of equipment, e.g., lathe, milling machine, drill press, saw, grinder, welder, molding equipment and core makers. Emphasis on safety during hands-on operations. Two hours lecture, one three-hour lab.",
+      "id": "CSUS_ME 37",
+      "course name": "Manufacturing Processes"
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Introduction to the use of computers for engineering, science and mathematical computations. Introduction to linear algebra and matrix applications. Introduction to concepts of programming and visualization using MATLAB and PBasic. Practical applications involving design using a microcontroller. Applications will be drawn from a variety of science and engineering areas. Lecture two hours, Laboratory three hours. ",
+      "course name": "Introduction to Technical Problem Solving",
+      "units": "3 Units",
+      "id": "CSUS_ME 105",
+      "prerequisite": [
+        "ENGR 17",
+        "ENGR 30"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to statistical methods applied to analysis of engineering systems. Topics include data collection, distribution characteristics, probability, uses of regression analysis, and decision-making under uncertainty. Introduction to economic analysis applied to engineering designs. Topics include marginal or incremental economic analysis using multiple standard methods while addressing organizational constraints and market factors. Investigations into the roles engineers play in society in working toward sustainability, and ethical decision making in a technological world. ",
+      "course name": "Professional Topics for Mechanical Engineers",
+      "units": "2 Units",
+      "id": "CSUS_ME 108",
+      "prerequisite": [
+        "MATH 31"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Generation of equations of  motion for single and multiple degree freedom systems. Study of natural frequencies, eigenvectors, free and forced response, modes of vibration and vibration control and isolation. Mechanical and structural vibrations with applications to rotating machinery and vehicles. Fundamentals of acoustics and the engineering of musical instruments. ",
+      "course name": "Vibrations",
+      "units": "3 Units",
+      "id": "CSUS_ME 114",
+      "prerequisite": [
+        "ENGR 110",
+        "ME 105"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Kinematic and kinetic analysis of mechanisms. Rigid and flexible multi-body assembly models in two and three dimensions. Use of solid modeling, dynamic analysis and finite element methods. Study of loads on linkages, cams, gears as integral functioning components of machines, ground and space vehicles. Study of forces and moments in machinery under impulsive and impact forces, balancing, and elements of vibration. ",
+      "course name": "Dynamics of Machinery and Multi-Body Systems",
+      "units": "3 Units",
+      "id": "CSUS_ME 115",
+      "prerequisite": [
+        "ENGR 110",
+        "ME 105"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to basic design methodology for mechanical systems and devices. Detail design of machine components; application of analytical methods in the design of complex machines. Failure mode analysis, theories of failure, yield, fracture, deflection, and fatigue analysis of machine elements. Design of common machine elements such as bearings and shafts. ",
+      "course name": "Machinery Design I",
+      "units": "2 Units",
+      "id": "CSUS_ME 116",
+      "prerequisite": [
+        "ENGR 6",
+        "ENGR 112",
+        "ME 37",
+        "ENGR 112",
+        "ME 37"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to design of machine components; application of analytical methods in the design of complex machines. Design of common machine elements such as threaded fasteners, springs, flexible drive components, gears, and friction devices. Introduction to stress and deflection analysis using finite element software. ",
+      "course name": "Machinery Design II",
+      "units": "2 Units",
+      "id": "CSUS_ME 117",
+      "prerequisite": [
+        "ME 116"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of solar thermal heat and power and energy storage including the characterization, theory, operation, analysis and modeling of solar thermal and energy storage systems. ",
+      "course name": "Solar Thermal and Energy Storage Systems",
+      "units": "2 Units",
+      "id": "CSUS_ME 121",
+      "prerequisite": [
+        "ENGR 124"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of geothermal and bioenergy systems including the characterization, theory, operation, analysis and modeling. ",
+      "course name": "Geothermal and Bioenergy Systems",
+      "units": "2 Units",
+      "id": "CSUS_ME 122",
+      "prerequisite": [
+        "ENGR 124"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Exploring sustainable energy and power generation, through study of wind, hydro and ocean energy systems, including the characterization, theory, operation, analysis, modeling, planning impacts and design process. ",
+      "course name": "Wind, Hydro and Ocean Energy",
+      "units": "3 Units",
+      "id": "CSUS_ME 123",
+      "prerequisite": [
+        "ENGR 124",
+        "ENGR 132"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Basic principles of heat transfer, including processes of conduction, convection, radiation, evaporation and condensation. Lecture three hours. ",
+      "course name": "Heat Transfer",
+      "units": "3 Units",
+      "id": "CSUS_ME 126",
+      "prerequisite": [
+        "ENGR 124",
+        "ENGR 132"
+      ]
+    },
+    {
+      "term": " May be repeated for credit.  ",
+      "description": "Problem solving and discussion of heat transfer to enhance students' understanding of subject matter. ",
+      "course name": "Heat Transfer Workshop",
+      "units": "1 Unit",
+      "id": "CSUS_ME 126W",
+      "prerequisite": [
+        "ME 126"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Fundamentals of the Otto, Diesel, Brayton and Rankine power cycles, vapor-compression refrigeration, psychrometric processes and chemical reactions. Theory and application of temperature, pressure, flow, and velocity instruments, introduction to experiment design, errors, uncertainty and data acquisition, data analysis and presentation. ",
+      "course name": "Thermal-Fluid Systems",
+      "units": "3 Units",
+      "id": "CSUS_ME 128",
+      "prerequisite": [
+        "ENGR 124"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Computer programming languages for automated manufacturing, including CNC manual programming, cutter compensation, geometric definition of products, cutting tool definition, continuous path part programming, computation, decision, looping, computer graphics programming and intelligent machines. ",
+      "course name": "Numerical Control Programming",
+      "units": "3 Units",
+      "id": "CSUS_ME 136",
+      "prerequisite": [
+        "ME 37",
+        "ME 105",
+        "ME 105"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Various manufacturing and automation aspects of product design, including design for machining, design for automation, applications of CAD/CAM software in product design and automation, and rapid prototyping. Virtual design and manufacturing and agile manufacturing will also be discussed. ",
+      "course name": "Product Design for Manufacturing and Automation",
+      "units": "3 Units",
+      "id": "CSUS_ME 137",
+      "prerequisite": [
+        "ME 117"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Manufacturing considerations in product design including: design for manufacturing (DFM), design for assembly (DF A), design to cost (DTC), design to life cycle cost (DTLCC), design for quality and reliability (DFQR); introduction to concurrent engineering. Two hours lecture, three-hour lab. ",
+      "course name": "Concurrent Product and Process Design",
+      "units": "3 Units",
+      "id": "CSUS_ME 138",
+      "prerequisite": [
+        "ME 37",
+        "ME 116"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Power conversion hardware used in electromechanical systems. Operation and sizing of electric motors, both DC and AC systems, motor controllers, and power electronics; sensors; design in fluid power systems, both pneumatic and hydraulic; and power transmission systems such as ball screws and belt drivers. ",
+      "course name": "Introduction to Motors and Actuators",
+      "units": "2 Units",
+      "id": "CSUS_ME 140",
+      "prerequisite": [
+        "ME 172",
+        "EEE 184"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to techniques used in manufacturing tolerance analysis. Assembly tolerance analysis using standard industry practices; application of geometric dimensioning techniques to tolerance analysis; drawing practices for indicating dimensional tolerances; statistical techniques; tolerance allocation. Introduction to computer aided tolerance analysis. ",
+      "course name": "Introduction to Tolerance Analysis",
+      "units": "2 Units",
+      "id": "CSUS_ME 141",
+      "prerequisite": [
+        "ME 116"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Principles and practice in vehicle dynamics and design using computer aided techniques. Design methods for passenger vehicles, SUVs, trucks, motorcycles and space vehicles. Study of tires, drivetrain and gear boxes in ground vehicles. Kinematics and kinetics of mechanisms in two and three dimensions with applications to suspensions, steering mechanisms. Frame design using finite element analysis, power trains, braking, auxiliary systems.  Computer dynamic models for analysis of vehicle stability, collisions rollovers, and failure analysis using state-of-the-art software. ",
+      "course name": "Vehicle Dynamics and Design",
+      "units": "3 Units",
+      "id": "CSUS_ME 143",
+      "prerequisite": [
+        "ENGR 110",
+        "ME 117"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Principles of combustion and pyrolysis of gaseous, liquid, and solid materials. Applications of principles, including analysis and design of stationary and mobile powerplants, waste management, and fire safety.",
+      "id": "CSUS_ME 151",
+      "course name": "Fundamentals of Combustion"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Theoretical analysis of energy transfer between fluid and rotor; principles of axial, mixed, and radial flow compressors and turbines. Applications and computer-aided design of various types of turbomachines. ",
+      "course name": "Turbomachinery Design",
+      "units": "3 Units",
+      "id": "CSUS_ME 152",
+      "prerequisite": [
+        "ME 105"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Application of thermodynamic and fluid mechanical analysis to various kinds of engines, including those based on Otto, Diesel, Brayton, Rankine, and Stirling cycles. Development of computer models and comparison of cycles in terms of applications to land, marine, and aerospace propulsion. ",
+      "course name": "Thermodynamics of Combustion Engines",
+      "units": "3 Units",
+      "id": "CSUS_ME 153",
+      "prerequisite": [
+        "ENGR 124",
+        "ENGR 132",
+        "ME 105"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of alternative energy technologies, such as renewable fuels, wind, solar, oceanic and geothermal power.  Concentration on fundamental thermodynamic principles, modern design features and non-technical aspects of each technology. ",
+      "course name": "Alternative Energy Systems",
+      "units": "3 Units",
+      "id": "CSUS_ME 154",
+      "prerequisite": [
+        "ENGR 124"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Thermodynamics and mechanics of one-dimensional compressible flow; isentropic flow; normal and oblique shock waves; Prandtl-Meyer flow. Combined effects in one-dimensional compressible flow. Nozzles, diffusers and shock tubes. Computer use in gas dynamics. ",
+      "course name": "Gas Dynamics",
+      "units": "3 Units",
+      "id": "CSUS_ME 155",
+      "prerequisite": [
+        "ME 105"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Theory and design of heating, ventilating and air conditioning for industrial and comfort applications. Topics include refrigeration cycles, heating and cooling load calculations, psychrometrics, solar heating and cooling component, and system design. ",
+      "course name": "Heating and Air Conditioning Systems",
+      "units": "3 Units",
+      "id": "CSUS_ME 156",
+      "prerequisite": [
+        "ENGR 124",
+        "ENGR 132"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "In-depth study of the basics of solar engineering, including the nature and availability of solar radiation; operation, theory and performance of solar collectors; energy storage and model of solar systems. ",
+      "course name": "Solar Energy Engineering",
+      "units": "3 Units",
+      "id": "CSUS_ME 157",
+      "prerequisite": [
+        "ME 126"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Starts with a review of the theory and design of HVAC systems. Recent improvements and new developments in cooling and heating equipment are studied in detail. Computer models such as the Trane TRACE Program are used to size an HVAC system with an emphasis on high efficiency. Computer based controls and energy management systems are discussed and demonstrated. Field trips to energy efficient installations are included. ",
+      "course name": "High Efficiency HVAC",
+      "units": "3 Units",
+      "id": "CSUS_ME 159",
+      "prerequisite": [
+        "ME 156"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Basic concepts to automate testing procedures. Introduction to sensors, signal conditioning, sampling theory, design of experiments, data acquisition software, and data reduction techniques. Hands-on experience with PC based data acquisition software and hardware which will be used to create testing programs. Lecture two hours; laboratory three hours. ",
+      "course name": "Introduction to Test Automation",
+      "units": "3 Units",
+      "id": "CSUS_ME 164",
+      "prerequisite": [
+        "ME 105",
+        "ME 117"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fundamentals of design and application of industrial robotics. Manipulator kinematics, trajectory planning and controller design, design of end effectors and actuators, sensors, programming languages, and machine vision. Applications in manufacturing, approach to implementing robotics, economic analysis for robotics. Lecture two hours; laboratory three hours. ",
+      "course name": "Introduction To Robotics",
+      "units": "3 Units",
+      "id": "CSUS_ME 165",
+      "prerequisite": [
+        "ME 105",
+        "ME 116"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Computer modeling and mathematical representation of mechanical, electrical, hydraulic, thermal, and electronic systems or combinations of these. Development of system design criteria and solutions using computer simulation. Use of state of the art automated modeling and simulation methods to build models of multi-energy mechatronics and control systems. Vibration concepts, applied, natural frequencies, eigenvectors, and solution of differential equations using computer simulation. Introduction to state variable feedback control systems. A design project is required.  ",
+      "course name": "Modeling and Simulation of Mechatronics and Control Systems",
+      "units": "3 Units",
+      "id": "CSUS_ME 171",
+      "prerequisite": [
+        "ENGR 110",
+        "ME 105"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Use of mathematical models for the generation of equations of motion for mechanical and electrical systems. Evaluation of single and multiple degrees of freedom systems in the time and frequency domain. Topics include feedback control systems, Laplace transform, state space representation, transfer functions, error analysis, stability of control systems and system response. Automatic control system design using root locus and frequency response methods. Design of compensating controls using state of the art software and automation tools. Introduction to digital control. ",
+      "course name": "Control System Design",
+      "units": "3 Units",
+      "id": "CSUS_ME 172",
+      "prerequisite": [
+        "ME 171"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Mathematical fundamentals of Finite Element Modeling (FEA). Engineering analysis and design of structural members, and machinery components using FEA models. Model generation using computer graphics. Computer solutions of static, dynamic, heat transfer, stress analysis, fluid mechanics and structural problems. ",
+      "course name": "Applications of Finite Element Analysis",
+      "units": "3 Units",
+      "id": "CSUS_ME 173",
+      "prerequisite": [
+        "ENGR 112",
+        "ME 105"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Digital product development using an integrated CAD system. Philosophy of parametric design. Component and assembly design, basic drawing creation, and simulations. Team product design investigating the effects of variations in geometry, dimensions, and material selection. Lecture two hours; laboratory three hours. ",
+      "course name": "Product Design & CAD",
+      "units": "3 Units",
+      "id": "CSUS_ME 176",
+      "prerequisite": [
+        "ENGR 6",
+        "ME 105",
+        "ME 116"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to Solid Modeling and its application to mechanical product design. Digital product development using 3D Parametric Solid Modeling tools. Also covers component and assembly design, basic drawing creation.  Reverse design project engineering investigating the effects of variations in geometry, dimensions, and material selection.  Lecture two hours; laboratory three hours. ",
+      "course name": "Product Design and 3D Parametric Solid Modeling",
+      "units": "3 Units",
+      "id": "CSUS_ME 177",
+      "prerequisite": [
+        "ENGR 6",
+        "ME 105",
+        "ME 116"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Principles of mechanical properties of metals, including strength under combined loads, fatigue, and fracture mechanics. Laboratory includes study of strengthening mechanisms, and principles of experimental stress analysis. Lecture two hours; Laboratory three hours. ",
+      "course name": "Mechanical Properties of Materials",
+      "units": "3 Units",
+      "id": "CSUS_ME 180",
+      "prerequisite": [
+        "ENGR 112"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Problem solving and discussion of mechanical properties of materials to enhance students' understanding of subject matter. ",
+      "course name": "Mechanical Properties of Materials Workshop",
+      "units": "1 Unit",
+      "id": "CSUS_ME 180W",
+      "prerequisite": [
+        "ME 180"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Properties, mechanics, and applications of anisotropic fiber-reinforced materials with an emphasis on the considerations and methods used in the design of composite structures. ",
+      "course name": "Introduction to Composite Materials",
+      "units": "3 Units",
+      "id": "CSUS_ME 182",
+      "prerequisite": [
+        "ME 180"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to the phenomena of corrosion and wear, including the electro-mechanical bases of corrosion, examples of corrosion of iron, steel and stainless steels, and prevention of corrosion. Fundamentals of wear are covered including effects of loads, material properties, and lubrication on wear rates. ",
+      "course name": "Corrosion and Wear",
+      "units": "3 Units",
+      "id": "CSUS_ME 184",
+      "prerequisite": [
+        "ME 180"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fracture mechanics approach to mechanical design; role of microstructure in fracture toughness and embrittlement; environmentally-induced cracking under monotonic and fatigue loads; laboratory techniques; service failures in various industries and failure mechanisms. ",
+      "course name": "Fracture Mechanics in Engineering Design",
+      "units": "3 Units",
+      "id": "CSUS_ME 186",
+      "prerequisite": [
+        "ME 180"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": ". Students work in small groups, interacting with product users, vendors, technicians, and faculty advisors. Lecture two hours; laboratory three hours. ",
+      "course name": "Project Engineering I",
+      "units": "3 Units",
+      "id": "CSUS_ME 190",
+      "prerequisite": [
+        "ME 117",
+        "ME 191"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": ". Part II consists of fabrication and assembly of equipment, testing and evaluation, and reporting. Seminar one hour; laboratory three hours. ",
+      "course name": "Project Engineering II",
+      "units": "2 Units",
+      "id": "CSUS_ME 191",
+      "prerequisite": [
+        "ME 190",
+        "ME 190"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": "  Units earned can not be used to satisfy major requirements.  ",
+      "description": "Designed for Mechanical Engineering students making career decisions. Instruction will include effective career planning strategies and techniques including skill assessment, employment search strategy, goal setting, time management, interview techniques and resume writing. Lecture one hour. ",
+      "id": "CSUS_ME 194",
+      "course name": "Career Development in Mechanical Engineering"
+    },
+    {
+      "units": "1 - 6 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised employment in a professional engineering or computer science environment. Placement arranged through the College of Engineering and Computer Science. Requires satisfactory completion of the work assignment and a written report. ",
+      "id": "CSUS_ME 195",
+      "course name": "Professional Practice"
+    },
+    {
+      "units": "1 - 12 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised employment in a professional engineering or computer science environment. Placement arranged through the College of Engineering and Computer Science. Requires satisfactory completion of the work assignment and a written report. ",
+      "id": "CSUS_ME 195A",
+      "course name": "Professional Practice"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Practical approach to study of motion and dynamic analysis of machine components and assemblies in two or three dimensions. Uses solid modeling software to analyze the forces, moments and dynamic loads for parts and entire assemblies in motion. Topics include stress and strain during motion, kinematics, kinetics, drop tests in two and three dimensions, frequency analysis, buckling, dynamic fatigue and finite element analysis, time history of motion, harmonics, and vibrations. ",
+      "course name": "Motion and Dynamic Analysis using Solid Modeling",
+      "units": "3 Units",
+      "id": "CSUS_ME 196A",
+      "prerequisite": [
+        "ENGR 6",
+        "ME 117"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of product design process and formal design methodologies. Various topics in product and system design including creativity, visualizations and communications, human factors, design for X methodology decision science, economics, product design and robust quality design.  ",
+      "course name": "Engineering Systems Approach to Product Design",
+      "units": "2 Units",
+      "id": "CSUS_ME 196B",
+      "prerequisite": [
+        "ME 116"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Computer programming languages such as C/C++, Java, Processing, and their applications to engineering problem solving using computer graphics, simulations, and physical prototyping. Programming computer communications with microprocessors for controlling sensors and motors. ",
+      "course name": "Computer Programming for Mechanical Engineering Applications",
+      "units": "2 Units",
+      "id": "CSUS_ME 196C",
+      "prerequisite": [
+        "ME 105"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fundamental and applied subjects of aerodynamics for ground vehicle design and performance including flow features, aerodynamic forces, drag reduction strategies, and different methodologies for evaluation of aerodynamic forces and vehicle design. Numerical modeling approaches with experience of running a commercial computational fluid dynamics program. Units: 3 Units (2 Unit Lecture and 1 Unit Lab) ",
+      "course name": "Ground Vehicle Aerodynamics",
+      "units": "3 Units",
+      "id": "CSUS_ME 196D",
+      "prerequisite": [
+        "ENGR 132"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of forensic engineering using state of the art technology in vehicles that contribute to passenger safety and stability. Application of principles of dynamics for forensic investigation and reconstruction of vehicle collisions. Study of seat belts, airbags, and electrohydraulic stabilizers. Study of the Event Data Recorders (EDRs), data analysis and verification with real cases using classical reconstruction techniques, and the use of computer simulations in two and three dimensions.",
+      "id": "CSUS_ME 196E",
+      "course name": "Vehicle Safety and Crash Reconstruction"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Quantitative treatment of materials selection for engineering applications. Discussion of the relationship between design parameters and materials properties. Emphasis on the influence of processing and fabrication on the properties of metals, ceramics, polymers and composites as related to the overall design process. Sustainability, Eco-Design, and manufacturability considerations. ",
+      "course name": "Materials Selection in Engineering Design",
+      "units": "3 Units",
+      "id": "CSUS_ME 196F",
+      "prerequisite": [
+        "ENGR 45",
+        "ME 116",
+        "ME 116"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "description": "Study of modern power plants for electric power generation and cogeneration, covering technologies such as nuclear and fossil-fueled steam plants, gas turbine based systems, and emerging technologies. Thermos-economic analysis, parametric design, and environmental impact studies of different plant concepts. Utilization of industry-standard software tools to simulate complex plant configurations. ",
+      "id": "CSUS_ME 196G",
+      "prerequisite": [
+        "ENGR 124",
+        "ME 128",
+        "ME 128"
+      ],
+      "course name": "Power Plant Design"
+    },
+    {
+      "units": "2 Units",
+      "description": "Air quality standards. Stationary and transportation emission sources. Chemical and physical interactions of air pollutants, including greenhouse gases, with the atmosphere. Introduction to air quality modeling, including atmospheric temperature effects due to longwave thermal radiation. Air Quality measurement. Emission control strategies and design. Air resources economics and policy. ",
+      "id": "CSUS_ME 196H",
+      "prerequisite": [
+        "ENGR 124",
+        "ENGR 132",
+        "ENGR 132"
+      ],
+      "course name": "Air Resources Engineering"
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "This course will prepare students for engineering research by introducing them to how to identify, plan, conduct, and present a research project as well as research methods, literature review process, research ethics, writing proposal, writing technical reports, and oral and poster research presentations. The students will be conducting an independent supervised engineering research on an agreed-upon research project. They will refine their communication skills by working one-on-one with the instructor to present their research in a professional setting. ",
+      "course name": "Engineering Research Methodology and Communication for Undergraduate Students",
+      "units": "3 Units",
+      "id": "CSUS_ME 196M",
+      "prerequisite": [
+        "ME 108"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students who appear competent to carry on individual work. Admission requires approval of an instructor and the student's advisor. May be repeated for credit. ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_ME 199",
+      "course name": "Special Problems"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fundamentals and applications of stochastic processes for engineers, including a review of engineering statistics, autoregression moving average (ARMA) models, characteristics of ARMA models, ARMA modeling and forecasting, and transformation from discrete models to continuous models. Applications of stochastic processes in engineering field, e.g., precision manufacturing, monitoring and diagnosis of machines, tools, and processes, system identification, vibrations, and statistical process control (SPC). ",
+      "course name": "Stochastic Modeling for Engineers",
+      "units": "3 Units",
+      "id": "CSUS_ME 206",
+      "prerequisite": [
+        "MATH 45"
+      ]
+    },
+    {
+      "units": "2 Units",
+      "term": " Graduate Writing Intensive (GWI) course.  ",
+      "description": "Research methodology and engineering approach to problem solving. Includes an orientation to the requirements for Master's thesis in Mechanical Engineering. Students will be exposed to a variety of possible thesis topics. Students will be required to complete an essay concerning aspects of engineering research. The student will be required to prepare a presentation and also review other students work. ",
+      "id": "CSUS_ME 209",
+      "course name": "Research Methodology."
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Application of expert systems, fuzzy logic and neural networks in product design and manufacturing.  Concurrent product and process design using expert systems and fuzzy logic.  Monitoring tool conditions and manufacturing processes using neural networks so as to achieve high quality, high efficiency, and automation. ",
+      "course name": "Intelligent Product Design and Manufacturing",
+      "units": "3 Units",
+      "id": "CSUS_ME 233",
+      "prerequisite": [
+        "ME 105",
+        "ME 138"
+      ]
+    },
+    {
+      "term": " Lectures as well as some tutorial activities are covered in two 75-minute classes per week.  ",
+      "description": "Applications of logic and motion controls in manufacturing.  Computer controlled open and feedback systems.  CNC machining processes, CNC programming.  Applications of robots in manufacturing, programming for robots.  PLC logic controls, sensors and output devices, creating ladder logic diagrams for the PLCs.  Design for Manufacturing (DFM) and Design for Assembly  (DFA) of modern computer controlled machines. ",
+      "course name": "Computer Controlled Manufacturing Processes",
+      "units": "3 Units",
+      "id": "CSUS_ME 236",
+      "prerequisite": [
+        "ME 105",
+        "ME 138"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to both the theory and applications of digital control of manufacturing processes, including the discrete controller for manufacturing, digital controlled systems for manufacturing, sensors of control loop for manufacturing, discrete process models for manufacturing, manufacturing system input and response, and stability analysis of manufacturing systems. ",
+      "course name": "Digital Control of Manufacturing Processes",
+      "units": "3 Units",
+      "id": "CSUS_ME 237",
+      "prerequisite": [
+        "ME 105",
+        "ME 138",
+        "MATH 45"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to measurement for machine accuracy and process quality including the use of coordinate measuring machines; system considerations and sensor technology in automated visual inspection; applications of pattern recognition in automated inspection. ",
+      "course name": "Automated Inspection",
+      "units": "3 Units",
+      "id": "CSUS_ME 238",
+      "prerequisite": [
+        "ME 105",
+        "ME 138"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Analyzes mechanical designs with respect to strength or deformation criteria. Elastic and inelastic failure criteria, energy methods, effects of temperature, stress concentrations, and fatigue are discussed. ",
+      "course name": "Mechanical Design Analysis",
+      "units": "3 Units",
+      "id": "CSUS_ME 240",
+      "prerequisite": [
+        "ENGR 201",
+        "ENGR 201"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Mathematical methods of optimum design using linear and non-linear optimization; constrained and unconstrained optimum design. Optimization of mechanical elements and assemblies to meet design requirements, material characteristics and geometry. Numerical methods and computer usage in optimal design. Application of these principles to realistic design problems. ",
+      "course name": "Optimum Mechanical Design",
+      "units": "3 Units",
+      "id": "CSUS_ME 241",
+      "prerequisite": [
+        "ENGR 201",
+        "ENGR 201"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Theory and analytical methods in steady-state and transient heat conduction. Development of the differential equations and initial and boundary conditions. Solutions by separation of variables, transforms, finite differences and integral methods. Heat transfer from extended surfaces. ",
+      "course name": "Heat Transfer: Conduction",
+      "units": "3 Units",
+      "id": "CSUS_ME 250",
+      "prerequisite": [
+        "ME 126",
+        "ENGR 202",
+        "ENGR 202"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Analyzes convective heat and mass transfer. Development of the Navier-Stokes and energy equations for two-dimensional flows. Boundary layer theory and numerical techniques in solving convection problems. Analyzes turbulence, transport by Reynold's stresses and Prandtl's mixing length theory. ",
+      "course name": "Heat Transfer: Convection",
+      "units": "3 Units",
+      "id": "CSUS_ME 251",
+      "prerequisite": [
+        "ME 126",
+        "ENGR 201",
+        "ENGR 201"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fundamentals and basic laws of radiative transfer. Properties of surfaces, spectral characteristics and configuration factors. Radiation transfer between surfaces. Absorbing, emitting and scattering media. Combined conduction, convection and radiation. Applications to solar energy systems. ",
+      "course name": "Heat Transfer: Radiation",
+      "units": "3 Units",
+      "id": "CSUS_ME 252",
+      "prerequisite": [
+        "ME 126",
+        "ENGR 202"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Analytical and numerical analysis of Navier-Stokes equations for laminar flow; stability of laminar flow and its transition to turbulence. Analyzes stream functions and the velocity potential, and vorticity dynamics. The mathematical analysis of incompressible turbulent flows; development of Reynolds stress equations, turbulent boundary layer equations, turbulent flow in pipes and channels, and turbulent jets and wakes. ",
+      "course name": "Advanced Fluid Mechanics",
+      "units": "3 Units",
+      "id": "CSUS_ME 253",
+      "prerequisite": [
+        "ENGR 132"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Application of the laws of fluid mechanics and thermodynamics to problems of compressible flow in two and three dimensions; small perturbation theory, hodograph method and similarity rules for subsonic flow. Method of characteristics, shock wave analysis for steady, unsteady and supersonic, one-dimensional flows. ",
+      "course name": "Mechanics and Thermodynamics of Compressible Flow",
+      "units": "3 Units",
+      "id": "CSUS_ME 256",
+      "prerequisite": [
+        "ENGR 201",
+        "ENGR 202",
+        "ENGR 201",
+        "ENGR 202"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced topics in thermodynamics including applications of fundamental postulates to chemical, mechanical, magnetic and electric systems, theory of fluctuations, and irreversible thermodynamics. ",
+      "course name": "Advanced Thermodynamics",
+      "units": "3 Units",
+      "id": "CSUS_ME 258",
+      "prerequisite": [
+        "ENGR 202"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fundamentals of computational fluid dynamics, modeling of physical processes, including the fluid flow, heat and mass transfer, and computer skills. Basic concepts of numerical analysis using computer, including the solutions of ordinary and partial differential equations. Basic hands-on experience on using commercial computational fluid dynamics software packages. ",
+      "course name": "Introduction to Computational Fluid Dynamics",
+      "units": "3 Units",
+      "id": "CSUS_ME 259",
+      "prerequisite": [
+        "ENGR 132",
+        "ME 105",
+        "ME 126"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Computer analysis, synthesis and modeling of physical systems including single and multiple degree of freedom, and linear/nonlinear systems. Use of Computer-Aided Modeling software (CAMP-G) and Advanced Digital Simulation Languages (ADSL). Design and analysis of multi-energy systems using Block Diagrams, Bond Graphs, and state space equation representation. Design of electromagnetic, electro-hydraulic servomechanisms, actuators and driven systems; introduction to multi-variable control of complex systems; stability, controllability, and observability. ",
+      "course name": "Advanced Computer-Aided Design of Dynamic Systems",
+      "units": "3 Units",
+      "id": "CSUS_ME 270",
+      "prerequisite": [
+        "ME 114",
+        "ME 171"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Finite-element methods in the analysis and optimal design of machine components, structures, and distributed systems. Generation of FEA models using computers. Theoretical and practical application of a finite element code such as PATRAN to the solution of engineering problems. Topics include static and vibration analysis, stress analysis buckling, normal modes, direct and modal frequency response, transient analysis, and heat transfer. ",
+      "course name": "Finite Element Modeling in Computer-Aided Design",
+      "units": "3 Units",
+      "id": "CSUS_ME 272",
+      "prerequisite": [
+        "ME 105",
+        "ME 173"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Analysis and design of rigid and flexible multi-body assemblies in two and three dimensions with applications to mechanisms, machinery, ground and space vehicles. Kinematic and kinetic analysis in two and three dimensions; impulsive and impact forces; modes of vibration. Use of solid modeling, dynamic analysis and finite element analysis methods. ",
+      "id": "CSUS_ME 273",
+      "course name": "Multibody Dynamics of Rigid and Flexible Systems"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Review of Laplace Transforms, matrix algebra, and aerodynamics. Derivation of aircraft rigid body equations of motion. Linearization of the equation of motion about reference flight (trim) condition, and separation into longitudinal and lateral equations of motion. Determination of aerodynamic stability derivatives and control effectiveness. Trim analysis, static and dynamic stability and control. Aircraft handling qualities and stability augmentation. Simulation of aircraft response to control and atmospheric inputs. ",
+      "course name": "Introduction to Flight Dynamics",
+      "units": "3 Units",
+      "id": "CSUS_ME 274",
+      "prerequisite": [
+        "MATH 45",
+        "ENGR 110"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Review of structural analysis: elasticity, virtual work and energy methods, torsion of solid sections, bending of plates, columns. Analysis of aircraft structures: materials, structural components of aircraft, airworthiness, airframe loads, fatigue, structural idealization, fuselages, wings. ",
+      "id": "CSUS_ME 275",
+      "course name": "Analysis of Aircraft Structures"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced study of mechanical and structural vibrations. Discrete and distributed parameter systems with linear and nonlinear characteristics. Variational principle, Lagrange's equation and finite element method. Matrix equation and eigenvalue problems. Modal analysis and modal testing. Stability and control. Theory developed through physical problems. ",
+      "course name": "Advanced Vibration Theory",
+      "units": "3 Units",
+      "id": "CSUS_ME 276",
+      "prerequisite": [
+        "ME 114",
+        "ME 171",
+        "CE 166"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Systems Engineering approach to plan and direct engineering projects. Emphasizes systems engineering process, requirement design fundamentals, subsystem fundamentals, trade studies, integration, technical reviews, case studies and ethics. Space exploration used as an example; skills applicable to any engineering project. Project-orientated course to plan the design of space and ground vehicles, satellites, airplanes and multidisciplinary subsystems. ",
+      "course name": "Space Systems Engineering Management",
+      "units": "3 Units",
+      "id": "CSUS_ME 278",
+      "prerequisite": [
+        "ENGR 110"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Mechanical properties of materials, with special attention to dislocations/defects and deformation and fracture control mechanisms. Mechanical properties of conventional engineering materials as well as advanced materials such as nanostructured materials are considered. Effects of defects on mechanical behavior at ambient and elevated temperature are discussed with attention given to strengthening mechanisms, creep, fatigue and fracture. ",
+      "course name": "Advanced Mechanical Properties of Materials",
+      "units": "3 Units",
+      "id": "CSUS_ME 280",
+      "prerequisite": [
+        "ME 180"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Comprehensive study of material applications in extreme environments, with special attention to mechanical, thermal and electronic behavior. Extreme temperature, pressure. corrosive or toxic environments and high rate deformation are considered. Currently available materials as well as emerging materials are explored for specific applications such as undersea, outer space, ballistic, nuclear, combustion, and other extreme application arenas. ",
+      "course name": "Materials for Extreme Environments",
+      "units": "3 Units",
+      "id": "CSUS_ME 285",
+      "prerequisite": [
+        "ME 180",
+        "PHYS 110"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Units may not be applied toward meeting the 30-unit requirement of the degree.  ",
+      "description": "Supervised employment in industry or government that provides practical work experience.  Requires satisfactory completion of the work assignment and a written report. ",
+      "id": "CSUS_ME 295",
+      "course name": "Fieldwork"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to analytical and systematic design methodologies in creative and quality product design. Topics include product design process, creative conceptual design tools such as axiomatic design, theory of inventive problem solving (TRIZ), and engineering decision making. Quality product design including design of experiments, robust design techniques, and design optimization. Assignments include application of these principals to solving open-ended design problems using computing tools. Two hour lecture; Three hour laboratory. ",
+      "course name": "Creative Engineering Design for Quality Products",
+      "units": "3 Units",
+      "id": "CSUS_ME 296L",
+      "prerequisite": [
+        "ME 138",
+        "ME 180"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced topics in heat transfer including analytical and numerical solutions to heat conduction equations in both the steady and unsteady state; use of approximate and analytical techniques for the prediction of convective heat transfer in laminar and turbulent flows, heat transfer in high-velocity flows; analysis of the nature of thermal radiation and radiative heat transfer in enclosures. ",
+      "course name": "Advanced Heat Transfer",
+      "units": "3 Units",
+      "id": "CSUS_ME 296O",
+      "prerequisite": [
+        "ME 126",
+        "ENGR 202",
+        "ENGR 202"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Newtonian mechanics: Newton's laws, impulse and momentum, work and energy. Analytical mechanics: Degrees of freedom, generalized coordinates, constraints. Lagrange multipliers, principles of virtual work, D'Alembert's principle, Hamilton's principle, Lagrange's equation of motion. Rotating reference frames. Rigid body dynamics: kinematics, linear and angular momentum, and kinetic energy of a rigid body, principle axes, equations of motion. Euler angles. Behavior of dynamic systems: motion about equilibrium points, stability, Lyapunov's direct method. Perturbation techniques: secular terms, Lindstedt's method, Duffing's equation. ",
+      "id": "CSUS_ME 296P",
+      "course name": "Advanced Dynamics"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced topics in computer-aided design for mechanical product design. Reviews on fundamental part and assembly modeling, and engineering drawings. Advanced modeling topics such as surface modeling, top-down assembly, macros and API programming, manufacturing oriented design such as sheet metal, plastic and mold design. ",
+      "course name": "Advanced Solid Modeling",
+      "units": "3 Units",
+      "id": "CSUS_ME 296Q",
+      "prerequisite": [
+        "ME 116"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Design of aerospace systems including profile definition, constraints, operations and visualizations, component design, transformation features, and insertions using advanced CAD software such as CATIA. Creation of complete assembly design including creation of product files, identifying, inserting and displacing components, constraining parts, numbering parts and scene creation. Specifics of sheet metal design for aerospace design including creation of flange, cut-out, joggle, holes, stampings and patterns.",
+      "id": "CSUS_ME 296S",
+      "course name": "Advanced CAD for Aerospace Applications"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced topics in computer-aided design and applications for mechanical product design. Reviews of fundamental parts, assembly modeling, and engineering drawings. Advanced modeling topics such as surface modeling, design for manufacturing, simulation-based design, top-down assembly, macros and API programming. ",
+      "course name": "Advanced Computer-Aided Product Design",
+      "units": "3 Units",
+      "id": "CSUS_ME 296U",
+      "prerequisite": [
+        "ENGR 6",
+        "ME 116"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "description": "Design of Multi-Input/Multi-Output controllers using linear quadratic regulator method and advanced controls architectures. Architectures include Proportional, Proportional Integrator and Proportional Integrator Derivative (filter) schemes. The course also includes Digital Control, Optimal Control, Introduction to Guidance, Navigation and Control techniques. ",
+      "id": "CSUS_ME 296V",
+      "prerequisite": [
+        "ME 172"
+      ],
+      "course name": "Advanced Control System Design"
+    },
+    {
+      "units": "3 Units",
+      "description": "Study of the interaction of human body kinematics and dynamic biomechanics in accidents involving human activities and vehicles. Impact injury mechanisms, response of the human body using computer models and software analysis tools. Biomechanical response to impact, and tolerance levels. Human factors that influence the biomechanical reactions of people with their vehicles and the environment. Photographic and video analysis, computer graphics, and computer simulations. Forensic engineering to determine the dynamic forces that cause injury in different situations. ",
+      "id": "CSUS_ME 296W",
+      "prerequisite": [
+        "ENGR 110"
+      ],
+      "course name": "Accident Biomechanics"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Any properly qualified student who wishes to pursue a problem of his/her own choice may do so if the proposed subject is acceptable to the faculty member with whom he/she works and to his/her advisor.",
+      "id": "CSUS_ME 299",
+      "course name": "Special Problems"
+    },
+    {
+      "units": "1 - 6 Units",
+      "term": " Course may be repeated for no more than 6 units total.    ",
+      "description": "Completion of a thesis. Credit given upon successful completion of a Master's Thesis (4 - 6 units; maximum 6 units). ",
+      "id": "CSUS_ME 500",
+      "course name": "Master's Thesis"
+    }
+  ],
+  "subjectOf": {
+    "id": "ME",
+    "subject": "Mechanical Engineering"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Mechanical Engineering",
+    "id": "CSUS"
+  }
+}

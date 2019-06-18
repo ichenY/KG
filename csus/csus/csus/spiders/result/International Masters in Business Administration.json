@@ -1,0 +1,229 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A consistent emphasis on managerial accounting and reporting is cost identification, allocation and control. This course expands the traditional view of accounting to include an examination of the integration of the historic three tools with cost elements. This expanded view would include environmental and political costs, compliance with multinational reporting standards, tax compliance and treaty costs.", 
+      "id": "CSUS_IMBA 210", 
+      "course name": "Managerial Accounting"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides students a well-rounded understanding of the language and financial expectations/performance of organizations. Candidates will learn how to evaluate decisions from the perspective of shareholder and stakeholders. With this perspective they will be better equipped to make better business decisions and also understand the financial impact of those decisions.", 
+      "id": "CSUS_IMBA 211", 
+      "course name": "Global Corporate Finance"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Presents how modern marketing principles can be applied to real-world situations. The emphasis will be on studying strategies used by organizations in today's highly competitive and evolving marketplace. Case studies will be utilized to fully develop techniques for creating marketing programs given varying levels of resources and information available under diverse market conditions.", 
+      "id": "CSUS_IMBA 213", 
+      "course name": "Marketing Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Presents how business decisions are now made in an increasingly competitive and complex business environment. The emphasis will be on how to better respond to this challenge by using quantitative methods to forecast, extrapolate, analyze, and simulate a business situation for effective decision-making. Case studies will be used to develop those capabilities.", 
+      "id": "CSUS_IMBA 214", 
+      "course name": "Statistical Decision Making"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Covers the major challenges organizations deal with today as they attempt to manage their key technological resources as well as with implementing technological innovations. Addresses the digital opportunities and threats organizations face from senior management perspectives.", 
+      "id": "CSUS_IMBA 215", 
+      "course name": "Information Technology Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Reviews the organization theory from a macro perspective (structure, process, technology, people, and culture). Special attention will be paid to organization structure, human resources, design, control, culture and inter-organizational relationship.", 
+      "id": "CSUS_IMBA 216", 
+      "course name": "Human Resource Management in Intl Perspective"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Addresses such topics as comparative legal environments in international business, dispute settlement, foreign investment, money and banking, trade in goods, services and labor, intellectual property, sales, transportation, financing and taxation, multinational enterprise, and ethical standards and the responsible roles of business in international society.", 
+      "id": "CSUS_IMBA 217", 
+      "course name": "Business Law and Legal Environment"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduces students to the principles and dynamics of international financial markets and institutions. Addresses the operational aspects of global financial institutions with the emphasis on foreign exchange risk management problem. The major objective is to have students develop an operational understanding of the financial problems faced by nations as well as the local and multinational corporation. ", 
+      "course name": "Global Financial Institutions and Markets", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 231", 
+      "prerequisite": [
+        "IMBA 211"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines in detail the global business operations within the context of today's international trade. International trade has an era typified by unprecedented worldwide production and distribution. Provides students with and understanding of these changes, and their impact on international trade. The primary objective is to prepare students to identify and respond to new opportunities and challenges in international trade. ", 
+      "course name": "International Trade", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 232", 
+      "prerequisite": [
+        "IMBA 231"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "The main objective is to provide students with a framework for making financial decisions in the international business arena. To this end, relevant features of exchange rate instruments and their determination, international equity markets, international investments will be covered. Also addressed is the issue of exposure to foreign exchange rate risk and associated hedging strategies. ", 
+      "course name": "International Investments", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 233", 
+      "prerequisite": [
+        "IMBA 231"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Focuses on exploring contemporary issues in international finance. Emphasis is placed on exploring and discussing: new financial investment instruments and consideration of the risk and return of the Venture Capital firms as an investment vehicle; the U.S. based Private Equity Funds around the world and the tools and techniques for managing foreign exchange risk; and the process of Initial Public Offerings (IPO) in different economies. ", 
+      "course name": "Contemporary Issues in International Finance", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 234", 
+      "prerequisite": [
+        "IMBA 231"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Takes a global perspective in dealing with management issues in both foreign and diverse host environments. Communication and cross-cultural management issues are addressed in the context of changing global environments, especially in rapidly growing regions and countries. ", 
+      "course name": "Comparative International Management", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 241", 
+      "prerequisite": [
+        "IMBA 216"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Focuses on managerial challenges associated with developing strategies and managing operations of multinational corporations (MNCs) where activities stretch across national boundaries. A cross-cultural and functional perspective is adopted in investigating MNCs' operating environments and competitive strategies through the analysis and discussion of selected case materials. ", 
+      "course name": "Multinational Corporate Management", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 242", 
+      "prerequisite": [
+        "IMBA 216"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduce the major concepts and tools for the delivery of enhanced customer and economic value through global synchronized management of the flow of physical goods and associated information from sourcing to consumption. Includes key topics in purchasing, supply chain management, and distribution and logistics management. ", 
+      "course name": "Global Supply Chain Management", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 243", 
+      "prerequisite": [
+        "IMBA 216"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Covers all phases of managing projects, from project selection to project termination. Specific topics include project life cycle, project selection methods, planning and scheduling techniques, accounting and budgeting methods, resource allocation, procurement and contract negotiation, organizational and ethical issues, and project termination. Current issues and cases will also be discussed, and software systems, such as MS Project and Internet-based file sharing systems will be incorporated into relevant portions of the course. ", 
+      "course name": "Project Management", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 244", 
+      "prerequisite": [
+        "IMBA 216"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the management of information technology as a vital resource to an organization. As a vital resource, the business must effectively and efficiently manage and secure its IT resources. ", 
+      "course name": "Information Technology Resource Management", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 251", 
+      "prerequisite": [
+        "IMBA 215"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "As an organizational integrator, IT presents many new opportunities at the enterprise level to design and implement new organizational structures and business processes. Enterprise IT primarily involves enterprise resource planning (ERP), supply chain management (SCM), knowledge management (KM) and customer relationship management (CRM) to support and seamlessly coordinate business activities. ", 
+      "course name": "Enterprise Information Technology Planning", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 252", 
+      "prerequisite": [
+        "IMBA 215"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Strategic IT planning defines the direction a business chooses to direct its IT resources. It encompasses a vision, mission, strategy and objectives that closely align to the business' vision, mission, strategy and objectives. Planning involves examining how IT will support the achievement of the business' goals and objectives, and how IT can open new opportunities to create new business goals. ", 
+      "course name": "Strategic Information Technology Planning", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 253", 
+      "prerequisite": [
+        "IMBA 215"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Implementing IT initiatives requires a business to not only carefully evaluate their alignment to the business' goals and objectives, but to identify and assess risks that they present. Selecting projects requires a comparison of their feasibility, complexity, scalability and impact. A project portfolio provides a means to direct the right resources to the right projects to ensure their completion at the right time. Plans must be developed and key performance measures identified and tracked. ", 
+      "course name": "Information Technology Project Management", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 254", 
+      "prerequisite": [
+        "IMBA 215"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Leadership plays an important role in determining a business' success with IT. It requires recognizing and leveraging the business' competencies and core values, and championing initiatives and projects that work in the best interest of the business and create value. Examines the various elements that comprise IT leadership. ", 
+      "course name": "Information Technology Leadership", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 255", 
+      "prerequisite": [
+        "IMBA 215"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit ", 
+      "description": "When a sufficent number of qualified students apply, a faculty member may conduct a seminar on a designated advanced topic in executive management. ", 
+      "id": "CSUS_IMBA 296", 
+      "course name": "Experimental Offerings in Executive Management"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Enrollment requires approval of faculty member supervising work in addition to the approval of the Associate Dean for Graduate and External Programs. Petitions to be obtained from the Graduate Business Advising Center (GBAC).  ", 
+      "description": "Individual projects or directed readings for students qualified to carry on in independent work. ", 
+      "id": "CSUS_IMBA 299", 
+      "course name": "Special Problems in Business"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced studies of leadership in business organizations. The key themes of the course are leading teams and leading during times of change. An integral part of the course is to study current business leaders and analyze their leadership practices. Leadership is studied in an integrated fashion based on different business functions and industrial experiences. Successful completion of this course satisfies the culminating experience for the IMBA program. ", 
+      "course name": "Leadership and Change Management", 
+      "units": "3 Units", 
+      "id": "CSUS_IMBA 500", 
+      "prerequisite": [
+        "IMBA 210", 
+        "IMBA 211", 
+        "IMBA 213", 
+        "IMBA 214", 
+        "IMBA 215", 
+        "IMBA 216", 
+        "IMBA 217", 
+        "IMBA 210", 
+        "IMBA 211", 
+        "IMBA 213", 
+        "IMBA 214", 
+        "IMBA 215", 
+        "IMBA 216", 
+        "IMBA 217"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "IMBA", 
+    "subject": "International Masters in Business Administration"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "International Masters in Business Administration", 
+    "id": "CSUS"
+  }
+}

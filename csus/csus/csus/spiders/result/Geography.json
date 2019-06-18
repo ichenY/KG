@@ -1,0 +1,481 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Introductory study of the distribution over the face of the earth of selected aspects of climate, plant cover, soils, and landforms and of processes and conditions giving rise to these distributions. The use of maps as communicative devices in comparative analysis and study of distribution and processes.", 
+      "id": "CSUS_GEOG 1", 
+      "course name": "Physical Geography: The Distribution of Natural Phenomena"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Consideration of the diversity of patterns of land use, settlement and movement established and evolved by humans as a result of the interaction of cultural and physical factors; emphasis on student use of maps and other tools of geographic presentation for analyzing the nature, variation and distribution of cultural features of the earth's surface.", 
+      "id": "CSUS_GEOG 2", 
+      "course name": "Cultural Geography"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " This is a special offering designed as part of the G.E. Honors program.  ", 
+      "description": "Consideration of the diversity of patterns of land use, settlement and movement established and evolved by humans as a result of the interaction of cultural and physical factors; emphasis on student use of maps and other tools of geographic presentation for analyzing nature, variation and distribution of cultural features of the earth's surface. ", 
+      "id": "CSUS_GEOG 2H", 
+      "course name": "Cultural Geography - Honors"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Introduction to maps, map concepts, and geographic technologies. Maps are the most effective way to communicate spatial data, and introduces students to the quickly changing world of maps (both hard-copy and digital) and geographic technologies including map and aerial photograph interpretation, spreadsheet operations, introductory statistics, global positioning systems (GPS), Internet mapping, satellite and aerial images, and geographic information systems (GIS) that aid in data collection, analysis, and presentation. Lecture two hours; laboratory two hours.", 
+      "id": "CSUS_GEOG 3", 
+      "course name": "Introduction to Maps and Geographic Technologies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to meteorological and climatological principles and concepts. These principles will be used to examine severe atmospheric phenomena, including hurricanes, tornadoes, thunderstorms, lightning, destructive winds, severe storms, heat waves, droughts and floods, particularly in relation to human-caused climate change and the effects of these phenomena on humanity.", 
+      "id": "CSUS_GEOG 5", 
+      "course name": "Violent Weather/Changing Atmosphere"
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Makes the ideas and relationships of introductory physical geography more clear by observation and experiment.  Use is made of maps, globes, models, meteorological instruments and records, satellite photos and observations of the local scene.  Laboratory, three hours. ", 
+      "course name": "Laboratory in Physical Geography", 
+      "units": "1 Unit", 
+      "id": "CSUS_GEOG 11", 
+      "prerequisite": [
+        "GEOG 1"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of the content of geography with a consideration of basic concepts and methods. Emphasis is on patterns and relationships of the elements and manifestations of physical and cultural geography, including both topical and regional discussions. ", 
+      "id": "CSUS_GEOG 100", 
+      "course name": "Themes In World Geography"
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Study and discussion of geographic ideas, including the history of the discipline. Introduction to library resources appropriate to geographic inquiry. Practice in geographic descriptive and analytical writing and research. Extensive use of maps. Required of Geography majors in the junior year. Lecture three hours. ", 
+      "course name": "Ideas and Skills in Geography", 
+      "units": "3 Units", 
+      "id": "CSUS_GEOG 102", 
+      "prerequisite": [
+        "GEOG 1", 
+        "GEOG 2", 
+        "GEOG 3", 
+        "GEOG 11"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Preparation of maps and diagrams, emphasizing thematic map design using various mapping and design programs.  Detailed study of important map projections.  Passing score on ELM exam recommended.  Lecture one hour, laboratory six hours. ", 
+      "course name": "Computer Cartography", 
+      "units": "3 Units", 
+      "id": "CSUS_GEOG 105", 
+      "prerequisite": [
+        "GEOG 109"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Aerial photographs and scanned satellite images, emphasis on the former. Topics include the electromagnetic spectrum, cameras, films, image geometry as related to planimetric and topographic mapping, multispectral techniques, and interpretation of imagery, emphasizing land use and landforms. Lecture two hours; laboratory three hours.", 
+      "id": "CSUS_GEOG 107", 
+      "course name": "Remote Sensing"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Introduction to GIS, including history and overview of current applications; the nature of spatial data; geographic data structures, acquisition, analysis, and display of geographic data. Lab exercises use various computers and include both raster- and vector-based GIS systems. Lecture two hours; laboratory three hours.", 
+      "id": "CSUS_GEOG 109", 
+      "course name": "Geographic Information Systems"
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Builds on the introduction to the hardware, software and operations of GIS offered with the previous courses, providing the essentials required by a beginning GIS analyst or applications support specialist.  Emphasis will be placed on problem solving strategies in the context of GIS projects. ", 
+      "course name": "Advanced Geographic Information Systems", 
+      "units": "3 Units", 
+      "id": "CSUS_GEOG 110", 
+      "prerequisite": [
+        "GEOG 109"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Basic concepts of weather and weather elements: structure and general circulation of the atmosphere, earth's heat and water balance, precipitation, air masses and fronts, air pollution meteorology. Some micrometeorological concepts with application to air pollution, agriculture, and similar problems. ", 
+      "course name": "Elements Of Meteorology", 
+      "units": "3 Units", 
+      "id": "CSUS_GEOG 111", 
+      "prerequisite": [
+        "GEOG 1"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Study of the distribution of heat and moisture over the earth's surface. Basic processes by which heat and moisture acquire unequal distributions in space and time. Classification of climate. Climatic change. Climate models.", 
+      "id": "CSUS_GEOG 113", 
+      "course name": "Climate"
+    }, 
+    {
+      "term": " Field trip required.  ", 
+      "description": "Introduction to the geographic distribution of life. Communities and biomes, changing continents and climates, dispersal, colonization, extinction, life on islands, and past and present human impacts are examined. ", 
+      "course name": "Biogeography", 
+      "units": "3 Units", 
+      "id": "CSUS_GEOG 115", 
+      "prerequisite": [
+        "GEOG 1"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Study of past climate change and the techniques with which they are reconstructed.  Focus on the various temporal scales at which climate change operates.  Spatial variability of past, present and future climate changes.  Anthropogenic climate change in the context of natural climate variability. ", 
+      "course name": "Global Climate Change", 
+      "units": "3 Units", 
+      "id": "CSUS_GEOG 116", 
+      "prerequisite": [
+        "GEOG 1"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Study of the surface forms of the land with particular attention to their distribution and to the accompanying distribution of natural forces and processes which have brought the landforms into being. Study of landforms in the context of Quaternary environmental change. Identification and analysis of landforms using maps and other spatial data. Lecture three hours. ", 
+      "course name": "Landforms", 
+      "units": "3 Units", 
+      "id": "CSUS_GEOG 117", 
+      "prerequisite": [
+        "GEOG 1"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explores the evolving human role in transforming Earth's physical environments. Topics range from prehistoric extinction's to modern environmental problems in select regions. Emphasis is placed on wide-ranging effects of resource use and disposal, with particular reference to atmosphere and biological problems and sustainable solutions.", 
+      "id": "CSUS_GEOG 118", 
+      "course name": "Earth Transformed"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Using current geospatial technologies, such as remote sensing and GIS, the course provides an introduction to the distributions of climate, plant cover, soils, and landforms over the face of the earth. While examining processes and conditions that cause these distributions, students will also explore the methods and techniques that let us visualize these distributions, and use maps as communicative devices in our explorations of these topics.", 
+      "id": "CSUS_GEOG 119", 
+      "course name": "Visualizing Global Environments"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Present distribution and historical development of population, land use and industry in the U.S. and Canada in relation to regional variations in the physical environment and cultural heritage.", 
+      "id": "CSUS_GEOG 121", 
+      "course name": "United States and Canada"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Geographic setting and nature of Far Eastern civilization; origins, development and present outlines of settlement; cultures, resource use, economic structures, population, levels of technological achievement, and land use in China, Japan and Korea.", 
+      "id": "CSUS_GEOG 125", 
+      "course name": "Geography Of East Asia"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only \u2013 odd years", 
+      "description": "Emphasis is on sub-Saharan Africa with consideration given to selected topics such as population problems, industrialization, regional groupings, transportation, and internal and external relationships.", 
+      "id": "CSUS_GEOG 127", 
+      "course name": "Geography Of Africa"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only \u2013 even years", 
+      "description": "Survey of Europe with emphasis on its physical environment, contemporary demographic, economic, and ethnic patterns, and the changing political landscape. Consideration will also be given to Europe's historic and present-day links with other world regions, and to the geographic basis for many of the social, political, economic, and environmental challenges facing contemporary Europe.", 
+      "id": "CSUS_GEOG 128", 
+      "course name": "Geography Of Europe"
+    }, 
+    {
+      "term": "Fall only", 
+      "description": " may be taken for up to 9 units.", 
+      "course name": "Special Topics in Regional Geography A", 
+      "units": "3 Units", 
+      "id": "CSUS_GEOG 129A", 
+      "prerequisite": [
+        "GEOG 129B", 
+        "GEOG 129C"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "description": " may be taken for up to 9 units.", 
+      "id": "CSUS_GEOG 129B", 
+      "prerequisite": [
+        "GEOG 129A", 
+        "GEOG 129C"
+      ], 
+      "course name": "Special Topics in Regional Geography B"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": " may be taken for up to 9 units.", 
+      "id": "CSUS_GEOG 129C", 
+      "prerequisite": [
+        "GEOG 129A", 
+        "GEOG 129B"
+      ], 
+      "course name": "Special Topics in Regional Geography C"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Study of landforms, climate, vegetation, population distribution and change, industry, transportation, water, energy, and agriculture in California.", 
+      "id": "CSUS_GEOG 131", 
+      "course name": "California"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only \u2013 even years", 
+      "description": "Spatial organization of man's activities related to production, exchange and consumption. Attention is given to resource development and the areal variations of factors affecting it, to concepts of spatial interaction and to spatial aspects of agricultural, industrial and urban land use. An examination of problems related to regional economic development. Changing perceptions of spatial organization of economic activities is also considered. Emphasis is on both theoretical framework and case study applications.", 
+      "id": "CSUS_GEOG 141", 
+      "course name": "Geography of Economic Activity"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only \u2013 odd years", 
+      "description": "Focuses on how a place's social systems and physical systems intersect to create hazards. Considers the development of various theoretical approaches to hazards; risk perception and societal responses to hazard events; the history of U.S. disaster response; and approaches to risk/vulnerability assessment.", 
+      "id": "CSUS_GEOG 143", 
+      "course name": "Environmental Hazards and Society"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Spatial patterns of population numbers and characteristics; migration and spread of ideas; potential for economic and cultural developments.", 
+      "id": "CSUS_GEOG 145", 
+      "course name": "Population Geography"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only \u2013 odd years", 
+      "description": "Consideration of cities as centers of human activity from the rise of urban life in the Old and New Worlds to the present day patterns of metropolis and megalopolis. The functions and interactions of cities in Earth's limited space and on Earth's limited resources are studied historically and crossculturally. Also examined are changing perceptions of the urban phenomenon and attempts to enhance the quality of urban life.", 
+      "id": "CSUS_GEOG 147", 
+      "course name": "Urban Geography"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the theory and practice of urban and regional planning.  Topics include the history of planning, the development of comprehensive and land use plans, growth management, and transportation and environmental planning.  Includes guest speakers from the planning community as well as the opportunity to work on a project with a community organization or government agency to put into practice what is discussed in class.", 
+      "id": "CSUS_GEOG 148", 
+      "course name": "Urban and Regional Planning"
+    }, 
+    {
+      "term": "Spring only \u2013 odd years", 
+      "description": "Explores the geography of transportation using both theory and applications, quantitative and qualitative methods.  Topics include the history and economic importance of transportation systems for all major modes; their political, social, and environmental aspects; and basic analytical methods, including accessibility dynamics, network analysis, and spatial interaction models.  Focus will be on the U.S., with frequent reference to local issues, though material will be drawn on from around the world. ", 
+      "course name": "Transportation Geography", 
+      "units": "3 Units", 
+      "id": "CSUS_GEOG 149", 
+      "prerequisite": [
+        "GEOG 141", 
+        "GEOG 147", 
+        "GEOG 148"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course is an introduction to programming and scripting for intermediate GIS users, using an object-oriented programming approach. You will develop and write clearly documented and structured geoprocessing programs using the Python programming language and ArcPy, a site package (library) for ArcGIS geoprocessing tools. ", 
+      "course name": "Programming for GIS", 
+      "units": "3 Units", 
+      "id": "CSUS_GEOG 150", 
+      "prerequisite": [
+        "GEOG 109"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Study of the location and nature of the state's surface and underground water, including development by government agencies, water needs of cities, farms, recreation and wildlife, implications of water rights, water marketing and conservation, and management of floods, droughts and pollution.", 
+      "id": "CSUS_GEOG 161", 
+      "course name": "California's Water Resources"
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Introduction to developing a GIS project, including planning, database research, proposal writing, analysis and evaluation. Lecture 2 hours; Laboratory 3 hours. ", 
+      "course name": "Applied GIS", 
+      "units": "3 Units", 
+      "id": "CSUS_GEOG 163", 
+      "prerequisite": [
+        "GEOG 109"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Introduction to techniques useful in the analysis of spatial distributions and other geographic phenomena: basic  aspatial descriptive and inferential techniques, correlation, regression, and spatial inferential techniques.", 
+      "id": "CSUS_GEOG 181", 
+      "course name": "Quantitative Methods in Geography"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "Students learn and conduct an array of observational and qualitative research techniques used in human geography, including landscape observation, participant observation, interviews, surveys and questionnaires, group discussions (focus groups, charrettes, etc.), visual methods, archival research, and analyzing some of the writing styles commonly used in qualitative research. One learns the relative strengths and weaknesses of these techniques, their appropriate applications, ways to combine them in mixed-methods research, and how to analyze and represent the data. ", 
+      "id": "CSUS_GEOG 182", 
+      "prerequisite": [
+        "GEOG 102"
+      ], 
+      "course name": "Qualitative Methods in Geography"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Writing-intensive capstone course requiring students to complete independent research projects displaying their mastery of geography's content and methods. Projects undertaken in a given semester share a common thematic and/or regional focus. Students use bibliographic, field, spatial analytic, graphic, and verbal skills. Context for projects is provided by a review of the recent history of the discipline. Lecture/discussion three hours. ", 
+      "course name": "Senior Research Seminar in Geography.", 
+      "units": "3 Units", 
+      "id": "CSUS_GEOG 190", 
+      "prerequisite": [
+        "GEOG 1", 
+        "GEOG 2", 
+        "GEOG 3", 
+        "GEOG 102", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "1 - 2 Units", 
+      "term": "Fall, Spring", 
+      "description": "A particular geographical area is explored and studied via beginning-level field observation. Emphasis may be placed on physical features, cultural features, or both. ", 
+      "id": "CSUS_GEOG 192A", 
+      "course name": "Geography Field Experience A"
+    }, 
+    {
+      "units": "1 - 2 Units", 
+      "term": "Fall, Spring", 
+      "description": "A particular geographical area is explored and studied via intermediate-level field observation. Emphasis may be placed on physical features, cultural features, or both. ", 
+      "id": "CSUS_GEOG 192B", 
+      "course name": "Geography Field Experience B"
+    }, 
+    {
+      "units": "1 - 2 Units", 
+      "term": "Fall, Spring", 
+      "description": "A particular geographical area is explored and studied via advanced-level field observation. Emphasis may be placed on physical features, cultural features, or both. ", 
+      "id": "CSUS_GEOG 192C", 
+      "course name": "Geography Field Experience C"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only \u2013 odd years", 
+      "description": "Examines the internal structure and external relations of Sacramento as a metropolitan center and of nearby urban communities through field observation and exercises. Emphasis is placed on mapping and interviewing as ways of gaining useful information on urban patterns. ", 
+      "id": "CSUS_GEOG 193A", 
+      "course name": "Field Geography: Urban-Metropolitan"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "Examines competition for land use in suburban Sacramento as urban sprawl overruns less intensive uses. Small towns in the lower Sacramento Valley also examined. Group field trips, interviews, field mapping and discussions. ", 
+      "id": "CSUS_GEOG 193B", 
+      "course name": "Field Geography: Suburban-Rural"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Survey of selected areas with systematic examination of elements of the natural landscape. Group field trips and individual preparation of reports and consultation with instructor. ", 
+      "id": "CSUS_GEOG 193C", 
+      "course name": "Field Geography: Physical"
+    }, 
+    {
+      "units": "6 - 12 Units", 
+      "term": "Fall, Spring", 
+      "description": "Supervised employment in a company or agency doing geography-related work, arranged through the Department of Geography and the Cooperative Education Program office. Requires preparation of application packet, completion of a 3-6 month full- or part-time work assignment, and a written report. Units not applicable to the Geography major. ", 
+      "id": "CSUS_GEOG 194", 
+      "course name": "Geography - Related Work Experience"
+    }, 
+    {
+      "term": " may be taken for up to 6 total units. ", 
+      "description": "Supervised work experience at the beginning level in an approved professional environment, working with professionals in public or private organizations. Supervision supplied by a geography faculty member and on-site supervisor. Placements require 4-12 hours per week, depending on units. ", 
+      "course name": "Geography Internship A", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_GEOG 195A", 
+      "prerequisite": [
+        "GEOG 195A", 
+        "GEOG 195B", 
+        "GEOG 195C"
+      ]
+    }, 
+    {
+      "term": " may be taken for up to 6 total units. ", 
+      "description": "Supervised work experience at an intermediate level in an approved professional environment, working with professionals in public or private organizations. Supervision supplied by a geography faculty member and on-site supervisor. Placements require 4-12 hours per week, depending on units. ", 
+      "course name": "Geography Internship B", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_GEOG 195B", 
+      "prerequisite": [
+        "GEOG 195A", 
+        "GEOG 195B", 
+        "GEOG 195C"
+      ]
+    }, 
+    {
+      "term": " may be taken for up to 6 total units. ", 
+      "description": "Supervised work experience at an advanced level in an approved professional environment, working with professionals in public or private organizations. Supervision supplied by a geography faculty member and on-site supervisor. Placements require 4-12 hours per week, depending on units. ", 
+      "course name": "Geography Internship C", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_GEOG 195C", 
+      "prerequisite": [
+        "GEOG 195A", 
+        "GEOG 195B", 
+        "GEOG 195C"
+      ]
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": " May be repeated for up to 6 units of credit.  ", 
+      "description": "Co-curricular activities related to subject matter and concerns of the Geography Department, e.g. students may qualify for credit by providing special tutorial assistance to EOP students or others in introductory courses. ", 
+      "id": "CSUS_GEOG 198", 
+      "course name": "Co-Curricular Activities"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open only to students competent to carry on individual work.  ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_GEOG 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open only to students competent to carry on individual work.  ", 
+      "description": "Individual projects or directed reading at a beginning level. Graded (CR/NC Available) Units: 1.0 - 3.0 ", 
+      "id": "CSUS_GEOG 199A", 
+      "course name": "Geography Special Problems A"
+    }, 
+    {
+      "term": " Open only to students competent to carry on individual work.  ", 
+      "description": ". Graded (CR/NC Available) Units: 1.0 - 3.0 ", 
+      "course name": "Geography Special Problems B", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_GEOG 199B", 
+      "prerequisite": [
+        "GEOG 199A"
+      ]
+    }, 
+    {
+      "term": " Open only to students competent to carry on individual work.  ", 
+      "description": ". Graded (CR/NC Available) Units: 1.0 - 3.0 ", 
+      "course name": "Geography Special Problems C", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_GEOG 199C", 
+      "prerequisite": [
+        "GEOG 199A", 
+        "GEOG 199B"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open only to students competent to carry on individual work.  ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_GEOG 299", 
+      "course name": "Special Problems"
+    }
+  ], 
+  "subjectOf": {
+    "id": "GEOG", 
+    "subject": "Geography"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Geography", 
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,744 @@
+{
+  "courses": [
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Introduction to the RPTA major with an emphasis on degree options, major advising, referrals to GE for general advising, information about the RPTA undergraduate student association, other local, statewide and national professional associations, scholarship opportunities, the 600-hour volunteer/paid placement prior to the internship, an overview of the internship process and a discussion about producing work in core and non-core RPTA courses for the portfolio requirement. ",
+      "id": "CSUS_RPTA 1",
+      "course name": "Orientation to Recreation, Parks and Tourism Administration"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Freshman seminar intended to provide students with an introduction to the nature and possible meanings of higher education and the functions and resources of the University.  Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills.  Also provide students with an opportunity to interact with fellow students and the seminar leader and to build a community of academic and personal support.",
+      "id": "CSUS_RPTA 21",
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Orientation to the nature, scope and significance of the recreation, park and tourism in today's world. Analyzes philosophical and related elements essential to the effective delivery of leisure services, including the role of affective, cognitive and social motivations and outcomes.",
+      "id": "CSUS_RPTA 30",
+      "course name": "Recreation, Parks and Tourism in Contemporary Society"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The purpose of this course is for students to develop an understanding of the theory and practice of leadership in various recreational organizational settings. The course will allow students the opportunity to develop leadership skills through lectures, self-assessments, experiential exercises, class discussions and case studies. Students are exposed to diverse theories and perspectives on leadership and are encouraged to apply critical thinking skills to develop their own working philosophy of the leadership that will serve them in their career contexts.",
+      "id": "CSUS_RPTA 32",
+      "course name": "Leadership and Group Development"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examination of the role of leisure in the social construction of markers of identity across gender, race, class, sexuality and disability; and leisure's role in the construction of institutional oppressions such as racism, sexism, homophobia and discrimination based on class and disability.",
+      "id": "CSUS_RPTA 33",
+      "course name": "Race, Class Gender and Leisure"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Encourages the student to identify and demonstrate an understanding of the value, meaning and benefits of outdoor recreation experiences and to explore a variety of outdoor adventure experiences. Outing skills such as trip planning, meal preparation, camp selection and set-up, equipment and clothing, map and compass, hygiene and first aid will be discussed and practiced. Students will also develop an awareness of and appreciation for minimum impact wilderness travel techniques and environmental responsibility and ethics.",
+      "id": "CSUS_RPTA 34",
+      "course name": "The Outdoor Recreation Experience"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the use of natural, cultural, and heritage resources for recreation, tourism and leisure purposes in a variety of settings and under the auspices of various agencies. Includes study of various protected areas and facilities, including parks, forests, museums, and cultural sites and how they are influenced by social trends, conflicting use demands, agency responsibilities, environmental considerations, and fiscal implications. ",
+      "id": "CSUS_RPTA 42",
+      "course name": "Recreation and Parks: Natural, Cultural, and Heritage Resources"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Designed to provide students with the basic knowledge, skills, and techniques of modern rock climbing. Students will learn skills pertaining to indoor top-rope and lead climbing, indoor and outdoor bouldering, and outdoor sport climbing. Students will also learn and discuss outdoor ethics and environmental impact in relation to rock climbing.",
+      "id": "CSUS_RPTA 50",
+      "course name": "Introduction to Rock Climbing"
+    },
+    {
+      "term": " may be counted for credit  ",
+      "description": "Introduces students to budget topics in Recreation, Parks, and Tourism, through the use of theoretical readings, case studies, and a series of professional speakers. Students will gain a broad understanding of the planning and implementation of the budget process for a leisure service agency, primarily those that are non-profit or tax-supported.  ",
+      "course name": "Budgeting for Recreation Services",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 60",
+      "prerequisite": [
+        "RPTA 60",
+        "RPTA 61"
+      ]
+    },
+    {
+      "term": " may be counted for credit  ",
+      "description": "Introduces students to a broad range of topics related to cost management in hospitality, and teaches students to analyze numerical data for decision-making in hospitality operations. Considers systems, techniques, information types, and presentational forms commonly used by hospitality managers. Additional topics include, financial statements and ratio analysis, various pricing methods, types of costs in hospitality and service industries, cost-volume-profit techniques, and the application of standard cost controls used in hospitality.  ",
+      "course name": "Cost Management for Hospitality",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 61",
+      "prerequisite": [
+        "RPTA 60",
+        "RPTA 61"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduces students to legal topics and regulations in Recreation, Parks and Tourism industries. Students are given a practical knowledge of the law, operation of the legal system, contracts, and legal applications to agency management, human rights and personnel. Course uses text book readings, case law from actual published decisions in the field of Recreation law, courtroom visitations, and professional speakers.  ",
+      "id": "CSUS_RPTA 62",
+      "course name": "Introduction to Recreation Law"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Hospitality and tourism are vitally important to California's image and economy, and these two related industries are among the world's top employment providers. This course provides an introductory overview of the broad hospitality and tourism industries, covering several topics, including growth and development, trends and current concerns, and professional employment sectors.",
+      "id": "CSUS_RPTA 80",
+      "course name": "Introduction to Hospitality and Tourism"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduces students to budget topics in Recreation, Parks, and Tourism, through the use of theoretical readings, case studies, and a series of professional speakers. Students will gain a broad understanding of the planning and implementation of the budget process for a leisure service agency, primarily those that are non-profit or tax-supported. ",
+      "id": "CSUS_RPTA 96B",
+      "course name": "Budgeting for Recreation Services"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Broad general overview of the recreation and leisure movement followed by a specific examination of changing leisure lifestyles and their impact on the individual's choice of recreation and leisure patterns. Also examine the impact that the choice of leisure lifestyles has on other aspects of the individual's life as well as the negative effects of restrictive or inadequate leisure involvement.",
+      "id": "CSUS_RPTA 100",
+      "course name": "Recreation and Leisure Lifestyle Development"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students will focus on identifying potential internships, refining resumes and writing cover letters for securing internships. Complete their portfolio requirement for graduation and learn about the alumni association for RPTA graduates. ",
+      "course name": "Senior Seminar",
+      "units": "1 Unit",
+      "id": "CSUS_RPTA 101",
+      "prerequisite": [
+        "RPTA 1"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "This senior level course is intended to build upon a student's previous coursework in recreation therapy, and link the theoretical foundation with day-today practical applications. Students will fine-tune skills and interests in recreation therapy, learn methods for effective networking, and develop interviewing techniques in order to identify appropriate internships and employment opportunities. ",
+      "course name": "Recreation Therapy Professional Practice",
+      "units": "1 Unit",
+      "id": "CSUS_RPTA 102",
+      "prerequisite": [
+        "RPTA 1",
+        "RPTA 106",
+        "RPTA 115",
+        "RPTA 116",
+        "RPTA 117",
+        "RPTA 118",
+        "RPTA 115",
+        "RPTA 116",
+        "RPTA 118"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Analyzes the functions of managers including planning, organizing, staffing, leading and controlling. Also examines basic principles, techniques and tools associated with these functions. Consideration of internal and external environments which influence the managerial process and the manager's role in various areas of enterprise activity. ",
+      "course name": "Management in Recreation, Parks and Tourism",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 105",
+      "prerequisite": [
+        "RPTA 30"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Addresses the etiology and nature of common disabling conditions and examines issues of leisure participation and inclusion for underrepresented populations. Topics include: attitudinal barriers, advocacy, normalization, universal design, activity analysis and modification, and legislation.  Emphasis on leadership, supervision and organizational development of inclusive and recreation therapy programs. ",
+      "id": "CSUS_RPTA 106",
+      "course name": "Introduction to Inclusive Recreation and Recreation Therapy"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "A detailed examination of grant writing as a means of augmenting agency revenues for specific recreation projects, programs and research. An in-depth assessment of techniques used to source funding opportunities relevant to recreation and leisure agencies. A review of budget preparation and grant management.  ",
+      "id": "CSUS_RPTA 107",
+      "course name": "Grant Writing for Leisure Organizations"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "Introduces the student to the use of micro-computers in recreation, park and leisure services enterprises. Emphasis will be on the application of word processing, data bases, spread sheets and graphics to the work of professionals within the field. Consideration will also be given to telecommunications, interactive video and desktop publishing.",
+      "id": "CSUS_RPTA 109",
+      "course name": "Computer Applications in Recreation, Parks and Tourism"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides students with tools to analyze leisure behavior, interests and the motivational basis of leisure as they apply to the field of recreation and leisure services. Emphasizes applied research techniques including qualitative, descriptive and analytical methods, and program evaluation. ",
+      "course name": "Research and Evaluation in Recreation, Parks and Tourism",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 110",
+      "prerequisite": [
+        "RPTA 1",
+        "RPTA 30"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Assessment procedures and instruments used to assure competence in assessment of client function in leisure. Documentation, assessment, regulations in different settings (i.e., community hospital, and clinical settings), protocols and development of individual treatment plans. Students are exposed to the Recreation Therapy process (APIE) in a variety of clinical and community settings. ",
+      "course name": "Recreation Therapy Assessment and Documentation",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 115",
+      "prerequisite": [
+        "CHDV 30",
+        "PSYC 168",
+        "RPTA 30",
+        "RPTA 106",
+        "RPTA 117"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Philosophy and principles underlying the work performed by the recreation therapist are studied including assessment, individual program planning, interpersonal interaction skills, and working with families. ",
+      "course name": "Recreation Therapy Principles and Practices and the Recreation Therapy Process",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 116",
+      "prerequisite": [
+        "CHDV 30",
+        "RPTA 30",
+        "RPTA 106",
+        "RPTA 117",
+        "RPTA 117"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "In-depth exploration of a variety of disabilities and diseases, including physical disabilities, developmental disabilities, intellectual disabilities, mental health, hearing and vision impairments, and disabilities related to aging. Content will focus on etiology, prognosis, symptomatic conditions, prescription drugs, and recreation therapy interventions. Medical terminology will be covered.  ",
+      "course name": "Recreation Therapy  and Contemporary Aspects of Disability",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 117",
+      "prerequisite": [
+        "RPTA 106",
+        "RPTA 106"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Covers basic concepts, methods and techniques associated with the practice of recreation therapy. Students will understand and apply the recreation therapy process through intervention and facilitation methods that are critical to helping clients in health and human service settings. The goal is to assist students in developing the ability to use recreation, leisure and play in recreation therapy programs as interventions in the treatment process. ",
+      "course name": "Recreation Therapy Facilitation Techniques",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 118",
+      "prerequisite": [
+        "CHDV 30",
+        "PSYC 168",
+        "RPTA 30",
+        "RPTA 106",
+        "RPTA 117"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of existing recreation programs in clinical settings (acute care hospitals, rehabilitation centers, state hospitals, skilled nursing facilities, intermediate care facilities, etc.); review of standards and regulations pertaining to recreation programs, development of recreation therapy programs, review of the roles of practitioners in related disciplines. Review of intervention techniques,  program organization, management, and advancement of the profession and professional ethics. ",
+      "course name": "Recreation Therapy Management and Advancement of the Profession",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 119",
+      "prerequisite": [
+        "BIO 25",
+        "CHDV 30",
+        "PSYC 168",
+        "RPTA 106",
+        "RPTA 115",
+        "RPTA 116",
+        "RPTA 117",
+        "RPTA 118"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "History, scope and process of leisure education. A survey of guidance theories and procedures, including assessment techniques, program development, implementation and evaluations. The role of leisure education in diverse leisure delivery systems and with diverse populations. Legal, ethical, and professional aspects of leisure education. ",
+      "course name": "Leisure Education",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 120",
+      "prerequisite": [
+        "RPTA 106"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Basic philosophical, historical, psychological and scientific foundations and developments in leisure and recreation theory; review of the cultural forces, institutions and theories that affect individuals and society. ",
+      "course name": "Perspectives On Leisure.",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 122",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Examines how recreation service providers work with diverse segments of the community. Class will examine a variety of populations that have been underserved and that may be at risk. Examines the impact of factors such as racism, sexism, classism, ageism, ableism and heterosexism that affect access to programs and services for diverse populations.",
+      "id": "CSUS_RPTA 128",
+      "course name": "Recreation Services for Diverse, Underserved and Underrepresented Populations"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course will focus on examining contemporary issues and trends related to young people and youth development in recreation, parks and tourism. Students will learn about youth development frameworks and how to apply those frameworks to recreation-based settings. Students will learn about the importance of engaging youth in the process of program planning and development.",
+      "id": "CSUS_RPTA 129",
+      "course name": "Youth Development in Recreation, Parks & Tourism"
+    },
+    {
+      "units": "3 Units",
+      "description": "This course emphasizes sport as a program component of community-based recreation services in both public and private settings. Students will develop skills related to successful sport program development, implementation and evaluation, through in-class lecture, site visits, and student developed projects. Additional topics will include promotion, funding, staffing, purchasing, and maintenance as related to managing sport programs.",
+      "id": "CSUS_RPTA 130",
+      "course name": "Community Sport Programming"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Students develop an understanding of the administration and programming of Morale, Welfare and Recreation Services for individuals serving in the military and their families. Recreation facilities and programs for all branches of the military, including the US Army, US Navy, US Marines, US Air Force and US Coast Guard, are covered.  The course utilizes lectures, experiential exercises, class discussions and onsite visits to military installations.",
+      "id": "CSUS_RPTA 131",
+      "course name": "Morale Welfare and Recreation (MWR): Military Recreation Services"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course introduces students to campus recreation programs. Students will be introduced to theories of student development in these recreational settings; the organizational context and history of recreational programs within a college setting; and the range of programming, facilities, and managerial duties within campus and base recreation. This will provide a great starting point for students preparing for a profession on campus, institutional and/or military recreation, or students wanting to broaden their knowledge in the overall field.",
+      "id": "CSUS_RPTA 132",
+      "course name": "Campus Recreation"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "The program/event planning process will be described and explained. Relevant principles and methods will be identified. Students will develop a program/event plan for a local organization. Field trips may be required. ",
+      "course name": "Program and Event Planning in Recreation, Parks and Tourism",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 136",
+      "prerequisite": [
+        "RPTA 32"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of institutions and leisure service systems within the community, and the dynamics of community organization practices and actions. The role of the recreation and leisure service practitioner in bringing about community changes. Defining and promoting citizen participation through advisory council membership, survey applications, and public hearing attendance.",
+      "id": "CSUS_RPTA 137",
+      "course name": "Community Organization"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Analyzes this varied, growth industry. Considers the range of conferences and meetings, from small corporate retreats to international conventions. Topics include: the scope of the industry, the role of convention centers, hotel and resort based meeting facilities, organizations that hold meetings and the nature of those meetings, meeting planning and the role of the professional planner and industry related careers. Field trips may be required. ",
+      "id": "CSUS_RPTA 139",
+      "course name": "Conference and Meeting Planning"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Exposes the students to theoretical and philosophical concepts of experiential education and provides a means through which they can put theory into practice in outdoor recreation settings. Using methods such as demonstrations, observation, presentations, and discussions, the course will explore the history and current trends of experience-based learning.",
+      "id": "CSUS_RPTA 148",
+      "course name": "Experiential Education in Outdoor Recreation Settings"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Provides students with the working knowledge needed to produce enriching and fulfilling adventure leisure experiences. In order to most effectively aid and assist others in the process of maximizing their leisure experiences, the student of leisure must first know how to maximize these experiences for and within themselves. Therefore, students will be participating in leisure adventure experiences so they can be as effective as possible when developing and programming leisure adventure experience opportunities for others.",
+      "id": "CSUS_RPTA 149",
+      "course name": "Developing and Programming Adventure Experiences"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the fundamentals of ecology, silvics, soil science and manipulations of an ecosystem with emphasis on the whole biota as it relates to outdoor recreation areas. Designed to provide an understanding of the scientific basis for and the operational rationale of manipulation of natural resources for a variety of recreation uses.",
+      "id": "CSUS_RPTA 150",
+      "course name": "Ecology Of Resource Areas"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Visitor safety in recreation areas as it relates to the role and functions of management. Emphasis is given to principles and current legislation in hazard reduction, deviant behavior, liability, law enforcement, and other related topics.",
+      "id": "CSUS_RPTA 151",
+      "course name": "Visitor Management in Recreation Areas"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "State, county and federal park rangers and wardens differ from other peace officers in that they are trained to protect visitors and cultural and natural resources on our public lands. This course offers a survey of topics related to the Peace Officer level of rangers across  America's diverse public land systems, with an emphasis on career opportunities in park, forest, and wildlife management.",
+      "id": "CSUS_RPTA 152",
+      "course name": "Law Enforcement for Forest and Park Rangers"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Connecting visitors to natural, cultural, and historic resources is the primary focus of this course. Theories, principles and techniques are covered focusing on interpreting park and protected area values to people during their leisure. Personal and non-personal communication techniques will be practiced. Field sites in and around the Sacramento region will be visited to understand the diverse nature of the practice of interpretation. Designed for ranger naturalists, park interpretive staff, teachers, camp leaders, outdoor educators, and recreation program staff.",
+      "id": "CSUS_RPTA 153",
+      "course name": "Environmental Interpretation"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "An introduction to aspects of recreation facility administration for several facility types, including campus recreation facilities, health clubs, community centers, park facilities and aquatic centers. Course topics include administration techniques related to staffing and outsourcing, the roles of the facility manager, analyzing financing sources, best practices in facility maintenance, and issues related to facility design. The course utilizes class discussions, guest speakers and facility site visitations on and off campus.",
+      "id": "CSUS_RPTA 154",
+      "course name": "Management of Recreation Facilities"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduces students to budget and legal topics in Recreation, Parks, and Tourism Administration, through the use of theoretical readings, case studies/legal cases, and a series of professional speakers. Three hour lecture.",
+      "id": "CSUS_RPTA 160",
+      "course name": "Legal and Budget Topics in RPTA"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Introduces students to principles and concepts of nonprofit leadership. This course will explore and provide an understanding of historical and philosophical foundations of nonprofit organizations; board/committee development and operation; and volunteer management. Students will also learn about fundraising methods and strategies. The course will consist of lecture, readings, discussion, guest speakers, nonprofit agency visitations, active learning exercises, and a community-learning component.",
+      "id": "CSUS_RPTA 164",
+      "course name": "Leadership and Fundraising for Non-profit Organizations"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "This course will focus on examining issues and trends related to volunteer management in recreation, parks and tourism-related organizations. Students will begin to understand the role of volunteerism and develop the skills necessary for effective volunteer management through: assessing program needs for volunteers, screening, orientation, training, placement, supervision, motivation, retention and celebration of volunteers.",
+      "id": "CSUS_RPTA 165",
+      "course name": "Volunteer Management in Recreation, Parks and Tourism"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Designed to provide the student with various in-depth perspectives regarding the use of management/administrative process in recreation, parks and tourism. ",
+      "course name": "Administration in Recreation, Parks and Tourism",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 166",
+      "prerequisite": [
+        "RPTA 105"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "This course is designed to introduce students to the historical and philosophical foundations of professionalism, and provide the necessary conceptual and technical competencies to organize and lead a successful professional organization/association. Political, legal and ethical issues will be discussed as well as the functions and roles of professional organizations/associations. The relationship between professionalism and advocacy will be examined. ",
+      "course name": "Professional Organization Leadership",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 167",
+      "prerequisite": [
+        "RPTA 30",
+        "RPTA 32",
+        "RPTA 105"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Overview of the historical and philosophical foundations of the commercial recreation field. Identification of providers of commercial recreation goods and services. Analyzes current functions and trends in the operation of commercial leisure enterprises.",
+      "id": "CSUS_RPTA 180",
+      "course name": "Foundations of Commercial Recreation"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Examination of the history, significance and nature of travel and tourism in the world with emphasis on the U.S. Analyzes economic, cultural and social factors underlying development and growth of travel and tourism and a review of related research. Identification and description of travel and tourism service providers including their organization, financing and management practices. Prerquisite: Declared RPTA majors and minors only or instructor permission",
+      "id": "CSUS_RPTA 182",
+      "course name": "Travel And Tourism"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fields of recreation (including therapeutic, commercial, municipal, etc.), tourism and hospitality, while diverse, all offer products that are primarily intangible. The management and marketing of such service products can differ profoundly from those of goods products (often the focus of traditional business programs). Addresses the nature of the service product and services marketing in the people intensive, experiential world of recreation. ",
+      "course name": "Marketing Recreation Services",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 183",
+      "prerequisite": [
+        "RPTA 30"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Introduces students to resorts and hotels and their position within the tourism and hospitality industries. The scope of the hospitality industry and various issues concerning the successful development of a hospitality product will be discussed. Prepares students to engage in an internship or employment in this or a related industry, including restaurants and retail. It also helps these and other students to reinforce concepts and skills learned elsewhere by providing concrete, real-world examples of marketing and management methods. ",
+      "id": "CSUS_RPTA 184",
+      "course name": "Hospitality Administration"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "In-depth analysis of the management of recreational business on a for-profit basis. Focuses on advanced topics, analytical skills, and problem solving in the management arena. ",
+      "course name": "Advanced Seminar in Commercial Recreation Administration",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 185",
+      "prerequisite": [
+        "RPTA 180",
+        "RPTA 105",
+        "RPTA 183",
+        "RPTA 183"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": " This course contains required field trips.  ",
+      "description": "Introduction to visitation and tourism related to California's craft beer industry, specifically in the Sacramento region. This course will provide students with a basic knowledge of craft beer as one of several local products that combine to create a unique agritourism selling proposition for Sacramento. Tourism-related products (beer festivals and contests, beer trails, beer bikes, and beer apps), hospitality (brewery tasting rooms and beer retail), as well as beer laws, and beer pairings will also be discussed. ",
+      "id": "CSUS_RPTA 188",
+      "course name": "Sacramento Region Craft Beer Tourism"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Introduction to the wine tourism and agri-tourism industries, specifically in the region surrounding Sacramento. Emphasis on wine regions, wineries as event stages, wine mythology and wine in popular culture. Additionally, the course will cover the role of agricultural festivals, related agri-tourism products, slow-food, specialty crop tourism, winery and farm retail, culinary destinations, wine list creation, ag natural tourism products and the role of agri-tourism as part of Sacramento's cultural identity. ",
+      "id": "CSUS_RPTA 189",
+      "course name": "California Wine and Agri-Tourism"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Individual goals, activities, and academic requirements for community service work and the service-learning credit option are outlined in a Service Learning Option/Contract agreed upon and signed by the student, instructor, and agency sponsor. Enrolled students are required to attend mid-semester and final learning assessment workshops and to complete written evaluations. Credit for the course awarded only if contract and course requirements are completed.",
+      "id": "CSUS_RPTA 191",
+      "course name": "Service Learning Option for Recreation, Parks and Tourism Administration Courses"
+    },
+    {
+      "term": " Refer to the RPTA Internship Manual for procedures and requirements.  ",
+      "description": "Supervised part-time or short-term internship in a recreation, park or tourism  organization or business.  Supervision is provided by faculty and also by personnel at the host site. ",
+      "course name": "Partial Internship: Recreation and Park Management",
+      "units": "4 Units",
+      "id": "CSUS_RPTA 195B",
+      "prerequisite": [
+        "RPTA 1",
+        "RPTA 30",
+        "RPTA 32",
+        "RPTA 42",
+        "RPTA 101",
+        "RPTA 105",
+        "RPTA 106",
+        "RPTA 109",
+        "RPTA 110",
+        "RPTA 136"
+      ]
+    },
+    {
+      "term": " Refer to the RPTA Internship Manual for procedures and requirements.  ",
+      "description": "Supervised part-time or short-term internship in a recreation, park or tourism organization or business. Supervision is provided by faculty and also by personnel at the host site. ",
+      "course name": "Partial Internship: Recreation and Park Management",
+      "units": "6 Units",
+      "id": "CSUS_RPTA 195C",
+      "prerequisite": [
+        "RPTA 1",
+        "RPTA 30",
+        "RPTA 32",
+        "RPTA 42",
+        "RPTA 101",
+        "RPTA 105",
+        "RPTA 106",
+        "RPTA 109",
+        "RPTA 110",
+        "RPTA 136"
+      ]
+    },
+    {
+      "term": " Refer to the RPTA Internship Manual for procedures and requirements.  ",
+      "description": "Supervised full-time therapeutic internship in a recreation, park or tourism organization or business. Supervision is provided by faculty and also by certified personnel at the host site. Meets the professional certification requirements at the  national or state levels. ",
+      "course name": "Recreation Therapy Internship",
+      "units": "10 - 15 Units",
+      "id": "CSUS_RPTA 195D",
+      "prerequisite": [
+        "BIO 25",
+        "CHDV 30",
+        "PSYC 168",
+        "RPTA 1",
+        "RPTA 30",
+        "RPTA 102",
+        "RPTA 106",
+        "RPTA 110",
+        "RPTA 115",
+        "RPTA 116",
+        "RPTA 117",
+        "RPTA 118",
+        "RPTA 119",
+        "RPTA 136"
+      ]
+    },
+    {
+      "term": " Refer to the RPTA Internship Manual for procedures and requirements.  ",
+      "description": "Supervised, full-time internship in a recreation, park or tourism organization or business. Supervision is provided by faculty and also by personnel at the host site. ",
+      "course name": "Internship: Recreation and Park Management",
+      "units": "10 - 15 Units",
+      "id": "CSUS_RPTA 195E",
+      "prerequisite": [
+        "RPTA 1",
+        "RPTA 30",
+        "RPTA 32",
+        "RPTA 42",
+        "RPTA 101",
+        "RPTA 105",
+        "RPTA 106",
+        "RPTA 109",
+        "RPTA 110",
+        "RPTA 136"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Traumatic life events affect individuals, families and communities. This course is designed to assist professionals working with survivors of traumatic events. Posttraumatic growth (PTG) is a positive focus, viewed from the perspective of the individual, secondary survivor, and the community. Clinical application illuminating a pathway toward PTG is also studied and discussed. The course incorporates current research, films, books, poems, plays, and interviews with survivors, will be used to profile individuals, families, communities, and organizations.",
+      "id": "CSUS_RPTA 196E",
+      "course name": "Introduction to Posttraumatic Growth"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Tourists are increasingly motivated to travel for food and drink. Visiting the location and touring the production facilities is also important. This course provides an overview of the global culinary and gastronomic tourism industry, focusing on the ability of a destination to market itself (both people and place) through food. The various social and cultural contexts in which gastronomic tourism takes place are discussed as well as positive and negative impacts of global and local gastronomic tourism. Field trip(s) may be required.",
+      "id": "CSUS_RPTA 196G",
+      "course name": "Gastronomic Tourism"
+    },
+    {
+      "units": "3 Units",
+      "description": "Revenue management is critical to the hospitality industry due to the perishable nature of a service based product.This course introduces students to topics related to revenue management in hospitality and teaches students techniques to manage revenue in a dynamic hospitality environment. Capacity management, demand and revenue forecasting, discounting, overbooking practices, channel management, and pricing execution for the hospitality operations are discussed. ",
+      "id": "CSUS_RPTA 196H",
+      "course name": "Revenue Management for Hospitality"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "This course is designed to provide a required knowledge of hotel and lodging operations. Students will acquire a solid understanding of how a variety of lodging types, specially hotels, operate by detailed examination of the departments common to most lodging properties, including the front office, sales and marketing, housekeeping, maintenance, and others. Additionally, topics relevant to operations like green initiatives and revenue optimization will be discussed in this course.",
+      "id": "CSUS_RPTA 196L",
+      "course name": "Hotel and Lodging Operations"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Comprehensive study of personnel management in today's hospitality profession, familiarizing students with many of the functions related to recruiting, selecting, orienting, training, and retaining outstanding lodging industry staff. Additionally, the course familiarizes students with the effects of rising labor costs, increasing competition for quality staff, changing employees\u00bf attitudes, evolving guest expectations, and a proliferation of new laws that impact human resources policies and activities.",
+      "id": "CSUS_RPTA 196M",
+      "course name": "Human Resources Management in the Hospitality Industry"
+    },
+    {
+      "term": " may be used to meet the major requirements.   ",
+      "description": "Co-curricular activities related to the subject matter and professional concerns of Recreation and Leisure Studies. For example, students may earn credit by participating as a tutor or discussion leader for recreation and leisure studies classes or a teacher or leader in programs offered by community organizations. ",
+      "course name": "Co-Curricular Activities",
+      "units": "1 - 3 Units",
+      "id": "CSUS_RPTA 198",
+      "prerequisite": [
+        "RPTA 198"
+      ]
+    },
+    {
+      "term": " in combination may be used to meet major requirements.  ",
+      "description": "Individual projects or directed reading. ",
+      "course name": "Special Problems",
+      "units": "1 - 3 Units",
+      "id": "CSUS_RPTA 199",
+      "prerequisite": [
+        "RPTA 198",
+        "RPTA 199"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides a comprehensive awareness of the historical, philosophical, psychological, experiential, and behavioral foundations of leisure. Global leisure perspectives examined in relationship to cultural diversity, current trends, future perspective, and economic implications. The art and science of providing fulfilling leisure experiences through private entrepreneurial recreations and public delivery systems explored.",
+      "id": "CSUS_RPTA 200",
+      "course name": "Foundations of Leisure Concepts and Application"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "The purpose of this course is to move students beyond conceptual foundations of leisure, recreation, parks and tourism administration to more theoretically advanced aspects of the field. In this course, students will pursue an in-depth exploration of the theories and research related to leisure, recreation, parks and tourism. ",
+      "course name": "Advanced Studies in Leisure, Recreation, Parks and Tourism",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 201",
+      "prerequisite": [
+        "RPTA 200"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Major environmental and recreational issues and problems affecting the recreation, parks and tourism field are discussed, analyzed, and evaluated. Ramifications involving policy making and planning processes of major federal, state, and local agencies involved with recreation, parks and tourism delivery services are also covered.",
+      "id": "CSUS_RPTA 202",
+      "course name": "Policies, Issues, and Problems in Recreation, Parks and Tourism"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examination of contemporary resources, techniques, and tools available to administrators in various types of recreation, parks and tourism delivery systems.",
+      "id": "CSUS_RPTA 203",
+      "course name": "Advanced Administration in Recreation, Parks and Tourism"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides an analysis of major research methods used in recreation, parks and tourism administration. Addresses basic and applied research orientations, research designs, research proposals, data collection tools and methods, data analysis, and reporting of research findings. ",
+      "course name": "Advanced Research Methods in Recreation, Parks and Tourism",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 204",
+      "prerequisite": [
+        "RPTA 200",
+        "RPTA 202"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "In-depth analysis of the principles of legal liability as they pertain to recreation, parks and tourism administration.  An examination of the pervasive nature of risk as it pertains to the provision of recreation, parks and tourism programs and opportunities, and the concepts and methods of risk management.  Includes field trips, mock trials or other related activities. ",
+      "id": "CSUS_RPTA 206",
+      "course name": "Liability and Risk Management in Recreation, Parks and Tourism"
+    },
+    {
+      "term": " for credit.   ",
+      "description": "A detailed examination of grant writing as a means of augmenting agency revenues for specific recreation projects, programs and research. An in-depth assessment of techniques used to source funding opportunities relevant to recreation and leisure agencies. A review of budget preparation and grant management.  ",
+      "course name": "Grant Writing for Recreation, Parks and Tourism Organizations",
+      "units": "3 Units",
+      "id": "CSUS_RPTA 207",
+      "prerequisite": [
+        "RPTA 107",
+        "RPTA 207"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Surveys current and historical perspectives of leisure education from a multicultural and life span viewpoint.  Current modes of service delivery will be discussed as they relate to leisure theories.  Methods of leisure education provision in diverse settings from school-park collaboratives, retirement and rehabilitation centers, to corporate wellness will be investigated.  Development, implementation and management of viable leisure education services will be covered as well presentation, training and consultation skills.",
+      "id": "CSUS_RPTA 209",
+      "course name": "Seminar in Advanced Leisure Education"
+    },
+    {
+      "term": " in combination may be used to meet degree requirements.  ",
+      "description": "Graduate internship experiences in a practical setting. ",
+      "course name": "Practicum",
+      "units": "3 - 6 Units",
+      "id": "CSUS_RPTA 295",
+      "prerequisite": [
+        "RPTA 295",
+        "RPTA 299"
+      ]
+    },
+    {
+      "term": " in combination may be used to meet major requirements.  ",
+      "description": "Individual project, problem, practical study, survey, and/or directed reading on the graduate level. ",
+      "course name": "Individual Study",
+      "units": "1 - 6 Units",
+      "id": "CSUS_RPTA 299",
+      "prerequisite": [
+        "RPTA 295",
+        "RPTA 299"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Successful completion of a thesis approved for the Master's degree. Student must have approval from first reader. ",
+      "id": "CSUS_RPTA 500A",
+      "course name": "Culminating Experience: Thesis"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Successful completion of a project approved for Master's degree. Student must have approval from the first reader. ",
+      "id": "CSUS_RPTA 500B",
+      "course name": "Culminating Experience: Project"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Successful completion of a comprehensive examination approved for Master's degree. ",
+      "id": "CSUS_RPTA 500C",
+      "course name": "Culminating Experience: Comprehensive Exam"
+    }
+  ],
+  "subjectOf": {
+    "id": "RPTA",
+    "subject": "Recreation, Parks, and Tourism Administration"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Recreation, Parks, and Tourism Administration",
+    "id": "CSUS"
+  }
+}

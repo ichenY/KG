@@ -1,0 +1,109 @@
+{
+  "subjectOf": {
+    "subject": "Public Administration Courses",
+    "id": "PPA"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Public Administration Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_PPA 301",
+      "course name": "Principles of Public Administration",
+      "units": "3 Credits",
+      "description": "An introductory examination of the characteristics of the public organization and its impact on society including analysis of the principles of public administration, personnel issues, budgetary activities, legal dynamics, as well as historical development of the field are included."
+    },
+    {
+      "id": "AshFord_PPA 303",
+      "course name": "Finance for Public Administrators",
+      "units": "3 Credits",
+      "description": "This course addresses the principles of state and local financing of government, sources of public revenue, objects of public expenditures, problems of fiscal administration, emerging policy issues involving land use and taxation, spending and budgeting, intergovernmental cooperation, debt financing, financing for economic development, and privatization.",
+      "prerequisite": [
+        "ECO 203"
+      ]
+    },
+    {
+      "id": "AshFord_PPA 305",
+      "course name": "Budgeting for Public Administrators",
+      "units": "3 Credits",
+      "description": "This is an introductory course in government budgeting dealing with public revenue, expenditurepolicies, and politics of the budgetary process while addressing current issues and challenges in this field."
+    },
+    {
+      "id": "AshFord_PPA 307",
+      "course name": "Intergovernmental Relations & Issues",
+      "units": "3 Credits",
+      "description": "The theory and practice of intergovernmental relations and the various issues that accompany the dailyoperations and affect the overall efficiency of our system. This course will address both the legal andpolitical perspectives of the interactions, relationships and public policy considerations throughout thevarious components and levels of government.",
+      "prerequisite": [
+        "PPA 301"
+      ]
+    },
+    {
+      "id": "AshFord_PPA 401",
+      "course name": "Urban Management",
+      "units": "3 Credits",
+      "description": "This course is an introduction to formal and informal elements of urban management systems addressingthe exploration of alternative approaches to dealing with problems arising from rapid urban growth.",
+      "prerequisite": [
+        "PPA 301"
+      ]
+    },
+    {
+      "id": "AshFord_PPA 403",
+      "course name": "Administrative Law",
+      "units": "3 Credits",
+      "description": "A study of the nature and the law of the administrative procedure, of separation and delegation ofpowers, and of the scope of judicial review and other remedies against administrative actions."
+    },
+    {
+      "id": "AshFord_PPA 405",
+      "course name": "Personnel Management",
+      "units": "3 Credits",
+      "description": "An examination of the essential processes, policies, and laws pertaining to public personnel including ananalysis of issues concerning public personnel administrators, employee protection, motivation, andeffectiveness."
+    },
+    {
+      "id": "AshFord_PPA 497",
+      "course name": "Public Policy Formation",
+      "units": "3 Credits",
+      "description": "A study of how the dynamics of governmental decision making influence the content of public policy;course focuses upon how legislators, interest groups, chief executives, and the bureaucracy function todefine alternatives and to shape policy agenda and content. ",
+      "prerequisite": [
+        "GEN 499"
+      ]
+    },
+    {
+      "id": "AshFord_PPA 601",
+      "course name": "Foundations of Public Administration",
+      "units": "3 Credits",
+      "description": "This course examines the theory and practice of public administration, its legal and constitutionalfoundation and the role of the public administrator in public policy. The context of the course discussionsare based on the current issues facing public agency administrators."
+    },
+    {
+      "id": "AshFord_PPA 602",
+      "course name": "Public Financial Management",
+      "units": "3 Credits",
+      "description": "This course is an exploration of current governmental fiscal management techniques and issues. Othercourse topics include various types of financial and technical assistance as well as quasi-governmentaland non-profit management organizations."
+    },
+    {
+      "id": "AshFord_PPA 603",
+      "course name": "Government Budgeting",
+      "units": "3 Credits",
+      "description": "This is a comprehensive, straightforward examination of government budgeting. Topics include theadvantages and disadvantages of various approaches to revenue projection, the collection and review ofdepartmental proposals, the development of capital budgeting policy and other budgeting tasks. Alsoaddressed are budget implementation, accounting and financial reporting. A variety of methods formaintaining budgetary balance, preventing overspending and dealing with contingencies are presentedand discussed."
+    },
+    {
+      "id": "AshFord_PPA 604",
+      "course name": "Urban Planning/Redevelopment",
+      "units": "3 Credits",
+      "description": "This course focuses upon the visioning and modeling of services and programs, both anticipatory andresponsive, utilizing market-driven information. Students integrate theories from economics, informationmanagement, finance and leadership, culminating in the generation of a comprehensive business plan."
+    },
+    {
+      "id": "AshFord_PPA 605",
+      "course name": "Negotiation, Bargaining & Conflict Management",
+      "units": "3 Credits",
+      "description": "This course analyzes bargaining and negotiation principles and practices in the public sector. The coursefocuses on the financial issues of contract negotiations and labor relations and building negotiation skillsof the administrator."
+    },
+    {
+      "id": "AshFord_PPA 699",
+      "course name": "Public Policy Development",
+      "units": "3 Credits",
+      "description": "This course is an examination of influences affecting policy development and decision-makingin the urban political arena. It also covers policy management, policy execution, establishing andmeasuring criteria for policy success, and effective communication throughout the public policy process.This course is cumulative in nature, integrating knowledge and information attained while completingthe entire MPA curriculum. In addition, this course requires the generation and presentation of ananalysis of a community development project."
+    }
+  ]
+}

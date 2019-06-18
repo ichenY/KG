@@ -1,0 +1,309 @@
+{
+  "courses": [
+    {
+      "term": "Cross listed: EEE  64",
+      "description": "Covers the following topics: logic gates, binary number system, conversion between number systems, Boolean algebra, Karnaugh maps, combinational logic, digital logic design, flip-flops, programmable logic devices (PLDs), counters, registers, memories, state machines, designing combinational logic and state machines into PLDs, and basic computer architecture. Lab emphasizes the use of software equation entry design tools, the use of a schematic entry, and the use of a logic simulation design tool.  Lab assignments are design-oriented. Lecture three hours; laboratory three hours. ",
+      "course name": "Introduction to Logic Design",
+      "units": "4 Units",
+      "id": "CSUS_CPE 64",
+      "prerequisite": [
+        "CSC 15",
+        "CSC 25",
+        "ENGR 50"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Designated to assist students in developing a more thorough understanding of logic simulation and logic design.  Focus is on problem solving and design.  Activity two hours. ",
+      "course name": "Introduction to Logic Design Workshop",
+      "units": "1 Unit",
+      "id": "CSUS_CPE 64W",
+      "prerequisite": [
+        "CPE 64",
+        "EEE 64W"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Overview of the fundamentals of computer networks and connections between networks, from the physical layer up through peer-to-peer communications at the application level.  Lower layer characteristics including serial vs. parallel, capacity issues, high-speed connections, LAN framing and error handling.  LAN vs. WAN characteristics, network architecture and the ISO network model.  Internetworking components including LANs, repeaters, routers, bridges, and gateways.  Internet addresses, TCP/IP, and the Domain Name System.  Common Internet client/server application protocols including SMTP and FTP.  Client/Server programming involving sockets.  World Wide Web characteristics including CGI and HTTP protocol, Web pages, Web browsers, Web servers, and Applets.  Introduction to advanced Web issues such as Web security, Search engine operations, and Web database operations. ",
+      "course name": "Computer Networks and Internets",
+      "units": "3 Units",
+      "id": "CSUS_CPE 138",
+      "prerequisite": [
+        "CSC 35",
+        "CSC 60",
+        "CSC 130",
+        "CSC 138"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Design and performance issues of computers. Instruction set architecture, computer arithmetic, processor design, survey of contemporary architectures, interfacing I/O devices, hierarchal memory design and analysis, parallelism and multiprocessing, distributed systems, techniques for enhancing performance, and an introduction to EDA tools for design and verification of computers. Design and simulation of a microcomputer in an HDL. ",
+      "course name": "Advanced Computer Organization",
+      "units": "3 Units",
+      "id": "CSUS_CPE 142",
+      "prerequisite": [
+        "CSC 137",
+        "CPE 166",
+        "CPE 185",
+        "CPE 142"
+      ],
+      "similarTo": [
+        "CalPoly_CPE 465",
+        "CalPoly_CPE 482"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fundamental principles of Digital Signal Processing (DSP): sampling theory, aliasing effects, frequency response, Finite Impulse Response filters, Infinite Impulse Response filters, spectrum analysis, Z transforms, Discrete Fourier Transform, and Fast Fourier Transform.  Emphasis on hardware design to achieve high-speed real and complex multiplications and additions.  Pipelining, Harvard, and modified Harvard architectures are included. Concludes with architectural overviews of modern DSP applications: modems, speech processing, audio and video compression and expansion, and cellular. ",
+      "course name": "Dsp Architecture Design",
+      "units": "3 Units",
+      "id": "CSUS_CPE 144",
+      "prerequisite": [
+        "CPE 142"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Begins with an introduction to CMOS gates and design of CMOS combinational and sequential functions at the gate level, including CMOS memory. The theory of MOS transistors is covered including: DC equations, threshold voltage, body effect, subthreshold region, channel length modulation, tunneling, punch through, basic CMOS invertor, and the CMOS transmission gate. A basic exposure to VLSI includes the following topics: CMOS processing technology, CMOS layout, CMOS circuit design and CMOS logic design. Simulations on SPICE and basic VLSI layouts using LEDIT will be included. ",
+      "course name": "Cmos And Vlsi",
+      "units": "3 Units",
+      "id": "CSUS_CPE 151",
+      "prerequisite": [
+        "CPE 64",
+        "EEE 108"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Review basic CMOS VLSI technology, circuit characterization and performance estimation, and provides detailed information on synthesis, placing and routing, clocking strategies, quality and reliability, and I/O structures. Design examples, design techniques, and testing techniques will be presented via current EDA design tools. Students assigned one project from concept design through validation. ",
+      "course name": "Vlsi Design",
+      "units": "3 Units",
+      "id": "CSUS_CPE 153",
+      "prerequisite": [
+        "CPE 151"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Application of operating system principles to the design and implementation of a multi-tasking operating system. Students will write an operating system for a computer system. Topics include scheduling of processes, control and allocation of computer resources and user interfacing. ",
+      "course name": "Operating System Pragmatics",
+      "units": "3 Units",
+      "id": "CSUS_CPE 159",
+      "prerequisite": [
+        "CSC 139",
+        "CSC 159"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "VHDL and Verilog Hardware Description Languages are studied and used on the following advanced level logic design topics: synchronous state machines, asynchronous state machines, metastability, hazards, races, testability, boundary scan, scan chains, and built-in self-tests. Commercial Electronic Design Automation (EDA) toolsets are used to synthesize lab projects containing a hierarchy of modules into Field Programmable Gate Arrays (FPGAs). Post synthesis simulations by these same tools verify the design before implementation on rapid prototyping boards in the lab. ",
+      "course name": "Advanced Logic Design",
+      "units": "4 Units",
+      "id": "CSUS_CPE 166",
+      "prerequisite": [
+        "CPE 64",
+        "ENGR 17"
+      ],
+      "similarTo": [
+        "CalPoly_CPE 522"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Design of microcomputer systems including memory systems, parallel and serial input/output, timer modules, and interrupt structures; designing \"C\" language code, in laboratory, to exercise interface modules of parallel and serial input/output, timer modules, and interrupts; extensive study of interrupt handlers, assemblers, linkers, and loaders. Practical features of interfaces, handshaking techniques, displays, keypads, and trackballs are included. ",
+      "course name": "Computer Interfacing",
+      "units": "4 Units",
+      "id": "CSUS_CPE 185",
+      "prerequisite": [
+        "CPE 64",
+        "CSC 35",
+        "CSC 60"
+      ],
+      "similarTo": [
+        "CalPoly_CPE 464",
+        "CalPoly_CPE 321"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of Intel and Motorola architectures, bus structures, interrupts, memory interface and controllers, bus arbitration, DMA controllers, I/O interface, bridges and microcontroller. Electromagnetic compatibility and regulations, cabling and shielding, grounding, digital circuit noise and layout. ",
+      "course name": "Computer Hardware System Design",
+      "units": "3 Units",
+      "id": "CSUS_CPE 186",
+      "prerequisite": [
+        "CPE 185",
+        "EEE 174"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students will design, construct and test an embedded processor system project. All address decoding, control functions, input and output ports, handshaking signals and interrupt control will be implemented in an FPGA. The system will interface to a microcontroller system. Students will use an assembler, a C compiler and either VHDL or Verilog to fully test their project. Laboratory techniques include oscilloscopes, logic analyzers, protocol analyzers and programmers for EPROMs, FLASH and microcontrollers. One lecture per week and one three-hour laboratory per week. ",
+      "course name": "Embedded Processor System Design",
+      "units": "2 Units",
+      "id": "CSUS_CPE 187",
+      "prerequisite": [
+        "CPE 166",
+        "CPE 185",
+        "EEE 102",
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Centers on developing hardware and software project planning and engineering design skills. Emphasis is placed on design philosophies, problem definition, project planning and budgeting, written and oral communication skills, working with others in a team arrangement, development of specifications and effective utilization of available resources. Lecture one hour per week, laboratory three hours per week. ",
+      "course name": "Senior Design Project I",
+      "units": "2 Units",
+      "id": "CSUS_CPE 190",
+      "prerequisite": [
+        "CPE 142",
+        "CPE 166",
+        "CPE 186",
+        "CPE 187",
+        "EEE 108"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". The hardware will be completed, tested and redesigned if necessary. At the same time, software for the project will be finished and debugged. The final results of the team project will be presented to the CPE faculty and students at a prearranged seminar. Lecture one hour, laboratory three hours. ",
+      "course name": "Senior Design Project II",
+      "units": "2 Units",
+      "id": "CSUS_CPE 191",
+      "prerequisite": [
+        "CPE 190",
+        "ENGL 109M",
+        "ENGL 109W",
+        "CPE 190",
+        "CPE 190"
+      ]
+    },
+    {
+      "units": "1 - 15 Units",
+      "term": " May be repeated for credit.  ",
+      "description": "Directed observations and work experience in computer engineering with firms in the industry or public agencies. Supervision is provided by the instructional staff and the cooperating agencies. Faculty approval required. ",
+      "id": "CSUS_CPE 195",
+      "course name": "Fieldwork in Computer Engineering"
+    },
+    {
+      "units": "1 - 12 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised employment in a professional engineering or computer science environment. Placement arranged through the College of Engineering and Computer Science. Requires satisfactory completion of the work assignment and a written report. ",
+      "id": "CSUS_CPE 195A",
+      "course name": "Professional Practice"
+    },
+    {
+      "units": "1 - 12 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised employment in a professional engineering or computer science environment. Placement arranged through the College of Engineering and Computer Science. Requires satisfactory completion of the work assignment and a written report. ",
+      "id": "CSUS_CPE 195B",
+      "course name": "Professional Practice"
+    },
+    {
+      "units": "1 - 12 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised employment in a professional engineering or computer science environment. Placement arranged through the College of Engineering and Computer Science. Requires satisfactory completion of the work assignment and a written report. ",
+      "id": "CSUS_CPE 195C",
+      "course name": "Professional Practice"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to those students who appear competent to carry on individual work. Admission to this course requires approval of the faculty member under whom the individual work is to be conducted, in addition to the approval of the advisor. May be repeated for credit.  ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_CPE 199",
+      "course name": "Special Problems",
+      "similarTo": [
+        "CalPoly_CPE 200",
+        "CalPoly_CPE 400"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Research methodology, problem formulation and problem solving.  Collective and individual study of selective issues and problems relating to fields of study in the Computer Engineering Graduate Program.  Orientation to the requirements for Master's Thesis or Project in Computer Engineering. ",
+      "id": "CSUS_CPE 201",
+      "course name": "Research Methodology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced logic modeling, simulation, and synthesis techniques.  Topics include modeling, simulation, and synthesis techniques, using Hardware Description Language (HDL's), Register Transfer Level (RTL) representation, high level functional partitioning, functional verification and testing, computer-aided logic synthesis, logical verification and testing, timing and delay analysis, automated place and route process', and design with Application Specific Integrated Circuits (ASICs) and programmable logic. ",
+      "course name": "Hierarchical Digital Design Methodology",
+      "units": "3 Units",
+      "id": "CSUS_CPE 273",
+      "prerequisite": [
+        "CSC 205",
+        "EEE 285"
+      ],
+      "similarTo": [
+        "CalPoly_CPE 523",
+        "CalPoly_CPE 133"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Timing analysis of Application Specific Integrated Circuit (ASIC) designs: Topics include ASIC design methodology, static timing analysis, timing design constraints, design reports, clock timing issues, timing exceptions, operating conditions, hierarchical analysis, analyzing designs with asynchronous logic, performance measurement and power issues. ",
+      "course name": "Advanced Timing Analysis",
+      "units": "3 Units",
+      "id": "CSUS_CPE 274",
+      "prerequisite": [
+        "EEE 273",
+        "CSC 273",
+        "CPE 273",
+        "EEE 274"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to parallel architecture covering computer classification schemes, fine and course grain parallelism, processor interconnections, and performance issues of multiprocessor systems.  Includes parallel and pipelined instruction execution, structure of multiprocessor systems, memory hierarchy and coherency in shared memory systems, programming issues of multiprocessor systems, arithmetic pipeline design, and design for testability. ",
+      "course name": "Advanced Computer Architecture",
+      "units": "3 Units",
+      "id": "CSUS_CPE 280",
+      "prerequisite": [
+        "CSC 205"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "The objective of this course is to cover the digital processing of speech signals. Topics include speech production and perception, speech processing in the time frequency domains. Short-time energy and Short-time Fourier analysis, homomorphic and linear predictive coding methods. Also covered are speech coding, basic introduction of text-to-speech synthesis and speech recognition. ",
+      "course name": "Digital Speech Processing",
+      "units": "3 Units",
+      "id": "CSUS_CPE 296T",
+      "prerequisite": [
+        "EEE 181",
+        "EEE 296T"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Open to qualified students who wish to pursue problems of their own choice.  Projects must have approval and supervision of a faculty advisor. ",
+      "id": "CSUS_CPE 299",
+      "course name": "Special Problems",
+      "similarTo": [
+        "CalPoly_CPE 200",
+        "CalPoly_CPE 400"
+      ]
+    },
+    {
+      "units": "5 Units",
+      "term": " May be repeated for credit.  ",
+      "description": "Completion of a thesis or project approved for the master's degree. ",
+      "id": "CSUS_CPE 500",
+      "course name": "Culminating Experience",
+      "similarTo": [
+        "CalPoly_CPE 494",
+        "CalPoly_CPE 493",
+        "CalPoly_CPE 495"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "CPE",
+    "subject": "Computer Engineering"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Computer Engineering",
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "courses": [
+    {
+      "units": "5 Units", 
+      "term": "Fall only", 
+      "description": "Beginning Mandarin with emphasis on listening comprehension, speaking, grammar structure and character writing. The relationship between language and culture will also be emphasized.  Includes an introduction to elements of Chinese culture that pertain to language, such as mode of thinking, inter-human relations, and aesthetic expressions.", 
+      "id": "CSUS_CHIN 1A", 
+      "course name": "Elementary Mandarin"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": ", with growing emphasis on reading, writing, and listening. Chinese cultural patterns as reflected in the language, such as societal values and views of the world, will continue to be emphasized. ", 
+      "course name": "Elementary Mandarin", 
+      "units": "5 Units", 
+      "id": "CSUS_CHIN 1B", 
+      "prerequisite": [
+        "CHIN 1A", 
+        "CHIN 1A"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Intermediate Mandarin on the further development of reading, speaking, and writing skills. Emphasis will be placed on the shift from romanized script to Chinese characters. Introduction will also be made to simple prose reading. Meets the Foreign Language Graduation Proficiency Requirement. ", 
+      "course name": "Intermediate Mandarin", 
+      "units": "4 Units", 
+      "id": "CSUS_CHIN 2A", 
+      "prerequisite": [
+        "CHIN 1B"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": " designed to further the development of reading, speaking and writing skills at the intermediate to intermediate-high level. ", 
+      "course name": "Intermediate Mandarin", 
+      "units": "4 Units", 
+      "id": "CSUS_CHIN 2B", 
+      "prerequisite": [
+        "CHIN 2A", 
+        "CHIN 2A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Taught exclusively in Mandarin as an introduction to Modern Chinese Fiction through a careful study of representative works from both the People's Republic of China and Taiwan. ", 
+      "course name": "Advanced Mandarin: Modern Chinese Fiction", 
+      "units": "3 Units", 
+      "id": "CSUS_CHIN 110", 
+      "prerequisite": [
+        "CHIN 2B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Presentation of formative cultural achievements of China through language and literature with a view to understanding present-day popular Chinese culture. A general survey conducted in English for students who are taking Chinese language courses and others who want a deeper appreciation of this important non-Western culture.", 
+      "id": "CSUS_CHIN 120", 
+      "course name": "Chinese Civilization"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "The classical Chinese language, also known as literary Chinese, is the doorway into the fascinating world of Chinese culture. It has been the primary form of communication for at least three thousand years. Although Classical Chinese uses many of the same characters as modern Mandarin Chinese, the syntax and diction are quite different. In this course, we will study the language through readings in early philosophical, historical, and poetic texts. ", 
+      "id": "CSUS_CHIN 130", 
+      "prerequisite": [
+        "CHIN 2A"
+      ], 
+      "course name": "Introduction to Classical and Literary Chinese"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Introduction to Chinese literature from classical times to the present. The various forms of Chinese prose, poetry, and novel will be surveyed through the selective reading of representative works (in English translation). Class is conducted in English. ", 
+      "course name": "Survey of Chinese Literature", 
+      "units": "3 Units", 
+      "id": "CSUS_CHIN 150", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Tutoring of lower division students in Mandarin or Cantonese. 3 hours of tutoring per week for each unit. May be taken for credit more than once. ", 
+      "id": "CSUS_CHIN 195", 
+      "course name": "Fieldwork-Tutoring"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading. Open only to students who appear competent to carry on independent study. Admission requires the approval of the instructor by whom the work is to be supervised.", 
+      "id": "CSUS_CHIN 199", 
+      "course name": "Special Problems"
+    }
+  ], 
+  "subjectOf": {
+    "id": "CHIN", 
+    "subject": "Chinese"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Chinese", 
+    "id": "CSUS"
+  }
+}

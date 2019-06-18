@@ -1,0 +1,214 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to basic concepts and issues informing studies in gender, gay, lesbian, bisexual and transsexual/gender (GLBT) identities. Classic and contemporary texts from different cultures will cover biological, historical and social constructions of gender and sexuality. Transformations in family and society, global and intersectional perspectives on GLBT identity, political activism, cultural and social perceptions of gender and sexuality will be discussed.",
+      "id": "CSUS_WOMS 50",
+      "course name": "Introduction to Gender & Sexuality"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course is an introduction to disability studies. An intersectional approach to knowledge construction about disability will be examined. This interdisciplinary study draws on humanities and social sciences, feminism, medical and scientific literature, and popular sources. How gender, race, class, sexuality, ethnicity, and nationality intersect with disability to shape experience will be analyzed. Historical and contemporary social movements and activism by people with disabilities will also be discussed.",
+      "id": "CSUS_WOMS 75",
+      "course name": "Introduction to Disability Studies"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examination of women's issues in the current women's movement. Emphasis is on detailed examination of feminist topics important to women today.",
+      "id": "CSUS_WOMS 110",
+      "course name": "Introduction to the Women's Movement in Contemporary Society"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the origins and models of Women's Studies. Explores the significance of a new field of study, and examines the methods of interdisciplinary study. Provides an opportunity to read a number of Women's Studies \"classics\" and to trace the development of feminist theory.",
+      "id": "CSUS_WOMS 115",
+      "course name": "Introduction to Women's Studies"
+    },
+    {
+      "term": ".",
+      "description": "Using an interdisciplinary approach, course offers a broad introduction to broad principle values and traditions shaping Asian American women's lives in the U.S. Examines cultural diversity, gender inequality and conflicts between traditions and social practices through critical analysis of literature, film and cultural theories as expressions of identity. Topics covered include: cultural heritage and philosophies, intergenerational conflict, transnationalism, gender roles and socio-economic practices. Comprehensive understanding principle factors governing Asian American women's lives at the nexus of Asian and American cultures. ",
+      "course name": "Asian American Women",
+      "units": "3 Units",
+      "id": "CSUS_WOMS 118",
+      "prerequisite": [
+        "ETHN 118"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "This course applies principles of feminism to the study of motherhood as social institution and private experience. Students explore family, cultural and social values that influenced their mothers and grandmothers, analyzing the impact of social institutions on their own childhood and adulthood. Students develop awareness of the historic evolution of women's social and private roles and the changing emphasis on woman as mother, wife/sexual companion and wage earning person largely through African American women's social movements.",
+      "id": "CSUS_WOMS 120",
+      "course name": "Mother Woman Person"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides an introduction to historical and contemporary conditions affecting women's lives and contributions to Middle Eastern societies. Readings will be framed with a focus on women within state systems and political life, economic activity, family systems, religious thought and law, health, arts and literature.",
+      "id": "CSUS_WOMS 121",
+      "course name": "Women Of The Middle East"
+    },
+    {
+      "units": "3 Units",
+      "description": "This course focuses on sex & gender roles in South Asia starting with ancient times to the present. Patriarchal ideals pertaining to social values, traditions and family structures will be examined. Religious, caste and economic class factors contributing to the preservation of gender norms and socially approved sexual behavior, sex roles, stereotypes, and violence against women, transgender youth and sexual minorities will be analyzed. Contemporary social movements and activism by women's groups and LGBTIQ activists will also be discussed.",
+      "id": "CSUS_WOMS 125",
+      "course name": "Sex & Gender in South Asia"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "This course explores feminist analyses of medicine. An intersectional approach to how medical science constructs knowledge about health will be examined. This interdisciplinary study draws on humanities and social sciences; feminism; medical, scientific, and clinical literature; popular sources; and web discourses. How gender, race, class, sexuality, ethnicity, nationality, and disability intersect and shape behavior and experience will be analyzed. Contemporary social movements and activism by women and LGBTQIA+ people will also be discussed.",
+      "id": "CSUS_WOMS 133",
+      "course name": "Gender & Health"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Designed to examine the effects of the dynamic interaction of gender, race, and class on women. The social construction of gender, race, and class will also be examined. Other topics to be discussed and researched are the effects of sexism, racism, and classicism on institutions such as academia, business, government, religion, and social movements. Also provides an analysis of effective techniques to end sexism, racism, and classicism. ",
+      "course name": "",
+      "units": "3 Units",
+      "id": "CSUS_ ",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the social, economic, and cultural uniqueness of various ethnic groups in the U.S. Includes discussion of definitions of sexism, racism, economic exploitation, feminism, and the nature and evolution of the women's movement in relation to women of color.",
+      "id": "CSUS_WOMS 137",
+      "course name": "Women Of Color."
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Explores topics basic to discussion of women's paid and unpaid work from historical and crosscultural perspectives. Consideration is given to popular conceptions and stereotypes of work and \"women's issues\" in the industrialized world; the private and public lives of women and men with emphasis on work and social realities; and the maintenance of patriarchy under capitalism, socialism and communism, with some possible feminist \"solutions. ",
+      "course name": "Women and Work.",
+      "units": "3 Units",
+      "id": "CSUS_WOMS 138",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Consider from an international feminist perspective the forms of violence directed at women. It will also look at contemporary attitudes towards women, children, power, aggression and sexuality. Topics include sexual assault; child abuse; medical violence; psychiatric violence; economic violence; and military violence. Also examines the ways in which women are individually and collectively combating these various forms of violence.",
+      "id": "CSUS_WOMS 139",
+      "course name": "Violence Against Women"
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Includes study of recent feminist performance theory and criticism and its application to acting, directing, and writing for the theatre. Students will participate in both lecture/discussion and activities, including the creation of a final performance. Lecture two hours; lab two hours. ",
+      "course name": "Women and Theatre: Staging Diversity.",
+      "units": "3 Units",
+      "id": "CSUS_WOMS 144",
+      "prerequisite": [
+        "THEA 144"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Provides a critique of traditional patriarchal religions and traces women's participation in the evolution of the human spirit. Consideration is given to the history of Goddess religion and its resurgence in the contemporary world; sexism in institutionalized religions and the current advances women are making in the churches; and dimensions of woman spirit incorporated in today's feminist art and literature.",
+      "id": "CSUS_WOMS 145",
+      "course name": "Feminism and the Spirit"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the unique and important contributions of women to the visual arts (Renaissance to present) and their personal struggle toward success and recognition. The Women's Art Movement and its impact on education, museums and women's status in the arts are important topics of this class.",
+      "id": "CSUS_WOMS 146",
+      "course name": "Women In Art"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides a historical overview, as well as in-depth studies of the similarities and differences in feminist developments from an international perspective. Examples will be drawn from industrialized democracies, centrally planned socialist states, and third world countries. Pluralistic trends in feminist development within countries will also be examined with a view to understanding the differential impact of gender based discrimination on different categories of women. ",
+      "id": "CSUS_WOMS 147",
+      "course name": "Women's Global Issues"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduces students to the fields of queer theory and trans theory from a transnational feminist perspective. Includes theoretical approaches to the history of sexuality and the politics of sexual and gender normativity. Places queer and trans studies in conversation with Native studies, dis/ability studies, postcolonial theory, critical race and ethnic studies, and feminist theory. ",
+      "course name": "Introduction to Queer and Trans Studies",
+      "units": "3 Units",
+      "id": "CSUS_WOMS 150",
+      "prerequisite": [
+        "WOMS 50"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Cross Listed: GOVT 166; only one may be counted for credit.",
+      "description": "This course examines the influence of socially constructed meanings of femininity and masculinity on the political participation of women, candidate selection, election campaigns, and electoral outcomes in executive and legislative offices in the U.S. and worldwide. Students will develop a rich understanding of the relationship between gender and women\u00bfs political representation and analyze and discuss institutional, structural, cultural, and historical conditions associated with women\u00bfs voting behavior, political advancement, leadership styles, and impacts of political representation on women. ",
+      "id": "CSUS_WOMS 166",
+      "course name": "Gender and Politics"
+    },
+    {
+      "term": "; only one may be taken for credit.",
+      "description": "This course provides an introduction to the study of lesbian, gay, bisexual, transgender, and queer (LGBTQ) histories. Uses an interdisciplinary and comparative approach to explore the historical emergence and development of LGBTQ identities, communities, and political movements. Includes theoretical analysis of the history of gender and sexuality and the practice of historical analysis. ",
+      "course name": "LGBTQ Histories",
+      "units": "3 Units",
+      "id": "CSUS_WOMS 172",
+      "prerequisite": [
+        "HIST 172"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced course providing detailed inquiry into specific feminist theories, including their conceptual framework and development, relationship to other political theories and application to the current practices of feminism. ",
+      "course name": "Seminar in Feminist Theory",
+      "units": "3 Units",
+      "id": "CSUS_WOMS 180",
+      "prerequisite": [
+        "WOMS 110"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised experience in selected women's organizations and projects in the Sacramento area; for example, the Rape Crisis Center, Women Escaping a Violent Environment (WEAVE), Sacramento Women's Center. ",
+      "id": "CSUS_WOMS 195A",
+      "course name": "Fieldwork in Women's Studies"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised individual research projects or directed reading specifically related to Women's Studies topics. Should be taken by students who can work on an individual basis. ",
+      "course name": "Special Problems",
+      "units": "1 - 3 Units",
+      "id": "CSUS_WOMS 199",
+      "prerequisite": [
+        "WOMS 115"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised research projects and directed study specifically related to Women's Studies and taken on an individual basis by Graduate students in the Special Major Graduate Program.",
+      "id": "CSUS_WOMS 299",
+      "course name": "Special Research Problems"
+    }
+  ],
+  "subjectOf": {
+    "id": "WOMS",
+    "subject": "Women's Studies"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Women's Studies",
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "courses": [
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to standard Arabic, including Arabic letters and sounds, the essentials of Arabic grammar, and basic instruction in all four language skills: speaking, reading, listening and writing.  In addition to getting a start in modern Arabic, students will also learn about social aspects of the use of Arabic.", 
+      "id": "CSUS_ARBC 1A", 
+      "course name": "Elementary Arabic"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". ", 
+      "course name": "Elementary Arabic", 
+      "units": "4 Units", 
+      "id": "CSUS_ARBC 1B", 
+      "prerequisite": [
+        "ARBC 1A", 
+        "ARBC 1A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " with an ongoing emphasis on communication skills and the rudiments of literacy, as well as continued integration of cultural and social components with the language learning experience. ", 
+      "course name": "Intermediate Arabic", 
+      "units": "4 Units", 
+      "id": "CSUS_ARBC 2A", 
+      "prerequisite": [
+        "ARBC 1B", 
+        "ARBC 1B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " intermediate conversation with an ongoing emphasis on communication skills and the rudiments of literacy, as well as continued integration of cultural and social components with the language learning experience.   ", 
+      "course name": "Intermediate Arabic", 
+      "units": "4 Units", 
+      "id": "CSUS_ARBC 2B", 
+      "prerequisite": [
+        "ARBC 2A", 
+        "ARBC 2A"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Departmental petition required. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_ARBC 199", 
+      "course name": "Special Problems"
+    }
+  ], 
+  "subjectOf": {
+    "id": "ARBC", 
+    "subject": "Arabic"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Arabic", 
+    "id": "CSUS"
+  }
+}

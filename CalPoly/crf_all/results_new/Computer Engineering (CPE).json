@@ -1,0 +1,706 @@
+{
+  "subjectOf": {
+    "id": "CPE",
+    "subject": "Computer Engineering"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Computer Engineering"
+  },
+  "courses": [
+    {
+      "id": "CPE 100",
+      "course name": "Computer Engineering Orientation",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Introduction to the computer engineering discipline. Success skills and curricular information. Career paths and opportunities. Professional aspects of engineering and computer science. Interaction with upper division students, alumni, faculty and staff. Introduction to computer software and hardware. Credit/No Credit grading only. 1 lecture."
+    },
+    {
+      "id": "CPE 101",
+      "course name": "Fundamentals of Computer Science",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Basic principles of algorithmic problem solving and programming using methods of top-down design, stepwise refinement and procedural abstraction.  Basic control structures, data types, and input/output.  Introduction to the software development process:  design, implementation, testing and documentation.  The syntax and semantics of a modern programming language.  Credit not available for students who have taken CSC/CPE108.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC101."
+    },
+    {
+      "id": "CPE 105",
+      "course name": "Fundamentals of Computer Science I Supplemental Instruction",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Facilitated study and discussion of fundamental concepts of computer science and familiarization with programming environments.  Credit/No Credit grading only.  1 laboratory.  Crosslisted as CPE/CSC105."
+    },
+    {
+      "id": "CPE 108",
+      "course name": "Accelerated Introduction to Computer Science",
+      "hasPrerequisite": "MATH 118 (or equivalent) with a grade of C- or better",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Accelerated introduction to basic principles of algorithmic and object-oriented problem solving and programming.  Introduction to programming language concepts including control structures, data types, classes, and inheritance.  Program design principles.  Use and implementation of algorithms (searching, sorting, recursion) and data structures (lists, stacks, and queues).  Intended for students with experience in algorithmic problem solving and using basic control structures and data types in a modern programming language (CPE/CSC101), but who are not ready for CPE/CSC202.  Not open to students with credit in CPE/CSC 102 or CPE/CSC202.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC108."
+    },
+    {
+      "id": "CPE 123",
+      "course name": "Introduction to Computing",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Use of a supportive software development environment to design, develop, and test applications in a selected topic domain that demonstrates the potential of careers in computing.  An introduction to computing and to the selected topic domain.  The Schedule of Classes will list topic selected.  No programming experience required.  Not for students with credit in CPE/CSC 103 or CPE/CSC203.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC123."
+    },
+    {
+      "id": "CPE 133",
+      "course name": "Digital Design",
+      "hasPrerequisite": "CPE 100 for CPE students)",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Number systems, Boolean algebra, Boolean functions, and function minimization.  Analysis and design of combinational and sequential logic circuits.  Hardware Description Language (HDL) concepts and applications digital design and synthesis in Programmable Logic Devices (PLDs).  Not open to students with credit in CPE/EE 129.  Course may be offered in classroom-based or online format.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE133."
+    },
+    {
+      "id": "CPE 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "id": "CPE 202",
+      "course name": "Data Structures",
+      "hasPrerequisite": "MATH 141 or MATH 221 with a grade of C- or better",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Introduction to data structures and analysis of algorithms.  Abstract datatypes.  Specification and implementation of advanced data structures.  Theoretical and empirical analysis of recursive and iterative algorithms.  Software performance evaluation and testing techniques.  Not open to students with credit in CSC/CPE108.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC202.  Formerly CPE/CSC 103."
+    },
+    {
+      "id": "CPE 203",
+      "course name": "Project-Based Object-Oriented Programming and Design",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Object-oriented programming and design with applications to project construction.  Introduction to class design, interfaces, inheritance, generics, exceptions, streams, and testing.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC203.  Formerly CPE/CSC 102."
+    },
+    {
+      "id": "CPE 233",
+      "course name": "Computer Design and Assembly Language Programming",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Design and implementation of digital computer circuits via CAD tools for programmable logic devices (PLDs).  Basic computer design with its datapath components and control unit.  Introduction to assembly language programming of an off-the-shelf RISC-based microcontroller.  Not open to students with credit in CPE/EE 229.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE233."
+    },
+    {
+      "id": "CPE 290",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "CPE 315",
+      "course name": "Computer Architecture",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "In-depth study of the instruction set architecture and hardware design of a specific CPU.  Introduction to pipelines, input/output and multi-processors.  Computer abstractions and performance measurement.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CPE 321",
+      "course name": "Introduction to Computer Security",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Survey of topics in computer system and network security, including protection, access control, distributed access control, operating system security, applied cryptography, network security, firewalls, secure coding practices, and case studies from real-world systems.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC321."
+    },
+    {
+      "id": "CPE 328",
+      "course name": "Discrete Time Signals and Systems",
+      "hasPrerequisite": "BMED 355 or EE 228",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Discrete-time systems and analysis, with emphasis on linear time-invariant (LTI) systems.  Sampling theorem.  Classification of discrete-time systems.  Convolution and its application to LTI systems.  The z transform, discrete-time Fourier transform, and discrete Fourier transform.  Introduction to digital filters.  3 lectures.  Crosslisted as CPE/EE328."
+    },
+    {
+      "id": "CPE 329",
+      "course name": "Programmable Logic and Microprocessor-Based Systems Design",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "EE 307&347"
+        },
+        {
+          "prerequisite": "EE 229&269 or CPE/EE 233"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Design, implementation and testing of programmable logic microprocessor-based systems.  Hardware/software tradeoffs (such as timing analysis and power considerations), system economics of programmable logic and microprocessor-based system design.  Interfacing hardware components (such as ADCs/DACs, sensors, transducers).  3 lectures, 1 laboratory.  Not open to students with credit in CPE/EE336.  Crosslisted as CPE/EE329."
+    },
+    {
+      "id": "CPE 336",
+      "course name": "Microprocessor System Design",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Introduction to microcontrollers and integrated microprocessor systems.  Hardware/software trade-offs, system economics, and functional configurations.  Interface design, real-time clocks, interrupts, A/D conversion, serial and parallel communications, watch-dog timers, low power operation, event-based inter-peripheral communication, and assembly and higher-level language programming techniques.  Architecture and design of sampled data and low-power systems.  Not open to students with credit in CPE/EE329.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE336."
+    },
+    {
+      "id": "CPE 350",
+      "course name": "Capstone I",
+      "hasPrerequisite": "CPE 329",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Definition and specification of a system to be constructed in CPE450; requirements elicitation techniques, research and data gathering methods; project planning, time and budget estimating; project team organization.  Ethics and professionalism.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CPE 357",
+      "course name": "Systems Programming",
+      "hasPrerequisite": "CSC 225 or CPE/EE 229 or CPE/EE 233",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "C programming language from a system programming perspective.  Standard C language including operators, I/O functions, and data types in the context of system functions.  Unix commands, shell scripting, file system, editors.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC357."
+    },
+    {
+      "id": "CPE 368",
+      "course name": "Signals and Systems Laboratory",
+      "hasPrerequisite": "BMED 355 or EE 228",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Laboratory work pertaining to linear systems, including Fourier analysis, time and frequency responses, and system transfer function.  1 laboratory.  Crosslisted as CPE/EE368."
+    },
+    {
+      "id": "CPE 400",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units."
+    },
+    {
+      "id": "CPE 416",
+      "course name": "Autonomous Mobile Robotics",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Theory and application of concepts relevant to autonomous mobile robots.  Sensor and actuator interfacing, programming mobile robots, mobile robot configurations, software architectures and algorithms.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CPE 419",
+      "course name": "Applied Parallel Computing",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Introduction to applied parallel computing paradigms:  software models, resource allocation, performance measurement, and data sharing.  Emphasis on massively parallel computation and performance improvement for a real-world application of significant scope.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CPE 422",
+      "course name": "Network and Web Security",
+      "hasPrerequisite": "CPE 464",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Introduction to network and web security, including denial of service, botnets, access control, routing attacks, transport layer attacks, tunneling mechanisms, VPNs, IDS, firewalls, penetration testing, key distribution, browser security, social network security, email security, jamming, and wireless security.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC422."
+    },
+    {
+      "id": "CPE 428",
+      "course name": "Computer Vision",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Introduction to the concepts of 2D and 3D computer vision:  low-level image processing methods such as filtering and edge detection; feature extraction; segmentation and clustering; stereo vision; appearance-based and model-based algorithms.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE428."
+    },
+    {
+      "id": "CPE 431",
+      "course name": "Programming Languages II",
+      "hasPrerequisite": "CSC 430",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Language principles and design issues:  bindings, conversion, parameter passing, and dynamic semantics.  Language implementation:  intermediate code representation, memory management, code optimization, and code generation.  Functional programming languages.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC431."
+    },
+    {
+      "id": "CPE 432",
+      "course name": "Digital Control Systems",
+      "hasPrerequisite": "EE 302 & EE 342",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Theory and applications of digital computers in linear control systems.  Discrete time methods are used in analysis and design studies.  Digital control systems are synthesized.  3 lectures.  Crosslisted as CPE/EE432."
+    },
+    {
+      "id": "CPE 439",
+      "course name": "Introduction to Real-Time Operating Systems",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Theory, design and implementation of real-time operating system-based embedded systems.  Scheduling algorithms, operating system resources, peripheral device interfacing and embedded system architecture.  Resource management issues in a resource-limited (microcontroller-based) environment.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE439."
+    },
+    {
+      "id": "CPE 441",
+      "course name": "Computer-Aided Design of VLSI Devices",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "EE 307"
+        },
+        {
+          "prerequisite": "EE 347"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Design of VLSI circuits using state-of-the-art CAD software.  Design issues and algorithms related to design using CAD.  Full custom design through automated design and a major multi-week chip design project in lab.  3 lectures, 1 laboratory.  Crosslisted as CPE441/EE431."
+    },
+    {
+      "id": "CPE 450",
+      "course name": "Capstone II",
+      "hasPrerequisite": "CPE 350",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Team-based design, construction and deployment of an embedded system that includes a custom-built computer.  Technical management of product development teams.  Technical documentation, configuration management, quality assurance, integration and systems testing.  Professionalism.  1 lecture, 2 laboratories."
+    },
+    {
+      "id": "CPE 453",
+      "course name": "Introduction to Operating Systems",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Introduction to sequential and multiprogramming operating systems; kernel calls, interrupt service mechanisms, scheduling, files and protection mechanisms, conventional machine attributes that apply to operating system implementation, virtual memory management, and I/O control systems.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC453."
+    },
+    {
+      "id": "CPE 454",
+      "course name": "Implementation of Operating Systems",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Design and implementation of multiprogramming kernels, systems programming methodology, interprocess communications, synchronization, device drivers and network access methods.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC454."
+    },
+    {
+      "id": "CPE 458",
+      "course name": "Current Topics in Computer Systems",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Selected aspects of design, implementation and analysis of networks, advanced operating and distributed systems.  Topics may include process management, virtual memory, process communication, context switching, file system designs, persistent objects, process and data migration, load balancing, security and networks.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC458."
+    },
+    {
+      "id": "CPE 461",
+      "course name": "Senior Project I",
+      "hasPrerequisite": "CPE 350",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Selection and completion of an individual or team project in laboratory environment.  Project results are presented in a formal report.  3 laboratories."
+    },
+    {
+      "id": "CPE 462",
+      "course name": "Senior Project II",
+      "hasPrerequisite": "CPE 450",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Selection and completion of an individual or team project in laboratory environment.  Project results are presented in a formal report.  2 laboratories."
+    },
+    {
+      "id": "CPE 464",
+      "course name": "Introduction to Computer Networks",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Computer network architectures; communications protocol standards; services provided by the network; historical and current examples presented.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CPE 465",
+      "course name": "Advanced Computer Networks",
+      "hasPrerequisite": "CPE 464",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Advanced topics in computer networks; greater detail of protocol standards and services provided by the network; focus on current industry and research topics.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CPE 469",
+      "course name": "Distributed Systems",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Foundations of distributed systems, distributed hash tables (peer-to-peer systems), failure detectors, synchronization, election, inter-process communication, consensus, replication, key-value stores, and measurements.  3 lectures, 1 laboratory.  Crosslisted as CSC/CPE469."
+    },
+    {
+      "id": "CPE 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "CPE 471",
+      "course name": "Introduction to Computer Graphics",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Graphics software development and use of application programming interfaces for 3D graphics.  The graphics pipeline, modeling, geometric and viewing transforms, lighting and shading, rendering, interaction techniques and graphics hardware.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC471."
+    },
+    {
+      "id": "CPE 472",
+      "course name": "Digital Control Systems Laboratory",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Design and programming of microprocessor-based digital controls for electro-mechanical plants.  Topics include digital control laws, translation of transfer functions into algorithms, assembly language programming, real-time software design, sample rate selection, finite word-length considerations.  1 laboratory.  Crosslisted as CPE/EE472."
+    },
+    {
+      "id": "CPE 476",
+      "course name": "Real-Time 3D Computer Graphics Software",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Basic and advanced algorithms for real-time, interactive, 3D graphics software.  Modeling (polygon mesh, height field, scene graph), real-time rendering and shading (visibility processing, LOD, texture and light maps), collision detection (bounding volumes, complexity management), interactive controls, multi-player game technology, game engine architecture.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC476."
+    },
+    {
+      "id": "CPE 479",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories."
+    },
+    {
+      "id": "CPE 482",
+      "course name": "Advanced Topics in Systems for Computer Engineering",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Selected aspects of design, implementation, verification and analysis of advanced computer systems.  Topics may include computer systems, embedded systems, robotics, mechatronics, haptics, human computer interfaces, digital control, digital signal processing, wireless computing, real time operating systems, and networks.  Class Schedule will list topic selected.  Total credit limited to 8 units, repeatable in same term.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CPE 485",
+      "course name": "Autonomous Robot Navigation",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Overview of existing autonomous mobile robot systems, basic kinematic modeling, control structures, sensing and sensor modeling, localization, and motion planning algorithms.  Implementation of autonomous navigation capabilities.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CPE 488",
+      "course name": "Microelectronics and Electronics Packaging",
+      "hasPrerequisite": "EE 112 or EE 201",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Materials, processes, and reliability of microelectronics and electronics packaging, surface mount assembly and printed circuit board fabrication.  Organic substrates and ceramic substrates.  Mechanical design, thermal, and electrical considerations in electronic packaging.  Design for manufacturability.  Overview of optoelectronics packaging and other emerging technologies in microelectronics and electronic packaging.  Project on design and manufacture of an electronic device.  3 lectures, 1 laboratory.  Crosslisted as CPE488/IME458/MATE458."
+    },
+    {
+      "id": "CPE 493",
+      "course name": "Cooperative Education Experience",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 6 units."
+    },
+    {
+      "id": "CPE 494",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 18 units."
+    },
+    {
+      "id": "CPE 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A more fully developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units."
+    },
+    {
+      "id": "CPE 515",
+      "course name": "Computer Architecture",
+      "hasPrerequisite": "CPE 315",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Comparative study and design of multiprocessor, dataflow, RISC, high level language and other new computer architectures.  VLSI processor design techniques.  3 seminars, 1 laboratory.  Crosslisted as CPE/CSC515."
+    },
+    {
+      "id": "CPE 521",
+      "course name": "Computer Systems",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Organization of modern general purpose, high speed digital computer systems.  Design of arithmetic units, control units, memories and memory subsystems.  Cost, power and speed trade-offs in the design of such systems.  3 seminars, 1 laboratory.  Crosslisted as CPE/EE521."
+    },
+    {
+      "id": "CPE 522",
+      "course name": "Advanced Real-Time Operating Systems Design",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Define and implement a microcontroller-based Real-Time Operating System (RTOS).  Advanced real-time concepts, kernel structure, task and time management, various intertask communication constructs including semaphores, queues and mailboxes.  Scheduler design, memory management and shared resource management in a resource-constrained microcontroller environment.  3 seminars, 1 laboratory.  Crosslisted as CPE/EE522."
+    },
+    {
+      "id": "CPE 523",
+      "course name": "Digital Systems Design",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Full-custom design and analysis of digital circuits using full CMOS, pass-transistor and dynamic circuit topologies.  Transistor sizing for minimizing power consumption, delay and other design criteria.  3 seminars, 1 laboratory.  Crosslisted as CPE/EE523."
+    },
+    {
+      "id": "CPE 564",
+      "course name": "Computer Networks: Research Topics",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Exploration of advanced topics in emerging computer networking technologies; focus on leading edge computer network research topics.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC564."
+    },
+    {
+      "id": "CPE 569",
+      "course name": "Distributed Computing",
+      "hasPrerequisite": "CSC 141 or CSC 348",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Principles and practices in distributed computing:  interprocess communications, group communications, client-server model, distributed objects, message queue system, distributed services, mobile agents, object space, Internet protocols.  Distributed algorithms:  consensus protocols, global state protocols.  Fault tolerance:  classification of faults, replication.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC569."
+    }
+  ]
+}

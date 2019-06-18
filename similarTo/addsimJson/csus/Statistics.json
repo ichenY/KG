@@ -1,0 +1,167 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Descriptive statistics, basic concepts of probability and sampling with the aim of introducing fundamental notions and techniques of statistical inference. ",
+      "id": "CSUS_STAT 1",
+      "course name": "Introduction to Statistics"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": " that requires background in data analysis process, descriptive statistics and the concept of randomness. Topics include: Summarizing the data distribution graphically and numerically; reasoning about bivariate numerical data; linear correlation and regression; linear, quadratic and exponential functions as a way of modeling a correspondence between two variables; reasoning about bivariate categorical data; basic concepts of probability and the law of large numbers; conditional probability; discrete random variables; binomial distribution; and an introduction to continuous random variables. Lecture three hours.",
+      "course name": "Introductory Statistics with Developmental Mathematics",
+      "units": "3 Units",
+      "id": "CSUS_STAT 10A",
+      "prerequisite": [
+        "STAT 10B"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": ". Stat 10B prepares students for research methods applications/ courses in various disciplines. Topics include: Continuous random variables and normal distribution; sampling distributions and the central limit theorem; confidence intervals and tests of hypotheses for means, proportions, difference in means and difference in proportions; and chi-squared tests for categorical data analysis. Lecture three hours. ",
+      "course name": "Introductory Statistics with Developmental Mathematics",
+      "units": "3 Units",
+      "id": "CSUS_STAT 10B",
+      "prerequisite": [
+        "STAT 10A",
+        "STAT 10A"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Sample spaces, combinatorics, and random variables. Density and distribution functions. Expectation, variance, and covariance. The binomial, uniform, poisson, negative binomial, hypergeometric, exponential, gamma, beta, and normal distributions. Sampling distributions, estimation, and hypothesis tests. Students are given periodic writing assignments which encourage them to think through concepts of the course. ",
+      "course name": "Introduction to Probability and Statistics",
+      "units": "4 Units",
+      "id": "CSUS_STAT 50",
+      "prerequisite": [
+        "MATH 26A",
+        "MATH 30"
+      ]
+    },
+    {
+      "units": "1 - 6 Units",
+      "term": "Fall, Spring",
+      "description": "When there is a demand from a sufficient number of qualified students, one of the staff will conduct a seminar on some topic in statistics.",
+      "id": "CSUS_STAT 96",
+      "course name": "Experimental Offerings in Statistics"
+    },
+    {
+      "term": "Spring only \u2013 even years",
+      "description": "Review of hypothesis testing --one sample. Hypothesis testing --two sample, variance. Regression and correlation. Analysis of variance including two-way. Analysis of categorical data. Non-parametric tests, goodness of fit, and tests for randomness. ",
+      "course name": "Intermediate Statistics",
+      "units": "3 Units",
+      "id": "CSUS_STAT 103",
+      "prerequisite": [
+        "STAT 50"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Probability axioms, discrete and continuous random variables, functions of random variables, joint densities, expectation, moment generating functions. Chebyshev's inequality, transformations, weak law of large numbers, central limit theorem. ",
+      "course name": "Introduction to Probability Theory",
+      "units": "3 Units",
+      "id": "CSUS_STAT 115A",
+      "prerequisite": [
+        "MATH 31",
+        "STAT 1",
+        "STAT 50"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Point Estimation, interval estimation, hypothesis testing, the multivariate normal distribution, non-parametric tests. ",
+      "course name": "Introduction to Mathematical Statistics",
+      "units": "3 Units",
+      "id": "CSUS_STAT 115B",
+      "prerequisite": [
+        "STAT 115A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "description": "Computer methods for accessing, transforming, summarizing, graphing and making statistical inferences from data; focus is on command-line statistical software, but menu-driven software may be introduced; application of computer methods to solve problems selected from the areas of modeling, simulation, inference and statistical learning. ",
+      "id": "CSUS_STAT 128",
+      "prerequisite": [
+        "STAT 1",
+        "STAT 50",
+        "MATH 26A",
+        "MATH 30"
+      ],
+      "course name": "Statistical Computing"
+    },
+    {
+      "term": "Spring only \u2013 odd years",
+      "description": "Formulation and analysis of mathematical models with emphasis on real systems applications. Introduction to Queueing theory and Markov Processes for application. ",
+      "course name": "Introduction to Techniques of Operations Research",
+      "units": "3 Units",
+      "id": "CSUS_STAT 155",
+      "prerequisite": [
+        "MATH 31",
+        "STAT 50",
+        "STAT 103",
+        "STAT 115A",
+        "MATH 31"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Computer methods for accessing, transforming, summarizing, graphing, and making statistical inferences from data. Both a command-line statistical software package such as R and menu-driven package such as SAS will be used. Students will learn to apply computer methods to solve problems selected from the areas of modeling, simulation, inference and statistical learning. The intent of this course is to provide students with the software skills needed for statistical work in industry or academia. ",
+      "course name": "Statistical Computing",
+      "units": "3 Units",
+      "id": "CSUS_STAT 196J",
+      "prerequisite": [
+        "STAT 1",
+        "STAT 50",
+        "MATH 26A",
+        "MATH 30"
+      ]
+    },
+    {
+      "units": "1 - 6 Units",
+      "term": "Fall, Spring",
+      "description": "Individual projects or directed reading. Open only to students who appear competent to carry on individual work. Admission to this course requires approval of the instructor in addition to the approval of the advisor and the Department Chair.",
+      "id": "CSUS_STAT 199",
+      "course name": "Special Problems"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Probability measure, conditional probability and independence, random variables, characteristic and moment-generating functions, modes of convergence. ",
+      "course name": "Introduction to Mathematical Statistics",
+      "units": "3 Units",
+      "id": "CSUS_STAT 215A",
+      "prerequisite": [
+        "STAT 115A",
+        "STAT 115B",
+        "MATH 134"
+      ]
+    },
+    {
+      "term": " May be taken twice with approval of Graduate Coordinator.  ",
+      "description": " with topics selected from: Statistical Inference, Estimation Theory, Testing Hypotheses, Linear Models, Nonparametric Methods, Multivariate Analysis, Computer intensive methods in Statistics and Sampling Theory. ",
+      "course name": "Topics in Introduction to Mathematical Statistics",
+      "units": "3 Units",
+      "id": "CSUS_STAT 215B",
+      "prerequisite": [
+        "STAT 215A",
+        "STAT 215A"
+      ]
+    },
+    {
+      "units": "1 - 6 Units",
+      "term": "Fall, Spring",
+      "description": "Any properly qualified student who wishes to pursue a problem may do so if the proposed subject is acceptable to the department committee, the supervising instructor and the student's advisor.",
+      "id": "CSUS_STAT 299",
+      "course name": "Special Problems"
+    }
+  ],
+  "subjectOf": {
+    "id": "STAT",
+    "subject": "Statistics"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Statistics",
+    "id": "CSUS"
+  }
+}

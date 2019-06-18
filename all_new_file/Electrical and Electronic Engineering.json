@@ -1,0 +1,1106 @@
+{
+  "courses": [
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Covers the following topics: logic gates, binary number system, conversion between number systems, Boolean algebra, Karnaugh maps, combinational logic, digital logic design, flip-flops, programmable logic devices (PLDs), counters, registers, memories, state machines, designing combinational logic and state machines into PLDs, and basic computer architecture. Lab emphasizes the use of software equation entry design tools, the use of a schematic entry, and the use of a logic simulation design tool. Lab assignments are design-oriented. ",
+      "course name": "Introduction to Logic Design",
+      "units": "4 Units",
+      "id": "CSUS_EEE 64",
+      "prerequisite": [
+        "CSC 15",
+        "CSC 25",
+        "CPE 64"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Assists students in developing a more thorough understanding of logic simulation and logic design. Focus is on problem solving and design.  Activity two hours.  Lecture three hours; laboratory three hours. ",
+      "course name": "Introduction to Logic Design Workshop",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 64W",
+      "prerequisite": [
+        "EEE 64",
+        "CPE 64W"
+      ]
+    },
+    {
+      "term": " Cannot be taken for credit by E&EE Majors.  ",
+      "description": "Introduction to analog/digital electronics, diodes, FET's, BJT's, DC biasing, VI characteristics, single-stage amplifiers, power supplies and voltage regulators, power electronic devices, OP-amps, active filters, A/D and D/A converters. PSPICE used extensively. ",
+      "course name": "Analog/Digital Electronics",
+      "units": "3 Units",
+      "id": "CSUS_EEE 102",
+      "prerequisite": [
+        "ENGR 17"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Introduction to electronics, ideal OP-AMPS, BJTs, FETs, DC biasing, VI characteristics, single stage amplifiers, low frequency small signal models, power supplies and voltage regulation. PSPICE required. ",
+      "course name": "Electronics I",
+      "units": "3 Units",
+      "id": "CSUS_EEE 108",
+      "prerequisite": [
+        "EEE 117",
+        "EEE 108L"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Characteristics and applications of OP-AMPS, rectifiers, BJTs and FETs. Introduction to GPIB, PSPICE and LabVIEW. Laboratory three hours. ",
+      "course name": "Electronics I Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 108L",
+      "prerequisite": [
+        "EEE 117",
+        "EEE 117L",
+        "EEE 108"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Differential and multistage amplifiers, high frequency models (BJTs and FETs), feedback and sensitivity, power amplifiers, oscillators and waveform shaping circuits. Advanced use of PSPICE. Lecture three hours; laboratory three hours. ",
+      "course name": "Electronics II",
+      "units": "4 Units",
+      "id": "CSUS_EEE 109",
+      "prerequisite": [
+        "EEE 108",
+        "EEE 108L",
+        "EEE 117",
+        "EEE 117L",
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "The use of operational amplifiers in circuit designs for applications such as filtering, switched capacitor design, sample and hold design, instrumentation amplifiers, and voltage reference circuitry will be explored, as well as topics in Feedback Theory. ",
+      "course name": "Advanced Analog Integrated Circuits",
+      "units": "3 Units",
+      "id": "CSUS_EEE 110",
+      "prerequisite": [
+        "EEE 109"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Circuit design, mask design, and simulation of integrated circuitry.  Use of CAD software to prepare design for fabrication.  Individual and group design projects.  Laboratory three hours. ",
+      "course name": "Advanced Analog Integrated Circuits Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 111",
+      "prerequisite": [
+        "EEE 109",
+        "EEE 110",
+        "EEE 230",
+        "EEE 110",
+        "EEE 230"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Review of sinusoidal steady state, phasors, complex power, three phase power, mutual inductance, series and parallel resonance. Introduction to application of Laplace transforms in network analysis, transfer functions, Bode plots, Fourier series, two-port circuits. ",
+      "course name": "Network Analysis",
+      "units": "3 Units",
+      "id": "CSUS_EEE 117",
+      "prerequisite": [
+        "ENGR 17",
+        "MATH 45",
+        "PHYS 11C",
+        "EEE 117L"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": " lecture. The computer simulation language PSPICE is introduced and applied. Laboratory three hours. ",
+      "course name": "Networks Analysis Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 117L",
+      "prerequisite": [
+        "EEE 117",
+        "EEE 117"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fundamental principles of sensors and instrumentation systems, together with their electrical implementation, such as biasing and signal conditioning circuits. Temperature, force, pressure, and mechanical sensors. Optical sensors,  including a brief introduction to light sources and detectors. Applications to biomedical engineering and industrial control. Lecture three hours; laboratory three hours. ",
+      "course name": "Electronic Instrumentation",
+      "units": "4 Units",
+      "id": "CSUS_EEE 120",
+      "prerequisite": [
+        "EEE 108",
+        "EEE 117",
+        "EEE 108"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Application of digital signal processing to biomedical signals. Origin and characteristics of biomedical signals and contaminations. Preparation of biomedical signals for processing, including sensors, amplification, filtering, sampling, and quantization. Time-domain processing, including peak and zero-crossing detection, time interval measurement, peak height, and moving average estimates of mean and root mean square value. Frequency domain processing, including filtering to separate biomedical signal components and spectrum estimation. Joint time-frequency analysis. ",
+      "course name": "Applied Digital Signal Processing",
+      "units": "3 Units",
+      "id": "CSUS_EEE 122",
+      "prerequisite": [
+        "EEE 117",
+        "EEE 180"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Magnetic circuits and principles of electromechanical energy conversion, transformers, DC machines, asynchronous AC machines, synchronous AC machines, introduction to special machines. ",
+      "course name": "Electromechanical Conversion",
+      "units": "3 Units",
+      "id": "CSUS_EEE 130",
+      "prerequisite": [
+        "EEE 117",
+        "EEE 161"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Direct current motor and generator characteristics, three phase synchronous motor and synchronous generator characteristics, single phase power transformer short circuit and no-load tests, frequency changer tests and tests on DC and AC machine models, potential and current transformers. ",
+      "course name": "Electromechanics Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 131",
+      "prerequisite": [
+        "EEE 117",
+        "EEE 130",
+        "EEE 130",
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "The study of existing sources of renewable electric energy such as wind, solar, geothermal, hydro, tidal, wave power, and biomass. Emphasis on wind and solar energy sources and their integration into the electric power grid. Various energy storage methods to accommodate the intermittent nature of these resources. Economic constraints, environmental benefits and institutional regulations. ",
+      "course name": "Renewable Electrical Energy Sources and Grid Integration",
+      "units": "3 Units",
+      "id": "CSUS_EEE 135",
+      "prerequisite": [
+        "EEE 130"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Smart grid to enhance reliability, security, robustness and efficiency of transmission and distribution systems. Integration of renewable energy sources and distributed generation. Energy storage systems. Advanced metering infrastructure, home-area networks, micro-grids, real-time pricing, plug-in hybrid vehicles, demand response, load curve sharing. Control, monitoring and protection grid; SCADA systems. Voltage and load frequency control to ensure balance. Enabling active participation of consumer. Anticipating and responding to system disturbance in self healing manner. Providing power quality for digital systems needs. ",
+      "course name": "Smart Electric Power Grid",
+      "units": "3 Units",
+      "id": "CSUS_EEE 136",
+      "prerequisite": [
+        "EEE 142",
+        "EEE 144"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Analysis methods for power electronics. Power electronic devices and their control methodologies. Electric machinery drives and flexible alternating current transmission systems (FACTS) devices simulation of cases relevant to applications of power electronics in power systems. ",
+      "course name": "Applications of Power Electronics in Power Systems",
+      "units": "3 Units",
+      "id": "CSUS_EEE 137",
+      "prerequisite": [
+        "EEE 130",
+        "EEE 141"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Characteristics of power system components. Transmission line parameters and the steady state performance of transmission lines. Introduction to solutions of linear and nonlinear algebraic equations using Gauss, Gauss-Seidel, and Newton-Raphson techniques. Introduction to power flow analysis. ",
+      "course name": "Power System Analysis I",
+      "units": "3 Units",
+      "id": "CSUS_EEE 141",
+      "prerequisite": [
+        "EEE 117",
+        "EEE 161"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Review of the fundamentals in electric energy systems; power flow analysis, disturbance of normal operating conditions, symmetrical components and sequence impedances, analysis of balanced and unbalanced faults; a brief review of protection systems; optimum allocation and dispatching of generators; dynamic system control; introduction to stability studies. Students in the course will use MATLAB to solve problems. ",
+      "course name": "Power System Analysis II",
+      "units": "3 Units",
+      "id": "CSUS_EEE 142",
+      "prerequisite": [
+        "EEE 130",
+        "EEE 141",
+        "EEE 184"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Simulation of three phase operations and transmission line operation including voltage regulation, efficiency of long lines, power system stability, voltage control and load-frequency control, load flow and optimal dispatch for simplified interconnected systems. ",
+      "course name": "Power System Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 143",
+      "prerequisite": [
+        "EEE 130",
+        "EEE 141",
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Operation and design of utility and industrial distribution systems including distribution system planning; load characteristics; application of distribution transformers; design of subtransmission lines, distribution substations, primary systems, secondary systems; application of capacitors; voltage regulation and reliability. ",
+      "course name": "Electric Power Distribution",
+      "units": "3 Units",
+      "id": "CSUS_EEE 144",
+      "prerequisite": [
+        "EEE 130"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Principles of protective relaying (classical and modern), current and voltage transformers, setting and testing or relaying elements, including differential, impedance, over/under current, voltage, and frequency relay types and/or elements, and their applications in protection of power system elements, including lines, generators, transformers, motors, and buses.  Lecture 3 hours; laboratory 3 hours. ",
+      "course name": "Power System Relay Protection and Laboratory",
+      "units": "4 Units",
+      "id": "CSUS_EEE 145",
+      "prerequisite": [
+        "EEE 141"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Review thyristors, controlled rectifiers, DC choppers and inverters and pulse width modulation methods including space vector method. Control of DC drives and methods of control of induction synchronious motors including flux-vector methods and computer simulations will be studied. ",
+      "course name": "Power Electronics Controlled Drives",
+      "units": "3 Units",
+      "id": "CSUS_EEE 146",
+      "prerequisite": [
+        "EEE 108",
+        "EEE 130"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Computer simulation methods to describe power system behavior under steady state and dynamic conditions. Experiments conducted using MATLAB and Simulink for load flow in distribution lines, optimal power dispatch, synchronous machine transient behavior under short circuit conditions, transient stability, voltage and reactive power control, classical and modern load frequency control. Laboratory three hours. ",
+      "course name": "Power System Operation and Control Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 147",
+      "prerequisite": [
+        "EEE 141"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Solid state applications in power control. Diodes, rectifiers (single state and three phase), thrustors. Principle of phase controlled rectification, single phase and three phase converters. Power factor improvement. Three phase Pulse Width Modulation (PWM). AC voltage controllers. SPICE modeling. Strong design emphasis. EMTP modeling. LabView graphics simulation. Microprocessor control of power electronics systems. UPS systems, power supplies, power quality monitoring. ",
+      "course name": "Power Electronics Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 148",
+      "prerequisite": [
+        "EEE 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Review of vector calculus. Electrostatic fields from lines, surface and volume charges by Coulomb's law, Gauss' law, Laplace's and Poisson's equations. Capacitance. Magnetostatic field calculations using Biot-Savart's law and Ampere's law. Inductance. Forces on moving charges. Magnetic materials. Electric and magnetic energy in fields. Faraday's law. Ideal transformer. Moving conductor in time-varying magnetic field. Displacement current. Charge-current continuity relation. Transmission line analysis, characteristic impedance, reflection coefficient and standing wave concepts. Introduction to Smith Chart solutions to matching problems.  ",
+      "course name": "Applied Electromagnetics",
+      "units": "4 Units",
+      "id": "CSUS_EEE 161",
+      "prerequisite": [
+        "MATH 32",
+        "MATH 45",
+        "PHYS 11C",
+        "ENGR 17",
+        "CSC 25"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Review of distributed circuit theory and the Smith chart.  Impedance matching using series or shunt lumped and distributed circuits or near-quarterwave-matching sections.  Noise temperature and noise figure.   Scattering coefficient characterization of two-ports.  Stability circles for high frequency transistors.  Constant gain and noise figure circles.  Basic antenna theory.  Illustrated by their use for cell phones and other wireless systems. ",
+      "course name": "Applied Wave Propagation",
+      "units": "3 Units",
+      "id": "CSUS_EEE 162",
+      "prerequisite": [
+        "EEE 117",
+        "EEE 161"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Selected experiments in the transmission and reflection of waves in coaxial lines and waveguides. Antenna impedance and pattern measurements. Laboratory three hours. ",
+      "course name": "Traveling Waves Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 163",
+      "prerequisite": [
+        "EEE 117",
+        "EEE 162",
+        "EEE 162",
+        "ENGL 109M"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Generation, propagation and detection of light. Fresnel equations, Snells law, diffraction, polarization and interference. Operating principles of LEDs, lasers, photodiodes and optical fibers. Introduction to optical communications systems, integrated optical devices, and optical instrumentation. ",
+      "course name": "Introduction To Optical Engineering",
+      "units": "3 Units",
+      "id": "CSUS_EEE 165",
+      "prerequisite": [
+        "EEE 161",
+        "EEE 180",
+        "EEE 185",
+        "EEE 185"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Semiconductor physics, atomic models and crystal structures. Quantum theory, energy bands, motion of charge carriers, minority/majority carrier profiles and pn junctions. Manufacturing processes for and operating characteristics of diodes, bipolar transistors and field effect devices. ",
+      "course name": "Physical Electronics",
+      "units": "3 Units",
+      "id": "CSUS_EEE 166",
+      "prerequisite": [
+        "EEE 108",
+        "CHEM 1E",
+        "CHEM 1A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides senior level undergraduates with hands-on experience in optical engineering and design. Experiments involving laser characteristics, spectral radiometry, diffraction, polarization, modulation of light, holography and spatial filtering will be performed. Laboratory three hours. ",
+      "course name": "Electro-Optical Engineering Lab",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 167",
+      "prerequisite": [
+        "EEE 161",
+        "EEE 180",
+        "EEE 165",
+        "EEE 165"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Topics include: microcomputer systems, microprocessor architecture, machine and assembly language programming, timing operations, bus arbitration and exception processing logic, addressing modes, parallel and serial ports, memory, assemblers and development systems. The lab uses development systems and target systems in the Computer Engineering laboratory to assemble, link, test and debug and run various assignments. Lecture three hours; laboratory three hours. ",
+      "course name": "Introduction to Microprocessors",
+      "units": "4 Units",
+      "id": "CSUS_EEE 174",
+      "prerequisite": [
+        "EEE 64"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Fundamental digital image processing and machine vision concepts and their application to the fields of robotics and automation. Topics include: digital image processing, image formation, two dimensional transforms, boundary descriptors, motion, camera calibration, vision for robot control, 3-D vision, and hardware architectures to support vision. ",
+      "course name": "Introduction to Machine Vision",
+      "units": "3 Units",
+      "id": "CSUS_EEE 178",
+      "prerequisite": [
+        "EEE 180",
+        "ME 172"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Rigorous development of the fundamental relationships governing time-domain and frequency-domain analysis of linear continuous-time and discrete-time systems. Topics include Fourier, Laplace and z-transforms, sampling theorem, modulation, system stability, and digital filters. ",
+      "course name": "Signals and Systems",
+      "units": "3 Units",
+      "id": "CSUS_EEE 180",
+      "prerequisite": [
+        "EEE 117",
+        "EEE 117"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Focuses on the application of linear systems theory to design and analysis of digital signal processing systems. Discrete systems, the z transform, and discrete Fourier transform are reviewed. Design of infinite impulse response filters, finite impulse response filters, and digital spectral analysis systems is presented. Computer simulation is used to study the performance of filters and spectral analysis systems. Signal processing architectures are introduced. ",
+      "course name": "Introduction to Digital Signal Processing",
+      "units": "3 Units",
+      "id": "CSUS_EEE 181",
+      "prerequisite": [
+        "EEE 64",
+        "EEE 180"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Provides senior level undergraduate students with experience in the software/hardware design of discrete-time systems, and modern DSP techniques.  Laboratory projects will include the following:  spectral analysis of analog and digital signals, design of sampling and quantizer circuits, design and realization of IIR and FIR Digital Filters.  Hardware projects will include acquisition, analysis, and filtering of speech, biomedical and video signals using Digital Signal Processors (DSPs). ",
+      "course name": "Digital Signal Processing Lab",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 182",
+      "prerequisite": [
+        "EEE 180",
+        "EEE 181",
+        "EEE 181"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Review of fundamentals, probability, information, distortion by channel, sampling, pulse code modulation, companding, link power calculation, noise figure, pseudo noise.  Matched filter detection of binary signals, bit error rate, inter-symbol interference, zero-forcing equalizers.  Effects of additive white Gaussian noise in pulse code modulation, spread spectrum in multiple access, cellular radio and other wireless applications.  Procedure for making design trade offs will be discussed. ",
+      "course name": "Digital and Wireless Communication System Design",
+      "units": "3 Units",
+      "id": "CSUS_EEE 183",
+      "prerequisite": [
+        "EEE 161",
+        "EEE 180",
+        "EEE 185"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Dynamic system modeling by transfer function and state-space methods using differential equation, time-response and frequency-response methods.  Determination of steady-state errors due to step, ramp and parabolic inputs and disturbances for closed-loop systems.  Mapping of block diagrams and state-space representations to signal flow graphs (SFG) as well as finding the transfer function of the system represented by the SFG by Mason's Rule.  Closed-loop system stability is examined via poles and eigenvalues and by using the Routh-Hurwitz criterion.  Introduction to observability and controllability of systems.  Design of compensators for feedback systems using root-locus, frequency response and state-space methods.  Introduction to digital control.  Computer simulation methods such as MATLAB and SIMULINK are used to support the above subjects. ",
+      "course name": "Introduction to Feedback Systems",
+      "units": "3 Units",
+      "id": "CSUS_EEE 184",
+      "prerequisite": [
+        "EEE 180"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Review of signal and system analysis, sampling theorem and Nyquist's criteria for pulse shaping, signal distortion over a channel, study of digital and analog communication systems, line coding, signal to noise ratios, performance comparison of various communication systems. ",
+      "course name": "Modern Communication Systems",
+      "units": "3 Units",
+      "id": "CSUS_EEE 185",
+      "prerequisite": [
+        "EEE 180",
+        "ENGR 120",
+        "ENGR 120"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Experimental study of modulation and demodulation in AM, FM, and digital communication systems, A/D and D/A conversion, measurement of power spectra, noise characterization in frequency domain. ",
+      "course name": "Communication Systems Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 186",
+      "prerequisite": [
+        "EEE 117",
+        "EEE 185",
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Lecture introduces principles of robotics and design of robot systems. Includes robot architectures, sensing position/velocity, digital circuit noise, actuator and path control, robot coordinate systems, kinematics, differential motion, computer vision/architectures, and artificial intelligence. Laboratory will apply lecture theory in design experiments utilizing five degree-of-freedom robots, an industrial robot, and vision systems. ",
+      "course name": "Robotics",
+      "units": "4 Units",
+      "id": "CSUS_EEE 187",
+      "prerequisite": [
+        "EEE 180"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Intended to present treatment of the classical digital control with an introduction to modern digital control system in the state space. Z-transform as applied to discrete-time systems with transformation from the s-plane to the z-plane. Analyzes digital control systems using Nyquist and Bode plots and root-locus. Stability analysis of digital systems using Jury test, Routh Criterion, Nyquist and Bode plots. Design using root-locus and Bode plots introduced. Introduction to state-space and pole assignment. Finite-word length effects. MATLAB applications. ",
+      "course name": "Digital Control System",
+      "units": "3 Units",
+      "id": "CSUS_EEE 188",
+      "prerequisite": [
+        "EEE 180"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study, simulation and design of linear feedback control systems using digital control methods such as MATLAB and SIMULINK.  Practical examples of analysis and compensation for closed loop systems. ",
+      "course name": "Controls Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 189",
+      "prerequisite": [
+        "EEE 184",
+        "EEE 184",
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Concentrates on the planning, research and design aspects of electric power systems, including generation, transmission and distribution systems. Emphasis is placed on design philosophies, problem definition, research, project planning, written and oral communication skills, teamwork, development of specifications and effective utilization of available resources. Lecture one hour; laboratory three hours. ",
+      "course name": "Electrical Power Design Project I",
+      "units": "2 Units",
+      "id": "CSUS_EEE 192A",
+      "prerequisite": [
+        "EEE 143",
+        "EEE 141",
+        "EEE 142",
+        "EEE 144",
+        "EEE 143",
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". Final results of the project report will be presented orally to the class and invited faculty in a publicized seminar. Lecture one hour; laboratory three hours. ",
+      "course name": "Electrical Power Design Project II",
+      "units": "2 Units",
+      "id": "CSUS_EEE 192B",
+      "prerequisite": [
+        "EEE 192A",
+        "EEE 142",
+        "EEE 144",
+        "EEE 142",
+        "EEE 144",
+        "EEE 192A",
+        "EEE 192A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Concentrates on the planning and design of electronic engineering devices, systems and software. Emphasis is placed on design philosophies, problem definition, project planning and budgeting, written and oral communication skills, teamwork, development of specifications, utilization of computer aided design systems, and effective utilization of available resources. Lecture one hour; laboratory three hours. ",
+      "course name": "Product Design Project I",
+      "units": "2 Units",
+      "id": "CSUS_EEE 193A",
+      "prerequisite": [
+        "EEE 108",
+        "EEE 109",
+        "EEE 130",
+        "EEE 161",
+        "EEE 174",
+        "EEE 180",
+        "EEE 109",
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". The hardware will be completed, tested for the meeting of specifications and other requirements, and redesigned if necessary. Required software will be written, debugged and incorporated in a written report. The final results of the team project will be presented orally to the class and invited faculty in a publicized seminar. Lecture one hour; laboratory three hours. ",
+      "course name": "Product Design Project II",
+      "units": "2 Units",
+      "id": "CSUS_EEE 193B",
+      "prerequisite": [
+        "EEE 193A",
+        "EEE 193A"
+      ]
+    },
+    {
+      "term": " Units earned cannot be used to satisfy major requirements.  ",
+      "description": "Designed for Electrical and Electronic Engineering students making career decisions. Instruction will include effective career planning strategies and techniques including skill assessments, employment search strategy, goal setting, time management, interview techniques and resume writing. Lecture one hour. ",
+      "course name": "Career Development in Electrical and  Electronic Engineering",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 194",
+      "prerequisite": [
+        "EEE 192A",
+        "EEE 193A"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " May be repeated for credit. ",
+      "description": "Supervised work experience in Electrical and Electronic Engineering with public agencies or firms in the industry. Requires approval of a petition by the supervising faculty member and Department Chair. ",
+      "id": "CSUS_EEE 195",
+      "course name": "Fieldwork in Electrical and Electronic Engineering"
+    },
+    {
+      "units": "1 - 12 Units",
+      "term": " Units earned cannot be used to satisfy major requirements.  ",
+      "description": "Supervised employment in a professional engineering or computer science environment. Placement arranged through the College of Engineering and Computer Science. Requires satisfactory completion of the work assignment and a written report. ",
+      "id": "CSUS_EEE 195A",
+      "course name": "Professional Practice"
+    },
+    {
+      "units": "1 - 12 Units",
+      "term": " Units earned cannot be used to satisfy major requirements.  ",
+      "description": "Supervised employment in a professional engineering or computer science environment. Placement arranged through the College of Engineering and Computer Science. Requires satisfactory completion of the work assignment and a written report. ",
+      "id": "CSUS_EEE 195B",
+      "course name": "Professional Practice"
+    },
+    {
+      "units": "1 - 12 Units",
+      "term": " Units earned cannot be used to satisfy major requirements.  ",
+      "description": "Supervised employment in a professional engineering or computer science environment. Placement arranged through the College of Engineering and Computer Science. Requires satisfactory completion of the work assignment and a written report. ",
+      "id": "CSUS_EEE 195C",
+      "course name": "Professional Practice"
+    },
+    {
+      "units": "1 - 12 Units",
+      "term": " Units earned cannot be used to satisfy major requirements.  ",
+      "description": "Supervised employment in a professional engineering or computer science environment. Placement arranged through the College of Engineering and Computer Science. Requires satisfactory completion of the work assignment and a written report. ",
+      "id": "CSUS_EEE 195D",
+      "course name": "Professional Practice"
+    },
+    {
+      "term": "Fall only",
+      "description": "Printed circuit board (PCB) design fundamentals including library component creation, schematic capture, layout, routing, signal integrity and transmission line analysis, IEEE/IPC rules and standards, materials, manufacturing processes, and other physical properties of a PCB. ",
+      "course name": "PCB Design Fundamentals",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 196A",
+      "prerequisite": [
+        "EEE 102",
+        "EEE 108"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students who appear qualified for independent work. Approval of the faculty sponsor and the academic advisor must be obtained before registering. May be repeated for credit.  ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_EEE 199",
+      "course name": "Special Problems"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Research methodology, problem formulation and problem solving. Collective and individual study of selected issues and problems relating to fields of study in the Electrical and Electronic Engineering Graduate Program. Orientation to the requirements for Masters Thesis or Project in Electrical Engineering. ",
+      "id": "CSUS_EEE 201",
+      "course name": "Research Methodology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "High-frequency passive electronic circuit design, specifically S-parameters, impedance matching, microstrip lines, filters, couplers and antennas. ",
+      "course name": "Microwave Engineering",
+      "units": "3 Units",
+      "id": "CSUS_EEE 211",
+      "prerequisite": [
+        "EEE 161",
+        "EEE 108"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Passive microwave components; power dividers, couplers and hybrids. Microwave filter design, periodic structures, image parameter and insertion loss methods for designing filters. Design of ferromagnetic components, isolators, phase shifters and circulators. Noise in microwave circuits.",
+      "id": "CSUS_EEE 212",
+      "course name": "Microwave Engineering II"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Theory and application of electromagnetic radiation at microwave frequencies; study of microwave impedance and power measurement and characteristics of microwave circuit components, and electronic devices. ",
+      "course name": "Microwave Devices and Circuits",
+      "units": "3 Units",
+      "id": "CSUS_EEE 213",
+      "prerequisite": [
+        "EEE 162"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to design methodology of the basic building blocks of communication systems. Use of solid state devices in communications and microwave technology. Implementation of transmitter and receiver architectures. Impedance matching, S-parameters and small-signal, large-signal device operation. Design of transmitter and receiver components using a professional software tool. Design and simulations of gain and low noise amplifiers, detectors, mixers, power amplifiers and oscillators. Tradeoffs involved in the design of a complete transmitter and a receiver. ",
+      "course name": "Computer Aided Design for Microwave Circuits",
+      "units": "3 Units",
+      "id": "CSUS_EEE 214",
+      "prerequisite": [
+        "EEE 211"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Review of electromagnetic theory. Ray tracing in an optical system, Gaussian beam propagation. Resonant optical cavities, study of excitation and lasing mechanisms in gas and semiconductor lasers. General characteristics and design of CW, Q switched and traveling wave lasers. ",
+      "course name": "Lasers",
+      "units": "3 Units",
+      "id": "CSUS_EEE 215",
+      "prerequisite": [
+        "EEE 180",
+        "EEE 161"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduces the student to fundamental digital imaging processing concepts and their application to the fields of robotics, automation, and signal processing. Topics include: digital image filters, two dimensional transforms, boundary descriptors, Hough transform, automated visual inspection techniques, vision for robot control, 3-D vision, and hardware architectures to support vision.",
+      "id": "CSUS_EEE 221",
+      "course name": "Machine Vision"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Current neural network architectures and electronic implementation of neural networks are presented. Basics of fuzzy logic is covered. Application software will be used to simulate training. Testing of various neural net architectures. Learning strategies such as back-propagation, Kohonen, Hopfield and Hamming algorithms will be explored. A final project requires the student to design, train and test a neural network for electronic implementation that solves a specific practical problem.",
+      "id": "CSUS_EEE 222",
+      "course name": "Electronic Neural Networks"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to robot kinematics and dynamics followed by a comprehensive treatment of robot control. Topics include: independent joint control, multivariable control, force control, feedback linearization, real-time parameter estimation, and model-reference adaptive control. ",
+      "course name": "Advanced Robot Control",
+      "units": "3 Units",
+      "id": "CSUS_EEE 225",
+      "prerequisite": [
+        "EEE 184"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Covers core topics and circuits important for analog and mixed-signal integrated circuits.  Topics include: device structures and models, single-stage and differential amplifiers, current mirrors and active loads, operational amplifier design, stability and compensation, fully-differential circuits and common-mode feedback, noise in integrated circuits and the impact of IC processes on analog performance. ",
+      "course name": "Analog and Mixed Signal Integrated Circuit Design",
+      "units": "3 Units",
+      "id": "CSUS_EEE 230",
+      "prerequisite": [
+        "EEE 109"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ", covers additional topics important in analog and mixed-signal integrated circuit design. Topics include traditional issues such as device matching and analog layout techniques, as well as important building blocks such as bandgap references and bias circuits. Also included are current-mode techniques such as high-speed current-mode logic (CML), and an introduction to noise in integrated circuits. Circuit and layout projects are assigned using CAD software. ",
+      "course name": "Advanced Analog and Mixed Signal Integrated Circuit Design",
+      "units": "3 Units",
+      "id": "CSUS_EEE 231",
+      "prerequisite": [
+        "EEE 230",
+        "EEE 230"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Covers key mixed-signal integrated circuit building blocks most often used in modern ICs.  Topics covered include data converter fundamentals, comparators, and important circuit architectures for Analog-to-Digital Converters (ADCs), Digital-to-Analog Converters (DACs), and Phase-Locked Loops (PLLs). ",
+      "course name": "Key Mixed-Signal Integrated Circuit Building Blocks",
+      "units": "3 Units",
+      "id": "CSUS_EEE 232",
+      "prerequisite": [
+        "EEE 230"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "The background and techniques needed to design and layout digital circuits at the transistor level for mixed-signal integrated circuits are covered. Topics include the design, layout and characterization of digital logic gates at the transistor level, typical CMOS process flows, device models and physics, and chip level considerations. ",
+      "course name": "Digital Integrated Circuit Design",
+      "units": "3 Units",
+      "id": "CSUS_EEE 234",
+      "prerequisite": [
+        "EEE 230"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Methods to develop successful mixed-signal integrated circuits using an industrial design methodology and computer-aided design tools. Proven design techniques presented; hands-on experience gained through each student designing their own integrated circuit. Communications skills developed through periodic presentations, including reviews for the circuit architecture, design and layout. ",
+      "course name": "Mixed-Signal IC Design Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_EEE 235",
+      "prerequisite": [
+        "EEE 230"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Semiconductor device modeling, including the application of the continuity equation and Poissons equation to abrupt and graded p/n junctions, semiconductor/metal contacts, junction field effect transistors (JFET), metal-oxide-semiconductor transistors (MOSFET), and bipolar junction transistors (BJT). Special topics include compound semiconductor devices and heterostructures.",
+      "id": "CSUS_EEE 236",
+      "course name": "Advanced Semiconductor Devices"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Focus on integrated circuit design-for-test-techniques; semiconductor reliablity factors and screening; semiconductor fabrication processes, device physics and related performance limitations; quantifying cost/quality tradeoffs; IC manufacturing flows and high-accuracy parametric test methods. ",
+      "course name": "Advanced VLSI Design-For-Test I",
+      "units": "3 Units",
+      "id": "CSUS_EEE 238",
+      "prerequisite": [
+        "CPE 151",
+        "CPE 166"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced topics in VLSI testing and Design-For-Test applications.  Memory-specific test methodology and special features of memory designs employed in high volume manufacturing for improved testability, yield, and reliability.  VLSI failure modes, their detection and prevention.  Application of trim, redundancy, wear-leveling, and error correction. ",
+      "course name": "Advanced VLSI Design-For-Test II",
+      "units": "3 Units",
+      "id": "CSUS_EEE 239",
+      "prerequisite": [
+        "EEE 238"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Analyzes linear systems in the state-space.  System realization and modeling, solutions of linear systems, stability including the method of Lyapunov, controllability and observability, state feedback and observers for both continuous and discrete-time systems.  Familiarity with MATLAB is required. ",
+      "course name": "Linear Systems Analysis",
+      "units": "3 Units",
+      "id": "CSUS_EEE 241",
+      "prerequisite": [
+        "EEE 180"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduces the student to modern statistical approaches for solving electronic system noise problems. A few of the topics covered are: Stochastic processes, Wiener and Kalman filters, linear prediction, lattice predictors and singular-value decomposition.",
+      "id": "CSUS_EEE 242",
+      "course name": "Statistical Signal Processing"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to sequence of random variables and multivariable distributions; models of stochastic processes; stationary stochastic processes and their applications; Markov processes, Markov chains, continuous Markov chains; renewal processes; birth-death processes; time-series applications in stochastic processes in filtering, reliability and forecasting, prediction and control. ",
+      "course name": "Applied Stochastic Processes",
+      "units": "3 Units",
+      "id": "CSUS_EEE 243",
+      "prerequisite": [
+        "ENGR 120"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Computational methods for solving problems in engineering analysis. Topics include variational methods, finite-difference analysis, optimization methods, and matrix methods. Focuses predominantly on applications of the methods, and students are required to solve real-world, engineering problems on the computer. ",
+      "course name": "Electrical Engineering Computational Methods and Applications",
+      "units": "3 Units",
+      "id": "CSUS_EEE 244",
+      "prerequisite": [
+        "EEE 180"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced signal processing topics include: multirate signal processing, adaptive filter design and analysis, spatial filtering and the application of FIR filter theory to beamforming. Applications of digital signal processing in communication systems, radar systems, and imaging systems are covered. Hardware and software topics, including current products and the incorporation of VLSI are included. Lecture. ",
+      "course name": "Advanced Digital Signal Processing",
+      "units": "3 Units",
+      "id": "CSUS_EEE 245",
+      "prerequisite": [
+        "EEE 174",
+        "EEE 181"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Review of digital control methods using transform techniques. State-variable representation and design of digital control systems, state-space compensators and tracking systems, polynomial equations approach, LQR and LQG discrete-time control and identification, and introduction to adaptive self-turning regulators. ",
+      "course name": "Advanced Digital Control",
+      "units": "3 Units",
+      "id": "CSUS_EEE 246",
+      "prerequisite": [
+        "EEE 241"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Topics from recent advances in control, systems and robotics control selected from IEEE Journals and related professional publications.  May be taken twice for credit.",
+      "id": "CSUS_EEE 249",
+      "course name": "Advanced Topics in Control and Systems"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Computation of phase and sequence impedances for transmission lines, machines, and transformers; sequence capacitance of transmission lines; applications of symmetrical components; changes in symmetry; analysis of simultaneous faults by two-port network theory and matrix transformations; analytical simplification for shunt and series faults; solution of the generalized fault diagrams; computer solution methods using the admittance and impedance matrices. ",
+      "course name": "Advanced Analysis of Faulted Power Systems",
+      "units": "3 Units",
+      "id": "CSUS_EEE 250",
+      "prerequisite": [
+        "EEE 141"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of a number of engineering and economic matters involved in planning, operating, and controlling power generation and transmission systems in electric utilities. Effects of hydro and nuclear plants on system economics. Economic and environmental constraints. Theoretical developments and computer methods in determining economic operation of interconnected power systems with emphasis on digital computers. ",
+      "course name": "Power System Economics and Dispatch",
+      "units": "3 Units",
+      "id": "CSUS_EEE 251",
+      "prerequisite": [
+        "EEE 141"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Power system economics, generation, transmission and distribution reliability. Production costing and generation planning, transmission planning. ",
+      "course name": "Power System Reliability and Planning",
+      "units": "3 Units",
+      "id": "CSUS_EEE 252",
+      "prerequisite": [
+        "EEE 142"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The fundamental concepts of control and stability in power systems. Topics include: power systems dynamics and linearized models, small and large disturbances, voltage and frequency stability. Introduction to power systems dynamic simulation for stability studies using CAD tools. ",
+      "id": "CSUS_EEE 253",
+      "course name": "Control and Stability of Power Systems"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Computer control, optimization and organization of large power systems. Loan and frequency control, voltage control, large load flow and contingency studies. Introduction to state estimation and load forecasting. ",
+      "course name": "Large Interconnected Power Systems",
+      "units": "3 Units",
+      "id": "CSUS_EEE 254",
+      "prerequisite": [
+        "EEE 142"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Future power systems from component and system perspectives. Smart grids, micro-grids, and interactive power systems using renewable resources and energy storage elements. National standards for certification of distributed generation involving machine-based and inverter-based technologies. Essential elements of advanced sensing, communications and information technology and their roles in adaptive automation, control, protection, and security. ",
+      "course name": "Future Power Systems and Smart Grids",
+      "units": "3 Units",
+      "id": "CSUS_EEE 255",
+      "prerequisite": [
+        "EEE 141",
+        "EEE 146",
+        "EEE 180",
+        "EEE 250"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced concepts and schemes used in power system protection including the various protective schemes used for transmission lines, transformers, machines, and other elements of a large interconnected power system.  Concepts in digital and microprocessor based relay design and analysis of typical protection subsystems, in conjunction with the protection of the power system as a whole. ",
+      "course name": "Advanced Power Systems Protection",
+      "units": "3 Units",
+      "id": "CSUS_EEE 256",
+      "prerequisite": [
+        "EEE 141",
+        "EEE 145"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Fundamentals of current technologies and methods in wind energy conversion systems, including turbines, generators and converters as well as control and integration of these devices in power grids. Topics include: power conversion, grid converters for wind systems, system integration, methods for power, voltage and frequency control, and wind farms simulation and aggregation methods. ",
+      "id": "CSUS_EEE 257",
+      "course name": "Wind Energy Electrical Conversion Systems"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Topics from recent advances in Electrical Power Engineering selected from IEEE Journal on \"Power Systems\" and \"Power Systems Delivery.\"  May be taken twice for credit. ",
+      "course name": "Advanced Topics in Power Systems",
+      "units": "3 Units",
+      "id": "CSUS_EEE 259",
+      "prerequisite": [
+        "EEE 142"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Review of Fourier analysis and theory of probability, random processes, optimum filtering, performance of analog and digital communication systems in the presence of noise, system optimization. ",
+      "course name": "Statistical Theory of Communication",
+      "units": "3 Units",
+      "id": "CSUS_EEE 260",
+      "prerequisite": [
+        "EEE 185"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Signal space concepts, optimum M-ary communication systems, MAP estimation of continuous waveform parameters, information theory, coding. ",
+      "course name": "Information Theory, Coding, and Detection",
+      "units": "3 Units",
+      "id": "CSUS_EEE 261",
+      "prerequisite": [
+        "EEE 185"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Wireless communication techniques, systems and standards.  Topics include cellular systems, RF transmission and analog/digital modulation techniques.  Modern techniques such as multiple access and spread spectrum systems. Channel coding and diversity will also be included. ",
+      "course name": "Wireless Communications Systems",
+      "units": "3 Units",
+      "id": "CSUS_EEE 262",
+      "prerequisite": [
+        "EEE 185"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced theoretical and practical aspects of modern wireless communications. Specific topics include: advanced cellular concepts, modern small-scale and large-scale propagation models, complex equalization and diversity system design, 3G (third generation) wireless networks, Bluetooth and Personal Area Networks (PANs), GPRS (General Packet Radio Service) and wireless measurement techniques. ",
+      "course name": "Advanced Topics in Wireless Communications",
+      "units": "3 Units",
+      "id": "CSUS_EEE 264",
+      "prerequisite": [
+        "EEE 262"
+      ]
+    },
+    {
+      "term": " may not be both taken for graduate credit.  ",
+      "description": "Generation, propagation and detection of light. Fresnel equations, Snell's law, diffraction, polarization, and interference. Operating principles of LEDs, lasers, photodiodes, optical fibers, photovoltaic devices. Introduction to optical communications systems and optical instrumentation. ",
+      "course name": "Optoelectronic Engineering",
+      "units": "4 Units",
+      "id": "CSUS_EEE 265",
+      "prerequisite": [
+        "EEE 265",
+        "EEE 165"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fundamentals of modern lightwave communication systems, sources detectors and optical fibers. Study of dispersion in Step Index, Graded Index and Single Mode Optical Fibers. Intensity Modulated Direct Detection systems (IMDD) and Coherent Fiber Optic Systems (COFOCS). Performance evaluation and design considerations. Wavelength division multiplexing, Local Area Networks, optical amplifiers and photonic switching. ",
+      "course name": "Fiber Optic Communications",
+      "units": "3 Units",
+      "id": "CSUS_EEE 267",
+      "prerequisite": [
+        "EEE 185"
+      ]
+    },
+    {
+      "units": "4 Units",
+      "term": "Fall, Spring",
+      "description": "Synchronous and asynchronous state machines. Timing issues in high-speed digital design. Design of a complex system using VHDL and Verilog Hardware Description Languages in a CAD environment. Automation toolsets to synthesize projects containing a hierarchy of modules into Field Programmable Gate Arrays (FPGAs). Simulations using CAD tools to verify the design before implementation on rapid prototyping boards in the lab. Lecture 3 hours; laboratory 3 hours. ",
+      "id": "CSUS_EEE 270",
+      "course name": "Advanced Topics in Logic Design"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Theoretical topics and practical applications relating to high speed digital systems.  Review of basic transmission line theory, crosstalk, impact of PCB traces, vias, and connectors on signal integrity, return current paths, simultaneous switching noise, high frequency power delivery, high speed timing budgets, high speed bus design methodologies, radiated emissions, and system noise. ",
+      "course name": "High Speed Digital System Design",
+      "units": "3 Units",
+      "id": "CSUS_EEE 272",
+      "prerequisite": [
+        "EEE 161"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Hierarchical digital design course that includes: State machine design, Programmable Logic Devices, digital simulation techniques, digital interface, design with ASIC (Application Specific Integrated Circuits), programmable Gate Arrays, and designing with Gas high speed logic devices. Problems with EMI, RFI and EMC will be presented along with design guidelines. Lecture three hours. ",
+      "course name": "Hierarchical Digital Design Methodology",
+      "units": "3 Units",
+      "id": "CSUS_EEE 273",
+      "prerequisite": [
+        "CSC 273"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Timing analysis of Application Specific Integrated Circuit (ASIC) designs: Topics include ASIC design methodology, static timing analysis, timing design constraints, design reports, clock timing issues, timing exceptions, operating conditions, hierarchical analysis, analyzing designs with asynchronous logic, performance measurement and power issues. ",
+      "course name": "Advanced Timing Analysis",
+      "units": "3 Units",
+      "id": "CSUS_EEE 274",
+      "prerequisite": [
+        "EEE 273",
+        "CSC 273",
+        "CPE 273",
+        "CPE 274"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Introduces computer classification schemes, structures of uni- and multi-processor systems, parallelism in uniprocessor systems, design and performance analysis of pipelined and array processors; survey and analysis of interconnection networks and parallel memory organizations; programming issues of multiprocessor systems; and fault tolerant computing and design for testability. ",
+      "course name": "Advanced Computer Architecture",
+      "units": "3 Units",
+      "id": "CSUS_EEE 280",
+      "prerequisite": [
+        "CSC 205",
+        "CSC 280"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Focuses on: design of the microprocessor based computer system, study of bus structures, interrupt schemes, memory interfacing, timing, bus arbitration, system architecture, data communications, introduction to multiprocessor systems, and software development. ",
+      "course name": "Micro-Computer System Design I",
+      "units": "3 Units",
+      "id": "CSUS_EEE 285",
+      "prerequisite": [
+        "EEE 174",
+        "CPE 185"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Includes PCI and PCI express bus specifications/architecture, PCI bridges transaction ordering, PCI express transactions and handshaking protocols, electromagnetic interference, methods of eliminating interference, shielding grounding, balancing, filtering, isolation, separation, orientation, cancellation techniques and cable design. Involves design projects and research presentations on PCI and PCI Express Bridge. ",
+      "course name": "Microcomputer System Design II",
+      "units": "3 Units",
+      "id": "CSUS_EEE 286",
+      "prerequisite": [
+        "EEE 285",
+        "CPE 186"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "The objective of this course is to cover the digital processing of speech signals. Topics include speech production and perception, speech processing in the time frequency domains. Short-time energy and Short-time Fourier analysis, homomorphic and linear predictive coding methods. Also covered are speech coding, basic introduction of text-to-speech synthesis and speech recognition. ",
+      "course name": "Digital Speech Processing",
+      "units": "3 Units",
+      "id": "CSUS_EEE 296T",
+      "prerequisite": [
+        "EEE 181",
+        "CPE 296T"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Open to qualified students who wish to pursue problems of their own choice. Projects must have approval and supervision of a faculty advisor. ",
+      "id": "CSUS_EEE 299",
+      "course name": "Special Problems"
+    },
+    {
+      "units": "1 - 6 Units",
+      "term": "Fall, Spring",
+      "description": "Completion of a thesis, project or comprehensive examination. Credit given upon successful completion of one of the following plans: Plan A: Master's Thesis, 5 units; Plan B: Master's Project, 2 units; or Plan C: Comprehensive Examination. ",
+      "id": "CSUS_EEE 500",
+      "course name": "Culminating Experience"
+    }
+  ],
+  "subjectOf": {
+    "id": "EEE",
+    "subject": "Electrical and Electronic Engineering"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Electrical and Electronic Engineering",
+    "id": "CSUS"
+  }
+}

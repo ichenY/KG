@@ -1,0 +1,66 @@
+{
+  "courses": [
+    {
+      "units": "5 Units",
+      "term": "Fall only",
+      "description": "Russian language beginning course with primary emphasis on the development of communication skills. Russian life and culture are introduced through readings and video/films.",
+      "id": "CSUS_RUSS 1A",
+      "course name": "Elementary Russian"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". Continued emphasis on communication skills and continued integration of cultural-historical components with the language learning experience. ",
+      "course name": "Elementary Russian",
+      "units": "5 Units",
+      "id": "CSUS_RUSS 1B",
+      "prerequisite": [
+        "RUSS 1A",
+        "RUSS 1A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Continuation of RUSS 1 with further emphasis on the development of communication skills. Meets the Foreign Language Graduation Proficiency Requirement. ",
+      "course name": "Intermediate Russian",
+      "units": "4 Units",
+      "id": "CSUS_RUSS 2A",
+      "prerequisite": [
+        "RUSS 1B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". Meets the Foreign Language Graduation Proficiency Requirement. ",
+      "course name": "Intermediate Russian",
+      "units": "4 Units",
+      "id": "CSUS_RUSS 2B",
+      "prerequisite": [
+        "RUSS 2A",
+        "RUSS 2A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the cultural context that has accompanied Russia's political history from the earliest days of the Kievan state to current post-Communist Russia.  Through reading Russian poems and short stories, interviewing Russians, and viewing Russian films, the student will begin to view Russia as Russians see it; thus, the overall objective is to introduce students to the richness of Russia's civilization through her people's own words and images.",
+      "id": "CSUS_RUSS 120",
+      "course name": "Russian Civilization"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students who are competent to carry on independent study. Admission requires the approval of the instructor by whom the work is to be supervised. ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_RUSS 199",
+      "course name": "Special Problems"
+    }
+  ],
+  "subjectOf": {
+    "id": "RUSS",
+    "subject": "Russian"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Russian",
+    "id": "CSUS"
+  }
+}

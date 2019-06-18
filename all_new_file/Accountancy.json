@@ -1,0 +1,436 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Accounting as the basis of an information system with emphasis on concepts and assumptions underlying data accumulation for financial reports.  Includes the concepts of income determination and financial position, and the accounting for various types of ownership equities. ",
+      "id": "CSUS_ACCY 1",
+      "course name": "Accounting Fundamentals",
+      "similarTo": [
+        "AshFord_ACC 407",
+        "AshFord_ACC 306",
+        "AshFord_ACC 305",
+        "AshFord_ACC 306",
+        "AshFord_ACC 305",
+        "AshFord_ACC 306",
+        "AshFord_ACC 305",
+        "AshFord_ACC 310"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Use and reporting of accounting data for managerial planning, control, and decision making. Broad coverage of concepts, classification, and behavior of costs. ",
+      "course name": "Managerial Accounting",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 2",
+      "prerequisite": [
+        "ACCY 1"
+      ],
+      "similarTo": [
+        "AshFord_ACC 410"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "In-depth knowledge of how financial information provides information about a company's: economic resources, obligations, and owner's equity; income and its components; and cash flows.  Topics include the development and application of basic assumptions, principles and constraints underlying financial statements; the use of information derived from financial statements and the limitations of the information; and the use of accounting information to evaluate a company's return on investment, risk, financial, flexibility, liquidity, and operational capability.  Students learn how to prepare financial statements.",
+      "id": "CSUS_ACCY 111",
+      "course name": "Intermediate Accounting I",
+      "similarTo": [
+        "AshFord_ACC 306",
+        "AshFord_ACC 305"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Application of Generally Accepted Accounting Principles to the reporting of tangible and intangible assets, liabilities, and the capital section of the balance sheet.  Other topics include the reporting of stock-based compensation and earnings-per-share. ",
+      "course name": "Intermediate Accounting II",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 112",
+      "prerequisite": [
+        "ACCY 111"
+      ],
+      "similarTo": [
+        "AshFord_ACC 306",
+        "AshFord_ACC 305"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Application of Generally Accepted Accounting Principles to revenue recognition and matching, pensions, leases, income taxes, accounting changes, interim financial statements, and segmental reporting.  Students develop an in-depth knowledge of the preparation and the analysis of the cash flow statement. ",
+      "course name": "Intermediate Accounting III",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 113",
+      "prerequisite": [
+        "ACCY 111"
+      ],
+      "similarTo": [
+        "AshFord_ACC 306",
+        "AshFord_ACC 305"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Specialized topics in partnership accounting; consolidated statements; foreign currency translation and financial statements. ",
+      "course name": "Advanced Accounting",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 117",
+      "prerequisite": [
+        "ACCY 111",
+        "ACCY 112"
+      ],
+      "similarTo": [
+        "AshFord_ACC 407"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Importance of the allocation of costs; the cost allocation techniques available to accountants; the techniques used by management to maintain and create enterprise value, e.g., CVP analysis; the accountant's responsibility for the management of inventory; and the ethical consideration in internal reporting.",
+      "id": "CSUS_ACCY 121",
+      "course name": "Cost Accounting",
+      "similarTo": [
+        "AshFord_ACC 310"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Accountant's responsibility to provide financial and no financial information to managers; the planning techniques available to accountants; managerial control techniques that enhance the maintenance and improvement of enterprise value, and short-run and long-run analyses. ",
+      "course name": "Advanced Management Accounting",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 122",
+      "prerequisite": [
+        "ACCY 121"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Survey of topics in auditing as a control activity in society.  Covers a variety of opportunities in the auditing profession including external auditing, internal auditing, compliance auditing, and operational auditing as well as fraud examinations.  Topics include evidence and documentation, professional ethics, auditing computer systems, statistical sampling, and internal controls. ",
+      "course name": "Survey of Auditing, Attest, and Assurance Topics",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 131",
+      "prerequisite": [
+        "ACCY 111",
+        "ACCY 112"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "This course addresses professional responsibilities for the accounting profession, including the development of ethical standards, ethical reasoning, AICPA and California Codes of Professional Conduct, financial reporting fraud, corporate goverance, and other relevant topics. ",
+      "course name": "Accountants' Ethical and Professional Responsibilities",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 132",
+      "prerequisite": [
+        "ACCY 111",
+        "ACCY 112",
+        "ACCY 131"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fundamentals of accounting and financial reporting for governmental units and institutions; accounting for various types of funds; accounting aspects of budgetary control. ",
+      "course name": "Government and Nonprofit Accounting",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 161",
+      "prerequisite": [
+        "ACCY 111"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Federal taxation concepts are used in effective decision making; a working knowledge of the concepts of gross income, deductions, tax rates, and property transactions as they pertain to C corporations, partnerships, S corporations, and individuals; and proficiency in the application of tax concepts as they pertain to business and individual taxpayers.",
+      "id": "CSUS_ACCY 171",
+      "course name": "Federal Tax Procedures I"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Business entity formation, operation, and termination and business taxation principles and concepts used in effective decision-making.  Students develop the ability to understand and apply business tax principles and the critical and analytical skills that are necessary in the study and application of taxation and tax law. ",
+      "course name": "Federal Tax Procedures II",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 172",
+      "prerequisite": [
+        "ACCY 171"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Accounting concepts, principles, and methods applicable to multinational transactions and global corporations. Contents include the translation of financial statements, comparative accounting systems, financial reporting, currency risk management, international accounting standards and organizations, taxation problems, and the managerial aspects of multinational transactions.",
+      "id": "CSUS_ACCY 190",
+      "course name": "International Accounting"
+    },
+    {
+      "units": "6 - 12 Units",
+      "term": " Open to upper division students, subject to permission of the Accountancy Area. Petitions can be obtained from the Student Affairs Office, Tahoe 2065.   ",
+      "description": "In-depth supervised work experience in accounting for the purpose of exposing the student to comprehensive accountancy experience in business, governmental, or service agencies. ",
+      "id": "CSUS_ACCY 194",
+      "course name": "Cooperative Education Experience in Accountancy"
+    },
+    {
+      "units": "3 Units",
+      "term": " Open to declared business administration upper division majors only, subject to permission of the Accountancy Area.  Petitions can be obtained from the Student Affairs Office, Tahoe 2065.  ",
+      "description": "Supervised work experience in accountancy for the purpose of increasing student understanding of the nature and scope of the operations of business, governmental, or service agencies. Supervision is provided by the faculty and the cooperating agencies. ",
+      "id": "CSUS_ACCY 195",
+      "course name": "Internship in Accountancy"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open to declared business administration majors only.  ",
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. Admission requires approval of the instructor and the Associate Dean. Petitions can be obtained from the Undergraduate Business Advising Center, Tahoe 1030. ",
+      "id": "CSUS_ACCY 199",
+      "course name": "Special Problems in Accountancy"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": " and must have approval of the Department Chair. May not be used to satisfy any requirements in the CBA graduate programs. No student may earn more than twelve (12) units cumulative.",
+      "course name": "Accountancy Teaching Experience",
+      "units": "3 - 6 Units",
+      "id": "CSUS_ACCY 220",
+      "prerequisite": [
+        "ACCY 1",
+        "2",
+        "ACCY 220"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Designed for students who enter the Master of Science Accountancy program without a Bachelor of Science in Accountancy or students who need to refresh their basic skills and understanding in record keeping, financial statement preparation and analysis, ethics in the practice of accounting, and internal controls through the use of comprehensive case study/practice set. Delivered via independent project work rather than lecture.",
+      "id": "CSUS_ACCY 240",
+      "course name": "Integrated Accounting Concepts"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Corporate financial reporting to external users in accordance with US Generally Accepted Accounting Principles (GAAP), including financial information about a company's economic resources, obligations, owners' equity, income, case flow, and use of information to evaluate a company's return on investment, risk, financial flexibility, liquidity, and operational capability.",
+      "id": "CSUS_ACCY 250",
+      "course name": "Financial Reporting I"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "The role of culture in accounting; comparative international financial and managerial accounting fundamentals; international financial statement analysis; international accounting standards and U.S. GAAP convergence; international business combinations; foreign exchange; international auditing; international taxation; and international capital flows. ",
+      "course name": "Foundations of International Accounting",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 251",
+      "prerequisite": [
+        "ACCY 250"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "In-depth study of technical financial accounting issues including accounting for pensions and leases, income tax, accounting changes, consolidated financial statements, and foreign currency. ",
+      "course name": "Financial Reporting II",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 260",
+      "prerequisite": [
+        "ACCY 250"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Fundamentals of cost accounting concepts and practice relating to cost accumulation, control, and analysis for managerial planning and decision making.  Specific topics generally include product costing, standards, cost allocation, estimation, budgeting, transfer pricing, and performance evaluation. Emphasis is on current issues.",
+      "id": "CSUS_ACCY 261",
+      "course name": "Cost Analysis and Control"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study auditing as a control activity in society. It covers a variety of opportunities in the auditing profession including external auditing, internal auditing, compliance auditing, and operational auditing as well as fraud examinations. Topics include evidence and documentation, auditing computer systems, and internal controls.",
+      "id": "CSUS_ACCY 262",
+      "course name": "Auditing",
+      "similarTo": [
+        "AshFord_ACC 410"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course provides an in depth study of accounting and reporting for state and local governmental and non-profit entities. The course emphasizes the governmental reporting environment, the accounting for various types of funds, the accounting aspects of budgetary control, and the preparation of governmental financial information to be included in the Comprehensive Annual Financial Report. This course also emphasizes the key differences between governmental and non-profit organizations, and the financial accounting and reporting for non-profit organizations.",
+      "id": "CSUS_ACCY 263",
+      "course name": "Governmental and Non-Profit Accounting"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Covers the topics for corporate tax, partnership tax, estate and gift tax, and tax planning. Corporate tax includes taxation of transactions between corporations and thier shareholders, transfers to corporations, dividends and non-liquidating distributions, stock redemptions, corporate liquidations, and S corporation. Partnership tax includes operation and liquidation, dissolution, sales, and exchange of partnership interests. Estate and gift tax addresses the types of transfers for federal gift tax.",
+      "id": "CSUS_ACCY 264",
+      "course name": "Taxation of Business Entities"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Emphasis on the role of computer and information technology in the development, analysis, and operation of accounting information systems; may include advanced coverage of accounting transaction cycles, accounting systems planning and analysis, accounting system design, accounting systems implementation and operation, the accounting system internal control structure, data modeling and database design in accounting, computer fraud and security, and auditing of computer-based information systems.",
+      "id": "CSUS_ACCY 265",
+      "course name": "Advanced Accounting Information Systems Analysis and Controls"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Designed to provide understanding of knowledge and skills necessary for the general business environment and business operation. In addition, students are required to apply that knowledge in performing professional responsibilities. Topics include corporate governance, business cycles, global economic markets, business strategy, effect of financial management policies on accounting transactions, economic substance of transactions and their accounting implications, and budgeting/forecasting techniques.",
+      "id": "CSUS_ACCY 266",
+      "course name": "Business Environment and Concepts"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Covers the required topics for tax form preparation for reporting individual incomes. Examines fundamental concepts in tax law and the underlying reasons for income identification, exemption, and deduction.",
+      "id": "CSUS_ACCY 269",
+      "course name": "Taxation of Individuals"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Tax reporting and collection procedure; administrative and judicial procedures governing tax controversies; the rights and obligations of the taxpayer. Intensive training in performing and communicating tax research. Includes use of current database programs.  Lecture basis, followed by \"hands-on\" application of research methods. ",
+      "course name": "Tax Research and Procedure",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 270",
+      "prerequisite": [
+        "ACCY 172",
+        "ACCY 269"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Concepts and principles of the overall cash, accrual and hybrid methods of tax accounting. Applications of specific methods such as: inventory costing and capitalization rules, installment sales, long-term contracts, and original issue discount/time value of money will be examined.  Lecture format to present the underlying rules and concepts. Case studies will then be analyzed and discussed by the students to examine the topics in a \"real-world\" context. ",
+      "course name": "Tax Accounting Periods and Methods",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 271",
+      "prerequisite": [
+        "ACCY 172",
+        "ACCY 269"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Discusses federal tax law as it applies to corporations, including the following topics: special deductions, formation, distributions, and complete liquidations.  Incorporates problem sets, case analysis, a corporate tax return project, and a research project to enhance analytical and critical thinking skills and compliance experience. ",
+      "course name": "Taxation of Business Enterprises I - Corporations",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 272",
+      "prerequisite": [
+        "ACCY 172",
+        "ACCY 269"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Discusses general concepts, acquisitions and basis of partnerships interests, operations, transfers of partnership interests, and distributions. Incorporates problem sets, a partnership tax return project, and research projects to enhance analytical and critical thinking skills and compliance experience and to develop students' technical proficiency in the application of partnership concepts. ",
+      "course name": "Taxation of Business Enterprises II - Partnerships",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 273",
+      "prerequisite": [
+        "ACCY 172",
+        "ACCY 269"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Taxation of decedent's estate and lifetime gifts; valuation of property subject to estate and gift taxes; income taxation of estates and trusts; estate planning.  Uses a lecture format to present the underlying rules and concepts.  Case studies will then be analyzed and discussed by the students to examine the topics in a \"real-world\" context. ",
+      "course name": "Estate, Gift and Trust Taxation",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 274",
+      "prerequisite": [
+        "ACCY 172",
+        "ACCY 269"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Importance of global asset protection and wealth management; domestic Statutory and case law authorities of selected European, American and Asian countries as they relate to wealth protection and asset management; bi-lateral international agreements relating to wealth management and asset protection; Multilateral agreement affecting wealth management and asset protection; tax and legal liability minimizing models.",
+      "id": "CSUS_ACCY 275",
+      "course name": "International Wealth and Asset Management"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "U.S. tax jurisdiction; U.S. source of income rules and related expense allocation; U.S. taxation of foreign taxpayers; transfer pricing issues; U.S. taxation of the foreign income of U.S. citizens and residents; cross border transactions; foreign currency tax issues; and U.S. bilateral tax agreements. Successful completion will satisfy the culminating experience for the MSBA/Taxation program. Students may select topics for their Master's projects that are outside the discipline topic of the class subject to the approval of the instructor. ",
+      "course name": "U.S.Taxation of International Transactions",
+      "units": "3 Units",
+      "id": "CSUS_ACCY 276",
+      "prerequisite": [
+        "ACCY 272"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The similarities and differences between current global tax systems including jurisdiction and conflict of laws issues; the role of bilateral international tax treaties and other international tax related agreements in business operations; international tax planning for individuals and multinational enterprise including corporations, partnerships and estates and trusts.",
+      "id": "CSUS_ACCY 277",
+      "course name": "Comparative International Tax Systems"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on the taxation of cross-border transactions which encompasses discussion of the laws, rules, and regulations that affect transactions that cross both state and national borders. It covers various issues such as income sourcing and jurisdiction to tax. This course generally discusses these issues from the perspective of a U.S. person, but emphasizes and illustrates the general applicability of these rules for the tax regimes as established by other countries and states.",
+      "id": "CSUS_ACCY 278",
+      "course name": "International and Multi-State Taxation"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Development of the concepts and practice of management control systems. How alternative accounting-based planning, performance motivation and evaluation, and control systems fit and are used in varying strategic, management, and operative environments. How systems focus and motivate managers' decision behavior. How systems fit and are used in varying decision, competitive, and organization settings. Emphasis is on cases.",
+      "id": "CSUS_ACCY 280",
+      "course name": "Management Control Systems"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised work experience in business, governmental service, or agencies for the purpose of increasing and enhancing student understanding of the nature and scope of the organization's accounting operations. Supervision is provided by the faculty and the cooperating agencies. Open to MS in Accountancy students. Petitions are obtained from Tahoe Hall 1035. ",
+      "id": "CSUS_ACCY 295",
+      "course name": "Internship in Accountancy"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "When a sufficient number of qualified students apply, a faculty member may conduct a seminar on a designated advanced topic in accountancy.",
+      "id": "CSUS_ACCY 296",
+      "course name": "Experimental Offerings in Accountancy"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. Admission requires approval of faculty member under whom the individual work is to be conducted in addition to the approval from the Department Chair of Accountancy. Petitions to be obtained from the CBA Graduate Programs Office, Tahoe Hall 1037. ",
+      "id": "CSUS_ACCY 299",
+      "course name": "Special Problems in Accountancy"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Completion of a thesis approved for the Master's degree. ",
+      "id": "CSUS_ACCY 500A",
+      "course name": "Thesis"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Completion of a project approved for the Master's degree. ",
+      "id": "CSUS_ACCY 500B",
+      "course name": "Project"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " MS Accountancy degree, student must be in final semester of program.  ",
+      "id": "CSUS_ACCY 500C",
+      "prerequisite": [
+        "ACCY 240"
+      ],
+      "course name": "Comprehensive Examination for MS/Accountancy and MSBA/Taxation Degrees"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit  ",
+      "description": "Each student conducts an individual project to fulfill the culminating experience graduation requirement of the MS in Accountancy program as required in Title V of the CA Educational Code. The course also covers the development of ethical standards, ethical reasoning, AICPA Code of Professional Conduct, accountants' professional responsibilities, financial reporting fraud and responses, corporate governance, and other relevant topics. ",
+      "id": "CSUS_ACCY 501",
+      "course name": "Culminating Experience Project in Accounting and Ethics"
+    }
+  ],
+  "subjectOf": {
+    "id": "ACCY",
+    "subject": "Accountancy"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Accountancy",
+    "id": "CSUS"
+  }
+}

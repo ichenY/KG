@@ -1,0 +1,95 @@
+{
+  "courses": [
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Orientation to the Air Force and AFROTC. This is a survey course designed to introduce students to the United States Air Force and provides an overview of the basic characteristics, missions, organizations of the Air Force, and benefits of Air Force membership. Students will be required to complete an oral and written project.", 
+      "id": "CSUS_AERO 1A", 
+      "course name": "Heritage and Values of the United States Air Force I"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ": completes students' orientation to the Air Force. Specific topics include evolution of Airpower, Air Force structure, and social media and the Air Force. Students will be required to complete an oral and written project.", 
+      "course name": "Heritage and Values of the United States Air Force II", 
+      "units": "1 Unit", 
+      "id": "CSUS_AERO 1B", 
+      "prerequisite": [
+        "AERO 1A"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Focuses on laying the foundation for teams and leadership in the Air Force. Topics include skills that will allow cadets to improve their leadership on a personal level and within a team. Cadets will experience initial field training preparation. Communication skills will be emphasized and include: public speaking, writing, and class participation.", 
+      "id": "CSUS_AERO 21A", 
+      "course name": "Team Leadership and Fundamentals I"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". The purpose of this course is to instill a leadership mindset and to motivate sophomore students to transition from AFROTC cadets to AFROTC offer candidates. Topics include conflict management, human relations, building teams. Communication skills will be emphasized and include: speaking, writing, and class participation.", 
+      "course name": "Team Leadership and Fundamentals II", 
+      "units": "1 Unit", 
+      "id": "CSUS_AERO 21B", 
+      "prerequisite": [
+        "AERO 21A"
+      ]
+    }, 
+    {
+      "units": "1 - 4 Units", 
+      "term": " Open only to students who appear competent to complete assigned work and who meet prerequisites established by the Department of Aerospace Studies.  Approval in writing by the Department Chair required. ", 
+      "description": "Academic study and evaluation in specified topics associated with aerospace development, technology, and doctrine. ", 
+      "id": "CSUS_AERO 99", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course teaches cadets advanced skills and knowledge in management and leadership. Also a survey of selected concepts, principles, and theories on decision making, change management, effective supervision and Air Force diversity issues. Students will be given the opportunity to improve speaking and writing skills.", 
+      "id": "CSUS_AERO 135A", 
+      "course name": "Leading People and Effective Communication I"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". Survey of selected concepts, principles, and theories on negotiating in teams, bias, creating a vision, public affairs, and professionalism. Students will be given the opportunity to improve speaking and writing skills.", 
+      "course name": "Leading People and Effective Communication II", 
+      "units": "3 Units", 
+      "id": "CSUS_AERO 135B", 
+      "prerequisite": [
+        "AERO 135A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides an overview of the role of the military in our national security policy and processes. It includes an analysis of the roles of the three branches of   government as they relate to national security; organization of the Air Force as well as other branches of the military; an overview of military ethics; how the Air Force deploys; and a discussion of global current events which impact our national security. Students are expected to participate in class discussions/complete written/oral presentations.", 
+      "id": "CSUS_AERO 145A", 
+      "course name": "National Security and Preparation for Active Duty I"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". Presentation of critical issues facing today's military professionals. A wide variety of topics are discussed including: the military legal system; the laws of armed conflict; security issues; personal finance; professional/unprofessional relationships; information warfare; and issues pertinent to the first assignment after commissioning into the Air Force. Students will be expected to participate in class discussions and complete a written and oral presentation.", 
+      "course name": "National Security and Preparation for Active Duty II", 
+      "units": "3 Units", 
+      "id": "CSUS_AERO 145B", 
+      "prerequisite": [
+        "AERO 145A"
+      ]
+    }, 
+    {
+      "units": "1 - 4 Units", 
+      "term": " Open only to those students who appear competent to complete assigned work and who meet prerequisites established by the Department of Aerospace Studies. Approval in writing by the Department Chair required. ", 
+      "description": "Academic study and evaluation in specified topics associated with aerospace development, technology, and doctrine. ", 
+      "id": "CSUS_AERO 199", 
+      "course name": "Special Problems"
+    }
+  ], 
+  "subjectOf": {
+    "id": "AERO", 
+    "subject": "ROTC - Aerospace Studies"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "ROTC - Aerospace Studies", 
+    "id": "CSUS"
+  }
+}

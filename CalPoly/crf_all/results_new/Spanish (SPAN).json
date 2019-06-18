@@ -1,0 +1,329 @@
+{
+  "subjectOf": {
+    "id": "SPAN",
+    "subject": "Spanish"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Spanish"
+  },
+  "courses": [
+    {
+      "id": "SPAN 101",
+      "course name": "Elementary Spanish I",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Beginning Spanish. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation. Language taught in its intercultural context. Credit not available for students who have completed SPAN104 or SPAN111. 3 lectures, 1 activity."
+    },
+    {
+      "id": "SPAN 102",
+      "course name": "Elementary Spanish II",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "SPAN 101"
+        },
+        {
+          "prerequisite": "SPAN 111"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation.  Language taught in its intercultural context.  Not open to students with credit in SPAN104.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "id": "SPAN 103",
+      "course name": "Elementary Spanish III",
+      "hasPrerequisite": "SPAN 102 or appropriate score on placement exam or consent of instructor",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation.  Language taught in its intercultural context.  Not open to students with credit in SPAN104.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "id": "SPAN 104",
+      "course name": "Intensive Elementary Spanish",
+      "units": "12 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation. Language taught in its intercultural context. Offered in summer only. Not open to students who have credit in SPAN102 and/or SPAN103. 9 lectures, 3 activities."
+    },
+    {
+      "id": "SPAN 111",
+      "course name": "Elementary Hispanic Language and Culture",
+      "units": "4 units",
+      "inTerm": {
+        "term": "uscp"
+      },
+      "description": "Beginning Spanish. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation with special focus on vocabulary and culture from American agribusiness and the Hispanic cultures of the United States and Latin America. Not open to students who have credit in SPAN101. 3 lectures, 1 activity. Fulfills USCP."
+    },
+    {
+      "id": "SPAN 201",
+      "course name": "Intermediate Spanish I",
+      "hasPrerequisite": "SPAN 103 or appropriate score on placement exam or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c5"
+      },
+      "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Spanish within an intercultural context.  To be taken in numerical sequence.  Not open to students with credit in SPAN 204.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "id": "SPAN 202",
+      "course name": "Intermediate Spanish II",
+      "hasPrerequisite": "SPAN 201 or appropriate score on placement exam or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c5"
+      },
+      "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Spanish within an intercultural context.  To be taken in numerical sequence.  Not open to students with credit in SPAN 204.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "id": "SPAN 203",
+      "course name": "Intermediate Spanish III",
+      "hasPrerequisite": "SPAN 202 or appropriate score on placement exam or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c5"
+      },
+      "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Spanish within an intercultural context.  To be taken in numerical sequence.  Not open to students with credit in SPAN206.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "id": "SPAN 206",
+      "course name": "Spanish for Heritage Speakers",
+      "hasPrerequisite": "SPAN 202 or appropriate score on placement exam or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "uscp"
+      },
+      "description": "Focus on the grammatical, cultural and linguistic needs of students who grew up speaking Spanish in their homes/communities, but whose schooling has been primarily in English.  Emphasis on reading and writing skills, vocabulary and spelling as well as on cultural understanding.  Not open to students with credit in SPAN203.  3 lectures, 1 activity.  Fulfills USCP."
+    },
+    {
+      "id": "SPAN 207",
+      "course name": "Introduction to Spanish Linguistics",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "SPAN 203"
+        },
+        {
+          "prerequisite": "SPAN 206"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Introduction to the scientific study of the Spanish language with an overview of theoretical and applied linguistics and special emphasis on Spanish phonetics and phonology.  Conducted in Spanish.  3 lectures, 1 activity."
+    },
+    {
+      "id": "SPAN 233",
+      "course name": "Introduction to Hispanic Readings",
+      "hasPrerequisite": "SPAN 203 or SPAN 206",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c1"
+      },
+      "description": "Selected readings from Hispanic authors that show the Hispanic literary tradition from the Middle Ages to the present in Spain, Latin America, and of Latino/a writers in the United States.  May include film and other media.  Conducted in Spanish.  4 lectures.  Fulfills GE C1."
+    },
+    {
+      "id": "SPAN 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics.  Open only to undergraduate students.  The Schedule of Classes will list topic selected.  Conducted in Spanish.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "SPAN 301",
+      "course name": "Advanced Composition in Spanish",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "SPAN 203"
+        },
+        {
+          "prerequisite": "SPAN 206 or consent of instructor"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Oral and written development of structural grammar, syntax, and complex components of Spanish.  Vocabulary expansion and idiomatic construction.  Written compositions.  May include Spanish/English translation.  Conducted in Spanish.  4 lectures."
+    },
+    {
+      "id": "SPAN 302",
+      "course name": "Advanced Conversation and Composition in Spanish",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "SPAN 203"
+        },
+        {
+          "prerequisite": "SPAN 206"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Formal discussion of, and writing on selected cultural topics from the Spanish-speaking world.  Focus on individual and group presentations and in-class writing and speaking assignments to enhance students' vocabulary and critical thinking skills in Spanish.  Conducted in Spanish.  3 lectures, 1 activity."
+    },
+    {
+      "id": "SPAN 303",
+      "course name": "Introduction to English-Spanish Translation",
+      "hasPrerequisite": "SPAN 207 or SPAN 233 or SPAN 301 or SPAN 302 or consent of instructor",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Developing basic knowledge, skills, theories and techniques required for translation both from Spanish to English and from English to Spanish.  Translating news articles, legal documents, commercial advertisements, formal letters, and literary works.  Conducted in Spanish.  4 lectures."
+    },
+    {
+      "id": "SPAN 305",
+      "course name": "Significant Works in Spanish",
+      "hasPrerequisite": "SPAN 233 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4"
+      },
+      "description": "Critical analysis and oral discussion of poetry, essays, novels, plays, films, and other media by selected Hispanic authors.  Conducted in Spanish.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 lectures.  Fulfills GE C4 except for Modern Languages and Literatures majors."
+    },
+    {
+      "id": "SPAN 307",
+      "course name": "Spanish and Latin American Film",
+      "hasPrerequisite": "SPAN 233 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4"
+      },
+      "description": "Study, analysis, and critique of films from Spain and/or Latin America, organized around such topics as individual film directors or genres, national and international film traditions, migration, gender, ethnicity, and politics.  Evaluation of works in their cultural contexts.  The Schedule of Classes will list topic selected and language of instruction (English or Spanish).  Total credit limited to 8 units.  Course may be offered in classroom-based or online format.  3 lectures, 1 activity.  Fulfills GE C4 except for Modern Languages and Literatures majors."
+    },
+    {
+      "id": "SPAN 340",
+      "course name": "Chicano/a Authors",
+      "hasPrerequisite": "SPAN 233",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; uscp"
+      },
+      "description": "Introduction to Chicano/a literary accomplishments to facilitate appreciation of Chicano/a literary aesthetics and increase understanding of Chicano/a cultural values and lifestyles.  Conducted in Spanish.  4 lectures.  Fulfills GE C4 except for Modern Languages and Literatures majors.  Fulfills USCP."
+    },
+    {
+      "id": "SPAN 350",
+      "course name": "Hispanic Literature in English Translation",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4"
+      },
+      "description": "Selected works to be read by students in English translation.  Critical analysis, interpretation, and comparison of works by Hispanic authors.  Course may include film and other media.  Discussion in English.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.  Fulfills GE C4 except for Modern Languages and Literatures majors."
+    },
+    {
+      "id": "SPAN 351",
+      "course name": "Chicano/Latino Writers in the United States",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; uscp"
+      },
+      "description": "Analysis and exploration of the major themes of Chicano/Latino literature in the United States today.  Emphasis on Chicano/a, Puerto Rican, Cuban American and other U.S.  Latino/a writers.  All readings and discussions in English.  4 lectures.  Fulfills GE C4 except for Modern Languages and Literatures majors.  Fulfills USCP."
+    },
+    {
+      "id": "SPAN 390",
+      "course name": "Introduction to Creative Writing in Spanish",
+      "hasPrerequisite": "SPAN 301 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Directed practice with writing narrative, poetry and/or drama writing in Spanish.  An examination of plot, character and theme development.  Crafting of creative literature for potential publication.  Conducted in Spanish.  4 lectures."
+    },
+    {
+      "id": "SPAN 402",
+      "course name": "Advanced Topics in Spanish Linguistics",
+      "hasPrerequisite": "SPAN 207",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Advanced study of Spanish linguistics.  Topics include bilingualism and code-switching, sounds and pronunciation, word formation, grammatical structures, meaning and intention.  Introduction to research methodologies in the social sciences to discuss issues of Spanish in the US, identity, race, and migration.  Conducted in Spanish.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures."
+    },
+    {
+      "id": "SPAN 410",
+      "course name": "Advanced Literature in Spanish",
+      "hasPrerequisite": "SPAN 233 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "In-depth study of literature in Spanish.  Specific genre, literary period, authorial group, region, or country.  Chicano/Latino literature, Latin American literature, and Spanish literature.  Course may include film and other media.  Conducted in Spanish.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures."
+    },
+    {
+      "id": "SPAN 416",
+      "course name": "Don Quixote",
+      "hasPrerequisite": "SPAN 233 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Intensive reading of Cervantes' novel, Don Quixote (Part 1, 1605 and Part 2, 1615) in the context of Cervantes' life and the history and social context of Spanish renaissance and baroque culture.  Conducted in Spanish.  4 lectures."
+    },
+    {
+      "id": "SPAN 470",
+      "course name": "Selected Advanced Topics",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Conducted in Spanish.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures."
+    }
+  ]
+}

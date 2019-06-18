@@ -1,0 +1,113 @@
+{
+  "subject": "Graduate Studies-Economics (GSE)",
+  "courses": [
+    {
+      "Course number & title": " Independent Study",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Advanced study planned and completed under the direction of a departmental faculty member.  Open only to graduate students demonstrating ability to do independent work.  Enrollment by petition."
+    },
+    {
+      "Course number & title": " Essential Mathematics for Economic Analysis",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SU",
+      "Course description": "Review and discussion of the basic math tools needed for graduate work in economics, including set theory, linear algebra, properties of functions, static and dynamic optimization.  4 lectures."
+    },
+    {
+      "Course number & title": " Microeconomic Analysis",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Basic microeconomic theory including theory of the firm, consumer theory, general equilibrium, capital theory, and welfare economics.  4 lectures."
+    },
+    {
+      "Course number & title": " Macroeconomic Analysis",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Basic macroeconomic theory including markets for commodities and credit, the demand for money, market-clearing and the labor market, inflation and interest rates, investment, real business cycles and unemployment, economic growth, government consumption and the role of public services, and taxes, transfers, and the public debt.  4 lectures."
+    },
+    {
+      "Course number & title": " Essential Statistics for Econometrics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SU",
+      "Course description": "Statistical concepts for use in theoretical and applied econometric applications including random variables, independence, expectations, probability, distributions, covariance and correlation, large sample theory, and properties of estimators.  4 lectures."
+    },
+    {
+      "Course number & title": " Advanced Econometrics I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "The use of statistical procedures to measure theoretical economic relationships and to verify and reject theories.  Advanced coverage of regression analysis and hypothesis testing.  4 lectures."
+    },
+    {
+      "Course number & title": " Advanced Econometrics II",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Use of statistical procedures to deal with simultaneous equations, limited dependent variables and time-series data.  Includes methods of instrumental variables, generalized method of moments and maximum likelihood.  4 lectures."
+    },
+    {
+      "Course number & title": " Computational Methods in Economics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Use of computers to solve economic problems.  Topics include computer programming using econometric software, data gathering and organization, and numerical solution methods for economic problems.  4 lectures."
+    },
+    {
+      "Course number & title": " Microeconometrics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Variety of standard and advanced econometric techniques employed in applied microeconomics.  Emphasis on when and how to apply appropriate techniques.  4 lectures."
+    },
+    {
+      "Course number & title": " Environmental and Natural Resource Economics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Economic analysis of pollution, congestion, public good provision, and natural resource conservation.  Static and dynamic efficiency, economic growth and sustainability, pollution taxes, marketable permits, and the design of market-based regulations.  4 lectures."
+    },
+    {
+      "Course number & title": " International Economics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Analysis of the international movement of goods, services, capital and payments.  The role of exchange rates, tariffs, quotas, and transport costs.  Relationship between international trade and economic growth.  4 lectures."
+    },
+    {
+      "Course number & title": " Public Economics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Economic analysis of the rationale for public expenditure and taxation.  Externalities, pollution and public policy, income redistribution and public welfare, public goods, collective choice and political institutions, public budgeting techniques and cost-benefit analysis, taxation and tax policy, state-local finance and fiscal federalism.  4 lectures."
+    },
+    {
+      "Course number & title": " Industrial Economics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Economic theories of industrial organization with specific reference to such topics as cartels, market concentration and performance, vertical integration, franchise contracts, ownership and control of firms, multipart and discriminatory pricing, and tie-in sales.  Economic aspects of antitrust law and government regulation of industry.  4 lectures."
+    },
+    {
+      "Course number & title": " Advanced Labor Economics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Research methods in labor economics and application of modern empirical techniques to the analysis of labor markets.  Topics include labor supply and demand, discrimination, migration, and human capital accumulation.  4 lectures."
+    },
+    {
+      "Course number & title": " Evidence-Based Decision Analysis",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Representing uncertainty using discrete and continuous conditional probabilities.  Monte Carlo simulation of independent and correlated random variables.  Optimization of decision variables.  Randomization in program evaluation.  Model mis-specification.  Visualization and representation of the results of a decision analysis.  Case studies.  4 lectures."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures."
+    },
+    {
+      "Course number & title": " Seminar in Economics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Advanced topics in economics chosen according to the common interests and needs of the students enrolled.  Schedule of Classes will list topic selected.  1-4 seminars.  Total credit limited to 5 units."
+    },
+    {
+      "Course number & title": " Thesis",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Individual research under the general supervision of the faculty, leading to a graduate thesis of suitable quality.  Minimum of 8 units required for degree."
+    }
+  ]
+}

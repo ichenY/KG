@@ -1,0 +1,86 @@
+{
+  "subjectOf": {
+    "subject": "Environmental Studies Courses",
+    "id": "ENV"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Environmental Studies Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_ENV 100",
+      "course name": "Introduction to Environmental Studies",
+      "units": "3 Credits",
+      "description": "This course introduces students to the scientific information and key concepts that underlie thefunctioning of earths systems with emphasis on how these systems are shaped by human activities.Students examine the social, economic, political, ethical, and technical dimensions related toenvironmental issues and solutions. Topics include population growth, natural environmental cycles,industrialized food systems, air and water pollution, and urbanization."
+    },
+    {
+      "id": "AshFord_ENV 322",
+      "course name": "Energy & Environmental Systems",
+      "units": "3 Credits",
+      "description": "This course is designed to provide knowledge relative to the relationship between energy consumption,energy generation, their related externalities, and conservation in the context of diminishing reserves of fossil fuels and increasing availability of renewable resources. Students will defend a position related to a particular energy source and its effect on the environment."
+    },
+    {
+      "id": "AshFord_ENV 325",
+      "course name": "Environmental Management",
+      "units": "3 Credits",
+      "description": "This course examines the issues in the urban environment and the interactions between theory andpolicy relating to urbanization, industrialization and the impact of population growth on theenvironment."
+    },
+    {
+      "id": "AshFord_ENV 326",
+      "course name": "Ecology & Evolution",
+      "units": "3 Credits",
+      "description": "This course examines the ecological and evolutionary processes across several levels of organization,including individuals, populations, communities, and ecosystems. Students analyze the interactions among organisms and between organisms and their environment, with an emphasis on natural selection. The course demonstrates the methods used by ecologists to answer questions about ecologicalsystems including experimental, statistical, theoretical modeling, and visual representations of data. ",
+      "prerequisite": [
+        "ENV 100",
+        "SCI 207"
+      ]
+    },
+    {
+      "id": "AshFord_ENV 330",
+      "course name": "Environmental Ethics",
+      "units": "3 Credits",
+      "description": "This course is a study of the ethical dimensions of selected contemporary environmental controversies.Students will examine the major theoretical approaches to environmental ethics, value systems, and specific issues including biodiversity and wilderness preservation."
+    },
+    {
+      "id": "AshFord_ENV 333",
+      "course name": "Environmental Impact",
+      "units": "3 Credits",
+      "description": "Following the guidelines set by the National Environmental Policy Act (NEPA) and its subsequent modifications, students will learn the fundamental methods of analysis required for conducting a robustEnvironment Impact Statement (EIS). Students will learn the fundamental elements of an EIS through the examination of contemporary cases."
+    },
+    {
+      "id": "AshFord_ENV 345",
+      "course name": "Business & the Environment",
+      "units": "3 Credits",
+      "description": "An environmental economics approach is used to illustrate the impact of the firm on the environment and environmental policy on the firm. Cost-benefits analysis is developed in student-driven research projects."
+    },
+    {
+      "id": "AshFord_ENV 350",
+      "course name": "Conservation Biology",
+      "units": "3 Credits",
+      "description": "Conservation biology examines the causes and consequences of biodiversity loss, conservation approaches and strategies, and the ecological and evolutionary theory used in these approaches. Students evaluate practices that conserve biological diversity at the gene, population, ecosystem, landscape and global scales. The course incorporates topics in culture, ethics, economics and politics to monitor and protect global biodiversity. ",
+      "prerequisite": [
+        "ENV 326"
+      ]
+    },
+    {
+      "id": "AshFord_ENV 385",
+      "course name": "Chemistry & Toxicology",
+      "units": "3 Credits",
+      "description": "This course examines the underlying scientific principles of toxicants, the sources, fate, and effects of chemicals on organisms and the environment. Students will analyze the accumulation and transport of toxicants in food webs and evaluate their effects on organism physiology, reproduction, and behavior. The course will also include an examination of experimental methods used to assess toxicity, forensic toxicology, ecotoxicology, risk assessment development, role of government regulation, and global and historical contexts."
+    },
+    {
+      "id": "AshFord_ENV 495",
+      "course name": "Environmental Research",
+      "units": "3 Credits",
+      "description": "This course introduces students to the various stages in the environmental research process. Course design focuses intensely on scientific journal article construction as well as research design, data collection, and statistical analysis."
+    },
+    {
+      "id": "AshFord_ENV 497",
+      "course name": "Environmental Studies Capstone",
+      "units": "3 Credits",
+      "description": "Students will utilize knowledge gained throughout the program to construct a final Capstone Project focused on the design and implementation of a sustainable community. This Project will allow students to display content area knowledge over all completed courses."
+    }
+  ]
+}

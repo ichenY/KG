@@ -1,0 +1,491 @@
+{
+  "courses": [
+    {
+      "term": "Fall, Spring", 
+      "description": "Field-oriented introduction to the interrelationships between marine and estuarine organisms and their environment with emphasis on quantitative data collection and analysis. Lecture two hours; laboratory six hours. ", 
+      "course name": "Marine Ecology", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 103", 
+      "prerequisite": [
+        "MSCI 104"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": " Not for major credit.  ", 
+      "description": "Mathematical methods for the analysis of biological, chemical and physical data from the marine environment; experimental design, parametric and nonparametric statistics. Lecture three hours; laboratory three hours. ", 
+      "id": "CSUS_MSCI 104", 
+      "course name": "Quantitative Marine Science"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Not for major credit.  ", 
+      "description": "Skin SCUBA diving course, pool-training culminates in ten ocean dives.  Topics covered included diving physics, physiology, diving environments, night diving and research diving.   Successful completion gives NAUI and MLML certification.  Lecture one hour; laboratory six hours. ", 
+      "id": "CSUS_MSCI 105", 
+      "course name": "Marine Science Diving"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Systematic, morphology, ecology and biology of marine birds and mammals. Lecture two hours; laboratory six hours. ", 
+      "course name": "Marine Birds and Mammals", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 112", 
+      "prerequisite": [
+        "MSCI 103"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Description of the taxonomy, morphology, and ecology of marine fishes. Both field and laboratory work concentrate on the structure, function and habits of marine fishes and the ecological interactions of these fishes with their biotic and abiotic surroundings. Lecture two hours; laboratory six hours. ", 
+      "course name": "Marine Ichthyology", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 113", 
+      "prerequisite": [
+        "MSCI 103"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Field oriented introduction to the structure, systematics, evolution, and life histories of the major and minor marine phyla. Lecture two hours; laboratory and six hours. ", 
+      "course name": "Marine Invertebrate Zoology I", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 124", 
+      "prerequisite": [
+        "MSCI 103"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Field oriented introduction to the structure, systematics, evolution and life histories of the minor marine invertebrate phyla. Lecture one hour; laboratory and field six hours. ", 
+      "course name": "Marine Invertebrate Zoology II", 
+      "units": "3 Units", 
+      "id": "CSUS_MSCI 125", 
+      "prerequisite": [
+        "MSCI 103", 
+        "MSCI 124"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to the plants of the sea, marshes, and dunes, with emphasis on the morphology, taxonomy and natural history of seaweeds and vascular plants. Lecture two hours; laboratory six hours. ", 
+      "course name": "Marine Botany", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 131", 
+      "prerequisite": [
+        "MSCI 103"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Physiological basis for understanding the adaptation of marine algae to their environment. Topics include respiration, enzyme activity, and biochemical composition. Hands-on experience in basic electronic instrumentation, chemical separations, optical measurements, culturing methods, and radioisotope techniques. ", 
+      "course name": "Physiology of Marine Algae", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 135", 
+      "prerequisite": [
+        "MSCI 103", 
+        "MSCI 131", 
+        "MSCI 144"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of the structures, physiography and sediments of the sea bottom and shoreline. Lecture two hours; laboratory and field six hours. ", 
+      "course name": "Geological Oceanography", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 141", 
+      "prerequisite": [
+        "MSCI 142", 
+        "MSCI 143"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the nature and causes of various oceanic motions including currents, waves, tides, and mixing and the Physical properties of seawater.  Limited use of calculus.  Lecture three hours; laboratory three hours. ", 
+      "id": "CSUS_MSCI 142", 
+      "course name": "Physical Oceanography"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the theoretical and practical aspects of the chemistry of the oceans, including major salts, dissolved gases, nutrient ions, carbonate system, transient tracers, and shipboard sampling techniques. Lecture two hours; laboratory six hours. ", 
+      "id": "CSUS_MSCI 143", 
+      "course name": "Chemical Oceanography"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Ocean as an ecological system. Emphasis will be on the complexity of organismal-environmental interaction of the plankton, the transfer of organic matter between trophic levels and nutrient cycles. Laboratory sessions will include methods in sampling, shipboard techniques, identification of the plankton, and current analytical techniques. Lecture two hours; laboratory six hours. ", 
+      "id": "CSUS_MSCI 144", 
+      "course name": "Biological Oceanography"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 175A", 
+      "course name": "Coastal Geol Processes"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 175B", 
+      "course name": "Intro To Marine Science"
+    }, 
+    {
+      "units": "1 - 4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Faculty-directed study of selected research problems; open to undergraduate students with adequate preparation. Three hours work per unit. ", 
+      "id": "CSUS_MSCI 180", 
+      "course name": "Independent Study"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Students will gain advanced understanding of the nature of scientific information.  Provides the framework for using and evaluating a variety of information sources in marine and ocean sciences.  Strong emphasis will be placed on developing critical skills to interweave knowledge of the history of science into the context of bibliographic tools including the digital realm.  Lecture: three hours. ", 
+      "id": "CSUS_MSCI 201", 
+      "course name": "Library Research Methods"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Principles of instruments used in oceanographic research, introduction to electronics, and applications of instrument measurements.  Emphasis will vary from CTD profilers, current meters, radiometry and chemical measurement.  Lecture two hours; laboratory six hours. ", 
+      "course name": "Oceanographic Instrumentation", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 202", 
+      "prerequisite": [
+        "MSCI 141", 
+        "MSCI 142"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Discussion of random sampling, systematic sampling, subsampling, survey techniques, and design of single and multifactorial experiments using randomized and block experimental designs: basic design of experiments and field sampling will be covered. Biases and problems of sampling marine biota will be presented and discussed by critiquing relevant literature. Lecture four hours. ", 
+      "course name": "Sampling and Experimental Design", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 204", 
+      "prerequisite": [
+        "MSCI 103", 
+        "MSCI 104"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Use of genetic information affecting interactions of organisms with environment. Lectures on molecular markers used to assess diversity in communities, characterize spatial/temporal variation in species composition, assess genetic variability in populations, discriminate/reveal kinship among individuals, and detect/quantify gene expression important in organismal responses to environmental fluctuation. Basic molecular methods (DNA and RNA isolation/amplification/cloning/sequencing) taught. Students projects as budget permits. Enrollment limited.  Lecture 2 hours; laboratory 6 hours. ", 
+      "id": "CSUS_MSCI 208", 
+      "course name": "Molecular Ecology: Concepts and Methods"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Community approach to the ecology of marine birds and mammals using experimental and sampling methodology; examine the distribution, abundance, trophic ecology, and behaviors of birds and mammals in Elkhorn Slough and Monterey Bay. Lecture two hours; laboratory six hours. ", 
+      "course name": "Ecology of Marine Birds and Mammals", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 211", 
+      "prerequisite": [
+        "MSCI 103", 
+        "MSCI 104", 
+        "MSCI 112"
+      ]
+    }, 
+    {
+      "term": " May be repeated once for credit.  ", 
+      "description": "Advanced consideration of the ecology, physiology and phylogeny of fishes, birds, reptiles or mammals, emphasizing current literature and research. Topics and emphasis will vary with term and instructor.  Lecture two hours; laboratory six hours. ", 
+      "course name": "Advanced Topics in Marine Vertebrates", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 212", 
+      "prerequisite": [
+        "MSCI 112", 
+        "MSCI 113"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 212A", 
+      "course name": "Adv Ichthyology"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 212B", 
+      "course name": "Ichthyoplankton"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 212C", 
+      "course name": "Marine Bird+Mammal Ecolgy"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 212D", 
+      "course name": "Sampling+Expermntl Design"
+    }, 
+    {
+      "term": " May be repeated for credit when topics change.  ", 
+      "description": "Advanced considerations of the ecology, physiology and phylogeny of the various invertebrate phyla emphasizing current literature and research. Topics will vary from term to term.  Lecture two hours; laboratory six hours. ", 
+      "course name": "Advanced Topics in Marine Invertebrates", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 221", 
+      "prerequisite": [
+        "MSCI 124"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 221A", 
+      "course name": "Marine Symbioses"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Lecture-discussions in algal development, reproduction, and ecology. Extensive reading of original literature. Ecologically oriented individual research projects involving laboratory culture and field experimentation. Lecture two hours; laboratory six hours. ", 
+      "course name": "Biology Of Seaweeds", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 231", 
+      "prerequisite": [
+        "MSCI 131"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 233A", 
+      "course name": "Adv Marine Ecology"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 233B", 
+      "course name": "Sampling+Expermntl Design"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Field-oriented examination of the interrelationships between intertidal and shallow subtidal organisms and their environment in the Gulf of California, Mexico.  Information from lectures and review of primary literature on the ecology of the region will be used to write a research proposal.  1 hour lecture, 6 hours laboratory. ", 
+      "course name": "Coastal Ecology-Gulf of California", 
+      "units": "3 Units", 
+      "id": "CSUS_MSCI 233C", 
+      "prerequisite": [
+        "MSCI 103", 
+        "MSCI 104"
+      ]
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 233D", 
+      "course name": "Immune Respn Marine Orgns"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Experimental techniques in biological oceanography with emphasis on problems important to plankton ecology. Includes lectures, labs, and discussions of current research problems. An individual research project involving analytical tools will be required. Lecture two hours; laboratory six hours. ", 
+      "course name": "Advanced Biological Oceanography", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 234", 
+      "prerequisite": [
+        "MSCI 144"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Historical background, modern theory, and geo-physical evidence of continental drift sea floor spreading and plate tectonics. Examinations of the impact of the recent revolution in historical geology.  Lecture three hours. ", 
+      "course name": "Plate Tectonics", 
+      "units": "3 Units", 
+      "id": "CSUS_MSCI 242", 
+      "prerequisite": [
+        "MSCI 141"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Collection and interpretation of geophysical data used to characterize marine benthic habitats.  Basic geophysical principles will be reviewed.  Application of techniques to identify and characterize marine benthic habitats, including echosounders, multibeam bathymetry and backscatter, sidescan sonar, seismic profiling, and GIS.  Lecture two hours; laboratory six hours. ", 
+      "id": "CSUS_MSCI 248", 
+      "course name": "Marine Benthic Habitat Techniques"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Geochemical processes in the oceans: thermodynamics of low temperature aqueous reactions, processes occurring at the sea floor and air-sea interface. Lecture two hours; laboratory six hours. ", 
+      "course name": "Marine Geochemistry", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 251", 
+      "prerequisite": [
+        "MSCI 143"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Mathematical description of the distribution of properties (salinity density, etc.) in the oceans relating to physical and biochemical processes. Equations of motion, geotropic method, and theory of distribution of variables.  Lecture two hours; laboratory six hours. ", 
+      "course name": "Ocean Circulation and Mixing", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 261", 
+      "prerequisite": [
+        "MSCI 142"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Physical principles of remote sensing with application to the oceans including satellite image processing methods. Labs involve use of PC and Unix workstation. Lecture two hours; laboratory six hours. ", 
+      "course name": "Satellite Oceanography", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 262", 
+      "prerequisite": [
+        "MSCI 142", 
+        "MSCI 144", 
+        "MSCI 263"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Lecture, discussion and technical programming with MATLAB for computation and visualization with applications in marine sciences.  Use of existing program libraries for data I/O and analysis.  Semester project required.  Lecture two hours; laboratory six hours. ", 
+      "id": "CSUS_MSCI 263", 
+      "course name": "Application of Computers in Oceanography"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Principles of the interaction among marine organisms that result in the alteration of population structures. Techniques for assessment and management of populations. Lecture two hours; laboratory three hours. ", 
+      "course name": "Population Biology", 
+      "units": "3 Units", 
+      "id": "CSUS_MSCI 271", 
+      "prerequisite": [
+        "MSCI 103", 
+        "MSCI 104"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Ecology of nearshore rocky subtidal populations and communities with emphasis on kelp forests. Lectures and discussions of original literature. Field work with SCUBA including group projects on underwater research techniques and community analysis, and individual research on ecological questions chosen by the student. Lecture two hours; laboratory six hours. ", 
+      "id": "CSUS_MSCI 272", 
+      "course name": "Subtidal Ecology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 274A", 
+      "course name": "Electron Micros+Microanl"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 274B", 
+      "course name": "Geol Central Ca Margin"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 274C", 
+      "course name": "Chem Of Marine Pollution"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 274D", 
+      "course name": "Global Change"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Techniques and strategies of scientific writing used for proposals, journal submissions, and abstracts for meetings.  Students will develop their writing skills by preparing, editing, and rewriting manuscripts.  Lecture three hours. ", 
+      "id": "CSUS_MSCI 280", 
+      "course name": "Scientific Writing"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Addresses the oceanographic dynamics of coastal environments, within an emphasis on eastern boundary current systems influenced by coastal upwelling. Focuses on how physical and geological oceanography interact with each other and how both affect coastal ecosystem dynamics. ", 
+      "course name": "Coastal Dynamics", 
+      "units": "4 Units", 
+      "id": "CSUS_MSCI 281", 
+      "prerequisite": [
+        "MSCI 141", 
+        "MSCI 142"
+      ]
+    }, 
+    {
+      "units": "2 Units", 
+      "term": " May be repeated once for credit.  ", 
+      "description": "Seminar will be held on topics changing each semester. Each student will be required to give at least one seminar.  Lecture two hours. ", 
+      "id": "CSUS_MSCI 285", 
+      "course name": "Seminar in Marine Biology"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 285A", 
+      "course name": "Social Biology"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 285B", 
+      "course name": "Repro+Dev Marine Organism"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 285C", 
+      "course name": "Recent Adv Deep-Sea Bio"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 285D", 
+      "course name": "Controversies Modern Biol"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 285E", 
+      "course name": "Paradigms In Commun Ecol"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 285F", 
+      "course name": "Appl Moleclr Tech Mar Bio"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 285G", 
+      "course name": "Aspects Of Deep-Sea Biol"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": " May be repeated once for credit. ", 
+      "description": "Seminar will be held on topics changing each semester. Each student will be required to give at least one seminar. ", 
+      "id": "CSUS_MSCI 286", 
+      "course name": "Seminar in Marine Geology"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": " May be repeated once for credit. ", 
+      "description": "Seminar will be held on topics changing each semester. Each student will be required to give at least one seminar. ", 
+      "id": "CSUS_MSCI 287", 
+      "course name": "Seminar In Oceanography"
+    }, 
+    {
+      "units": "1 - 4 Units", 
+      "term": " CSUH students must file a petition with their home campus department before admission to this class. CSU Stanislaus students must file Individual Study forms. CSUF students must file Research Approval forms.  ", 
+      "description": "Independent investigations of an advanced character for the graduate student with adequate preparation. ", 
+      "id": "CSUS_MSCI 298", 
+      "course name": "Research in the Marine Sciences"
+    }, 
+    {
+      "units": "1 - 4 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MSCI 299", 
+      "course name": "Master's Thesis"
+    }
+  ], 
+  "subjectOf": {
+    "id": "MSCI", 
+    "subject": "Marine Sciences"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Marine Sciences", 
+    "id": "CSUS"
+  }
+}

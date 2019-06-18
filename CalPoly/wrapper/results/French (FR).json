@@ -1,0 +1,83 @@
+{
+  "subject": "French (FR)",
+  "courses": [
+    {
+      "Course number & title": " Elementary French I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Beginning French. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation. Language taught in its intercultural context. 3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Elementary French  II",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Elementary French III",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Intermediate French I",
+      "Number of units": "4 units",
+      "Term": "GE Area C5",
+      "Course description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in French within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "Course number & title": " Intermediate French II",
+      "Number of units": "4 units",
+      "Term": "GE Area C5",
+      "Course description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in French within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "Course number & title": " Intermediate French III",
+      "Number of units": "4 units",
+      "Term": "GE Area C5",
+      "Course description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in French within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    },
+    {
+      "Course number & title": " Critical Reading in French Literature",
+      "Number of units": "4 units",
+      "Term": "GE Area C1",
+      "Course description": "Selected readings in French from Francophone authors that illustrate the French literary tradition from the Middle Ages to the present in both France and other French-speaking countries.  May include film and other media.  Conducted in French.  4 lectures.  Fulfills GE C1."
+    },
+    {
+      "Course number & title": " Selected Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics.  Open only to undergraduate students.  Conducted in French.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " Advanced French Composition and Grammar",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W, SP",
+      "Course description": "Written and oral development of structural grammar, syntax and complex components of French.  Expansion of vocabulary and idiomatic expressions through text study.  Written compositions.  May include French/English translation.  Conducted in French.  4 lectures."
+    },
+    {
+      "Course number & title": " Advanced French Conversation and Grammar",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W, SP",
+      "Course description": "Oral and written development of structural grammar, syntax and complex components of French.  Expansion of vocabulary and idiomatic expressions through topics focusing on culture.  Individual and/or group presentations.  Conducted in French.  4 lectures."
+    },
+    {
+      "Course number & title": " Significant Works in French",
+      "Number of units": "4 units",
+      "Term": "GE Area C4",
+      "Course description": "Critical analysis and oral discussion of poetry, essays, novels, plays, films, and other media by selected French and Francophone authors.  Conducted in French.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 lectures.  Fulfills GE C4 except for Modern Languages and Literatures majors."
+    },
+    {
+      "Course number & title": " French Literature in English Translation",
+      "Number of units": "4 units",
+      "Term": "GE Area C4",
+      "Course description": "Selected works to be read by students in English translation.  Critical analysis, interpretation, and comparison of works by French and/or Francophone authors.  Course may include film and other media.  Discussion in English.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.  Fulfills GE C4 except for Modern Languages and Literatures majors."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Conducted in French.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Introduction to food safety principles and application, microbiology of food safety, infection control, and safety issues. Examination of laws and regulations related to consumer and foodservice operations. Preparation for national foodservice sanitation certification exam.", 
+      "id": "CSUS_FACS 9", 
+      "course name": "Food Safety and Sanitation"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the basic principles of nutrition and the relationship of the human diet to health. Overview of the nutrition profession, the biological uses of nutrients and tools for dietary planning. Examination of specific issues such as weight loss, sports nutrition, food safety, the diet-disease relationship and global nutrition. Analysis of special nutritional requirements and needs during the life cycle. Evaluation of personal dietary habits using current dietary guidelines and nutritional assessment methods.", 
+      "id": "CSUS_FACS 10", 
+      "course name": "Nutrition And Wellness"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Chemical, physical, sensory, and nutritional properties of food related to processes used in food preparation. Laboratory includes preparation and evaluation of individual food products. Lecture two hours; laboratory three hours. ", 
+      "id": "CSUS_FACS 11", 
+      "course name": "Principles of Food Preparation"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course serves as an introduction to the study of fashion and human environment and how fashion is perceived, marketed, and internalized within individuals across Western and non-Western cultures. A focus on both internal factors such as psychological, aesthetic and self-image, and external factors such as social, economic, cultural and political experiences will be addressed.", 
+      "id": "CSUS_FACS 30", 
+      "course name": "Fashion and Human Environment"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Study of the characteristics of fibers, yarns, fabrics, and finishes. Emphasis on fabric performance, serviceability as they affect consumer satisfaction. Discussion of environmental concerns in the textile industry and laws relating to textile products.", 
+      "id": "CSUS_FACS 31", 
+      "course name": "Textiles"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Principles of fit and design. Applied basic construction with emphasis on standards and custom techniques. Characteristics of fabrics used; individual pattern adjustment. Lecture, discussion, demonstration one hour; laboratory four hours.", 
+      "id": "CSUS_FACS 32", 
+      "course name": "Fundamentals of Apparel Production"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Not open for credit to students who have taken SOC  5. ", 
+      "description": "Family structure, systems and functioning in  marriage and other partnerships, parenting, work issues, domestic violence, divorce, and remarriage.  Focus on social issues including gender, race, ethnicity, and class.  Historical and theoretical perspectives on families in America.  Introduction to research in family sciences and public policy implications.  Lecture, discussion. ", 
+      "id": "CSUS_FACS 50", 
+      "course name": "The Family and Social Issues."
+    }, 
+    {
+      "term": ". ", 
+      "description": "Physical, social, emotional and cognitive development of the child, conception through adolescence, in relation to the family.  Strong theoretical emphasis.  Introduction to methods of study, including observation and interview.  Lecture, discussion, fieldwork. ", 
+      "course name": "The Child In The Family", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 52", 
+      "prerequisite": [
+        "CHDV 137", 
+        "CHDV 138", 
+        "PSYC 148"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of methods and application of research in the field of Family and Consumer Sciences. Focus on scientific inquiry, methodology, evidenced-based practice, interpretation of research results, program and project evaluation., and professional communication. Includes the examination of ethical practices, professional presentation skills, and technical writing skills. ", 
+      "id": "CSUS_FACS 100", 
+      "course name": "Research: Methods and Application in Family and Consumer Sciences"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Nutrition Education, communication and counseling techniques for use by the nutrition/dietetics professional. Introduction and application of various health behavior theories to promote change in diverse target audiences. Development of nutrition care plans, educational materials and activities for individual groups. Understand and apply methods of dietary assessment and motivational interviewing. ", 
+      "course name": "Nutrition Education, Communication, and Counseling", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 107", 
+      "prerequisite": [
+        "FACS 10"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Study of the family as a small group with emphasis on understanding and interpreting the dynamics of family communication using various communication and social-psychological theories. Opportunity to develop an analytical framework. ", 
+      "course name": "Family Communication", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 108", 
+      "prerequisite": [
+        "COMS 8", 
+        "FACS 50", 
+        "SOC 166", 
+        "COMS 108"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Study and laboratory experience in planning, procuring, production, serving and evaluation of food for individuals, families, commercial, and institutional foodservice operations. Application of menu development techniques such as recipe modification and standardization to various target populations. Examination and application of marketing analysis and promotion. Understanding of current issues and sustainability topics related to food production. ", 
+      "course name": "Food Production and Sustainability", 
+      "units": "4 Units", 
+      "id": "CSUS_FACS 110", 
+      "prerequisite": [
+        "FACS 9", 
+        "FACS 10", 
+        "FACS 11"
+      ]
+    }, 
+    {
+      "term": " Not open for credit to Dietetics/Nutrition and Food majors.  ", 
+      "description": "Examination of contemporary and controversial topics in nutrition science and how they relate to nutritional needs of different population groups. Analyzes the research process and evaluation of validity of nutrition research.  Lecture, discussion. ", 
+      "course name": "Current Topics in Nutritional Sciences.", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 112", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Study of the structures, types and metabolism of carbohydrates, lipids and proteins. Discussion of the biological roles of vitamins and minerals. Application and integration of metabolic knowledge with health promotion and chronic disease. Lecture, discussion. ", 
+      "course name": "Nutrition And Metabolism", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 113", 
+      "prerequisite": [
+        "FACS 10", 
+        "BIO 10", 
+        "BIO 20", 
+        "CHEM 1A", 
+        "CHEM 5", 
+        "CHEM 6A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of the cultural and social meanings of food, food behaviors and food systems.  Emphasis on the regional, ethnic and religious influences on food habits.  Study of food production, distribution, and consumption historically and cross-culturally; traditional dishes and nutritional contributions of diets of several cultures. ", 
+      "course name": "Cultural and Social Aspects of Food", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 114", 
+      "prerequisite": [
+        "FACS 10"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of nutritional requirements, metabolism and issues during stages of the early life cycle, including: pre-conception, pregnancy, lactation, infancy, and early and late childhood. Study of assessment and methods for achieving nutritional needs through dietary selection and promotion of maternal, infant, and child health. Analysis of social, environmental, physical and economic factors affecting nutritional status. ", 
+      "course name": "Nutrition: Pre-conception Through Childhood", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 115", 
+      "prerequisite": [
+        "FACS 113"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of financial, facility, human resource management in commercial and noncommercial foodservice operations. Application of accounting principles, evaluation and selection of equipment, layout and design, and principles and practices of human resource management as an entry-level manager. ", 
+      "course name": "Food Service Management", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 116", 
+      "prerequisite": [
+        "FACS 110"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of theory, concepts and philosophy affecting nutrition education and services in the community. Introduction to techniques of interviewing and counseling clients. Emphasis on culturally sensitive approaches to dietary assessment, counseling and community nutrition research.  Use of a variety of teaching methods to improve nutrition status of the community. Field study involves practical experience in a community nutrition program. Lecture, discussion two hours; field study three hours. ", 
+      "course name": "Community Nutrition", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 117", 
+      "prerequisite": [
+        "FACS 107", 
+        "FACS 115", 
+        "FACS 119"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Study of the principles of medical nutrition therapy and the Nutrition Care Process. Use the Nutrition Care Process to make decisions, identify nutrition-related problems and determine and evaluate nutrition interventions with patients/clients with various conditions, including, cardiovascular and gastrointestinal disorders. ", 
+      "course name": "Medical Nutrition Therapy I", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 118A", 
+      "prerequisite": [
+        "FACS 113", 
+        "FACS 121", 
+        "BIO 131"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": ". Review of the etiology, development and dietary prevention and intervention of diseases influenced by nutrition such as: diabetes mellitus, heptatic and biliary diseases, cancer, renal disease, pulmonary disease, neurological disorders, HIV and AIDS, and inborn errors of metabolism. Lecture, discussion two hours; activity two hours. ", 
+      "course name": "Medical Nutrition Therapy II", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 118B", 
+      "prerequisite": [
+        "FACS 118A", 
+        "CHEM 161", 
+        "FACS 118A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of nutritional requirements, metabolism and issues during stages of the life cycle, including: adolescence, adulthood, and old age. Study of assessment and methods for achieving nutritional needs through dietary selection and promotion of adolescent, adult, and elderly adult health. Analysis of social, environmental, physical and economic factors affecting nutritional status. ", 
+      "course name": "Nutrition: Adolescence Through Older Adulthood", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 119", 
+      "prerequisite": [
+        "FACS 113"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "A survey course in nutrition with an emphasis on the relationship among diet, physical activity, and health; exploration of the changes in the metabolism of carbohydrates, lipids, protein and water; discussion of the function of vitamins and minerals; practical application of evidence-based dietary recommendations for common sports and varying physical intensity. Recommended for FACS majors. Lecture/Discussion. Three units. ", 
+      "course name": "Practical Application in Sports Nutrition", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 120", 
+      "prerequisite": [
+        "FACS 113"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "Study of health care systems, the nutrition care process including assessment and support, and clinical implications of malnutrition. Topics include nutrition-focused physical examination, anthropometric, biochemical, dietary, body composition, and functional status evaluation and an understanding of advantages and disadvantages of assessment approaches. Application of various assessment methods and problem solving will be achieved through hands on training and clinical case studies in the context of malnutrition, nutrition support, cancer, eating disorders, and obesity. ", 
+      "id": "CSUS_FACS 121", 
+      "prerequisite": [
+        "FACS 113"
+      ], 
+      "course name": "Nutrition Assessment, Methods and Support"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study and analysis of technologies, durable goods, and environments in home and workplace and their impact on quality of life.  Principles of equipment and product design, selection and safety; space planning; consumer decision making.  Examination of issues related to energy management, shelter, housing and access to technology.  Lecture, field trips two hours; activity two hours.", 
+      "id": "CSUS_FACS 128", 
+      "course name": "Consumer Technologies and Environments"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "A study of dress in Western civilization from ancient times through the present.  An interdisciplinary approach is used to examine how clothing communicates values displayed by the individual and functions as a reflection of trends in technology, political events, social ideals, and cultural developments such as art and music.  Emphasis on the contributions and perspectives of women as well as differing roles in the production, dissemination, and consumption of clothing in relation to socioeconomic groups.  Lecture, discussion.", 
+      "id": "CSUS_FACS 130", 
+      "course name": "History Of Fashion"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Analysis of apparel construction and production; current industrial and technological developments.  Discussion of sizing and quality standards with emphasis on identification of fabrics, garment styles, finding and trims.  Lecture, discussion, demonstration, field trips. ", 
+      "course name": "Quality Analysis: Apparel", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 131", 
+      "prerequisite": [
+        "FACS 31", 
+        "FACS 32"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of the functional and aesthetic elements of apparel design.  The creative process and development of illustrative techniques. Development of creative approaches through projects of experimental, contemporary and traditional techniques with emphasis on elements of design, and selection and organization of colors, forms, materials and accessories for apparel production. Studio-activity six hours. ", 
+      "course name": "Creative Principles of Apparel Design", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 133", 
+      "prerequisite": [
+        "FACS 30", 
+        "FACS 31"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to develop an awareness and understanding of the total fashion industry including past, present and future directions of costume design, manufacturing, textiles, retailers' publications, buying offices, advertising and the consumer.", 
+      "id": "CSUS_FACS 134", 
+      "course name": "Introduction to Fashion Industry"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Detailed study of merchandising mix, purchasing plan, inventory plan, assortment plan, pricing, markdown, markup, and reports.  Review of planning and control processes and the buyer's role in merchandise management and decision-making.  Lecture, discussion. ", 
+      "course name": "Merchandise Buying", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 135", 
+      "prerequisite": [
+        "FACS 134"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "A in-depth exploration of fashion retailing from different perspectives, including organizational structure, store location and image with a focus on visual merchandising techniques, and fashion advertising and promotion strategies. Lecture-discussion. ", 
+      "course name": "Fashion Retailing", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 136", 
+      "prerequisite": [
+        "FACS 134"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of the relationship of humans and clothing within their cultural and social environment. Introduction to the fundamentals of social psychology in the examination of clothing and appearance. Clothing and appearance are studied as forms of nonverbal communication and as devices for expressing cultural and social values.", 
+      "id": "CSUS_FACS 137", 
+      "course name": "Clothing, Society, and Culture"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Overview of global factors affecting the textiles and apparel industries and trade, the impact of textiles and apparel industries on the economy and consumers, the US textiles and apparel in the global economy, and strategies for balancing conflicting interest. ", 
+      "course name": "Textiles and Apparel in the Global Economy", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 139", 
+      "prerequisite": [
+        "FACS 134", 
+        "MKTG 101"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Management of resources in family systems. Interaction of families with other societal and environmental systems in acquiring and using resources to meet goals and other demands.", 
+      "id": "CSUS_FACS 140", 
+      "course name": "Family Resource Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Economic problems of and financial management by the individual and family. Topics include: income patterns, inflation, credit, contracts, housing, financial services, insurance, taxes, investments, retirement income planning.", 
+      "id": "CSUS_FACS 141", 
+      "course name": "Family Finance"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of effect of consumer movements on protection of consumer rights. Current issues include marketplace fraud and redress; consumer information, education, and decision-making; privacy and environmental concerns; and advocacy for vulnerable consumer groups.", 
+      "id": "CSUS_FACS 142", 
+      "course name": "Consumer Issues"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of consumer policy and regulations.  Emphasis on consumer products, including food and drugs, housing, and credit.  Strategies for promoting consumer advocacy.  Lecture, discussion, field trips. ", 
+      "id": "CSUS_FACS 143", 
+      "course name": "Consumer Policy"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Economic status, financial and consumer issues, legal rights and responsibilities and resource management for aging persons.  Emphasis on financial planning for retirement and estate planning.  Lecture, discussion, case studies. ", 
+      "course name": "Financial and Legal Aspects of Aging", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 147", 
+      "prerequisite": [
+        "FACS 141"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "This course provides an overview of legal issues affecting the fashion industry and its professionals with an emphasis on fashion entrepreneurship, design, advertising and promotion, production, sourcing, marketing and retailing. Students will also learn about fashion regulatory and policy issues, intellectual property (copyright, trademarks, patents), contractual agreements, leasing, commercial operations and expansion, and the international development of a fashion business.  ", 
+      "course name": "Fashion Law", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 148", 
+      "prerequisite": [
+        "FACS 134"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of professional issues in family financial planning including ethical considerations, regulations, communication skills, and professional responsibility. Development of skills needed by family financial counselors to counsel families with financial problems. Lecture, discussion, case study, counseling sessions. ", 
+      "course name": "Family Financial Counseling", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 149", 
+      "prerequisite": [
+        "FACS 141"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Study of multicultural families and diverse family forms, with a focus on how families function under stress. Family theory and research are applied to the interpretation and analysis of selected literary work, both in print and film formats. ", 
+      "course name": "", 
+      "units": "3 Units", 
+      "id": "CSUS_ ", 
+      "prerequisite": [
+        "FACS 50", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": " strongly recommended.  ", 
+      "description": "In-depth study of the achievements and challenges associated with the adolescent stage of development.  Focus on understanding the needs and motivations of adolescents and the challenges they face within their socio-cultural environment.   Lecture, discussion. ", 
+      "course name": "Adolescent Development", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 152", 
+      "prerequisite": [
+        "CHDV 30", 
+        "CHDV 35", 
+        "FACS 52", 
+        "PSYC 149", 
+        "CHDV 133"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Survey of historical and contemporary attitudes toward parenting. Review of research on child-rearing and parent-child relationships. Use of case studies to explore the influence of personality, developmental stage, family structure, ethnic and cultural factors on parenting. Lecture, Case Study. ", 
+      "course name": "Issues in Parenting", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 154", 
+      "prerequisite": [
+        "CHDV 30", 
+        "CHDV 35", 
+        "FACS 52", 
+        "CHDV 133", 
+        "CHDV 154"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Historical and philosophical perspective on family life education across the lifespan.  Practice in curriculum development including content, objectives, and teaching strategies. ", 
+      "course name": "Family Life Education", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 155", 
+      "prerequisite": [
+        "FACS 50", 
+        "FACS 100", 
+        "CHDV 133"
+      ]
+    }, 
+    {
+      "term": " This course is designed to meet the specifications set forth by the Association of Child Life Professionals (ACLP) for the child life course required for certification as a Certified Child Life Specialist (CCLS) ", 
+      "description": "Overview of the Child Life profession and child life practices. Focus on family-centered care for children in the healthcare environment and their families. Major course topics include: scope of practice in child life; ethical and professional practice; impact of illness, injury and health on patients and family; techniques and outcomes of preparation; therapeutic play; grief and bereavement. ", 
+      "course name": "Child Life and Family-Centered Care", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 156", 
+      "prerequisite": [
+        "FACS 52", 
+        "CHDV 30", 
+        "CHDV 35"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes interrelation between physical, psychological, and social development in the middle and later years of adulthood with attention to personal, family and community challenges and opportunities in their cultural context. ", 
+      "id": "CSUS_FACS 159", 
+      "course name": "Adulthood and Aging in Human Development"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Application of family science to the development, implementation, and evaluation of family support services.  Implications of research for practice with diverse families.  Focus on developing skills in family-centered services, family-professional collaboration, and resource-based and asset-based intervention.  Lecture two hours; fieldwork in the community three hours. ", 
+      "id": "CSUS_FACS 162", 
+      "course name": "Family Support Services"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Application of research and theory specific to Latino/Chicano and American Indian families; strategies for applying this knowledge to areas of service, therapy, policy, and education.  Lecture; discussion, Internet enhancement. ", 
+      "course name": "American Indigenous Families:  Issues and Perspectives", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 166A", 
+      "prerequisite": [
+        "ETHN 166"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Family is an adaptable and changing institution of society.  The course will highlight research and theory on Asian American families with an emphasis on applying the information to areas of service, therapy, policy, and education.  A comparison of the experiences between various Asian groups in the U.S. will be stressed.  Lecture, discussion, Internet enhancement. ", 
+      "course name": "Asian American Families: Issues and Perspectives", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 166B", 
+      "prerequisite": [
+        "ETHN 167"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to synthesize knowledge in Family and Consumer Sciences.  Examination of the concentration in the major and career exploration.  Analysis of public policy and ethical issues, professionalism and leadership strategies.  Includes personal and professional competency assessment and development of an academic and professional portfolio. ", 
+      "id": "CSUS_FACS 168", 
+      "course name": "Senior Seminar"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Study of the physiologic function of carbohydrates, lipids, protein and micronutrients including integrated metabolism, transport, regulation and relation to inborn errors/chronic disease. Introduction to gene-nutrient interaction. ", 
+      "course name": "Advanced Nutrition and Metabolism", 
+      "units": "3 Units", 
+      "id": "CSUS_FACS 170", 
+      "prerequisite": [
+        "CHEM 161", 
+        "FACS 113", 
+        "BIO 170"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Guided study and experience in some area within Family and Consumer Sciences in which the student needs orientation or greater depth of study in a specialized field. ", 
+      "id": "CSUS_FACS 195A", 
+      "course name": "Field Study: Selected Areas in Family and Consumer Sciences"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Student must make arrangements with a faculty member for a work program one semester prior to admittance to the course. A minimum of three hours per week per unit of credit is required.  ", 
+      "description": "Directed observation and supervised work experience in an approved business, government, or service agency. Internships are offered for the purpose of increasing student understanding of the nature and scope of agency operations and giving students orientation in occupational specialties. Supervision is provided by authorized persons in the cooperating agencies and collaborative supervision is provided by the Family and Consumer Sciences faculty. Each student is required to maintain a record of activities and assignments and to prepare periodic reports. ", 
+      "id": "CSUS_FACS 195C", 
+      "course name": "Internship"
+    }, 
+    {
+      "term": " Students must make arrangements with the supervising faculty member one semester prior to admittance to the course.  ", 
+      "description": "Directed observation and supervised work experience in an approved educational setting, service agency, business or government agency that provides family life education. Students will move from observing and assisting to developing, delivering and assessing lessons and programs in family life education. Students will gain experience applying educational and developmental theories, curriculum development, and teaching methods to delivering evidence-based and culturally sensitive lessons in the content areas of family life education: parent education, strengthening relationships, and/or sexuality education. ", 
+      "course name": "Practicum in Family Life Education", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_FACS 195F", 
+      "prerequisite": [
+        "NURS 160", 
+        "PSYC 134", 
+        "HLSC 134", 
+        "FACS 155", 
+        "FACS 155"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Departmental petition required. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_FACS 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "1 Unit", 
+      "description": "Examination of dietetics career paths, processes and options. Students will learn about the profession of dietetics, including professionalism, the professional organization, pathways, mentoring and the code of ethics. ", 
+      "id": "CSUS_FACS 199D", 
+      "course name": "Dietetic Pathways"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Perform nutrition assessment of patients with complex medical conditions.  Integration of pathophysiology into medical nutrition therapy.  Development, supervision and evaluation of nutrition care plans.  Select, calculate, monitor and evaluate nutritional support regiments for patients.  Lecture, composition. ", 
+      "id": "CSUS_FACS 221A", 
+      "course name": "Advanced Clinical Nutrition A"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " with application to other complex disease conditions and integration to multiple diseases.  Application of genetics and pathophysiology to complex disease conditions.  Demonstration of skills in assignments and presentations.  Lecture, composition. ", 
+      "course name": "Advanced Clinical Nutrition B", 
+      "units": "1 Unit", 
+      "id": "CSUS_FACS 221B", 
+      "prerequisite": [
+        "FACS 221A"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Management of nutrition care for population groups across the lifespan.  Perform outcome assessment/evaluation of community based food and nutrition programs.  Nutrition policy development and evaluation based on community needs and resources.  Learn advanced nutrition counseling techniques.  Lecture, composition. ", 
+      "id": "CSUS_FACS 222", 
+      "course name": "Advanced Community Nutrition and Nutrition Education"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Management of procurement, distribution, and service of food, and integration of financial, human, physical and material resources.  Production of food that meets nutrition guidelines, cost parameters, and consumer acceptance; safety and sanitation issues related to food.  Analysis of the operations of food service organization.  Lecture, written assignments and practical experience. ", 
+      "id": "CSUS_FACS 223", 
+      "course name": "Advanced Foodservice Management and Administration"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Learn and apply the nutrition care process and to manage nutrition care for population groups.  Conduct outcome assessment, planning, implementation, marketing and evaluation of nutrition programs.  Apply the research process and critically evaluate nutrition research.  Develop an understanding of nutrition policy and resources.  Lecture-discussion. ", 
+      "id": "CSUS_FACS 224", 
+      "course name": "Advanced Community Nutrition and Policy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Summer only", 
+      "description": "This course is designed to provide students with materials, classroom management strategies and methods necessary to successfully teach Family & Consumer Sciences (FCS)/Home Economics Careers and Technology (HECT) at the secondary level. Teacher candidates will become acquainted with legislation, standards, teaching strategies, resources, research and student leadership programs. ", 
+      "id": "CSUS_FACS 280", 
+      "course name": "Teaching Methods in Family and Consumer Sciences/Home Economics"
+    }, 
+    {
+      "units": "1 - 7 Units", 
+      "term": " May be repeated for credit  ", 
+      "description": "Guided study, observation or work experience in an area in which the graduate student needs advanced and specialized study. ", 
+      "id": "CSUS_FACS 295", 
+      "course name": "Field Study"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Any properly qualified student may pursue a problem after approval by his/her advisor and the staff member with whom he/she works. ", 
+      "id": "CSUS_FACS 299", 
+      "course name": "Special Problems"
+    }
+  ], 
+  "subjectOf": {
+    "id": "FACS", 
+    "subject": "Family and Consumer Sciences"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Family and Consumer Sciences", 
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "subjectOf": {
+    "id": "FR",
+    "subject": "French"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "French"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_FR 101",
+      "course name": "Elementary French I",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Beginning French. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation. Language taught in its intercultural context.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_FR 102",
+      "course name": "Elementary French  II",
+      "prerequisite": [
+        "FR 101 or appropriate score on placement exam or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation. Language taught in its intercultural context. To be taken in numerical sequence.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_FR 103",
+      "course name": "Elementary French III",
+      "prerequisite": [
+        "FR 102 or appropriate score on placement exam or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation. Language taught in its intercultural context. To be taken in numerical sequence.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_FR 201",
+      "course name": "Intermediate French I",
+      "prerequisite": [
+        "FR 103 or appropriate score on placement exam or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area c5"
+      ],
+      "description": "Development of presentational, interpersonal, and interpretive intermediate - level language skills in French within an intercultural context. To be taken in numerical sequence.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Fulfills GE C5."
+    },
+    {
+      "id": "CalPoly_FR 202",
+      "course name": "Intermediate French II",
+      "prerequisite": [
+        "FR 201 or appropriate score on placement exam or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area c5"
+      ],
+      "description": "Development of presentational, interpersonal, and interpretive intermediate - level language skills in French within an intercultural context. To be taken in numerical sequence.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Fulfills GE C5."
+    },
+    {
+      "id": "CalPoly_FR 203",
+      "course name": "Intermediate French III",
+      "prerequisite": [
+        "FR 202 or appropriate score on placement exam or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area c5"
+      ],
+      "description": "Development of presentational, interpersonal, and interpretive intermediate - level language skills in French within an intercultural context. To be taken in numerical sequence.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Fulfills GE C5."
+    },
+    {
+      "id": "CalPoly_FR 233",
+      "course name": "Critical Reading in French Literature",
+      "prerequisite": [
+        "FR 203 or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area c1"
+      ],
+      "description": "Selected readings in French from Francophone authors that illustrate the French literary tradition from the Middle Ages to the present in both France and other French - speaking countries. May include film and other media. Conducted in French. 4 lectures. Fulfills GE C1."
+    },
+    {
+      "id": "CalPoly_FR 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. Open only to undergraduate students. Conducted in French. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_FR 301",
+      "course name": "Advanced French Composition and Grammar",
+      "prerequisite": [
+        "FR 203 or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Written and oral development of structural grammar, syntax and complex components of French. Expansion of vocabulary and idiomatic expressions through text study. Written compositions. May include French / English translation. Conducted in French.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_FR 302",
+      "course name": "Advanced French Conversation and Grammar",
+      "prerequisite": [
+        "FR 203 or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Oral and written development of structural grammar, syntax and complex components of French. Expansion of vocabulary and idiomatic expressions through topics focusing on culture. Individual and/or group presentations. Conducted in French.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_FR 305",
+      "course name": "Significant Works in French",
+      "prerequisite": [
+        "FR 233 or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Critical analysis and oral discussion of poetry, essays, novels, plays, films, and other media by selected French and Francophone authors. Conducted in French. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "4 lectures"
+    },
+    {
+      "id": "CalPoly_FR 350",
+      "course name": "French Literature in English Translation",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Selected works to be read by students in English translation. Critical analysis, interpretation, and comparison of works by French and/or Francophone authors. Course may include film and other media. Discussion in English. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "4 lectures"
+    },
+    {
+      "id": "CalPoly_FR 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. Conducted in French. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    }
+  ]
+}

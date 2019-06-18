@@ -1,0 +1,295 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the field of interior design. Consideration of human factors, aesthetics, design process, furnishings, surface treatments, and current issues. Lecture, discussions, field trips, two hours.", 
+      "id": "CSUS_INTD 15", 
+      "course name": "Introduction to Interior Design"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Examination of the visual arts as expressed in architecture and interiors, community planning, painting and sculpture, furniture, ceramics, graphics, photography, clothing, and industrial design. Lecture, discussion.", 
+      "id": "CSUS_INTD 20", 
+      "course name": "Design"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to designing interior spaces.  Emphasis on the manipulation and understanding of two- and three-dimensional  elements of interior spatial design.  Fundamentals of visual communication strategies.  Studio activity six hours.", 
+      "id": "CSUS_INTD 25", 
+      "course name": "Design Fundamentals"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Exploration of design and space planning fundamentals and their use in creating architectural interiors. Students will communicate designs through two- and three dimensional drawings and models.  ", 
+      "course name": "Introduction to Interior Architecture Studio", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 27", 
+      "prerequisite": [
+        "INTD 25"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to the principles and techniques of architectural drafting. Through a series of exercises, students will learn digital drafting techniques commonly used to generate floor plans, sections, elevations, and axonometrics. Through a series of design problems, students will  also be introduced to basic space planning concepts and vocabulary. Emphasis will be on CAD drawing skills and conventions, CAD vocabulary, and CAD document management procedures. ", 
+      "course name": "Introduction to Computer Aided Design", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 30", 
+      "prerequisite": [
+        "INTD 25", 
+        "INTD 25", 
+        "GPHD 25", 
+        "PHOT 11"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Survey of European and American buildings, interiors, furniture and decorative arts from the stone age through the twentieth century. We will look at individual works as representative of trends in design history and as reflections of broad cultural forces: economic, political, etc.", 
+      "id": "CSUS_INTD 123", 
+      "course name": "Survey of Western Architecture and Interiors"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Survey of high-style and vernacular buildings, interiors, and decorative arts from the 17th century to the beginning of World War I. Analyzes European, Asian, Hispanic/Latino/Chicano and other background sources of inspiration and influence. Lecture-discussion.", 
+      "id": "CSUS_INTD 124A", 
+      "course name": "American Design"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Introduction to some of the major architectural movements of the 20th Century; discussion of environmental concerns as they relate to house design; study of basic principles in planning a house. Lecture, discussion, field trip.", 
+      "id": "CSUS_INTD 124D", 
+      "course name": "Principles of House Design"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Students will explore design approaches that give films a feeling of suspense, create a sense of place, or establish a period in time. This course will increase student awareness of space in filmmaking, and demonstrate that spatial organization plays a key role in the aesthetic success of a motion picture.", 
+      "id": "CSUS_INTD 124E", 
+      "course name": "Film/Design"
+    }, 
+    {
+      "term": ".", 
+      "description": "Survey of experimental film from the beginning of the cinema in the 1890s through today's' avant garde. Emphasis filmmaking as a means of personal, artistic expression, and will pay particular attention to those aspects of cinema that are typically ignored or marginalized in mainstream Hollywood movies. Films studied include those by: Melies, Porter, Richter, Leger, Cornell, Deren, Brackhage, Jacobs and Gehr. ", 
+      "course name": "Avant Garde Cinema", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 124F", 
+      "prerequisite": [
+        "ENGL 97", 
+        "PHOT 102", 
+        "FILM 124F"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A history of urban design from Ancient Greece through today. The course will look at the conceptualizing, planning and development of cities through two distinct lenses: one focusing on visual and physical qualities, the other on how urban planning has been used to promote social/economic policy, political ideologies and institutions. Lecture, discussion. 3 units . GE Area D.", 
+      "id": "CSUS_INTD 125", 
+      "course name": "Urban Design and Society"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Emphasis will be on developing perspective and rendering capabilities, as well as on developing techniques for the execution of furniture, fabric, and color boards. Studio activity six hours. ", 
+      "course name": "Interior Design Graphics I", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 151", 
+      "prerequisite": [
+        "INTD 25", 
+        "INTD 30", 
+        "GPHD 10", 
+        "GPHD 25", 
+        "PHOT 11", 
+        "INTD 153", 
+        "INTD 155", 
+        "INTD 165"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introductory studio course with emphasis on understanding functional and formal elements of architectural interiors.  Students will communicate designs through two- and three dimensional drawings and models.  Studio activity six hours. ", 
+      "course name": "Interior Design Studio I", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 153", 
+      "prerequisite": [
+        "INTD 25", 
+        "INTD 30", 
+        "GPHD 10", 
+        "GPHD 25", 
+        "PHOT 11", 
+        "INTD 151", 
+        "INTD 155", 
+        "INTD 165"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Study of the concepts and the analysis of technical and aesthetic applications of lighting design in both residential and commercial interiors. Lecture, discussion, field trips. ", 
+      "course name": "Professional Practice I", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 155", 
+      "prerequisite": [
+        "INTD 15", 
+        "INTD 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". Students will be introduced to the different presentation types that are utilized including CAD as a 2D rendering and presentation tool. Emphasis will be on file setup, composition and layout of projects within the schematic design, design development, and construction document phases of design. Assignments will demonstrate typical design applications commonly used in the interior design/architecture professions including systems furniture planning and tenant improvement. Studio activity six hours. ", 
+      "course name": "Interior Design Graphics II", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 161", 
+      "prerequisite": [
+        "INTD 151", 
+        "INTD 153", 
+        "INTD 155", 
+        "INTD 165", 
+        "INTD 163", 
+        "INTD 155", 
+        "INTD 165", 
+        "INTD 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "An intermediate studio course where students continue to develop their understanding of functional and formal elements of architectural interiors. Students will communicate designs through two- and three-dimensional drawings and models. Studio activity six hours. ", 
+      "course name": "Interior Design Studio II", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 163", 
+      "prerequisite": [
+        "INTD 151", 
+        "INTD 153", 
+        "INTD 155", 
+        "INTD 165", 
+        "INTD 161", 
+        "INTD 155", 
+        "INTD 165"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Development of selection criteria for interior finishes based on material properties, cost and availability. An introduction to non-structural interior construction including wood and light gauge steel systems will be studied. Additional topics will include MEP systems, ceiling systems, and casework. Lecture/field trips. ", 
+      "course name": "Professional Practice II", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 165", 
+      "prerequisite": [
+        "INTD 15", 
+        "INTD 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". Students will become familiar with the basic vocabulary and concepts of three-dimensional modeling. Students will be introduced to three different modeling techniques - wireframe, surface and solid. Emphasis will be on the construction of 3D CAD models as a means for quickly generating design alternatives. Topics include 3D modeling concepts and techniques, the behavior of materials with light, material characteristics and textures, and computer rendering output methods. Studio activity six hours. ", 
+      "course name": "Interior Design Graphics III", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 171", 
+      "prerequisite": [
+        "INTD 161", 
+        "INTD 163", 
+        "INTD 165", 
+        "INTD 173", 
+        "INTD 175", 
+        "INTD 195", 
+        "INTD 30", 
+        "INTD 161"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced studio course where students continue to develop their understanding of functional and formal elements of architectural interiors. Students will communicate designs through two- and three-dimensional drawings and models. Studio activity six hours. ", 
+      "course name": "Interior Design Studio III", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 173", 
+      "prerequisite": [
+        "INTD 161", 
+        "INTD 163", 
+        "INTD 165", 
+        "INTD 171", 
+        "INTD 175", 
+        "INTD 195"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Study of the professional role of the interior designer in relation to that of the client, contractor and consultants. Legal and ethical issues are explored. Building codes, life-safety codes and ADA requirements are studied with emphasis on permit and plan-check requirements. Preparation for the NCIDQ exam and certification procedures are covered. ", 
+      "course name": "Professional Practice III", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 175", 
+      "prerequisite": [
+        "INTD 161", 
+        "INTD 163", 
+        "INTD 165"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Interdisciplinary approach to prepare students for professional practice in the field of Interior Design. Student will be expected to complete a comprehensive portfolio of work.  ", 
+      "course name": "Interior Design Graphics IV", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 181", 
+      "prerequisite": [
+        "INTD 171", 
+        "INTD 173", 
+        "INTD 175", 
+        "INTD 195", 
+        "INTD 183", 
+        "INTD 175", 
+        "INTD 195"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Thesis studio in which students research and develop individual design projects. Students will draw upon knowledge and skills from previous coursework to create solutions to complex design problems. Projects are completed with assistance from instructor, client and working professionals. Students are required to submit a design proposal for instructor approval in the Fall. Studio activity six hours. ", 
+      "course name": "Interior Desgin Studio IV", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 183", 
+      "prerequisite": [
+        "INTD 171", 
+        "INTD 173", 
+        "INTD 175", 
+        "INTD 195", 
+        "INTD 181", 
+        "INTD 175", 
+        "INTD 195"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Direct work experience in approved architecture, design, corporate, private or government office. Supervision is provided by both the instructional staff and the cooperating agency. ", 
+      "course name": "Professional Practice IV-Internship", 
+      "units": "3 Units", 
+      "id": "CSUS_INTD 195", 
+      "prerequisite": [
+        "INTD 161", 
+        "INTD 163", 
+        "INTD 165"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Departmental petition required. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_INTD 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Guided study, observation or work experience in an area in which the graduate student needs advanced and specialized study. ", 
+      "id": "CSUS_INTD 295", 
+      "course name": "Field Study"
+    }
+  ], 
+  "subjectOf": {
+    "id": "INTD", 
+    "subject": "Interior Design"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Interior Design", 
+    "id": "CSUS"
+  }
+}

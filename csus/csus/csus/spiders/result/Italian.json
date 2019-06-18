@@ -1,0 +1,132 @@
+{
+  "courses": [
+    {
+      "units": "4 Units", 
+      "term": "Fall only", 
+      "description": "Focuses on the development of the four basic skills (understanding, speaking, reading, writing) through the presentation of many cultural components (two per week) which illustrate the Italian \"modus vivendi:\" social issues, family, food, sports, etc.", 
+      "id": "CSUS_ITAL 1A", 
+      "course name": "Elementary Italian"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " with greater emphasis on reading, writing. Addition of one reader which contains more cultural material (geography, political issues, government, fashion, etc.). ", 
+      "course name": "Elementary Italian", 
+      "units": "4 Units", 
+      "id": "CSUS_ITAL 1B", 
+      "prerequisite": [
+        "ITAL 1A", 
+        "ITAL 1A"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall only", 
+      "description": "Intermediate course in the Italian language with emphasis on speaking, reading and writing ability; review of grammar; discussions and compositions in Italian. Meets the Foreign Language Graduation Proficiency Requirement. ", 
+      "id": "CSUS_ITAL 2A", 
+      "course name": "Intermediate Italian"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". Meets the Foreign Language Graduation Proficiency Requirement. ", 
+      "course name": "Intermediate Italian", 
+      "units": "4 Units", 
+      "id": "CSUS_ITAL 2B", 
+      "prerequisite": [
+        "ITAL 2A", 
+        "ITAL 2A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Designed to develop oral fluency through free discussion on prepared topics, and supervised practice to develop audio-lingual skills at the advanced level. Course conducted in Italian. May be taken for credit twice. ", 
+      "course name": "Italian Advanced Conversation", 
+      "units": "3 Units", 
+      "id": "CSUS_ITAL 102", 
+      "prerequisite": [
+        "ITAL 2B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of grammar and style and their application in oral and written exercises, in translations and in compositions. ", 
+      "course name": "Advanced Grammar and Composition", 
+      "units": "3 Units", 
+      "id": "CSUS_ITAL 103", 
+      "prerequisite": [
+        "ITAL 2B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Italian Cinema from the 1940's to its Golden Period in the 1960's through the 1970's. Films will be viewed in their cultural, aesthetic and/or historical context. Readings and guiding questionnaires will help students develop appropriate viewing skills. Films will be shown in Italian with English subtitles.", 
+      "id": "CSUS_ITAL 104A", 
+      "course name": "Introduction to Italian Cinema I"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Focuses on Italian Cinema from the 1980's and the 1990's. The \"New Generation\" of Italian Directors will be considered (Nanni Moretti, Gabriele Salvatores, Maurizio Nichetti, Giuseppe Tornatore, Roberto Benigni, Liliani Cavani, Fiorenza Infascelli, Francesca Archibugi, etc.) as well as current productions. Films will be shown in Italian with English subtitles.", 
+      "id": "CSUS_ITAL 104B", 
+      "course name": "Introduction to Italian Cinema II"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Beginning and major developments of the literature of Italy from the Middle Ages through the Baroque period of the 17th Century. Analyzes the literary movements with emphasis on their leading figures, discussion of literary subjects, instruction in the preparation of reports on literary, biographical and cultural topics. Taught in Italian. ", 
+      "id": "CSUS_ITAL 110", 
+      "course name": "Introduction to Italian Literature I"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Major developments in the literature of Italy from the Enlightenment movement of the 18th Century through the 20th Century.  Analysis of the literary movements with emphasis on their leading figures, discussion of literary subjects, instruction in the preparation of reports on literary, biographical, and cultural topics.  Taught in Italian. ", 
+      "id": "CSUS_ITAL 111", 
+      "course name": "Introduction to Italian Literature II"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Focus on Italian civilization in a Mediterranean context.  Allows students to develop a critical understanding of the dialogue in the context of Italian and Western Civilization, from its origins in Ancient Egypt and Greece, to its flowering in the Renaissance and its return during the Enlightenment, to its endurance in modern times.  Issues emphasized are philosophical and literary movements in their historical contexts. Socratic dialogue and other related genres, the dialogue as a typical Renaissance form with a variety of perspectives (feminine, poetic, satirical, etc.) the Enlightenment thinkers in Italy and France and their modern heritage are studied. Taught in English.", 
+      "id": "CSUS_ITAL 130", 
+      "course name": "Italian Civilization: The Dialogue Form It's Origins and European Context"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Taught in English, explores the phenomenon of the Italian Renaissance in its literary, artistic, religious, social, historical, scientific, and economic aspects through the analysis of the period's major works, and through films, slides, lectures and discussions. The issues to be emphasized are the uniqueness of the Italian contribution to new ideas and values, and their influence on Western Civilization. The students will learn to recognize the sources and the effects of the Italian Renaissance within the integrated context of Western culture and various fields of knowledge.", 
+      "id": "CSUS_ITAL 131", 
+      "course name": "The Italian Renaissance and Its Influence on Western Civilization"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Directed fieldwork in a project which uses the language skills developed through previous study of Italian. The projects may include interpreting and translating for public and/or private agencies in Sacramento or other projects approved by the faculty supervisor. All work will be monitored by Sacramento State faculty. The student must submit written reports to his/her supervisor. Can be taken more than once for credit. ", 
+      "id": "CSUS_ITAL 194", 
+      "course name": "Field Experience/Internship"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " May be repeated until a maximum of 6 units is reached.  ", 
+      "description": "Tutoring of lower division Italian students, under the supervision of an instructor. Three hours of tutoring per week for each unit. ", 
+      "id": "CSUS_ITAL 195", 
+      "course name": "Fieldwork - Tutoring"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Departmental petition required. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_ITAL 199", 
+      "course name": "Special Problems"
+    }
+  ], 
+  "subjectOf": {
+    "id": "ITAL", 
+    "subject": "Italian"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Italian", 
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the concepts of: health and wellness; the determinants of health and wellness; and the concept of self-responsibility for health and wellness. These health and wellness concepts shall be applied to the areas of: mental wellness, nutrition, fitness, human sexuality, and drugs. The lecture/discussion format provides for a sharing of views regarding the integrated concepts of health that emphasizes the physical, mental, emotional, social, spiritual, and environmental factors that influence an individual's health status.", 
+      "id": "CSUS_HLSC 50", 
+      "course name": "Healthy Lifestyles"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Potential and beginning Health Science students become oriented to the Health Science discipline. They will acquire and develop the knowledge and understanding needed to fulfill the Health Science major learning outcomes. Students will develop their individual learning plans designed to assure fulfillment of the Health Science major, General Education, and University graduation requirements.", 
+      "id": "CSUS_HLSC 98", 
+      "course name": "Health Science ProSeminar"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explores global and national issues in occupational and non-occupational safety and health.  Subjects include motor vehicle, consumer, workplace, fire, school, and home safety.  Examines concepts and principles related to the cause, control, and mitigation of unintentional injuries and illnesses.  Emphasizes the development, implementation, and integration of effective safety and health program strategies in the prevention and control of loss. ", 
+      "id": "CSUS_HLSC 100", 
+      "course name": "Fundamentals of Safety and Health"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Concepts of occupational health as they pertain to appraising and controlling occupational health hazards, including occupational diseases, chemical, biological, and physical agents.  Discusses techniques for the recognition, evaluation, prevention, and control or occupational health hazards. ", 
+      "id": "CSUS_HLSC 106", 
+      "course name": "Occupational Health"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Examines common hazards and problems encountered in the workplace, including concepts and principles related to the control and mitigation of occupational safety hazards.  Emphasizes the development, implementation, and integration of effective occupational safety and health program components. ", 
+      "id": "CSUS_HLSC 107", 
+      "course name": "Occupational Safety"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Overview of regulatory agencies involved in occupational health and safety and their functions in the enforcement of regulation and/or compliance of safety laws. Special emphasis on Cal/OSHA. Other topics: application of surveillance, research, control technology, and trained personnel to maintain compliance. Recognizes that strategies to achieve a safe workplace includes an analysis of economic and employment impacts on the employer. ", 
+      "id": "CSUS_HLSC 108", 
+      "course name": "Occupational Health and Safety Laws and Regulations"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Study of the characteristics, causes, and control of occupational loss; influence of the work environment and system structure on incident outcomes; and analysis of occupational injuries and illnesses through the application of incident investigation and system safety techniques.  Course will use occupational injuries and illnesses to focus on the process of problem identification and analysis, including the development and implementation of control measures. ", 
+      "id": "CSUS_HLSC 109", 
+      "course name": "Cause and Control of Occupational Loss"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines current and emerging issues in occupational health and safety, including historical, philosophical, and conceptual factors that serve as a basis for predicting, understanding, and resolving occupational health and safety issues.  Examples include:  Issues in high hazard industries, special populations at risk, emerging technologies, occupational hazards, and traumatic injuries. ", 
+      "course name": "Issues in Occupational Health and Safety", 
+      "units": "3 Units", 
+      "id": "CSUS_HLSC 110", 
+      "prerequisite": [
+        "HLSC 100"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Surveys the current methods of promoting high level wellness through a preventive medicine approach for the promotion of more enjoyable and productive living. Attention directed toward the specific methods of promoting personal health through various current methodologies including the \"holistic health\" movement.   Meets the needs of major students as well as those in allied fields such as nursing, social work and other interested students. ", 
+      "id": "CSUS_HLSC 112", 
+      "course name": "Disease Prevention"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Emphasizes the social and natural environmental influences that have a direct impact upon the health of the individual. Primary consideration is directed to an analysis of health as influenced by a person's interaction with his/her environment.", 
+      "id": "CSUS_HLSC 114", 
+      "course name": "Human Ecology and Health"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Understanding of the management of public health programs; pattern of health organization; the scope of public health concern of environmental health and health service marketing. Consideration of the various administration factors involved in the practice of public health by department, division or agency unit. ", 
+      "id": "CSUS_HLSC 116", 
+      "course name": "Public Health Administration and Policy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the globalization of public health and the critical health issues facing all citizens of the world, with special emphasis on health concerns of developing countries. Topics include global malnutrition, primary health care, maternal and child health, international environmental health, comparative health care systems, epidemiology and international health threats, and sustainable health and development programs undertaken by nongovernmental organizations. ", 
+      "id": "CSUS_HLSC 117", 
+      "course name": "Global Health"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Insights into comprehensive planning for health by community health agencies and organizations in implementing their programs. ", 
+      "id": "CSUS_HLSC 118", 
+      "course name": "Community Health"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "In addition to the current practice in community health education, examines the philosophical, conceptual and theoretical constructs that serve as a basis for understanding, predicting and facilitating change in health-related behavior. Explores the use of health communication processes, selected instructional media, health planning, community organization techniques, and mass communications in community health education. ", 
+      "course name": "Community Health Education", 
+      "units": "3 Units", 
+      "id": "CSUS_HLSC 119", 
+      "prerequisite": [
+        "HLSC 118"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to behavioral and social factors which influence health and illness.  Explores the causes of premature death, the relationships between personality and health, and the development of health problems.  Includes an overview of psychological principles in behavioral medicine, physiological foundations of health psychology, the role of emotions in immune function, and topical theories of, techniques for, and research on how psychology can help people live longer, healthier lives. ", 
+      "id": "CSUS_HLSC 122", 
+      "course name": "Health Psychology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Introduction to the processes and methods of conducting health education within the clinical setting and the integration of educational theory and applied health knowledge specific to common health disorders.  Topics to include the dimensions of quackery in health treatments, efficacy of safety standards, and the elements of deceptive advertising and bogus claims.  Emphasis on how to distinguish health facts from bogus claims, make effective consumer decisions of health care services, and the basics of self-health care.", 
+      "id": "CSUS_HLSC 124", 
+      "course name": "Consumer Health Education"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Examines the scientific facts about drugs. Contemporary problems of alcoholism and drug abuse will be discussed. Various aspects of all drug usage will be studied with emphasis on prevention and the role of health education.", 
+      "id": "CSUS_HLSC 130", 
+      "course name": "Alcohol and Other Drugs"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides a variety of information about the physiological, psychological, social, and cultural differences and similarities of the sexes. Sexual myths and misconceptions will be explored. Contemporary sex rules and patterns of interactions currently practiced in our society will be discussed.", 
+      "id": "CSUS_HLSC 134", 
+      "course name": "Understanding Human Sexuality"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": " Not open to lower division students.  ", 
+      "description": "Provides teacher candidates, social workers, and nurses an understanding of the educational methods, processes, and content of the scope of health education as provided in the Framework for Health Instruction of the California State Department of Education. Offers an understanding of current problems related to personal, family and community health. General theories and organization for teaching health education will be discussed. Meets the requirement for teacher candidates under the SB2042. ", 
+      "id": "CSUS_HLSC 136", 
+      "course name": "School Health Education"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduces students to the process and practice of program planning and evaluation. Examines the social and physical determinants of health; the impact of the community structure on health status; and, the influence of personal health behavior on community health education practice. These concepts shall be applied in the planning, implementation, and evaluation of health education services. ", 
+      "course name": "Community Health Planning and Evaluation", 
+      "units": "3 Units", 
+      "id": "CSUS_HLSC 144", 
+      "prerequisite": [
+        "HLSC 118", 
+        "HLSC 148", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to methods and statistical practices used in the health sciences. Emphasis on the methods of collection, analysis, interpretation, and presentation of health data. Conceptual learning will be facilitated by sessions using computational software. ", 
+      "course name": "Health Data Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_HLSC 147", 
+      "prerequisite": [
+        "STAT 1"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Designed to offer cognitive insights into community health epidemiology.   Provides understanding of the study of the distribution and determinants of communicable, infectious and chronic disease, and of injuries in the human population. ", 
+      "course name": "Epidemiology", 
+      "units": "3 Units", 
+      "id": "CSUS_HLSC 148", 
+      "prerequisite": [
+        "STAT 1"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to introduce students to the basic aging and health concerns of older people and to broader issues of aging, health and society.  Examines the: demography of the aging population, biological theories of aging, social and psychological aspects of aging. Includes such issues as nutrition, drugs, exercise, sexuality, patterns of health services utilization, institutionalization, alternatives to the provision of long-term care in institutions, and dying. ", 
+      "id": "CSUS_HLSC 150", 
+      "course name": "Aging and Health"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course presents an overview of the historical, structural, and operational aspects of the nation's healthcare systems. Students will examine the factors that shape public policy regarding the allocation of health care resources and will gain an understanding of the relationship between healthcare costs, quality of care, and the access to health services. The influence of professional associations, medical technology, and social values in health reform initiatives is discussed. ", 
+      "id": "CSUS_HLSC 151", 
+      "course name": "Introduction to the U.S. Healthcare System"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduce students to a broad range of issues related to managing healthcare organizations. Students will explore areas such as organizational behavior and theory applied to healthcare organizations and the role of administrators in planning, organizing, and overseeing the delivery of healthcare services. Organizational principles and decision-making strategies are applied to functional areas of health administration including finance, human resources, performance improvement, strategic planning, and healthcare information systems. ", 
+      "id": "CSUS_HLSC 152", 
+      "course name": "Healthcare Systems and Operations"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "Introduction to the study of healthcare administration. Examines the broad field of healthcare administration. Topics include healthcare management, leading healthcare professionals, strategic planning in healthcare, healthcare budgeting and finance, healthcare insurance, healthcare marketing, healthcare information technology, healthcare ethics and law, and healthcare fraud and abuse. ", 
+      "id": "CSUS_HLSC 153", 
+      "course name": "Administration of Healthcare Organizations"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "The study of healthcare organizational behavior including individual and group dynamics in the context of healthcare settings. Examines the impact of organizational contexts on the behavior of individuals and groups in healthcare organizations. Topics include individual motivation, power and influence, leadership theory, stress in the workplace, decision-making, conflict and negotiation, group dynamics, and change planning in healthcare. ", 
+      "id": "CSUS_HLSC 154", 
+      "course name": "Healthcare Organizational Behavior"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "An exploration of the basic principles and techniques of process improvement in healthcare through a range of topics, including measurement of health care system performance to creating high-quality services that result in organizational improvement and customer satisfaction. ", 
+      "id": "CSUS_HLSC 155", 
+      "course name": "Introduction to Healthcare Process Improvement"
+    }, 
+    {
+      "term": ". May be repeated once for credit.  ", 
+      "description": "To obtain insights into the practical application of the classroom teachings, fieldwork experiences are required of those preparing for a career in community health education or other areas of health and safety studies. ", 
+      "course name": "Fieldwork - Health or Safety", 
+      "units": "2 - 4 Units", 
+      "id": "CSUS_HLSC 195", 
+      "prerequisite": [
+        "HLSC 195"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Undergraduate seminar designed to provide an in-depth examination and discussion of current topics in the area of personal and community health and safety.", 
+      "id": "CSUS_HLSC 196", 
+      "course name": "Experimental Offerings in Health Science"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open only to HLSC majors and minors who appear competent to conduct independent work such as ", 
+      "id": "CSUS_HLSC 199", 
+      "prerequisite": [
+        "HLSC 116", 
+        "HLSC 118", 
+        "HLSC 119", 
+        "HLSC 148"
+      ], 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Provides students with knowledge and understanding of health communication theory and research. Students will examine the effects of media, including mass media, social media, and participatory media, in promoting or impeding public health goals and achievements. This course emphasizes the importance of public engagement and the development of effective communication with public health stakeholders including consumers, community goals, policy makers, health care providers, news media, and the general public. ", 
+      "id": "CSUS_HLSC 222", 
+      "course name": "Health Communication Strategies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Covers the elements needed for successfully planning and implementing a health promotion program including the application of health behavior theory and program planning models. Students will apply concepts of social and physical determinants of health, community structure on health status, social/health policies of communities and personal health behaviors in program planning design and implementation.  ", 
+      "id": "CSUS_HLSC 224", 
+      "course name": "Program Planning"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Provides students with in-depth supervised experience in an approved organization during their graduating semester. The practicum will require students to complete an applied practice experience related to a public health issue that is a focus within the organization. Seminars will discuss and review the integration of core public health concepts with the practicum. Students will create materials that demonstrate the analysis, synthesis, and intersection of course work and practicum work, while demonstrating mastery of the broad field of public health. Field Trip. ", 
+      "id": "CSUS_HLSC 295", 
+      "course name": "Seminar and Practicum Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "HLSC", 
+    "subject": "Health Science"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Health Science", 
+    "id": "CSUS"
+  }
+}

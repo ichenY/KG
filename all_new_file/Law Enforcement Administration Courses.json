@@ -1,0 +1,91 @@
+{
+  "subjectOf": {
+    "subject": "Law Enforcement Administration Courses",
+    "id": "LEA"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Law Enforcement Administration Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_LEA 101",
+      "course name": "Introduction to Concepts in Law Enforcement Administration",
+      "units": "3 Credits",
+      "description": "This course introduces students to the concepts involved in law enforcement administration and the factors influencing successful organizations through effective hiring, training, and support of employees. The course explores organizational theory, design and communication, along with the processes of planning and decision making. The effects of stress and adverse behavior are also reviewed with relation to the organization and requirements of the administration. Politics, labor relations, and fiscal management are addressed in correlation with the effects on law enforcement administration process."
+    },
+    {
+      "id": "AshFord_LEA 200",
+      "course name": "Ethical Leadership",
+      "units": "3 Credits",
+      "description": "This course focuses on theories and methods to assist in developing and maintaining ethical behavior in law enforcement organizations through ethical leadership. The course will analyze the ethical theories, environment and traits of responsible and moral leadership, as well as the consequences of ethical lapses."
+    },
+    {
+      "id": "AshFord_LEA 300",
+      "course name": "Policing Models for thest Century",
+      "units": "3 Credits",
+      "description": "This course examines the key roles and responsibilities in the management of effective policing efforts necessary to successfully meet the needs of the 21st century. This examination will also include an analysis of the various policing models currently used, technological tools required, and the impact of technology. In addition, the levels of interaction, communication and relationships between law enforcement agencies and the diverse communities they serve are examined with respect to various policing models which may be utilized to provide effective law enforcement services based on the circumstances and tools at hand."
+    },
+    {
+      "id": "AshFord_LEA 301",
+      "course name": "Supervision & Human Resource Management in Law Enforcement ",
+      "units": "3 Credits",
+      "description": "This course will explore supervision and human resource management issues as each relates to issues involved in maintaining qualified and capable employees in a law enforcement organization. Concepts such as the impact of supervisory roles, recruitment, hiring, and retention, union-labor influences, and Human Resource standards are examined and discussed."
+    },
+    {
+      "id": "AshFord_LEA 312",
+      "course name": "Community Policing",
+      "units": "3 Credits",
+      "description": "This course outlines key roles and responsibilities in the management of community policing efforts from the law enforcement perspective. Relationships of police image, public expectations, and community leadership are examined. Communication and interaction within a community of diverse socioeconomic conditions, race, sex, and age are examined with respect to community-oriented policing and law enforcement leadership."
+    },
+    {
+      "id": "AshFord_LEA 316",
+      "course name": "Ethics in Law Enforcement",
+      "units": "3 Credits",
+      "description": "This course focuses on theories and methods to assist officials establishing and maintaining ethical behavior in law enforcement employees. The course analyzes misconduct in law enforcement through relevant literature and applicable scenarios in integrating theory and practice."
+    },
+    {
+      "id": "AshFord_LEA 328",
+      "course name": "Leadership & Supervision in Law Enforcement",
+      "units": "3 Credits",
+      "description": "This course focuses on the comparisons between leadership, management, and supervision and the traits and theories surrounding effective application. The course will analyze the impacts of crime on successful leadership and the ability to motivate in order to maximize work effort."
+    },
+    {
+      "id": "AshFord_LEA 339",
+      "course name": "Law Enforcement Personnel Management",
+      "units": "3 Credits",
+      "description": "This course examines the issues involved with maintaining qualified and capable officers available for deployment by a law enforcement administration. The course delves into employee assistance, medical issues and concerns that can significantly affect law enforcement organizations. Federal, state, and local certification and training requirements are discussed regarding continued employment and the impact on staffing. Applicable case law will be reviewed regarding Fair Labor Standards Act of 1938 (FLSA)."
+    },
+    {
+      "id": "AshFord_LEA 408",
+      "course name": "Technological Management in Law Enforcement",
+      "units": "3 Credits",
+      "description": "This course will assess the implementation and application of modern technological hardware and software in assisting law enforcement administration in addressing crime concerns. The course will explore the use of facial-recognition software, closed circuit television, and automatic vehicle monitoring systems in influencing crime issues. Terminology and applications are explained to provide insight to students regarding available resources and usage."
+    },
+    {
+      "id": "AshFord_LEA 413",
+      "course name": "Investigations Management",
+      "units": "3 Credits",
+      "description": "This course addresses criminal investigations from the perspective of the police manager or administrator as well as developing practical skill sets in investigative technique. Legal, social, managerial, and community concerns regarding crime and investigations are evaluated. Relationships between investigators, prosecutors, and police managers are explored."
+    },
+    {
+      "id": "AshFord_LEA 432",
+      "course name": "Fiscal Administration in Law Enforcement",
+      "units": "3 Credits",
+      "description": "This course focuses on the principles of budgeting in the public sector and provides the student with an understanding of the methods used in making financial decisions. The course compares and contrasts the public and private sector and addresses the responsibility of efficient use of funds. Federal state, and local perspectives in finance and budgeting are evaluated. Responsible and ethical financial principles are reinforced."
+    },
+    {
+      "id": "AshFord_LEA 439",
+      "course name": "Politics & Law Enforcement",
+      "units": "3 Credits",
+      "description": "This course focuses on the constitutional basis of law enforcement and on the political relationships and impact of political decisions on the day-to-day operations and focus of law enforcement. The course examines the influence of special interest groups, as well as police associations and unions, in the administration of law enforcement goals. The election of certain law enforcement officials is also addressed regarding perceived loyalty to voters or employees."
+    },
+    {
+      "id": "AshFord_LEA 444",
+      "course name": "Training Management",
+      "units": "3 Credits",
+      "description": "The focus of this course surrounds the necessity of training and the effectiveness of methods employed to reduce agency liability while promoting employee safety. The course will address the liability assumed by both employee and agency when training standards are not adhered to or supervision and leadership allows for deviation from set standards."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "subject": "Italian (ITAL)",
+  "courses": [
+    {
+      "Course number & title": " Elementary Italian I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Beginning Italian. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation. Language taught in its intercultural context. 3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Elementary Italian II",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Elementary Italian III",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Intermediate Italian I",
+      "Number of units": "4 units",
+      "Term": "GE Area C5",
+      "Course description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Italian within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    }
+  ]
+}

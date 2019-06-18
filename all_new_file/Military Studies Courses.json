@@ -1,0 +1,61 @@
+{
+  "subjectOf": {
+    "subject": "Military Studies Courses",
+    "id": "MIL"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Military Studies Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_MIL 101",
+      "course name": "Introduction to Military Studies",
+      "units": "3 Credits",
+      "description": "This course provides a concise and exciting primer for examining the historical, topical, and geographic issues that encompass today's international security environment. Students will investigate the threats and risks associated with military, economic, technological, socio/political, and environmental insecurity. Students will also be introduced to various ways and means to mitigate threats and risks from real-world security and military events. Finally, students will analyze some of the pro and cons of a spectrum of mitigation processes"
+    },
+    {
+      "id": "AshFord_MIL 208",
+      "course name": "Survey of the American Military since WWI",
+      "units": "3 Credits",
+      "description": "Since World War I, the American Military has expanded and transformed into a modern military machine. This course will focus on the reasons and ways in which the versatile American Military has been utilized throughout the world, at different times. This course will focus on a selection of significant battles fought by air, land and sea, during World War I, World War II, the Korean War, the Vietnam War and the Persian Gulf War."
+    },
+    {
+      "id": "AshFord_MIL 212",
+      "course name": "The Military as a Peace Keeping Force",
+      "units": "3 Credits",
+      "description": "This course will examine ways in which militaries are utilized during peace times and in times of conflict. It will focus on NATO, the United Nations, Humanitarian Relief and Disaster Recovery. It will investigate the role external factors such as, international and local politics, geography, media, terrorism, and economics have on a militarys ability to be a peacekeeping force."
+    },
+    {
+      "id": "AshFord_MIL 275",
+      "course name": "Military Ethics",
+      "units": "3 Credits",
+      "description": "Ethical issues faced in the modern world will be examined including the ethics of leadership, just war theory, and the moral status of the rules of war. Students will use critical thinking to determine the ethical implications and solutions for complex issues that are relevant to the current day military. The course will make use of case studies to illustrate moral and ethical dilemmas."
+    },
+    {
+      "id": "AshFord_MIL 310",
+      "course name": "American Military History I",
+      "units": "3 Credits",
+      "description": "United States military operations from colonial times through World War I. The course draws material from selected disciplines of the humanities, exploring how and why America has gone to war beginning with the American Revolution to the post-World War I period. This course examines how war has shaped national strategy and how conflict affected peacetime society."
+    },
+    {
+      "id": "AshFord_MIL 311",
+      "course name": "American Military History II",
+      "units": "3 Credits",
+      "description": "United States military operations from the end of World War I to The Gulf Wars. The course draws material from selected disciplines of the humanities, exploring how and why America has gone to war beginning with World War II, through the Cold War period, and, finally, the Gulf Wars. This course examines how war has shaped national strategy and how conflict affected peacetime society."
+    },
+    {
+      "id": "AshFord_MIL 312",
+      "course name": "Peacekeeping",
+      "units": "3 Credits",
+      "description": "This course will explore the concept of peacekeeping, particularly as it relates to grand strategy. Both multilateral and unilateral peacekeeping operations will be studied in considerable detail. Students will use a case study methodology to assess the utility and moral implications of peacekeeping operations worldwide."
+    },
+    {
+      "id": "AshFord_MIL 350",
+      "course name": "Studies in Military Leadership",
+      "units": "3 Credits",
+      "description": "A close examination of how and what made specific American military leaders successful by studying their leadership techniques and military careers. The American Revolution to present day leaders will be examined. This course is designed to inspire an interest in the principles and practices of military leadership and to explore how these high-impact principles and practices may be professionally applied in the workplace."
+    }
+  ]
+}

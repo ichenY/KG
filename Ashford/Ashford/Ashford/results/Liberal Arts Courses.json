@@ -1,0 +1,82 @@
+{
+  "subjectOf": {
+    "subject": "Liberal Arts Courses",
+    "id": "LIB"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Liberal Arts Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_LIB 101",
+      "course name": "The Art of Being Human",
+      "units": "3 Credits",
+      "description": "An interdisciplinary introduction to the humanities, focusing especially on classic texts of the ancient and medieval period as a way to understand our lives today. The course will explore various ways human beings have expressed their understanding of the human condition through such cultural forms as mythology, religion, philosophy, and the arts."
+    },
+    {
+      "id": "AshFord_LIB 102",
+      "course name": "Human Questions",
+      "units": "3 Credits",
+      "description": "An interdisciplinary introduction to the humanities, focusing especially on the period from the Renaissance through the present. The course will explore the various ways human beings have attempted to answer questions about the meaning of our world and existence through philosophy, art, and science."
+    },
+    {
+      "id": "AshFord_LIB 125",
+      "course name": "Contemporary Issues in Organizational Leadership",
+      "units": "3 Credits",
+      "description": "This course provides an introduction to the multi-faceted concept of leadership studies by presenting the student with the vocabulary, concepts, theories, and applicable research that are fundamental to the basic understanding of leadership. The course will examine contemporary and historical leadership issues unique to women and minority leaders, the moral and ethical responsibility of leadership, and leadership in a variety of contexts. Leadership as a social and political influence process will be examined."
+    },
+    {
+      "id": "AshFord_LIB 202",
+      "course name": "Women, Culture, & Society",
+      "units": "3 Credits",
+      "description": "Women, Culture, and Society examines the images, roles, and contributions of women in historical and artistic contexts from the Renaissance to the present. The course is designed to give students an understanding of the role women have played in the development of culture in Western Civilization as well as the ways western societies have shaped womens lives and creative expression. With conversations on the arts and theory, the course analyzes the complex ways gender, intersecting with race, class, and ethnicity, influences our experience and culture."
+    },
+    {
+      "id": "AshFord_LIB 315",
+      "course name": "The Environment & the Human Spirit (INTD)",
+      "units": "3 Credits",
+      "description": "An interdisciplinary examination of humanitys spiritual relationship with the natural world. The course will explore contemporary environmental issues in the context of theology, philosophy, literature, film, music, visual art, and other representations of the human imagination.",
+      "prerequisite": [
+        "ENG 122"
+      ]
+    },
+    {
+      "id": "AshFord_LIB 316",
+      "course name": "Historical Contexts & Literature",
+      "units": "3 Credits",
+      "description": "In Historical Contexts in Literature, students will explore the ways in which literary works represent particular people, places, situations, and ideas through fiction. Further, by using a range of literary, political, and historical texts, the course will examine both the ways in which political and historical contexts shape literary production, and the ways in which fictional texts affect political, social, and moral discourse."
+    },
+    {
+      "id": "AshFord_LIB 318",
+      "course name": "Peacemaking: A Study of Conflict Resolution (INTD)",
+      "units": "3 Credits",
+      "description": "An interdisciplinary study of peacemaking with a focus on conflict resolution. Highlighting this course are guest presentations and discussions led by Ashford University faculty from diverse subject areas. Students examine thinking and behavior in response to social conflict such as aggression, threats, prejudice, avoidance, withdrawal, conformity, and obedience. Students study various strategies of peacemaking and negotiation and then apply these methods in class role-playing activities."
+    },
+    {
+      "id": "AshFord_LIB 320",
+      "course name": "Global Socioeconomic Perspectives (INTD)",
+      "units": "3 Credits",
+      "description": "This course is an examination of major socioeconomic developments in different countries including Japan, Germany, Sweden, the United States, and the developing nations. Topics include population, natural resources, energy, sustainable growth, and policies such as privatization and free trade agreements. Social and economic justice in the global economy is considered."
+    },
+    {
+      "id": "AshFord_LIB 323",
+      "course name": "Revolution & Terrorism in the Modern World (INTD)",
+      "units": "3 Credits",
+      "description": "This course examines the ways revolution and terrorism has shaped the twenty-first century from an interdisciplinary perspective drawing on history, philosophy, and sociology. Emphasis is on the ideas and socio-historical forces that have produced revolutions."
+    },
+    {
+      "id": "AshFord_LIB 332",
+      "course name": "Science & Culture (INTD)",
+      "units": "3 Credits",
+      "description": "This course explores Western science as a cultural artifact and its impact on other aspects of culture: art, literature, film, music, philosophy, and theology. In addition, the affects of these other aspects of culture on the development of science will also be investigated with emphasis on the need to make connections. The course will examine the ways in which scientific developments are articulated in other cultural artifacts."
+    },
+    {
+      "id": "AshFord_LIB 356",
+      "course name": "Research Methods for the Humanities",
+      "units": "3 Credits",
+      "description": "Students in this course will develop a working knowledge of the major methodologies and perspectives of disciplines in the humanities. Topics include the role of theory, identification of appropriate sources, the influence of values, and the role of the humanities in interdisciplinary inquiry."
+    }
+  ]
+}

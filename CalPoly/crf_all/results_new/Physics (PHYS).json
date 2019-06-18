@@ -1,0 +1,865 @@
+{
+  "subjectOf": {
+    "id": "PHYS",
+    "subject": "Physics"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Physics"
+  },
+  "courses": [
+    {
+      "id": "PHYS 104",
+      "course name": "Introductory Physics",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3"
+      },
+      "description": "Elementary introduction to mechanics, gases, liquids and solids, heat, vibrations and waves, light, electricity and magnetism.  Intended to provide non-science students with an understanding of basic physical concepts.  Not open to students who have credit in a college physics course.  4 lectures.  Fulfills GE Area B3."
+    },
+    {
+      "id": "PHYS 107",
+      "course name": "Introduction to Meteorology",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3"
+      },
+      "description": "Physics of Earth's atmosphere.  Topics include the physical basis for temperature, wind generation, atmospheric circulation, humidity, adiabatic processes, cloud formation, cyclone development, precipitation, and storm growth.  Other topics include the variety of storms and their effects, satellite imaging, and air pollution and its possible effect on global temperature change.  4 lectures.  Fulfills GE Area B3."
+    },
+    {
+      "id": "PHYS 111",
+      "course name": "Contemporary Physics for Nonscientists",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3"
+      },
+      "description": "Exploration of the key concepts of quantum mechanics and Einstein's special and general theories of relativity. Particle-wave duality, Heisenberg's uncertainty principle, Schrodinger's cat, warped spacetime, black holes. 4 lectures. Fulfills GE B3."
+    },
+    {
+      "id": "PHYS 121",
+      "course name": "College Physics I",
+      "hasPrerequisite": "MATH 118",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3"
+      },
+      "description": "Introductory course in mechanics emphasizing motion, force, and energy.  Not open to students having a grade of C- or better in PHYS131 or PHYS141.  4 lectures.  Fulfills GE B3."
+    },
+    {
+      "id": "PHYS 122",
+      "course name": "College Physics II",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 118"
+        },
+        {
+          "prerequisite": "PHYS 121"
+        },
+        {
+          "prerequisite": "PHYS 131"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3; ge area b4"
+      },
+      "description": "Continuation of PHYS121.  Topics include properties of materials, fluids, waves and vibrations, sound, heat, light and optics.  Not open for credit to students having a grade of C- or better in PHYS132.  3 lectures, 1 laboratory.  Fulfills GE B3 & B4."
+    },
+    {
+      "id": "PHYS 123",
+      "course name": "College Physics III",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 118"
+        },
+        {
+          "prerequisite": "PHYS 121"
+        },
+        {
+          "prerequisite": "PHYS 131"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Continuation of PHYS121 and 122.  Electrostatics, electric current, magnetic fields and induction.  Elements of modern physics.  Not open for credit to students having a grade of C- or better in PHYS133.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "PHYS 125",
+      "course name": "College Physics I Laboratory",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Laboratory experiments to complement introductory course in mechanics, emphasizing experiments on motion, force, and energy.  Not open to students with a grade of C- or better in PHYS131 or PHYS141.  1 laboratory."
+    },
+    {
+      "id": "PHYS 131",
+      "course name": "General Physics I",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATH 141 with grade C- or better"
+        },
+        {
+          "prerequisite": "MATH 142 or MATH 182 (or concurrent enrollment)"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3; ge area b4"
+      },
+      "description": "Fundamental principles of mechanics.  Vectors, particle kinematics.  Equilibrium of a rigid body.  Work and energy, linear momentum, rotational kinematics and dynamics.  Primarily for engineering students, and for students majoring in the physical sciences.  Not open to students with credit in PHYS141.  3 lectures, 1 laboratory.  Crosslisted as HNRS/PHYS131.  Fulfills GE B3 & B4."
+    },
+    {
+      "id": "PHYS 132",
+      "course name": "General Physics II",
+      "hasPrerequisite": "PHYS 131 or HNRS 131 or PHYS 141",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3; ge area b4"
+      },
+      "description": "Oscillations, waves in elastic media, sound waves.  Temperature, heat and the first law of thermodynamics.  Kinetic theory of matter, second law of thermodynamics.  Geometrical and physical optics.  3 lectures, 1 laboratory.  Crosslisted as HNRS/PHYS132.  Fulfills GE B3 & B4."
+    },
+    {
+      "id": "PHYS 133",
+      "course name": "General Physics III",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 131 or HNRS 131 or PHYS 141"
+        },
+        {
+          "prerequisite": "MATH 142"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3; ge area b4"
+      },
+      "description": "Charge and matter, electric field, electric potential, dielectrics, capacitance, current and resistance, electromotive force and circuits, magnetic fields, magnetic field of a moving charge, induced emf.  3 lectures, 1 laboratory.  Fulfills GE B3 & B4."
+    },
+    {
+      "id": "PHYS 141",
+      "course name": "General Physics IA",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATH 141 with grade C- or better"
+        },
+        {
+          "prerequisite": "MATH 142 or MATH 182 (or concurrent enrollment)"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3"
+      },
+      "description": "Fundamental principles of mechanics.  Vectors, particle kinematics.  Equilibrium of a rigid body.  Work and energy, linear momentum, rotational kinematics and dynamics.  Primarily for engineering and science students.  Not open to students with credit in PHYS131.  4 lectures.  Crosslisted as HNRS134/PHYS141.  Fulfills GE B3."
+    },
+    {
+      "id": "PHYS 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "id": "PHYS 202",
+      "course name": "Physics on the Computer",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 133"
+        },
+        {
+          "prerequisite": "MATH 241 or MATH 244"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Introduction to using computers for solving problems in physics:  differential equations, matrix manipulations, simulations and numerical techniques, nonlinear dynamics.  4 lectures."
+    },
+    {
+      "id": "PHYS 206",
+      "course name": "Experimental Physics",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 133"
+        },
+        {
+          "prerequisite": "MATH 143"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "L-R-C circuits and electronic circuit elements emphasizing the applications of analog and digital electronics to instrumentation in modern physics.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "PHYS 211",
+      "course name": "Modern Physics I",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 132"
+        },
+        {
+          "prerequisite": "PHYS 133"
+        },
+        {
+          "prerequisite": "MATH 241"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Special relativity, fundamental principles of quantum mechanics, emphasizing the modern description of atomic phenomena.  Wave-particle duality, Bohr theory, Schroedinger equation, elementary atomic structure.  4 lectures."
+    },
+    {
+      "id": "PHYS 212",
+      "course name": "Modern Physics II",
+      "hasPrerequisite": "PHYS 211",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Applications of quantum physics to atoms, molecules, solid state systems, nuclei, and elementary particles including angular momentum and spin.  Topics may include applications of statistical mechanics, principles of the laser, cooling and trapping of atoms, Bose-Einstein condensates, semiconductors, superconductors, heavy ion physics, and other topics of current interest.  4 lectures."
+    },
+    {
+      "id": "PHYS 220",
+      "course name": "Introduction to Physics Research",
+      "hasPrerequisite": "PHYS 132 or PHYS 133",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Introduction to the research programs of faculty in the department and opportunities for research.  Survey of departmental facilities and procedures related to research.  Overview of external research programs/internships.  Credit/No Credit grading.  1 lecture."
+    },
+    {
+      "id": "PHYS 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "PHYS 301",
+      "course name": "Thermal Physics I",
+      "hasPrerequisite": "PHYS 211",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Thermodynamics and statistical mechanics.  Entropy, temperature, ensembles, partition functions, chemical potential, free energy.  Selected applications including paramagnetism, ideal gas, Fermi-Dirac and Bose-Einstein distributions.  4 lectures."
+    },
+    {
+      "id": "PHYS 302",
+      "course name": "Classical Mechanics I",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 131 or PHYS 141"
+        },
+        {
+          "prerequisite": "MATH 241"
+        },
+        {
+          "prerequisite": "MATH 242 or MATH 244"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Laws of motion, kinematics and dynamics of a particle.  Use of numerical methods for solving problems.  Work and energy.  Linear and angular momentum.  Lagrange's and Hamilton's equations and the calculus of variations.  Newton's Law of gravity, Kepler's laws of orbital motion, and central force problems.  4 lectures."
+    },
+    {
+      "id": "PHYS 303",
+      "course name": "Classical Mechanics II",
+      "hasPrerequisite": "PHYS 302",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Mechanics in non-inertial reference frames.  Dynamics of a rigid bodies.  Coupled oscillators and normal modes.  Use of numerical methods for solving problems.  3 lectures."
+    },
+    {
+      "id": "PHYS 310",
+      "course name": "Physics of Energy",
+      "hasPrerequisite": "PHYS 132",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Physics and mathematics applied to broad energy topics.  Efficient usage, transportation, solar energy, nuclear fission and fusion.  Plasma, hydrogen economy, fuel cells, wind wave, tidal, and geothermal energy.  Transmission, storage, fossils.  National planning, and energy economics.  3 lectures."
+    },
+    {
+      "id": "PHYS 313",
+      "course name": "Introduction to Atmospheric Physics",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 132 or PHYS 122"
+        },
+        {
+          "prerequisite": "MATH 241"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Properties of the atmosphere, atmospheric motions, solar and terrestrial radiation.  Emphasis on conservation laws of momentum, energy and mass applied to understanding the Earth's atmospheric motions.  3 lectures."
+    },
+    {
+      "id": "PHYS 315",
+      "course name": "Introduction to Lasers and Laser Applications",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 211"
+        },
+        {
+          "prerequisite": "MATH 143"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Interaction of radiation with matter, theory of laser action, characteristics and modification of laser output, types of lasers.  Holography and other applications.  3 lectures."
+    },
+    {
+      "id": "PHYS 318",
+      "course name": "Special Theory of Relativity",
+      "hasPrerequisite": "PHYS 211",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Fundamental experiments and basic postulates of special relativity.  Simultaneity, length and time measurements.  Lorentz transformations.  Four-Vectors.  Space-time diagrams.  Relativistic mechanics and electromagnetism.  3 lectures.  Formerly PHYS 317."
+    },
+    {
+      "id": "PHYS 322",
+      "course name": "Vibrations and Waves",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 132"
+        },
+        {
+          "prerequisite": "MATH 242 or MATH 244"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Introduction to vibrations and waves and their applications.  Harmonic oscillator, waves, complex notation, superposition, interference, coherence, Fourier analysis.  Applications may include sound, optics, quantum mechanics, and electromagnetic radiation.  3 lectures."
+    },
+    {
+      "id": "PHYS 323",
+      "course name": "Optics",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATH 241"
+        },
+        {
+          "prerequisite": "PHYS 133"
+        },
+        {
+          "prerequisite": "PHYS 322"
+        },
+        {
+          "prerequisite": "EE 228"
+        },
+        {
+          "prerequisite": "EE 201"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Geometrical optics, lens systems, aberrations, physical optics and polarization.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "PHYS 330",
+      "course name": "Teaching Physics",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 123"
+        },
+        {
+          "prerequisite": "PHYS 132"
+        },
+        {
+          "prerequisite": "PHYS 133"
+        },
+        {
+          "prerequisite": "PSC 102"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Inquiry approaches to teaching physics incorporating insights from physics education research and the use of computer technology.  Emphasis on pedagogical approaches and assessment that engage learners in scientific discourse and the development of basic models of physics phenomena such as motion, forces, energy, and momentum through experimentation.  2 lectures, 2 activities."
+    },
+    {
+      "id": "PHYS 340",
+      "course name": "Quantum Physics Laboratory I",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 206"
+        },
+        {
+          "prerequisite": "PHYS 212"
+        },
+        {
+          "prerequisite": "CSC 101"
+        },
+        {
+          "prerequisite": "CSC 231"
+        }
+      ],
+      "units": "2 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Experimental studies of the quantum properties of atoms and nuclei.  Measurements of fundamental constants.  Statistics and data analysis.  1 lecture, 1 laboratory."
+    },
+    {
+      "id": "PHYS 341",
+      "course name": "Quantum Physics Laboratory II",
+      "hasPrerequisite": "PHYS 340",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Experimental studies of quantum properties of atoms and nuclei.  Interactions of radiation, particles and fields.  2 laboratories."
+    },
+    {
+      "id": "PHYS 342",
+      "course name": "Quantum Physics Laboratory III",
+      "hasPrerequisite": "PHYS 341",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Advanced experimental studies of quantum properties of atoms and nuclei.  Interactions of radiation, particles and fields emphasizing spectroscopic techniques.  1 laboratory."
+    },
+    {
+      "id": "PHYS 357",
+      "course name": "Advanced Instrumentation in Experimental Physics",
+      "hasPrerequisite": "PHYS 206",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Advanced analog and digital electronics, computer interfacing to experiments, robotics.  2 lectures, 1 laboratory."
+    },
+    {
+      "id": "PHYS 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Individual investigations, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "id": "PHYS 401",
+      "course name": "Thermal Physics II",
+      "hasPrerequisite": "PHYS 301",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Additional topics in thermodynamics and statistical physics, including chemical equilibrium, phase transitions, transport processes, and cryogenics.  3 lectures."
+    },
+    {
+      "id": "PHYS 403",
+      "course name": "Particle and Nuclear Physics",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 212"
+        },
+        {
+          "prerequisite": "PHYS 405"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Elementary particles and their interactions, fundamental forces, the Standard Model of particle physics.  Symmetries and conservation laws including parity, charge conjugation, and time reversal invariance, as well as charge-parity violation.  Dirac equation, quantum electrodynamics, and Feynman diagrams.  Advanced nuclear physics.  Topics may include decays, symmetries of the quark model, neutrinos, nucleosynthesis, and the quark-gluon plasma.  3 lectures."
+    },
+    {
+      "id": "PHYS 404",
+      "course name": "Research Experience for Advanced Undergraduates",
+      "units": "1-2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Individual investigations, research, studies, or surveys of selected problems.  Credit/No Credit grading only.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "id": "PHYS 405",
+      "course name": "Quantum Mechanics I",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 212"
+        },
+        {
+          "prerequisite": "PHYS 302"
+        },
+        {
+          "prerequisite": "PHYS 322"
+        },
+        {
+          "prerequisite": "MATH 241"
+        },
+        {
+          "prerequisite": "MATH 242 or MATH 244"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Wave nature of matter and the basic postulates of quantum mechanics.  The wave function, operators, and their interpretation.  Schroedinger's equation and its solutions in one and more dimensions.  The hydrogen atom and the periodic table.  4 lectures."
+    },
+    {
+      "id": "PHYS 406",
+      "course name": "Quantum Mechanics II",
+      "hasPrerequisite": "PHYS 405",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Angular momentum operators and problems in three dimensions including the hydrogen atom.  Elements of matrix mechanics and properties of spin state vectors.  Time-independent and time-dependent perturbation theory.  Topics may include variational principle, WKB approximation.  3 lectures."
+    },
+    {
+      "id": "PHYS 408",
+      "course name": "Electromagnetic Fields and Waves I",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 133"
+        },
+        {
+          "prerequisite": "MATH 304"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Electric and magnetic field theory using vector analysis.  Electric fields, dielectric materials, magnetic fields, induced emf, magnetic materials, Maxwell's equations, wave equation.  4 lectures."
+    },
+    {
+      "id": "PHYS 409",
+      "course name": "Electromagnetic Fields and Waves II",
+      "hasPrerequisite": "PHYS 408",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Wave equation, plane electromagnetic waves, guided waves.  Dipole radiation, radiation from an accelerated charge.  Special relativity.  3 lectures."
+    },
+    {
+      "id": "PHYS 410",
+      "course name": "Physics of Solid Earth",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 133"
+        },
+        {
+          "prerequisite": "MATH 241"
+        },
+        {
+          "prerequisite": "MATH 244"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Gravity and the figure of the Earth.  Body wave seismology, structure and composition of the Earth, heat flow and heat sources, Earth tides, rotational dynamics, the geomagnetic field and its source, paleomagnetism.  3 lectures."
+    },
+    {
+      "id": "PHYS 412",
+      "course name": "Solid State Physics",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 211"
+        },
+        {
+          "prerequisite": "MATH 244"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "ge area b6"
+      },
+      "description": "Physics of solids including the structural, mechanical, thermal, and electronic properties, energy band theory and the properties of metals and semiconductors.  3 lectures.  Fulfills GE B6 with PHYS452."
+    },
+    {
+      "id": "PHYS 413",
+      "course name": "Advanced Topics in Solid State Physics",
+      "hasPrerequisite": "PHYS 412",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Semiconducting devices, including junction and field-effect transistors, LED's, and diode lasers.  Magnetic properties of solids.  Superconductivity, including discussion of high-temperature superconductors.  Other topics of current interest in solid state physics.  3 lectures."
+    },
+    {
+      "id": "PHYS 417",
+      "course name": "Nonlinear Dynamical Systems",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 132 or PHYS 122"
+        },
+        {
+          "prerequisite": "PHYS 133 or PHYS 123"
+        },
+        {
+          "prerequisite": "MATH 241"
+        },
+        {
+          "prerequisite": "MATH 242 or MATH 244"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b6"
+      },
+      "description": "Analysis of linear and nonlinear dynamical systems with emphasis on geometrical methods and visualization techniques.  Fixed points, phase plane analysis, bifurcations and limit cycles.  Laboratory component includes data acquisition and analysis using computers, numerical simulations of dynamical systems, and analysis of discrete systems.  3 lectures, 1 laboratory.  Fulfills GE B6."
+    },
+    {
+      "id": "PHYS 418",
+      "course name": "Introduction to General Relativity",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 211"
+        },
+        {
+          "prerequisite": "PHYS 302"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Introduction to Einstein's theory of gravity:  general relativity.  Geometric description of special relativity as flat spacetime.  Extension to curved spacetimes and description of gravity.  Topics include solar system tests of relativity, black holes, gravitational waves, and applications to astronomy and cosmology.  3 lectures."
+    },
+    {
+      "id": "PHYS 422",
+      "course name": "Polymer Electronics Laboratory",
+      "hasPrerequisite": "EE 347 or MATE 340 or CHEM 319 or PHYS 340",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Experimental procedures in polymer electronics.  Investigation of the characteristics of a polymer electronic device.  1 laboratory.  Crosslisted as EE/PHYS422."
+    },
+    {
+      "id": "PHYS 423",
+      "course name": "Advanced Optics",
+      "hasPrerequisite": "PHYS 323",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Advanced topics of modern optics.  May include:  fiber optics, Fourier optics, quantum optics, lasers, holography, non-linear optics.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "PHYS 424",
+      "course name": "Theoretical Physics",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATH 304"
+        },
+        {
+          "prerequisite": "MATH 344"
+        },
+        {
+          "prerequisite": "PHYS 133"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Contour integration in the complex plane, properties of common special functions and delta functions used in physics, partial differential equations, Green's function techniques for solving differential equations.  3 lectures."
+    },
+    {
+      "id": "PHYS 452",
+      "course name": "Solid State Physics Laboratory",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "ge area b6"
+      },
+      "description": "Selected experiments on X-ray diffraction, Hall effect, optical absorption, thermo-electric effect, photovoltaic cells, diode characteristics, and superconductivity.  1 laboratory.  Fulfills GE B6 with PHYS412."
+    },
+    {
+      "id": "PHYS 461",
+      "course name": "Senior Project I",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 60 hours total time."
+    },
+    {
+      "id": "PHYS 462",
+      "course name": "Senior Project II",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 60 hours total time."
+    },
+    {
+      "id": "PHYS 463",
+      "course name": "Senior Project - Laboratory Research I",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Selection and completion of a laboratory research project under faculty supervision.  Projects typical of problems which graduates will encounter in industry or graduate school.  Project results are presented in a formal report.  Minimum 60 hours total time.  2 laboratories."
+    },
+    {
+      "id": "PHYS 464",
+      "course name": "Senior Project - Laboratory Research II",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Selection and completion of a laboratory research project under faculty supervision.  Projects typical of problems which graduates will encounter in industry or graduate school.  Project results are presented in a formal report.  Minimum 60 hours total time.  2 laboratories."
+    },
+    {
+      "id": "PHYS 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "PHYS 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 laboratories."
+    },
+    {
+      "id": "PHYS 485",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Total credit limited to 12 units; major credit limited to 2 units.  Credit/No Credit grading only."
+    },
+    {
+      "id": "PHYS 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Total credit limited to 12 units; major credit limited to 2 units.  Credit/No Credit grading only."
+    }
+  ]
+}

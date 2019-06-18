@@ -1,0 +1,27 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Multidisciplinary, analytical view of California that identifies its ethnic and racial diversity within the political, economic and social development of the state.  Examines the environmental and geographic dimensions of the state as well as the demographic and land-use trends that have contributed to California's uniqueness. ", 
+      "id": "CSUS_LBST 110", 
+      "course name": "California Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated once for credit.  ", 
+      "description": "Cooperative Education (Co-op) relates academic theory to professional practice by providing paid work experience in schools or related settings.  Students gain field experience through supervised employment in school districts and other education-related settings. ", 
+      "id": "CSUS_LBST 194", 
+      "course name": "Liberal Studies Cooperative Education Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "LBST", 
+    "subject": "Liberal Studies"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Liberal Studies", 
+    "id": "CSUS"
+  }
+}

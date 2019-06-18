@@ -1,0 +1,781 @@
+{
+  "subjectOf": {
+    "id": "MATE",
+    "subject": "Materials Engineering"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Materials Engineering"
+  },
+  "courses": [
+    {
+      "id": "MATE 110",
+      "course name": "Introduction to Materials Engineering Design  I",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Laboratory work in teams to design, build and test a product.  Material from math, science and engineering courses tied together.  1 laboratory."
+    },
+    {
+      "id": "MATE 120",
+      "course name": "Introduction to Materials Engineering Design II",
+      "hasPrerequisite": "MATE 110",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Second design laboratory, working in teams to design, build and test a complex system that benefits humanity.  Focus on complete design process including project management, documentation in design, manufacturing techniques, and analysis of testing data.  Issues of engineering ethics, technology and society, the environment and sustainability also studied.  1 laboratory."
+    },
+    {
+      "id": "MATE 130",
+      "course name": "Introduction to Materials Engineering Design III",
+      "hasPrerequisite": "MATE 120",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Third design laboratory in a sequence.  Includes working in teams on project that benefits humanity.  Issues of engineering ethics, technology and society, the environment and sustainability.  1 laboratory."
+    },
+    {
+      "id": "MATE 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "MATE 210",
+      "course name": "Materials Engineering",
+      "hasPrerequisite": "CHEM 111 or CHEM 124 or CHEM 127",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Structure of matter.  Physical and mechanical properties of materials including metals, polymers, ceramics, composites, and electronic materials.  Equilibrium diagrams.  Heat treatments, materials selection and corrosion phenomena.  3 lectures."
+    },
+    {
+      "id": "MATE 215",
+      "course name": "Materials Laboratory I",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Focus on processing-structure-properties relationships of materials, including crystal structures, electronic properties of materials, materials selection, phase diagrams, corrosion, mechanical properties of polymers, cold work and annealing of alloys and heat treatments of steels.  1 laboratory."
+    },
+    {
+      "id": "MATE 222",
+      "course name": "Materials Selection Life Cycle",
+      "hasPrerequisite": "MATE 210",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Materials selection for sustainable product design.  Use of material selection software and techniques to solve design problems with multiple objectives and constraints.  Focus on Triple Bottom Line design including functionality, economic viability, and sustainability.  Principles and tools for weighted property optimization, production cost modeling, and life cycle analysis introduced through project-based learning mode.  4 lectures."
+    },
+    {
+      "id": "MATE 225",
+      "course name": "Materials Laboratory II",
+      "hasPrerequisite": "MATE 215",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Process-structure relationships of materials.  Introduction to materials characterization techniques including differential scanning calorimetry, x-ray diffraction, and metallography.  Emphasis on materials engineering professional practices and written communication.  1 laboratory."
+    },
+    {
+      "id": "MATE 232",
+      "course name": "Materials, Ethics, and Society",
+      "hasPrerequisite": "MATE 210",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Materials Engineering principles through the context of historical and current events.  Ethics and systems thinking are integrated in the study of the impacts of materials and technology on society during the Stone Age, Bronze Age, and Iron Ages, as well as today's world.  Topics include crystallography, phase diagrams, microstructures, processing techniques, and nanotechnology.  4 lectures."
+    },
+    {
+      "id": "MATE 235",
+      "course name": "Materials Laboratory III",
+      "hasPrerequisite": "MATE 225",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Mechanical property testing by tensile tests and hardness tests.  Emphasis of data interpretation and analysis with structure-property relationships of materials.  Continued materials engineering professional practices.  1 laboratory."
+    },
+    {
+      "id": "MATE 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "MATE 310",
+      "course name": "Noncrystalline Material Systems",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATE 210"
+        },
+        {
+          "prerequisite": "MATE 340"
+        },
+        {
+          "prerequisite": "STAT 312"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Design and synthesis of noncrystalline material systems.  Synthesis, processing techniques, properties and fabrication methods of organic and inorganic polymeric materials.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "MATE 325",
+      "course name": "Transport Phenomena I",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PHYS 132"
+        },
+        {
+          "prerequisite": "MATH 141"
+        }
+      ],
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Directed group laboratory study of energy transport.  Focus on conduction and convection.  1 laboratory."
+    },
+    {
+      "id": "MATE 326",
+      "course name": "Transport Phenomena II",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATH 141"
+        },
+        {
+          "prerequisite": "ME 211"
+        }
+      ],
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Directed group laboratory study of fluid static and dynamic properties and behavior.  Focus on non-compressible conditions.  1 laboratory."
+    },
+    {
+      "id": "MATE 327",
+      "course name": "Transport Phenomena III",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 124"
+        },
+        {
+          "prerequisite": "PHYS 133"
+        }
+      ],
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Introduction to radiative heat transfer and the material properties that control it.  1 laboratory."
+    },
+    {
+      "id": "MATE 330",
+      "course name": "Composite Materials Systems",
+      "hasPrerequisite": "MATE 350",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Properties, design and applications of composite material systems, concentrating on polymer-matrix, ceramic-fiber composites.  Materials (matrices, fibers), mechanical behavior and properties, and manufacturing methods treated in detail.  Laboratory practice concentrates on the mechanical testing of fiber-reinforced composite materials.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "MATE 340",
+      "course name": "Electronic Materials Systems",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATE 210"
+        },
+        {
+          "prerequisite": "PHYS 133"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Design of electronic materials systems utilizing the basic concepts in electron theory of solids, electrical properties and conduction in materials, magnetic phenomena and optical properties in materials.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "MATE 350",
+      "course name": "Structural Materials Systems",
+      "hasPrerequisite": "MATE 360",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Design of structural materials systems.  Topics include stress, strain, elasticity, anelasticity, plasticity, fracture and fatigue.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "MATE 359",
+      "course name": "Living in a Material World",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area Fall"
+      },
+      "description": "Evolution of materials (ceramics, metals, polymers, composites, semiconductors) in the context of history.  Traces the link between historical and technological developments enabled by materials from the Stone Age to the Electronic Age.  4 lectures.  Crosslisted as HIST/MATE359.  Fulfills GE Area F."
+    },
+    {
+      "id": "MATE 360",
+      "course name": "Metallurgical Materials Systems",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATE 232"
+        },
+        {
+          "prerequisite": "MATE 235"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Physical metallurgy of engineering alloys including ferrous (steel) and nonferrous (aluminum, copper) systems.  Connection to phase diagrams, microstructural development and phase transformations, physical and mechanical properties, precipitation hardening, cold work and annealing treated in detail.  Laboratory focuses on microstructure development in steels and aluminum alloy casting.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "MATE 370",
+      "course name": "Kinetics of Materials and Process Design",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATE 360"
+        },
+        {
+          "prerequisite": "MATE 380"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Design of processes for engineering materials.  Topics include kinetics in materials:  solid-state diffusion (steady-state and non-steady-state), nucleation and growth kinetics, solid state phase transformations.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "MATE 380",
+      "course name": "Thermodynamics and Physical Chemistry",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 125"
+        },
+        {
+          "prerequisite": "PHYS 133"
+        },
+        {
+          "prerequisite": "MATH 143"
+        },
+        {
+          "prerequisite": "MATE 210"
+        },
+        {
+          "prerequisite": "MATE 215"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Thermodynamics concepts related to materials engineering systems and processes:  process flowsheets, mass and energy balances, Ellingham diagrams.  Physical chemistry concepts related to materials engineering:  ideal gases, systems and surroundings, first through third laws of thermodynamics, phase equilibria, chemical reactions.  4 lectures."
+    },
+    {
+      "id": "MATE 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "MATE 401",
+      "course name": "Materials Characterization Techniques",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATE 210"
+        },
+        {
+          "prerequisite": "MATE 215"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Hands-on experience with materials characterization instruments, such as scanning electron microscopy (SEM), light optical microscopy, x-ray diffraction (XRD), and atomic force microscopy (AFM).  Open-ended projects to develop expertise with trouble-shooting ability, and the process of materials characterization and analysis 2 lectures, 2 laboratories."
+    },
+    {
+      "id": "MATE 410",
+      "course name": "Nanoscale Engineering",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 125"
+        },
+        {
+          "prerequisite": "PHYS 133"
+        },
+        {
+          "prerequisite": "MATE 210"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Material properties (mechanics, electronics, heat transfer, photonics, fluid mechanics and biomechanics) at the nanometer scale.  Evaluation of nano-scale systems designed from a bottoms-up approach with unique properties.  Exploration of integration of biology, chemistry, physics and engineering.  3 lectures."
+    },
+    {
+      "id": "MATE 420",
+      "course name": "Biopolymers and Bionanocomposites",
+      "hasPrerequisite": "MATE 310 or CHEM 444",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Exploration of the synthesis, processing, properties, and performance of biologically derived polymers.  Examination of nano-scale reinforcements and their use to enhance performance of biopolymers.  Emphasis on reading and interpreting contemporary scientific literature.  4 lectures."
+    },
+    {
+      "id": "MATE 425",
+      "course name": "Corrosion Engineering",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 125 or CHEM 128"
+        },
+        {
+          "prerequisite": "MATE 210"
+        },
+        {
+          "prerequisite": "MATE 215"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Forms of corrosion.  Influences of environmental variables on corrosion.  Methods of corrosion control.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "MATE 430",
+      "course name": "Micro/Nano Fabrication",
+      "hasPrerequisite": "BMED 212 or MATE 210",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Fabrication science and technology for creating micro and nano scale devices.  Explore basic processes such as oxidation, diffusion, ion implantation, etching, chemical and physical vapor deposition, photolithography.  Develop an understanding of the science of each process and how to select the right steps for fabricating electronic, photon and micro-electro-mechanical systems devices.  3 lectures.  Crosslisted as BMED434/EE423/MATE430."
+    },
+    {
+      "id": "MATE 435",
+      "course name": "Microfabrication Laboratory",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Application of basic processes involved in microfabrication:  cleanroom protocol, oxidation, diffusion, photolithography etching and sputtering.  Explore process development through fabrication of electronic, photonic or microfluidic devices.  Each student will be part of a team that will fabricate and test a device.  1 laboratory.  Crosslisted as BMED/MATE435."
+    },
+    {
+      "id": "MATE 440",
+      "course name": "Welding Metallurgy and Joining of Advanced Materials",
+      "hasPrerequisite": "MATE 210",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Principles, primary variables, and microstructural changes associated with the joining process.  Physics of energy transfer.  Heat and mass balances in joining, thermodynamic and kinetic justification of solidification and near interface microstructures.  Heterogeneous interfaces, adhesion, wetting.  Relation between process selection, interface design, microstructure, and properties, weldability.  3 lectures."
+    },
+    {
+      "id": "MATE 445",
+      "course name": "Joining of Advanced Materials Laboratory",
+      "hasPrerequisite": "MATE 210",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Laboratory to accompany MATE440.  Illustration of principles, primary variables, and microstructural changes associated with the joining process.  Physics of energy transfer.  Heat and mass balances in joining, thermodynamic and kinetic justification of solidification and near interface micro-structures.  Heterogeneous interfaces, adhesion, wetting.  Relation between process selection, interface design, microstructure, and properties, weldability.  2 laboratories."
+    },
+    {
+      "id": "MATE 446",
+      "course name": "Surface Chemistry of Materials",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 125 or CHEM 128"
+        },
+        {
+          "prerequisite": "CHEM 351"
+        },
+        {
+          "prerequisite": "MATE 380"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Surface energy.  Capillarity, solid and liquid interface, adsorption.  Surface areas of solids.  Contact angles and wetting.  Friction, lubrication and adhesion.  Relationship of surface to bulk properties of materials.  Applications.  3 lectures.  Crosslisted as CHEM/MATE446."
+    },
+    {
+      "id": "MATE 450",
+      "course name": "Fracture and Failure Analysis",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATE 210"
+        },
+        {
+          "prerequisite": "MATE 215"
+        },
+        {
+          "prerequisite": "MATE 350"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Fracture processes and fracture mechanics of structural materials concentrating on engineering alloys.  Topics include fracture of alloys, fracture mechanics (Griffith analysis, Linear Elastic Fracture Mechanics), and fatigue.  Laboratory focuses on fracture surface analysis, failure analysis, and mechanical testing.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "MATE 458",
+      "course name": "Microelectronics and Electronics Packaging",
+      "hasPrerequisite": "EE 112 or EE 201",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Materials, processes, and reliability of microelectronics and electronics packaging, surface mount assembly and printed circuit board fabrication.  Organic substrates and ceramic substrates.  Mechanical design, thermal, and electrical considerations in electronic packaging.  Design for manufacturability.  Overview of optoelectronics packaging and other emerging technologies in microelectronics and electronic packaging.  Project on design and manufacture of an electronic device.  3 lectures, 1 laboratory.  Crosslisted as CPE488/IME458/MATE458."
+    },
+    {
+      "id": "MATE 460",
+      "course name": "Materials Selection in Mechanical Design",
+      "hasPrerequisite": "MATE 350",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Materials-based approach to mechanical design.  Using mechanical and physical properties of materials (performance indices) to select structural materials for applications (Materials Selection Charts).  Detailed background of material properties - information from materials and mechanics.  Numerous case studies highlight the concepts covered.  4 lectures."
+    },
+    {
+      "id": "MATE 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "MATE 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories."
+    },
+    {
+      "id": "MATE 482",
+      "course name": "Senior Project I",
+      "hasPrerequisite": "IME 144",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Foundations of senior project design.  Completion of the preliminary stages of selecting a senior project, designing experiments, evaluating realistic constraints, conducting initial experiments, and managing a project timeline.  1 laboratory."
+    },
+    {
+      "id": "MATE 483",
+      "course name": "Senior Project II",
+      "hasPrerequisite": "MATE 482",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Continuation of senior project.  Completion of a senior project experimental component under the guidance of a faculty supervisor.  Research methodology, experimental design, experimental work and data analysis.  2 laboratories."
+    },
+    {
+      "id": "MATE 484",
+      "course name": "Senior Project III",
+      "hasPrerequisite": "MATE 483",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Continuation of MATE483.  Completion of a senior project data analysis and communication under the guidance of a faculty supervisor.  Mathematical modeling and technical communication.  2 laboratories."
+    },
+    {
+      "id": "MATE 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A more fully developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units."
+    },
+    {
+      "id": "MATE 500",
+      "course name": "Individual Study",
+      "units": "1-4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Advanced study planned and completed under the direction of a member of department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Enrollment by petition.  Total credit limited to 12 units."
+    },
+    {
+      "id": "MATE 510",
+      "course name": "Materials Analysis",
+      "hasPrerequisite": "MATE 210",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Fundamentals of materials characterization methods and thin-film microanalytical techniques, including optical techniques, electron microscopy, X-ray techniques, and ion beam techniques.  Selection of surface analysis techniques.  4 lectures."
+    },
+    {
+      "id": "MATE 522",
+      "course name": "Advanced Ceramics",
+      "hasPrerequisite": "MATE 210",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Development, utilization, and control of properties in ceramic materials (inorganic-nonmetallic solids).  Emphasis on application on processing to achieve structure and properties.  Structure of crystalline ceramics and of glasses.  Mechanical, thermal, optical, magnetic, and electrical properties.  Application of ceramics in technology.  Physical chemistry of ceramics.  4 lectures."
+    },
+    {
+      "id": "MATE 530",
+      "course name": "Biomaterials",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "BIO 161"
+        },
+        {
+          "prerequisite": "MATE 210"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Structure-function relationships for materials in contact with biological systems.  Interactions of materials implanted in the body.  Histological and hematological considerations including foreign body responses, inflammation, carcinogenicity, thrombosis, hemolysis, immunogenic and toxic properties.  Microbial interaction with material surfaces, degradation.  4 lectures.  Crosslisted as BMED/MATE530."
+    },
+    {
+      "id": "MATE 550",
+      "course name": "Micro Systems",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Fundamentals of intelligent systems employing sensors, actuators and intelligent controls.  Impact on material properties as devices shrink in the micrometer realm.  Applications toward exploring nanotechnology.  4 lectures."
+    },
+    {
+      "id": "MATE 570",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures."
+    },
+    {
+      "id": "MATE 571",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory study of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories."
+    },
+    {
+      "id": "MATE 590",
+      "course name": "Solidification and Densification",
+      "hasPrerequisite": "MATE 210",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Thermodynamics, kinetics and morphologies of solid-liquid interfaces.  Heat flow in castings, crystal growth.  Solidification mechanics, solute redistribution.  Production, characterization and testing of metal powders.  Compacting of powder.  Sintering with/without liquid phase.  Hot pressing, properties of sinterings as a function of processing conditions.  Application of theory to the production of useful materials.  4 lectures."
+    },
+    {
+      "id": "MATE 599",
+      "course name": "Design Project (Thesis)",
+      "units": "2-5 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Each individual or group will be assigned a project for solution under faculty supervision as a requirement for the master's degree, culminating in a written report/thesis."
+    }
+  ]
+}

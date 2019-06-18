@@ -1,0 +1,77 @@
+{
+  "subject": "Physical Science (PSC)",
+  "courses": [
+    {
+      "Course number & title": " Matter and Energy",
+      "Number of units": "4 units",
+      "Term": "GE Area B3; GE Area B4",
+      "Course description": "Introduction to the basic principles of physical science, including observation, description, modeling, and the application of physical phenomena. Emphasis on interactions as described by energy, forces, and fields for mechanical, thermal, electric, and magnetic systems. 3 lectures, 1 laboratory. Fulfills GE B3 & B4."
+    },
+    {
+      "Course number & title": " Atoms and Molecules",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Introduction to the basic principles of physical science (observation, description, modeling of physical phenomena) with an emphasis on interactions at the molecular level.  Interactions and the behavior of gases, physical change, and chemical change (including chemical reactions, chemical bonding, and solutions).  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " The Physical Environment: Earth",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Introduction to the basic principles of the earth sciences, and applications of these principles in modern society.  Structure and formation of the Earth, earthquakes, weather, and oceanography.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Physical Oceanography",
+      "Number of units": "4 units",
+      "Term": "GE Area B5",
+      "Course description": "Introduction to the motions of the ocean. Physical environment and sea floor features; seawater properties; atmosphere and ocean interactions; ocean currents and circulation; waves and tides; El Nino; coastal ocean processes; climate change and ocean stressors; ocean resources and marine life. 4 lectures. Fulfills GE B5."
+    },
+    {
+      "Course number & title": " Nuclear Weapons in the Post-9/11 World",
+      "Number of units": "4 units",
+      "Term": "GE Area F",
+      "Course description": "Technology and basic science of fission/fusion weapons, uranium/plutonium, nuclear reactors, offensive/defensive missile systems, command/ control, verification, weapon effects, nuclear testing.  Historical context of Cold War and proliferation, recent events, global norms, arms control treaties.  3 lectures, 1 seminar.  Fulfills GE Area F."
+    },
+    {
+      "Course number & title": " Energy, Society and the Environment",
+      "Number of units": "4 units",
+      "Term": "GE Area F",
+      "Course description": "Science and technology of current and future energy sources along with associated environmental problems and societal response.  Energy production, consumption, efficient usage, fossil fuels, nuclear, solar, other renewables.  Risks, benefits, planning, economics.  3 lectures, 1 activity.  Fulfills GE Area F."
+    },
+    {
+      "Course number & title": " Appropriate Technology for the World's People: Development",
+      "Number of units": "4 units",
+      "Term": "GE Area D5",
+      "Course description": "A broad overview of international development and appropriate design for sustainability.  Besides traditional classroom work, students work in teams to address problems with technical solutions.  Collaboration with mentors from the university, private sector, and nonprofits serves to provide diverse background and project mentorship.  4 lectures.  Crosslisted as HNRS/PSC/UNIV391.  Fulfills GE D5."
+    },
+    {
+      "Course number & title": " Appropriate Technology for the World's People: Design",
+      "Number of units": "4 units",
+      "Term": "GE Area F",
+      "Course description": "Addresses the needs of international impoverished communities with technological solutions, which are inexpensive, ecologically sustainable, and socially appropriate.  Group study of target communities, and design and construction of an appropriate technology prototype.  Not open to students with credit in PSC/UNIV/HNRS492.  3 lectures, 1 laboratory.  Crosslisted as HNRS/PSC/UNIV392.  Fulfills GE Area F."
+    },
+    {
+      "Course number & title": " Organizing and Teaching Science",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Techniques, aims and objectives in the teaching of physical and life sciences at the secondary level.  Selection and organization of teaching material, including strategies for English language learners (ELL) and special needs students.  Evaluation of results.  3 lectures, 1 activity.  Crosslisted as BIO/PSC424."
+    },
+    {
+      "Course number & title": " Clinical Experience in Teaching Science Seminar",
+      "Number of units": "2 units",
+      "Term": "CR/NC",
+      "Course description": "Principles and practices in effective teaching of science at the middle and high school level, learning theories, curriculum content and structure, classroom issues, and the teaching profession.  Credit/No Credit grading only.  Total credit limited to 4 units.  2 seminars.  Crosslisted as BIO/PSC425."
+    },
+    {
+      "Course number & title": " Appropriate Technology for the World's People: Development",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "A broad overview of international development and appropriate design for sustainability.  Besides traditional classroom work, students work in teams to address problems with technical solutions.  Collaboration with mentors from the university, private sector, and nonprofits serves to provide diverse background and mentorship.  Seminar paper required.  Not open to students with credit in PSC/UNIV/HNRS391.  4 lectures.  Crosslisted as PSC/UNIV491."
+    },
+    {
+      "Course number & title": " Appropriate Technology for the World's People: Design",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Addresses the needs of international impoverished communities with techno-logical solutions, which are inexpensive, ecologically sustainable, and socially appropriate.  Group study of target communities, and design and construction of an appropriate technology prototype.  Seminar paper required.  Not open to students with credit in PSC/UNIV/HNRS392.  3 lectures, 1 laboratory.  Crosslisted as PSC/UNIV492."
+    }
+  ]
+}

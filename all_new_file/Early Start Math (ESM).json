@@ -1,0 +1,23 @@
+{
+  "subjectOf": {
+    "id": "ESM",
+    "subject": "Early Start Math"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Early Start Math"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_ESM 90",
+      "course name": "Early Start Program: Mathematics",
+      "units": "1.5 units",
+      "term": [
+        "Summer"
+      ],
+      "description": "Review of basic algebra skills intended for students who need to meet the CSU Early Start Program ( ESP ) requirement. Not for baccalaureate credit. Credit / No Credit grading only.",
+      "other": "Formerly ESM 100."
+    }
+  ]
+}

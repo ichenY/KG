@@ -1,0 +1,158 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the university. Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills. Provides students with the opportunity to interact with fellow classmates and the seminar leader to build community of academic support and personal support.", 
+      "id": "CSUS_ID 21", 
+      "course name": "First Year  Seminar: Becoming an Educated Person"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "Generation after generation, university students have been key constituents in movements for social change. From public demonstrations to research studies, colleges and universities afford countless opportunities for students to advocate for a better world. This course explores how students can utilize university resources to explore interests and concerns, hone academic skills, and contribute to social change. ", 
+      "id": "CSUS_ID 22", 
+      "prerequisite": [
+        "ETHN 21"
+      ], 
+      "course name": "Contemporary Issues and Social Change"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Opportunity for consideration of topics that cross disciplinary boundaries. Content will vary depending on the needs of students and interests of faculty. ", 
+      "id": "CSUS_ID 96I", 
+      "course name": "Experimental Offerings in Interdisciplinary Studies"
+    }, 
+    {
+      "units": "1 - 4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individualized directed projects or reading. Open to lower division students who present an adequately supervised plan of study. The course study should be interdisciplinary in nature and requires the approval of the faculty member under whom the individual work is to be conducted and of the Dean of the College of Social Sciences and Interdisciplinary Studies.", 
+      "id": "CSUS_ID 99", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "term": ". Only one may be counted for credit.", 
+      "description": "Examines the nature and forms of social justice and injustice.  Addresses key philosophical and theoretical models and debates over the meaning of social justice, using historical and contemporary examples to highlight important concepts and controversies.  Faculty from different departments within SSIS, and occasionally from other colleges, will address how their discipline understands and analyzes issues of social justice.  Students will be encouraged to critically assess the assumptions of various perspectives on social justice, and to address the relationship of academe and social activism in achieving social justice. ", 
+      "course name": "Social Justice in Interdisciplinary Perspective", 
+      "units": "3 Units", 
+      "id": "CSUS_ID 124", 
+      "prerequisite": [
+        "ANTH 130", 
+        "ENVS 124", 
+        "SOC 124"
+      ]
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Re-entry students may earn 1-6 units by documenting their interdisciplinary life/work experiences that meet the objectives of upper division university course work for an appropriate faculty member to evaluate. Approval of credit is granted by the Dean of the College of Social Sciences and Interdisciplinary Studies. Students must attend a workshop scheduled through the Academic Advising Center during the semester prior to registering for the course. Credit must be awarded prior to applying for graduation.", 
+      "id": "CSUS_ID 194", 
+      "course name": "Experiential Learning"
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": " May be repeated for credit up to a total of 6 units. ", 
+      "description": "Supervised work experience of an interdisciplinary nature in an approved business, education, government or service agency. Students are required to engage in a minimum of three hours of supervised work per week for each semester unit of credit granted. ", 
+      "id": "CSUS_ID 195", 
+      "course name": "Field Experience"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ", for up to 6 units of total credit.", 
+      "course name": "Introductory Field Experience in Peer Health Education", 
+      "units": "2 - 3 Units", 
+      "id": "CSUS_ID 195A", 
+      "prerequisite": [
+        "ID 195A", 
+        "ID 195B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " and ID 1958, for up to 6 units of credit total. ", 
+      "course name": "Intermediate Field Experience in Peer Health Education", 
+      "units": "2 - 3 Units", 
+      "id": "CSUS_ID 195B", 
+      "prerequisite": [
+        "ID 195A", 
+        "ID 195A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Further explores the theory and practice of peer education while building advanced leadership skills. Includes both academic and experiential aspects, allowing students to develop a deeper understanding of key college health issues, presentation skills, and program planning. Students serve as mentors and assistant trainers to Peer Health Educators, plan and implement campus events, and present classes to peer groups on campus. ", 
+      "course name": "Advanced Field Experience in Peer Health Education", 
+      "units": "1 - 2 Units", 
+      "id": "CSUS_ID 195C", 
+      "prerequisite": [
+        "ID 195A", 
+        "ID 195B"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Opportunity for in-depth consideration of topics that cross disciplinary boundaries. Content will vary on the needs of the students and interests of faculty. ", 
+      "id": "CSUS_ID 196", 
+      "course name": "Advanced Experimental Offerings in Interdisciplinary Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit up to 6 units. ", 
+      "description": "Introduce participants to concepts in peer advising and orientation at Sacramento State. Students will learn about the philosophy and purpose of orientation, academic policies, student services and campus facilities. Class activities are planned to help develop the leadership, interpersonal and communication skills necessary to be an effective peer adviser and campus representative. ", 
+      "id": "CSUS_ID 197", 
+      "course name": "Training and Leadership for Orientation Leaders"
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading. Open only to students who appear competent to carry on individual work. Generally will involve two or more of the major academic administrative units of the university. Admission requires the approval of the faculty member under whom the individual work is to be conducted and of the Dean of the College of Social Sciences and Interdisciplinary Studies.", 
+      "id": "CSUS_ID 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Readings in selected interdisciplinary topics. May be taken twice for credit.", 
+      "id": "CSUS_ID 200", 
+      "course name": "Interdisciplinary Reading Seminar"
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Research in selected interdisciplinary topics. May be taken twice for credit.", 
+      "id": "CSUS_ID 201", 
+      "course name": "Interdisciplinary Research Seminar"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to provide an understanding of the grant seeking and management process. Seeks to acquaint students with the processes for designing, submitting and managing successful grant funding projects. ", 
+      "id": "CSUS_ID 296A", 
+      "course name": "Grant Writing and Management"
+    }, 
+    {
+      "units": "1 - 4 Units", 
+      "term": " Departmental petition required. ", 
+      "description": "Individual projects or directed reading. Generally involves two or more of the major academic units of the university. ", 
+      "id": "CSUS_ID 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Advanced to candidacy for the Special Major Master's degree. ", 
+      "description": "Completion of the Thesis or Project approved for the Master's degree. ", 
+      "id": "CSUS_ID 500", 
+      "course name": "Culminating Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "ID", 
+    "subject": "Interdisciplinary Studies"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Interdisciplinary Studies", 
+    "id": "CSUS"
+  }
+}

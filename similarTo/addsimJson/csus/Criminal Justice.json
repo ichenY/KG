@@ -1,0 +1,863 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Reviews the problem of crime and the societal response to criminals. Institutions discussed are those intended to discover the crime and the criminal and those designed to deal with the criminal, the victim, and society, once the criminal has been labeled. Finally, the bureaucracy of crime and its measurement as a social phenomenon are discussed.",
+      "id": "CSUS_CRJ 1",
+      "course name": "Introduction to Criminal Justice and Society",
+      "similarTo": [
+        "AshFord_CRJ 201",
+        "AshFord_CRJ 201",
+        "AshFord_CRJ 613",
+        "AshFord_CRJ 461",
+        "AshFord_CRJ 524"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the case method of studying criminal law. Understanding and correlating the common law crimes and substantive law crimes. Study and emphasis on the classification and nature of crimes, the requisite elements of the major common law felonies and criminal responsibility of various persons involved in crime.",
+      "id": "CSUS_CRJ 2",
+      "course name": "Law of Crimes",
+      "similarTo": [
+        "AshFord_CRJ 520"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Techniques involved in the investigation of crimes; interview of victims and witnesses; questioning of suspects; organization and procedure in the investigation of crimes; crime scene searches; surveillance; use of scientific aids; and sources of information.",
+      "id": "CSUS_CRJ 4",
+      "course name": "General Investigative Techniques"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines complex, dynamic relationships between communities and the justice system in addressing crime and conflict with emphasis on the challenges and prospects of administering justice within a diverse, multicultural population and the roles played by race, ethnicity, gender, religion, sexual orientation, age, social class, culture, and justice professionals in shaping relationships within the justice system. Special topics include crime prevention, restorative justice, and conflict resolution and pure justice.",
+      "id": "CSUS_CRJ 5",
+      "course name": "The Community and the Justice System"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the nature and possible meanings of higher education and the functions and resources of the University.  Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills.  Also provide students with an opportunity to interact with fellow students and the seminar leader and to build a community of academic and personal support.",
+      "id": "CSUS_CRJ 21",
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to research methodologies used in the social sciences, with a special emphasis on those methods most often used in the study of crime and criminal behavior, police/court systems, and correctional institutions, policies, and programs.  Students will acquire the knowledge and skills necessary to understand, critically analyze and assess descriptive and quantitative research studies.  Topics include the roles of theory and ethics in research, hypothesis testing, and research design. ",
+      "id": "CSUS_CRJ 101",
+      "course name": "Introduction to Criminal Justice Research Methods",
+      "similarTo": [
+        "AshFord_CRJ 201"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course provides an overview of the causes, consequences and responses to crime in society, with special emphasis on the use of theory and research to guide criminal justice policy and practice. The course surveys major theories of crime causation, examines consequences of crime on individuals and societies, and explores various perspectives on the appropriate role of criminal sanctions and offender treatment in modern day systems of justice. ",
+      "id": "CSUS_CRJ 102",
+      "course name": "Crime And Punishment"
+    },
+    {
+      "term": "Fall only",
+      "description": "Comprehensive juvenile delinquency planning process and its contribution to effective delinquency prevention and control; new roles for delinquency control agencies (police, courts, and corrections); the Youth Service Bureau; innovative strategies in delinquency prevention programming. ",
+      "course name": "Delinquency, Prevention and Control",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 105",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 102"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Observation and analysis of criminal career patterns using the following approaches: anthropological, autobiographical, psychological, psychiatric, and sociological. The examination of career criminal behavior patterns will focus upon: the process of induction into criminal activity; the deviant orientation of the professional criminal; the organization, life style, and activities of the specialized criminal; and the methodological problems associated with the measurement of recidivism. ",
+      "course name": "Analysis of Career Criminals",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 106",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 102"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Detailed examination of the multiple causes, effects and dynamics of crime against children, spouses, domestic partners and the dependent elderly, the response of criminal justice agencies to these crimes and the impact of these crimes on their victims. ",
+      "course name": "Domestic Crime and Violence",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 108",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 102"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Analyzes the social construction of crime by news and entertainment media and introduces criminal justice students to the manner in which the media influences and shapes crime in their own society and in the criminal justice system. Analyzes images of crime and the criminal justice system that are presented through the major mass media within America, including a detailed analysis of media institutions, American pop culture, and the construction of crime and justice. Exposes students to a new way of looking at crime problems and provide them with a deeper understanding of how crime and the criminal justice system are both socially constructed by the news and entertainment media. ",
+      "course name": "Media, Crime, and Criminal Justice",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 109",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 102"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Survey of the roles of women as offenders, victims and employees in the criminal justice system. Examines statistics, research and the literature as it relates to female crime. Evaluates current patterns and practices of law enforcement, criminal courts and corrections relative to women as offenders, victims, and employees.",
+      "id": "CSUS_CRJ 111",
+      "course name": "Women and the Criminal Justice System"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examination of criminal organizations in America. The problems posed by \"anti-social groups,\" their structure and their history in contemporary American society. The spectrum of social sciences is employed in an examination of \"illegal groups\" and such issues as aggression and group dynamics. Styles such as street gangs, prison gangs and traditional organized crime are defined and studied.",
+      "id": "CSUS_CRJ 112",
+      "course name": "Gangs and Threat Groups in America"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Exploration of relevant factors and dimensions of sexual offenses and offenders related to the Criminal Justice system, its cliental and practitioners.",
+      "id": "CSUS_CRJ 114",
+      "course name": "Sexual Offenses and Offenders"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Systemically examines political violence, responses by government institutions to that violence and implications of both for the administration of justice.  Content is structured along a continuum, ranging from small scale violence to mass violence - assassinations, terrorism by sub-national and transnational organizations, state terror and genocide.  In recent years political violence has progressively drawn the American governmental institutions, particularly justice agencies, into the global picture of violence committed by both domestic and international terrorists.",
+      "id": "CSUS_CRJ 115",
+      "course name": "Violence and Terrorism"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines concepts, principles, techniques of conflict resolution and restorative justice in contemporary US legal system, global peacebuilding, across cultures, and comparative justice practices. The centerpiece is a classroom simulation that introduces students to theoretic analysis and practical knowledge on resolution of conflicts and crime. Addresses nonviolent responses to inter/intra state and community conflicts. Topics include negotiation, mediation, victim offender reconciliation, alternative dispute resolution (ADR), circle sentencing, transitional justice, peace treaty, transformative justice, intergroup dialogues, etc.",
+      "id": "CSUS_CRJ 116",
+      "course name": "Restorative Justice and Conflict Resolution"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Course examines the origins of racial/ethnic/gender/sex discrimination and disparities in the US justice system. Additionally, course provides a critical examination of the processes and outcomes of the justice system by reviewing the major theories of crime and number of minorities reported in crime data. Using discussions about various criminal justice policies and their impact on minority groups, the course assesses the changing dynamic of race relations and diversity in society and their influences on justice administration.",
+      "id": "CSUS_CRJ 117",
+      "course name": "American Criminal Justice and Minority Groups."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Sociogenic review of the case histories and life styles of selected juvenile and adult offenders with a history of drug abuse. An inquiry into the drug scene, \"street\" drugs, an examination of people who have abused drugs and have been guilty of delinquent or criminal acts for the purpose of determining the known and identified relationships between drug abuse and crime, and probing the many unknown relationships. A sustained and disciplined examination of the main issues and problems by the use of case studies, discussion groups, and student involvement.",
+      "id": "CSUS_CRJ 118",
+      "course name": "Drug Abuse and Criminal Behavior"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Overview of the Federal and State court structures including jurisdiction, venue, roles of court participants, due process and post arrest procedures employed in adjudication, trial process, appellate review.  Constitutional issues such as discretion, indigent rights, right to counsel, discovery, pleas, bail and preventive detention, competency, evidence suppression, double jeopardy, and speedy trial will also be addressed. ",
+      "id": "CSUS_CRJ 121",
+      "course name": "The Structure and Function of the American Courts"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Current and recent developments relating to arrest, searches, and seizures; study of constitutional rights predominately associated with the Fourth, Fifth, Sixth and Fourteenth Amendments as related to criminal justice and its administration -- warrants, warrantless seizures, exclusionary rule, confession, eye-witness identification, electronic surveillance, entrapment, and state variance with federal rules. Case study method law course. ",
+      "id": "CSUS_CRJ 123",
+      "course name": "Law of Arrest, Search and Seizure"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Substantive criminal law of responsibility and culpability.  Topics include legal cause, mens rea, negligence, intent and its equivalents, motive, immaturity, mental incapacitates, mistake, and affirmative defenses including authority and privilege as found in American statute and case law.  A case method law course. ",
+      "id": "CSUS_CRJ 125",
+      "course name": "Law of Responsibility"
+    },
+    {
+      "term": "Fall only",
+      "description": "Law of evidence as codified and its complimentary interpretations by the courts. Topics include the admission and exclusion of evidence, relevance, the hearsay rule and its exceptions, the use of writings and demonstrative evidence, judicial notice, order of proof and presumptions, and issues relating to witness competency and privileges. Constitutional exclusions and their impacts are not covered. ",
+      "course name": "Law of Evidence",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 126",
+      "prerequisite": [
+        "CRJ 121",
+        "CRJ 123"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Overview of legal concepts and principles affecting the adjudication of delinquent children in juvenile and adult court systems, develops the ability to read and analyze difficult legal issues relating to juvenile law, and provides the information required to evaluate the effectiveness of the juvenile court system in the context of its stated rehabilitative goals and the potential impact of a shift in focus to a more retribution-oriented structure. ",
+      "course name": "Juvenile Law",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 127",
+      "prerequisite": [
+        "CRJ 102",
+        "CRJ 121"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Administrative law is the study of the adjudicatory and law making processes that take place within administrative agencies of the executive branches of government. Further, it is a study of the legal relationship between those agencies and the legislature, the courts, and private parties. Particular attention will be paid to the Federal Administrative Procedures Act, and the California Administrative Procedure Act. ",
+      "course name": "Administrative Law for Public Safety Personnel",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 128",
+      "prerequisite": [
+        "CRJ 121",
+        "CRJ 123"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Overview and critical analysis of contemporary correctional theory and practice. Comparison of mainline American corrections with historical, cross-cultural, philosophical and non-traditional views of corrections. Controversial issues in contemporary corrections, including prisoner rights, victimization, the death penalty, unions, institutional corrections, community corrections, future of corrections, correctional careers, and administration and staffing of correctional programs. ",
+      "id": "CSUS_CRJ 130",
+      "course name": "Fundamentals of Corrections"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Role and function of the correctional institution in the administration of criminal justice. A review of institutional procedures: reception, classification, program assignment, mass custody, treatment programs, and release, including parole and discharge. The inmate social system and its relationship to the official world that contains it. The following topics will receive special attention: the determinate sentence; the confinement of repetitively violent offenders; the death penalty and its impact on prison management, inmate social services; prison reform; and the stresses experienced by institutional personnel. ",
+      "course name": "Correctional Institutions",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 131",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 102",
+        "CRJ 130"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Role of local and state government in the development of community-based correctional programs; regional detention facilities; recent trends in jail organization and management; ex-offenders and employment; the impact of community corrections on the criminal justice system. ",
+      "course name": "Community Based Corrections",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 134",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 102",
+        "CRJ 130"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Concepts of administration;  corrections as a component of criminal justice; organization and management of correctional services and correctional institutions for delinquent youth and adult offenders; probation and parole; and the legal and political contexts of corrections. ",
+      "course name": "Corrections Administration",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 136",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 130",
+        "CRJ 160"
+      ],
+      "similarTo": [
+        "AshFord_CRJ 461"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examination of the origins, philosophy, objectives and priorities of the police service in the U.S. A. holistic analysis of political, social, economic, legal and other factors impacting the relationship between the police and the society they serve. Police use of discretion, police roles, police and minority groups, police and protest groups, police brutality, and police ethics are also studied. ",
+      "id": "CSUS_CRJ 141",
+      "course name": "Police and Society"
+    },
+    {
+      "term": "Fall only",
+      "description": "Concepts of organization and management; relationships between police agencies and the public, other criminal justice agencies, and other agencies of government; organization for delivery of police services: first response, crime investigation, youth services, vice, communications, and information management. ",
+      "course name": "Police Administration",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 142",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 141",
+        "CRJ 160"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Roles of police in a democratic society; analysis of public disobedience to law; racial and ethnic group relationships with police; public, official, and police corruption; police discretion; professionalism; development of criminal intelligence. ",
+      "course name": "Contemporary Issues in Police Administration",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 144",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 141"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduces students to a variety of white collar crime issues, including definitional complexities, the causes, frequency and impact of economic crime, and victim and offender profiles. Governmental corruption, organizational fraud, consumer and environmental offenses, anti-trust violations and international schemes will be covered. Students will also become familiar with methods used to investigate, prosecute and sentence white collar offenders. Policy considerations will be discussed for controlling national and international white collar crime. ",
+      "id": "CSUS_CRJ 151",
+      "course name": "White Collar Crime"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Principles and techniques of interviewing and detection of deception studied from communication, physiological and psycho-social points of view. Introduction to the use of the polygraph; laws pertaining to confessions and admissions. ",
+      "course name": "Interviewing and Detection of Deception",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 152",
+      "prerequisite": [
+        "CRJ 102"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Principles involved in the investigation of crimes; utilization of scientific aids in obtaining information from physical objects; concepts in obtaining information from and about people; concept of reconstruction of crime and profile of suspect; development of leads; investigative problems in major crimes; special problems in crime investigation. ",
+      "course name": "Advanced Criminal Investigation",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 153",
+      "prerequisite": [
+        "CRJ 102"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides an overview of the role of science in collecting and evaluating physical evidence as a component of the criminal investigation and legal processes. Various operations in the examination and interpretation of physical evidence are examined with emphasis on the role of science in supporting the investigator and in the litigation process.  Suitable for both science and non-science  majors.  ",
+      "course name": "Introduction to Physical Evidence",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 154",
+      "prerequisite": [
+        "CRJ 102"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to crime and intelligence analysis with a special emphasis on those methods most often used in the study of crime and criminal behavior patterns. Students will acquire the knowledge and skills necessary toward understanding crime analysis, intelligence analysis and mapping geospatial data. Topics include theory, the history of crime analysis, crime analysis technologies, intelligence analysis, and types/functions of crime analysis. ",
+      "course name": "Introduction to Crime and Intelligence Analysis",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 156",
+      "prerequisite": [
+        "CRJ 101"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the nature and development of public safety and criminal justice organizations in American society with attention to how the unique functions performed by these agencies has shaped and developed their nature.  Particular emphasis is placed on understanding the unique problems generated by administration of bureaucratic, public agencies in a highly politicized environment.  Examines the influence of social and political factors on justice and public safety organizations.  ",
+      "id": "CSUS_CRJ 160",
+      "course name": "Justice and Public Safety Administration"
+    },
+    {
+      "term": "Fall only",
+      "description": "An examination of the structure, organization and management of state and local government with particular attention to the interplay between governmental agencies that is focused on the operations and management of public safety agencies. Government leadership models, such as mayor and city manager will be examined. Finance, the state and local budgets, taxation, revenue and spending will be addressed. ",
+      "course name": "Intergovernmental Relations, Finance and Budgeting for Public Safety Personnel",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 162",
+      "prerequisite": [
+        "CRJ 160",
+        "PPA 100"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Addresses role of leadership in shaping and directing complex justice and public safety organizations.  Leadership styles, roles, communication, group dynamics and organizational culture are examined and applied to organizational maintenance, adaptation, and change.  Also addresses the role of employee organizations and personal practices in shaping leadership options and styles in public agencies.  Particular attention is focused on implementing leadership in the bureaucratic and public agencies typical to the fields of criminal justice and public safety administration. ",
+      "course name": "Leadership in Criminal Justice and Public Safety",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 163",
+      "prerequisite": [
+        "CRJ 160"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Addresses planning in complex justice and public safety organizations.  Focuses on the role of planning in preparing for change, maximizing utilization of resources and addressing crime and public safety.  Emphasis is placed on the use of planning to unify fragmented public agencies at multiple levels of government in preparing for disaster, controlling crime, and assuring public safety. ",
+      "course name": "Planning for Justice and Public Safety",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 165",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 102",
+        "CRJ 160"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "This course provides an understanding of history, theories, laws, and practices related to contemporary as well as future criminal justice/public safety personnel administration and practice. ",
+      "course name": "Personnel Administration in Criminal Justice and Public Safety Organizations",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 166",
+      "prerequisite": [
+        "CRJ 160"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course is designed to provide the public safety student and/or criminal justice student, practitioner and/or administrator with an understanding of public safety personnel practices in the area of collective bargaining. Labor-management relations, dispute resolution, arbitration, and the various laws that govern labor-management relations, at all levels of government, will be covered. ",
+      "id": "CSUS_CRJ 167",
+      "course name": "Collective Bargaining and Arbitration Issues in Public Safety"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to criminal justice and public safety information systems.  Provides a framework for understanding the needs, types, capabilities and applications of information systems to the field.  Current uses are surveyed and future potential applications are examined. ",
+      "id": "CSUS_CRJ 168",
+      "course name": "Justice and Public Safety Information Systems"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Course reviews the history of emergency management, the current systems in place to manage mitigation, preparedness, response and recovery and the coordination and communication required to do so. Diverse responses to various emergencies will be presented with detailed examination of the roles of various levels of government and integration required. The formal declaration of emergencies and federal aid procedures, agencies involved and their administration will be covered. ",
+      "id": "CSUS_CRJ 169",
+      "course name": "Emergency Management"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The course explores the international and domestic legal framework that defines human trafficking and slavery and analyzes the major theories and current research on related causes and risk factors. The role of involvement of transnational organized criminal groups and vulnerability of social groups are discussed. Lastly, the course provides a critical analysis of effective strategies in victim identification, protection, prosecution, and prevention as instrumental components in assessment of crime control policy. ",
+      "id": "CSUS_CRJ 170",
+      "course name": "Human Trafficking and Slavery"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines representative criminal justice systems from a variety of nations with emphasis on the role of history, culture, social and political values and economic institutions in shaping institutions of justice including law, police, courts, corrections, and juvenile justice systems and practice. Attention is paid to conflict and cooperation between criminal justice systems and ideologies that occur when peoples of different cultures and systems are in close proximity. ",
+      "id": "CSUS_CRJ 172",
+      "course name": "Comparative Criminal Justice Systems",
+      "similarTo": [
+        "AshFord_CRJ 613"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Societal structures, definitions of deviance and criminal behavior, social problems related to criminality, the nature of systems for handling criminals and sanctions in future societies.",
+      "id": "CSUS_CRJ 174",
+      "course name": "Criminal Justice Systems of the Future"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Purposes, functions and historical development of industrial security in the U.S. Co-responsibilities of security personnel and line supervisors; principles of physical security, document protection, pilferage prevention and employee programs for plant and inventory protection. Survey of related laws and cooperating agencies of government. ",
+      "course name": "Security Systems",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 176",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 102"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated provided the topic is different.  ",
+      "description": "Topics of interest to criminal justice students and faculty will be offered as the need arises. ",
+      "id": "CSUS_CRJ 181",
+      "course name": "Topics in Criminal Justice"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of current issues in criminal justice with an emphasis on the application of law, management, practice and ethics to analysis of contemporary criminal justice policy.  The culminating event for criminal justice majors with an emphasis upon written and oral communication, research and analytical thinking. ",
+      "course name": "Contemporary Issues in Criminal Justice.",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 190",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 102",
+        "CRJ 121",
+        "CRJ 123",
+        "CRJ 130",
+        "CRJ 141",
+        "CRJ 160",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_CRJ 191",
+      "prerequisite": [
+        "CRJ 101",
+        "CRJ 102"
+      ],
+      "course name": "Topics in Criminal Justice Administration"
+    },
+    {
+      "units": "1 - 6 Units",
+      "term": " may be repeated for credit     ",
+      "description": "Supervised work and experience in justice or public safety related agencies designed to expand the student's understanding of techniques, procedures and problems that occur in these agencies.  Supervision provided by both faculty and agency personnel. ",
+      "id": "CSUS_CRJ 195",
+      "course name": "Internship"
+    },
+    {
+      "units": "2 - 4 Units",
+      "term": "Fall, Spring",
+      "description": "To be offered in the various fields of Criminal Justice in response to student needs. ",
+      "id": "CSUS_CRJ 196",
+      "course name": "Experimental Offerings in Criminal Justice",
+      "similarTo": [
+        "AshFord_CRJ 524"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Overview and analysis of how mentally ill individuals interface with the criminal justice system, from first contacts with the police, to their entry into the jails, courts, and prisons, and then reentry into the community via parole and probation. The history of how the mentally ill became so embedded in the criminal justice system, whether mental illness has become criminalized, evidence-based mental health programs, and treatment for this population will be covered.",
+      "id": "CSUS_CRJ 196A",
+      "course name": "The Mentally Ill Individual in the Criminal Justice System"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Current and historical developments relating to the laws surrounding homeland security and emergency management. Topics include the legal framework for the U.S. domestic preparedness and national incident management system, the role of the military in emergency response and homeland security, and the legal jurisdiction and authority of federal, state, and local public safety, as well as private sector institutions, in terrorism prevention and response. Course utilizes cases, statutes, executive orders, government reports, and scholarly research.",
+      "id": "CSUS_CRJ 196B",
+      "course name": "Law of Homeland Security and Emergency Management"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course focuses on research, training and supervision through service learning. Students will be taught about the scientific literature on offender rehabilitation, and the practical information on how to work with a small caseload of offenders in a Reentry center using a cognitive behavioral approach in a one-to-one format. Students will gain training in Cognitive Behavioral Therapy. ",
+      "id": "CSUS_CRJ 196R",
+      "course name": "Offender Rehabilitation"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Purpose of course is to learn various ethical considerations within the criminal justice system. Course will briefly explore the classical, philosophical foundations of ethics and proceed into surveying modern, ethical decision-making among the various criminal justice components. Criminal justice system ethics and decision-making of the police, prosecution, courts, corrections, and probation/parole from a managerial standpoint and a line perspective will be examined and critiqued. Emphasis will be placed on viable, practical solutions to ethical conundrums. ",
+      "id": "CSUS_CRJ 196S",
+      "course name": "Ethics and the Criminal Justice System",
+      "similarTo": [
+        "AshFord_CRJ 524"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Co-Curricular activities related to the subject matters and intellectual concerns of the Division of Criminal Justice, including service learning, related community service assignments, and service on University and community policy making bodies. ",
+      "id": "CSUS_CRJ 198",
+      "course name": "Co-Curricular Activities"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Individual projects or directed reading, open only to those students who appear competent to carry on individual work. ",
+      "id": "CSUS_CRJ 199",
+      "course name": "Special Problems"
+    },
+    {
+      "units": "3 Units",
+      "term": " Graduate Writing Intensive (GWI) course.  ",
+      "description": "Research theory and methodology in Criminal Justice; research designs; conceptual models; design and preparation of Master's thesis prospectus. ",
+      "id": "CSUS_CRJ 200",
+      "course name": "Research Methods in Criminal Justice.",
+      "similarTo": [
+        "AshFord_CRJ 520"
+      ]
+    },
+    {
+      "term": " Required core course  ",
+      "description": "This course provides applied explanations of advanced research designing, use of data development strategies, and techniques for effective data analysis using statistical software. Topics generally covered include: (1) issues and techniques in advanced research design with emphasis on theory testing and hypothesis formulation; (2) measurement, data collection strategies, reliability and validity of measures and results, sampling, surveys; and, (3) examination of qualitative versus quantitative research techniques, working with observational data, field research issues, and triangulation. ",
+      "course name": "Advanced Research Design and Data in Criminal Justice",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 201",
+      "prerequisite": [
+        "CRJ 200"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of responses of the criminal justice system to major current issues with attention to factors influencing their effects; review of uses and limitations of various responses; appraisal of the consequences of various criminal justice policy alternatives. ",
+      "course name": "Criminal Justice Policy Analysis",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 205",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Systematic review of selected evaluations of major criminal justice programs, demonstration projects, experiments, and innovations; introduction to basic techniques of interpretation and analysis of research findings to determine outcomes. ",
+      "course name": "Criminal Justice Research and Program Evaluation",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 207",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examines the historical, theoretical, and practical developments that gave rise to the dominance of legal formalism in the American legal tradition. Examines the multiple challenges to that model, including legal realism, the sociology of law, critical legal studies, and critical race theory. Will critically examine the intersection of the American legal tradition with issues concerning the possibility and implementation of social justice strategies in diverse, and increasingly global contexts. ",
+      "course name": "Critical Examination of Law and Justice",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 210",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Familiarizes students with the legislative process, the performance of the legislature as it relates to the handling of crime bills and the role of interest groups and politics in the process of initiating and passing laws. Topics include: theoretical models of lawmaking, factors in legislative decision-making, the politics of crime legislation, ethics in politics, and how people influence and use the legislative process. ",
+      "course name": "Politics of Crime Legislation",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 220",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Contemporary penal institutions will be studied using the literature in the social sciences, the biographies of prisoners, and the writings of prison critics. ",
+      "course name": "The Prison",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 230",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides a historical analysis and discussion of the current state of corrections and correctional management. Theories of punishment will be addressed and management techniques will be covered. Goes beyond concepts of institutionalized corrections to explore modern correctional alternatives, correctional policy and special topics relevant to corrections. ",
+      "course name": "Graduate Seminar in Corrections",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 231",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of current conditions of confinement; review of confinement related factors common to populations in penal institutions, military installations, mental hospitals, prisoner of war camps, and concentration camps; investigation into the broader implications of conditions of confinement for society; survey of practical strategies for developing and implementing standards for confined populations. ",
+      "course name": "Psychodynamics of Confinement",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 233",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "In-depth study of contemporary issues in policing in the U.S., including management, organization and issues confronting law enforcement at federal, state and local levels. ",
+      "course name": "Contemporary Issues in Policing",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 240",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of alternative systems for criminal justice provides a basis for improved understanding of organizational and functional components within given sociopolitical environments. Through comparison of formal and operational levels, decision-making processes are made explicit with reference to historical, legal, social, and economic parameters in the administration of justice. ",
+      "course name": "Comparative Analysis of the Criminal Justice System",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 250",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examines the underlying theories and the diverse nature of white-collar crime.  Studies offenses associated with corporations, occupations, governments, enterprises and individuals.  Examines the offenders and the organizational culture that facilitates criminal action.  Topics include embezzlement, political corruption, employee theft, fraud, computer crime, and environmental crime.  Study consequences for victims, offender characteristics and the theoretical explanations for the decisions by criminals to commit white-collar crimes. ",
+      "course name": "White-Collar Crime",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 251",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Comprehensive survey of the literature on violence emphasizing high-fear crimes; the repetitively violent criminal; the emerging field of victimology; improved delivery of social services to victims; juvenile gangs; and the response of criminal justice agencies to urban violence. ",
+      "course name": "Violence and Victims",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 252",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of major criminological theories, their ideological premises and basic assumptions, interrelationships, and the shifts in emphasis and focal points in the study of criminality. Analyzes post and current applications of theory to the intervention strategies of crime control. ",
+      "id": "CSUS_CRJ 255",
+      "course name": "Crime, Criminology and Criminal Justice"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Evolution and historical foundations of American patterns of crime and violence, criminological theories, law enforcement structures and philosophies, the adult criminal justice system, and the juvenile system will be traced through three distinct historical periods: Colonial and Early American Roots, 1609-1814; Creating the American Criminal Justice System, 1815-1900; and Reforming the Criminal Justice System, 1900 to present. ",
+      "id": "CSUS_CRJ 256",
+      "course name": "Historical Analysis of the American Criminal Justice System"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Theoretical approaches to the study of terrorism and analysis of terrorist theory and strategies. Topics include operational definitions of terrorism, typologies of terrorism, threat analysis of terrorism in the U.S., and responses of the criminal justice system to acts of hostage-taking, bombing, political murder, and narco-terrorism. ",
+      "course name": "The Nature Of Terrorism",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 257",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Description, analysis, solution, and synthesis of contemporary management problems in criminal justice organizations; presentation and exemplary implementation of management concepts significant to criminal justice organizations; review of case studies for management problem recognition; and the study of operational systems. ",
+      "id": "CSUS_CRJ 260",
+      "course name": "Management of Complex Justice Organizations"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Theoretical and empirical study of the cause and control of delinquent behavior. Assessment of policies and practices of agencies involved in juvenile justice including the impact of recent federal and state legislation. ",
+      "course name": "Administration of Juvenile Justice",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 262",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides an in depth understanding of the history, theories, laws, processes, issues and unique environment shaping contemporary personnel administration in a variety of criminal justice agencies. ",
+      "course name": "Personnel Administration in Justice Organizations",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 266",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Designed to provide the criminal justice practitioner and administrator with an understanding of criminal justice labor-management relations  and collective bargaining and difference resolution, along with conflict resolution practices as applied to inmate-custody and control situations. ",
+      "course name": "Criminal Justice Issues in Collective Bargaining and Arbitration",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 267",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 255",
+        "CRJ 256",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Societal structures, definitions of deviance and criminal behavior, social problems related to criminality, the nature of systems for handing criminal and sanctions in future societies. ",
+      "course name": "Criminal Justice Systems of the Future",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 289",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised graduate student placement in selected criminal justice agencies with emphasis on research and evaluation project assignments. ",
+      "id": "CSUS_CRJ 295",
+      "course name": "Internship"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "A critical analysis of how mentally ill individuals interface with the criminal justice system, from first contacts with the police, to their entry into the jails, courts, prisons, and then reentry into the community via parole and probation. Current and historical topics about the mentally ill will be explored via an in-depth analysis of the current literature regarding the mentally ill in the criminal justice system, which will be reviewed and critiqued. ",
+      "id": "CSUS_CRJ 296A",
+      "course name": "The Mentally Ill Individual in the Criminal Justice System"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to the authority, organization, responsibilities, challenges, and issues related to emergency management in California and the U.S., examines the implications of citizen involvement in preparation for and management of natural and man-made disasters. Graduate students will consider impact of terrorism on democratic governance issues and potential future trends and issues. ",
+      "course name": "Emergency Management",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 296K",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 255",
+        "CRJ 256",
+        "CRJ 260"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Individual projects or directed reading. Open only to students who are competent to carry on individual work. ",
+      "course name": "Special Problems",
+      "units": "1 - 3 Units",
+      "id": "CSUS_CRJ 299",
+      "prerequisite": [
+        "CRJ 200",
+        "CRJ 201",
+        "CRJ 255",
+        "CRJ 260"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Completion of a thesis or project approved for the Master's degree.  A thesis requires an original contribution to knowledge in a traditional research format. A project is a significant undertaking of a pursuit appropriate to the profession. It must evidence originality and independent thinking, appropriate form and organization and a rationale. ",
+      "id": "CSUS_CRJ 500",
+      "course name": "Culminating Experience"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides  students with an opportunity to develop a foundation for their culminating experience. Students will complete the initial components of their project or thesis including the Statement of the Problem, Literature Review, and Human Subjects application. Students are expected to read assigned materials and engage in weekly discussions about their progress and experience with other students, the instructor, and their advisor (as needed). ",
+      "id": "CSUS_CRJ 501",
+      "course name": "Culminating Experience: Thesis/Project Development"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Completion of a thesis or project approved for the Master's degree.  A thesis requires an original contribution to knowledge in a traditional research format. A project is a significant undertaking of a pursuit appropriate to the profession. It must evidence originality and independent thinking, appropriate form and organization and a rationale. ",
+      "course name": "Culminating Experience: Thesis or Project",
+      "units": "3 Units",
+      "id": "CSUS_CRJ 502",
+      "prerequisite": [
+        "CRJ 501"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "CRJ",
+    "subject": "Criminal Justice"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Criminal Justice",
+    "id": "CSUS"
+  }
+}

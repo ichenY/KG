@@ -1,0 +1,493 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Course provides analysis and practical application of social, legal, and ethical practices in the field of special education. Provides candidates with an overview of state and federal laws and regulations, current case law, and up-to-date mandates from No Child Left Behind. Competencies needed to develop individualized programming for children with disabilities (IEP and IFSP), verification criteria, parent's rights, IEP development and implementation, goal and objective development, placement procedures and IEP monitoring will be emphasized.", 
+      "id": "CSUS_EDSP 119", 
+      "course name": "Legal and Social Foundations of Special Education"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Overview of the historical, philosophical, theoretical/empirical, and legal bases for family centered, relationship based special education services. Emphasis is on developing cross-cultural competence and a strengths-based, student centered approach to empowering families and advocating for students with disabilities. Students will develop skills required to build and maintain collaborative relationships through effective communication and teaming with families, students, professional colleagues, and community members. These skills will be applied in the context of school family-community partnerships, professional partnerships, person-centered planning/future planning, and IFSP/IEP development. ", 
+      "id": "CSUS_EDSP 201", 
+      "course name": "Developing Collaborative Partnerships with Families, Professionals, and Communities"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Focus will be on the following four areas: 1) unit design, varied and modified outcomes, and evaluation of student skills; 2) instructional implementation strategies, including modeling, demonstration, direct and indirect, discovery, and cognitive/meta-cognitive strategies; 3) varied instructional formats and groupings, including cooperative learning, peer-medicated instruction, peer tutoring, and peer coaching; and 4) adaptations and accommodations which will enhance success for the full range of students with disabilities within the general education curriculum. ", 
+      "course name": "Methods in Access and Inclusion in the Core Curriculum: Mod/Severe Disabilities", 
+      "units": "3 Units", 
+      "id": "CSUS_EDSP 205", 
+      "prerequisite": [
+        "EDSP 209", 
+        "EDSP 216"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Students will develop skills in the areas of: family collaboration; school and community collaboration in the context of IEP development and school partnerships; cross-cultural competence; communication; person-centered planning/future planning, partnering with families; transdisciplinary teaming to develop the IEP and the ITP; and facilitating social relationships and friendships as part of the school experience. ", 
+      "id": "CSUS_EDSP 206", 
+      "course name": "Collaborative Program Planning with Families, Professionals, and Communities"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Students will develop knowledge and skills related to strategies for collaboration and inclusion with general education faculty members in the middle and high school environment.  Students will develop skills in community-based instruction transition planning, in addition to designing outcomes and supports within the general education curriculum.  Students will also gain knowledge and skills related to vocational and supported employment, and preparation for work after high school, and how to facilitate a successful transition to post-secondary education, supported living, and supported employment. ", 
+      "course name": "Secondary/Post-Secondary Methods and Transition Planning: Moderate/Severe Disabilities", 
+      "units": "3 Units", 
+      "id": "CSUS_EDSP 207", 
+      "prerequisite": [
+        "EDSP 119", 
+        "EDSP 206", 
+        "EDSP 413"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Students will be provided with a strong basis in ecological and functional assessment in inclusive school and community environments.  Students will develop the ability to: a) set up performance analyses within natural environments; b) map out cognitive initiation vs. performance, and the communication requirements of various settings; c) conduct baselines within general education classrooms, the school, and the community, and develop resulting IEP goals and objectives; and, d) write effective and systematic instructional programs to teach a wide variety of skills across natural environments. ", 
+      "course name": "Evidenced-based Assessment and Instruction: Mod/Severe Disabilities", 
+      "units": "3 Units", 
+      "id": "CSUS_EDSP 208", 
+      "prerequisite": [
+        "EDSP 119", 
+        "EDSP 230", 
+        "EDSP 235", 
+        "EDSP 414"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Participants will learn: a) how to assess communicating behavior from nonsymobolic to symbolic and unintentional to sophisticated in students with disabilities; b) to work with audiologists and ophthalmologists to assess sensory functioning related to communication; c) to develop communication system intervention plans, both low and high tech; and d) how to implement instruction across multiple environments and with multiple partners.  In addition, students will learn strategies for facilitating interactions between students with and without disabilities, teaching others to utilize adapted communication systems, and collaboration with varied professionals. ", 
+      "course name": "Developing Augmentative & Alternative Communication Systems: Assessment and Intervention", 
+      "units": "3 Units", 
+      "id": "CSUS_EDSP 209", 
+      "prerequisite": [
+        "EDSP 119", 
+        "EDSP 206", 
+        "EDSP 235"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Quality practices in early childhood assessment using a range of culturally appropriate tools and techniques, parent-professional-collaboration, transdisciplinary team assessment, assessment reporting and translating results into intervention planning.  Participants will demonstrate skills in planning, carrying out and reporting results of assessments/evaluations for eligibility determination, program planning, and monitoring ongoing progress for infants, young children and their families. ", 
+      "id": "CSUS_EDSP 210", 
+      "course name": "Assessment and Evaluation in Early Childhood Special Education"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Designed to develop the skills necessary to design and implement developmentally appropriate curriculum and intervention strategies for infants and toddlers with disabilities in a range of learning environments including home, center-based and community programs. ", 
+      "id": "CSUS_EDSP 211", 
+      "course name": "Curriculum, Intervention Strategies, and Environments in ECSE I: Infants & Toddlers"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Designed to develop the skills necessary to design and implementation developmentally appropriate curriculum and intervention strategies for young children with disabilities in a range of learning environments including home, center-based and community programs. Lecture. ", 
+      "id": "CSUS_EDSP 212", 
+      "course name": "Curriculum, Intervention Strategies, and Environments in ECSE II: Preschool"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Using a critical disability theory perspective, examines early development of young children across developmental areas. Explores: 1) atypical development due to prenatal, perinatal, and early childhood developmental risk factors; 2) childhood development theories and how they support educators' understanding of children, families and developmentally appropriate practices; 3) service delivery models and key transitions; and 4) implications of developmental disabilities across the lifespan.", 
+      "id": "CSUS_EDSP 216", 
+      "course name": "Understanding the Implications of Developmental Diversity in Children"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Students will learn advanced methods of assessment and instruction for students with moderate to severe and profound disabilities, and multiple disabilities. Students will learn to design assessments and work with transdisciplinary team members to write an integrated assessment report, and present the report.  Students will develop IEPs/ITPs based on the transdisciplinary information, write instructional programs using research-based methods, and design methods for monitoring progress using ongoing instructional data. ", 
+      "course name": "Instructional Strategies: Low Incidence Disabilities", 
+      "units": "3 Units", 
+      "id": "CSUS_EDSP 218", 
+      "prerequisite": [
+        "EDSP 205", 
+        "EDSP 208", 
+        "EDSP 414", 
+        "EDSP 236", 
+        "EDSP 415", 
+        "EDSP 421"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course provides candidates with the evidence based principles and systematic and explicit techniques to develop phonological awareness, phonics, concepts about print, oral and written language, and word recognition strategies. Candidates will learn techniques specific to assessing a student in reading and applying the information to assist the student with reading difficulties. Accommodations and modifications for students with mild, moderate, and severe disabilities will be emphasized.", 
+      "id": "CSUS_EDSP 220", 
+      "course name": "Language and Literacy in Inclusive Classrooms I"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Course provides candidates with evidence based principles, systematic and explicit techniques, procedures in reading fluency, comprehension, and vocabulary development. Candidates will learn literal and higher level comprehension strategies that assist students in understanding narrative and expository text. Candidates will receive instruction on the principles, techniques, and procedures for teaching spelling, handwriting, and critical study skills. Accommodations and modifications for students with mild, moderate and severe disabilities will be emphasized.  ", 
+      "course name": "Language and Literacy in Inclusive Classrooms II", 
+      "units": "3 Units", 
+      "id": "CSUS_EDSP 221", 
+      "prerequisite": [
+        "EDSP 220"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Candidates examine relationships between assessment, curriculum, and instruction through application of a variety of formal and informal assessments and curricula. Candidates administer and interpret norm-referenced, criterion-referenced, and curriculum-based instruments that assess academic achievement, social behavior, and emotional functioning. Candidates learn basic principles and strategies related to using and communicating results of a variety  of assessment and evaluation approaches. Authentic assessment strategies, specifically designed to support and inform instruction, will be emphasized. ", 
+      "course name": "Assessment and Evaluation for Students with Mild/Moderate Disabilities", 
+      "units": "2 Units", 
+      "id": "CSUS_EDSP 225A", 
+      "prerequisite": [
+        "EDSP 225B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ") in a setting serving students with mild/moderate disabilities. ", 
+      "course name": "Assessment and Evaluation for Students with Mild/Moderate Disabilities Lab", 
+      "units": "1 Unit", 
+      "id": "CSUS_EDSP 225B", 
+      "prerequisite": [
+        "EDSP 225A", 
+        "EDSP 225A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Methods for designing and implementing instruction for students with mild/moderate disabilities. Topics include typical/atypical human development, resilience and protective factors, evidenced-based instructional strategies, designing and managing environments and materials, differentiated instruction, collaborative teaming to design and evaluate integrated services, technology (including assistive technology) to support access to general education curriculum, implementation of UDL, modifications and adaptations of state standards, components of IDEA and their implication for a multidisciplinary approach developing IEPs for special needs students included in general education classrooms. ", 
+      "id": "CSUS_EDSP 229", 
+      "course name": "Curriculum and Instruction Strategies for Students with Mild/Moderate Disabilities"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ") in a setting for students with mild/moderate disabilities who receive special education services. Students will verify multiple experiences across the age-span and in inclusive settings, agencies, and other natural environments. ", 
+      "course name": "Curriculum and Instruction Strategies for Students with Mild/Moderate Disabilities Lab", 
+      "units": "1 Unit", 
+      "id": "CSUS_EDSP 229B", 
+      "prerequisite": [
+        "EDSP 229", 
+        "EDSP 229"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Comprehensive study and application of intervention strategies that enhance the quality of life for students with mild/moderate disabilities. Students will learn (a) how to design learning environments that prevent and reduce problem behaviors, (b) learn how to identify and assess problem behavior using functional behavioral assessment methods, (c) learn how to design and implement positive behavioral support interventions which are in compliance with federal IDEA law, and (d) apply behavioral procedures on a systemic, school wide basis.", 
+      "id": "CSUS_EDSP 230", 
+      "course name": "Positive Behavior Supports for Students with Mild, Moderate, and Severe Behavioral Challenges"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Comprehensive study and application of intervention strategies that enhance the quality of life for students with mild/moderate disabilities. Students will learn (a) how to design learning environments that prevent and reduce problem behaviors, (b) learn how to identify and assess problem behavior using functional behavioral methods, (c) learn how to design and implement positive behavioral support interventions which are in compliance with federal IDEA law, and (d) apply behavioral procedures on a systemic, school wide basis. ", 
+      "course name": "Positive Behavior Supports for Students with Mild, Moderate, and Severe Behavioral Challenges Lab", 
+      "units": "1 Unit", 
+      "id": "CSUS_EDSP 230B", 
+      "prerequisite": [
+        "EDSP 230"
+      ]
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "The content provided in this course is directed toward the preparation of pre-service and/or intern teachers of students with mild/moderate disabilities. To facilitate positive and inclusive environments, the course provides instruction in effective communication, collaboration, and consultation with individuals with disabilities and their family, primary caregivers, general/special education teachers, related service personnel, administrators, the business community and public/non-public agencies. Candidates will also be supported in the development of a Preliminary Mild/Moderate Education Specialist Portfolio.", 
+      "id": "CSUS_EDSP 232", 
+      "course name": "Effective Communication and Collaborative Partnerships"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Designed to allow the special education candidate teacher/intern to focus upon two overall issues pertaining to their specific needs: problems and resolutions particular and general to their teaching assignment and culminating portfolio development. ", 
+      "course name": "Final Student Teaching Seminar: Mild/Moderate", 
+      "units": "1 Unit", 
+      "id": "CSUS_EDSP 233", 
+      "prerequisite": [
+        "EDSP 232", 
+        "EDSP 472", 
+        "EDSP 473"
+      ]
+    }, 
+    {
+      "term": " May be repeated for up to 2 units of credit.  ", 
+      "description": "Designed to allow the ECSE teacher candidate to focus on two overall issues: Problems and resolutions particular and general to their teaching assignment, and the development and/or refining of a preliminary Level I Performance Portfolio. ", 
+      "course name": "Directed Fieldwork Seminar: Early Childhood Special Education", 
+      "units": "1 Unit", 
+      "id": "CSUS_EDSP 234", 
+      "prerequisite": [
+        "EDSP 474", 
+        "EDSP 475", 
+        "EDSP 476", 
+        "EDSP 477"
+      ]
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "This field seminar will provide group discussion as well as direct instructional guidance in classrooms and schools in which students in the Moderate/Severe Specialist Credential or Autism Spectrum Disorders Added Authorization (ASDAA) are conducting their assignments. ", 
+      "id": "CSUS_EDSP 235", 
+      "course name": "Field Seminar in Program and Instruction: Mod/Severe Disabilities"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This seminar accompanies the final Student Teaching II experience.  Students will meet for two hours, eight times, during the semester to discuss their experiences and problem solve any questions or challenges related to their Student Teaching II requirements.  Since this is the advanced experience, it is expected that the seminar will be primarily focused on professional issues related to the collaborative implementation of effective programs for students with moderate/severe disabilities.  At each meeting there will be topics for discussion generated by the professor, but also time for collaborative problem solving around specific students and program issues in the student teaching settings. ", 
+      "course name": "Student Teaching Seminar: Moderate/Severe Disabilities", 
+      "units": "1 Unit", 
+      "id": "CSUS_EDSP 236", 
+      "prerequisite": [
+        "EDSP 208", 
+        "EDSP 414", 
+        "EDSP 218", 
+        "EDSP 415", 
+        "EDSP 421"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Candidates will examine legal mandates specific to transition planning and implementation, and evaluate transitional life experiences for students with mild/moderate disabilities across the lifespan. Candidates will explore and implement social skills, and career and vocational program planning for secondary students with Mild/Moderate disabilities. Planning will include the student, community services, and other community resources such as parents and various professionals that will lead to increased student learning with career goals and objectives to support their transition to post-school settings.", 
+      "id": "CSUS_EDSP 237", 
+      "course name": "Transition Strategies for Students with Mild/Moderate Disabilities"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ") in inclusive setting for students with mild/moderate disabilities. ", 
+      "course name": "Transition Strategies for Students with Mild/Moderate Disabilities Lab", 
+      "units": "1 Unit", 
+      "id": "CSUS_EDSP 237B", 
+      "prerequisite": [
+        "EDSP 237", 
+        "EDSP 237"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Studies qualitative and quantitative methods in the development of reliable knowledge in the field of education.  Includes identification and formulation of research problems, research designs and presentation of reports representative of different research strategies. Classified students are encouraged to take this course early in their graduation programs. ", 
+      "id": "CSUS_EDSP 250", 
+      "course name": "Education Research"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Advanced study of social and psychological issues which need to be considered in education relating to the client, the educator, the community and society.  Addresses implications of theories of learning, assessment, individual differences and social/political influences. ", 
+      "id": "CSUS_EDSP 251", 
+      "course name": "Education in a Democratic, Pluralistic Society"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Concentrate on the assessment, characteristics, interventions and classroom strategies, which uniquely address the educational needs of students with emotional and behavioral disorders. Students will review current laws, policies and selected literature specific to students identified as EBD and their families. Strategies to create and promote collaborative partnerships with parents, mental health representatives and/or other service providers will be presented. ", 
+      "course name": "Education of Students with Emotional and Behavioral Disorders", 
+      "units": "2 Units", 
+      "id": "CSUS_EDSP 276A", 
+      "prerequisite": [
+        "EDSP 230", 
+        "EDSP 276B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ") in serving students with emotional and behavioral disorders. Students are required to participate in class visitations, agency visitations, and interviews. ", 
+      "course name": "Education of Students with Emotional and Behavioral Disorders - Lab", 
+      "units": "1 Unit", 
+      "id": "CSUS_EDSP 276B", 
+      "prerequisite": [
+        "EDSP 230", 
+        "EDSP 276A", 
+        "EDSP 276A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "Seminar to focus on topics/elements/expectations to be included in the culminating experiences (thesis, project, or comprehensive exam). Successful completion of the course requires completion of Chapters 1 and 2 of the thesis/project and the beginning of Chapter 3 for the MA thesis/project option or an exam petition to be approved by the departmental exam committee, including annotated bibliographies and position papers on the focal topics for the MA comprehensive exam option. ", 
+      "id": "CSUS_EDSP 290", 
+      "course name": "Seminar for Culminating Experiences"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Candidates will learn basic principles, strategies and procedures for teaching English Learners with disabilities. Compliance and legal issues related to English Learners identified with disabilities, including writing linguistically appropriate goals and objectives, and implementing culturally responsive strategies will be addressed. Systematic and explicit strategies for accommodating and modifying curricular materials for English Learners with disabilities in inclusive classrooms will be emphasized.", 
+      "id": "CSUS_EDSP 292", 
+      "course name": "Teaching English Learners with Disabilities"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ") in the implementation of culturally responsive, systematic and explicit strategies, and curricular material involved in teaching English Learners with disabilities in inclusive classrooms. ", 
+      "course name": "Teaching English Learners with Disabilities Lab", 
+      "units": "1 Unit", 
+      "id": "CSUS_EDSP 292B", 
+      "prerequisite": [
+        "EDSP 292", 
+        "EDSP 292"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines current issues in special education through review of selected journal articles, presentations by guest lecturers and class discussion. Students will be required to write a series of brief position papers in professional style on selected topics. ", 
+      "id": "CSUS_EDSP 297", 
+      "course name": "Current Issues in Special Education"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Students choosing Program A for the M.A. in Education, Special Education option must register for the seminar during their final semester of study, prior to attempting the written comprehensive examination. In the seminar, students will study problems and issues associated with specialty areas as well as with the field of special education as a whole. ", 
+      "course name": "Master's Seminar in Special Education", 
+      "units": "3 Units", 
+      "id": "CSUS_EDSP 298", 
+      "prerequisite": [
+        "EDSP 297", 
+        "EDSP 297"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " This course may be repeated for up to 9 units of credit. ", 
+      "description": "Individual projects for Special Education credential candidates at graduate/credential level especially for students capable of independent study. Admission by written approval of the instructor with whom the student will be working and the Department Chair. ", 
+      "id": "CSUS_EDSP 299", 
+      "course name": "Special Problems: Special Education"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Students will spend two days per week in a school where students with moderate/severe disabilities are included in general education classes and other school activities. They will be assigned both a general and special education cooperating teacher. These teachers will work with the University supervisor to make sure that the student is able to complete the assignments and required competencies. The University supervisor will observe and evaluate the practicum student at least four times during the semester. An evaluation will be completed at the end of the semester. ", 
+      "course name": "Field Experience I: Moderate/Severe Disabilities", 
+      "units": "3 Units", 
+      "id": "CSUS_EDSP 413", 
+      "prerequisite": [
+        "EDSP 235"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "The second phase of supervised field experience for specialist candidates in the Level I moderate/severe program or ASDAA program. Candidates spend 160-hours in a school setting with students who have moderate/severe disabilities. They will work directly with a qualified cooperating teacher and a University supervisor throughout a semester to complete assignments and required competencies. Assignment evaluation will be based on written and observational criteria. An evaluation will be completed at the midterm and at the end of the semester. ", 
+      "course name": "Field Experience II: Moderate/Severe", 
+      "units": "3 Units", 
+      "id": "CSUS_EDSP 414", 
+      "prerequisite": [
+        "EDSP 413"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "The culminating phase of field experience for specialist candidates in the Level I moderate/severe credential program. Candidates will spend 320-hours in a public school setting with students who have moderate/severe disabilities. They will work directly with a qualified mentor/cooperating teacher and a University supervisor throughout a semester to complete assignments and required competencies. Assignment evaluation will be based on written and observational criteria. An evaluation will be completed at the midterm and at the end of the semester. ", 
+      "course name": "Student Teaching: Moderate/Severe", 
+      "units": "5 Units", 
+      "id": "CSUS_EDSP 415", 
+      "prerequisite": [
+        "EDSP 414", 
+        "EDSP 236"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": " This is a full semester student teaching experience. ", 
+      "description": "Initial (Phase I) Multiple Subject credential student teaching, with integrated methods coursework, is a M-F, half-day fieldwork requirement. Effective Instruction and classroom management are the focus of the Initial Phase I student teaching experience. Candidates must meet the criteria for student teaching to be accepted to this course. ", 
+      "id": "CSUS_EDSP 420A", 
+      "course name": "Multiple Subject Field Experience"
+    }, 
+    {
+      "units": "5 Units", 
+      "term": " Approximately 300+ hours are required to meet competencies. ", 
+      "description": "Final semester of a Multiple Subject credential student teaching with integrated methods coursework requires M-F, full-day participation of the student. Emphasis on classroom teaching and further experience with community services. Candidates must meet the criteria for student teaching to be accepted to this course. ", 
+      "id": "CSUS_EDSP 420B", 
+      "course name": "Multiple Subject Student Teaching"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Intern teaching full day, M-F, for the semester in a host LEA/District providing services for students receiving moderate/severe special education services. Interns must meet CTC-mandated criteria and district must have an active Memorandum of Understanding with the university. Intern serves as a teacher of record and is employed by the district. Is supported by a university supervisor and an on-site mentor to make progress towards the program competencies and standards. An evaluation will be completed at the midpoint and end of the semester. ", 
+      "course name": "Intern Teaching: Moderate/Severe Disabilities", 
+      "units": "5 Units", 
+      "id": "CSUS_EDSP 421", 
+      "prerequisite": [
+        "EDSP 414", 
+        "EDSP 236"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": " Signature of credential candidates student's special education advisor is required on application for student teaching. ", 
+      "description": "Candidates will student teach half day/five days per week for the full semester in a setting that serves students with mild/moderate disabilities. Cooperating teachers will work with the University supervisor to support the candidate in completing required assignments and competencies. An evaluation will be completed at the mid point and end of the semester. ", 
+      "id": "CSUS_EDSP 471", 
+      "course name": "Initial Student Teaching: Mild/Moderate"
+    }, 
+    {
+      "term": " Signature of credential candidates' special education advisor is required on application for student teaching.  ", 
+      "description": "Student teaching full day, M-F, for the semester in a cooperating LEA District providing services for students receiving mild/moderate special education. Cooperating teachers work with the University supervisor to support the candidate in completing the required assignments and competencies. An evaluation will be completed at the mid point and end of the semester. Variable units depending on instructor recommendation and individualized student and program considerations. ", 
+      "course name": "Student Teaching: Mild/Moderate", 
+      "units": "5 Units", 
+      "id": "CSUS_EDSP 472", 
+      "prerequisite": [
+        "EDSP 471", 
+        "EDSP 233"
+      ]
+    }, 
+    {
+      "term": " Signature of credential candidates' special education advisor is required on application.  ", 
+      "description": "A credit/no credit directed internship in a district, county office of education or program serving students with mild/moderate disabilities. Candidates must meet the criteria for an internship to be accepted to this course. A University supervisor will support the candidate in completing all required competencies. An evaluation will be completed at mid point and end of the semester. ", 
+      "course name": "Intern Teaching: Mild/Moderate Disabilities", 
+      "units": "5 Units", 
+      "id": "CSUS_EDSP 473", 
+      "prerequisite": [
+        "EDSP 233"
+      ]
+    }, 
+    {
+      "term": "Fall, Summer", 
+      "description": "Directed field experience in a cooperating school district, county office of education or appropriate privately operated program providing early intervention services for infants and toddlers and their families. Candidates must secure faculty approval by prior application for directed field experience. ", 
+      "course name": "Directed Field Experience in ESCE: Infants/Toddlers", 
+      "units": "3 Units", 
+      "id": "CSUS_EDSP 474", 
+      "prerequisite": [
+        "EDSP 234"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Directed field experience in a cooperating school district or county office of education program providing special educational services for preschoolers and their families. Candidates must secure faculty approval by prior application for directed field experience. ", 
+      "id": "CSUS_EDSP 475", 
+      "course name": "Directed Field Experience in ECSE II: Preschool"
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": ". Ten units, approximately 320 field hours, are required to meet competencies. ", 
+      "course name": "Internship in ECSE: Infants & Toddlers", 
+      "units": "10 Units", 
+      "id": "CSUS_EDSP 476", 
+      "prerequisite": [
+        "EDSP 474", 
+        "EDSP 476"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". Ten units, approximately 320 field hours, are required to meet competencies. ", 
+      "course name": "Internship in ECSE: Preschool", 
+      "units": "10 Units", 
+      "id": "CSUS_EDSP 477", 
+      "prerequisite": [
+        "EDSP 234", 
+        "EDSP 475", 
+        "EDSP 477"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis approved for the Master's degree. ", 
+      "id": "CSUS_EDSP 500", 
+      "course name": "Master of Arts Thesis: Special Education"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a project that integrates research with development of a product related to instruction of persons with disabilities. ", 
+      "id": "CSUS_EDSP 501", 
+      "course name": "Master of Arts Project: Special Education"
+    }
+  ], 
+  "subjectOf": {
+    "id": "EDSP", 
+    "subject": "Education - Special Education"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Education - Special Education", 
+    "id": "CSUS"
+  }
+}

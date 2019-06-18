@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "term": "Fall, Spring", 
+      "description": "Second course in business statistics that focuses on the application of statistical methods to business problems. Emphases are placed on case studies, data analysis, model building techniques, statistical reasoning, and communications of statistical results. A statistical computer package will be used in the course. ", 
+      "course name": "Data Analysis for Managers", 
+      "units": "3 Units", 
+      "id": "CSUS_DS 101", 
+      "prerequisite": [
+        "MATH 24", 
+        "STAT 1"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Data analysis involving multivariate statistical methods, including ANOVA, MANOVA, multivariate and logistic regression, discriminant analysis, cluster analysis, principle components analysis, and factor analysis, and facilitated through statistical software.  Focus on problem solving in the business environment. ", 
+      "course name": "Multivariate Business Statistics", 
+      "units": "3 Units", 
+      "id": "CSUS_DS 133", 
+      "prerequisite": [
+        "DS 101"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "DS", 
+    "subject": "Decision Sciences"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Decision Sciences", 
+    "id": "CSUS"
+  }
+}

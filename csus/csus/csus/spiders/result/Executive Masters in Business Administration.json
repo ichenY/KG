@@ -1,0 +1,194 @@
+{
+  "courses": [
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Includes individual introductions, program overview (content and administrative policies and practices), overviews, critical thinking seminar, seminar on academic research methods and tools, introduction of on-line technologies for instructional-related activities, and team building activities. ", 
+      "id": "CSUS_EMBA 210", 
+      "course name": "EMBA Orientation"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Consistent emphasis on managerial accounting and reporting is cost identification, allocation and control.  Expands the traditional view of accounting to include an examination of the integration of the historic three tools with cost elements.  Expanded view would include environmental and political costs, compliance with multinational reporting standards, tax compliance and treaty cost. ", 
+      "course name": "Managerial Accounting for Executives", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 222", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Presents how business decisions are now made in an increasingly competitive and complex business environment.  The emphasis will be on how to better respond to this challenge by using quantitative methods to forecast, extrapolate, analyze, and simulate a business situation for effective decision-making.  Cases studies will be used to develop those capabilities. ", 
+      "course name": "Quantitative Methods for Decision Making", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 223", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provides students a well-rounded understanding of the language and financial expectations/performance of organizations.  Candidates will learn how to evaluate decisions from the perspective of shareholder and stakeholders.  With this perspective they will be better equipped to make better business decisions and also understand the financial impact of those decisions. ", 
+      "course name": "Managerial Finance for Executives", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 224", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Review the organization theory from a macro perspective (structure, process, technology, people, and culture).  Special attention will be paid to organization structure, human resources, design, control, culture and inter-organizational relationship. ", 
+      "course name": "Organizational Design and Management", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 225", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Covers the major challenges organizations deal with today as they attempt to manage their key technological resources as well as with implementing technological innovations.  Addresses the digital opportunities and threats organizations face from senior management perspectives. ", 
+      "course name": "Technology Management for Executives", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 226", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Presents how modern marketing principles can be applied to real-world situations.  The emphasis will be on studying strategies used by organizations in today's highly competitive and evolving marketplace.  Case studies will be utilized to fully develop techniques for creating marketing programs given varying levels of resources and information available under diverse market conditions. ", 
+      "course name": "Strategic Marketing Management", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 227", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Focuses on the competitive strategy of the firm and examines issues central to its long-term competitive position by utilizing the cutting-edge strategic approaches.  Develops frameworks that are useful in analyzing a firm's competitive environment and developing firm-specific capabilities that contribute to its competitive advantage.  Addresses the economic logic and administrative challenges associated with horizontal diversification, vertical integration and global expansion. ", 
+      "course name": "Strategic Analysis for Executives", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 228", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduce the concept of leadership in business organizations.  Key themes: leading teams and leading during times of change.  An integral part is to study current business leaders and analyze their leadership practices. ", 
+      "course name": "Leadership and Change Management", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 229", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "An organization's products and services are among the most important determinants of its ultimate survival and success since organizations rely on repeat business.  No organization can survive over the long term if its products and services do not serve the needs of its customers, whether they are external or internal to the entity.  Focuses on developing successful products and services as an on-going and iterative process.  It explores customer needs and expectations change, the dynamics of the marketplace make, and the need to continually refine and improve the product and service offerings.  Attention is given to how and when products must be modified over time to achieve their maximum potential, and eventually eliminated so resources can be directed to new products and services with greater long-term value. ", 
+      "course name": "Product and Brand Management", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 242", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Addresses sales contracts, employment law, alternative dispute resolution, intellectual property, and antitrust matters.  Covers the interaction between a client and an attorney, how to use and communicate with a lawyer, and how to make legal-executive decisions.  In all components, the course stresses ethical standards and the responsible roles of businesses in society. ", 
+      "course name": "Legal Issues in Business Environment", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 243", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduces models to evaluate uncertain project outcomes, financial methods to estimate the intrinsic worth of the firm, metrics to evaluate firm performance in terms of shareholder value created, tools to analyze shareholder wealth consequences of corporate restructuring activities, and discusses the ethical implications of corporate restructuring activities.  An additional dimension of metrics will include human based metrics such as performance reviews and human development. ", 
+      "course name": "Corporate Performance Measurements", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 244", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Presents the principles of effective international management in a complex global environment of interactive socio-cultural, economic, and political forces.  Covers competitive strategies in the rapidly growing globalization and addresses what today's networked economy offers. ", 
+      "id": "CSUS_EMBA 245", 
+      "course name": "Competing in the Global Marketplace"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provides students with a strong theoretical foundation and a set of practical tools for the management of creativity and innovation.  It will help students understand the innovation process and rethink an organization's human resources strategy and transform it into system that will promote growth and effectiveness at all levels of the organization.  Provides a framework for a learning organization to recognize failures, disruptive technologies, and strategies to overcome them. ", 
+      "course name": "Managing Creativity and Innovation", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 246", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides a framework for analyzing and identifying key management issues as well as developing plans for action.  Focuses on identifying what managers do, what distinguishes effective management, how managers make decisions, and what makes a company excellent. ", 
+      "id": "CSUS_EMBA 247", 
+      "course name": "Executive Decision Making"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Covers the knowledge and skills as well as the principles and practices required to organize, plan and control projects of all sizes. Topics covered: a review of project characteristics and vulnerabilities, development of managerial philosophy and execution objectives, organization structure and interfaces, and management and control techniques. ", 
+      "course name": "Project Management for Executives", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 248", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Managing public sector organizations requires unique skill sets.  Governmental entities serve multiple constituencies, some of which may have differing and competing objectives and needs.  Their customers include those who utilize the entity's products and services, taxpayers who fund the organization, publicly elected officials who set new directions with every change in administration, oversight groups which monitor governmental activities, and the ever-watchful media.  Accordingly, managers in the public sector need to function effectively in highly volatile and political environments.  Traditional and innovative management practices have to be tempered by political realities and the public's emphasis on service with accountability.  Managers have to perform their traditional roles while also being public relations specialists in dealing with the various constituencies of the public sector entity. ", 
+      "course name": "Management in the Public Sector", 
+      "units": "3 Units", 
+      "id": "CSUS_EMBA 249", 
+      "prerequisite": [
+        "EMBA 210"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_EMBA 260", 
+      "course name": "EMBA Individual Project"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit ", 
+      "description": "When a sufficient number of qualified students apply, a faculty member may conduct a seminar on a designated advanced topic in executive management. ", 
+      "id": "CSUS_EMBA 296", 
+      "course name": "Experimental Offerings in Executive Management"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Enrollment requires approval of faculty member supervising work in addition to the approval of the Associate Dean for Graduate and External Programs. Petitions to be obtained from the Graduate Business Advising Center (GBAC).  ", 
+      "description": "Individual projects or directed reading with examination for students qualified to carry on independent work. ", 
+      "id": "CSUS_EMBA 299", 
+      "course name": "Special Problems in Executive Management"
+    }
+  ], 
+  "subjectOf": {
+    "id": "EMBA", 
+    "subject": "Executive Masters in Business Administration"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Executive Masters in Business Administration", 
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "courses": [
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Focuses on the development of elementary linguistic skills, with emphasis on the spoken language. The relationship of the language to French civilization and culture is given special attention.", 
+      "id": "CSUS_FREN 1A", 
+      "course name": "Elementary French"
+    }, 
+    {
+      "term": " Meets the Foreign Language Graduation Proficiency Requirement.  ", 
+      "description": ", with emphasis on reading, writing, listening and speaking. French culture and its relationship to language is given continued attention. ", 
+      "course name": "Elementary French", 
+      "units": "4 Units", 
+      "id": "CSUS_FREN 1B", 
+      "prerequisite": [
+        "FREN 1A", 
+        "FREN 1A"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": " Meets the Foreign Language Graduation Proficiency Requirement.  ", 
+      "description": "Emphasis on speaking, reading and writing ability. Dialogues, discussions and compositions in French. ", 
+      "id": "CSUS_FREN 2A", 
+      "course name": "Intermediate French"
+    }, 
+    {
+      "term": " Meets the Foreign Language Graduation Proficiency Requirement.  ", 
+      "description": ". ", 
+      "course name": "Intermediate French", 
+      "units": "4 Units", 
+      "id": "CSUS_FREN 2B", 
+      "prerequisite": [
+        "FREN 2A", 
+        "FREN 2A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Review and practice all the main phonetic features of the spoken French language. Complete familiarization with the international phonetic alphabet. Practice in written transcription and oral pronunciation of all vowel and consonant sounds in French. Review and practice characteristics of diction, articulation, intonation, the musical movement of the sentence and rhythm. Orthographic problems and the phenomena of spelling and pronunciation are integrated with all written and oral exercises. Elimination of specific pronunciation problems for English speakers (r/l, mute, e, nasals, final consonants, etc.). ", 
+      "id": "CSUS_FREN 100", 
+      "course name": "Phonetics and Pronunciation"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Review of general principles of French grammar and its application in oral and written exercises. Presentation and application of complex structures. Conducted in French. ", 
+      "course name": "Advanced Grammar", 
+      "units": "3 Units", 
+      "id": "CSUS_FREN 101", 
+      "prerequisite": [
+        "FREN 2B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Mastery of spoken French language through discussion of personal readings to develop vocabulary and syntactical skills. Conducted in French. May be taken for credit twice. ", 
+      "id": "CSUS_FREN 102", 
+      "course name": "Advanced Conversation"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Special attention to help students learn the dynamics of good writing, become sensitive to style and develop ability to express their thoughts coherently, in essentially correct and well structured French prose.  Conducted in French. ", 
+      "course name": "Advanced Composition", 
+      "units": "3 Units", 
+      "id": "CSUS_FREN 103", 
+      "prerequisite": [
+        "FREN 101"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Development of translating techniques applicable to texts in areas such as literature, sciences, journalism, history, art. Review and comparative study of French and English grammars and styles.  Conducted in French. ", 
+      "id": "CSUS_FREN 104A", 
+      "course name": "French Translation (French-English)"
+    }, 
+    {
+      "term": " Meets the Foreign Language Graduation Proficiency Requirement.  ", 
+      "description": "Development of translating techniques from English to French applicable to texts in such areas as business, culture and/or literature. Continued comparative study of French and English grammars and styles. Conducted in French. ", 
+      "course name": "French Translation (English-French)", 
+      "units": "3 Units", 
+      "id": "CSUS_FREN 104B", 
+      "prerequisite": [
+        "FREN 101"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to create awareness of linguistic and crosscultural differences affecting effective communication between American and Francophone speakers in the world of business, and to provide added confidence in transactions and negotiations. Explores how to do business in France, how different business structures work and interact, and how to participate in everyday business activities. Particularly helpful to International Business students to enhance understanding of Francophone and European markets and to develop business oriented French language skills. Prepares student to obtain two different Business French Certificates offered by the Chamber of Commerce and Industries of Paris and the French Ministry of Education.  Conducted in French. ", 
+      "id": "CSUS_FREN 107", 
+      "course name": "Business French"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Practice with French conversation, reading, and vocabulary development; supervised individual and small-group instruction designed to develop French vocabulary, including the conversation, listening and reading skills necessary for advanced study in French.  May be taken for credit three times. ", 
+      "course name": "French Language Practice", 
+      "units": "3 Units", 
+      "id": "CSUS_FREN 109", 
+      "prerequisite": [
+        "FREN 2B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "An introduction to French literature through texts of varied length from different time periods and genres with a focus on the use of language. Conducted in French. ", 
+      "course name": "Survey of French Literature", 
+      "units": "3 Units", 
+      "id": "CSUS_FREN 110", 
+      "prerequisite": [
+        "FREN 101", 
+        "FREN 103", 
+        "FREN 109"
+      ]
+    }, 
+    {
+      "term": " Meets the Foreign Language Graduation Proficiency Requirement.  ", 
+      "description": "Study of literary texts by Francophone writers with an emphasis placed on textual  analysis and the relationship between text and context.  Conducted in French.  ", 
+      "course name": "Topics in Francophone Literature", 
+      "units": "3 Units", 
+      "id": "CSUS_FREN 111", 
+      "prerequisite": [
+        "FREN 110"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open to non-majors. Course taught in English. ", 
+      "description": "Presentation of formative cultural achievements of the French world from its origins to the present, i.e., the origin of the French language. Contributions to European Renaissance, Baroque and Classicism, the Revolutionary and Romantic eras, and modern western culture. ", 
+      "id": "CSUS_FREN 120", 
+      "course name": "French Civilization"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Upper division status required. ", 
+      "description": "Development and significance of francophone culture in North America, notably Quebec, French Canada and Louisiana, are explored through historical events, social changes and artistic achievements. Introduces major cultural trends and traditions from the 17th century to the present through non-fiction, literary works and audio-visual presentations in art and music. French majors and minors are required to do all reading, research and papers in French. ", 
+      "id": "CSUS_FREN 125", 
+      "course name": "Quebec and French North America"
+    }, 
+    {
+      "term": " Open to non-majors.  ", 
+      "description": "Study of the profound influence of culture wars through the interpretation of major French writers, philosophers and scientists ranging from the Middle Ages to the 18th century.  All readings and lectures in English. ", 
+      "course name": "Culture Wars: From Knighthood to Revolution", 
+      "units": "3 Units", 
+      "id": "CSUS_FREN 130", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Seminar in French will be offered as needed. ", 
+      "course name": "Seminar Conducted in French", 
+      "units": "3 Units", 
+      "id": "CSUS_FREN 170", 
+      "prerequisite": [
+        "FREN 110"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Directed fieldwork in a project which uses language skills developed through previous study of French. Projects may include interpreting and translating for public and/or private agencies in Sacramento or other projects approved by the faculty supervisor. All work will be monitored by Sacramento State faculty. The student must submit written reports to his/her supervisor. May be taken more than once for credit. Does not apply to major. ", 
+      "id": "CSUS_FREN 194", 
+      "course name": "Field Experience/Internship"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Tutoring of lower division French students under supervision of an instructor. Three hours of tutoring per week for each unit. Does not apply to major. ", 
+      "id": "CSUS_FREN 195", 
+      "course name": "Fieldwork - Tutoring"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Special courses will be scheduled as needed.", 
+      "id": "CSUS_FREN 196", 
+      "course name": "Experimental Offerings in French"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Departmental petition required. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_FREN 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit if subject matter is not repeated. ", 
+      "description": "Studies of authors, periods, movements, genres, criticism or literary history. ", 
+      "id": "CSUS_FREN 210", 
+      "course name": "Studies in French Literature"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit three times if subject matter is not repeated. ", 
+      "description": "Studies in French language and linguistics problems, e.g., history of the language, semiotics, stylistics, translating, interpreting and oral expression. ", 
+      "id": "CSUS_FREN 220", 
+      "course name": "Studies in French Civilization"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit if subject matter is not repeated. ", 
+      "description": "Studies in French language and linguistics problems, e.g., history of the language, semiotics, stylistics, translating, interpreting and oral expression. ", 
+      "id": "CSUS_FREN 230", 
+      "course name": "Studies in the French Language"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Departmental petition required. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_FREN 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "1 - 4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis, project or comprehensive examination. ", 
+      "id": "CSUS_FREN 500", 
+      "course name": "Culminating Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "FREN", 
+    "subject": "French"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "French", 
+    "id": "CSUS"
+  }
+}

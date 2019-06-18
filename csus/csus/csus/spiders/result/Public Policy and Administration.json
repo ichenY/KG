@@ -1,0 +1,240 @@
+{
+  "courses": [
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Explores context and process for policy making by national and California state governments, including ethical dimensions. Applications are developed from students' and instructor's areas of interest including K-12 and higher education, land-use policy, and aging issues such as elder advocacy, Social Security, and Medicaid. Provides background and skills for entry level positions in public or non-profit organizations. ", 
+      "course name": "Introduction to Public Policy and Administration", 
+      "units": "3 Units", 
+      "id": "CSUS_PPA 100", 
+      "prerequisite": [
+        "GERO 102"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Satisfies the Graduate Writing Intensive Requirement (GWI). ", 
+      "description": "Examines public policy and administration by exploring major policy processes, particularly in California state and local government. Topics include the emergence and specification of issues, developing and selecting policy options, implementing and administering policies and evaluating and terminating public policies. The course approach is comprehensive, transdisciplinary and human centered -- concerned with the interplay of values in shaping policy outcomes. The intent is to provide conceptual frameworks and operational principles required in identifying and resolving issues emerging in public settings. ", 
+      "id": "CSUS_PPA 200", 
+      "course name": "Introduction to Public Policy and Administration."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Emphasizes fundamental research and management skills necessary in generating accurate and useful decision-related information for policy makers.  Topics include conceptualizing and structuring research questions, collecting valid and relevant data and interpreting and presenting results.  The course approach is pragmatic, transdisciplinary, and oriented to producers and users of policy research information.  The intent is to enhance research skills in analyzing and resolving policy issues.", 
+      "id": "CSUS_PPA 205", 
+      "course name": "Research in Public Policy and Administration"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of quantitative methods as applied in public policy analysis. Concentrates on interpreting the results of econometric, statistical, and other public policy studies, and on determining the relevance and applicability of quantitative analysis with the larger scheme of public policy decision making. ", 
+      "course name": "Quantitative Methods in Public Policy and Administration", 
+      "units": "3 Units", 
+      "id": "CSUS_PPA 207", 
+      "prerequisite": [
+        "ECON 1B", 
+        "PPA 205"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Assists students in learning to identify the political factors impinging on the policy process and in learning to cope with them. With special emphasis on the California political environment and issues,  employs case studies, structured role-playing, and including politically feasible policy alternatives and advice to hypothetical clients. The goal is to equip students to work effectively as politically aware policy analysts. ", 
+      "course name": "Political Environment of Policy Making", 
+      "units": "3 Units", 
+      "id": "CSUS_PPA 210", 
+      "prerequisite": [
+        "PPA 200"
+      ]
+    }, 
+    {
+      "term": " Graduate Writing Intensive Course.  ", 
+      "description": "Presents the basic concepts, tools, and models of microeconomics in the context of public sector choices. The standard market demand and supply model is developed and used to analyze the effect of public policies (particularly those of California state and local governments) on consumers and businesses. The principles of welfare economics are presented and used to evaluate economic performance. ", 
+      "course name": "Applied Economic Analysis I.", 
+      "units": "3 Units", 
+      "id": "CSUS_PPA 220A", 
+      "prerequisite": [
+        "ECON 1B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " which focuses specifically on the role of government in a market-oriented economy with emphasis on market failures including: public goods, externalities, and monopoly. Corrective taxes and expenditure programs are discussed, and the technique of cost-benefit analysis is developed and applied to various state and local government projects. ", 
+      "course name": "Applied Economic Analysis II", 
+      "units": "3 Units", 
+      "id": "CSUS_PPA 220B", 
+      "prerequisite": [
+        "PPA 220A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Enables students to understand, analyze, and evaluate the governmental budget process including revenue and expenditure patterns. The primary emphasis is on California state and local governments. The federal budget process is discussed primarily to reflect the impact that it has on state and local governments. Features both theoretical and practical approaches to budgets, including alternate budget formats. Various perspectives are utilized to explore the political, economic, and policy concerns inherent in the development and implementation of public sector budgets.", 
+      "id": "CSUS_PPA 230", 
+      "course name": "Public Budgeting and Finance"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines concepts and approaches used in analyzing and understanding complex organizations.  Organizational theory, management concepts, and behavioral analysis is employed to understand the dynamics and evolution of public sector organizations.  Emphasis is placed on applying classic organizational theory and introductory leadership skills and issues. ", 
+      "id": "CSUS_PPA 240A", 
+      "course name": "Public Management and Administration I"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ".  Examines concepts and approaches used in analyzing and understanding complex organizations.  Emphasis is placed on ability to intervene and assist public agencies by designing intervention plans, engaging in strategic planning, promoting interdepartmental effectiveness, using advanced leadership issues and techniques, and using advanced organizational development strategies. ", 
+      "course name": "Public Management and Administration II", 
+      "units": "3 Units", 
+      "id": "CSUS_PPA 240B", 
+      "prerequisite": [
+        "PPA 240A", 
+        "PPA 240A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines public policies that influence land use. Reviews tools of land use planning and development and applies them to issues that dominate California policy choices including urban design, fiscalization of land use, sustained growth, and the challenges of social equity.", 
+      "id": "CSUS_PPA 250", 
+      "course name": "California Land Use Policy"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Historical development, economics and possible policy solutions of the most pressing problems facing central cities and urban areas in the U.S. are presented. Problems discussed include poverty, crime, urban abandonment/suburban sprawl, edge cities, deteriorating infrastructures, and fiscal stress.  ", 
+      "course name": "Urban Problems, Economics and Public Policy", 
+      "units": "3 Units", 
+      "id": "CSUS_PPA 251", 
+      "prerequisite": [
+        "ECON 100B", 
+        "ECON 251", 
+        "ECON 251"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the theory and practice of collaborative policy-making using case studies of major collaborative processes.  Topics include interpretative policy analysis, deliberative democracy theory, public participation, collaborative policy networks, the use of dialogue in public policy, resolution of policy controversies, and consensus building. ", 
+      "course name": "Introduction to Collaborative Policy Making", 
+      "units": "3 Units", 
+      "id": "CSUS_PPA 270", 
+      "prerequisite": [
+        "PPA 200", 
+        "PPA 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Practice driven, highly participatory course for professionals who require more advanced skills into collaborative methods.  Topics include conflict analysis and assessment, analysis of advocacy speech, public participation, working with the media, and interagency networks.  Focuses on active learning with practice in a wide variety of collaborative skills. ", 
+      "course name": "Collaborative Governance Advanced Practice", 
+      "units": "3 Units", 
+      "id": "CSUS_PPA 272", 
+      "prerequisite": [
+        "PPA 270"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Cross Listed: GOVT 284; only one may be counted for credit.", 
+      "description": "Exploration in-depth of the socio-economic problems of urban and metropolitan areas and evaluation of proposed political and governmental solutions. ", 
+      "id": "CSUS_PPA 284", 
+      "course name": "Urban Policy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Studies the state judiciary as both independent and interdependent with the legislative and executive branches of government at both the state and local level. The goal is to develop foundational knowledge of the historical and evolving governing and operational principles of the California court system.", 
+      "id": "CSUS_PPA 291", 
+      "course name": "Court Governance and Operations"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provides training in key court administrative areas identified by such organizations as the National Association of Court Management (e.g., case flow management). Drawing from interdisciplinary literature on management theory, court case studies illustrate and provide context. ", 
+      "course name": "Court Management", 
+      "units": "3 Units", 
+      "id": "CSUS_PPA 292", 
+      "prerequisite": [
+        "PPA 291"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines leadership in the court environment as distinct from management. Investigates how leadership principles are exercised in pivotal areas of the courts such as: community relations, creativity and innovation, organizational change, workforce development, succession planning, strategic planning and re-engineering.", 
+      "id": "CSUS_PPA 293", 
+      "course name": "Court Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Addresses pressing issues in judicial administration (e.g., courts in an electronic world, rising administrative workloads, greater number of self-represented litigants). Specific topics may change from year to year depending on the urgency of topics and nature of policy implications.", 
+      "id": "CSUS_PPA 294", 
+      "course name": "Emerging Issues in Judicial Administration"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Supervised work experience in a government or related organization. ", 
+      "course name": "Internship in Public Policy and Administration", 
+      "units": "3 - 6 Units", 
+      "id": "CSUS_PPA 295", 
+      "prerequisite": [
+        "PPA 200"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A review of the origins of federalism in the U.S. and various theoretical approaches to understanding the relationships between various levels of government, including ways in which the different levels of government relate to one another both vertically and horizontally.", 
+      "id": "CSUS_PPA 296E", 
+      "course name": "Intergovernmental Relations"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open only to students admitted to the Executive Fellowship Program. ", 
+      "description": "Seminar will enhance Executive Fellows' understanding of the state policy making and administrative process, policy implementation, ethical responsibilities of policy and administrative actors. ", 
+      "id": "CSUS_PPA 297A", 
+      "course name": "Executive Fellows Introductory Seminar"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open only to students admitted to the Executive Fellowship Program.  ", 
+      "description": "Seminar will extend the examination and analysis of the Executive branch of government to include alternative administrative practices, policy implementation strategies, and related administrative issues. ", 
+      "id": "CSUS_PPA 297B", 
+      "course name": "Executive Fellows Policy Seminar"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open only to students admitted to the Judicial Administration Fellows Program. ", 
+      "description": "Critical examination and analysis of the administrative operation of the California judicial system and its structures, policies and practices. ", 
+      "id": "CSUS_PPA 298A", 
+      "course name": "Judicial Administration Fellows Introductory Seminar"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open only to students admitted to the Judicial Administration Fellows Program. ", 
+      "description": "Analyzes procedural issues and policy questions within the California judicial system with emphasis on the interdependence of the judicial, legislative and executive branches. ", 
+      "id": "CSUS_PPA 298B", 
+      "course name": "Judicial Administration Fellows Policy Seminar"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Supervised independent study in public policy and administration. ", 
+      "id": "CSUS_PPA 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis or project approved for the Master's degree. ", 
+      "id": "CSUS_PPA 500", 
+      "course name": "Culminating Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "PPA", 
+    "subject": "Public Policy and Administration"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Public Policy and Administration", 
+    "id": "CSUS"
+  }
+}

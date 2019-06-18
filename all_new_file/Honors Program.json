@@ -1,0 +1,102 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to comparative ideas of education and self-development. In writings from around the world, examines works on education, autobiographical accounts, and short stories to explore concepts of teaching, learning, human growth and development, and the role of the school and university in the realization of human potential. ",
+      "id": "CSUS_HONR 1",
+      "course name": "First Year Seminar: Education, Self-Examination, and Living"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students read, discuss, and explore some of the most influential works of literature, philosophy, history, and religion from cultures around the world prior to the 15th century. Students will gain knowledge of different cultural traditions, explore ways to criticize and to learn from different genres of literature, examine their own concepts and ideas, and practice skills of critical thinking in dialogue with challenging works. Readings will be drawn from a broad array of sources, including Greek, Chinese, and Indian traditions, different religious faiths, and works of literature representing a variety of outlooks and views. ",
+      "course name": "Great Books and World Civilization I",
+      "units": "3 Units",
+      "id": "CSUS_HONR 2",
+      "prerequisite": [
+        "HONR 1"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students read, discuss, and explore some of the most influential works of literature, philosophy, history, and religion from cultures around the world from the 15th century to the present. Students will gain knowledge of different cultural traditions, explore ways to criticize and to learn from different genres of literature, examine their own concepts and ideas, and practice skills of critical thinking in dialogue with challenging works. Readings will be drawn from a broad array of sources, including Greek, Chinese, and Indian traditions, different religious faiths, and works of literature representing a variety of outlooks and views. ",
+      "course name": "Great Books and World Civilization II",
+      "units": "3 Units",
+      "id": "CSUS_HONR 3",
+      "prerequisite": [
+        "HONR 2"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course examines how scientists employ information derived through the scientific method and statistical analyses to form conclusions. The methodology of science is applied to public policy debates relating to climate change, the use of DNA, Creationist/evolutionist issues, water conservation, land use zoning, energy, mineral resources, and other topics.",
+      "id": "CSUS_HONR 101",
+      "course name": "Science and the Public Good"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "This course explores the role of the visual and performing arts as a catalyzing and infinitely variable means of pursuing the public good. Students will engage with the artistic process as well as learn how works of art have successfully challenged ideological conventions and helped change social and political systems. Strategies of making art will be examined in the form of specific visual and performativity methodologies, the context of the artist, and the public perception of various art forms. ",
+      "course name": "The Public Good Through the Visual and Performing Arts.",
+      "units": "3 Units",
+      "id": "CSUS_HONR 102",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " An international experience can be substituted for a local service learning experience. See Honors Program Director for more information.  ",
+      "description": "Students to be an active participant in his/her own learning process through a service learning experience and participation in a corresponding seminar. Students are offered a reciprocal opportunity to acquire knowledge and develop skills while providing service and assistance to the community. Students will have the opportunity to assess the circumstances of an organization and provide feedback on their situation. The student will evaluate and assess his/her service learning from three perspectives: the physical universe and its life forms, social issues and social science research, and the arts. ",
+      "id": "CSUS_HONR 103",
+      "course name": "Civic Engagement, Service Learning: Pursuing the Public Good"
+    },
+    {
+      "units": "3 Units",
+      "description": "Seminar dedicated to exploring the One World theme for the university. Topic changes annually.  ",
+      "id": "CSUS_HONR 120",
+      "course name": "Honors One World Seminar"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Seminar dedicated to exploring the principles of effective leadership.  ",
+      "id": "CSUS_HONR 150",
+      "course name": "Leadership Seminar"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised service-learning experience with a community partner. This experience focuses on application of the interdisciplinary approach of the General Education Honors Program while affording students direct, hands-on experiences. ",
+      "id": "CSUS_HONR 195",
+      "course name": "Community Fieldwork and Internship"
+    },
+    {
+      "units": "3 Units",
+      "description": "Honors research seminar in which students will complete a research paper in the discipline of their choice based on original research. Recommended for the student's final semester of study.  ",
+      "id": "CSUS_HONR 196",
+      "course name": "Honors Senior Thesis"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Open to students enrolled in the General Education Honors Program. Individual projects and directed reading for students who are competent to assume independent work. Requires approval of the Honors Program Director and Honors faculty member under whom the independent work is to be conducted.",
+      "id": "CSUS_HONR 199",
+      "course name": "Special Problems"
+    }
+  ],
+  "subjectOf": {
+    "id": "HONR",
+    "subject": "Honors Program"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Honors Program",
+    "id": "CSUS"
+  }
+}

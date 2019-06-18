@@ -1,0 +1,289 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": " This course is required by the California Department of Real Estate prior to taking the real estate salesperson's examination. ",
+      "description": "Examination of real estate principles and practices necessary for the acquisition, financing, management, and disposition of real estate. Incidents of ownership, the brokerage business, state regulation and transactional ethics are emphasized. ",
+      "id": "CSUS_FIN 19",
+      "course name": "Real Estate Principles"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of principles of finance and their application to typical financial problems of business enterprises. Special emphasis on financial analysis, management of working capital, cost of capital, capital budgeting, long-term financing, dividend policy, and internal financing.",
+      "id": "CSUS_FIN 101",
+      "course name": "Business Finance"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Trends in the development of financial policy are analyzed and reports on specific aspects are presented in class. The student is placed in the position of the financial manager who must make decisions and implement them. ",
+      "course name": "Financial Management",
+      "units": "3 Units",
+      "id": "CSUS_FIN 134",
+      "prerequisite": [
+        "FIN 101"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Significant characteristics of numerous types of investments; securities markets and financial institutions; principles of investment analysis; investment management. ",
+      "course name": "Investments",
+      "units": "3 Units",
+      "id": "CSUS_FIN 135",
+      "prerequisite": [
+        "FIN 101"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Asset management utilizing the major aspects of modern portfolio theory, portfolio construction and selection, portfolio performance evaluation, capital asset pricing models, and recent theoretical developments in asset pricing behavior. ",
+      "course name": "Modern Portfolio Management",
+      "units": "3 Units",
+      "id": "CSUS_FIN 136",
+      "prerequisite": [
+        "FIN 101"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Designed to broaden understanding of the financial system to include the network of institutions which bring into existence the increasingly important substitutes for money in the traditional sense. Emphasis is given to flow of funds analysis within the context of emerging financial theories. ",
+      "course name": "Financial Institutions and Markets",
+      "units": "3 Units",
+      "id": "CSUS_FIN 137",
+      "prerequisite": [
+        "FIN 101"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the concept of pure risk and its implications for decision making. Provides business students the basics of risk theory and its application to risk management or insurance purchasing using a personal consumer's viewpoint. Practical personalized examples and cases will be used to illustrate risk decision making, primarily on a personal basis, but also in selected business decisions. Topics include risk theory, social insurance, life insurance, pensions, medical coverage, workers' compensation, property insurances, and liability insurances. Ideal as a supplement to any business major, especially those making risk management or insuring decisions, including insurance company personnel, investment counselors, financial managers, real estate majors, employee benefits/personnel specialists, pre-law, and Occupational Health & Safety. ",
+      "id": "CSUS_FIN 138",
+      "course name": "Principles of Risk Management and Insurance"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": " substitutes for the one-year experience requirement for those interested in taking the Insurance Broker's Licensing Exam. ",
+      "course name": "Business Property and Liability Insurance",
+      "units": "3 Units",
+      "id": "CSUS_FIN 139",
+      "prerequisite": [
+        "FIN 138",
+        "FIN 138",
+        "139"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Intensive and analytical examination of the employee benefit planning environment and its risk exposures. Using a risk management approach, the topical areas studied include mandatory programs, especially OASDHI and ERISA; health care; group life and disability; retirement income and capital accumulation plans; paid time off; family-centered benefits; flexible benefits and cafeteria plans; and benefit cost information. Case studies and extensive contact with the business community as well as team projects are required. This is an important class for specialists in human resources management, especially personnel, pre-law, and health care or those who will be providing insurance products to fulfill employment benefit needs. ",
+      "course name": "Employee Benefits",
+      "units": "3 Units",
+      "id": "CSUS_FIN 140",
+      "prerequisite": [
+        "FIN 138"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of the decision making process in land utilization transactions relative to the minimization of risks of legal confrontation. Traditional conflicts underlying real estate transactions are examined and principles of preventive law are derived. The management of litigation and transaction attorneys is considered. Court remedies that are pertinent to land utilization transactions are analyzed and compared to nonjudicial alternatives. ",
+      "course name": "Managerial Real Estate Law",
+      "units": "3 Units",
+      "id": "CSUS_FIN 141",
+      "prerequisite": [
+        "FIN 19"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of the mechanisms of real estate finance, sources of funds, loan contracts, principles of mortgage risk analysis, and the role of group equity investment. The evolution of secondary mortgage markets, government policy, and market interference will be investigated from a risk management standpoint. ",
+      "course name": "Real Estate Finance",
+      "units": "3 Units",
+      "id": "CSUS_FIN 142",
+      "prerequisite": [
+        "FIN 19",
+        "ACCY 121",
+        "FIN 101",
+        "ENGR 140"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Analyzes non-financial and financial factors influencing investment decision making in income producing property. Topics include: location and its linkages; methods of estimating demand for real estate; methods for evaluating competing supply; use of market analysis in decision making; development of cash flow statements, alternative investment criteria, risk, legal, financing, and tax analysis, operating, financing investment and reversion decisions. ",
+      "course name": "Real Estate Investment",
+      "units": "3 Units",
+      "id": "CSUS_FIN 143",
+      "prerequisite": [
+        "FIN 19",
+        "ACCY 121",
+        "FIN 101",
+        "ENGR 140"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines contemporary and emerging issues in land use regulation, market analysis, mortgage markets, property markets, real estate cycles, real estate development, real estate finance and investments, real estate securities, real estate portfolio management, and/or real estate taxation. ",
+      "id": "CSUS_FIN 149",
+      "course name": "Current Topics in Real Estate"
+    },
+    {
+      "term": "Spring only",
+      "description": "This course will engage the student in critical thinking and decision-making about personal financial management topics in the context of the financial planning process. The purpose of this course is to refine and develop skills needed for personal financial planners when working with individuals, families, and business owners in meeting financial needs and objectives. ",
+      "course name": "Capstone in Professional Financial Planning",
+      "units": "3 Units",
+      "id": "CSUS_FIN 150",
+      "prerequisite": [
+        "ACCY 171",
+        "FIN 135",
+        "FIN 136",
+        "FIN 138",
+        "FIN 140",
+        "FIN 136",
+        "FIN 140"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Principles of international financial management. Issues covered include the international environment of financial management, uses of foreign exchange spot, forward, futures, options, and swap markets, foreign exchange risk management, international investment and financing decisions. ",
+      "course name": "Multinational Business Finance",
+      "units": "3 Units",
+      "id": "CSUS_FIN 190",
+      "prerequisite": [
+        "FIN 101"
+      ]
+    },
+    {
+      "term": " Open to all upper division students subject to permission. Petitions can be obtained from the Student Affairs Office, Tahoe 2065.  ",
+      "description": "In-depth supervised work experience in Real Estate and Land Use Affairs. This supervised work experience allows the student to become familiar with the practices of the real estate industry and/or governmental agencies. ",
+      "course name": "Cooperative Education Experiences in Real Estate",
+      "units": "6 - 12 Units",
+      "id": "CSUS_FIN 194",
+      "prerequisite": [
+        "FIN 19",
+        "FIN 142"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Open to upper division students, subject to permission of the Finance Area.  Petitions can be obtained from the Student Affairs Office, Tahoe 2065.  Open to declared business administration majors only.  ",
+      "description": "Supervised work experience in business, governmental or service agencies for the purpose of increasing student understanding of the nature and scope of their operations.  Supervision is provided by the faculty and the cooperating agencies. ",
+      "id": "CSUS_FIN 195",
+      "course name": "Internship In Finance"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised work experience in business, governmental or service agencies for the purpose of increasing student understanding of the nature and scope of their operations. Supervision is provided by the faculty and the cooperating agencies. Open to upper division students, subject to permission. Petitions can be obtained from the Student Affairs Office, Tahoe 2065. ",
+      "course name": "Internship in Real Estate and Land Use Affairs",
+      "units": "3 - 6 Units",
+      "id": "CSUS_FIN 195A",
+      "prerequisite": [
+        "FIN 19",
+        "FIN 142"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Admission requires approval of the instructor and the Associate Dean. Petitions can be obtained from the Undergraduate Business Advising Center, Tahoe 1030. ",
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. ",
+      "id": "CSUS_FIN 199",
+      "course name": "Special Problems in Finance"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Designed for business students with prior knowledge of accounting who intend to use corporate financial statements intensively in valuation, credit or equity analysis, or strategic competitor analysis. Topics include inventory, pensions, business combination, income tax and other current issues for their impacts on financial statement. Emphasis on financial statement analysis and interpretation of financial disclosures for improving risk assessment, forecasting, and decision-making.",
+      "id": "CSUS_FIN 200",
+      "course name": "Financial Reporting and Analysis"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Develop an understanding of the theory and practice of the management of financial institutions. Emphasis is placed on risk measurement and management. Financial institutions include commercial banks, investment banks, savings banks, credit unions insurance companies and financial companies such as mutual funds.",
+      "id": "CSUS_FIN 210",
+      "course name": "Financial Institution Management"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Investigate the principles that corporations use in their investing, financing, and day-to-day management decisions. Topics include financial statement analysis, capital investment decision, capital structure, dividend policy, mergers and acquisitions, corporate governance and its impact on valuation.",
+      "id": "CSUS_FIN 220",
+      "course name": "Corporate Finance"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Covers advanced concepts and techniques essential to asset valuation. Key topics include, but not limited to, free cash flow, price multiples, asset-based and contingent claim valuations. Applications of various valuation techniques are emphasized. Provides a framework for selecting the most appropriate model for specific circumstances.",
+      "id": "CSUS_FIN 230",
+      "course name": "Equity Analyses"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Discuss a wide range of fixed income products. Topics include trading concepts and mechanics, pricing, duration, convexity, term structure of interest rates, and options embedded fixed income securities.",
+      "id": "CSUS_FIN 240",
+      "course name": "Fixed Income"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Discuss major types of financial derivatives and derivative markets. Topics include forward contracts, futures, options, SWAP's and credit derivatives. Emphasis on characteristics, trading process, pricing, parity conditions, risk involved, and investment strategies for different financial derivatives.",
+      "id": "CSUS_FIN 250",
+      "course name": "Derivatives"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Discuss major types of alternative investments including real estate, hedge funds, commodities, private equity, and venture capital. Emphasis on the technical aspects and the performance analyses of alternative investments, their advantages and disadvantages, role of alternative investments, and strategies of selection.",
+      "id": "CSUS_FIN 260",
+      "course name": "Alternative Investments"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Cover topics of asset management utilizing the major aspects of Markowitz portfolio theory, Capital ASSET Pricing Model, and Arbitrage Pricing theory. Discuss the comprehensive approach, starting with portfolio construction and asset selection, following with portfolio performance evaluation, and concluding with rebalancing strategies. Introduce and utilize worksheet modeling techniques which are useful for portfolio management.",
+      "id": "CSUS_FIN 270",
+      "course name": "Portfolio Management"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Cover advanced concepts and applied techniques essential to understand the mechanism of the global financial markets. Key topics include global capital allocation, international tax management, foreign exchange markets, derivatives, parity relationships, and others. Focuses on the core concepts and techniques are applied in the global financial markets using different case studies. Integrate the key principles of finance and extends them to a multinational setting. Topics follow the Chartered Financial Analyst (CFA) Level 1 and 2 Exam on equity valuation.",
+      "id": "CSUS_FIN 280",
+      "course name": "Global Financial Markets"
+    },
+    {
+      "units": "3 Units",
+      "term": " Enrollment requires approval of faculty member supervising work in addition to the approval of the Associate Dean for Graduate and External Programs; 6 units maximum; May be repeated for credit.  ",
+      "description": "Individual projects or directed reading for students qualified to carry on independent work.  ",
+      "id": "CSUS_FIN 299",
+      "course name": "Special Problems in Finance"
+    },
+    {
+      "term": " May be repeated for credit  ",
+      "description": "Each student conducts an individual project to fulfill the culminating experience graduation requirement of the MS in Finance program as required in Title V of the CA Educational Code. The course also covers the ethical conducts and professional standards as outlined in CFA institute standards. ",
+      "course name": "Culminating Experience Project in Finance and Ethics",
+      "units": "3 Units",
+      "id": "CSUS_FIN 500",
+      "prerequisite": [
+        "FIN 200",
+        "FIN 210",
+        "FIN 220",
+        "FIN 230",
+        "FIN 240",
+        "FIN 250",
+        "FIN 260",
+        "FIN 270",
+        "FIN 280"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "FIN",
+    "subject": "Finance"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Finance",
+    "id": "CSUS"
+  }
+}

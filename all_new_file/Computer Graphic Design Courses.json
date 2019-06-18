@@ -1,0 +1,31 @@
+{
+  "subjectOf": {
+    "subject": "Computer Graphic Design Courses",
+    "id": "CGD"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Computer Graphic Design Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_CGD 218",
+      "course name": "Visual Literacy in Business",
+      "units": "3 Credits",
+      "description": "This course examines the evolution and trends in digital media utilized in business. Course content and activities focus on message content and creation and the visual principles and theories that shape effective visual communication in the business environment. Legal and ethical issues relating to visual communication will be introduced and incorporated into projects that develop visual literacy and visual problem-solving skills."
+    },
+    {
+      "id": "AshFord_CGD 240",
+      "course name": "Media Writing & Editing",
+      "units": "3 Credits",
+      "description": "An introduction to the process of writing for varied media. Emphasis is on gathering information, writing styles, editing, and organization of written communication."
+    },
+    {
+      "id": "AshFord_CGD 318",
+      "course name": "Public Relations Practices & Promotional Writing",
+      "units": "3 Credits",
+      "description": "An introduction to current procedures and duties of public relations personnel will be studied. Students will write news releases, brochures, speeches, reports, memos, scripts, and ad copy using workshop format."
+    }
+  ]
+}

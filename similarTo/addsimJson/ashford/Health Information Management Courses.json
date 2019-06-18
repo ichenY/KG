@@ -1,0 +1,215 @@
+{
+  "subjectOf": {
+    "subject": "Health Information Management Courses",
+    "id": "HIM"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Health Information Management Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_HIM 105",
+      "course name": "Medical Terminology",
+      "units": "3 Credits",
+      "description": "This course is the study of medical language and includes the building blocks of prefixes, suffixes and root words, definitions, pronunciations, basic medical terms, and common laboratory tests, diagnostic tests and procedures by body system."
+    },
+    {
+      "id": "AshFord_HIM 205",
+      "course name": "Anatomy & Physiology I",
+      "units": "4 Credits",
+      "description": "This course is part one of a two-part course that is the study of anatomy, the structure of the body and how the body is organized and physiology, the function and vital processes of the various structures making up the human body. This course includes an overview of the human body, basic chemistry of the body, cell and tissue structures, integumentary, skeletal, and muscular and nervous system."
+    },
+    {
+      "id": "AshFord_HIM 206",
+      "course name": "Anatomy & Physiology II",
+      "units": "3 Credits",
+      "description": "This course is part two of a two-part course that is the study of anatomy, the structure of the body and how the body is organized and physiology, the function and vital processes of the various structures making up the human body. This course includes an overview of the endocrine, cardiovascular, respiratory, lymphatic & immune, gastrointestinal, urinary and reproductive systems. ",
+      "prerequisite": [
+        "HIM 205 "
+      ]
+    },
+    {
+      "id": "AshFord_HIM 210",
+      "course name": "Pathophysiology",
+      "units": "3 Credits",
+      "description": "This course is the study of common human diseases, disorders and conditions. In the course, students will learn the description, symptoms and signs, diagnostic tests, etiology, and treatment for common diseases, disorders and conditions. In addition, the students will learn about the associated drug class for specific diseases, disorders or conditions. ",
+      "prerequisite": [
+        "HIM 105",
+        "HIM 205",
+        "HIM 206"
+      ]
+    },
+    {
+      "id": "AshFord_HIM 217",
+      "course name": "Electronic Health Records",
+      "units": "3 Credits",
+      "description": "In this course, students will learn about the structure, capture, use, storage and retrieval of health information in paper, hybrid and electronic formats. Students will learn about Electronic Health Record (E H R) project management including scope, goals, strategic planning, workflow analysis, functional needs assessment and implementation. Students will learn about the financial aspects of the E H R as well as the E H R from a consumer and a nationwide health information network perspective.A grade of C or higher is required.",
+      "prerequisite": [
+        "HCA 205"
+      ]
+    },
+    {
+      "id": "AshFord_HIM 250",
+      "course name": "Clinical Classifications Systems I",
+      "units": "3 Credits",
+      "description": "This course is part I of a two-part course that introduces students to applications for clinical classification and coding. Students will learn about the development of classification systems, use of the health record for coding and the relationship between coding and reimbursement. In particular, the students will learn the guidelines for diagnosis coding and organizational structure for provider billing. ",
+      "prerequisite": [
+        "HIM 105",
+        "HIM 205",
+        "HIM 206",
+        "HIM 210",
+        "HIM 217 "
+      ]
+    },
+    {
+      "id": "AshFord_HIM 251",
+      "course name": "Clinical Classification Systems II",
+      "units": "3 Credits",
+      "description": "This course is part II of a two-part course that introduces students to applications for clinical classification and coding. Students will compare and contrast various processes, policies, and procedures to ensure the accuracy of coded data and demonstrate their understanding of diagnosis and procedure coding systems through practical application. ",
+      "prerequisite": [
+        "HIM 105",
+        "HIM 205",
+        "HIM 206",
+        "HIM 210",
+        "HIM 217",
+        "HIM 250"
+      ]
+    },
+    {
+      "id": "AshFord_HIM 252",
+      "course name": "Legal Aspects of Health Information",
+      "units": "3 Credits",
+      "description": "This course explores the major legal and ethical issues central to the implementation, application, and utilization of health information across the spectrum of health care settings. Key topics include liability, confidentiality, the legal and ethical ramifications of federal legislative mandates pertaining to health information management and informatics. ",
+      "prerequisite": [
+        "HIM 217",
+        "HCA 205 "
+      ]
+    },
+    {
+      "id": "AshFord_HIM 301",
+      "course name": "Introduction to Health Informatics",
+      "units": "3 Credits",
+      "description": "This foundational course details the history and factors driving the emergence of health informatics. In addition to emphasizing the concepts, terminologies and scope of health informatics, the course delves into health information exchanges, data standards, health informatics ethics, online resources and E-research. The course includes an overview of basic database architecture, design and file structure, and data warehousing and data mining in health care."
+    },
+    {
+      "id": "AshFord_HIM 310",
+      "course name": "Healthcare Reimbursement",
+      "units": "3 Credits",
+      "description": "This course reviews healthcare reimbursement methodologies, government and voluntary healthcare insurance plans, and inpatient and outpatient reimbursement systems. Students will learn about the revenue cycle, audit processes and compliance strategies. ",
+      "prerequisite": [
+        "HCA 205",
+        "HIM 250",
+        " HIM 251 "
+      ]
+    },
+    {
+      "id": "AshFord_HIM 360",
+      "course name": "Healthcare Statistics",
+      "units": "3 Credits",
+      "description": "This course introduces the student to the generation and analysis of common healthcare statistics, state and national reporting of information and departmental performance standards. Students will learn how to construct and analyze various tables and charts related to healthcare. ",
+      "prerequisite": [
+        "HCA 205",
+        "HIM 217",
+        "HIM 250",
+        "HIM 251"
+      ]
+    },
+    {
+      "id": "AshFord_HIM 370",
+      "course name": "Professional Practice Experience I",
+      "units": "3 Credits",
+      "description": "This course focuses on the technical application of concepts introduced in other program courses and explores similarities and differences with various healthcare providers. Students will demonstrate their ability to apply knowledge, analyze situations and create solutions in various healthcare scenarios. ",
+      "prerequisite": [
+        "HIM 105",
+        "HIM 205",
+        "HIM 206",
+        "HIM 250",
+        "HIM 251",
+        "HCA 205",
+        "HIM 310",
+        "HIM 217",
+        "HIM 252",
+        "HIM 210",
+        "HIM 360"
+      ]
+    },
+    {
+      "id": "AshFord_HIM 410",
+      "course name": "Health Informatics  A Systems Perspective",
+      "units": "3 Credits",
+      "description": "This course focuses on the behind the scenes components of exchange, standards and interoperability of information in healthcare. The course will evaluate informatics-based support resources to include evidence based practice, clinical decision support and transport protocols. ",
+      "prerequisite": [
+        "HIM 301"
+      ]
+    },
+    {
+      "id": "AshFord_HIM 420",
+      "course name": "Health Information Governance & Strategic Planning",
+      "units": "3 Credits",
+      "description": "This course addresses key components of healthcare information systems and operational effectiveness. Students will analyze the strategic alignment of health information technology, including the evolution of healthcare information systems and data governance. Students will evaluate health information architecture and infrastructure, applications and service management, and administrative and financial systems. Foundational information on the transition of data into knowledge, value analysis, and information management strategic planning is provided. ",
+      "prerequisite": [
+        "HIM 301",
+        "HIM 217",
+        "HIM 252",
+        "HIM 370",
+        "HCA 205"
+      ]
+    },
+    {
+      "id": "AshFord_HIM 435",
+      "course name": "Analyzing Healthcare Data",
+      "units": "3 Credits",
+      "description": "This course is a synthesis of the major ideas, perspectives, and concepts gained from the study of health informatics. Students will learn about the construction and utilization of health care data sets; the use of computerized statistical packages in health care; and the role of health informatics in financial and performance improvement goals. The student will apply common performance improvement models and tools to develop data-driven organizational reports. ",
+      "prerequisite": [
+        "HIM 301"
+      ]
+    },
+    {
+      "id": "AshFord_HIM 440",
+      "course name": "Health Informatics Research Methods and Data Analysis",
+      "units": "3 Credits",
+      "description": "This course explores in depth the relationship of research and informatics, research methods, the research process and the quantitative and qualitative analysis of data, including descriptive and inferential statistics. Students will explore the role of epidemiology in research and policy development. ",
+      "prerequisite": [
+        "HCA 205",
+        "HIM 360",
+        "HIM 252"
+      ]
+    },
+    {
+      "id": "AshFord_HIM 445",
+      "course name": "Healthcare Project Management",
+      "units": "3 Credits",
+      "description": "This course explores principles of project management to improve quality and decrease cost in healthcare. While addressing the intersection of healthcare and information technology, students will learn about the project process and related tools and techniques to successfully plan, execute, control and assess a project. ",
+      "prerequisite": [
+        "HCA 205",
+        "HIM 450",
+        "HCA 311",
+        "HCA 312",
+        "ACC 281"
+      ]
+    },
+    {
+      "id": "AshFord_HIM 450",
+      "course name": "Healthcare Management",
+      "units": "3 Credits",
+      "description": "This course focuses on key management principles in healthcare management and unique Health Information Management activities. Students will learn about organizational structure, the planning and decision making process, budgeting, committee and team dynamics, staff hiring and development and key indicators of department performance. ",
+      "prerequisite": [
+        "HCA 205",
+        "HCA 375",
+        "HIM 105",
+        "HIM 205",
+        "HIM 206",
+        "HIM 210",
+        "HIM 217",
+        "HIM 250",
+        "HIM 251",
+        "HIM 252",
+        "HIM 310",
+        "HIM 360",
+        "HIM 370 "
+      ]
+    }
+  ]
+}

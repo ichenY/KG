@@ -1,0 +1,372 @@
+{
+  "courses": [
+    {
+      "term": " May be repeated for credit  ", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning for", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 12A", 
+      "prerequisite": [
+        "CHEM 4", 
+        "CHEM 4", 
+        "CHEM 4", 
+        "CHEM 4"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning for", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 12B", 
+      "prerequisite": [
+        "MATH 29", 
+        "MATH 29", 
+        "MATH 29", 
+        "MATH 29"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning for", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 12C", 
+      "prerequisite": [
+        "CHEM 1A", 
+        "CHEM 1A", 
+        "CHEM 1A", 
+        "CHEM 1A"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning for", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 12D", 
+      "prerequisite": [
+        "CHEM 1B", 
+        "CHEM 1B", 
+        "CHEM 1B", 
+        "CHEM 1B"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning for", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 12E", 
+      "prerequisite": [
+        "MATH 30", 
+        "MATH 30", 
+        "MATH 30", 
+        "MATH 30"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 12F", 
+      "prerequisite": [
+        "MATH 31", 
+        "NSM 12F", 
+        "MATH 31", 
+        "MATH 31", 
+        "MATH 31", 
+        "MATH 31"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 12G", 
+      "prerequisite": [
+        "PHYS 11A", 
+        "NSM 12G", 
+        "PHYS 11A", 
+        "PHYS 11A", 
+        "MATH 31"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 12H", 
+      "prerequisite": [
+        "BIO 121", 
+        "NSM 12F", 
+        "BIO 121", 
+        "BIO 121", 
+        "BIO 121", 
+        "BIO 121"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 12I", 
+      "prerequisite": [
+        "BIO 22", 
+        "NSM 12I", 
+        "BIO 22", 
+        "BIO 22", 
+        "BIO 22", 
+        "BIO 22"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "description": ". ", 
+      "id": "CSUS_NSM 12J", 
+      "prerequisite": [
+        "MATH 32", 
+        "MATH 32", 
+        "MATH 32", 
+        "MATH 32"
+      ], 
+      "course name": "Peer-Assisted Learning"
+    }, 
+    {
+      "units": "1 Unit", 
+      "description": ". ", 
+      "id": "CSUS_NSM 12K", 
+      "prerequisite": [
+        "BIO 139", 
+        "BIO 139", 
+        "BIO 139", 
+        "BIO 139"
+      ], 
+      "course name": "Peer-Assisted Learning"
+    }, 
+    {
+      "units": "1 Unit", 
+      "description": ". ", 
+      "id": "CSUS_NSM 12L", 
+      "prerequisite": [
+        "BIO 184", 
+        "BIO 184", 
+        "BIO 184", 
+        "BIO 184"
+      ], 
+      "course name": "Peer-Assisted Learning"
+    }, 
+    {
+      "units": "1 Unit", 
+      "description": ". ", 
+      "id": "CSUS_NSM 12M", 
+      "prerequisite": [
+        "CHEM 5", 
+        "CHEM 5", 
+        "CHEM 5", 
+        "CHEM 5"
+      ], 
+      "course name": "Peer-Assisted Learning"
+    }, 
+    {
+      "units": "1 Unit", 
+      "description": ". ", 
+      "id": "CSUS_NSM 12N", 
+      "prerequisite": [
+        "CHEM 24", 
+        "CHEM 24", 
+        "CHEM 24", 
+        "CHEM 24"
+      ], 
+      "course name": "Peer-Assisted Learning"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 12P", 
+      "prerequisite": [
+        "STAT 1", 
+        "NSM 12P", 
+        "STAT 1", 
+        "STAT 1", 
+        "STAT 1", 
+        "STAT 1"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 12Q", 
+      "prerequisite": [
+        "STAT 50", 
+        "NSM 12Q", 
+        "STAT 50", 
+        "STAT 50", 
+        "STAT 50", 
+        "STAT 50"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 12R", 
+      "prerequisite": [
+        "MATH 12", 
+        "NSM 12R", 
+        "MATH 12", 
+        "MATH 12", 
+        "MATH 12"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the nature and possible meanings of higher education and the functions and resources of the university. Designed to help students develop academic success strategies and improve academic skills. Students will interact with fellow students to build a community of academic and personal support. Introduces science and math as academic disciplines by requiring students to interpret scientific literature.", 
+      "id": "CSUS_NSM 21", 
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Field Trip. Observations in local public K-8 schools  ", 
+      "description": "The first course in a two-course pairing. The course is for freshmen intending to be elementary/junior high school teachers with special skills and knowledge in science curriculum and science pedagogy for the K-9 grade span. Students will learn course content through activities, tasks, and assignments that require them to expand their knowledge of science and mathematics concepts and skills as well as synthesize them in relation to real-world issues and problems. ", 
+      "id": "CSUS_NSM 86A", 
+      "course name": "STEM Learning Practices for Future Teachers"
+    }, 
+    {
+      "term": " Field trip. Observations in local public K-8 schools.  ", 
+      "description": " by integrating engineering content and the engineering design cycle. Students will learn course content through activities, tasks, and assignments that require them to synthesize and apply their knowledge of science, engineering, and mathematics concepts and skills to complex and inter-disciplinary real-world issues and problems. ", 
+      "course name": "Advanced STEM Learning Practices for Future Teachers", 
+      "units": "3 Units", 
+      "id": "CSUS_NSM 86B", 
+      "prerequisite": [
+        "NSM 86A", 
+        "NSM 86A"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Designed for pre-professional students, this self exploration course will assist students in determining whether a career in the health professions is suitable to their interest, skills, and values. In addition to exploring the traditional health professions medicine, pharmacy, etc., students will have opportunity to explore alternative health professions and career options. This active learning course will include lectures, discussions, individual and group projects, informational interviews, and guest speakers. One hour per week.", 
+      "id": "CSUS_NSM 88", 
+      "course name": "Exploring Health Careers"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Professional scientists, graduate students and senior undergraduate researchers in biomedical sciences will present their research. Students will develop critical skills to become active participants in dialogs with seminar presenters. Students will explore and cultivate their interest towards biomedical research careers and compile a portfolio to archive their course achievements. During their senior year, undergraduate researchers will also deliver presentations of their own work.", 
+      "id": "CSUS_NSM 90", 
+      "course name": "Biomedical Research Seminars"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". ", 
+      "course name": "Peer-Assisted Learning", 
+      "units": "1 Unit", 
+      "id": "CSUS_NSM 96", 
+      "prerequisite": [
+        "MATH 32", 
+        "MATH 32", 
+        "MATH 32", 
+        "MATH 32"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "description": "Designed for first-semester transfer students in the College of NSM. Series of at least 10 seminars related to campus and career-based opportunities, integration with peers, and promotion of academic mindset. ", 
+      "id": "CSUS_NSM 100A", 
+      "course name": "Transfer Seminar I"
+    }, 
+    {
+      "units": "1 Unit", 
+      "description": "Designed for second-semester transfer students in the College of NSM. Series of at least 10 seminars related to campus and career-based opportunities for employment, preparation for entering the STEM workforce, and integration with peers and colleagues. ", 
+      "id": "CSUS_NSM 100B", 
+      "course name": "Transfer Seminar II"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Develops the ability of undergraduate researchers to search, interpret, and add to the biomedical research literature. Students develop a senior thesis or proposal and an oral presentation. Includes analysis of primary research articles, peer review of student writing samples, and presentation of scientific information. These activities improve students' understanding of how scientific questions are developed, posed, and answered through proposals and dissemination of research results.", 
+      "id": "CSUS_NSM 190", 
+      "course name": "Senior Thesis Seminar"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Intensive examination of selected topics in science for teachers. The goal is to develop a deep conceptual understanding of the science under consideration, knowledge of common misconceptions about the concept, and effective ways to guide student learning of the selected topic. ", 
+      "course name": "Conceptual Understanding of Science for Teachers", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_NSM 196", 
+      "prerequisite": [
+        "NSM 296"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Intensive examination of selected topics in science for teachers pursuing subject matter knowledge needed for a general science credential. The goal is to deepen and broaden students' conceptual and factual knowledge base for selected topics. Course will involve hands-on tasks designed to enhance conceptual understanding as well as lectures, small group work and independent tasks necessary for learning the subject matter. ", 
+      "id": "CSUS_NSM 196A", 
+      "course name": "Science Topics for Middle School"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Specific classroom training for advanced students who are concurrently serving as PAL facilitators within NSM. Action research on learning theory as applied to classroom setting with culminating research presentation. ", 
+      "id": "CSUS_NSM 197", 
+      "course name": "Seminar in Peer-Assisted Learning"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Specific classroom training for advanced students who are concurrently serving as PAL facilitators within NSM. Action research on learning theory as applied to classroom settings with culminating research presentation. Instructor permission required for enrollment. Lecture & Discussion, 2 hours.  ", 
+      "course name": "Advanced Seminar in Peer-Assisted Learning", 
+      "units": "2 Units", 
+      "id": "CSUS_NSM 197B", 
+      "prerequisite": [
+        "NSM 197"
+      ]
+    }, 
+    {
+      "units": "2 Units", 
+      "description": "Specific classroom training for advanced students who are concurrently serving Lead or Supervisory PAL facilitators within NSM. Leadership and assessment of program effectiveness with a culminating research presentation. Instructor permission required for enrollment. ", 
+      "id": "CSUS_NSM 197C", 
+      "prerequisite": [
+        "NSM 197B"
+      ], 
+      "course name": "Seminar for Lead & Supervisory Facilitators"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " May be taken more than once but no more than three units may be applied toward the baccalaureate degree.  ", 
+      "description": "Earned credit by participating as tutor or teacher assistant in public schools, volunteering as an instructor or tutor in K-12 courses or programs offered by other community organizations, or engagement in community education programs, which are based in one or more disciplines in NSM. Participation requires three to twelve hours weekly. ", 
+      "id": "CSUS_NSM 198", 
+      "course name": "Co-curricular Activities in Natural Sciences and Mathematics"
+    }, 
+    {
+      "term": ".", 
+      "description": "Intensive examination of selected topics in science for teachers. The goal is to develop a deep conceptual understanding of the science under consideration, knowledge of common misconceptions about the concept, and effective ways to guide student learning of the selected topic. ", 
+      "course name": "Conceptual Understanding of Science for Teachers", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_NSM 296", 
+      "prerequisite": [
+        "NSM 196"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "NSM", 
+    "subject": "Natural Sciences and Mathematics"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Natural Sciences and Mathematics", 
+    "id": "CSUS"
+  }
+}

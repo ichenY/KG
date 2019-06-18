@@ -1,0 +1,678 @@
+{
+  "courses": [
+    {
+      "units": "4 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to Geology through examination of aspects of the geology of Mexico. Emphasizes problem-based approach to learning Geology and the process of scientific investigation. Topics include a wide range of geological concepts including plate tectonic setting of Mexico, living with volcanoes: the Mexican volcanic belt, the Mexico City earthquake, issues of water supply, flooding and atmospheric pollution in Mexico City, the Chicxulub crater and geologic time, ore deposits of Mexico. Lecture three hours; laboratory three hours.",
+      "id": "CSUS_GEOL 5",
+      "course name": "Geology Of Mexico"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Focuses on fundamental geologic concepts as seen from real world examples in Mexico that will be visited during several strategic field stops. Field stops will emphasize a problem-based approach to learning geology and the process of scientific investigation. Topics include a wide range of geological concepts including plate tectonic setting of Mexico, living with volcanoes,  the Mexico City earthquake, issues of water supply, flooding, climate change and atmospheric pollution in Mexico City, the Chicxulub meteor impact crater, geologic time, ore deposits of Mexico, and natural hazards. Field trip ten days. ",
+      "course name": "Geology of Mexico Field Trip",
+      "units": "2 Units",
+      "id": "CSUS_GEOL 5A",
+      "prerequisite": [
+        "GEOL 5"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examination of earth materials and earth processes through the study of natural disasters. Topics include earthquakes, volcanoes, landslides, floods, tsunamis, hurricanes, tornadoes and meteorite impacts. Examination of causes, effects and mitigation of natural disasters.",
+      "id": "CSUS_GEOL 7",
+      "course name": "Natural Disasters"
+    },
+    {
+      "term": " or equivalent. ",
+      "description": "Earth and its neighbors in space. Scientific method and discovery in the study of stars, planets, weather, rivers, glaciers, oceans, rocks, volcanoes, earthquakes, landslides, mountains, drifting continents, the earth in time. ",
+      "course name": "Earth Science",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 8",
+      "prerequisite": [
+        "GEOL 10",
+        "GEOL 8",
+        "GEOL 10"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Emphasizes scientific methods and systematic laboratory procedures. Includes weather analysis, rock and mineral identification, study of geologic concepts by means of topographic maps, and exercises in astronomy and oceanography. Laboratory three hours. ",
+      "course name": "Earth Science Lab",
+      "units": "1 Unit",
+      "id": "CSUS_GEOL 8L",
+      "prerequisite": [
+        "GEOL 8"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Exploration of the solid Earth, its atmosphere and oceans, and the Earth's place in the solar system.  Emphasizes learning Earth science through investigation, and uses Earth science to understand the processes of science.  Laboratory three hours. ",
+      "course name": "Earth Science Lab for Teachers",
+      "units": "1 Unit",
+      "id": "CSUS_GEOL 8T",
+      "prerequisite": [
+        "GEOL 8"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Rocks and their mineral constituents, geological processes such as weathering, erosion, glaciation, mountain building, etc., volcanoes, earthquakes, folds, faults, the earth's interior, plate tectonics and earth resources. Field trip. Fee course.",
+      "id": "CSUS_GEOL 10",
+      "course name": "Physical Geology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". Emphasizes scientific method and systematic laboratory procedures. Identification of common minerals and rocks. Introduction to and analysis of topographic and geologic maps. Field trip. Laboratory three hours. Fee course. ",
+      "course name": "Physical Geology Lab",
+      "units": "1 Unit",
+      "id": "CSUS_GEOL 10L",
+      "prerequisite": [
+        "GEOL 10",
+        "GEOL 10"
+      ]
+    },
+    {
+      "term": " Lecture 3 hours.  ",
+      "description": "Origin and geological history of the earth and the evolution of its animal and plant inhabitants. Fee course. ",
+      "course name": "Historical Geology",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 12",
+      "prerequisite": [
+        "GEOL 5",
+        "GEOL 10",
+        "GEOL 10L"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". Use of sedimentary rocks, fossils, geologic maps, and structural sections in interpreting ancient environments, tectonic settings, and geologic history. Age relations and correlation of rock and time-rock units. Introduction to fossil identification and biostratigraphy. Laboratory three hours. ",
+      "course name": "Historical Geology Lab",
+      "units": "1 Unit",
+      "id": "CSUS_GEOL 12L",
+      "prerequisite": [
+        "GEOL 12",
+        "GEOL 5",
+        "GEOL 10",
+        "GEOL 10L",
+        "GEOL 12",
+        "GEOL 12"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Introduction to mineral identification by physical and optical properties. Techniques and theory of optical mineral analysis, crystallography and mineral formation. Lecture three hours; laboratory three hours. ",
+      "course name": "Mineralogy",
+      "units": "4 Units",
+      "id": "CSUS_GEOL 100",
+      "prerequisite": [
+        "CHEM 1A",
+        "GEOL 5",
+        "GEOL 10",
+        "GEOL 10L"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of the origin, evolution, occurrence, geochemistry, dynamics and physical characteristics of igneous and metamorphic systems. The laboratory will focus on both hand-specimen and petrographic-microscope studies. Lecture three hours, laboratory three hours. Fee course. ",
+      "course name": "Igneous and Metamorphic Petrology",
+      "units": "4 Units",
+      "id": "CSUS_GEOL 102",
+      "prerequisite": [
+        "GEOL 100",
+        "GEOL 103"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Compositions, textures, classification, origins and structures of sediments and sedimentary rocks. Hand specimen observation and interpretation. Facies models, classification and correlation of stratigraphic units, subsurface techniques. Lab emphasizes hand specimen and microscope identification and subsurface techniques. Field trip. Lecture three hours; laboratory three hours. Fee course. ",
+      "course name": "Sedimentology/Stratigraphy",
+      "units": "4 Units",
+      "id": "CSUS_GEOL 103",
+      "prerequisite": [
+        "GEOL 12",
+        "GEOL 12L",
+        "GEOL 100"
+      ]
+    },
+    {
+      "term": " Lecture = 3 units; Lab = 1 unit.  Fee Course.  Field Trip.  ",
+      "description": "Biology, evolution, classification and paleoecology of important groups of fossil organisms. Uses of fossils in solving geologic problems. ",
+      "course name": "Paleontology",
+      "units": "4 Units",
+      "id": "CSUS_GEOL 105",
+      "prerequisite": [
+        "GEOL 5",
+        "GEOL 10",
+        "GEOL 10L",
+        "GEOL 12",
+        "GEOL 12L"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Description, analysis and interpretation of geologic structures and tectonic settings. Theory of stress and strain as it pertains to the origin of folds, faults, joints, cleavage, and other structural elements. Laboratory includes techniques of structural analysis such as orthographic projections, stereonets, structure contours, Mohr diagrams, interpretation of maps and cross sections. Lecture three hours, laboratory three hours.  Fee Course. ",
+      "course name": "Structural Geology and Tectonics",
+      "units": "4 Units",
+      "id": "CSUS_GEOL 110A",
+      "prerequisite": [
+        "GEOL 111A",
+        "GEOL 111B",
+        "PHYS 5A",
+        "PHYS 11A",
+        "MATH 26A",
+        "MATH 30"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Field description, mapping and interpretation of geologic structures. Includes techniques of taking detailed field notes, field photography measurement of structures using a pocket transit, geologic map and cross section construction, stereonet analysis, and report writing. Consists of off-campus fieldwork. Fee course. ",
+      "course name": "Structural Geology Field",
+      "units": "1 Unit",
+      "id": "CSUS_GEOL 110B",
+      "prerequisite": [
+        "GEOL 103",
+        "GEOL 111A",
+        "GEOL 111B",
+        "GEOL 110A",
+        "GEOL 110A"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Science and art of recognizing, describing and interpreting geologic features in the field. Lecture and laboratory course on the preparation and use of topographic and geologic maps, stratigraphic and cross sections, compass and GPS instrument. Lecture one hour; laboratory three hours. Fee course. ",
+      "course name": "Field Geology",
+      "units": "2 Units",
+      "id": "CSUS_GEOL 111A",
+      "prerequisite": [
+        "GEOL 12L",
+        "GEOL 100",
+        "GEOL 111B"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Introduction to geologic field methods including descriptions of rocks, geologic mapping, observation, interpretation and geologic report writing. Detailed mapping techniques will also be covered; these may include the use of plane table, total station theodolite and global position systems.  Consists of off-campus fieldwork. Fee course. ",
+      "course name": "Field Techniques",
+      "units": "2 Units",
+      "id": "CSUS_GEOL 111B",
+      "prerequisite": [
+        "GEOL 100",
+        "GEOL 103",
+        "GEOL 103",
+        "GEOL 111A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to the principal geophysical concepts and techniques useful to geologists in the study of tectonics, the Earth's interior and rresource exploration. Includes the study of seismology, heat flow, gravity, borehole geophysics, electromagnetism and geodynamics. Fee Course/Field Trip. ",
+      "course name": "Geophysics For Geologists",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 112",
+      "prerequisite": [
+        "GEOL 5",
+        "GEOL 10",
+        "GEOL 10L",
+        "PHYS 5A",
+        "PHYS 5B"
+      ]
+    },
+    {
+      "term": " Field trip. Weekend field trip to volcanic areas (typically in California. Fee course. Field trip student fee.  ",
+      "description": "An advanced exploration of physical volcanic processes, chemistry of magmas, interpretation of volcanic deposits, historic eruptions and volcanic hazard assessment. ",
+      "course name": "Volcanology",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 114",
+      "prerequisite": [
+        "GEOL 100"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "An introductory to volcanoes including volcanic landforms, eruption styles, properties of magma, and volcanic hazards/ mitigation.",
+      "id": "CSUS_GEOL 115",
+      "course name": "Volcanoes: An Introduction"
+    },
+    {
+      "term": " 150 minutes Lecture = 3 units, 150 minutes Lab = 1 unit.  Fee Course.  ",
+      "description": "Focused study on the basic forces that drive surficial processes such as wind water and gravity and the role of weathering, sediment transport and deposition on landform and landscape development. A laboratory component will enhance student understanding by solving applied problems as well as develop proficiencies with various geologic tools. ",
+      "course name": "Surficial Processes",
+      "units": "4 Units",
+      "id": "CSUS_GEOL 120",
+      "prerequisite": [
+        "GEOL 5",
+        "GEOL 10",
+        "GEOL 10L",
+        "GEOL 12",
+        "GEOL 12L"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Regional study of California and certain surrounding areas with regard to geologic development, plate tectonics, economic resources and geologic hazards. Lecture and field trip(s). Fee course. ",
+      "course name": "Geology of California",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 121",
+      "prerequisite": [
+        "GEOL 5",
+        "GEOL 10"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fundamentals of the geochemistry of Earth materials. Thermodynamics and kinetics of geological environments, silicates and carbonates, major element geochemistry, trace and rare earth element geochemistry, stable and radiogenic isotopes. Applications to studies of aqueous, pedogenic, igneous, sedimentary, and metamorphic environments. Analysis of geochemical aspects of contemporary resource, environmental, and paleoenvironmental problems.  ",
+      "course name": "Geochemistry",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 123",
+      "prerequisite": [
+        "GEOL 5",
+        "GEOL 10",
+        "GEOL 10L",
+        "CHEM 1A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Origin, geology, and distribution of metallic ore deposits. Introduction to ore minerals. Exploration methods. Field trip. Fee course. ",
+      "course name": "Metallic Ore Deposits",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 125",
+      "prerequisite": [
+        "GEOL 100",
+        "CHEM 1A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "description": "Field analysis of the local environment, including soil and water systems. Students will learn monitoring design, sample collections, sample analysis, data interpretation, and presentation methodologies for environmental geology applications. ",
+      "id": "CSUS_GEOL 126",
+      "prerequisite": [
+        "GEOL 10",
+        "GEOL 10L"
+      ],
+      "course name": "Environmental Field Methods"
+    },
+    {
+      "term": "Spring only",
+      "description": "Presents fundamentals of groundwater flow, as influenced by topography and geology; geological aspects of groundwater supply, contamination, remediation, and protection of hydrogeological regions of the U.S. and their critical groundwater issues. Lecture three hours; laboratory three hours. Lecture three hours. ",
+      "course name": "Hydrogeology",
+      "units": "4 Units",
+      "id": "CSUS_GEOL 127",
+      "prerequisite": [
+        "CHEM 1A",
+        "GEOL 10",
+        "GEOL 10L",
+        "PHYS 5A",
+        "MATH 26A",
+        "MATH 30"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring, Summer",
+      "description": "Survey of geological, physical, chemical and biological oceanography including the sea floor; waves, tides, currents; the physical and chemical properties of seawater and their distribution in the sea; planktonic life and its relation to nutrients.",
+      "id": "CSUS_GEOL 130",
+      "course name": "Oceanography"
+    },
+    {
+      "term": "Spring only",
+      "description": "Origin, structure and evolution of the ocean basins and their margins. Topics covered will include marine sediments, seafloor bathymetry, seismic stratigraphy, sea level history, and marine micropaleontology. Fee course. Field trip: Weekend trip to Moss Landing, California to collect marine samples. ",
+      "course name": "Marine Geology",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 132",
+      "prerequisite": [
+        "GEOL 10",
+        "GEOL 10L",
+        "GEOL 12",
+        "GEOL 12L"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Applies geologic data and principles to situations affecting our environment. The geologic study of earthquakes, volcanoes, floods, landslides, groundwater and similar topics supplies the background data for lectures on land use and other social choices. Topics such as geopolitics and mineral supply provide a basis for understanding international politics, social costs, and world economics. Fee course. ",
+      "course name": "Geology and the Environment.",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 140",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "This course is designed to enhance the mapping skills of geology majors by providing them an opportunity to learn modern computer aided mapping techniques - methods and tools widely used across industry, government, and academe. The course is designed to teach students how to effectively use various tools and mapping software by applying their developing skills in solving a variety of geological problems. This course strategy will help develop both student technical map making and innovative problem solving skills. ",
+      "course name": "Computer Mapping in Geology",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 150",
+      "prerequisite": [
+        "GEOG 109"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Applies to the fundamental principles of geology, biology, and ecology to understanding the evolution of the Mesozoic world. Emphasis is placed on the nature and evolution of dinosaurs in the context of global regional changes in the Mesozoic ecosystem. Included are considerations of the data, methods, and uncertainties in paleontology and other historical sciences.",
+      "id": "CSUS_GEOL 170",
+      "course name": "Age of Dinosaurs"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to the origin, migration, and accumulation of hydrocarbons in the context of stratigraphic and structural systems. Exploration and production of both conventional and unconventional resources. Lecture three hours. Field trip. Fee Course. ",
+      "course name": "Petroleum Geology",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 171",
+      "prerequisite": [
+        "PHYS 5A",
+        "GEOL 103",
+        "GEOL 103"
+      ]
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "An investigation and visit to the many interesting volcanic features and eruption activities of Hawaiian volcanism. Topics include tectonics, physical volcanology, and volcanic monitoring techniques. ",
+      "id": "CSUS_GEOL 177",
+      "course name": "Hawaii Volcanic Field Trip"
+    },
+    {
+      "units": "2 Units",
+      "term": " Student should consult the Geology Department during the semester before planning to take the course. May be taken more than once for credit. ",
+      "description": "10-day field trip to a region of outstanding geology. Attendance at preliminary meetings is required. Analyzes and interpretation of geologic features is emphasized.  Fee course. ",
+      "id": "CSUS_GEOL 184",
+      "course name": "Geological Field Trip"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced principles/methods of geologic mapping, interpretation and geologic report writing for selected field areas in the western United States. Mapping techniques include the use of aerial photographs and global position systems. Consists of on-campus field preparation and off-campus fieldwork. Fee course. ",
+      "course name": "Advanced Geologic Mapping",
+      "units": "6 Units",
+      "id": "CSUS_GEOL 188",
+      "prerequisite": [
+        "GEOL 102",
+        "GEOL 103",
+        "GEOL 110A",
+        "GEOL 110B",
+        "GEOL 111A",
+        "GEOL 111B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Seminar in the geologic and tectonic development of California. ",
+      "course name": "Geology and Tectonic Development of California Seminar",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 190A",
+      "prerequisite": [
+        "GEOL 5",
+        "GEOL 10",
+        "GEOL 12",
+        "GEOL 110A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Investigates the engineering properties of earth materials, the engineering considerations required to build safe and durable structures on and within the Earth, and problems associated with structures designed and built neglecting physical environmental conditions.  Designed to introduce engineering concepts to students who have a competent grasp of general geologic principles and processes.  Lecture 3 hours. ",
+      "course name": "Engineering Geology",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 193C",
+      "prerequisite": [
+        "GEOL 5",
+        "GEOL 10",
+        "GEOL 10L",
+        "GEOL 12",
+        "PHYS 5A",
+        "PHYS 11A",
+        "MATH 29"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open to all upper division Geology majors with instructor permission. Number of units earned depends on number of hours worked. ",
+      "description": "Supervised unpaid work experience in government or industry. Supervision is provided by the faculty instructor and responsible officials in the work situations. ",
+      "id": "CSUS_GEOL 195",
+      "course name": "Geology Internship"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised individual instruction on techniques applied in geology laboratories for advanced research in mineralogy, petrology, geochemistry, geophysics, and paleontology. ",
+      "id": "CSUS_GEOL 197",
+      "course name": "Advanced Laboratory Techniques for Geology"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Selection and design of an independent research project.  A final written report is required and includes:  research proposal, bibliography, and results of preliminary review of the literature.  Student must choose a supervising instructor. ",
+      "id": "CSUS_GEOL 198A",
+      "course name": "Senior Research Preparation"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "Completion of an independent research project.  A final written report is required.  Progress reports may be required by the supervision instructor.  Presentation of an oral report on the research project during the same semester is required. ",
+      "id": "CSUS_GEOL 198B",
+      "course name": "Senior Research Project"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students judged competent to carry on individual work. Credit/noncredit grading also available. ",
+      "description": "Individual projects or special studies at a beginning level, including fieldwork, lab work, library study, or other learning activities. ",
+      "id": "CSUS_GEOL 199A",
+      "course name": "Beginning Special Problems"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students judged competent to carry on individual work. Credit/noncredit grading also available. ",
+      "description": "Individual projects or special studies at an intermediate level, including fieldwork, lab work, library study, or other learning activities. ",
+      "id": "CSUS_GEOL 199B",
+      "course name": "Intermediate Special Problems"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students judged competent to carry on individual work. Credit/noncredit grading also available. ",
+      "description": "Individual projects or special studies at an advanced level, including fieldwork, lab work, library study, or other learning activities. ",
+      "id": "CSUS_GEOL 199C",
+      "course name": "Advanced Special Problems"
+    },
+    {
+      "units": "3 Units",
+      "term": " Graduate Writing Intensive (GWI). ",
+      "description": "Developing a research proposal, library and internet searches, seeking external funding, presentation graphics, and publication formats.  Students will develop a research project in preparation for thesis requirement.  Seminar three hours. ",
+      "id": "CSUS_GEOL 200",
+      "course name": "Graduate Research Methods Seminar."
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Low temperature geochemical reactions in aqueous environments.  Chemical kinetics, thermodynamics, mixing and dilution, mineral stability, chemical composition of surface water, stable isotopes.  Three hours lecture. ",
+      "course name": "Aqueous Geochemistry",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 202",
+      "prerequisite": [
+        "CHEM 1B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Contaminants and contaminant transport in near-surface environments.  Fluid-sediment interaction, fluid partitioning, common geochemical reactions, stability and mobility of groundwater contaminants, multi-phase systems, sampling considerations and overview of analytical techniques. ",
+      "course name": "Contaminant Hydrogeology",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 204",
+      "prerequisite": [
+        "CHEM 1B",
+        "CHEM 6B",
+        "CHEM 20",
+        "GEOL 202"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Computer modeling of groundwater systems using 2 and 3 dimensional numerical solutions and common software packages.  Topics will include data acquisition, constructing a numerical model, model calibration, flow paths, particle tracking and model output. ",
+      "course name": "Groundwater Modeling",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 208",
+      "prerequisite": [
+        "GEOL 127",
+        "MATH 45"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Use of remote imaging in geologic applications. Types of imagery, acquisition, production, processing, and interpretation are covered. ",
+      "course name": "Geologic Remote Imaging",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 212",
+      "prerequisite": [
+        "PHYS 5B",
+        "PHYS 11B",
+        "GEOL 102",
+        "GEOL 110A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "An advanced treatment of deformation of the lithosphere of the earth over short and long timescales. Construction of 2D and 3D models of the crust. Use of software packages to solve problems in tectonics and related disciplines. ",
+      "course name": "Advanced Structural Geology and Tectonics",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 213",
+      "prerequisite": [
+        "GEOL 110A",
+        "MATH 30"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Analyzes volcanic eruption processes. Interpretation of volcanic deposits in the evaluation of volcanic hazards, risk, eruption processes, and geologic history. Field trip.",
+      "id": "CSUS_GEOL 214",
+      "course name": "Advanced Volcanology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced field techniques used for geophysical exploration.  Data collection and problem solving using resistvity, conductivity, seismic reflection, seismic refraction, gravity, magnetics and borehole geophysical techniques.  Lecture two hours, laboratory three hours. ",
+      "course name": "Applied Geophysics",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 218",
+      "prerequisite": [
+        "PHYS 5B",
+        "PHYS 11C",
+        "GEOL 112"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Dynamics of geological processes and the landscapes they carve.  System thresholds, linked processes, data generation and evaluation that characterize landscape development. ",
+      "course name": "Surficial Processes",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 220",
+      "prerequisite": [
+        "GEOL 120"
+      ]
+    },
+    {
+      "term": " Lecture 3 hours = 3 units; laboratory 170 minutes = 1 unit.  ",
+      "description": "Fundamentals of the geochemistry of Earth materials. Thermodynamics and kinetics of geological environments, silicates and carbonates, major element geochemistry, trace and rare earth element geochemistry, stable and radiogenic isotopes. Applications to studies of aqueous, pedogenic, igneous, sedimentary, and metamorphic environments. Analysis of geochemical aspects of contemporary resource, environmental, and paleoenvironmental problems.  ",
+      "course name": "Geochemistry",
+      "units": "4 Units",
+      "id": "CSUS_GEOL 223",
+      "prerequisite": [
+        "CHEM 1A",
+        "MATH 30",
+        "GEOL 100"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Water budgets, theories of groundwater flow to wells, hydrogeologic regimes, fracture flow, dewatering, salt water intrusion, dating and chemical identification of water.  Lecture 3 hours. ",
+      "course name": "Advanced Hydrogeology",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 227",
+      "prerequisite": [
+        "GEOL 127"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be taken twice for credit. ",
+      "description": "Reading, analysis and discussion of the geologic literature on selected topics in geology.  Student presentations and reports are required. ",
+      "id": "CSUS_GEOL 230",
+      "course name": "Seminar In Geology"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Advanced special topics in Geology that may include structural geology, volcanology, hydrogeology, engineering geology or other specialized topics selected to meet student demand or respond to industry trends in geology. ",
+      "id": "CSUS_GEOL 240",
+      "course name": "Special Topics"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to quantitative and numerical methods of solving geologic problems using high level programming. ",
+      "course name": "Quantitative and Numerical Research Methods",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 275",
+      "prerequisite": [
+        "MATH 31"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Application of advanced geological concepts in tectonics, stratigraphy, sedimentology, petrology, and volconism to the geologic evolution of the Western United States from Precambrian to present. Field trip. Course Fee. ",
+      "course name": "Regional Geology of the Western US",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 290",
+      "prerequisite": [
+        "GEOL 100",
+        "GEOL 102",
+        "GEOL 103",
+        "GEOL 110A"
+      ]
+    },
+    {
+      "term": " 150 minutes Lecture = 3 units.  ",
+      "description": "Takes a geological approach to evaluating engineering issues associated with building with or on natural earthen materials.  Rock and soil mechanics, slope stability, geophysical investigation of rock and soil properties. ",
+      "course name": "Engineering Geology",
+      "units": "3 Units",
+      "id": "CSUS_GEOL 293",
+      "prerequisite": [
+        "GEOL 193C"
+      ]
+    },
+    {
+      "units": "1 - 4 Units",
+      "term": "Fall, Spring",
+      "description": "Graduate research.  Independent research in geology that may include library research, short-term original research, technique development, fieldwork, or laboratory research.  May include research toward thesis proposal.  Culminating experience will be in the form of a written report, oral presentation, or scientific paper. ",
+      "id": "CSUS_GEOL 299",
+      "course name": "Special Problems in Geology"
+    },
+    {
+      "units": "6 Units",
+      "term": "Fall, Spring",
+      "description": "Completion of a thesis approved for the Master's degree.  Should be taken in the final semester prior to the completion of all requirements for the degree. ",
+      "id": "CSUS_GEOL 500",
+      "course name": "Master's Thesis"
+    },
+    {
+      "units": "0 Units",
+      "term": "Fall, Spring",
+      "description": "A written comprehensive examination administed by a committee of three faculty members. Assesses the student's ability to integrate knowledge from core and elective courses, show critical and independent thinking, and demonstrate mastery of the subject matter. Required for the non-thesis option. Graded: CR/NC. May be retaken one time after 4 calendar months. Units: 0.",
+      "id": "CSUS_GEOL 596",
+      "course name": "Comprehensive Examination"
+    }
+  ],
+  "subjectOf": {
+    "id": "GEOL",
+    "subject": "Geology"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Geology",
+    "id": "CSUS"
+  }
+}

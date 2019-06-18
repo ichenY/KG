@@ -1,0 +1,1129 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring, Summer",
+      "description": "Covers the concepts, methods of inquiry, and theory of biological evolution and their application to the human species. There is a specific focus on molecular, Mendelian and population genetics, mechanisms of evolution, primatology, paleoanthropology, biocultural adaptations, and human variation. The scientific method serves as the foundation to the course.",
+      "id": "CSUS_ANTH 1",
+      "course name": "Introduction to Biological Anthropology",
+      "similarTo": [
+        "CalPoly_ANT 465",
+        "CalPoly_ANT 250",
+        "CalPoly_ANT 309",
+        "CalPoly_ANT 200",
+        "AshFord_ANT 307"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Designed to familiarize the student with the materials and techniques of physical anthropology.  Includes human and other primate osteology, anthropometric techniques, and allied methods in the gathering and analysis of physical anthropological data. Through working with the departmental collection of fossil casts and a wide variety of charts and models, the student also becomes familiar with the stages of human and primate evolution. ",
+      "course name": "Biological Anthropology Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_ANTH 1A",
+      "prerequisite": [
+        "ANTH 1"
+      ],
+      "similarTo": [
+        "CalPoly_ANT 250"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to anthropological approaches in the study of people and cultures. Using ethnographic case studies, the course contributes to a critical understanding of continuity and diversity in peoples' lifestyles, social institutions, and cultural practices in different societies around the world. The course also examines the impact of political, economic, and social changes, such as colonization, decolonization, and globalization on people and cultures over the last century.",
+      "id": "CSUS_ANTH 2",
+      "course name": "Introduction to Cultural Anthropology",
+      "similarTo": [
+        "CalPoly_ANT 465",
+        "CalPoly_ANT 250",
+        "CalPoly_ANT 425",
+        "CalPoly_ANT 200",
+        "AshFord_ANT 340",
+        "AshFord_ANT 101",
+        "AshFord_ANT 101"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Students must be admitted to the GE Honors Program. ",
+      "description": "Introduction to anthropological approaches in the study of people and cultures. Using ethnographic case studies, contributes to a critical understanding of the continuity and diversity in peoples' lifestyles, social institutions, and cultural practices in different societies around the world. Examines the impact of political, economic, and social changes, such as colonization, decolonization, globalization, etc., on people and cultures over the last century. Intended for students enrolled in the University's GE Honors Program. ",
+      "id": "CSUS_ANTH 2H",
+      "course name": "Introduction to Cultural Anthropology - Honors",
+      "similarTo": [
+        "AshFord_ANT 101"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduces students to the methods and theories used by archaeologists to find, recover, and interpret such remains in an effort to reconstruct and understand the lives of earlier peoples. The class uses archaeological case studies, films, and hands-on examples of tools and other artifacts produced by simple stone age hunters and more complex civilizations that lived in California and other parts of the world.",
+      "id": "CSUS_ANTH 3",
+      "course name": "Introduction to Archaeology"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the abstract and formal structures of language and cultural dimensions of human communication via major linguistic anthropological concepts, theoretical assumptions, and methodologies. Addresses the logical, formal relationship between underlying rules of natural languages while critically analyzing how speakers from different cultures use language to convey complex social and cultural information. Course illuminates how language is used to create and reinforce relationships of power (race, class, gender); develops ability to recognize linguistic fallacies; and instructs in basic critical thinking skills.",
+      "id": "CSUS_ANTH 4",
+      "course name": "Language, Culture, and Critical Thinking"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Cross-cultural study of the forms and functions of supernatural beliefs and associated rituals in various societies of Africa, Asia, aboriginal Australia, Oceania, South America, native North America and elsewhere. Emphasis is on understanding beliefs and rituals within given social contexts, and using broad comparisons to derive insight into the general functions of beliefs and rituals in human life.",
+      "id": "CSUS_ANTH 13",
+      "course name": "Magic, Witchcraft and Religion"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the broad sweep of world prehistory, from the emergence of human culture through the development of domestication of plants and animals, and to the origins of complex societies. Included are major cultural developments on every continent, emphasizing similarities and differences in the nature and timing of key technological, cultural, and sociological changes. Methodologies for learning about the past, major archaeological discoveries, important personalities, and contributions to the modern world are discussed in the context of understanding the strengths and limitations of a scientific approach to human prehistory.",
+      "id": "CSUS_ANTH 15",
+      "course name": "World Prehistory and the Evolution of Modern Humanity"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the emergence and development of early civilizations.  Studies state formation, urbanization, market system development, and other processes relevant to the evolution of early civilizations from the standpoints of cross-cultural comparison and modern anthropological theory.  The goal is to identify cross-cultural regularities as well as critical differences that can explain the various evolutionary trajectories of these societies.  The civilizations that will be contrasted include societies from Mesopotamia, Egypt, the Indus Valley, China, Mesoamerica, Andean South America, and other regions.",
+      "id": "CSUS_ANTH 16",
+      "course name": "Comparative Early Civilizations"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University. Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills. Provides students with the opportunity to interact with fellow classmates and the seminar leader to build a community of academic support and personal support.",
+      "id": "CSUS_ANTH 21",
+      "course name": "Freshman Seminar: Becoming an Educated Person"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring, Summer",
+      "description": "Focuses on analyzing the historically conditioned political, economic and social factors that have contributed to cultural diversity in the U.S; a critical anthropological approach is developed to explore the intersection of race, class, gender, ethnicity and sexuality; the political economy of institutions and ideas, such as racism, classism, sexual stereotyping, family, religion, state, color-blindness, multiculturalism, etc.; and, discourses of cultural diversity in the U.S.",
+      "id": "CSUS_ANTH 101",
+      "course name": "Cultural Diversity."
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "An upper division general introduction to cultural anthropology. Divided into two major parts: a survey of theories, methods and concepts of cultural anthropology, and an introduction to applied cultural anthropology. ",
+      "course name": "The Nature of Culture.",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 102",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Cross-cultural comparative approach to human cognition, child-training practices, personality development, deviant behavior, cultural psychiatry, and data gathering techniques. ",
+      "course name": "Psychological Anthropology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 103",
+      "prerequisite": [
+        "ANTH 2",
+        "ANTH 102"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Anthropological theory in historical perspective. ",
+      "course name": "The History of Anthropology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 104",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of the nature of war, primarily as it occurs in pre-industrial societies, and a survey of the kinds of explanations of this phenomenon current in anthropology. Emphasis is on understanding the complexity, variability, and cultural imbeddedness of war as it occurs around the world. ",
+      "course name": "Anthropology of War",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 105",
+      "prerequisite": [
+        "ANTH 146"
+      ],
+      "similarTo": [
+        "AshFord_ANT 307"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of child growth and development patterns universal to all children with focus on the pressures and effects of the Mexican and Anglo cultures on the development of the Chicano child.",
+      "id": "CSUS_ANTH 106",
+      "course name": "Culture and Personality of the Chicano Child"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Survey of the rapidly disappearing life way which anthropologists call hunting and gathering, with economies based on the use of wild plant and animal resources. Using ethnographic examples from the Arctic, southern Africa, rainforests in South America, deserts of Australia, and western North America, explores variation in hunter-gatherer societies with respect to differences in environment, technology, social organization, and the historical effects of interaction with more complex cultural groups. Models that attempt to explain long-term changes in this life way are also explored. ",
+      "course name": "Anthropology of Hunters and Gatherers",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 107",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examines the fundamentals economic anthropology through a focus on production, exchange, and consumption in a range of historical and ethnographic contexts. Introduces different frameworks for theorizing the economy and explaining human behavior and decision-making. Addresses central questions and issues in cultural anthropology on the origins of value, wealth and social stratification, the meanings of work, gift exchange and reciprocity, property regimes, morality and debt, marketing and desire.  ",
+      "course name": "Economic Anthropology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 108",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Survey of anthropological research regarding the relationships between human behavior, ecology, and evolution.  Reviews historic development of research in this field, and contrasts approaches based in ecological and evolutionary theory.  Reviews and evaluates of case studies.  Topics include hunter-gatherer and hominid economy and social organization, foraging theory, work effort, population growth and regulation, origins of agriculture, warfare, ritual and resource conservation, and origins of complex society. ",
+      "course name": "Ecological and Evolutionary Approaches to Anthropology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 109",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Traces the development of archaeology from its inception in the eighteenth century up to the present time. Readings, lectures, and class assignments follow the evolution of archaeological method and theory in relation to changing ideas about the role of culture, environment, and technology within the broader discipline of anthropology. ",
+      "course name": "Archaeological Method and Theory",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 110",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Pre-contact California encompassed some of the most extensive environmental and cultural diversity ever to exist on the planet, containing widely divergent biota, many distinct languages and cultures, and among the densest hunter-gatherer populations ever recorded. At least 11,000-12,000 years of human occupation have been marked by multiple migrations and major shifts in technological and social organization. Explores long-term trends in cultural development across the state, and examines models used to explain why semi-permanent settlements, intensive subsistence strategies, and complex social institutions arose in some times/places and not others. ",
+      "course name": "California Archaeology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 111",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Explores the cultural and natural history of the Great Basin from the last glacial maximum into the historic era. Though largely arid, this region in fact manifests considerable environmental variability and has seen significant climatic alterations since the Pleistocene. Human occupation of the Great Basin witnessed major changes in demography, technology, subsistence practices, and sociopolitical organization over the last 10-12,000 years. The course looks to understand cultural and environmental variability across the region through examination of the long-term material record and consideration of anthropological and biological models. ",
+      "course name": "Great Basin Archaeology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 112",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Survey of the prehistory of the Arizona, New Mexico, Western Colorado, Utah, and adjacent regions of Nevada, Texas and northwestern Mexico.  Major prehistoric cultures of the Southwest (Hohokam, Anasazi, Mogollon, Fremont) are covered in detail.  Focus on major transitions in subsistence and social organization emphasizing current issues of archaeological research.  Cultural influences from outside areas are also considered. ",
+      "course name": "Prehistory of the Southwest",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 113",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Familiarizes students with the archaeological record of North America, and provides an analytical framework through which it may be understood in anthropologically meaningful terms. This will be accomplished by considering some of the explanations that have been proposed to account for the prehistory of the continent, and by examining the archaeological remains and cultural sequences found in various areas, including the North and Southeast, Great Plains, Pacific Northwest, and arctic/subarctic regions. ",
+      "course name": "North American Prehistory",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 114",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Surveys and evaluates worldwide anthropological perspectives of the origins of agriculture and the rise of complex society. Traces the development of major archaeological theories for the inception and spread of agriculture and civilization, acquainting students with groundbreaking archaeological research associated with each theoretical perspective. Current archaeological research is reviewed in-depth, providing a context for critique of the theories. Examples from North America, Latin America, the Middle East, India and China are compared and contrasted using movies, readings, and lectures. ",
+      "course name": "Origins of Agriculture",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 115",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Old World Paleolithic archaeology from the emergence of hominids until the development of agriculture and civilization. Cultural developments in Africa, Asia, Europe and Australia are examined with the aim of highlighting similarities and differences in the process of technological, demographic, and sociopolitical change within each region. Explanatory models are offered to account for cultural evolution in various parts of the Old World are explored and assessed.",
+      "id": "CSUS_ANTH 116",
+      "course name": "Old World Prehistory:  Paleolithic Archaeology"
+    },
+    {
+      "units": "4 Units",
+      "description": "Seminar on techniques and methods employed in analysis of faunal remains from archaeological sites, coupled with a laboratory providing hands-on identification of mammalian remains from these settings. Large focus on quantitative methods used in zooarchaeology to infer behavioral patterns of the human past and their paleoenvironments. ",
+      "id": "CSUS_ANTH 119",
+      "prerequisite": [
+        "ANTH 3"
+      ],
+      "course name": "Analysis of Faunal Remains"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Covers the conceptual framework involved in quantitative methods of data analysis commonly employed in anthropology. The emphasis is primarily on understanding concepts and secondarily on learning techniques of data analysis. Topics include data description and distributions, estimation procedures, hypothesis testing, and model fitting. Illustration of concepts in lecture are made with data from archaeology, physical anthropology, and social/cultural anthropology. ",
+      "id": "CSUS_ANTH 120",
+      "course name": "Introductory Statistics for Anthropologists"
+    },
+    {
+      "term": ". ",
+      "description": "Provides an upper division introduction to the archeology of Mesoamerica for students not majoring in anthropology. Discusses the evolution of the ancient civilizations of Mesoamerica, including Mexico, Guatemala, Belize, Honduras, and El Salvador. Examines the development of societies from the earliest inhabitants to the growth of empires. Includes coverage of the Olmecs, Monte Alban, Teotihuacan, the Classic Maya, the Toltecs, and the Aztecs. ",
+      "course name": "Archaeology of Mexico",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 121",
+      "prerequisite": [
+        "ANTH 122"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Traces the emergence of pre-hispanic state societies in Mesoamerica from the growth of the earliest settlements to the collapse of the Aztec empire. Analyzes how complex societies evolved in Mesoamerica, focusing on such evidence as household and village social organization, craft specialization and interregional exchange, religion and ideology, and the logistics of state management and imperial expansion. ",
+      "course name": "The Evolution of Early Mesoamerican States",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 122",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the importance of various preindustrial technologies, and the techniques and methods involved in their manufacture and use. Topics include stone, bone, wood, and hide working, ceramics, weaving, metallurgy, and other crafts essential to human survival in ancient and contemporary societies around the world.",
+      "id": "CSUS_ANTH 123",
+      "course name": "Ancient Technology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "All human societies depend on their natural surroundings, and so the reconstruction of prehistoric environments is an essential part of archaeological interpretation. Three interrelated aspects of environmental archaeology are considered: (1) general approaches to paleoenvironmental reconstruction, employing various biological and geological indicators; (2) the analysis of human plant and animal food remains; and (3) the geological and other processes that are responsible for the formation of archaeological deposits. ",
+      "course name": "Environmental Archaeology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 124",
+      "prerequisite": [
+        "ANTH 3"
+      ],
+      "similarTo": [
+        "CalPoly_ANT 309"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Written history only records a small portion of human activities that occurred in the recent past. Explores the numerous methods of investigation, analysis and interpretation that are available to aid the historical archaeologist in discovering missing information and in some cases correcting erroneous statements, assumptions and interpretations about the past.",
+      "id": "CSUS_ANTH 125",
+      "course name": "Historical Archaeology"
+    },
+    {
+      "term": " May be repeated once for credit.  ",
+      "description": "Introduces students to various approaches to archaeological analysis, focusing on how different classes of data are collected, classified, and interpreted to resolve research issues. Includes such topics as the handling, treatment, and analysis of flaked and ground stone tools, plant and animal food remains, and other types of archaeological materials. Lecture one hour, laboratory six hours. ",
+      "course name": "Techniques of Archaeological Analysis",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 126",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Takes a wide-ranging look at how cultural resources are managed and preserved in California, the greater U.S., and other parts of the world. More than just a review of applicable laws and regulations, it is designed to offer a history of historic preservation, examine its role in our society, and explore the prospects for its continued presence. Practical aspects of Cultural Resource Management (CRM) are reviewed with respect to designing, budgeting, and performing archaeological surveys, site evaluation studies, and data recovery or mitigation programs. ",
+      "course name": "Cultural Resource Management in Theory and Practice",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 127",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides a survey of the traditional cultures of California Native American groups as they existed immediately after Western contact. Exploration of the ecological linguistic, economic, social, political, and religious diversity of California Native American groups provides a background for analysis of current anthropological theories of hunter-gatherer adaptations, subsistence intensification, political economy, cultural complexity, and California prehistory.",
+      "id": "CSUS_ANTH 128",
+      "course name": "Indians of California"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Unique character of caves and their deposits present many challenges that cannot always be met with conventional archaeological, methodological and theoretical approaches. Students will be exposed to investigative techniques that facilitate the understanding of these unique archaeological resources. The investigation of the human use of caves through a worldwide perspective provides students with a thorough introduction to the study of these significant resources. ",
+      "course name": "Human Use of Caves From An Archaeological Perspective",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 129",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "term": ". Only one may be counted for credit.",
+      "description": "Examines the nature and forms of social justice and injustice. Addresses key philosophical and theoretical models and debates over the meaning of social justice, using historical and contemporary examples to highlight important concepts and controversies. Faculty from different departments within SSIS, and occasionally from other colleges, will address how their discipline understands and analyzes issues of social justice. Students will be encouraged to critically assess the assumptions of various perspectives on social justice, and to address the relationship of academe and social activism in achieving social justice. ",
+      "course name": "Social Justice in Interdisciplinary Perspective",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 130",
+      "prerequisite": [
+        "ID 124",
+        "ENVS 124",
+        "SOC 124"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "More than a place or \"continent,\" Europe is a social and ideological construction employed to unite diverse linguistic and cultural communities.  Focuses on major themes in contemporary Europeanist anthropology, including transformations within and between local communities and regions (especially with regards to Northern Ireland, the former Society bloc, and Yugoslav federation), immigration, neo-nationalist extremism, the changing character of religious institutions, and the European Union as a framework for organizing identity and society. ",
+      "course name": "Europe in the Ethnographic Imagination",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 131",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Culture of the Japanese: traditional and modern, rural and urban, cultural and social institutions; village and urban organization; and family structure. Aspects of social change in contemporary rural and urban Japan.",
+      "id": "CSUS_ANTH 134",
+      "course name": "Japanese Culture and Society"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides a survey of traditional Native American societies and culture areas north of Mexico. Readings, lectures, and  discussions emphasize primary ethnographic and historic data that provide the richest accounts of Amerindian cultures at the time of European contact and shortly thereafter.",
+      "id": "CSUS_ANTH 135",
+      "course name": "Indians of North America"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Cross-cultural comparisons of the structures and functions of non-literate and complex societies; the diversity of social and territorial units, their analysis and classification; and the study of social organization and control and social change in relation to kinship, marriage and family, lineage and clan, law, politics, economics and religion in diverse societies. ",
+      "course name": "Social Anthropology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 140",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Exploration of the concepts, dimensions and dynamics of culture theory, viewing culture as an adaptive, comparative, cognitive, structural and symbolic system. ",
+      "course name": "Culture Theory",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 141",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Explores political anthropology as a specialized field of anthropological inquiry. Analyzes the articulation of power, authority, and legitimacy in non-state and state based societies. Contributes to an understanding of the transforming powers of modernity and resistance to it and develops a critical appreciation of how age, status, class, ethnicity, race, gender and religious ideologies shape political order within various societies around the world. ",
+      "course name": "Political Anthropology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 142",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the cultural and social institutions of the Mexican people. The changing patterns of family, economic, political, religious, and educational systems in Mexico.",
+      "id": "CSUS_ANTH 143",
+      "course name": "Culture and Society in Mexico"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Anthropological analysis of contemporary American culture viewed from the perspective of both internal and external observers, with emphasis on such subjects as cultural myths and social realities, values, ideology and world view, family and cultural transmission, social institutions and structures, religious ceremonies and magical rituals, and other customs and practices that establish American culture as one of the more bizarre and exotic in the world ethnographic literature. ",
+      "course name": "Contemporary American Culture in Anthropological Perspective",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 144",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Exploration of diversity of peoples and cultures in Latin America and the common experiences such as colonialism, ethnicity, and economy that shape their lives. Aspects of culture examined include: race and ethnicity, colonialism and its implications, the state and political institutions, religious systems, kinship and social organization, gender, economic processes, and issues pertaining to environment, urbanization, globalization, nationalism, and transnationalism. ",
+      "course name": "Peoples and Cultures of Latin America",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 145",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduces students to current techniques, theories, and debates in ethnographic research and analysis through the use of ethnographies and related works. Critically examines the production of ethnographic knowledge in socio-cultural anthropology from historical and contemporary perspectives. ",
+      "course name": "Ethnographic Analysis",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 146",
+      "prerequisite": [
+        "ANTH 2"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring, Summer",
+      "description": "Survey of the native peoples of Southeast Asia (Laos, Vietnam, Thailand, Philippines, Malaysia, Indonesia, Burma and Singapore). Emphasis is on examining the forms of social and cultural pluralism in contemporary Southeast Asian societies.",
+      "id": "CSUS_ANTH 147",
+      "course name": "Peoples of Southeast Asia"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Exploration of the cultures of three Chinese societies (Taiwan, Hong Kong, and the People's Republic of China) in each of their unique historical contexts.  A comparison and contrast of how these societies, though sharing a common cultural heritage, have had different paths of development in recent times.  Aspects of culture examined include: the state and political institutions; religious systems; kinship and social organization; economic processes; and issues of regional integration, nationalism and transnationalism.",
+      "id": "CSUS_ANTH 148",
+      "course name": "Anthropology of Chinese Societies"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Exploration of cultural practices in different South Asian societies.  Analyzes the impact of colonialism, post-colonialism and discourses of modernity on South Asian societies.  Examines the process of state formation, nation-building, communal conflict, economic transformations and the politics of caste, gender and class in contemporary South Asia.",
+      "id": "CSUS_ANTH 149",
+      "course name": "Cultures of South Asia"
+    },
+    {
+      "term": "Fall only",
+      "description": "Provides students a hands-on, in-depth study of human osteology. Learn growth and development of the skeletal tissues and identification of the individual skeletal elements, and practice basic measurements, sexing and aging of skeletal material. A prerequisite for advanced techniques in forensic anthropology. Students will work with the department's osteological materials. ",
+      "course name": "Human Osteology",
+      "units": "4 Units",
+      "id": "CSUS_ANTH 150",
+      "prerequisite": [
+        "ANTH 1",
+        "ANTH 1A",
+        "BIO 22"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Survey of the field of human evolution from primate beginnings to modern humans. Emphasizes the interpretation of the fossil evidence and the major trends in hominid evolution, including the origins and relationships of the extinct forms of humans. ",
+      "course name": "Human Paleontology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 151",
+      "prerequisite": [
+        "ANTH 1",
+        "ANTH 1A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Covers the significant dental, skeletal, and soft-anatomical adaptations of the major living families and/or subfamilies within the Order Primates.  In the process of surveying the adaptations, the student will become familiar with evolutionary theory, taxonomy, embryology, ecology, social systems, biomechanics, effects of size, and the functional morphology of the skeletal system in primates.  Three-hour seminar, with some lecture and hands-on experience with skeletons and casts.",
+      "id": "CSUS_ANTH 152",
+      "course name": "Primate Adaptations"
+    },
+    {
+      "term": " recommended. ",
+      "description": "Introduction to the application of evolutionary theory to human health and disease. Evolutionary medicine is a rapidly growing interdisciplinary specialization utilizing insights from evolutionary theory and human evolutionary ecology to inform understandings of human health, development and disease; and also to critique existing biomedical theory about the human condition. Topics include reproduction, child birth, lactation, growth and development, infectious diseases, parasites, diet and nutrition, mental and behavioral disorders, and substance use and addiction. ",
+      "course name": "Evolutionary Medicine",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 153",
+      "prerequisite": [
+        "ANTH 1",
+        "BIO 10",
+        "PSYC 2"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of the genetic, ecological and social influences on non-human primate behavior from an evolutionary perspective; covers the major non-human primate groups, including their taxonomy, major adaptations, and their present geographic distribution. The history and development of primate behavior also will be considered with an emphasis on various models for interpreting behavior.",
+      "id": "CSUS_ANTH 154",
+      "course name": "Primate Behavior"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Survey of the development of method and theory in physical anthropology from its origins in zoology, anatomy, and medicine, to the various approaches currently used in the study of human biology and evolution. Concepts considered include the scientific method, modern genetics, evolutionary theory, the race concept and other approaches to explaining human variation, taxonomy and systematics, and macro-evolutionary models. Critical reading and analytical skills will be emphasized. ",
+      "course name": "Fundamentals of Biological Anthropology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 155",
+      "prerequisite": [
+        "ANTH 1",
+        "ANTH 1A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to the application of evolutionary theory to human behavior and psychology.  Reviews and contrasts contemporary perspectives of human behavioral evolution with emphasis on insights from the emerging field of evolutionary psychology.  Topics include human behavior and cognition as adaptations, \"selfish genes,\" game theory, evolution of social behavior, evolution of altruism, human mating strategies, parenting, behavioral disorders, evolution of the life cycle, human behavioral ecology, Darwinian medicine, and evolutionary psychology. ",
+      "course name": "Evolution of Human Behavior",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 156",
+      "prerequisite": [
+        "ANTH 1",
+        "BIO 10",
+        "PSYC 2"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Survey of the basic principles of human genetics with emphasis on the mechanisms that shape human evolution and the development of human races. Analyzes the laws of heredity as exhibited in modern human populations and human adaptability to climatic extremes. Historical development of concepts. Discussion of most current research. ",
+      "course name": "Human Variation",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 157",
+      "prerequisite": [
+        "ANTH 1",
+        "BIO 10"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Provides advanced techniques in osteology and forensic anthropology essential for many practicing physical anthropologists.  Discussion and survey of the primary literature, followed by intensive hands-on experience with human skeletal remains.  Included: techniques for determining age, sex and ethnicity; measurement; pathology; and trauma.  The role of the forensic anthropologist and archaeologist, ethical considerations, and human rights issues are also covered. Three-hour seminar, and a three-hour lab involving substantial hands-on experience with human skeletal remains. ",
+      "course name": "Human Skeletal Analysis",
+      "units": "4 Units",
+      "id": "CSUS_ANTH 158",
+      "prerequisite": [
+        "ANTH 150"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Overview of forensic anthropology - an applied field of biological anthropology that works with law enforcement, medical examiners, and human rights agencies. Forensic anthropologists answer questions of medico-legal significance by applying techniques designed for analysis of human skeletal remains. Includes determining time since death, the biological profile, trauma analysis and the role of the forensic anthropologist in human rights investigations. ",
+      "id": "CSUS_ANTH 159",
+      "course name": "Forensic Anthropology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to language and linguistics for anthropologists with emphasis on the role of linguistic anthropology in the development of theory and method within the discipline; non-human communication systems, language acquisition, and culture theory; the fundamentals of descriptive and structural linguistics; types of human languages; the diversity and distribution of languages from prehistoric to modern times; fundamentals of historical linguistics and proto-cultural studies. ",
+      "course name": "Linguistic Anthropology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 160",
+      "prerequisite": [
+        "ANTH 4"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Explores the cultural richness and regional variation of African societies. Engages students with central issues and debates pertaining to Africa in relation to the deepening global interconnectedness of the human socio-cultural worlds. Topical discussions include: colonial legacy, the postcolonial state and traditional authority; ethnic identity and cultural diversity; family, kinship and the African youth; masculinity, sexuality and women; Islam, Christianity and indigenous spirituality; health, poverty and development; migration and globalization; ecotourism and African cultures. ",
+      "course name": "African Cultures and Societies",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 161",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Relationship between language and culture; historical relationships between languages; language families and major cultural traditions; cross-cultural studies of how the language influences perception and the organization of reality; the ways in which language is embedded in social life and practices, and the ways in which various cultural patterns and values are reflected in language. ",
+      "course name": "Language and Culture",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 162",
+      "prerequisite": [
+        "ANTH 4"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Overview of both anthropological method and theory applied to research of urban environments and a survey of significant anthropological studies that have been conducted in these settings. Examines such topics as the urbanization process, the culture of cities, urban sub-cultures, social problems in urban areas, social networks and adaptive kinship strategies in cities, and the concentration and exercise of power, wealth and influence in urban centers. ",
+      "course name": "Urban Anthropology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 163",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Anthropological study of mechanisms and process of social and culture change; basic theories of ecological adaptation and cultural evolution; action chains and cultural patterns; technological innovation, migration, acculturation, cultural dissonance, conflict, and cultural revitalization; analysis of case studies emphasizing contemporary conditions and problems; rapid technological innovation, population control, immigration and acculturation, social diversification, ethnic conflict. ",
+      "course name": "Culture Change",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 164",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides tools for exploring the application of an anthropological paradigm to various aspects of culture change and conflict. Content is organized into a series of critical topical areas such as modernization, economic development, human services, and urbanization. ",
+      "course name": "Applied Anthropology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 165",
+      "prerequisite": [
+        "ANTH 105",
+        "ANTH 108",
+        "ANTH 140",
+        "ANTH 141",
+        "ANTH 142",
+        "ANTH 167",
+        "ANTH 168",
+        "ANTH 176"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring, Summer",
+      "description": "Examination of cult movements, involving comparisons of the ideals, objectives and symbolic processes common to ecstatic religious movements throughout the world -- from Melanesian cargo cults to the Peoples' Temple. Anthropological perspectives are used to examine religious cults as conscious attempts to perpetuate traditional values and social goals or to radically change the status quo; millenarian movements, crisis cults, nature communes, exotic religious importations, and cult characteristics of modern secular movements.",
+      "id": "CSUS_ANTH 166",
+      "course name": "Rise of Religious Cults"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examines ethnographic perspectives on the character and intersections of religion, ritual, and culture.  Surveys the thought of \"classical\" social theorists (e.g., Durkheim, Tylor, Weber, and Evans-Pritchard), and concentrates on central topics in the anthropology of religion.  Including the political nature of embodiment and trance, religion and nationalism, the significance of language and performance, the gendered character of many religious phenomena, and science and religion as competing epistemologies. ",
+      "course name": "Religion and Culture",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 167",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Anthropological contributions to the study of folklore; survey of oral literature and other folklore forms, such as myth, folktale, legend, proverb, riddle, and games, in their social contexts; folklore as \"autobiographical ethnography,\" folklore in everyday life, survey and comparison of folklore traditions in several culture areas. ",
+      "course name": "Folklore in Anthropological Perspective",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 168",
+      "prerequisite": [
+        "ANTH 160",
+        "ANTH 162"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Consideration of language in its social context: language and power, language and gender, interethnic communication, language and race, pidgins and creoles, multilingualism, standardization, language ideology. Instruction in ethnographic and linguistic methods of data collection and analysis; identification of socially significant linguistic variables. Contributions of the study of contextualized speech to linguistic theory. ",
+      "course name": "Research Methods in Linguistic Anthropology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 169",
+      "prerequisite": [
+        "ANTH 160",
+        "ANTH 162"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Introduction to the field study of religious communities.  Addresses the nature of religious pluralism in the U.S. today.  The practice and belief systems of at least five different religious communities will be studied each semester.  Students are required to do an in-depth term project based on research in one or more religious communities. ",
+      "course name": "The Religious Landscape of the Sacramento Valley.",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 170",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X",
+        "HRS 170"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "An exploration of research conducted on human remains from archaeological sites, including historical and ethical perspectives. Examines the effects of funerary context and preservation on skeletal remains. Demonstrates relevance of human skeletal analysis to understanding demography, causes of human skeletal variation, dietary patterns, and relevant themes in paleopathological research. Special emphasis placed on infectious disease, growth and development, activity patterns, injury and trauma, craniofacial adaptations, and methods for identifying genetic relationships in human skeletal remains. ",
+      "course name": "Bioarchaeology: Analyzing Human Remains from Archaeology Sites",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 171",
+      "prerequisite": [
+        "ANTH 1",
+        "ANTH 1A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduces students to current anthropological research on social groups and cultural practices that orient around and draw inspiration from music, wherever and however it is conceived.  Course focus is not on music theory or structure; rather, it critically examines anthropological and ethnographic works that focus on the relations among such social domains and features as visual and aural aesthetics, political belief, gender, ritual, religion, race, and ethnicity. ",
+      "course name": "Anthropologies of Music",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 172",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "This course examines contemporary Asia as an articulation of intersecting historical, cultural, political and economic processes. The course will focus on postcolonial developments and critically explore the manner in which process of globalization and neoliberal strategies embed themselves within, and the responses they elicit from societies across Asia. ",
+      "course name": "Anthropology of Contemporary Asia",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 173",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examines food and eating from an anthropological perspective. Demonstrates how food communicates social messages about individual or group identity, creates social boundaries or forges belonging, and can reflect one's politics, values, and ethics. Through ethnographic examples and attention to global processes, this course explores food production, circulation, and consumption. ",
+      "course name": "Anthropology of Food",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 174",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "The course introduces students to major themes that inform anthropological understanding of globalization. This course will explore theoretical perspectives, topics, and methods of analysis developed in anthropology to capture the effects of intermingling global/local cultural forces and the diverse relations of power that structure them and in which they are embedded. ",
+      "course name": "Anthropology of Globalization",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 175",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides an introduction to museum anthropology. Surveys the emergence of modern anthropology from its origins in 17th century natural history to its late 19th century institutionalization in museums. Explores the role of collectors, curators and financial patrons in the development of museums and social theory. Examines the contemporary poetics and politics of museums and cultural interpretation, including cultural property rights, cultural self-representation, collaborative exhibit development, and the ethnography of museums. ",
+      "course name": "Museums, Culture, and Society",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 176",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Combined lecture and laboratory course designed to teach basic museum methods. Surveys contemporary issues and practices in museum governance, management, interpretation, and evaluation. Provides hands-on collections and exhibit experience, including participation in the design, fabrication and installation of an exhibition. ",
+      "course name": "Museum Methods",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 177",
+      "prerequisite": [
+        "ANTH 176"
+      ]
+    },
+    {
+      "units": "3 - 4 Units",
+      "term": " May be repeated for credit. ",
+      "description": "Practical experience in an approved professional environment. Student intern will work directly with professionals in public and private agencies where opportunities exist for anthropological work. Supervision and evaluation are provided by a faculty internship director and the on-site supervisor. Placements require from 15-20 hours per week. ",
+      "id": "CSUS_ANTH 178",
+      "course name": "Internship",
+      "similarTo": [
+        "CalPoly_ANT 465"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examines multiple dimensions of human rights from an anthropological perspective. Explores the history and development of human rights ideas and legal conventions, and how these ideas and conventions are appropriated, adapted, contested or rejected in different cultural and political contexts. Using ethnographic case studies from around the world, addresses how the human rights discourse mediates the relationship between specific groups of people, their national states and international conventions and institutions. ",
+      "course name": "Anthropology of Human Rights",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 181",
+      "prerequisite": [
+        "ANTH 146"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Position of women in various societies, preliterate through contemporary industrial; the evolution of women's roles and rights cross-culturally.",
+      "id": "CSUS_ANTH 183",
+      "course name": "Women Cross-Culturally"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Analyzes poverty in American society: the cross-cultural context, social inequality in the U.S., theoretical perspectives and their influence on policy, present trends and implications for the future. ",
+      "course name": "",
+      "units": "3 Units",
+      "id": "CSUS_ ",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the diverse ways that humans explain and attempt to alter the human body. Focus is on the meanings and implications of our own bodily experiences through objective comparison of the experiences, explanations and techniques found in our society with those in others.",
+      "id": "CSUS_ANTH 188",
+      "course name": "Anthropology of the Body"
+    },
+    {
+      "term": " May be repeated for credit providing the topic and instructor are not the same.  ",
+      "description": "Seminar examining contemporary developments in theories and methods of linguistic anthropology. ",
+      "course name": "Advanced Topics in Linguistic Anthropology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 190",
+      "prerequisite": [
+        "ANTH 160",
+        "ANTH 162"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students work 3-6 hours per week off campus in one of several research institutions under the supervision of institutional personnel. Students are required to become familiar with the scholarly literature relevant to their placement, to participate in on-campus meetings, and to write a research paper integrating the research and fieldwork aspects of the practicum. Permission of instructor and ANTH coordinator required prior to registration. Open to seniors only. ",
+      "course name": "Anthropology Practicum",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 191",
+      "prerequisite": [
+        "ANTH 165",
+        "ANTH 169",
+        "ANTH 177",
+        "ANTH 192B"
+      ]
+    },
+    {
+      "term": " May be repeated for credit.  ",
+      "description": ". ",
+      "course name": "Laboratory Work in Archaeology",
+      "units": "1 Unit",
+      "id": "CSUS_ANTH 192A",
+      "prerequisite": [
+        "ANTH 3",
+        "ANTH 195A",
+        "ANTH 195A",
+        "ANTH 195A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Design and discussion of research strategies, primary ethnographic techniques, the development of interviewing skills, and practice in the use of various recording technologies. ",
+      "course name": "Laboratory in Ethnographic Techniques",
+      "units": "1 Unit",
+      "id": "CSUS_ANTH 192B",
+      "prerequisite": [
+        "ANTH 105",
+        "ANTH 108",
+        "ANTH 140",
+        "ANTH 141",
+        "ANTH 142",
+        "ANTH 167",
+        "ANTH 168",
+        "ANTH 176",
+        "ANTH 195B"
+      ]
+    },
+    {
+      "term": " May be repeated for credit.  ",
+      "description": "Introduction to archaeological field methods, covering practical aspects of how to identify and investigate isolated artifact finds, particular sites and features, and entire landscapes. Covering survey and excavation techniques, basic approaches to sampling, mapping and navigation, stratigraphic excavation, artifact and feature recording, and recovery methods. ",
+      "course name": "Fieldwork in Archaeology",
+      "units": "2 Units",
+      "id": "CSUS_ANTH 195A",
+      "prerequisite": [
+        "ANTH 3",
+        "ANTH 192B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Directed team fieldwork in ethnology. ",
+      "course name": "Fieldwork in Ethnology",
+      "units": "2 Units",
+      "id": "CSUS_ANTH 195B",
+      "prerequisite": [
+        "ANTH 105",
+        "ANTH 108",
+        "ANTH 140",
+        "ANTH 141",
+        "ANTH 142",
+        "ANTH 167",
+        "ANTH 168",
+        "ANTH 176",
+        "ANTH 192B"
+      ]
+    },
+    {
+      "units": "2 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Individual or group fieldwork in various areas of physical anthropology, under the supervision of individual faculty members; may involve related supervised laboratory work.",
+      "id": "CSUS_ANTH 195C",
+      "course name": "Fieldwork in Physical Anthropology"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Anthropology approaches knowledge about the human condition from multidisciplinary perspectives. This senior seminar synthesizes fundamental themes from among the sub-disciplines. Students will engage with concepts and issues from different anthropological perspectives, and then work to identify common historical, methodological and theoretical anthropological themes. On completion of the course, students will have learned to seek and interpret anthropological knowledge in a holistic fashion. ",
+      "id": "CSUS_ANTH 196S",
+      "course name": "Senior Seminar in Anthropology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "An examination of past and recent research conducted on animal remains from archaeological sites. Discussion and survey of the primary literature in evaluating the role animal exploitation plays in human evolution and among small scale foraging, pastoralist, and complex societies. Emphasis on vertebrate taphonomy, reconstruction of diet from faunal remains, and ecological and evolutionary theory to understand human-animal relationships through time.  ",
+      "course name": "Zooarchaeology",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 196T",
+      "prerequisite": [
+        "ANTH 3"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students who appear competent to carry on individual work. May be repeated for credit.  ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_ANTH 199",
+      "course name": "Special Problems",
+      "similarTo": [
+        "CalPoly_ANT 200"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Explores uses of scientific methodology in anthropology through the examination of specific case studies in the various specialties. Focus is on the relationship among techniques, methods, and methodology; hypothesis and theory; units of analysis and comparison; deductive and inductive reasoning; inferential processes; various types of comparison (casual, controlled, hologeistic); limitations of, and objections to, ''the comparative method.\"",
+      "id": "CSUS_ANTH 200",
+      "course name": "General Methods in Anthropology",
+      "similarTo": [
+        "CalPoly_ANT 425"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided topic is not repeated.  ",
+      "description": "Intensive reading and seminar discussion in topics on anthropological theory and research. ",
+      "id": "CSUS_ANTH 201",
+      "course name": "Anthropological Theory",
+      "similarTo": [
+        "AshFord_ANT 340"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of contemporary issues in physical anthropology.",
+      "id": "CSUS_ANTH 202",
+      "course name": "Biological Anthropology Seminar",
+      "similarTo": [
+        "CalPoly_ANT 250"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Explores the intellectual development of archaeological method and theory; examines the history of archaeological thought from its advent to the present day, looking in detail at pre-scientific, culture-historical, processual, and post-processual approaches to the discipline; emphasis is placed on the role of archaeology as a branch of anthropology and as a historical, humanistic, and/or scientific enterprise.",
+      "id": "CSUS_ANTH 203",
+      "course name": "Archaeology"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided topic and instructor are not repeated. ",
+      "description": "Explores recent methodological and theoretical developments within archaeology; focus is on contemporary debates within the discipline; topical coverage varies; examines conceptual and practical concerns, highlighting possibilities and limitations of new approaches to archaeological problems. ",
+      "id": "CSUS_ANTH 204",
+      "course name": "Current Problems in Archaeological Method and Theory"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated once for credit with different instructor. ",
+      "description": "Seminar is designed for students to develop a working knowledge of anthropological approaches to a number of major issues in ethnology. The focus is on the analysis of case studies. ",
+      "id": "CSUS_ANTH 205",
+      "course name": "Ethnology"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit given that the instructor changes. ",
+      "description": "Critical examination of contemporary studies in the relationship between language and culture; nonhuman primate communication and the origin of speech; non-verbal communication; historical linguistics; comparative semiology; ethnosemantics; applications of linguistic models of analysis in the study of culture. ",
+      "id": "CSUS_ANTH 207",
+      "course name": "Language and Culture"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides an intensive, detailed discussion of method and theory in the skeletal biology of past human populations.  Topics discussed include: demography, dietary analysis, mortuary dimensions, health and disease, biological distance and DNA analysis.  Focuses on the interaction of biology and behavior, particularly the influence of culture and the environment on the skeletal and dental tissues. ",
+      "id": "CSUS_ANTH 222",
+      "course name": "Bioarchaeology Seminar"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided topic and instructor are not repeated. ",
+      "description": "Provides an intensive examination of archaeological problems within a selected regional or topical area. Through general readings and case studies, students will critically assess how current perspectives regarding relevant issues have evolved and determine how contemporary viewpoints might be improved or expanded. ",
+      "id": "CSUS_ANTH 223",
+      "course name": "Areal Archaeology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examines more refined approaches to archaeological analysis, focusing on how various classes of data are collected, classified, and interpreted to resolve directed research problems. Emphasis is on such topics as sampling procedures and statistical assessment of data rather than descriptive analysis and interpretation. Lecture one hour; laboratory six hours. ",
+      "course name": "Advanced Techniques of Archaeological Analysis",
+      "units": "3 Units",
+      "id": "CSUS_ANTH 226",
+      "prerequisite": [
+        "ANTH 126"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "description": "Survey of the field of human evolution from primate beginnings to modern humans. Emphasizes the interpretation of the fossil evidence and the major trends in hominid evolution, including the origins and the relationships of the extinct forms of humans.",
+      "id": "CSUS_ANTH 251",
+      "course name": "Human Paleontology"
+    },
+    {
+      "term": "Cross listed: ",
+      "description": "Provides advanced techniques in osteology and forensic anthropology essential for many practicing physical anthropologists. Discussion and survey of the primary literature, followed by intensive hands-on experience with human skeletal remains. Included: techniques for determining age, sex and ancestry; measurement; pathology; and trauma. The role of the forensic anthropologist and archaeologist, ethical considerations, and human rights issues are also covered. Course format is a three-hour seminar, and a three-hour lab involving substantial hands-on experience with human skeletal remains. ",
+      "course name": "Human Skeletal Analysis",
+      "units": "4 Units",
+      "id": "CSUS_ANTH 258",
+      "prerequisite": [
+        "ANTH 150",
+        "ANTH 158"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the mutual constitution of nature-culture, society-environment in diverse ethnographic settings. Demonstrates that ideas about nature and material engagements with it are shaped by the dynamics of social, political, and economic relations in historical contexts. Surveys a range of environmental issues and the cultural politics of environmental struggles through different conceptual, theoretical, analytical approaches in cultural anthropology.",
+      "id": "CSUS_ANTH 274",
+      "course name": "Environmental Anthropology"
+    },
+    {
+      "units": "3 Units",
+      "term": " Recommended for graduate students who plan to intern in the Anthropology Museum.  ",
+      "description": "Surveys the practical, theoretical, and historical dimensions of museum anthropology and material culture studies, with particular emphasis on the U.S. and California. Situates contemporary issues related to the collection, exhibition, and repatriation of ethnographic and archaeological materials within the sociopolitical context of the globally based indigenous rights movement. ",
+      "id": "CSUS_ANTH 276",
+      "course name": "Museum Anthropology"
+    },
+    {
+      "units": "3 - 4 Units",
+      "term": " May be repeated for credit given that topic and instructor changes. ",
+      "description": "Practical graduate level experience in an approved professional environment. Student intern will work directly with professionals in public and private agencies where opportunities exist for anthropological work. Supervision and evaluation are provided by a faculty internship director and the on-site supervisor. Placements require from 15-20 hours per week. ",
+      "id": "CSUS_ANTH 278",
+      "course name": "Internship",
+      "similarTo": [
+        "CalPoly_ANT 465"
+      ]
+    },
+    {
+      "term": " or its equivalent.  May be repeated once for credit.  ",
+      "description": "Laboratory preservation, cataloging and initial analysis of materials recovered through archaeological fieldwork. Graduate students are expected to help supervise undergraduate students and complete a self-directed project under the supervision of the instructor. ",
+      "course name": "Laboratory Work in Archaeology",
+      "units": "1 Unit",
+      "id": "CSUS_ANTH 292A",
+      "prerequisite": [
+        "ANTH 192A",
+        "ANTH 295A",
+        "ANTH 192A"
+      ]
+    },
+    {
+      "term": " May be repeated given that the topic and instructor changes.  ",
+      "description": "Students will assist the instructor in supervising undergraduate students or complete an assigned project in addition to the required fieldwork. ",
+      "course name": "Fieldwork in Archaeology",
+      "units": "2 Units",
+      "id": "CSUS_ANTH 295A",
+      "prerequisite": [
+        "ANTH 195A",
+        "ANTH 292A"
+      ]
+    },
+    {
+      "units": "2 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised graduate level fieldwork in ethnology and ethnography.",
+      "id": "CSUS_ANTH 295B",
+      "course name": "Fieldwork in Ethnology"
+    },
+    {
+      "units": "2 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised graduate level fieldwork in physical anthropology. May include laboratory research.",
+      "id": "CSUS_ANTH 295C",
+      "course name": "Fieldwork in Physical Anthropology"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students who appear competent to carry on individual work at the graduate level; May be repeated given that topic and instructor changes; May be taken twice in the same semester.  ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_ANTH 299",
+      "course name": "Special Problems",
+      "similarTo": [
+        "CalPoly_ANT 200"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Completion of a thesis approved for the master's degree. Number of units of credit is determined by the candidate's Master's degree advisory committee. Should be taken in final semester prior to the completion of all requirements for the degree. ",
+      "id": "CSUS_ANTH 500",
+      "course name": "Master's Thesis"
+    }
+  ],
+  "subjectOf": {
+    "id": "ANTH",
+    "subject": "Anthropology"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Anthropology",
+    "id": "CSUS"
+  }
+}

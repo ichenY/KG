@@ -1,0 +1,427 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Exploration of ethnic and cultural differences to develop or expand awareness, techniques, skills, theories, concepts, and to acquire information necessary to counsel effectively with clients of various ethnic/cultural groups. Students examine their own attitudes, behaviors, perceptions, and biases, and are encouraged to develop their own multicultural approach to counseling. Lecture/discussion three hours.", 
+      "id": "CSUS_EDC 210", 
+      "course name": "Multicultural/Ethnic Counseling"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "An overview of the individual and societal parameters of gender roles and sexism in self-identity, sexual behavior, health, mental health, relationships, values, abuse, violence, etc. Attitudes, research, prevention, assessment and treatment methods are addressed. Meets Board of Behavioral Science requirements in human sexuality and domestic violence.", 
+      "id": "CSUS_EDC 212", 
+      "course name": "Gender Roles in Counseling"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Overview of theories and research pertaining to the dynamics of human development, including cultural, biological, social, and psychological factors. Particular emphasis will be placed on the relationship of these factors to the field of counseling. Lecture three hours.", 
+      "id": "CSUS_EDC 214", 
+      "course name": "Dynamics of Human Development"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of ten counseling philosophies, with emphasis on knowledge and practice. Requires the refinement of one's own counseling orientation. Designed to provide students with a foundation in the basic philosophy and practice of contemporary theories of counseling/psychotherapy. The requirements support three components of multiple measures of learning and outcomes: 1) personal growth, 2) counseling skills building utilizing multiple approaches, 3) professional development. ", 
+      "course name": "Counseling Theory", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 216", 
+      "prerequisite": [
+        "EDC 280"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Intended to acquaint the prospective counselor with an array of assessment instruments and appraisal techniques. Includes practical experience with tests as well as foundations of test development. Lecture three hours.", 
+      "id": "CSUS_EDC 218", 
+      "course name": "Assessment In Counseling"
+    }, 
+    {
+      "term": " May be repeated for credit.  ", 
+      "description": "Group process theory and procedures, including group counseling and guidance. Participation in a group experience is required. Lecture, discussion, three hours. ", 
+      "course name": "Group Processes in Counseling", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 219", 
+      "prerequisite": [
+        "EDC 216", 
+        "EDC 280"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Investigation into concerns and issues, modes, and methodologies surrounding exploration of the spiritual dimension in the counseling/therapy relationship. Experiential activities are included. ", 
+      "course name": "The Spiritual Dimension in Counseling and Psychotherapy", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 220", 
+      "prerequisite": [
+        "EDUC 155", 
+        "EDUC 156", 
+        "EDC 216", 
+        "EDC 280"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open to unclassified students with instructor permission. ", 
+      "description": "Major concepts, theories, and approaches to effective stress reduction. Includes stress level assessment, planning and implementation of a stress reduction program. Practice of beneficial stress reduction techniques and application in clinical practice. ", 
+      "id": "CSUS_EDC 222", 
+      "course name": "Clinical Stress Reduction"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Legal and ethical considerations in the practice of marriage, family, and child counseling. Current laws, responsibilities, restrictions, rights and privileges, licensing regulations, and ethical standards of major professional groups. Child abuse assessment and reporting requirements. Organization, administration, and management of independent practice. Lecture three hours. ", 
+      "course name": "Law and Ethics for Marriage, Family, and Child Counseling", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 230", 
+      "prerequisite": [
+        "EDUC 155", 
+        "EDUC 156", 
+        "EDC 216", 
+        "EDC 280"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced discussion of psychopathology with emphasis on differential diagnosis, use of DSM IV, and development of treatment plans. Use of mental status exam and structured interview schedules. Major diagnostic categories covered include schizophrenia, mood disorders, anxiety disorders, and personality disorders. Completion of case reports and understanding of clinical materials using diagnosis and treatment plans will be emphasized from a diversity perspective. Lecture three hours. ", 
+      "course name": "Diagnosis and Treatment Planning", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 231", 
+      "prerequisite": [
+        "EDC 216", 
+        "EDC 218", 
+        "EDC 280"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Violence in the family includes spouse abuse, child abuse, incest, and sexual abuse. Myths about these areas will be replaced by empirically-based facts. There will be an emphasis on effective treatment methods; research findings on family violence, including etiology and family patterns; overlap with alcohol and other drugs, and maintenance factors. Students will gain techniques and skills in interviewing, assessment, and counseling when violence is a presenting issue. ", 
+      "course name": "Family Violence", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 232", 
+      "prerequisite": [
+        "EDC 212", 
+        "EDC 230", 
+        "EDC 234"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provides an overview of substance abuse, addiction and co-occuring disorders with emphasis on psychoactive drugs including alcohol. Material will focus on the following areas: identification, evaluation, treatment and prevention of substance abuse and addiction, family, friends and coworker issues, legal and medical aspects of substance abuse, populations at risk, the role of support persons, support systems, and community resources. ", 
+      "course name": "Substance Abuse and Addiction", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 233", 
+      "prerequisite": [
+        "EDC 231"
+      ]
+    }, 
+    {
+      "term": " May substitute PSYC 225 with consent of faculty advisor prior to registration.  ", 
+      "description": "Introduction to the basic concepts and principles of family therapy. Provides and lays the foundation on which all theories/schools of family therapy are based and covers the basic theories of family therapy. Issues include evaluation of families, diagnosis in a family context, interviewing strategies, redefining problems in a family systems context, and treatment principles. Lecture three hours. ", 
+      "course name": "Seminar: Marriage and Family Counseling", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 234", 
+      "prerequisite": [
+        "EDC 214", 
+        "EDC 216", 
+        "EDC 280", 
+        "EDC 476"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open to unclassified graduate students on a space available basis. ", 
+      "description": "Introduction to the field of rehabilitation counseling. Students will learn about the foundations of rehabilitation counseling through lecture, discussion, observations of community facilities, and classroom activities. Students will spend 40 hours over the course of the semester volunteering with a rehabilitation agency. Field trip. ", 
+      "id": "CSUS_EDC 239", 
+      "course name": "Foundations in Rehabilitation Counseling"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Psychological, social, and medical aspects of various congenital, hereditary, and trauma-induced disabilities are studied in-depth, particularly their relationship to vocational adjustment. The etiology, treatment, prognosis, and limitations caused by various disabling medical conditions are covered as well as such factors as depression, denial and dependency as they occur or are related to these disabling conditions. Emphasis is also given to the concepts of motivation, self-concept, and personal and societal attitudes toward disability. ", 
+      "id": "CSUS_EDC 240A", 
+      "course name": "Psychological, Social and Medical Aspects of Disability, A"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " is not a prerequisite for 240B.", 
+      "course name": "Psychological, Social and Medical Aspects of Disability, B", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 240B", 
+      "prerequisite": [
+        "EDC 240A", 
+        "EDC 240B", 
+        "EDC 240A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "In-depth study of normal stages of development in art with special emphasis on the developmental stages as both diagnostic indicators and aids in devising art therapy treatment. Includes hands-on experience with a variety of art therapy techniques and discussion of their applicability to different client populations. Purchase of some basic art supplies is required. Lecture, discussion, three hours. ", 
+      "course name": "Developmental Stages and Art Therapy Techniques", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 241", 
+      "prerequisite": [
+        "EDUC 155", 
+        "EDUC 156"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Explores the ways children use fantasy, play, and art as means for communication, growth and healing. Emphasis is placed on clinical skills, therapeutic limit setting, counseling theory and developmentally appropriate interventions.  Purchase of some basic art supplies is required.  ", 
+      "course name": "Play and Art in Therapy with Children", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 242", 
+      "prerequisite": [
+        "EDC 216", 
+        "EDC 280"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course provides opportunities for both theory and skill development by examining crisis and trauma counseling, including crisis theory; multidisciplinary responses to crises, emergencies, or disasters; cognitive, affective, behavioral, and neurological effects associated with trauma; brief, intermediate and long-term approaches; assessment strategies for clients in crisis and principles of intervention for individuals with mental or emotional disorders during times of crisis, emergency, or disaster.", 
+      "id": "CSUS_EDC 244", 
+      "course name": "Trauma and Crisis Counseling"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Studies qualitative and quantitative methods in the development of reliable knowledge in the field of education. Includes identification and formulation of research problems, research designs and presentation of reports representative of different research strategies. Classified students are encouraged to take this course early in their graduate programs. ", 
+      "id": "CSUS_EDC 250", 
+      "course name": "Education Research"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to provide students with basic knowledge and skills necessary to be legally and ethically competent in practice of counseling. Examines ethical and legal considerations pursuant to practice of counseling. Topics to be covered are ethics (CAMFT, AAMFT, ACA, ASCA, NCDA) related to counseling practice in private and public sectors, as well as laws regarding mandatory child and elder abuse assessment and reporting, confidentiality, privilege, liability, marriage, family, child and school ethics and law. Required for graduation with a degree in Counseling.", 
+      "id": "CSUS_EDC 252", 
+      "course name": "Legal and Ethical Issues in Professional Counseling"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provides an introduction to psychopharmacology; the biological bases of behavior; basic classifications, indications, and contraindications of commonly prescribed psychopharmacological medications; and effective approaches to collaborating with clients, their families and other professionals so that appropriate referrals can be made for medication evaluations and so that the side effects of those medications can be identified. Meets the BBS licensure requirements for Professional Clinical Counselors and Marriage and Family Therapists. ", 
+      "course name": "Counseling and Psychotropic Medicine", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 254", 
+      "prerequisite": [
+        "EDC 231"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides a basic introduction to career development and career counseling. Identification and assessment of issues common in career counseling settings are examined. Group and individual models of career development and counseling in schools, community agencies or private industry are also investigated and discussed. Lecture three hours.", 
+      "id": "CSUS_EDC 260", 
+      "course name": "Career Development"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes and practice of job-seeking skills, employer information base, and job placement of the handicapped.", 
+      "id": "CSUS_EDC 261", 
+      "course name": "Seminar in Counseling: Job Placement"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "On-going learning of the processes needed to deliver career counseling services to a variety of clientele. Students will extend their theoretical knowledge base and will more clearly focus on the relationship between a person's life and the process of career development. Elements to be studied in more depth include career development theory, assessment techniques and strategies, goal setting, decision making, and integration of multicultural aspects and strategies. A practical experience in administering and interpreting selected test instruments extensively used in career counseling will be included. Lecture three hours; practical experience one hour. ", 
+      "course name": "Career Counseling Process", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 262", 
+      "prerequisite": [
+        "EDC 260"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Specific emphasis is at the implementation level, with students learning the necessary skills for implementing, maintaining, and stimulating career development in schools, community agencies or private industry. Lecture three hours. ", 
+      "course name": "Seminar in Counseling: Career Systems Development", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 264", 
+      "prerequisite": [
+        "EDC 260"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Specific emphasis is at the program development level, with students learning the necessary components for developing a career counseling program in schools, community agencies, or private industry. Lecture three hours. ", 
+      "course name": "Seminar in Counseling: Career Program Development", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 266", 
+      "prerequisite": [
+        "EDC 260"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Work is undergoing change with the advent of new technologies, an increasingly diverse workforce, and corporate restructuring.  These conditions have led to more frequent occupational shifts and the loss of previously secure jobs, self-reliance replacing loyalty in relations between employers and employees, and fragmented careers becoming more common as family responsibilities and work opportunities became increasingly interwoven.  Examines traditional and emerging approaches for assisting clients in a changing and evolving job market. ", 
+      "course name": "Career and Job Search", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 268", 
+      "prerequisite": [
+        "EDC 260"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Principles and practices necessary to plan, initiate, administer, and evaluate school counseling programs, including related laws. Lecture, discussion three hours.", 
+      "id": "CSUS_EDC 270", 
+      "course name": "Organization and Administration of School Counseling Programs"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provides students with a theoretical foundation and working knowledge of contemporary issues and interventions for children and youth. A variety of presenting problems and treatment strategies are explored. ", 
+      "course name": "Counseling Children and Youth", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 272", 
+      "prerequisite": [
+        "EDC 216", 
+        "EDC 280", 
+        "EDC 242", 
+        "EDC 475"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Presents a variety of topics and strategies related to the school counselor's role in implementing guidance curricula in the school. Explores models of consultation, change strategies, human relations skills, and ethical considerations. Emphasis is on the developmental nature of school counseling programming, the need for school counseling to support the larger instructional mission of the school, the role of the counselor as a change agent and the multiplcity of skills needed for successful guidance and consultation. ", 
+      "course name": "Guidance and Consultation in School Counseling", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 274", 
+      "prerequisite": [
+        "EDC 216", 
+        "EDC 280", 
+        "EDC 270"
+      ]
+    }, 
+    {
+      "term": " Recommended to be taken within the first 6 units of study in the Counselor Education Program.  ", 
+      "description": "Supervised practice in the basic styles of communication, verbal and nonverbal, with additional focus on the particular skills of selected theories. Lecture one hour; laboratory two hours. ", 
+      "course name": "Practicum in Communication", 
+      "units": "2 Units", 
+      "id": "CSUS_EDC 280", 
+      "prerequisite": [
+        "EDC 216"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Supervised practice in leadership of group counseling. Lecture one hour; laboratory three hours. ", 
+      "course name": "Practicum in Group Counseling", 
+      "units": "2 Units", 
+      "id": "CSUS_EDC 282", 
+      "prerequisite": [
+        "EDC 219"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Units may not be used to meet course work requirements. May be repeated once for credit.  ", 
+      "description": "Cooperative Education (Co-op) relates academic theory to professional practice by providing paid work experience in the student's major field of study and academic credit. Students receive supervised employment in school districts, state and community agencies, companies, and other appropriate settings. Requires attendance at weekly meetings, preparation of application packet, completion of field study assignment, and a written final report. ", 
+      "id": "CSUS_EDC 294", 
+      "course name": "Cooperative Education Experience"
+    }, 
+    {
+      "units": "2 Units", 
+      "description": "This course will provide Marriage, Couple, and Family Counseling students an advanced review and introduction of current applied theories (evidence-based or best practiced), intervention techniques/strategies, and multicultural perspectives specific to the MCFC specialization. Topics may include domestic violence, death and dying, and addiction, as well as others. ", 
+      "id": "CSUS_EDC 296A", 
+      "prerequisite": [
+        "EDC 210", 
+        "EDC 216", 
+        "EDC 280"
+      ], 
+      "course name": "Current Topics in Marriage Couples and Family Counseling"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " Instructor approval required. May be taken twice for credit. ", 
+      "description": "An introductory experimental class in meditation which provides a basic foundation of basic meditative theories, the experience of meditative practices, and a basic knowledge of meditative techniques of benefit both personally and with clients. Research has demonstrated that meditation is helpful in a number of stress-related conditions and recent research indicates it is often more effective than psychotherapy in treatment of some problems. ", 
+      "id": "CSUS_EDC 296P", 
+      "course name": "Current Issues in Counseling: Meditation"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Admission by approval of the instructor with whom the student will be working directly and the Department Chair. ", 
+      "description": "Individual projects at graduate level designed especially for students capable of independent study. ", 
+      "id": "CSUS_EDC 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "term": " Department petition is required the semester prior to enrollment.  ", 
+      "description": "Supervised counseling practice in agency and/or school settings. Emphasis on application of counseling theories and the integration of one's own counseling philosophy into practical applications. Basic requirements: 100 clock hours with at least 40 client contact hours, 1 hour per week of individual/triadic supervision, and one and half hours per week of group supervision. ", 
+      "course name": "Practicum In Counseling", 
+      "units": "3 Units", 
+      "id": "CSUS_EDC 475", 
+      "prerequisite": [
+        "EDC 210", 
+        "EDC 214", 
+        "EDC 216", 
+        "EDC 280", 
+        "EDC 212", 
+        "EDC 218", 
+        "EDC 219", 
+        "EDC 260", 
+        "EDC 262", 
+        "EDC 212", 
+        "EDC 218", 
+        "EDC 219", 
+        "EDC 212", 
+        "EDC 218", 
+        "EDC 219", 
+        "EDC 234", 
+        "EDC 252", 
+        "EDC 476", 
+        "EDC 252", 
+        "EDC 270", 
+        "EDC 272"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". Emphasis on establishing relationships and interviewing techniques with multiple clients, assessment techniques, setting goals, and learning to think systemically. Laboratory two hours. ", 
+      "course name": "Practicum in Marriage, Family and Child Counseling", 
+      "units": "1 Unit", 
+      "id": "CSUS_EDC 476", 
+      "prerequisite": [
+        "EDC 216", 
+        "EDC 280", 
+        "EDC 234", 
+        "EDC 234"
+      ]
+    }, 
+    {
+      "term": " Department petition and approval of faculty advisor is required the semester prior to enrollment.  ", 
+      "description": "Supervised counseling and field experiences arranged in community-based settings such schools, colleges and/or agencies. One hundred clock hours of experience required for each unit of credit for a total of six hundred clock hours (or 6 units). Weekly supervision is provided throughout the field experience: one hour per week of individual/triadic supervision and one and half hours per week of group supervision. ", 
+      "course name": "Field Study In Counseling", 
+      "units": "2 - 6 Units", 
+      "id": "CSUS_EDC 480", 
+      "prerequisite": [
+        "EDC 475", 
+        "EDC 272"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " Taken in preparation for the comprehensive examination.   ", 
+      "description": "Focuses on reviewing and synthesizing of student's knowledge of theory, and practice. A review and examination of previous learning will be included.  ", 
+      "id": "CSUS_EDC 500", 
+      "course name": "Master's Culminating Experience"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Department petition is required the semester prior to enrollment.  ", 
+      "description": "Completion of a project approved for the Master's degree. ", 
+      "id": "CSUS_EDC 551", 
+      "course name": "Master's Project - Counseling - Plan B"
+    }
+  ], 
+  "subjectOf": {
+    "id": "EDC", 
+    "subject": "Education - Counselor Education"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Education - Counselor Education", 
+    "id": "CSUS"
+  }
+}

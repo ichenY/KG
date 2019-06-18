@@ -1,0 +1,1008 @@
+{
+  "subjectOf": {
+    "id": "IME",
+    "subject": "Industrial and Manufacturing Engineering"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Industrial and Manufacturing Engineering"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_IME 101",
+      "course name": "Introduction to Industrial and Manufacturing Engineering",
+      "units": "1 unit",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduction of major topics in industrial and manufacturing engineering. Time management, study skills and class scheduling necessary for academic success. University services. Professional ethics. Career opportunities review.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 130",
+      "course name": "Technical Foundations",
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Introduction to visualization, sketching, and drafting. Basic hand - tools, shop practices, and materials. Clearances and fits, threads and fasteners. Safety. Open to all majors. Credit / No Credit grading only.",
+      "format": "1 lecture, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 140",
+      "course name": "Graphics Communication and Modeling",
+      "units": "2 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduction to computer - aided drafting and modeling of solid objects. Visualization and sketching for engineers. Communication of design information to manufacturing using pictorials, orthographic projection, section views, and auxiliary views. Manufacturing tolerances.",
+      "format": "1 lecture, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 141",
+      "course name": "Manufacturing Processes: Net Shape",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Metal casting as a net shape process in manufacturing. Properties of molding materials and methods of casting. Introduction to rapid prototyping. Pattern and casting design principles.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 142",
+      "course name": "Manufacturing Processes: Materials Joining",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Theory and application of metal cutting and welding processes. Includes shielded metal arc, flux cored arc, submerged arc, gas metal arc, gas tungsten arc, brazing, resistance, and oxy - acetylene processes. Bonding theory, joint design, codes and testing. Introduction to adhesive bonding. Open to all majors.",
+      "format": "1 lecture, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 143",
+      "course name": "Manufacturing Processes: Material Removal",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Uses, capabilities, and theoretical and operational characteristics of lathe and milling machine tools, including conventional, automatic and numerical control. Cutting tool characteristics, machining parameters, quality control, and production methods. Design considerations for manufacturing. Introduction to robotics and automation. Open to all majors.",
+      "format": "1 lecture, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 144",
+      "course name": "Introduction to Design and Manufacturing",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Supplemental review of visualization, sketching, and drafting fundamentals. Computer - aided solid modeling of parts and assemblies. Introduction to conventional machining processes on lathes and mills, computer numerical control, quality control, production methods, and design for manufacturing. Open to all majors.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_IME 156",
+      "course name": "Basic Electronics Manufacturing",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Practical electronics manufacturing knowledge expanded through concepts such as CAD / CAM design, Design for Manufacture ( DFM ), documentation requirements, prototyping and production planning. Hands - on techniques learned for project planning, soldering, automation, hand tool usage and production methods.",
+      "format": "1 lecture, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 157",
+      "course name": "Electronics Manufacturing",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Printed circuit board assembly ; printed circuit board fabrication process ; electronics packaging ; overview of semiconductor manufacturing ; design, documentation and fabrication of electronic units with emphasis on CAD / CAM. Open to all majors.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_IME 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "id": "CalPoly_IME 223",
+      "course name": "Process Improvement Fundamentals",
+      "prerequisite": [
+        "MATH 141"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Principles of work simplification and motion analysis. Recording of work flow and methods. Process improvement through work measurement and standards, time study, synthetic data, predetermined time systems and work sampling. Allowances and performance rating, productivity measures. Introduction to lean manufacturing principles. Client based project.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 239",
+      "course name": "Industrial Costs and Controls",
+      "prerequisite": [
+        "IME 223"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Estimation of manufacturing costs for production planning, cost analysis, and cost control. Planning, budgeting, and control processes. Costs, accounting data and analysis of variances for managerial control, inventory valuation, and decision making. Techniques of pricing, cost estimating and cost reduction, and activity - based costing.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_IME 240",
+      "course name": "Additional Engineering Laboratory",
+      "units": "1-2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+      "format": "1 or 2 laboratories."
+    },
+    {
+      "id": "CalPoly_IME 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_IME 301",
+      "course name": "Operations Research I",
+      "prerequisite": [
+        "MATH 244"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Systems modeling methodology, mathematical model formulations, linear programming, graphical and simplex methods. Sensitivity analysis. Integer and binary programming. Transportation, transshipment, assignment, and other network optimization models. Computer applications.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_IME 303",
+      "course name": "Project Organization and Management",
+      "prerequisite": [
+        "IME 314 or equivalent"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Design and implementation of a major industrial / business systems project. Project planning considerations. Motivational and influence techniques used in project management. Scheduling techniques with risk assessment. Resource leveling and management under constraints. Reducing project duration. Monitoring progress with earned value analysis. Project audit and closure. Planning and implementation of a project. Application of project management software.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 305",
+      "course name": "Operations Research II",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Stochastic decision analysis. Utility models. Multi - criteria decision making models : Goal Programming and Analytic Hierarchy Process. Decision Biases. Markov processes and introduction to queuing models. Inventory models and analysis. Computer aided modeling and case studies.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_IME 312",
+      "course name": "Data Management and System Design",
+      "prerequisite": [
+        "CSC 232"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Design and management of industrial databases and reporting systems. Relationships of financial accounting databases and production systems. Efficient data entry and reports, queries, macro function, and Internet based database applications.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 314",
+      "course name": "Engineering Economics",
+      "prerequisite": [
+        "MATH 241"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Economic analysis of engineering decisions. Determining rates of return on investments. Effects of inflation, depreciation and income taxes. Sensitivity, uncertainty, and risk analysis. Application of basic principles and tools of analysis using case studies.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_IME 319",
+      "course name": "Human Factors Engineering",
+      "prerequisite": [
+        "PSY 201 or PSY 202"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Analysis of factors influencing the efficiency of human work. Data on the physical and mental capacities of persons, the physical environment, work organization, and the problem of aging. Design of machines, operations, human computer interface and work environment to match human capacities and limitations, including the handicapped. Multidisciplinary team project.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_IME 320",
+      "course name": "Human Factors and Technology",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Analysis of cognitive, sensory and physical limitations and capabilities of operators and users of technology, both hardware and software, in working and living environments. Analysis of pertinent databases for a proactive approach to designing user - centered industrial products /systems, consumer products, and work environment.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_IME 322",
+      "course name": "Leadership and Project Management",
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Theory and practice in leadership and project management skills for engineering design teams. Basic issues related to, and tools used for, managing projects and concepts comprising project management. Emphasis on situations requiring resolutions and management decisions by groups representing various elements of an enterprise. 2 lectures. Crosslisted as HNRS / IME322."
+    },
+    {
+      "id": "CalPoly_IME 326",
+      "course name": "Engineering Test Design and Analysis",
+      "prerequisite": [
+        "STAT 321 with a grade of C- or better"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Data gathering and statistical testing applied to industrial engineering and manufacturing fields. Experimental methods for product and process evaluation and comparisons ; interpretation of engineering data. Engineering experimental design, linear and nonlinear regression, ANOVA, and multifactor ANOVA. Utilization of existing computer software.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_IME 327",
+      "course name": "Test Design and Analysis in Manufacturing Engineering",
+      "prerequisite": [
+        "STAT 321 with a grade of C- or better or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Sampling and descriptive statistics. Central limit theorem. Hypothesis testing for means and variances. Analysis of variance ( ANOVA ) and factorial design. Applications in engineering design, reliability manufacturing, and inspection. Design projects.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 330",
+      "course name": "Fundamentals of Manufacturing Engineering",
+      "prerequisite": [
+        "IME 141 or ITP 341",
+        "IME 142",
+        "CE 204",
+        "MATE 210",
+        "MATE 215",
+        "IME 144 or IME 143",
+        "ME 251"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Engineering analysis of manufacturing processes for casting, molding, forming, joining, and machining. Design for manufacturability and estimation of production costs. Process design strategies. Setup and operation of processing equipment ; inspection methods. Field trip to manufacturing center.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 335",
+      "course name": "Computer-Aided Manufacturing I",
+      "prerequisite": [
+        "MATH 244",
+        "IME 144 or IME 143",
+        "ME 251",
+        "CSC 101",
+        "CSC 231",
+        "CSC 232 or CSC 234"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Use of the computer to communicate design information to manufacturing. Computer Numerical Control ( CNC ) programming. Use of CAD / CAM software. Overview of manufacturing systems in an automated environment, including cellular manufacturing and computer - aided process planning.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 336",
+      "course name": "Computer-Aided Manufacturing II",
+      "prerequisite": [
+        "IME 335",
+        "ME 212",
+        "MATH 244"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Advanced Computer Numerical Control ( CNC ) programming and machine tool control. Machining center operation. Parametric representation of curves and surfaces. Computation of tool paths. Product and process design for CNC machining. CNC machine tool dynamics. Introduction to flexible manufacturing systems and robotics. Design and fabrication projects.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 342",
+      "course name": "Manufacturing Systems Integration",
+      "prerequisite": [
+        "MATH 241",
+        "IME 223"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Analysis and design tools for production planning, control, and simulation of manufacturing systems. Use of systems modeling software. Overview of ergonomics and facilities design.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 351",
+      "course name": "Advanced Material Removal Process Design",
+      "prerequisite": [
+        "IME 330"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Advanced turning and milling processes ; grinding and non - traditional processes. Thread and gear manufacturing, producibility, machinability, part and tool materials, cutting fluids, and tool life testing. Finishes and measurement of surface roughness. Process design projects. 3 lectures,1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 356",
+      "course name": "Manufacturing Automation",
+      "prerequisite": [
+        "EE 321"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Computers in the factory automation environment. Basic control theory including feedback. Programming and use of programmable logic controllers ( PLC ), human - machine interface ( HMI ), and industrial control systems. Interfacing of electro - mechanical systems ; analog and digital inputs, output ; programmable controllers. Computer process control.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limit to 4 units."
+    },
+    {
+      "id": "CalPoly_IME 401",
+      "course name": "Sales Engineering",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Concepts and principles of engineering in sales. Role of the professional engineer in the analysis, design, development, production, and final application of a product or system required by the buyer.",
+      "format": "2 seminars."
+    },
+    {
+      "id": "CalPoly_IME 408",
+      "course name": "Systems Engineering",
+      "prerequisite": [
+        "CSC 232"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Systems, subsystems, static, dynamic, closed and open systems. Systems design requirements. Performance measures. Process control modeling and analysis, transform methods, linear systems analysis, digital, adaptive and steady state optimal control. Optimal search strategies. Manufacturing, maintenance, replacement and engineering applications.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_IME 409",
+      "course name": "Economic Decision Systems",
+      "prerequisite": [
+        "IME 239",
+        "IME 314",
+        "IME 305"
+      ],
+      "units": "3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Economic evaluation of information for complex decisions. Analysis of risks and uncertainties. Bayes theory and models. Decision theory, sequential decisions, and value of information applied to financial evaluation and control. Major project justification procedures.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_IME 410",
+      "course name": "Production Planning and Control Systems",
+      "prerequisite": [
+        "IME 342 or IME 305"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Building blocks of manufacturing resource planning ( MRP II ). Demand forecasting, production planning, master scheduling development. BOM and inventory files. MRP computations and operational challenges. Capacity analysis and production control in push and pull systems. Enterprise Resource Planning ( ERP ). Principles of JIT and lean manufacturing. Not open to students with credit in IME580.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 416",
+      "course name": "Automation of Industrial Systems",
+      "prerequisite": [
+        "IME 356",
+        "ME 305 or equivalent"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Automation in manufacturing and warehousing. Economic selection of automation systems. Projects in automation.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 417",
+      "course name": "Supply Chain and Logistics Management",
+      "prerequisite": [
+        "IME 342 or IME 410"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Overview of key logistics and supply chain management concepts. Models and solution methods for the design, control, operation, and management of supply chains. Techniques that are used to analyze supply chains. Team projects in partnership with industry sponsors.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_IME 418",
+      "course name": "Product-Process Design",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Innovative new product design and creative development process. Design for manufacturability. Study of constraints for prototyping, designing, testing, processing, quality, and customer satisfaction. Life - cycle analysis. Examination of relevant environmental and ethical issues. Design projects using real world problems.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 420",
+      "course name": "Simulation",
+      "prerequisite": [
+        "IME 305",
+        "IME 326 or IME 327"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Queueing systems. Design and analysis of production and service systems using the simulation technique. System modeling. Random number and function generators, programming, and characteristics of simulation languages. Design projects using real world problems.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 421",
+      "course name": "Manufacturing Organizations",
+      "prerequisite": [
+        "KINE 250",
+        "PSY 201"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Theory and principles for manufacturing organizations. Competitive advantage. Strategic planning and operations management for organizations and teams in a rapidly changing environment. Engineering management concepts and practices. Team - based projects and cases.",
+      "format": "3 seminars."
+    },
+    {
+      "id": "CalPoly_IME 424",
+      "course name": "Industrial Engineering in Healthcare",
+      "prerequisite": [
+        "IME 223"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Industrial engineering applications in healthcare industry. Background on healthcare reform. Simulation, operations research, supply chain, facility engineering, process improvement case studies. Emerging topics in industrial engineers in healthcare, change management, patient flow, Lean Six Sigma, nursing, patient safety, and decision - making.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_IME 428",
+      "course name": "Engineering Metrology",
+      "prerequisite": [
+        "IME 143 or IME 144",
+        "IME 326",
+        "IME 327",
+        "IME 503 or STAT 312"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Measurement of attributes and variables ; standards, accuracy and precision ; mechanical, electronic and optical / laser measurement systems. Contact and non - contact measurement ; straightness, flatness and squareness ; GDT ( Geometric Dimensioning and Tolerancing ) ; CMM ( Coordinate Measurement Machines ) ; surface roughness ; metrology for electronic products.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 429",
+      "course name": "Ergonomics Laboratory",
+      "prerequisite": [
+        "IME 319",
+        "IME 326 or IME 327"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Investigation of various physiological, sensory, and cognitive capabilities and limitations of people in work and living environments through laboratory data collection, design of experiments and statistical analysis.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 430",
+      "course name": "Quality Engineering",
+      "prerequisite": [
+        "IME 326",
+        "IME 327",
+        "IME 503",
+        "STAT 302 or STAT 312"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Quality history and philosophies. Cost of quality. Quality control tools. Statistical control charts for variables and attributes. Process capability. Measurement system analysis. Acceptance sampling. Reliability and life testing methods. Quality improvement tools : Quality Function Deployment, Failure Modes and Effects Analysis, Six Sigma, quality standards and systems.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_IME 432",
+      "course name": "Additive Manufacturing",
+      "prerequisite": [
+        "IME 144 or ME 251",
+        "MATE 210"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Engineering principles, materials, equipment, design for manufacturing, process flow, post processing, and applications of additive manufacturing processes, including : photopolymerization, powder bed fusion, extrusion, direct energy deposition, printing, binder jetting, and sheet lamination. Process selection, environment considerations, safety, and cost analysis for manufacturing.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 435",
+      "course name": "Reliability for Design and Testing",
+      "prerequisite": [
+        "IME 326",
+        "IME 327",
+        "IME 503 or STAT 312"
+      ],
+      "units": "3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Reliability concepts and mathematical models, mechanical device reliability, electrical device reliability, systems reliability and maintainability, reliability data, assurance program elements. Not open to students with credit in IME542. Course may be offered in classroom - based or online format.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_IME 441",
+      "course name": "Engineering Supervision I",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Theory and principles of supervision. Application of fundamental concepts and techniques of supervision provided by assignment in engineering laboratories. 1 laboratory each."
+    },
+    {
+      "id": "CalPoly_IME 442",
+      "course name": "Engineering Supervision II",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Theory and principles of supervision. Application of fundamental concepts and techniques of supervision provided by assignment in engineering laboratories. 1 laboratory each."
+    },
+    {
+      "id": "CalPoly_IME 443",
+      "course name": "Facilities Planning and Design",
+      "prerequisite": [
+        "IME 144",
+        "IME 223",
+        "IME 314"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Design concepts and input requirements in planning and design of new or renovation of existing manufacturing systems. Product, process, and flow and activity analysis techniques. Flow lines and buffering techniques. Computer - aided layout design and evaluation. Design of handling systems. Math models of location problems. Multidisciplinary team project.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 450",
+      "course name": "Manufacturing Process and Tool Engineering",
+      "prerequisite": [
+        "MATH 244",
+        "IME 330"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Engineering design of fixtures and tools for manufacturing processes. Interpretation of engineering design specifications. Analysis of cost, quality, productivity, and safety in tool design. Mechanical analysis of tool design. Detailed process design for net shape production and component design for manufacture. Process and tool design projects.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 451",
+      "course name": "Radio Frequency Identification System Design",
+      "prerequisite": [
+        "EE 201 or IME 156 or ITP 150"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Radio frequency identification ( RFID ) and its role in asset and inventory management, facility access, payment transaction systems, and other applications. Physics and types of RFID. Economic analysis. Multidisciplinary project teams design RFID systems for real - world applications.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_IME 457",
+      "course name": "Advanced Electronic Manufacturing",
+      "prerequisite": [
+        "EE 201",
+        "IME 156 or IME 157"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Design and fabrication of commercial electronic products ; PCB layout design, bill of material analysis and component purchasing, production planning and scheduling, programming automated surface - mount assembly line, marketing of products. Multidisciplinary project teams exposed to real - world challenges of electronics manufacturers.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_IME 458",
+      "course name": "Microelectronics and Electronics Packaging",
+      "prerequisite": [
+        "EE 112 or EE 201"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Materials, processes, and reliability of microelectronics and electronics packaging, surface mount assembly and printed circuit board fabrication. Organic substrates and ceramic substrates. Mechanical design, thermal, and electrical considerations in electronic packaging. Design for manufacturability. Overview of optoelectronics packaging and other emerging technologies in microelectronics and electronic packaging. Project on design and manufacture of an electronic device.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 460",
+      "course name": "Introduction to Value Chain Analysis",
+      "prerequisite": [
+        "IME 223 or ITP 303"
+      ],
+      "units": "3 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Introduction to value chain concepts and their application to the analysis and improvement of business operations. Application of lean principles to optimize the value chain.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_IME 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    },
+    {
+      "id": "CalPoly_IME 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "1 to 4 laboratories."
+    },
+    {
+      "id": "CalPoly_IME 481",
+      "course name": "Senior Design Project I",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Culminating design project typical of problems faced in professional practice. Individual or group projects typically involve system design, modeling, analysis and testing. Project method includes costs, planning, scheduling, appropriate research methodology and formal reports. Professional ethics.",
+      "format": "1 lecture, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 482",
+      "course name": "Senior Design Project II",
+      "prerequisite": [
+        "IME 481"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Continuation of IME481. Involves research methodology : problem statement, method, results, analysis, synthesis, project design, construction ( when feasible ), and evaluation / conclusions. Project results presented in thesis - like formal reports suitable for reference library and formal oral presentations. Professional ethics.",
+      "format": "1 lecture, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_IME 495",
+      "course name": "Cooperative Education Experience",
+      "units": "4-12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Full - time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. A formal report and evaluation by work supervisor required. Credit / No Credit grading only. No major credit allowed ; total credit",
+      "grading": "limited to 24 units."
+    },
+    {
+      "id": "CalPoly_IME 500",
+      "course name": "Individual Study",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Advanced study planned and completed under the direction of a member of the department faculty. Open only to students who have demonstrated ability to do independent work."
+    },
+    {
+      "id": "CalPoly_IME 503",
+      "course name": "Applied Statistical Methods in Engineering",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Application of important statistical distributions in engineering and management. Coverage of sampling distributions and their roles in design of experiments. Applications of hypothesis testing, ANOVA, analysis of covariance, multiple and nonlinear regressions in industry and service systems. Introduction to nonparametric analysis.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 507",
+      "course name": "Graduate Seminar",
+      "units": "2 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Seminars in industrial engineering, integrated technology management, and engineering management by researchers and practitioners from academia and industry. Preparation for conducting research. Presentation of student research projects. Overview of graduate education requirements. Ethics issues in research.",
+      "format": "1 seminar, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 510",
+      "course name": "Systems Engineering I",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Project management. Scheduling and budgeting. Queuing theory. Process control and life - cycle cost analysis. Contracts and negotiation. 4 lectures. Crosslisted as AERO / IME510."
+    },
+    {
+      "id": "CalPoly_IME 511",
+      "course name": "Systems Engineering II",
+      "prerequisite": [
+        "AERO 510 or IME 510"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Risk management. Design strategies to meet system / mission requirements. Design for supportability, manufacturability, reliability, etc. Quality function development and quality control concepts. 4 lectures. Crosslisted as AERO / IME511."
+    },
+    {
+      "id": "CalPoly_IME 520",
+      "course name": "Advanced Information Systems for Operations",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Advanced information systems ( IS ) applications in manufacturing and service operations. Introduction of common IS applications, such as manufacturing execution systems ; reporting systems ; capacity planning systems ; scheduling systems ; and customer inquiry systems. Industry - specific analysis of IS requirements and availability.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_IME 527",
+      "course name": "Design of Experiments",
+      "prerequisite": [
+        "IME 326 or IME 327 or IME 503 or STAT 312"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Experimental design principles. Comparative experiments for population parameters. ANOVA and randomized block design. Factorial designs, the 2^k factorial designs, and factorial designs with blocks. Fractional factorial designs. Response surface methodology. Fitting regression models. Design projects using real world problems. Substantial use of statistical software.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Formerly IME 427."
+    },
+    {
+      "id": "CalPoly_IME 541",
+      "course name": "Advanced Operations Research",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Operations Research approach to model building. Linear programming and sensitivity analysis. Network flow models. Integer programming, large scale linear programming. Goal programming and multi - attribute decision making. Dynamic programming. Nonlinear programming and search methods. Applications in model building and computer solutions in planning, resource allocation, scheduling, and other industrial and service operations.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 542",
+      "course name": "Applied Reliability Engineering",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Reliability terminology and bathtub curve. Failure distributions : Exponential, Lognormal, and Weibull. Probability plotting. Reliability of systems. Maintainability and availability. Reliability in design ; Load - strength analysis ; Failure modes and effects analysis ; Fault tree analysis. Reliability testing ; Reliability management. Not open to students with credit in IME435.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 543",
+      "course name": "Applied Human Factors",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Human factors / ergonomics analysis and evaluation of automation, mobile communication technology, and interface design for Internet websites. Usability analysis of current hardware / software products with an emphasis on a user - centric design approach. Team - based projects.",
+      "format": "3 seminars, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 544",
+      "course name": "Advanced Topics in Engineering Economy",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Review of interest calculations and comparison of economic alternatives. Replacement analysis. Capital planning and budgeting. Mathematical programming and capital budgeting. Utility theory. Decision making under risk and uncertainty. Application of simulation in risk modeling. Benefit - cost analysis. Multi - attribute decision making. Analytic hierarchy process.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_IME 545",
+      "course name": "Advanced Topics in Simulation",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Validation of simulation models. Statistical techniques for variance reduction. Experimental design and optimization. Comparison of attributes of simulation languages. Review of current manufacturing and service industry applications. Case studies.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 556",
+      "course name": "Technological Project Management",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Projects in industrial organizations and enterprises. Emerging technologies and project management. Relationship to strategic plans and managing change in organizations. Formulating, selecting, structuring, and planning projects. Project organization and control. Overcoming barriers. Application of project management software.",
+      "format": "3 seminars, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_IME 570",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to graduate students and selected seniors. Topic lists will be provided with class schedule outlines.",
+      "format": "1 - 4 seminars."
+    },
+    {
+      "id": "CalPoly_IME 571",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_IME 577",
+      "course name": "Engineering Entrepreneurship",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "The special requirements of entrepreneurship in a high - tech environment. Guest lectures, focused seminar topics, a business plan project, and case studies provide the tools to evaluate and pursue technology - based business opportunities.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_IME 580",
+      "course name": "Manufacturing Systems",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Modern approaches in production and inventory planning and control to support large - scale manufacturing systems, material requirements planning ( MRP I ), manufacturing resource planning ( MRP II ), and just - in - time ( JIT ) manufacturing systems. Enterprise resource planning ( ERP ) and integration with financials. Information requirements, operational issues, and policy matters. Not open if credit in IME410.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_IME 596",
+      "course name": "Graduate Project/Internship",
+      "units": "1-5 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Integrative learning experience through internship and project. Focus on a significant industrial or research problem in an engineering field. Project involves student(s ), faculty, and sponsoring representative(s ) in a collaborative learning environment, and culminates in a comprehensive written report. Total credit",
+      "grading": "limited to 5 units"
+    },
+    {
+      "id": "CalPoly_IME 599",
+      "course name": "Thesis",
+      "units": "1-9 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Systematic study of a significant problem under faculty supervision. Both a written thesis and an oral defense are required. Total credit",
+      "grading": "limited to 9 units"
+    }
+  ]
+}

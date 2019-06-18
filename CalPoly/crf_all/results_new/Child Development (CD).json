@@ -1,0 +1,485 @@
+{
+  "subjectOf": {
+    "id": "CD",
+    "subject": "Child Development"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Child Development"
+  },
+  "courses": [
+    {
+      "id": "CD 102",
+      "course name": "Orientation to the Child Development Major",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Introduction to the child development major, self-assessments, career opportunities, university and community resources, and the program at Cal Poly.  2 lectures."
+    },
+    {
+      "id": "CD 131",
+      "course name": "Observing and Interacting with Children",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Observation methods and guidance techniques for adults working with children in family, community, and educational settings. 3 lectures, 1 activity."
+    },
+    {
+      "id": "CD 200",
+      "course name": "Special Problems",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Supervised investigation, including a written report, of a topic chosen with prior approval of instructor. Total credit limited to 6 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "CD 207",
+      "course name": "Children's Learning and Development in Educational Settings",
+      "hasPrerequisite": "PSY 201 or PSY 202 or admission to the university with the intent to enter the MSTEP Program",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Study of theories and research about the development and learning of children and young adolescents within diverse backgrounds, and application to teaching in public school settings.  Observations/interactions with children in school settings.  3 lectures, 1 activity.  Participation in public schools requires mandated fingerprint clearance.  Crosslisted as CD/EDUC207."
+    },
+    {
+      "id": "CD 230",
+      "course name": "Preschool Laboratory",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CD 131"
+        },
+        {
+          "prerequisite": "PSY 256"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Preliminary teaching experience with children in a preschool laboratory setting.  Participant planning, execution and evaluation of age-appropriate activities.  Observation is used as the basis for planning for the development of the whole child.  2 lecture, 2 laboratories."
+    },
+    {
+      "id": "CD 254",
+      "course name": "Family Psychology",
+      "hasPrerequisite": "PSY 201 or PSY 202",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Introduction to research and theory on family relationships and behavior across the lifespan.  Contextual influences, diversity of family forms, and topics such as love, mate selection, marital quality, parenting, gender, household work, divorce, and remarriage.  4 lectures.  Crosslisted as CD/PSY254."
+    },
+    {
+      "id": "CD 256",
+      "course name": "Developmental Psychology",
+      "hasPrerequisite": "PSY 201 or PSY 202",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Introduction to the scientific study of development with emphasis on the lifespan, from infancy to old age.  Basic research and concepts in understanding social, emotional, cognitive, contextual, and diversity influences on development.  4 lectures.  Crosslisted as CD/PSY256."
+    },
+    {
+      "id": "CD 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "CD 304",
+      "course name": "Infant and Toddler Development",
+      "hasPrerequisite": "PSY 256",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Human development from conception through the second year of life.  Examination of theory and research in multiple domains of development.  Consideration of environments and activities which enhance the emerging capabilities of infants and toddlers.  4 lectures."
+    },
+    {
+      "id": "CD 305",
+      "course name": "Early and Middle Childhood Development",
+      "hasPrerequisite": "PSY 256 or CD/EDUC 207",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "In-depth study of theory and research on development in early and middle childhood, especially within physical, cognitive, social, and emotional domains.  Consideration of case studies and current practices in light of theoretical perspectives and current research.  4 lectures."
+    },
+    {
+      "id": "CD 306",
+      "course name": "Adolescence",
+      "hasPrerequisite": "PSY 256 or CD/EDUC 207",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Psychological analysis of the years from prepubescence to young adulthood.  Current research on behavior and development during adolescence with emphasis on physical, affective, cognitive, sociocultural, historical, family, peer and school aspects of life during the post-child, pre-adult years.  4 lectures.  Crosslisted as CD/PSY306."
+    },
+    {
+      "id": "CD 329",
+      "course name": "Research Methods in Child Development",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "PSY 256"
+        },
+        {
+          "prerequisite": "STAT 217"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Introduction to research methods in child development.  Critically evaluating research literature, generating research questions, and conducting observations and interviews with children and adolescents.  3 lectures, 1 activity."
+    },
+    {
+      "id": "CD 330",
+      "course name": "Supervised Fieldwork Internship",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CD 230"
+        },
+        {
+          "prerequisite": "PSY 323"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Faculty supervised fieldwork experience.  Role of professional apprentice is experienced and analyzed by each student.  Credit/No Credit grading only."
+    },
+    {
+      "id": "CD 333",
+      "course name": "Research Internship",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CD 230"
+        },
+        {
+          "prerequisite": "CD 329"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Faculty-supervised research experience on various topics related to child and adolescent development.  Student apprenticeship with a department faculty member engaging in a research project.  Credit/No Credit grading only."
+    },
+    {
+      "id": "CD 350",
+      "course name": "Developmental Issues in Education",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Current issues and research concerning how children and youth develop and learn in school.  Topics may include motivation, views of intelligence, teacher and student relations, constructivist learning environments, socioemotional learning, school climates, home-school connections.  4 lectures."
+    },
+    {
+      "id": "CD 351",
+      "course name": "Learning in Out-of-School Time",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "How children and youth develop and learn in settings and activities outside of formal schooling, such as everyday family activities, informal learning institutions (e.g., museums), nature, and organized extracurricular activities.  Research findings and theoretical perspectives on how activity in such settings supports development and learning.  4 lectures."
+    },
+    {
+      "id": "CD 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Supervised investigation, including a written report, of a topic chosen with prior approval of instructor.  Total credit limited to 6 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "CD 401",
+      "course name": "Perspectives on Child and Adolescent Development",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CD 304"
+        },
+        {
+          "prerequisite": "CD 305"
+        },
+        {
+          "prerequisite": "CD 306"
+        },
+        {
+          "prerequisite": "CD 329"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Advanced study of theoretical perspectives and research on the development of children and adolescents and the implications for current practice and policy.  4 seminars."
+    },
+    {
+      "id": "CD 413",
+      "course name": "Children, Adolescents & Technology",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CD 305"
+        },
+        {
+          "prerequisite": "CD 306"
+        },
+        {
+          "prerequisite": "CD 329"
+        }
+      ],
+      "units": "6 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Examination of research and theory on how children and adolescents use digital technologies and influences on cognitive, social, and identity development.  Observations of children's use of various digital technologies, and design of activities that use technology tools to support learning goals.  4 lectures, 2 laboratories."
+    },
+    {
+      "id": "CD 417",
+      "course name": "Interpersonal Relationships in Childhood and Adolescence",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CD 304"
+        },
+        {
+          "prerequisite": "CD 305 or CD 306"
+        },
+        {
+          "prerequisite": "PSY 305"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Current theories and research on the development of interpersonal relationships in childhood and adolescence.  Topics may include parent-child relationships, peer relationships in childhood, intimate relationships in adolescence.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.  Crosslisted as CD/PSY417."
+    },
+    {
+      "id": "CD 424",
+      "course name": "Children's Learning and Development in Diverse Families and Communities",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CD 305"
+        },
+        {
+          "prerequisite": "CD 306"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Examination of research on child and adolescent learning and development in diverse families and community settings.  Further study of ecological and sociocultural perspectives and cross-cultural research.  4 lectures."
+    },
+    {
+      "id": "CD 430",
+      "course name": "Advanced Supervised Fieldwork Internship",
+      "hasPrerequisite": "CD 330",
+      "units": "4 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Faculty-supervised preprofessional experience in a career-related setting which complements the CD330 internship.  Such roles as master teacher, caseworker, therapeutic intern, administrative aide or program specialist are experienced and analyzed by each student.  Credit/No credit grading only."
+    },
+    {
+      "id": "CD 431",
+      "course name": "Assessing Children's Development and Environments",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CD 304 or CD 305 or PSY 419 or PSY 420 or PSY 421"
+        },
+        {
+          "prerequisite": "CD 329 or PSY 329"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Current developmental and environmental assessments used in care and educational settings and in prevention programs and research.  Practice using, creating, and evaluating child assessments.  3 lectures, 1 activity.  Crosslisted as CD/PSY431."
+    },
+    {
+      "id": "CD 433",
+      "course name": "Advanced Research Internship",
+      "hasPrerequisite": "CD 333",
+      "units": "4 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Faculty-supervised research experience on various topics related to child and adolescent development.  Student apprenticeship with a department faculty member to conduct aspects of a research project.  Credit/No Credit grading only."
+    },
+    {
+      "id": "CD 456",
+      "course name": "Behavioral Disorders in Childhood",
+      "hasPrerequisite": "PSY 201 or PSY 202",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Applications of psychological principles to childhood behavioral disorders.  Aggression, delinquency, stress reactions, motivational, perceptual-attentional deficiencies, psychoses, anxiety disorders, biological dysfunctions, and social, emotional and intellectual disabilities.  4 seminars.  Crosslisted as CD/PSY456."
+    },
+    {
+      "id": "CD 460",
+      "course name": "Child Abuse and Neglect",
+      "hasPrerequisite": "PSY 201 or PSY 202",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Issues in child maltreatment, including definitions and forms, causes, consequences, assessment, reporting, treatment, and prevention.  Possible links among research, intervention, and public policy will be emphasized.  4 seminars.  Crosslisted as CD/PSY460."
+    },
+    {
+      "id": "CD 461",
+      "course name": "Senior Project Seminar",
+      "hasPrerequisite": "CD 329",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Senior project expectations and skills.  Students work alone or in groups to identify appropriate topics, methods and content for the senior project; to be presented in a series of progress reports.  Begin literature reviews for completion in CD462.  2 seminars."
+    },
+    {
+      "id": "CD 462",
+      "course name": "Senior Project",
+      "hasPrerequisite": "CD 461",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Completion of a project under faculty supervision."
+    },
+    {
+      "id": "CD 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures."
+    }
+  ]
+}

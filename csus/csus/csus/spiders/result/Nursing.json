@@ -1,0 +1,564 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explores the relationships between social, political and economic systems, and the health care and delivery systems currently operational in the U.S. today. Provides a format to debate current biomedical issues and explores crosscultural health practices. Lecture three hours.", 
+      "id": "CSUS_NURS 10", 
+      "course name": "Health Care: Issues and Delivery Systems"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Basic principles of pharmacology with a focus on pharmacokinetics, pharmacodynamics and related therapeutic implications for major drug categories. May be taken by pre-nursing or non-nursing students. Lecture two hours. ", 
+      "course name": "Pharmacology", 
+      "units": "2 Units", 
+      "id": "CSUS_NURS 14", 
+      "prerequisite": [
+        "BIO 25", 
+        "BIO 26"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University. Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills.  Also provides students with an opportunity to interact with fellow students and the seminar leader and to build a community of academic and personal support.", 
+      "id": "CSUS_NURS 21", 
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Part 1 of foundational ALS skills content for pre-hospital care in the Emergency Medical System (EMS). Participants apply theoretical knowledge of Advanced Life Support in skills lab and simulated patient care experiences. Students will practice assessment and intervention of psychomotor skills for Advanced Life Support (ALS), Advanced Cardiac Life Support (ACLS), Pediatric Advanced Cardiac Life Support (PALS) and International Trauma Life Support (ITLS). ", 
+      "id": "CSUS_NURS 53", 
+      "course name": "Paramedic Skills"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Part 2 of foundational ALS skills content for pre-hospital care in the Emergency Medical System (EMS). Participants apply theoretical knowledge of Advanced Life Support in skills lab and simulated patient care experiences. This is the skills section of NURS 52. Students will practice assessment and intervention of psychomotor skills for Advanced Life Support (ALS), Advanced Cardiac Life Support (ACLS), Pediatric Advanced Cardiac Life Support (PALS) and International Trauma Life Support (ITLS). ", 
+      "course name": "Paramedic Skills", 
+      "units": "3 Units", 
+      "id": "CSUS_NURS 54", 
+      "prerequisite": [
+        "NURS 53"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " may be repeated for credit  ", 
+      "description": "Provides  a conceptual base for the practice of professional nursing. The changing and expanding roles of the professional nurse in the health care delivery system are explored, with an emphasis on professional behavior, ethics, evidence-based practice and informatics. Lecture three hours. ", 
+      "id": "CSUS_NURS 111", 
+      "course name": "Introduction to Professional Nursing"
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": "Introduction and application of nursing concepts in meeting health needs of adults. Emphasis is placed on health promotion and disease management across the adult life span. Lecture three hours; laboratory six hours ", 
+      "course name": "Nursing Care Of Adults", 
+      "units": "5 Units", 
+      "id": "CSUS_NURS 112", 
+      "prerequisite": [
+        "NURS 111", 
+        "NURS 113"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Apply nursing practice concepts in assessment, skills, and professional communication in the context of laboratory scenarios and field experiences across the lifespan. Laboratory twelve hours. ", 
+      "course name": "Professional Nursing Communication, Assessment and Skills", 
+      "units": "4 Units", 
+      "id": "CSUS_NURS 113", 
+      "prerequisite": [
+        "NURS 111", 
+        "NURS 112"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Theoretical basis for the nursing care of individuals who require nursing intervention to achieve and maintain mental health through adaptive processes. The course includes a supervised practicum which incorporates therapeutic modalities. A variety of psychodynamic theories related to anxiety, interpersonal relationships, crisis intervention, and group process are discussed. ", 
+      "id": "CSUS_NURS 119", 
+      "course name": "Mental Health Nursing for the LVN 30-Unit Option"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Evaluation and application of research to nursing practice. Emphasis is placed on application utilization  of evidence to improve quality and safety in healthcare and advance nursing practice. Develop an understanding of the humanities and diverse cultures through the lens of nursing practice. Application of a critical framework of sociocultural, historical, and economic perspectives to analyze scholarly inquiry of health and healthcare. ", 
+      "course name": "Nursing Application of Research and Critical Analysis.", 
+      "units": "3 Units", 
+      "id": "CSUS_NURS 120", 
+      "prerequisite": [
+        "NURS 111", 
+        "NURS 112", 
+        "NURS 113", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": "Provides students with the opportunity to learn and apply nursing concepts through the care of individuals and families experiencing complex illness across the adult lifespan. The focus is on skill development and the synthesis of data from multiple sources to formulate nursing interventions. Lecture three hours; laboratory six hours. ", 
+      "course name": "Nursing Families in Complex Illness", 
+      "units": "6 Units", 
+      "id": "CSUS_NURS 123", 
+      "prerequisite": [
+        "NURS 111", 
+        "NURS 112", 
+        "NURS 113"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": "Provides an overview of multidimensional factors, perspectives, and approaches associated with mental health across the lifespan. Mental health concepts and interventions are applied across multiple settings. Lecture three hours; laboratory six hours. ", 
+      "course name": "Mental Health Nursing", 
+      "units": "5 Units", 
+      "id": "CSUS_NURS 129", 
+      "prerequisite": [
+        "NURS 111", 
+        "NURS 112", 
+        "NURS 113"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course is designed to present leadership and management skills for the Licensed Vocational Nurse transitioning to the Registered Nurse role. The principle and processes of administration, management, and supervision will be discussed within an organizational framework. Lecture two hours. ", 
+      "course name": "Leadership and Management for the LVN to RN", 
+      "units": "2 Units", 
+      "id": "CSUS_NURS 133", 
+      "prerequisite": [
+        "NURS 119", 
+        "NURS 123", 
+        "NURS 137", 
+        "NURS 138"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Application of skills and assessment in the care of the childbearing family and women experiencing reproductive health changes across the lifespan. ", 
+      "course name": "Nursing Laboratory for the Childbearing Family", 
+      "units": "1 Unit", 
+      "id": "CSUS_NURS 136", 
+      "prerequisite": [
+        "NURS 120", 
+        "NURS 123", 
+        "NURS 129", 
+        "NURS 137"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": "Application of nursing concepts in the care of the childbearing family and women experiencing reproductive health changes across the lifespan. Lecture three hours; laboratory six hours. ", 
+      "course name": "Nursing the Childbearing Family", 
+      "units": "5 Units", 
+      "id": "CSUS_NURS 137", 
+      "prerequisite": [
+        "NURS 120", 
+        "NURS 123", 
+        "NURS 129", 
+        "NURS 136"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": "Introduction and application of nursing concepts in meeting health needs of the child from birth through adolescence. Emphasis is placed on health promotion and disease management within the context of the family and applied across multiple settings. Lecture three hours; laboratory six hours. ", 
+      "course name": "Nursing the Childrearing Family", 
+      "units": "5 Units", 
+      "id": "CSUS_NURS 138", 
+      "prerequisite": [
+        "NURS 120", 
+        "NURS 123", 
+        "NURS 129", 
+        "NURS 139"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": "Acquisition of knowledge and practice using tools and techniques for assessing the child and the family in a variety of settings. Laboratory three hours. ", 
+      "course name": "Nursing Laboratory for the Childrearing Family", 
+      "units": "1 Unit", 
+      "id": "CSUS_NURS 139", 
+      "prerequisite": [
+        "NURS 120", 
+        "NURS 123", 
+        "NURS 129", 
+        "NURS 138"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit. Lecture three hours.  ", 
+      "description": "Integration of leadership and management principles to promote health across the lifespan and care settings. Application of leadership and management principles in the examination of organizational structures, processes, and approaches to quality and safety concepts in health care systems and practice environments. Emphasis will be placed on career development and transition to professional practice. ", 
+      "course name": "Leadership and Management in Nursing Practice", 
+      "units": "3 Units", 
+      "id": "CSUS_NURS 143", 
+      "prerequisite": [
+        "NURS 136", 
+        "NURS 137", 
+        "NURS 138", 
+        "NURS 139"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": "Contemporary role of the community health nurse is presented within a public health framework, emphasizing the concept of community as client. Presents nursing interventions related to groups and aggregates identified as high risk for the development of health problems. Clinical experience is provided across community settings. Lecture and clinical hours. ", 
+      "course name": "Community Health Nursing", 
+      "units": "5 Units", 
+      "id": "CSUS_NURS 144", 
+      "prerequisite": [
+        "NURS 136", 
+        "NURS 137", 
+        "NURS 138", 
+        "NURS 139"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "The purpose of this culminating senior practicum is to facilitate the transition of the nursing student into the role of a professional BSN graduate nurse. The course will integrate the theoretical and clinical nursing concepts acquired throughout the curriculum into a precepted senior practicum. Students will apply principles of clinical nursing, nursing management and nursing leadership in a selected clinical setting. ", 
+      "course name": "Clinical Leadership and Professional Role Development", 
+      "units": "6 Units", 
+      "id": "CSUS_NURS 145", 
+      "prerequisite": [
+        "NURS 136", 
+        "NURS 137", 
+        "NURS 138", 
+        "NURS 139", 
+        "NURS 144"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to explore the physiological, sociological, and psychological components of human sexuality in a sufficiently detailed manner so that the myth and confusion enveloping this needlessly hypersensitive subject can be dispelled. Hopefully, students will be able to integrate these components in a meaningful pattern into their own lives and will be not only better able to understand and accept their own sexual needs and behavior but also, at the same time, will be more accepting and understanding of persons whose sexual attitudes and behavior might differ from their own. Lecture three hours.", 
+      "id": "CSUS_NURS 160", 
+      "course name": "Human Sexuality"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed for people seeking knowledge about women's health, women's health risks, and the delivery of traditional and non-traditional medical interventions for the maintenance of health and management of illness. Covers the physiological and psychological components of women's health. The leading acute and chronic illnesses which affect women are introduced. Discussions include: means of sustaining a wellness lifestyle; identification, management and consultation for acute and chronic illness; normal physiological life changes and adaptations to aging; mind/body connection in the control of health and illness; pharmacology and drug therapy for women; health management for infants and children; access and control of care for women in traditional and non-traditional health settings; and research in women's health. Lecture-discussion three hours.", 
+      "id": "CSUS_NURS 167", 
+      "course name": "Women's Health"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Gender-related differences which are mediated by the brain are examined from the theoretical framework of evolution. The place of molecular genetics, hormone physiology, neural function, biomedical research, human development, personality theory and research, and crosscultural research are studied in an attempt to understand the processes that affect sex differences. Gender-related differences in normal and abnormal behavior resulting from chronic and acute disease, and pathological states, will be introduced. The student should acquire the fundamentals of a scientific understanding of gender-related differences between humans, and an appreciation of the unique role the brain plays in the mediation of these differences.", 
+      "id": "CSUS_NURS 168", 
+      "course name": "The Brain and Gender-Related Differences"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course provides an overview of nursing research and application to practice. Students will identify components of evidence-based practice and develop skills in critiquing research and in professional writing. ", 
+      "id": "CSUS_NURS 170", 
+      "course name": "Foundations for Evidence-Based Nursing Practice"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course expands students' knowledge of theories, concepts, and social issues which have implications for nursing practice. Assignments and experiences are designed to transition the RN to the baccalaureate level of proficiency. ", 
+      "course name": "Transitional Concepts: The Baccalaureate Nurse", 
+      "units": "6 Units", 
+      "id": "CSUS_NURS 171", 
+      "prerequisite": [
+        "NURS 170"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "This course expands students' knowledge of theories, concepts, and social issues which have implications for the role of the nurse in any professional setting. Assignments and experiences are designed to transition the RN to the baccalaureate level of proficiency. ", 
+      "id": "CSUS_NURS 171A", 
+      "prerequisite": [
+        "NURS 170"
+      ], 
+      "course name": "Transitional Concepts: The Baccalaureate Nurse Role"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "This course expands students' knowledge of theories, concepts, and social issues which have implications for health across the lifespan. Assignments and experiences are designed to transition the RN to the baccalaureate level of proficiency. ", 
+      "id": "CSUS_NURS 171B", 
+      "prerequisite": [
+        "NURS 170"
+      ], 
+      "course name": "Transitional Concepts: The Client Lifespan"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course provides the theoretical foundations for leadership and management across multiple settings. Theories related to the principles and processes of leadership and management will be applied to select practice experiences.  ", 
+      "course name": "Theoretical Foundations for Leadership and Management", 
+      "units": "6 Units", 
+      "id": "CSUS_NURS 173", 
+      "prerequisite": [
+        "NURS 170"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "This course provides the theoretical foundations for leadership across multiple settings. Theories related to the principles and processes of leadership will be applied to select practice experiences.  ", 
+      "id": "CSUS_NURS 173A", 
+      "prerequisite": [
+        "NURS 170"
+      ], 
+      "course name": "Theoretical Foundations for Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "This course provides the theoretical foundations for management across multiple settings. Theories related to the principles and processes of management will be applied to select practice experiences. ", 
+      "id": "CSUS_NURS 173B", 
+      "prerequisite": [
+        "NURS 170"
+      ], 
+      "course name": "Theoretical Foundations for Management"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course presents the role of the community health nurse within a public health framework and examines public health systems, policies, and socioecological factors that shape the health of individuals, groups, and communities. Students will be introduced to principles of population health, epidemiology, disease prevention, and health promotion, to plan community health nursing interventions. ", 
+      "course name": "Community Health Nursing: Concepts and Practice", 
+      "units": "4 Units", 
+      "id": "CSUS_NURS 174", 
+      "prerequisite": [
+        "NURS 170"
+      ]
+    }, 
+    {
+      "term": " will only complete 44 units.   ", 
+      "description": "In this course students will integrate and apply knowledge of population-based nursing and evaluate the role of the community health nurse in various systems. Students will provide care to individuals, families, or communities within a public health framework. This course meets the California BRN clinical requirements for the Public Health Nurse Certificate. ", 
+      "course name": "Community Health Nursing: Clinical Elective", 
+      "units": "2 Units", 
+      "id": "CSUS_NURS 174C", 
+      "prerequisite": [
+        "NURS 170", 
+        "NURS 174", 
+        "NURS 174C", 
+        "NURS 174C"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Students will apply leadership and management principles within a community to determine a defined need or issue, identify goals to meet or solve the issue, and complete the culminating project based on previous course work.  ", 
+      "id": "CSUS_NURS 178", 
+      "course name": "Culminating Project"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This hybrid course is designed to expand communication and leadership skills among RN to BSN students in their professional practice. Students will develop an understanding of the humanities and diverse cultures through the lens of nursing practice. Specifically, students will reflect on how culture and experience determines the human condition which is reflected in their animating ideas and values towards health and healthcare.. ", 
+      "course name": "Professional Communication and Reasoning Development.", 
+      "units": "3 Units", 
+      "id": "CSUS_NURS 179", 
+      "prerequisite": [
+        "NURS 170", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit  ", 
+      "description": "Nursing students participate in clinical nursing experiences that reflect the realities of the healthcare enviroment and have oppurtunity to master learned skills. ", 
+      "course name": "Work Study in Nursing", 
+      "units": "1 - 12 Units", 
+      "id": "CSUS_NURS 194", 
+      "prerequisite": [
+        "NURS 120", 
+        "NURS 123"
+      ]
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Guided study and experience in a specified nursing area. ", 
+      "id": "CSUS_NURS 195", 
+      "course name": "Field Study"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects and directed reading for students who are competent to assume independent work. Admission to this course requires approval of faculty member under whom the independent work is to be conducted.", 
+      "id": "CSUS_NURS 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Satisfies the GWAR requirement.  ", 
+      "description": "Students will explore emerging issues in healthcare and consider how these issues shape their practice. Through examination of current issues and challenges confronting the nursing profession, analysis of the literature, examination of personal values, rights, and obligations, and the application of ethical decision-making processes, students' ability to engage in ethical discussions will be enhanced, as will their ability to provide professional leadership. ", 
+      "id": "CSUS_NURS 209", 
+      "course name": "Advanced Role Development in Nursing."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Participants will explore nursing research as the foundation for clinical and organizational decision making. Content will include understanding key elements of evidence-based practice, developing skills to access data bases in nursing and healthcare, evaluation of evidence in nursing including published nursing research, problem identification within the practice setting, and incorporation of evidence in initiating change and improving clinical practice. ", 
+      "id": "CSUS_NURS 210", 
+      "course name": "Research as the Foundation for Advanced Nursing"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course requires that students operationalize knowledge, skills, and dispositions acquired in previous courses. Students will identify contemporary healthcare issues and apply graduate core competencies to guide nursing praxis in the planning, implementation and evaluation of quality healthcare for individuals, families, groups and communities. ", 
+      "course name": "Seminar in Organizational and Systems Leadership", 
+      "units": "3 Units", 
+      "id": "CSUS_NURS 213", 
+      "prerequisite": [
+        "NURS 209", 
+        "NURS 210"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provision and application of concepts needed for nursing practice in the schools. Focuses on the three major competencies of school nursing practice: providing health and wellness services, providing direct client care services for school age children (pre-k through age 22), and professional management of school nursing services. Emphasis is on the foundations of school nursing practice, legal and ethical issues, special education services, and management of episodic illness and chronic health conditions. ", 
+      "id": "CSUS_NURS 213C", 
+      "course name": "Seminar in Specialized Nursing Processes: School Nursing I"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provision and application of concepts needed for nursing practice in the schools. Focuses on the three major competencies of school nursing practice: providing health and wellness services, direct client care services for school age children (pre-k through age 22), and health service program coordination and management. Emphasis is on ethical issues and federal laws addressing education for students with disabilities, health promotion programs, issues of adolescent health, and behavior assessment and management including considerations for students receiving special education services. ", 
+      "course name": "Seminar in Specialized Nursing Processes: School Nursing II", 
+      "units": "4 Units", 
+      "id": "CSUS_NURS 213D", 
+      "prerequisite": [
+        "NURS 213C"
+      ]
+    }, 
+    {
+      "term": " FOCUS alternates between K-12 and higher education.  ", 
+      "description": "Introduction to curriculum development and instructional design concepts in preparation for the role of educator in an educational institution or health care setting. Emphasis will be on instructional design, instructional strategies, and measurement of learner outcomes. Lecture three hours. ", 
+      "course name": "Educational Program Development in Nursing", 
+      "units": "3 Units", 
+      "id": "CSUS_NURS 214", 
+      "prerequisite": [
+        "NURS 209", 
+        "NURS 210"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " FOCUS alternates between K-12 and higher education.  ", 
+      "description": "Introduction to curriculum development and instructional design concepts in preparation for the role of educator in an educational institution or health care setting. Continues emphasis on instructional design, related to curriculum development and implementation, and to program evaluation. Lecture three hours. ", 
+      "id": "CSUS_NURS 214C", 
+      "course name": "Educational Program Development in Nursing II"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines issues of health policy, financing, and the organization and delivery of health services at the local, national, and global levels. Health promotion will be defined and the influence of community on the individual, group, and family's health will be explored. Epidemiological data bases will be identified. These data bases will be critiqued and used to develop a health promotion program. ", 
+      "course name": "Community Health Services and Policy", 
+      "units": "3 Units", 
+      "id": "CSUS_NURS 215", 
+      "prerequisite": [
+        "NURS 209", 
+        "NURS 210"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Theory and practice of detecting idiopathic scoliosis, and visual disorders resulting from inadequate refraction, ocular mal-alignment, and color deficiency in the school setting. The pathophysiology of said conditions will be presented, the nursing role delineated, and opportunities for paired screening practice provided.", 
+      "id": "CSUS_NURS 216", 
+      "course name": "Vision and Scoliosis Screening"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Seminar designed to promote the understanding and application of fundamental disease processes and physiological principles in cross-clinical settings for the purpose of improving nursing assessments and patient care management. Lecture three hours.", 
+      "id": "CSUS_NURS 230", 
+      "course name": "Advanced Concepts in Pathophysiology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Conceptual and systematic study of pharmacodynamics, pharmacokinetics, pharmacoeconomics and therapeutic implications for healthcare practitioners. Efficient use of traditional and web based pharmaceutical resources is encouraged. Designed to meet Board of Registered Nursing requirements for prescriptive privileges. Requires familiarity with disease process. Lecture three hours.", 
+      "id": "CSUS_NURS 231", 
+      "course name": "Pharmacology for Advanced Practice"
+    }, 
+    {
+      "term": "  Availability of a stethoscope is required. Individual practice outside of class is required.  ", 
+      "description": "Advanced concepts and skills in health and physical assessment are essential to the clinical decision making and caring process for the nurse in advanced practice and leadership roles. The emphasis is on eliciting an accurate and thorough history considering the client's multiple dimensions, development of advanced physical examination skills and the development of documentation skills to provide a database for continuous improvement of nursing practice. ", 
+      "course name": "Advanced Physical Assessment Across the Lifespan", 
+      "units": "3 Units", 
+      "id": "CSUS_NURS 232", 
+      "prerequisite": [
+        "NURS 209", 
+        "NURS 210"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Seminar designed to present techniques related to the physical assessment, in the school or home setting, of the child, age birth through 18 years. Emphasis is on the common morbidities and mortalities of these age groups including interrelationship of the physical, emotional and socioeconomic causes of health problems and illnesses. Availability of an otoscope and stethoscope required. Individual practice required outside of class.  Lecture three hours. ", 
+      "id": "CSUS_NURS 232A", 
+      "course name": "Advanced Physical Assessment: Infant, Child, Adolescent"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " in a clinical practice setting focusing on the care of adult clients. The emphasis of this experience will be to application of graduate core competencies to guide leadership in nursing praxis in the planning, implementation and evaluation of quality healthcare for individuals, families, and groups. ", 
+      "course name": "Practicum in Organizational and Systems Leadership", 
+      "units": "3 Units", 
+      "id": "CSUS_NURS 293", 
+      "prerequisite": [
+        "NURS 209", 
+        "NURS 210", 
+        "NURS 214", 
+        "NURS 230", 
+        "NURS 231", 
+        "NURS 232", 
+        "NURS 213", 
+        "NURS 213"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Application of a planned sequence of supervised clinical experiences in one or more California public school districts offering nursing services to infants, children and adolescents for the purpose of developing a clinical leadership role in school nursing. Focuses on the three major competencies of school nursing practice: providing health and wellness services, providing direct client care services for school age-children (pre-k through age 22, including students with special health care needs), and professional management of school nursing services. ", 
+      "course name": "Practicum in Specialized Nursing Processes: School Nursing", 
+      "units": "4 Units", 
+      "id": "CSUS_NURS 293D", 
+      "prerequisite": [
+        "NURS 213C", 
+        "NURS 213D"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Opportunity for analysis and synthesis of concepts of management and leadership in an educational setting while practicing the role of a nursing educator. ", 
+      "course name": "Practicum in Educational Program Development in Nursing", 
+      "units": "3 Units", 
+      "id": "CSUS_NURS 294", 
+      "prerequisite": [
+        "NURS 214"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " requires permission of a faculty member who will serve as sponsor and coordinator of the experience.", 
+      "course name": "Field Study", 
+      "units": "1 - 6 Units", 
+      "id": "CSUS_NURS 295", 
+      "prerequisite": [
+        "NURS 295"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual research, study, and directed reading in an area not directly covered in the Division's core courses, role preparations or electives. Students pursue a particular course of study on a one-to-one basis with a faculty member. Educational objectives must be specified in advance.", 
+      "id": "CSUS_NURS 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "The Culminating Experience is in the form of a comprehensive examination. The comprehensive examination is an original scholarly paper that reflects an in-depth problem-solving proposal or a business proposal. Students that wish to do a thesis or project as the culminating experience must petition the Division of Nursing Graduate Committee and will be approved on an individual basis.  ", 
+      "id": "CSUS_NURS 500", 
+      "course name": "Culminating Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "NURS", 
+    "subject": "Nursing"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Nursing", 
+    "id": "CSUS"
+  }
+}

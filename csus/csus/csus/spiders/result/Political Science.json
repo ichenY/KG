@@ -1,0 +1,762 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Examines the U.S. Constitution, the U.S. system of governments and the ideas and values on which they are based. Fulfills state code requirements for U.S. Constitution and California State and Local Government. Students who believe they have a good fundamental knowledge of the institutions of American Government are encouraged to consider a designated upper division course to fulfill the state requirement.", 
+      "id": "CSUS_POLS 1", 
+      "course name": "Essentials Of Government"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explores some of the most influential works of politics and political writing in American history, and challenges contemporary analysis of political institutions and processes. Examines the structure of the Constitution, issues of federalism, the growth of civil rights, and the processes of government, with a comparative element. Explores the unique characteristics of California state politics.", 
+      "id": "CSUS_POLS 1H", 
+      "course name": "Honors Government"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Examination of the ideas of various authors about governing and being governed. Topics include: the scope and limits of freedom, the causes and characteristics of the state, the content of politics, the nature of authority, the problems of power and the duty to obey.", 
+      "id": "CSUS_POLS 10", 
+      "course name": "The Meaning of Government: An Introduction to Political Ideas"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Basic introduction to global politics focusing on a broad range of issues and problems relating to conflict and cooperation among nations, and on similarities and differences among nations' governmental institutions, structures and processes.", 
+      "id": "CSUS_POLS 35", 
+      "course name": "World Politics"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " Experimental course.   ", 
+      "description": "Examines the California state constitution, the structure and role played by both the state government and local governments in California. Students who pass the course will petition the Dean of Undergraduate Studies for credit in meeting the California Government portion of the American Institution requirement. ", 
+      "id": "CSUS_POLS 96", 
+      "course name": "California Constitution & Government"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the foundations of scientific research methodology in political and social science. Designed to introduce students to the basic conceptual, observational and analytical methods of empirical research in political science and related social sciences.", 
+      "id": "CSUS_POLS 100", 
+      "course name": "Introduction to Research Methods in Political Science"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "History of political theory, covering some important thinkers and topics during the Ancient, Medieval and Early Modern periods.", 
+      "id": "CSUS_POLS 110", 
+      "course name": "Political Thought I"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "History of political theory, covering some important thinkers and topics from the Early Modern period to the early 20th century.", 
+      "id": "CSUS_POLS 111", 
+      "course name": "Political Thought II"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Current issues in political thought, with emphasis upon developments in the political philosophies of democracy, fascism, communism, conservatism, liberalism. Ideas are analyzed with reference to assumptions on which they are based and their relevance for political institutions and problems.", 
+      "id": "CSUS_POLS 112", 
+      "course name": "Current Political Thought"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Assessment of ideas that are central to the development of an American political tradition, as those ideas influence government at the federal, state and local levels. Meets the state requirements in U.S. Constitution and California State and Local Government.", 
+      "id": "CSUS_POLS 113", 
+      "course name": "American Political Thought"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Introduction to basic questions of democracy.  Draws on classical and contemporary writings to explore what democracy means and various forms of democratic government, politics, and culture: direct, representative, liberal, republican, pluralist, elitist.  Specific topics may include: definitions of democracy, justifications for democracy, arguments for increasing or limiting democratic participation, tasks of political representatives, democratization of social institutions, and the relationship between globalization and democracy.", 
+      "id": "CSUS_POLS 115", 
+      "course name": "Democratic Theory"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Systematically and analytically introduces the predominant political trends and concepts presently entertained and harbored in the Black Community. A necessary adjunct to this dialogue is the racist theme in American society since on balance this is the matrix out of which the political alternatives and concepts grew. ", 
+      "course name": "Black Political Thought", 
+      "units": "3 Units", 
+      "id": "CSUS_POLS 117", 
+      "prerequisite": [
+        "ETHN 117"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Examines fundamental conceptual questions about morality, law, and international relations through great works of political theory.  Topics will cover natural right, sovereignty, just war, imperialism, national security, and international obligations.  Authors read will include Thucydides, Aristotle, Aquinas, Machiavelli, Grotius,  Montesquieu, Kant, Hegel, Marx, Mill and Nietzsche.", 
+      "id": "CSUS_POLS 118", 
+      "course name": "Just War, Natural Right, and the Law of Nations"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Analyzes the basic writings and ideas of Socialist and Marxist writers and the implications of their ideas.", 
+      "id": "CSUS_POLS 119A", 
+      "course name": "Socialism Marxism-Communism"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Study of the political thought of Greece from Homer to Demosthenes, including Plato, Thucydides, Sophocles, and other Greek thinkers.  Topics include the birth of democracy, the sciences and philosophy, Athens' rise to prominence, its defense of freedom against Persia, and its own development of an empire.  Examination of Greek thoughts about justice, authority, freedom, equality, and culture.  The events that shaped ideas and ideas that shaped events, as well as our understanding of the modern world, will be covered.", 
+      "id": "CSUS_POLS 119B", 
+      "course name": "Greek Political Thought"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "This course examines major problems that have shaped the modern world, the historical and intellectual roots of the modern world, and debates over the meaning of modernity. Considers how both advocates and critics of modernity have understood the relation of history, philosophy, politics, nature, religion, economics, and other key concepts. Specific topics may include: the development of modern science, technological progress, democratic institutions, capitalism, colonialism, secularization, religious tolerance, and individual freedom.", 
+      "id": "CSUS_POLS 119D", 
+      "course name": "Shaping of the Modern World"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Basic junior level course in Public Law. A study of leading decisions of the U.S. Supreme Court and other materials pertaining to the power of Congress, the President and the Judiciary; relations between states and nation; and civil rights. Considers such topics as the separation of powers, judicial review, Congress, and the President. ", 
+      "id": "CSUS_POLS 120A", 
+      "course name": "Constitutional Law"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Basic junior level course in Public Law. A study of rights and immunities under the U.S. Constitution: examines leading decisions of the U.S. Supreme Court and other materials pertaining to freedom of expression, freedom of association, equality and due process of law. ", 
+      "id": "CSUS_POLS 120B", 
+      "course name": "Constitutional Rights and Liberties"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Examines the interaction of law, society, and politics in America from the colonial period to the present with special emphasis on law as an arena of social and cultural conflict.  Major topics include the development of the common law in early America; the law of slavery and its impact on constitutional development; the role of the law in defining controversies over race and gender; legal thought and education; and the role of the Supreme Court in 20th Century America. ", 
+      "course name": "American Legal History", 
+      "units": "3 Units", 
+      "id": "CSUS_POLS 121", 
+      "prerequisite": [
+        "HIST 180"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Not offered", 
+      "description": "Examines constitutional and statutory limits of bureaucratic power in the American political system. ", 
+      "id": "CSUS_POLS 122", 
+      "course name": "The Law and Bureaucracy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Current legal thought in the U.S. with special emphasis on the relationship of law to history, economics, anthropology, and government; the nature of law; the role of legislators, lawyers, and judges in making the legal system. ", 
+      "id": "CSUS_POLS 123", 
+      "course name": "Elements Of Law"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines and analyzes the pervasiveness of lawyers and their activities in political realities; what do lawyers do; politics of prosecution and defense; politics within the profession; professional mobility; politics of the judiciary; lawyers in government. ", 
+      "id": "CSUS_POLS 126", 
+      "course name": "Politics and Lawyers"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "While tracing the evolution of historical antecedents, centers upon modern literature in the field. The scope is broad and the problems vary, but among the areas to be studied are: 1) Is international law really law?; 2) historical foundations; 3) international legal institutions and structures; 4) supra-legal international orders, structures, and institutions and their meaning to international law; 5) world order and world law; and 6) an international \"Bill of Rights. ", 
+      "id": "CSUS_POLS 127", 
+      "course name": "Elements of International Law"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Introduction to environmental law, including: the evolution of environmental legislation, environmental issues in the court system, environmental regulation and administrative law and environmental torts.  Emphasis is on understanding legal process and the special challenges environmental problems present to the legal system. ", 
+      "course name": "Environment and the Law", 
+      "units": "3 Units", 
+      "id": "CSUS_POLS 128", 
+      "prerequisite": [
+        "ENVS 128"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Basic junior-level course in International Relations. Current international tensions; the motivating forces influencing world politics; and the role of diplomacy and international organizations in resolving conflicts.", 
+      "id": "CSUS_POLS 130", 
+      "course name": "International Politics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Examines human efforts to create supranational organizations to promote world peace and prosperity. The focus will be on social, political, and economic activities and problems which have developed and proliferated since the end of the second World War. ", 
+      "id": "CSUS_POLS 131", 
+      "course name": "International Organization"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Not offered", 
+      "description": "Covers the discovery of atomic fission, the development of the atomic bomb and the evolution of U.S. nuclear weapons and strategy from 1945 to the present. It examines political, strategic, bureaucratic, economic and cultural forces that have shaped U.S. nuclear policy since Hiroshima. The problem of international security in the Nuclear Age is also addressed.", 
+      "id": "CSUS_POLS 132", 
+      "course name": "War and Peace in the Nuclear Age"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Analyzes U.S. security policy, looking at the structure and ideologies of the security system, the requirements of national defense, and the roles played by conventional and nuclear weapons in protecting and promoting American security.", 
+      "id": "CSUS_POLS 133", 
+      "course name": "American Defense and National Security"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Concerned with the relationship of mass media to war and the possibilities for peace, with emphasis on recent concepts of political communication. ", 
+      "course name": "War, Peace and the Mass Media", 
+      "units": "3 Units", 
+      "id": "CSUS_POLS 134", 
+      "prerequisite": [
+        "JOUR 134"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Institutions, practices and development of American foreign policy; the interaction of domestic and foreign factors on the formulating of American foreign policy since World War II. ", 
+      "id": "CSUS_POLS 135", 
+      "course name": "American Foreign Policy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes the interaction between politics and economics at the international level. Covers basic theoretical approaches; historical evolution of international economy; creation and role of international financial institutions; development issues; globalization and integration.", 
+      "id": "CSUS_POLS 136", 
+      "course name": "International Political Economy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Focuses on major theories of nationalism. Examines the literature dealing with theories explaining the emergence of nationalism and its political consequences; develops a comprehensive set of empirical indicators of nationalism, together with several working hypotheses regarding political manifestations of nationalism; provides the analytic frame for understanding nationalism; and applies theories to explain political behaviors of nations. ", 
+      "id": "CSUS_POLS 137", 
+      "course name": "Nationalism"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Course repeatable with instructor permission.  ", 
+      "description": "Seminar experience for upper level Government and International Relations concentration majors. Students will prepare  for and participate in a national intercollegiate model UN conference. ", 
+      "id": "CSUS_POLS 138", 
+      "course name": "UN Simulation"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only \u2013 odd years", 
+      "description": "Explores the nature of, and issues in, globalization.  It does so in five parts.  Part I examines alternative conceptions of globalization.  Part II identifies and examines the primary forms of economic globalization.  Part III considers globalization's effects on the territorial state, the welfare state, organized violence, culture, immigration, gender, and the environment.  Part IV investigates the politics of the anti-globalization backlash.  Part V concludes with an assessment of the shape and future of contemporary globalization. ", 
+      "id": "CSUS_POLS 139A", 
+      "course name": "Globalization"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only \u2013 even years", 
+      "description": "This course examines the origins and evolution of the theory and practice of international development; considers the meaning of international development; examines theoretical models and approaches to understanding the conditions, effects, and processes of international development. It explores the history and current state of theories and approaches to international development and addresses contemporary and essential issues in the field. ", 
+      "id": "CSUS_POLS 139B", 
+      "course name": "International Politics and International Development"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Involves students in the study of the field of intelligence, as it relates to national security, foreign policy, law and ethics. Comparative analysis of the practice and experience of the U.S., the former Soviet Union and other nations will be emphasized.", 
+      "id": "CSUS_POLS 139G", 
+      "course name": "Intelligence and Espionage"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "This course introduces students to the broad field of the study of human security and many essential current topics in that field, such as access to food and water, security against personal violence, and economic security. Students will examine how international forces and structural elements of society can endanger or ensure the security of groups and individuals within the borders of nation-states. Students will learn to research, analyze, and address the connections between international forces and their affects upon human beings around the world.", 
+      "id": "CSUS_POLS 139S", 
+      "course name": "Topics in Human Security"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Survey of the field of comparative government and politics including a review of historic uses of comparison in political science research but with emphasis on the methods of study and analytical means of research currently employed. The subject matter of study: national political systems of all types and the component parts of political systems will be an integral feature. ", 
+      "id": "CSUS_POLS 140", 
+      "course name": "Comparative Politics"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Examines the social, political, cultural, and economic factors which have been important to the African diaspora. Examines how African people have responded to those factors, both in terms of formal, political thought, and in terms of political movements and political institutions. Examines thought and practice, comparability to Africa, U.S., Caribbean, Central and South America. ", 
+      "course name": "Politics of the African Diaspora.", 
+      "units": "3 Units", 
+      "id": "CSUS_POLS 141", 
+      "prerequisite": [
+        "ETHN 141"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only \u2013 even years", 
+      "description": "Deals with the politics and governments of Africa. The most important themes concern precolonial African systems, colonialism, nationalism and nation-building. Previous exposure to African Studies is desired but not required.", 
+      "id": "CSUS_POLS 142", 
+      "course name": "Government and Politics in Africa"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Explores the entire conflict process associated with war from a variety of theoretical and methodological angles, including rationalist and behavioral models. Examines the concept of war and why wars begin. Looks at how violent international conflict is resolved. Investigates the role of the international community in the management of violent conflict, how peace processes are implemented, what leads to successful negotiations, and how war crimes and post-conflict reconciliation issues are resolved. ", 
+      "id": "CSUS_POLS 143", 
+      "course name": "Causes of War, Causes of Peace"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Study of national and regional politics, governmental institutions and public problems in Europe since 1945. In different semesters there may be investigation of several, but varying, national systems, of cross-national political behavior, or of regional integration processes. May be taken more than once if there are different topics and instructor permission. ", 
+      "id": "CSUS_POLS 144", 
+      "course name": "European Politics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Survey of governmental institutions and political processes in East and Southeast Asia. Focuses on the region's politics, dynamic economic growth, complex security context, resurgence of nationalism, and attempts to build multilateral institutions. ", 
+      "id": "CSUS_POLS 145", 
+      "course name": "Asian Politics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Two-part examination of government, politics, political change and political groups in Latin America. Part one examines the development of government, politics, political change and political groups. Part two presents national case studies.", 
+      "id": "CSUS_POLS 147", 
+      "course name": "Latin American Government and Politics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Survey of the governmental institutions and the political processes in the region, with emphasis on the problems of social change. Focuses on the colonial situation, the growth of nationalism, the revolution of rising expectations, Islamic political theory and its contemporary manifestations, the role of the military, and the current regional conflicts.", 
+      "id": "CSUS_POLS 148", 
+      "course name": "Governments and Politics in the Middle East"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Students will engage in a cross-national research agenda.  Students will conduct original research in comparative politics, which requires an appreciation for distinct learning cultures in different countries.  Countries acceptable for comparison will vary with instructor. ", 
+      "id": "CSUS_POLS 149A", 
+      "course name": "Original Research in Comparative Politics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course is primarily concerned with the causes, trajectories, and consequences of major revolutions and revolutionary movements of the 20th and 21st centuries. The course addresses the questions: what defines a revolution? What are the causes of revolutionary social change? Why do some revolutions fail to achieve their intended objectives and others succeed? How can political scientists investigate the possibility of objectively assessing revolutionary success or failure?", 
+      "id": "CSUS_POLS 149R", 
+      "course name": "Comparative Revolutions"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Federal system of government; the U.S. Constitution; legislative, executive, and judicial processes; political parties, interest groups, and the relationships and obligations of citizens to their government(s). Fulfills the California state graduation and credential requirements for U.S. Constitution and California State and Local Government. May be substituted for GOVT 1, but may not be used as an elective toward the major.", 
+      "id": "CSUS_POLS 150", 
+      "course name": "American Governments"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Not offered", 
+      "description": "Evaluation of the role and background of a professionalized bureaucracy with references to American national, state and local administrative systems as well as non-American administrative systems. ", 
+      "id": "CSUS_POLS 151", 
+      "course name": "Bureaucracy"
+    }, 
+    {
+      "term": "Cross Listed: ", 
+      "description": "Examines the ways in which political behavior is shaped by individual beliefs, personalities, cognitive patters, biases, and other psychological mechanisms. Students will engage with a wide range of research on topics such as cognitive styles, personality, obedience, psychological roots of terrorism, the psychology of ideology, and the role of emotion in politics. ", 
+      "course name": "Political Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_POLS 152", 
+      "prerequisite": [
+        "PSYC 153"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Examines the development of the Presidency as an institution; sources and uses of presidential power in contemporary politics; the President's relationship with Congress and the bureaucracy; and current issues relating to the office. ", 
+      "id": "CSUS_POLS 153", 
+      "course name": "The American Presidency"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination and analysis of American political parties. An exploration of the nature and functions of political parties including party organization, electorate, and government. Topics include the various historical party systems, the two-party system, elections, and campaign financing. Includes discussion of the presidential nominating process. ", 
+      "id": "CSUS_POLS 154", 
+      "course name": "Political Parties in America"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Examination and analysis of the institutions, the people and the behavior that make up the legislative process. Considers the nature of representation and the role and impact of such factors as committee structure, political parties, interest groups, and others on public policy. Focus is on both the U.S. Congress and the California State Legislature. ", 
+      "id": "CSUS_POLS 155", 
+      "course name": "The Legislative Process"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only \u2013 odd years", 
+      "description": "Examination and analysis of interest groups in American political systems. The nature, role, formation, organization and activities of interest groups; how interest groups influence the public, political campaigns, public policy-making, and policy implementation. Representative interest groups will be studied. ", 
+      "id": "CSUS_POLS 156", 
+      "course name": "Interest Groups"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "How we learn and change our political beliefs, including the influence of media, religion and social standing. The various forms of political participation; who participates and who doesn't and why. The meaning and conduct of elections in the modern era.", 
+      "id": "CSUS_POLS 157", 
+      "course name": "Politics, Opinion, and Participation"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Focuses on the role the mass media plays in the political life of our democracy.  Five primary topics are covered: the proper media role in a democracy; the relationship between the media, public opinion and agenda setting; the effects of media coverage on campaigns, elections, and voting; how elected officials influence and \"spin\" coverage; and the impact of media on policy-making.  Students will develop critical analysis skills and emerge as more savvy media consumers and citizens. ", 
+      "id": "CSUS_POLS 158", 
+      "course name": "Mass Media and American Politics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only \u2013 even years", 
+      "description": "Exploration of American campaigns and elections. Topics include the electoral process, voting behavior, the role of political parties, the media, interest groups, and candidate and campaign strategies. Focus will be on contemporary/current campaigns and elections.", 
+      "id": "CSUS_POLS 159A", 
+      "course name": "Campaigns and Elections"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Not offered", 
+      "description": "Examines the concept of representation and how it functions in the U.S. Congress and in state legislatures.  In the first section different meanings of representation are discussed.  In the second section interactions between legislators and their constituents are explored.  Finally, the tradeoffs to different designs of representative institutions are studied.", 
+      "id": "CSUS_POLS 159B", 
+      "course name": "American Politics Seminar: Problems in Democratic Institutions"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Explores the impact of the revolutionary change represented by the atomic bomb on forms of cultural response and expression in America.  Attempts to analyze the bomb-culture relationship by reviewing important films, television programs, novels, essays, music and poetry that revealed, and helped shape, the hopes and anxieties that have characterized life in the nuclear age.", 
+      "id": "CSUS_POLS 162", 
+      "course name": "American Film and Culture in the Nuclear Age"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Examines historically and currently the political life of black people in the U.S. Emphasis on understanding underlying conditions. ", 
+      "id": "CSUS_POLS 163", 
+      "course name": "Introduction to Black Politics in the U.S.."
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Traces the development of the relationship between business and government in the U.S., especially in relation to state and federal regulations of those industries. Examines how individual entrepreneurs and regulators have contributed to the development of the modern American political economy. ", 
+      "course name": "History of American Capitalism", 
+      "units": "3 Units", 
+      "id": "CSUS_POLS 164", 
+      "prerequisite": [
+        "HIST 164"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Examines the phenomenon of political underrepresentation in the U.S.A. It will identify significant affected groupings, examine the conditions which have resulted in such underrepresentation, evaluate the effects of underrepresentation on the lives of affected groups, and consider relevant political strategies. Emphasis on particular groups may vary with instructor. ", 
+      "course name": "", 
+      "units": "3 Units", 
+      "id": "CSUS_ ", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "This course examines the influence of socially constructed meanings of femininity and masculinity on the political participation of women, candidate selection, election campaigns, and electoral outcomes in executive and legislative offices in the U.S. and worldwide. Students will develop a rich understanding of the relationship between gender and women's political representation and analyze and discuss institutional, structural, cultural, and historical conditions associated with women's voting behavior, political advancement, leadership styles, and impacts of political representation on women. ", 
+      "course name": "Gender and Politics", 
+      "units": "3 Units", 
+      "id": "CSUS_POLS 166", 
+      "prerequisite": [
+        "WOMS 166"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Focuses on key transformative sequences in American political history and their consequences.  Topics include the nature of American political culture and its role in shaping U.S. political institutions and public policy; the process of government growth or \"state building\"; the role of political institutions in channeling societal demands and influencing public policy; the nature of American party systems or \"regimes\" and the electoral \"realignments\" that link them; and connections between long-term economic and political cycles.", 
+      "id": "CSUS_POLS 167", 
+      "course name": "American Political Development"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Provides a broad overview of the politics of gay rights in the United States. Particular emphasis is placed on gay rights at the state level (where the vast majority of policy is made) and major legal strategies and court rulings affecting the gay rights movement, since judiciaries have been the main venue for advancing gay rights arguments. ", 
+      "id": "CSUS_POLS 168", 
+      "course name": "Gay and Lesbian Politics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Social and political dimensions of science and technology.  Examines how science and technology both shape politics and are shaped by politics.  Considers the role of scientific advisors in government and society; dilemmas of expert authority and bias; relations between experts and non-experts; science and technology in popular culture; science and technology policy; implications of emerging technologies such as genetic engineering and the Internet for civil rights, moral values, and democracy.", 
+      "id": "CSUS_POLS 169A", 
+      "course name": "Science, Technology, and Politics"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the policy development process in the U.S. by exploring the ideological predispositions of the American public, the analytical approaches applied to policy development and assessment, and the institutional and political environment in which policy is made. Typically, the understanding derived from this examination is applied to several policy issues of current interest. ", 
+      "course name": "Public Policy Development", 
+      "units": "3 Units", 
+      "id": "CSUS_POLS 170", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Politics of human interaction with land, air and water.  Political analysis of agenda setting, policy formation and administration (national, state, and local) of environmental programs.  Focus on contemporary issues such as energy alternatives, management of toxics, land development, and pollution control. ", 
+      "course name": "Environmental Politics and Policy", 
+      "units": "3 Units", 
+      "id": "CSUS_POLS 171", 
+      "prerequisite": [
+        "ENVS 171"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "California state, city and county politics and government. Comparisons with governments in other states. Meets State requirements in California State and Local Governments. Permits students who have fulfilled U.S. Constitution requirement in another state to meet graduation requirements for California State and Local Governments.", 
+      "id": "CSUS_POLS 180", 
+      "course name": "California State and Local Government"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Examines the political diversity of the fifty states, with special attention paid to variations in state governing institutions. Topics covered include legislatures, governors, judiciaries, political parties, interest groups, elections, direct democracy, and state budget procedures. ", 
+      "id": "CSUS_POLS 181", 
+      "course name": "Comparative State Government"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Open to selected students from each of the 20 CSU campuses, the Sacramento Semester program provides students with an opportunity to spend the semester studying and working directly in California State government. Participating students work as interns at the State Capitol for 25 or more hours each week. Interns are placed in legislators' offices, with legislative committees, party caucuses, lobbyists and interest groups, or in various executive, administrative, and judicial agencies. In addition to the internships, students participate in an academic seminar, California Government and Politics. The seminars frequently include as resource persons individuals who work in key policy-making positions in the state government.", 
+      "id": "CSUS_POLS 182A", 
+      "course name": "Sem Calif Govt+Politics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Open to selected students from each of the 20 CSU campuses, the Sacramento Semester program provides students with an opportunity to spend the semester studying and working directly in California State government. Participating students work as interns at the State Capitol for 25 or more hours each week. Interns are placed in legislators' offices, with legislative committees, party caucuses, lobbyists and interest groups, or in various executive, administrative, and judicial agencies. In addition to the internships, students participate in an academic seminar, California Government and Politics. The seminars frequently include as resource persons individuals who work in key policy-making positions in the state government.", 
+      "id": "CSUS_POLS 182B", 
+      "course name": "Sem Calif Govt+Politics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Problems of urban areas and proposed solutions; politics and government. May be offered as lecture-discussion class or as a seminar. Field study may be required. ", 
+      "id": "CSUS_POLS 184", 
+      "course name": "Introduction to Urban Politics"
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": "Fall, Spring, Summer", 
+      "id": "CSUS_POLS 195A", 
+      "course name": "Internship"
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": "Spring only", 
+      "id": "CSUS_POLS 195B", 
+      "course name": "Internship Sacramento Semester"
+    }, 
+    {
+      "units": "6 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_POLS 195D", 
+      "course name": "Internship -  Washington DC"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " This course may be repeated up to a total of six units.  ", 
+      "description": "Provides individualized learning opportunities (1-3 units per semester) for engaging in peer advising along with elective activities such as tutoring, assisting faculty with research, event planning and other activities of a comparable nature. Students should be upper division students or graduate students. The units may not be applied towards unit requirement of the Government major, Government IR and Government/Journalism. ", 
+      "id": "CSUS_POLS 198A", 
+      "course name": "Odyssey Peer Advisers"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " This course may be repeated one time only for unit credit.  ", 
+      "description": "Provides opportunity for lower division students, students on probation, and newly declared majors to be mentored by more advanced upper division students or graduate students. This peer advising will help students meet academic deadlines, achieve academic success, become engaged in campus activities and integrated into the Government Department. Units may not be applied towards unit requirement of the Government major, Government IR and Government/Journalism ", 
+      "id": "CSUS_POLS 198B", 
+      "course name": "Peer Advising by Odyssey"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Permits a student to pursue study and research in an area not otherwise available through the regular curriculum. Open only to upper division Government majors with at least a 3.0 GPA in the major. ", 
+      "id": "CSUS_POLS 199", 
+      "course name": "Independent Studies"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to the philosophy of science, and the scope and methods of empirical research in political, social and policy science. In the area of philosophy of science, focuses on the logic of scientific inquiry, theory testing and confirmation and causal explanation. In the area of scope and methods, critically examines the scientific merits of several competing approaches to the study of politics and policy, as well as some of the major methodological controversies and debates in the literature. ", 
+      "course name": "Method and Scope in Political Science", 
+      "units": "3 Units", 
+      "id": "CSUS_POLS 200", 
+      "prerequisite": [
+        "STAT 1"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit with permission of Graduate Coordinator.  ", 
+      "description": "Historical and social roots, democratic or authoritarian ideologies; the conflict of ideologies; philosophic approaches. ", 
+      "id": "CSUS_POLS 210", 
+      "course name": "Political Theory"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Undergraduates are strongly encouraged to have completed GOVT 113 or an equivalent course. ", 
+      "description": "A class examining the historical and philosophical discourse in America on central topics of debate, such as the meaning of citizenship, civil society, democracy, federalism, religion, and civil rights open to both advanced undergraduates and graduate students. ", 
+      "id": "CSUS_POLS 213", 
+      "course name": "Special Topics in American Political Thought"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Undergraduates are strongly encouraged to have completed GOVT 118 or an equivalent course. ", 
+      "description": "A class examining the philosophical underpinnings and the theatrical problems of central concepts and problems in international relations, including human rights, intercultural dialogue, problems of just war and international justice through a study of historical and contemporary texts open to both advanced undergraduates and graduate students. ", 
+      "id": "CSUS_POLS 218", 
+      "course name": "Special Topics in International Political Thought"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit with permission of Graduate Coordinator.  ", 
+      "description": "Makes it possible for political theory students to deal with questions which theorists have asked, and to attempt to answer such questions for themselves. ", 
+      "id": "CSUS_POLS 219", 
+      "course name": "Specialized Studies in Political Theory"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit with permission of Graduate Coordinator.  Cross Listed: IA 210; only one may be counted for credit.", 
+      "description": "Examination of the theory and practice of international relations including such subfields as international law, international organization, foreign policy and national security policy. ", 
+      "id": "CSUS_POLS 230", 
+      "course name": "Theories of International Relations"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Cross Listed: IA 221; only one may be counted for credit.", 
+      "description": "This seminar is a graduate-level introduction to the theory and substance of international political economy (IPE). It examines the various theoretical approaches to IPE; considers the role of trade, money, and finance in the international political economy; analyzes the pattern and structure of global production, with an emphasis on multinational corporations; surveys international development issues, including Third World economic development strategies, the debt crises, structural adjustment, and economies in transition; and investigates the politics of globalization. ", 
+      "id": "CSUS_POLS 236", 
+      "course name": "Seminar in International Political Economy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Cross Listed: IA 230; only one may be counted for credit.", 
+      "description": "Introduction to the theories and substance of globalization.  It examines alternative theories of globalization; considers globalization's political impact on the territorial state, regionalism, the welfare state, the military, immigration, and the environment; investigates the politics of the anti-globalization backlash; and concludes with an assessment of the future political trends of globalization. ", 
+      "id": "CSUS_POLS 239", 
+      "course name": "Globalization and International Relations"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit with permission of Graduate Coordinator.  Cross Listed: IA 222; only one may be counted for credit.", 
+      "description": "Advanced study of some of the world's governmental and political systems. May focus on single countries, groups of countries or general categories of systems. Considers theoretical concept and methodology. ", 
+      "id": "CSUS_POLS 240", 
+      "course name": "Comparative Government and Politics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Graduate introduction to politics and governments of the Middle East and the impact of the United States foreign policy in the region.  Relies on a comparative frame to tease out the causes of intrastate and interstate conflicts in the region, as well as the effects of the American foreign policy on the contemporary political trends in the Middle East, including those relating to the Arab-Israeli conflict, Islamic political resurgence, and terrorism. ", 
+      "id": "CSUS_POLS 249A", 
+      "course name": "Middle East Politics and the United States"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit with permission of Graduate Coordinator.  ", 
+      "description": "Exploration in-depth of topics such as federalism, executive-legislative relationships, problems of representation, government reorganization, congressional reform, the electoral process. ", 
+      "id": "CSUS_POLS 250", 
+      "course name": "Basic Issues of American Government"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Undergraduates may take the course with instructor permission. ", 
+      "description": "Course will explore public opinion, voting behavior, representation and political psychology with special focus on California. ", 
+      "id": "CSUS_POLS 270", 
+      "course name": "Political Behavior and Political  Processes: California and Beyond"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Undergraduates may take the course with instructor permission. Prerquisite ", 
+      "description": "Advanced study of California's state and local governments, with emphasis on political history, political institutions, and the role of direct democracy on the state's government, budget and politics. Demographic and geographic elements will be scrutinized through a political focus. California's policy and political process will also be examined, as well as discussion of various political reforms. ", 
+      "id": "CSUS_POLS 280", 
+      "course name": "California Politics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines state political institutions and processes. Special attention will be paid to how the political variation among the states shapes processes and outcomes. Topics covered will include governors, legislatures, interest groups, public opinion, political parties, and elections.", 
+      "id": "CSUS_POLS 281", 
+      "course name": "Comparative State Government"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "In-depth exploration of the socio-economic problems of urban and metropolitan areas and an evaluation of proposed political and governmental solutions. ", 
+      "course name": "Urban Politics", 
+      "units": "3 Units", 
+      "id": "CSUS_POLS 284", 
+      "prerequisite": [
+        "PPA 284"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open only to students admitted to the California Senate Fellows Program. ", 
+      "description": "Critical analysis and examination of the operation of the State Capitol and the larger political environment of political parties, interest groups, and public opinion. ", 
+      "id": "CSUS_POLS 293A", 
+      "course name": "Senate Fellows Introductory Seminar"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open only to students admitted to the California Senate Fellows Program. ", 
+      "description": "Seminar will analyze procedural issues and public policy questions within the State Senate, legislature, and contemporary California politics. ", 
+      "id": "CSUS_POLS 293B", 
+      "course name": "Senate Fellows Policy Seminar"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open only to students admitted to the Jesse M. Unruh Assembly Fellowship Program. ", 
+      "description": "Critical examination of state and local governmental institutions and processes. Seminar will impart an advanced understanding of the structures and processes of California's political institutions, government and legislature. ", 
+      "id": "CSUS_POLS 294A", 
+      "course name": "Assembly Fellows Introductory Seminar"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open only to students admitted to the Jesse M. Unruh Assembly Fellowship Program. ", 
+      "description": "Seminar focuses on current California policy issues and the lawmaking process. ", 
+      "id": "CSUS_POLS 294B", 
+      "course name": "Assembly Fellows Policy Seminar"
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": " Open to all graduate students, subject to instructor permission. No more than 3 units of GOVT 295 may be counted toward the Master's degree. ", 
+      "description": "Supervised work experience in an approved legislative or administrative office at some level of local or state government, or in a politically-related organization that is concerned with government. Supervision is provided by the faculty instructor and responsible officials in the work situation. ", 
+      "id": "CSUS_POLS 295", 
+      "course name": "Government Internship"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "For advanced graduate students who have demonstrated their ability to carry on advanced, independent research.  Permits a student to pursue study and research in an area not otherwise available through the regular curriculum. Student must be advanced to candidacy.", 
+      "id": "CSUS_POLS 299", 
+      "course name": "Independent Study"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Should be taken after completion of all other requirements for the degree. Students may choose from the following options, which they must declare when they advance to candidacy: Thesis, Project, or Comprehensive Examination. ", 
+      "id": "CSUS_POLS 500", 
+      "course name": "Culminating Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "POLS", 
+    "subject": "Political Science"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Political Science", 
+    "id": "CSUS"
+  }
+}

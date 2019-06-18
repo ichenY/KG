@@ -1,0 +1,458 @@
+{
+  "courses": [
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. ",
+      "description": "Theory and practice of basic beginning jazz techniques. ",
+      "id": "CSUS_DNCE 1A",
+      "course name": "Jazz Dance Level IA"
+    },
+    {
+      "units": "2 Units",
+      "term": " Does not satisfy degree requirements for major, all students welcome. May be repeated for up to 4 units of credit. ",
+      "description": "Continued theory and practice of beginning jazz techniques. ",
+      "id": "CSUS_DNCE 1B",
+      "course name": "Jazz Dance Level IB"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. ",
+      "description": "Further theory and practice of beginning jazz techniques. ",
+      "id": "CSUS_DNCE 1C",
+      "course name": "Jazz Dance Level IC"
+    },
+    {
+      "units": "2 Units",
+      "term": " Does not satisfy degree requirements for major, all students welcome. ",
+      "description": "Introduction to the history and techniques of the contemporary dance and modem dance tradition through basic dance principles and aesthetics including the introduction to contemporary movement to develop and improve strength, flexibility, balance, coordination and creative expression. ",
+      "id": "CSUS_DNCE 2A",
+      "course name": "Contemporary Dance Level lA"
+    },
+    {
+      "units": "2 Units",
+      "term": " Does not satisfy degree requirements for major, all students welcome. ",
+      "description": "Continues the introduction of the history and techniques of contemporary dance and the modern dance tradition through deepened study of basic dance principles and aesthetics including the continued practice of contemporary movement to continue the development and improvement of strength, flexibility, balance, coordination and creative expression. ",
+      "id": "CSUS_DNCE 2B",
+      "course name": "Contemporary Dance Level IB"
+    },
+    {
+      "units": "2 Units",
+      "term": " Does not satisfy degree requirements for major, all students welcome. ",
+      "description": "Further introduction to the history and techniques of the contemporary dance and modem dance tradition through further study of basic contemporary dance principles and aesthetics including the further practice pf contemporary movement for the deepened development and improvement of strength, flexibility, balance, coordination and creative expression. ",
+      "id": "CSUS_DNCE 2C",
+      "course name": "Contemporary Dance Level IC"
+    },
+    {
+      "units": "2 Units",
+      "term": " Does not satisfy degree requirements for major, all students welcome. ",
+      "description": "Introduction to the history and development of traditional ballet techniques. Students will study ballet principles and aesthetics and continue to learn basic ballet movement, vocabulary, and skills.  ",
+      "id": "CSUS_DNCE 3A",
+      "course name": "Ballet Level lA"
+    },
+    {
+      "units": "2 Units",
+      "term": " Does not satisfy degree requirements for major, all students welcome. ",
+      "description": "This course provides,continued introduction to the history and development of traditional ballet techniques. Students will study ballet principles and aesthetics and continue to learn basic ballet movement, vocabulary, and skills. ",
+      "id": "CSUS_DNCE 3B",
+      "course name": "Ballet Level IB"
+    },
+    {
+      "units": "2 Units",
+      "term": " Does not satisfy degree requirements for major, all students welcome. ",
+      "description": "This course provides a further introduction to the history and development of traditional ballet techniques. Students will expand upon their earlier study of ballet principles and aesthetics and continue to learn basic ballet movement, vocabulary, and skills.  ",
+      "id": "CSUS_DNCE 3C",
+      "course name": "Ballet Level IC"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirement, all students welcome. ",
+      "description": "Introduction to fundamental tap dance skills including basic steps, history and vocabulary, and style development.  ",
+      "id": "CSUS_DNCE 4A",
+      "course name": "Tap Dance Level lA"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. ",
+      "description": "Continued introduction to fundamental tap dance skills including a deepened study of basic steps, history and vocabulary, and continued style development  ",
+      "id": "CSUS_DNCE 4B",
+      "course name": "Tap Dance Level IB"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. ",
+      "description": "Further introduction to fundamental tap dance skills including an expanded study of basic steps, history and vocabulary, and further style development  ",
+      "id": "CSUS_DNCE 4C",
+      "course name": "Tap Dance Level IC"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. ",
+      "description": "Introduction to dances typically and traditionally performed by Mexican and Latin Americans exploring the interrelationship of dance culture to historical events, holidays, and people throughout the Americas and with opportunities to learn folk dances representative of specific regions of Mexico and Latin America.  ",
+      "id": "CSUS_DNCE 5A",
+      "course name": "Mexican Folklorico Level lA"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirement, all students welcome. ",
+      "description": "Continued introduction to dances typically and traditionally performed by Mexican and Latin Americans with deepened exploration of the interrelationship of dance culture to historical events, holidays, and people throughout the Americas and with continued study of folk dances representative of specific regions of Mexico and Latin America.  ",
+      "id": "CSUS_DNCE 5B",
+      "course name": "Mexican Folklorico Level IB"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirement, all students welcome. ",
+      "description": "Further introduction to dances typically and traditionally performed by Mexican and Latin Americans with expanded exploration of the interrelationship of dance culture to historical events, holidays, and people throughout the Americas and with further study of folk dances representative of specific regions of Mexico and Latin America.  ",
+      "id": "CSUS_DNCE 5C",
+      "course name": "Mexican Folklorico Dance Level IC"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Does not satisfy degree requirement, all students welcome. ",
+      "description": "Introduction to the fundamentals of Hip Hop and Urban dance skills, including basic steps, history, and vocabulary. ",
+      "id": "CSUS_DNCE 6A",
+      "course name": "Hip Hop Level lA"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit, does not satisfy degree requirement, all students are welcome. ",
+      "description": "Continues the introduction of the fundamentals of Hip Hop and Urban dance skills, with a deepened study of basic steps, history, and vocabulary. ",
+      "id": "CSUS_DNCE 6B",
+      "course name": "Hip Hop Level IB"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit, does not satisfy degree requirement, all students are welcome. ",
+      "description": "Further introduction of the fundamentals of Hip Hop and Urban dance skills, with an expanded study of basic steps, history, and vocabulary. ",
+      "id": "CSUS_DNCE 6C",
+      "course name": "Hip Hop Level IC"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Theory and practice of current jazz techniques including continued study of movement vocabulary with an emphasis on the different jazz styles. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 11A",
+      "course name": "Jazz Dance Level IIA"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during the first week of classes, all students welcome. ",
+      "description": "Continued theory and practice of current jazz techniques including the continued study of movement vocabulary with an emphasis on the different jazz styles. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 11B",
+      "course name": "Jazz Dance Level IIB"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during the first week of classes, all students welcome. ",
+      "description": "Further expanded theory and practice of current jazz techniques including the deepened study of movement vocabulary with an emphasis on the different jazz styles. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 11C",
+      "course name": "Jazz Dance Level IIC"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Examination of theories of the contemporary dance and modern dance tradition that develops proficiency in performing intermediate level contemporary dance techniques from an intellectual and kinesthetic understanding. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 12A",
+      "course name": "Contemporary Dance Level IIA"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Continued examination of theories of the contemporary dance and modern dance tradition that continues the proficiency in performing intermediate level contemporary dance techniques with a deepened intellectual and kinesthetic understanding. Instructor with dance faculty representatives will audition students during first week of class for proper placement.  ",
+      "id": "CSUS_DNCE 12B",
+      "course name": "Contemporary Dance Level IIB"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Further examination of theories of the contemporary dance and modern dance tradition that further expand the proficiency in performing intermediate level contemporary dance techniques from a deeper intellectual and kinesthetic understanding. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 12C",
+      "course name": "Contemporary Dance Level IIC"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Understand and demonstrate proficiency of Ballet movement and vocabulary including different styles while learning the importance of proper anatomical alignment, collaboration of foot and arm positions, and appreciation of classical musical accompaniment. Instructor with dance faculty representatives will audition students during first week of class for proper placement.  ",
+      "id": "CSUS_DNCE 13A",
+      "course name": "Ballet Level IIA"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Continued understanding and deepened demonstration of proficiency of Ballet movement and vocabulary including different styles while learning the importance of proper anatomical alignment, collaboration of foot and arm positions, and appreciation of classical musical accompaniment. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 13B",
+      "course name": "Ballet Level IIB"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Further understanding and expanded demonstration of proficiency of Ballet aesthetics through Ballet movement and vocabulary including different styles while learning the importance of proper anatomical alignment, collaboration of foot and arm positions, and appreciation of classical musical accompaniment. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 13C",
+      "course name": "Ballet Level IIC"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Development and refinement of intermediate tap skills and vocabulary through the study of historical and current tap styles. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 14A",
+      "course name": "Tap Dance Level IIA"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Continued development and refinement of intermediate tap skills and vocabulary through the deepened study of historical and current tap styles. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 14B",
+      "course name": "Tap Dance Level IIB"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Further development and refinement of intermediate tap skills and vocabulary through the expanded study of historical and current tap styles. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 14C",
+      "course name": "Tap Dance Level IIC"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University. Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills. Students will have the opportunity to interact with fellow classmates and the seminar leader to build a community of academic support and personal support.",
+      "id": "CSUS_DNCE 21",
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    },
+    {
+      "term": "Fall only",
+      "description": "Experiential course exploring the musical elements utilized by the dancer, choreographer, and teacher of dance including a survey of music history and vocabulary; rhythms and theory; musical and dance phrasing; and dance performance musicality. This course fulfills requirements for the Dance Major and Dance Minor, non-dance major or minor students welcome. ",
+      "course name": "Music for Dance",
+      "units": "2 Units",
+      "id": "CSUS_DNCE 22",
+      "prerequisite": [
+        "DNCE 1A",
+        "DNCE 1B",
+        "DNCE 1C",
+        "DNCE 2A",
+        "DNCE 2B",
+        "DNCE 2C"
+      ]
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Advanced training in the theory and practice of jazz techniques. Instructor with dance faculty representatives will audition students during first week of class for proper placement.  ",
+      "id": "CSUS_DNCE 111A",
+      "course name": "Jazz Dance Level IlIA"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Continued training at the advanced level in the theory and practice of Jazz Dance techniques. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 111B",
+      "course name": "Jazz Dance Level IIIB"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Further advanced training at a deepened level for the theory and practice of jazz techniques. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 111C",
+      "course name": "Jazz Dance Level IIIC"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Advanced training in the theory and practice of Contemporary Dance techniques and Modern Dance Traditions. Instructor with dance faculty representatives will audition students during first week of class for proper placement  ",
+      "id": "CSUS_DNCE 112A",
+      "course name": "Contemporary Dance Level IlIA"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Continued training at the advanced level in the theory and practice of Contemporary Dance techniques and Modem Dance Traditions. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 112B",
+      "course name": "Contemporary Dance Level IIIB"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Further advanced training at a deepened level for the theory and practice of Contemporary Dance techniques and Modern Dance Traditions. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 112C",
+      "course name": "Contemporary Dance Level IIIC"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Advanced training in the theory and practice of Ballet including proper alignment, collaboration of foot and arm positions, and appreciation of classical musical accompaniment. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 113A",
+      "course name": "Ballet Level IIIA"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome. ",
+      "description": "Continued training at the advanced level in the theory and practice of Ballet including proper alignment, collaboration of foot and arm positions, and appreciation of classical musical accompaniment. Instructor with dance faculty representatives will audition students during first week of class for proper placement. ",
+      "id": "CSUS_DNCE 113B",
+      "course name": "Ballet Level IIIB"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome. Audition during first week of classes, all students welcome.  ",
+      "description": "Further refinement within the proficiency of performing Ballet techniques while expanded intellectual and kinesthetic understanding of different Ballet styles which will be attained through the further emphasis of anatomy and the expanded building of the bodily strength and endurance through barre and center work. ",
+      "id": "CSUS_DNCE 113C",
+      "course name": "Ballet Level IIIC"
+    },
+    {
+      "term": " May be repeated for up to 4 units of credit. Satisfies degree requirements, all students welcome.  ",
+      "description": "Exploration of the creation of movement through improvisation. Students will simultaneously explore and create, while spontaneously performing inner-directed movement without intellectual censorship.  ",
+      "course name": "Dance Improvisation",
+      "units": "2 Units",
+      "id": "CSUS_DNCE 118",
+      "prerequisite": [
+        "DNCE 1A",
+        "DNCE 1B",
+        "DNCE 1C",
+        "DNCE 2A",
+        "DNCE 2B",
+        "DNCE 2C"
+      ]
+    },
+    {
+      "term": " Satisfies degree requirements, all students welcome  ",
+      "description": "An exploration of the principle elements and processes utilized in the choreographic process.  ",
+      "course name": "Dance Composition I",
+      "units": "2 Units",
+      "id": "CSUS_DNCE 120",
+      "prerequisite": [
+        "DNCE 118"
+      ],
+      "similarTo": [
+        "CalPoly_DANC 340"
+      ]
+    },
+    {
+      "term": " Satisfies degree requirements, all students welcome.   ",
+      "description": "An in-depth exploration of the concepts, approaches, and processes used to further develop a stylistic approach to Dance Composition.  ",
+      "course name": "Dance Composition II",
+      "units": "2 Units",
+      "id": "CSUS_DNCE 122",
+      "prerequisite": [
+        "DNCE 120"
+      ],
+      "similarTo": [
+        "CalPoly_DANC 340"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Non-activity. ",
+      "description": "Survey in the appreciation and history of dance and the relationship of dance to the fine and liberal arts in Western Civilization.  Emphasis upon the history of ballet; American modes of expression:  modern and jazz forms. ",
+      "id": "CSUS_DNCE 130",
+      "course name": "Appreciation and History of Dance"
+    },
+    {
+      "units": "3 Units",
+      "term": " Non-activity. ",
+      "description": "Survey course in the appreciation and understanding of dance cultures in America.  The relationship of dance to the identity and expression of different cultural groups in the U.S. will be examined. Jazz, modern, and ballet from a multicultural perspective will be the focus of the class. ",
+      "id": "CSUS_DNCE 131",
+      "course name": "Dance Cultures Of America.",
+      "similarTo": [
+        "CalPoly_DANC 321"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for up to 6 units of credit. ",
+      "description": "Introduction to the rich dance cultures of the Caribbean.  Students will learn the different dances of Haiti, Cuba, Jamaica and Trinidad as they relate to their function in secular and religious culture, including the study of the Dunham Dance Technique. ",
+      "id": "CSUS_DNCE 132",
+      "course name": "African-Caribbean Dance."
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for up to 6 units of credit. Satisfies degree requirement, all students welcome.  ",
+      "description": "The study of skeletal structure, joint and muscle function, and the mechanics of movement geared specifically for dancers and movement practitioners. Incorporated into the course will be the study of embodied awareness practices - Somatics. The structural and energetic connections of the body will be explored within a context of both ease and efficiency of movement as well as creative expression. ",
+      "id": "CSUS_DNCE 142",
+      "course name": "Dance Science and Somatics"
+    },
+    {
+      "term": " Admission by audition only, this course is approximately 40 hours of participation including mandatory weekly class, weekly rehearsals and culminating performance. Fulfills requirement for Dance Major and elective for Dance Minor, all students welcome to audition.  ",
+      "description": "Participation in the University Dance Company includes preparation, rehearsal, and performance for a departmental production with possible off campus performances for advertising, community engagement, and choreographic/ scholarly festivals. ",
+      "course name": "University Dance Company",
+      "units": "1 Unit",
+      "id": "CSUS_DNCE 143",
+      "prerequisite": [
+        "THEA 121",
+        "DNCE 1A",
+        "1B",
+        "1C",
+        "2A",
+        "2B",
+        "2C",
+        "3A",
+        "3B",
+        "3C",
+        "4A",
+        "4B",
+        "4C",
+        "5A",
+        "5B",
+        "5C",
+        "6A",
+        "6B",
+        "6C",
+        "11A",
+        "11B",
+        "11C",
+        "12A",
+        "12B",
+        "12C",
+        "13A",
+        "13B",
+        "13C",
+        "14A",
+        "14B",
+        "14C",
+        "111A",
+        "111B",
+        "111C",
+        "112A",
+        "112B",
+        "112C",
+        "113A",
+        "113B",
+        "113C"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Exploration of the contemporary theories and philosophies of movement, specifically in the dance genres of modern and jazz.. Also explores personal aesthetics and how to look at dance from a critical writing and oral presentation perspective. The role of the audience as well as the critic will be assessed and students will learn to evaluate content of movement in relation to its intention, motivation, and delivery. ",
+      "course name": "Dance Theory and Criticism",
+      "units": "3 Units",
+      "id": "CSUS_DNCE 150",
+      "prerequisite": [
+        "DNCE 122",
+        "DNCE 130",
+        "DNCE 131"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Exploration of creative dance as it applies to young children; including exploration of non-locomotor and locomotor movement patterns through problem solving and guided discovery techniques.",
+      "id": "CSUS_DNCE 160",
+      "course name": "Creative Dance for Children"
+    },
+    {
+      "term": " Dance Majors Only or Instructor Permission.  ",
+      "description": "Participation and creative research in the rehearsal, production, and performance of a public dance production. Students will synthesize all major course materials to individually create a new choreographic work and collaboratively produce the Senior Dance Concert as their capstone project. Fulfills requirements for Dance Major. ",
+      "course name": "Capstone Dance Project",
+      "units": "2 Units",
+      "id": "CSUS_DNCE 190",
+      "prerequisite": [
+        "DNCE 150"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "DNCE",
+    "subject": "Dance"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Dance",
+    "id": "CSUS"
+  }
+}

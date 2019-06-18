@@ -1,0 +1,108 @@
+{
+  "subjectOf": {
+    "id": "SOCS",
+    "subject": "Social Sciences"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Social Sciences"
+  },
+  "courses": [
+    {
+      "id": "SOCS 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "SOCS 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "SOCS 440",
+      "course name": "Internship",
+      "units": "4-8 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Supervised training, research, and work in public and private organizations.  Credit/No Credit grading only.  Total credit limited to 18 units."
+    },
+    {
+      "id": "SOCS 461",
+      "course name": "Senior Project I",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 120 hours total time."
+    },
+    {
+      "id": "SOCS 462",
+      "course name": "Senior Project II",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 120 hours total time."
+    },
+    {
+      "id": "SOCS 485",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 4 units; total credit limited to 12 units.  Credit/No Credit grading only."
+    },
+    {
+      "id": "SOCS 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 4 units; total credit limited to 24 units.  Credit/No Credit grading only."
+    }
+  ]
+}

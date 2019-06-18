@@ -1,0 +1,40 @@
+{
+  "subjectOf": {
+    "subject": "Applied Behavioral Science Courses",
+    "id": "ABS"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Applied Behavioral Science Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_ABS 200",
+      "course name": "Introduction to Applied Behavioral Science",
+      "units": "3 Credits",
+      "description": "This course provides an introduction and overview of the application and use of applied behavioral science. Basic terms and definitions are reviewed, and students are introduced to the varied components of applied behavioral science. Topics covered include definition of the field, sub-specialties, and real world applications, and aspects of the field."
+    },
+    {
+      "id": "AshFord_ABS 300",
+      "course name": "Psychological Assessment",
+      "units": "3 Credits",
+      "description": "This course will survey instruments of psychometric assessment that are frequently used in education and clinical practice. Fundamental theory and research pertaining to the quantitative measurement of human traits will be reviewed. Psychometric instruments will include standardized neuropsychological tests, intelligence tests, and personality tests. Strengths and limitations of these instruments will be carefully examined. ",
+      "prerequisite": [
+        "PSY 101"
+      ]
+    },
+    {
+      "id": "AshFord_ABS 415",
+      "course name": "Leadership & Ethics in a Changing World",
+      "units": "3 Credits",
+      "description": "This course examines leadership and ethics from a broad perspective, and includes an overview of key leadership theories. Students explore leadership characteristics and values as applied to ethical decision-making, and challenges, as well as in regard to their own lives. Also included is an exploration of future leadership trends in a dynamic evolving world."
+    },
+    {
+      "id": "AshFord_ABS 417",
+      "course name": "Community Organizing & Development",
+      "units": "3 Credits",
+      "description": "This course examines methods, techniques, and theories involved in working with people to solve problems in community-based settings."
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "subjectOf": {
+    "id": "PHIL",
+    "subject": "Philosophy"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Philosophy"
+  },
+  "courses": [
+    {
+      "id": "PHIL 101",
+      "course name": "Introduction to Philosophy",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Foundational methods and central issues in contemporary philosophy including logic, epistemology, metaphysics and ethics. Required of all philosophy majors. Open to all majors and philosophy minors.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "PHIL 126",
+      "course name": "Logic and Argumentative Writing",
+      "units": "4 units",
+      "term": [
+        "ge area a3"
+      ],
+      "description": "Principles of argument analysis, evaluation and construction. Deductive and inductive reasoning, including analogical arguments, universal and statistical generalizations, and causal inferences. Principles of organizing and writing argumentative essays. Moral dimensions of rational discourse. 4 lectures. Fulfills GE A3 ; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A3."
+    },
+    {
+      "id": "PHIL 230",
+      "course name": "Philosophical Classics: Knowledge and Reality",
+      "units": "4 units",
+      "term": [
+        "ge area c2"
+      ],
+      "description": "Critical examination of primary philosophical texts, from the ancient and modern periods, with focus on the nature of reality and the sources and limits of human knowledge. 4 lectures. Crosslisted as HNRS / PHIL230. Fulfills GE C2."
+    },
+    {
+      "id": "PHIL 231",
+      "course name": "Philosophical Classics: Ethics and Political Philosophy",
+      "units": "4 units",
+      "term": [
+        "ge area c2"
+      ],
+      "description": "Readings from primary philosophical texts, from the ancient and modern periods, with focus on the identification, evaluation and contemporary relevance of the central ethical and political themes and arguments presented in them. Course may be offered in classroom - based or online format. 4 lectures. Crosslisted as HNRS / PHIL231. Fulfills GE C2."
+    },
+    {
+      "id": "PHIL 241",
+      "course name": "Symbolic Logic",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "The nature of deductive logical systems. Methods of notation, translation and proof in sentential and predicate calculi including truth - trees and natural deduction systems. Introduction to meta - theory.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "PHIL 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "PHIL 285",
+      "course name": "Ethics Bowl",
+      "prerequisite": [
+        "PHIL 331",
+        "PHIL 332",
+        "PHIL 333",
+        "PHIL 334",
+        "PHIL 335",
+        "PHIL 336",
+        "PHIL 337",
+        "PHIL 339",
+        "PHIL 340",
+        "PHIL 341 or PHIL 439"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Preparation for competition in the Intercollegiate Ethics Bowl. Rules and format of competition, analysis and preparation of cases specific to the current year 's competition. Coverage of ethical theory relevant to current cases. Field trips required.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "PHIL 309",
+      "course name": "Early Greek Philosophy through Plato",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Beginnings of Western philosophy and science in Ancient Greece. The Presocratics, Socrates, and Plato. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 310",
+      "course name": "Aristotle and Hellenistic Philosophy",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Development of Western philosophy and science in the Hellenistic and Roman periods. Aristotle, Epicureanism, Stoicism, Skepticism. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 312",
+      "course name": "Medieval Philosophy",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Development of Western philosophy from Augustine to Ockham, including Anselm, Abelard, Roger Bacon, Bonaventure, Aquinas, and Duns Scotus. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 313",
+      "course name": "Early Modern Rationalism",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Development of Western philosophy from the late Renaissance through Leibniz, with special emphasis upon the epistemology and metaphysics of the Continental Rationalists. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 314",
+      "course name": "Early Modern Empiricism",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Development of Western philosophy from the Renaissance through Mill, with special emphasis on British Empiricism. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 315",
+      "course name": "Kant and 19th Century European Philosophy",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Primary issues and concepts found in German",
+      "grading": "philosophy from 1780 to 1900"
+    },
+    {
+      "id": "PHIL 317",
+      "course name": "History of Analytic Philosophy",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Major developments within 20th century British and American philosophy, with focus chiefly around Analytic philosophy. Other schools, such as Pragmatism, may be included, as may some philosophers outside of Britain and America whose work was influential in those countries. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 318",
+      "course name": "Phenomenology",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Methods and uses of phenomenological analysis through study of 20th century philosophers and contemporary applications. Topics include phenomenological method, perception, meaning, and the role of experience in philosophical inquiry. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 319",
+      "course name": "Existentialism",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Major existentialist philosophers of the 19th and 20th century such as Kierkegaard, Nietzsche, Heidegger, Sartre, de Beauvoir, Merleau - Ponty, and Marcel. Existentialist themes in historical or contemporary context. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 320",
+      "course name": "Asian Philosophy",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Philosophies developed in India, South Asia, China and Japan, including the logical and epistemological presuppositions of the Six Schools of Hindu metaphysics, Buddhist philosophy, Confucian moral philosophy, Taoist metaphysics and social ecology. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 321",
+      "course name": "Philosophy of Science",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "The rational foundations of inquiry and explanation in the physical, biological and social sciences. Justification of scientific claims, the difference between science and pseudoscience, the relationship between science and other fields of investigation. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 322",
+      "course name": "Philosophy of Technology",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Analyses of the philosophical foundations and implications of technology. Technology and the human condition, technology and philosophical ethics, technology and political philosophy, technology and the metaphysics of human nature, and the relationship between science and technology. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 323",
+      "course name": "Ethics, Science and Technology",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Ethical decision - making as applied to issues such as the use of robots, the treatment of animals, sustainability, scientific fraud, feminist analysis of science and technology, as well as questions about whether technology is just a value - neutral tool or, rather, embodies certain values. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 327",
+      "course name": "Robot Ethics",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Introduction, short history, and overview of robot ( meta)ethics, with applied ethics issues to include programming, environment, military uses, sex, legal implications, risk, liability, diversity, sustainability, healthcare, education, religion, and the home. Finally, future issues of robot rights and personhood. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 328",
+      "course name": "Technologies and Ethics of Warfare",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Ethics of killing in warfare, including requirements of justice in declaring and waging war. Topics include terrorism, remotely piloted aircraft ( ' drones ' ), autonomous weapons ( ' killer robots ' ), cyber warfare, nuclear war, city bombing, and humanitarian intervention. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 331",
+      "course name": "Ethics",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Analyses of various traditional and contemporary positions on the difference between right and wrong, if there is one. Theories of metaethics and normative ethics including the divine command theory, relativism, intuitionism, noncognitivism, virtue ethics, egoism, utilitarianism and duty - based ethics. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 332",
+      "course name": "History of Ethics",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "The history of moral thought from Homer and the Pre - Socratics to the 20th century, and focus on theories of moral goodness and rightness of action. Related issues and areas of thought, e.g. metaphysics, theology, science, politics, psychology freedom / determinism to be considered, where they shed light on moral thought. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 333",
+      "course name": "Political Philosophy",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Analyses of the philosophical foundations of political ideologies, including theories of political authority, legitimacy, obligation, and rights, and of the proper function of the state, and the relation of these theories to issues in meta - physics, theory of knowledge, and ethics. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 334",
+      "course name": "Philosophy of Law",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Normative and analytic questions about law. Nature of law and legal systems. Justification of law. Moral obligation to obey the law. Nature and justification of punishment. Guilt and legal responsibility. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 335",
+      "course name": "Social Ethics",
+      "units": "4 units",
+      "term": [
+        "ge area c4; uscp"
+      ],
+      "description": "Examination of contemporary moral problems, solutions to these problems, and the arguments for these solutions, with emphasis on two or more of the following sample problem areas : abortion, suicide and euthanasia, capital punishment, family ethics, race relations, social justice, war, women 's issues. 4 lectures. Crosslisted as PHIL335/HNRS336. Fulfills GE C4 except for Philosophy majors. Fulfills USCP."
+    },
+    {
+      "id": "PHIL 336",
+      "course name": "Feminist Ethics, Gender, Sexuality and Society",
+      "units": "4 units",
+      "term": [
+        "ge area c4; uscp"
+      ],
+      "description": "Critical examination of the relations between gender, sexuality, ethnicity, society and ethics from feminist perspectives, with special attention paid to problems in contemporary applied ethics. Joint focus on theory and application. 4 lectures. Crosslisted as PHIL / WGS336. Fulfills GE C4 except for Philosophy majors. Fulfills USCP."
+    },
+    {
+      "id": "PHIL 337",
+      "course name": "Business Ethics",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Critical examination of ethical problems that arise in business. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 339",
+      "course name": "Biomedical Ethics",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Critical examination of problems in biomedical ethics, proposed solutions to these problems, and the arguments for such solutions. Emphasis on two or more of the following sample problem areas : concepts of health and disease, human experimentation, informed consent, behavior control, genetic intervention, new birth technologies, euthanasia and physician - assisted dying. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 340",
+      "course name": "Environmental Ethics",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Analyses of various positions on the moral status of nonhuman entities and problems such as the treatment of animals, wilderness preservation, population, pollution and global warming. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 341",
+      "course name": "Professional Ethics",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Moral problems as they arise in professions such as law, medicine, engineering, research and education : deception, paternalism, confidentiality, discrimination and others. Consideration of various professional codes of ethics. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 342",
+      "course name": "Philosophy of Religion",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Inquiry into the rational and nonrational bases of religious claims. Arguments for and against the existence of God. Discussion of miracles, revelation, the definition of God, the problem of evil, the relation of faith and reason, the nature of religious experience, the verification of religious claims. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 343",
+      "course name": "Continental Political Philosophy",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Analysis of political thought in major movements in 20th- and 21st - century European philosophy, such as deconstruction, existentialism, and phenomenology. Emphasis on political issues, such as cultural membership, exclusion, structural injustice, secularism, and the political impact of technology. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 350",
+      "course name": "Aesthetics",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Critical examination of philosophical views of art from both a historical and contemporary perspective. Treatment of theories from Plato and Aristotle through those of the twentieth century. Discussion of the problems raised by modern art. The relation between aesthetic values and metaphysics, epistemology, ethics and politics. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 351",
+      "course name": "Philosophy of Literature",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Analysis of philosophical issues related to literature such as interpretation, authorial intention, linguistic expression, ethical responsibilities of writers and readers, and use of literary styles by philosophers. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 369",
+      "course name": "Postmodernism",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Primary issues and developments in European philosophy in the second half of the 20th century. Examination of the influence of postmodern philosophy in areas such as art, literature, architecture, culture studies, philosophy of language, and philosophy of religion. 4 lectures. Fulfills GE C4 except for Philosophy majors."
+    },
+    {
+      "id": "PHIL 385",
+      "course name": "Advanced Ethics Bowl",
+      "prerequisite": [
+        "PHIL 285"
+      ],
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Preparation for ongoing participation in Intercollegiate Ethics Bowl competitions. Preparation and discussion of current competition cases, development of research and presentation skills, and participation in competition. Field trips required. 2 lectures. Total credit limited to 6 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "PHIL 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies or surveys of selected problems. Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "PHIL 411",
+      "course name": "Metaphysics",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Traditional and current ideas and arguments about substance, the relation of universals to particulars, space and time, events, causation and necessity, the self and free will.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "PHIL 412",
+      "course name": "Epistemology",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Analysis of the concept of knowledge. Development of competing theories of epistemic justification and truth. Inquiry into relationship between knowledge, belief, justification and truth. Examination of skepticism.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "PHIL 421",
+      "course name": "Philosophy of Space, Time and Matter",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Investigation of the philosophical foundations and interpretation of relativity theory and elementary quantum mechanics. Emphasis on philosophical issues relevant to contemporary philosophy of science such as scientific realism. Some discussion of very recent theories of space, time, and matter.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "PHIL 422",
+      "course name": "Philosophy of Mind",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Classic and current work in the problems and issues of the nature and unity of the self, consciousness, mental representations, and action, and of the relation of philosophy of mind to psychology, linguistics and computer science.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "PHIL 423",
+      "course name": "Philosophy of Language",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Traditional and contemporary philosophical issues that arise from the structure of language. Relevant concepts include : syntax, semantics, pragmatics, meaning, reference, truth, identity, thought, reality. Important distinctions : use/ mention, relations / properties of relations, sentences / statements/-propositions.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "PHIL 429",
+      "course name": "Special Topics in the History of Philosophy",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Advanced discussion of selected topics in the history of philosophy. Examination and analysis of important philosophical movements ( e.g., positivism, postmodernism ) or alternatively, of particular philosophers or philosophical works of exceptional importance ( e.g., David Hume ; Kant 's Critique of Pure Reason ). The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "PHIL 439",
+      "course name": "Selected Problems in Ethics and Political Philosophy",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Advanced discussion of selected topics in ethics and political philosophy. Examination and analysis of significant ethical or political theories ( e.g., utilitarianism, contractarianism ) or alternatively, of particular philosophers or philosophical works of exceptional importance ( e.g., John Stuart Mill ; John Rawls ' A Theory of Justice ). The Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "PHIL 449",
+      "course name": "Selected Topics in Recent Philosophy",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Advanced discussion of selected topics in recent philosophy. Examination and analysis of important recent movements in central philosophical areas ( e.g., metaphysics, epistemology, philosophy of science, philosophy of language, philosophy of mind ) or, alternatively, of particular philosophers or philosophical works of exceptional recent importance. The Schedule of Classes will list topic selected. Total credit limited to 12 units credit ; may be repeated in same term.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "PHIL 451",
+      "course name": "Ethics in the Sciences",
+      "units": "3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "The practice, performance and application of science from the standpoint of ethics. Includes issues involving plagiarism, data handling, fraud, safety and selected applications in specific science careers. Models for the analysis and resolution of ethical dilemmas are presented. 3 seminars. Crosslisted as PHIL / SCM451."
+    },
+    {
+      "id": "PHIL 460",
+      "course name": "Senior Project I",
+      "prerequisite": [
+        "PHIL 225 or PHIL 241"
+      ],
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Selection, development and completion of a project under faculty supervision. Results presented in a formal thesis. Minimum of 60 hours per quarter. PHIL460 is graded on a CR / NC basis."
+    },
+    {
+      "id": "PHIL 461",
+      "course name": "Senior Project II",
+      "prerequisite": [
+        "PHIL 460"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Selection, development and completion of a project under faculty supervision. Results presented in a formal thesis. Minimum of 60 hours per quarter. Work in PHIL461 is given a letter grade."
+    },
+    {
+      "id": "PHIL 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Class Schedule will list topics selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    }
+  ]
+}

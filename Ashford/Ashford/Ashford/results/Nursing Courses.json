@@ -1,0 +1,109 @@
+{
+  "subjectOf": {
+    "subject": "Nursing Courses",
+    "id": "NUR"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Nursing Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_NUR 300",
+      "course name": "Professional Role Development and Practice in Nursing",
+      "units": "3 Credits",
+      "description": "This course focuses on the baccalaureate-prepared nurses role(s) in professional practice, and the alignment of nursing theories with practice and research. The course surveys important changes that have occurred in the nursing profession over the years, such as the ANCC Magnet Recognition Program. The course will cover quality and safety education for nurses (QSEN), the nursing scope of practice as defined by the American Nurses Association (ANA), the Institute of Medicines (IOMs) core competencies in collaborative care, nursing ethics, education, health promotion, and disease prevention, as they relate to professional nursing roles. Students will apply critical thinking, evidence-based practice (EBP), and continuous quality improvement (CQI) to professional nursing practice. This course includes 20 hours of practice experience activities.",
+      "prerequisite": [
+        "ENG 328"
+      ]
+    },
+    {
+      "id": "AshFord_NUR 302",
+      "course name": "Transcultural Nursing Care",
+      "units": "3 Credits",
+      "description": "This course focuses on the differences and similarities among cultures with respect to human care, health, and illness and how these considerations apply to real-world nursing practices. Students enrolled in the course develop their scientific and humanistic knowledge by integrating their own history, life experiences, beliefs, and values and by assessing how these factors have the potential to impact the ways in which they provide culturally competent care.",
+      "prerequisite": [
+        "NUR 300"
+      ]
+    },
+    {
+      "id": "AshFord_NUR 304",
+      "course name": "Health Assessment",
+      "units": "3 Credits",
+      "description": "This course prepares RN to BSN students to synthesize the comprehensive health assessment. Emphasis is placed on the acquisition, processing, and interpretation of data collected from clients of all ages. A physical, psychological, sociocultural, and spiritual approach, which is supported by evidence-based practices is used to assess the client and to incorporate consideration of the client's needs, state of wellness, developmental level, and response to life experiences. Students also evaluate current health policy and technology to support health assessment to improve community health.",
+      "prerequisite": [
+        "NUR 302"
+      ]
+    },
+    {
+      "id": "AshFord_NUR 306",
+      "course name": "Nursing Research",
+      "units": "3 Credits",
+      "description": "This course provides the scientific foundation for professional practice. It introduces the student to the basic research methodologies and statistical concepts, and qualitative, quantitative, and epidemiologic research designs. Research methods and findings are appraised and applied within the framework of evidence based professional practice. Research proposal development as a foundation for nursing inquiry is emphasized.. ",
+      "prerequisite": [
+        "NUR 300"
+      ]
+    },
+    {
+      "id": "AshFord_NUR 400",
+      "course name": "Family Health Nursing",
+      "units": "3 Credits",
+      "description": "Major theoretical models and frameworks for developing clinical skills in assessing, diagnosing, planning, implementing, and evaluating holistic nursing interventions across the family life cycle are presented. Contemporary issues related to diverse family structures, cultural and socioeconomic influences on access to and delivery of health care, and provision of culturally-competent family nursing care are emphasized. Knowledge and skill development in providing evidence-based nursing care and coordinating health care for families experiencing acute and chronic illnesses, including transitions in level of care and care settings, are reinforced. Community-based nursing assessment and interventions with physically-, psychologically-, and socially-vulnerable client populations within a family health context are explored.",
+      "prerequisite": [
+        "NUR 304",
+        "NUR 306",
+        "GRO 325"
+      ]
+    },
+    {
+      "id": "AshFord_NUR 402",
+      "course name": "Community Health Nursing",
+      "units": "3 Credits",
+      "description": "This course focuses on culturally diverse populations and aggregates in communities to achieve an optimum level of wellness. Special emphasis is placed on advanced theoretical concepts related to health promotion, risk reduction, disease prevention, and development processes. Students gain skills needed to influence policy and to support the changes in a community context. They examine healthcare reform and its impact on communities, evaluate policies that influence the structure, financing, and quality in health care, and examine healthcare delivery from a global perspective. Through discussions and other activities, students examine the effect of legal and regulatory processes on nursing practice, healthcare delivery, and population health outcomes as well as ways to advocate for promotion and preservation of population health. This course includes 20 hours of practice experience activities.",
+      "prerequisite": [
+        "NUR 304",
+        "NUR 306"
+      ]
+    },
+    {
+      "id": "AshFord_NUR 404",
+      "course name": "Nursing Care and Management of Chronic Illness and Disability",
+      "units": "3 Credits",
+      "description": "This course focuses on the interrelationship among functioning, health, and disability, which is analyzed within a biopsychosocial context. Pathophysiological, psychosocial, and functional aspects of chronic health conditions, across the lifespan and linked to the following physiological systems, are presented: respiratory, cardiovascular, neurological, gastrointestinal, renal, endocrine, immune/ inflammatory, hematological, and skeletal/integumentary. The Chronic Care Model (CCM), multidisciplinary care, and current therapeutic modalities and disease management for these conditions are explored. Development of evidence-based, community-focused chronic illness nursing assessment, care plans, and interventions, including care coordination strategies, is emphasized.",
+      "prerequisite": [
+        "NUR 400",
+        "NUR 402"
+      ]
+    },
+    {
+      "id": "AshFord_NUR 406",
+      "course name": "Leading and Managing in Nursing",
+      "units": "3 Credits",
+      "description": "To effectively transition from a clinical nursing role to leadership, nursing professionals must possess business savvy and specialty skills that allow them to meet the demands an evolving and changing industry while maintaining the caring competencies of the nursing profession. This course introduces and reinforces group-promoting teamwork, leadership, delegation, supervision, healthcare ethical decision-making processes, strategic planning, and business negotiation.This course includes 20 hours of practice experience activities.",
+      "prerequisite": [
+        "NUR 304",
+        "NUR 306"
+      ]
+    },
+    {
+      "id": "AshFord_NUR 492",
+      "course name": "Capstone I: Nursing Practice Improvement Inquiry",
+      "units": "3 Credits",
+      "description": "This course, and its companion, NUR 494, represent the culmination of learning in the nursing program, and provide students an opportunity to synthesize and demonstrate knowledge of biopsychosocial health alterations and health promotion with clients across multiple practice settings, with an emphasis on patient population/community practice, the importance of culture and diversity in nursing practice, health policy, knowledge of nursing leadership, intra- and inter-professional collaboration, ethics, and research. Integrated knowledge and skills will be demonstrated through the development of a capstone project proposal related to the identification and critical, evidence-based, research exploration of a nursing practice problem, and strategies for quality improvement in the areas of health informatics, leadership and management, or population/ community health. NUR 492 and NUR 494 includes 30 hours of practice experience activities.",
+      "prerequisite": [
+        "NUR 404",
+        "NUR 406"
+      ]
+    },
+    {
+      "id": "AshFord_NUR 494",
+      "course name": "Capstone II: Nursing Practice Improvement and Evaluation",
+      "units": "3 Credits",
+      "description": "Demonstration of integrated theoretical, research, and evidence-based practice knowledge and skills is foundational to the role of the professional, bachelors-prepared nurse. The student will utilize the capstone project proposal developed in NUR 492 to develop a comprehensive improvement plan for the identified nursing practice problem, which encompasses best practices utilizing: quality and safety in patient care, nursing informatics, health policy, community/population health, nursing leadership, ethical and professional standards, and integration of theory. The plan will include strategies for evaluating its identified outcomes. The project will highlight the knowledge gained of the professional nurse practice role, specialized patient population, and health care-practice setting. NUR 492 and NUR 494 includes 30 hours of practice experience activities.",
+      "prerequisite": [
+        "NUR 492"
+      ]
+    }
+  ]
+}

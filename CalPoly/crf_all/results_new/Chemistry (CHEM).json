@@ -1,0 +1,1326 @@
+{
+  "subjectOf": {
+    "id": "CHEM",
+    "subject": "Chemistry"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Chemistry"
+  },
+  "courses": [
+    {
+      "id": "CHEM 101",
+      "course name": "Introduction to the Chemical Sciences",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Introduction to the chemistry and biochemistry disciplines.  Orientation, advising, career opportunities and introduction to the faculty.  Designed for first-year CHEM and BCHEM majors.  Credit/No Credit grading only.  1 lecture."
+    },
+    {
+      "id": "CHEM 106",
+      "course name": "Introductory Chemistry",
+      "units": "3 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Introductory course in chemistry.  Measurement, metric system, properties of matter, chemical symbols, atomic structure, chemical formulas, nomenclature, chemical equations, the mole concept, stoichiometry.  Not open to students majoring in Chemistry or Biochemistry.  Not open to students with credit in CHEM110, CHEM111, CHEM124, or CHEM127.  3 lectures."
+    },
+    {
+      "id": "CHEM 110",
+      "course name": "World of Chemistry",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3; ge area b4"
+      },
+      "description": "The fundamentals of chemical cause and effect-structure/function relationships.  The basic principles of chemistry and their applications to solving human problems in organic materials science, biochemistry, toxicology, environmental science, agriculture, nutrition, and medicine.  Not open to students majoring in Chemistry or Biochemistry.  Not open to students with credit in CHEM111, CHEM124, or CHEM127.  3 lectures, 1 laboratory.  Fulfills Ge Area B3 & B4."
+    },
+    {
+      "id": "CHEM 111",
+      "course name": "Survey of Chemistry",
+      "units": "5 units",
+      "inTerm": {
+        "term": "ge area b3; ge area b4"
+      },
+      "description": "Introduction to atomic theory, chemical reactions, bonding, stoichiometry, nomenclature, and solutions.  Intended for students who are preparing for CHEM212/312.  Not open to students with credit in CHEM124 or CHEM127.  Credit will be granted in only one of the following courses:  CHEM110 or CHEM111.  4 lectures, 1 laboratory.   Fulfills GE Area B3 & B4."
+    },
+    {
+      "id": "CHEM 124",
+      "course name": "General Chemistry for Physical Science and Engineering I",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3; ge area b4"
+      },
+      "description": "Stoichiometry, thermochemistry, atomic structure, bonding, solid-state structures, intermolecular forces, and foundational principles of organic chemistry.  Not open to students with credit in CHEM127.  Credit will be granted in only one of the following courses:  CHEM110, CHEM111, or CHEM124.  3 lectures, 1 laboratory.  Fulfills GE Area B3 & B4."
+    },
+    {
+      "id": "CHEM 125",
+      "course name": "General Chemistry for Physical Science and Engineering II",
+      "hasPrerequisite": "CHEM 124",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3; ge area b4"
+      },
+      "description": "Topics include solution chemistry, thermodynamics, kinetics, equilibrium (including acids and bases), electrochemistry, and nuclear chemistry.  Not open to students with credit in CHEM128.  3 lectures, 1 laboratory.  Fulfills GE B3 & B4."
+    },
+    {
+      "id": "CHEM 126",
+      "course name": "General Chemistry for Physical Science and Engineering III",
+      "hasPrerequisite": "CHEM 125 with a grade of C- or better or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Topics in equilibrium, kinetics, acid-base chemistry, and molecular structure, contextualized within major sub-disciplines of chemistry.  Not open to students with credit in CHEM129.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CHEM 127",
+      "course name": "General Chemistry for Agriculture and Life Science I",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b3; ge area b4"
+      },
+      "description": "Introduction to atomic theory, chemical reactions, bonding, stoichiometry, nomenclature, gas laws, thermochemistry, molecular structure, and intermolecular forces.  Intended primarily for students in agriculture and life sciences.  Not open to students with credit in CHEM124.  Credit will be granted in only one of the following courses:  CHEM110, CHEM111, or CHEM127.  3 lectures, 1 laboratory.  Fulfills GE Area B3 & B4."
+    },
+    {
+      "id": "CHEM 128",
+      "course name": "General Chemistry for Agriculture and Life Science II",
+      "hasPrerequisite": "CHEM 127 or AP Chemistry score of 5",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Continuation of CHEM127.  Colligative properties, colloids and solutions, oxidation-reduction reactions, electrochemistry, kinetics, equilibria, and thermodynamics.  Not open to students with credit in CHEM125.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CHEM 129",
+      "course name": "General Chemistry for Agriculture and Life Science III",
+      "hasPrerequisite": "CHEM 128",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Continuation of CHEM128.  Acid and base equilibria, buffers, transition elements, solubility, complex ions, hybrid orbital theory, molecular orbital theory, and nuclear chemistry.  Laboratory study of the chemical properties and semi-micro qualitative analysis of the representative group elements of the periodic table.  Not open to students with credit in CHEM126.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CHEM 200",
+      "course name": "Special Problems for Undergraduates",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 111"
+        },
+        {
+          "prerequisite": "CHEM 124"
+        }
+      ],
+      "units": "1-2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "id": "CHEM 201",
+      "course name": "Undergraduate Research",
+      "units": "1-3 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Laboratory research under faculty supervision.  Credit/No Credit grading only.  Total credit limited to 6 units.  1-3 laboratories."
+    },
+    {
+      "id": "CHEM 202",
+      "course name": "Orientation to Biotechnology",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Introduction to the diversity of fields in biotechnology.  Applications in agriculture, nutrition, medicine and environmental problems.  1 lecture, 1 activity.  Crosslisted as BIO/CHEM202."
+    },
+    {
+      "id": "CHEM 203",
+      "course name": "Undergraduate Seminar I",
+      "hasPrerequisite": "CHEM 126",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Introduction to basic scientific literature and scientific presentation skills.  Targeted advising and preparation for research and career opportunities.  Designed for second-year students majoring in Biochemistry or in Chemistry.  Credit/No Credit grading only.  1 seminar."
+    },
+    {
+      "id": "CHEM 212",
+      "course name": "Introduction to Organic Chemistry",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 111"
+        },
+        {
+          "prerequisite": "CHEM 124 or CHEM 127"
+        }
+      ],
+      "units": "5 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Structure, isomerism, nomenclature, fundamental reactions of major functional groups and applications of organic chemicals in agriculture, medicine, industry, and the home.  CHEM212 accepted in lieu of CHEM312, but not for upper division credit.  Not open to students with credit in CHEM312, CHEM216/316.  4 lectures, 1 laboratory."
+    },
+    {
+      "id": "CHEM 216",
+      "course name": "Organic Chemistry I",
+      "hasPrerequisite": "CHEM 126 or CHEM 129 with a grade of C- or better or consent of instructor",
+      "units": "5 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Fundamental concepts and laboratory skills of organic chemistry.  Structure, bonding, nomenclature, isomerism, stereochemistry and physical properties of organic compounds.  Introduction to spectroscopy.  Reactions and mechanisms of alkanes, alkenes and alkyl halides.  Fundamental laboratory techniques in organic chemistry.  Not open to students with credit in CHEM 316.  4 lectures, 1 laboratory."
+    },
+    {
+      "id": "CHEM 217",
+      "course name": "Organic Chemistry II",
+      "hasPrerequisite": "CHEM 216 with a grade of C- or better or consent of instructor",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Properties and reactions of carbonyl compounds, alcohols, ethers, amines and carbohydrates with an in-depth treatment of the reaction mechanisms.  Introductory concepts and applications of infrared and NMR spectroscopy.  Not open to students with credit in CHEM 317.  3 lectures."
+    },
+    {
+      "id": "CHEM 218",
+      "course name": "Organic Chemistry III",
+      "hasPrerequisite": "CHEM 217 with a grade of C- or better or consent of instructor",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Properties and reactions of alkynes, heterocyclic and aromatic compounds with an in-depth treatment of the mechanisms of the reactions.  Introductory concepts and applications of ultraviolet spectroscopy and mass spectrometry.  Not open to students with credit in CHEM 318.  3 lectures."
+    },
+    {
+      "id": "CHEM 220",
+      "course name": "Organic Chemistry Laboratory For Life Sciences II",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Laboratory experiments exploring reactions in organic chemistry, applying fundamental laboratory techniques covered in CHEM216.  Not open to Chemistry and Biochemistry majors.  1 laboratory."
+    },
+    {
+      "id": "CHEM 221",
+      "course name": "Organic Chemistry Laboratory II",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Laboratory experiments exploring reactions in organic chemistry, applying fundamental laboratory techniques covered in CHEM216.  2 laboratories."
+    },
+    {
+      "id": "CHEM 222",
+      "course name": "Introduction to Computational Chemistry",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 126 or CHEM 129"
+        },
+        {
+          "prerequisite": "CHEM 216 or CHEM 316"
+        },
+        {
+          "prerequisite": "MATH 142 or MATH 162"
+        }
+      ],
+      "units": "2 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Introduction to chemical structure and behavior by computational chemistry techniques.  Applications include scientific visualization, molecular modeling, geometry optimization, transition states and molecular dynamics.  1 lecture, 1 laboratory."
+    },
+    {
+      "id": "CHEM 223",
+      "course name": "Organic Chemistry Laboratory for Life Sciences III",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Practice in multi-step organic synthesis, enzymatic organic chemistry, biomimetic organic chemistry.  Not open to Biochemistry or Chemistry majors.  1 laboratory."
+    },
+    {
+      "id": "CHEM 231",
+      "course name": "Quantitative Analysis",
+      "hasPrerequisite": "CHEM 126 or 129",
+      "units": "5 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Theory and application of chemical equilibrium to analytical problems.  Survey of important analytical methods with stress placed on the theory and application associated with titrimetric and spectrophotometric analysis.  3 lectures, 2 laboratories."
+    },
+    {
+      "id": "CHEM 252",
+      "course name": "Laboratory Glassblowing",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 111"
+        },
+        {
+          "prerequisite": "CHEM 124 or CHEM 127"
+        }
+      ],
+      "units": "1 unit",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Techniques of glassblowing applied to the making of simple laboratory apparatus.  1 laboratory."
+    },
+    {
+      "id": "CHEM 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "CHEM 302",
+      "course name": "Marine Chemistry",
+      "hasPrerequisite": "CHEM 216 or CHEM 312",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Introduction to chemical processes in the ocean including chemical oceanography and marine chemical ecology.  3 lectures."
+    },
+    {
+      "id": "CHEM 303",
+      "course name": "Undergraduate Seminar II",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 203"
+        },
+        {
+          "prerequisite": "CHEM 218"
+        }
+      ],
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Advanced exploration of more sophisticated scientific literature and scientific presentation skills.  Targeted advising and preparation for research and career opportunities.  Designed for third-year CHEM and BCHM majors.  Credit/No Credit grading only.  1 seminar."
+    },
+    {
+      "id": "CHEM 308",
+      "course name": "Genetic Engineering Technology",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area Fall"
+      },
+      "description": "Introduction to the methodology and techniques used in genetic engineering.  Applications in agriculture, nutrition, medicine and environmental problems.  Potential benefits and problems, including the underlying ethical questions.  Not open to students with credit in CHEM373, or to Biological Sciences, Marine Sciences, or Microbiology majors.  4 lectures.  Crosslisted as BIO/CHEM308.  Fulfills GE Area F."
+    },
+    {
+      "id": "CHEM 312",
+      "course name": "Survey of Organic Chemistry",
+      "hasPrerequisite": "CHEM 125 or CHEM 128",
+      "units": "5 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Structure, isomerism, nomenclature, fundamental reactions of major functional groups and applications of organic chemicals in agriculture, medicine, industry, and the home.  Not open to students with credit in CHEM212 or CHEM216/316.  4 lectures, 1 laboratory."
+    },
+    {
+      "id": "CHEM 313",
+      "course name": "Survey of Biochemistry and Biotechnology",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 212"
+        },
+        {
+          "prerequisite": "CHEM 216"
+        },
+        {
+          "prerequisite": "CHEM 312"
+        }
+      ],
+      "units": "5 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Chemistry of biomolecules including carbohydrates, proteins, fats, vitamins, enzymes and hormones.  Basic molecular biology with applications to biotechnology and genetic engineering.  Practical intermediary metabolism of prokaryotic and eukaryotic systems.  4 lectures, 1 laboratory."
+    },
+    {
+      "id": "CHEM 324",
+      "course name": "Organic Chemistry Laboratory III",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Practice in multiple step organic synthesis, column chromatography, vacuum distillation, enzymes as chemical reagents, inert atmosphere techniques, introduction to FT NMR spectroscopy and mass spectrometry, survey of organic chemical literature.  2 laboratories."
+    },
+    {
+      "id": "CHEM 331",
+      "course name": "Quantitative Analysis",
+      "hasPrerequisite": "CHEM 126 or 129",
+      "units": "5 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        },
+        {
+          "term": " Summer"
+        }
+      ],
+      "description": "Theory and application of chemical equilibrium to analytical problems.  Survey of important analytical methods with stress placed on the theory and application associated with titrimetric and spectrophotometric analysis.  3 lectures, 2 laboratories."
+    },
+    {
+      "id": "CHEM 341",
+      "course name": "Environmental Chemistry: Water Pollution",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 126 or 129"
+        },
+        {
+          "prerequisite": "CHEM 212 or CHEM 312"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Chemical aspects of water and water pollution:  alkalinity; acid deposition, particularly relating to lake and stream acidification and forest decline; drinking water treatment and trihalomethanes; wastewater treatment; detergents, builders, and eutrophication; pesticides; other toxic organic compounds such as PCBs and dioxin; hazardous wastes; toxic elements such as Pb, Hg, Sn, Cd, and Se.  3 lectures."
+    },
+    {
+      "id": "CHEM 349",
+      "course name": "Chemical and Biological Warfare",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area Fall"
+      },
+      "description": "History, development, and use of chemical and biological warfare (CBW).  Chemical and biological disarmament.  Production and destruction of CBW agents.  Uses of CBW.  CBW terrorism.  Ethics of CBW.  2 lectures, 2 seminars.  Fulfills GE Area F."
+    },
+    {
+      "id": "CHEM 350",
+      "course name": "Chemical Safety",
+      "hasPrerequisite": "CHEM 212/312 or CHEM 216/316",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Laboratory regulations, equipment hazard analysis, hazardous chemicals, classification of chemicals, toxic materials handling, reaction hazards, radiation, emergency procedures, safety management programs and legal concerns.  Includes project.  1 lecture."
+    },
+    {
+      "id": "CHEM 351",
+      "course name": "Physical Chemistry I",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 126 or CHEM 129"
+        },
+        {
+          "prerequisite": "MATH 143"
+        },
+        {
+          "prerequisite": "PHYS 122 or PHYS 132"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Basic physical chemistry for the study of chemical and biochemical systems.  Kinetic-molecular theory, gas laws, principles of thermodynamics.  3 lectures."
+    },
+    {
+      "id": "CHEM 352",
+      "course name": "Physical Chemistry II",
+      "hasPrerequisite": "CHEM 351",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Application of physical chemistry to chemical and biochemical systems.  Electrochemistry, kinetics, viscosity, surface and transport properties.  3 lectures."
+    },
+    {
+      "id": "CHEM 353",
+      "course name": "Physical Chemistry III",
+      "hasPrerequisite": "CHEM 352",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Principles and applications of quantum chemistry.  Chemical bonding and molecular structure.  Spectroscopy and diffraction.  3 lectures."
+    },
+    {
+      "id": "CHEM 354",
+      "course name": "Physical Chemistry Laboratory",
+      "hasPrerequisite": "CHEM 231/331",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Experimental studies of gases, solutions, thermochemistry, chemical and phase equilibria, electrochemistry, chemical and enzyme kinetics, computational methods and applications to chemistry and biochemistry.  Applicable literature and databases.  2 laboratories."
+    },
+    {
+      "id": "CHEM 357",
+      "course name": "Physical Chemistry III Lab",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Experimental and computational investigations of quantum chemistry, spectroscopy, symmetry and statistical chemistry.  1 laboratory."
+    },
+    {
+      "id": "CHEM 371",
+      "course name": "Biochemical Principles",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 217 or CHEM 317"
+        },
+        {
+          "prerequisite": "BIO 161"
+        }
+      ],
+      "units": "5 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Chemistry and function of major cellular constituents:  proteins, lipids, carbohydrates, and membranes.  4 lectures, 1 laboratory."
+    },
+    {
+      "id": "CHEM 372",
+      "course name": "Metabolism",
+      "hasPrerequisite": "CHEM 371",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Intermediary metabolism of carbohydrates, lipids, amino acids and nucleotides, regulation and integration of metabolic pathways, bioenergetics, photosynthesis, electron transport, nitrogen fixation, biochemical function of vitamins and minerals.  4 lectures."
+    },
+    {
+      "id": "CHEM 373",
+      "course name": "Molecular Biology",
+      "hasPrerequisite": "CHEM 371",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Structure of nucleic acids and chromosomes.  Mechanisms and regulation of nucleic acid and protein synthesis.  Molecular biology techniques.  3 lectures."
+    },
+    {
+      "id": "CHEM 377",
+      "course name": "Chemistry of Drugs and Poisons",
+      "hasPrerequisite": "CHEM 313 or CHEM 371",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Introduction to pharmacology and toxicology:  history, sources, development and testing, physical and chemical properties, biochemical and physiological effects, mechanisms of action, and the therapeutic uses and toxicology of common drugs and poisons.  3 lectures."
+    },
+    {
+      "id": "CHEM 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 3 units per quarter.  1-3 laboratories."
+    },
+    {
+      "id": "CHEM 401",
+      "course name": "Advanced Undergraduate Research",
+      "units": "1-3 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Laboratory research under faculty supervision.  Credit/No Credit grading only.  Total credit limited to 6 units.  4 units may be applied to approved chemistry electives.  1-3 laboratories."
+    },
+    {
+      "id": "CHEM 403",
+      "course name": "Undergraduate Seminar III: Senior Project",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 303"
+        },
+        {
+          "prerequisite": "CHEM 352"
+        }
+      ],
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Culminating experience with high level scientific literature and scientific presentation skills.  Targeted advising and preparation for research and career opportunities.  Designed for fourth-year CHEM and BCHM majors.  1 seminar."
+    },
+    {
+      "id": "CHEM 405",
+      "course name": "Advanced Physical Chemistry",
+      "hasPrerequisite": "CHEM 353",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Selected advanced topics in physical chemistry, which may include statistical mechanics, computational chemistry, nonequilibrium thermodynamics, lasers in chemistry, solid-state and/or advanced spectroscopy.  Total credit limited to 6 units.  3 lectures."
+    },
+    {
+      "id": "CHEM 414",
+      "course name": "Advanced Organic Chemistry - Mechanisms",
+      "hasPrerequisite": "CHEM 218 or CHEM 318",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "A mechanistic study of organic reactions; correlation of structure with reactivity; reaction intermediates and species involved in reactions; methods of probing reaction mechanisms.  3 lectures."
+    },
+    {
+      "id": "CHEM 418",
+      "course name": "Neurochemistry",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "BIO 161"
+        },
+        {
+          "prerequisite": "CHEM 217"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Introduction to the chemistry of neurotransmission.  Emphasis on molecular makeup and function of voltage gated ion channels; receptors and enzymes involved in signal transduction; biosynthesis, storage, release, reuptake, and breakdown of major neurotransmitters.  Mechanism of action of agonists and antagonists, and their effects on the central and peripheral nervous systems.  3 lectures."
+    },
+    {
+      "id": "CHEM 419",
+      "course name": "Bioorganic Chemistry",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 218 or CHEM 318"
+        },
+        {
+          "prerequisite": "CHEM 313 or CHEM 371"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Methods of investigating reaction mechanisms, mechanisms of chemical catalysis, organic models of enzymes, chemistry of vitamins that serve as enzyme cofactors, chemistry of the phosphate group, synthesis of biomolecules.  3 lectures."
+    },
+    {
+      "id": "CHEM 420",
+      "course name": "Advanced Organic Chemistry - Synthesis",
+      "hasPrerequisite": "CHEM 218/318",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Modern methods of organic synthesis.  Carbon-carbon bond forming reactions, functional group transformations, protecting groups, strategies of total synthesis of natural products.  3 seminars."
+    },
+    {
+      "id": "CHEM 439",
+      "course name": "Instrumental Analysis",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 231/331"
+        },
+        {
+          "prerequisite": "CHEM 354"
+        }
+      ],
+      "units": "5 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Theory, practice and method selection of modern instrumental analytical techniques, including spectroscopic, electrochemical, chromatographic and thermal methods.  Current industrial applications.  Laboratory work emphasizes optimization of experimental parameters.  3 lectures, 2 laboratories."
+    },
+    {
+      "id": "CHEM 441",
+      "course name": "Bioinformatics Applications",
+      "hasPrerequisite": "BIO 161 or BIO 303",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Introduction to new problems in molecular biology and current computer applications for genetic database analyses.  Use of software for:  nucleic acid, genome and protein sequence analysis; genetic databases, database tools; industrial applications in bioinformatics; ethical and societal concerns.  3 lectures, 1 laboratory.  Crosslisted as BIO/CHEM441."
+    },
+    {
+      "id": "CHEM 444",
+      "course name": "Polymers & Coatings I",
+      "hasPrerequisite": "CHEM 212/312 or CHEM 216/316",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Physical properties of polymers and coatings and their measurement.  Molecular weight averages, glass transition, thermodynamics of polymers.  Viscoelastic properties, rheology, molecular weight determination.  Thermal analysis, spectroscopic analysis, mechanical testing.  3 lectures."
+    },
+    {
+      "id": "CHEM 445",
+      "course name": "Polymers & Coatings II",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 217/317"
+        },
+        {
+          "prerequisite": "CHEM 444"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Introduction to polymerization methods and mechanisms.  Chemistry of initiators, catalysts and inhibitors, kinetics of polymerization.  Uses of representative polymer types.  Synthesis, film formation, structure and properties of polymers commonly used in coatings and adhesives.  3 lectures."
+    },
+    {
+      "id": "CHEM 446",
+      "course name": "Surface Chemistry of Materials",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 125 or CHEM 128"
+        },
+        {
+          "prerequisite": "CHEM 351"
+        },
+        {
+          "prerequisite": "MATE 380"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Surface energy.  Capillarity, solid and liquid interface, adsorption.  Surface areas of solids.  Contact angles and wetting.  Friction, lubrication and adhesion.  Relationship of surface to bulk properties of materials.  Applications.  3 lectures.  Crosslisted as CHEM/MATE446."
+    },
+    {
+      "id": "CHEM 447",
+      "course name": "Polymers and Coatings Laboratory I",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Experimental techniques of producing and characterizing coatings.  Polymer characterization and analysis.  Molecular weight analysis using viscometry, light scattering, and gel permeation chromatography.  Thermal analysis using differential scanning calorimetry, thermal mechanical analysis and dynamic mechanical analysis.  Polymer rheology.  Infrared, Raman and FT-NMR spectroscopy.  Atomic force microscopy.  2 laboratories."
+    },
+    {
+      "id": "CHEM 448",
+      "course name": "Polymers and Coatings Laboratory II",
+      "hasPrerequisite": "CHEM 447",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Polymer synthesis using solution, suspension, bulk, emulsion techniques.  Synthesis of chain growth polymers using free radical, anionic, cationic, and other catalysts.  Synthesis of step-growth polymers.  Kinetics of polymer reactions.  Synthesis of resins used in modern coatings.  2 laboratories."
+    },
+    {
+      "id": "CHEM 449",
+      "course name": "Polymers and Coatings Internship",
+      "hasPrerequisite": "CHEM 444",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Selected students will spend up to 12 weeks with an approved polymers and coatings firm engaged in production or related business.  Time will be spent applying and developing production and technical skills and abilities in the polymers and coatings industry."
+    },
+    {
+      "id": "CHEM 450",
+      "course name": "Polymers and Coatings III",
+      "hasPrerequisite": "CHEM 444 or CHEM 544",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Formulation of modern coatings.  Raw materials including resins, solvents, pigments, and additives.  Formulation principles for solvent-borne and coatings, waterborne, powder, radiation cure and architectural coatings.  Regulatory issues; VOC's.  Coating properties, film formation, film defects, application methods, color and color acceptance.  Not open to students with credit in CHEM550.  3 lectures."
+    },
+    {
+      "id": "CHEM 451",
+      "course name": "Polymers and Coatings Laboratory III",
+      "hasPrerequisite": "CHEM 447 or CHEM 547",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Preparation and characterization of coatings - solvent based and waterborne.  Thermoplastic and thermosetting coatings.  Coating film preparation methods.  Applications of spectroscopy, scanning probe microscopy, thermal analysis, rheology in characterizing coatings.  VOC, long-term exposure testing.  Measurement of appearance (color, gloss).  Not open to students with credit in CHEM551.  2 laboratories."
+    },
+    {
+      "id": "CHEM 454",
+      "course name": "Functional Polymeric Materials",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 212 or CHEM 216 or CHEM 312 or CHEM 316"
+        },
+        {
+          "prerequisite": "CHEM 351 or MATE 380"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Structure-property-processing correlations of functional polymeric materials.  Additive group contribution methodologies for predicting and determining physical properties.  Semi-empirical approaches for estimating and evaluating the values of physical properties from chemical structures.  4 lectures."
+    },
+    {
+      "id": "CHEM 458",
+      "course name": "Instrumental Organic Qualitative Analysis",
+      "hasPrerequisite": "CHEM 324",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Separation, purification, and identification of organic molecules using chemical and instrumental methods, including nuclear magnetic resonance, infrared and ultraviolet spectroscopy and mass spectroscopy, and techniques in high resolution FT-NMR.  1 lecture, 2 laboratories."
+    },
+    {
+      "id": "CHEM 459",
+      "course name": "Undergraduate Seminar",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Oral presentation of current developments in chemistry based on current literature.  Searching for, organizing and presenting developments from current literature in chemistry and biochemistry.  Preparation for employment and for independent work, including senior project, in chemistry and biochemistry.  2 seminars."
+    },
+    {
+      "id": "CHEM 461",
+      "course name": "Senior Project Report",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Completion of a senior project report under faculty supervision.  Minimum 30 hours time commitment."
+    },
+    {
+      "id": "CHEM 463",
+      "course name": "Honors Research",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Advanced laboratory research.  Results are presented in a poster session or other public forum.  Total credit limited to 2 units with a maximum of 1 unit per quarter.  1 laboratory."
+    },
+    {
+      "id": "CHEM 465",
+      "course name": "College Teaching Practicum",
+      "hasPrerequisite": "CHEM 231/331 (or permission of instructor)",
+      "units": "1-2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Teaching assignment in an undergraduate college classroom.  Includes teaching and related activities under the direction of a permanent faculty member in the Department of Chemistry and Biochemistry.  Total credit limited to 4 units."
+    },
+    {
+      "id": "CHEM 466",
+      "course name": "Learning Assistant Seminar",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Pedagogical instruction and introduction to education research for Chemistry Learning Assistants.  Effective questioning, the effect of explanatory knowledge on student learning, student misconceptions in chemistry, collaborative problem solving techniques in chemistry, studio curriculum development, content in the general chemistry curriculum.  Total credit limited to 4 units.  Credit/No Credit grading only.  2 seminars."
+    },
+    {
+      "id": "CHEM 470",
+      "course name": "Selected Advanced Topics",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 351"
+        },
+        {
+          "prerequisite": "CHEM 217 or CHEM 317"
+        }
+      ],
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "CHEM 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories."
+    },
+    {
+      "id": "CHEM 474",
+      "course name": "Protein Techniques Laboratory",
+      "hasPrerequisite": "CHEM 371",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Experiments in protein purification and analysis from recombinant sources.  Ion-exchange and affinity chromatography, electrophoresis and blotting.  UV, chemical, immune, and fluorescent detection.  Enzyme kinetic analysis.  1 lecture, 2 laboratories."
+    },
+    {
+      "id": "CHEM 475",
+      "course name": "Molecular Biology Laboratory",
+      "hasPrerequisite": "BIO 161",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Introduction to techniques used in molecular biology and biotechnology; DNA extraction, characterization, cloning, Southern blotting, reverse transcription, polymerase chain reaction, and sequencing analysis.  1 lecture, 2 laboratories.  Crosslisted as BIO/CHEM475."
+    },
+    {
+      "id": "CHEM 476",
+      "course name": "Gene Expression Laboratory",
+      "hasPrerequisite": "CHEM 313 or CHEM 371",
+      "units": "3 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Heterologous gene expression of a recombinant protein in a microbial system:  gene cloning, construction of expression plasmid, DNA sequence analysis, transformation of microbial host, selection and analysis of transformed host cells, expression and purification of recombinant protein.  1 lecture, 2 laboratories.  Crosslisted as BIO/CHEM476."
+    },
+    {
+      "id": "CHEM 477",
+      "course name": "Biochemical Pharmacology",
+      "hasPrerequisite": "CHEM 218 or CHEM 318",
+      "units": "3 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Consideration of current selected topics in pharmacology and drug targeting.  3 lectures."
+    },
+    {
+      "id": "CHEM 481",
+      "course name": "Inorganic Chemistry",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 352"
+        },
+        {
+          "prerequisite": "CHEM 231/331"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "A systematic study of chemical and physical properties of inorganic compounds based on periodic groupings with emphasis on chemical bonding and structure.  Topics will include coordination chemistry and kinetics, organometallic chemistry, advanced acid-base relationships and bonding theories plus other selected topics.  3 lectures."
+    },
+    {
+      "id": "CHEM 484",
+      "course name": "Inorganic Chemistry Laboratory",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Laboratory techniques in inorganic chemistry.  Synthetic and analytic techniques as applied to inorganic and organometallic chemistry.  2 laboratories."
+    },
+    {
+      "id": "CHEM 485",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  2 units only applicable to approved chemistry electives.  Major credit limited to 4 units; total credit limited to 12 units.  Credit/No Credit grading only."
+    },
+    {
+      "id": "CHEM 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  2 units only applicable to approved chemistry electives.  Major credit limited to 4 units; total credit limited to 24 units.  Credit/No Credit grading only."
+    },
+    {
+      "id": "CHEM 500",
+      "course name": "Special Problems for Graduate Students",
+      "units": "1-3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 6 units, with a maximum of 3 units per quarter."
+    },
+    {
+      "id": "CHEM 528",
+      "course name": "Nutritional Biochemistry",
+      "hasPrerequisite": "CHEM 313 or CHEM 372 or consent of instructor",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Nutritional aspects of biochemistry.  Lecture, library research and student presentations.  Topics include vitamins and minerals, essential and energy providing nutrients, deficiency, degenerative and genetic diseases of metabolism.  Emphasis on current research and controversy.  3 lectures."
+    },
+    {
+      "id": "CHEM 544",
+      "course name": "Polymer Physical Chemistry and Analysis",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 212/312 or CHEM 216/316 or equivalent"
+        },
+        {
+          "prerequisite": "CHEM 351 or equivalent"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Physical properties of polymers and coatings and their measurement; molecular weight averages, glass transition, thermodynamics of polymers, viscoelastic properties, rheology; molecular weight determination, thermal analysis, spectroscopic analysis, mechanical testing, atomic force microscopy.  Special individual project.  Not open to students with credit in CHEM444.  3 lectures."
+    },
+    {
+      "id": "CHEM 545",
+      "course name": "Polymer Synthesis and Mechanisms",
+      "hasPrerequisite": "CHEM 544",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Polymerization methods and mechanisms; chemistry of initiators, catalysts and inhibitors; use of representative types; synthesis, structure and properties of polymers commonly used in coatings and adhesives.  Special individual project.  Not open to students with credit in CHEM445.  3 lectures."
+    },
+    {
+      "id": "CHEM 547",
+      "course name": "Polymer Characterization and Analysis Laboratory",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Polymer characterization and analysis.  Molecular weight analysis using viscometry, light scattering, and gel permeation chromatography.  Thermal analysis using differential scanning calorimetry, thermal mechanical analysis and dynamic mechanical analysis.  Polymer rheology.  Infrared, Raman and FT-NMR spectroscopy.  Atomic force microscopy.  Special individual project.  Not open to students with credit in CHEM447.  2 laboratories."
+    },
+    {
+      "id": "CHEM 548",
+      "course name": "Polymer Synthesis Laboratory",
+      "hasPrerequisite": "CHEM 547",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Polymer synthesis using solution, suspension, bulk, emulsion techniques.  Synthesis of chain growth polymers using free radical, anionic, cationic, and other catalysts.  Synthesis of step-growth polymers.  Kinetics of polymer reactions.  Synthesis of resins used in modern coatings.  Special individual project.  Not open to students with credit in CHEM448.  2 laboratories."
+    },
+    {
+      "id": "CHEM 550",
+      "course name": "Coatings Formulation Principles",
+      "hasPrerequisite": "CHEM 444 or CHEM 544",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Formulation of modern coatings.  Raw materials including resins, solvents, pigments, and additives.  Formulation principles for solvent-borne and high solids coatings, water-borne coatings, powder coatings, radiation cure coatings and architectural coatings.  Regulatory issues; VOC's.  Coating properties, film formation, film defects, application methods, color and color acceptance.  Special individual project.  3 lectures."
+    },
+    {
+      "id": "CHEM 551",
+      "course name": "Coatings Formulation Laboratory",
+      "units": "2 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Laboratory formulation of modern coatings.  Formation of pigment dispersions.  Formulation of solvent-borne and high solids coatings, water-borne coatings, powder coatings, radiation cure coatings and architectural coatings.  VOC measurements.  Measurement of coating properties, film formation, film defects, application methods, color and color acceptance, hiding, gloss.  Accelerated weathering.  Special individual project.  2 laboratories."
+    },
+    {
+      "id": "CHEM 570",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures."
+    },
+    {
+      "id": "CHEM 571",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories."
+    },
+    {
+      "id": "CHEM 590",
+      "course name": "Graduate Seminar in Polymers and Coatings",
+      "units": "1 unit",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Problems and topics in polymers and coatings selected according to the interest and needs of the students enrolled.  Total credit limited to 3 units.  1 seminar."
+    },
+    {
+      "id": "CHEM 598",
+      "course name": "Graduate Project",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 545"
+        },
+        {
+          "prerequisite": "CHEM 547"
+        },
+        {
+          "prerequisite": "CHEM 548"
+        },
+        {
+          "prerequisite": "CHEM 550"
+        },
+        {
+          "prerequisite": "CHEM 551"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Supervised industrial graduate internship in polymers and coatings science.  Provides students with industrial research experience.  Requires approval of graduate advisor.  Students engage in industrial research and development at an approved industry, make regular reports back to graduate advisor, and present formal report and seminar on work each quarter.  Total credit limited to 9 units."
+    },
+    {
+      "id": "CHEM 599",
+      "course name": "Graduate Thesis",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "CHEM 545"
+        },
+        {
+          "prerequisite": "CHEM 547"
+        },
+        {
+          "prerequisite": "CHEM 548"
+        },
+        {
+          "prerequisite": "CHEM 550"
+        },
+        {
+          "prerequisite": "CHEM 551"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Directed graduate research in specialized advanced topics related to polymers and coatings science, leading to a graduate thesis of suitable quality.  Requires approval of graduate advisor.  Students are expected to work independently and report weekly to faculty advisor.  Total credit limited to 9 units."
+    }
+  ]
+}

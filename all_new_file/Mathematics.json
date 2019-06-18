@@ -1,0 +1,644 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring, Summer",
+      "description": "Recommended for students whose majors do not include a specific mathematics requirement. Objectives are to show some of the essence and quality of mathematics, and to enhance precision in the evaluation and expression of ideas, thereby developing a student's quantitative reasoning skills. Designed to give students an understanding of some of the vocabulary, methods, and reasoning of mathematics with a focus on ideas.",
+      "id": "CSUS_MATH 1",
+      "course name": "Mathematical Reasoning"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Prepares students for courses requiring fundamental algebra skills. Topics include: review of basic algebra; scientific notation, rounding, and percents; factoring; exponents; linear equations and inequalities with applications; quadratic equations with applications; graphing with applications; absolute value equations and inequalities; systems of linear equations and inequalities; and an introduction to exponential and logarithmic expressions. ",
+      "id": "CSUS_MATH 10",
+      "course name": "Essentials of Algebra"
+    },
+    {
+      "units": "4 Units",
+      "term": "Fall, Spring",
+      "description": "Prepares students for Pre-calculus and other higher math courses requiring intermediate algebra. Topics include: linear equations and inequalities, absolute value equations and inequalities, systems of linear equations, quadratic equations, polynomial expressions and equations, rational expressions and equations, roots and radicals, and exponential & logarithmic properties and equations. ",
+      "id": "CSUS_MATH 12",
+      "course name": "Algebra for College Students"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the composition and interpretation of mathematical ideas and to the mathematical reasoning necessary to derive results in a variety of mathematical topics. Emphasis on developing concepts and analyzing results. ",
+      "id": "CSUS_MATH 15H",
+      "course name": "Honors Mathematical Reasoning"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". Students will explore mathematical patterns and relations, formulate conjectures, and prove their conjectures. Topics from number theory, probability and statistics, and geometry. ",
+      "course name": "An Introduction to Exploration, Conjecture, and Proof in Mathematics",
+      "units": "3 Units",
+      "id": "CSUS_MATH 17",
+      "prerequisite": [
+        "MATH 10",
+        "MATH 107A",
+        "MATH 107B"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Mathematics for business world, including functions, math of finance, linear programming and rates of change. Applications to economics and business will be emphasized throughout. ",
+      "course name": "Modern Business Mathematics",
+      "units": "3 Units",
+      "id": "CSUS_MATH 24",
+      "prerequisite": [
+        "MATH 10"
+      ]
+    },
+    {
+      "units": "99 Units",
+      "id": "CSUS_MATH 24*AP",
+      "course name": "MATH 24*AP.AP: Meets MATH 24 + AREA B4"
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Limits, differentiation with applications, integration and applications in the Social Sciences and Life Sciences. ",
+      "course name": "Calculus I for the Social and Life Sciences",
+      "units": "3 Units",
+      "id": "CSUS_MATH 26A",
+      "prerequisite": [
+        "MATH 12"
+      ]
+    },
+    {
+      "term": " or equivalent.  ",
+      "description": ", integration and applications to the Social Sciences and Life Sciences. Multi-variate analysis including partial differentiation and maximization subject to constraints; elementary differential equations; sequences and series. Calculus of the trigonometric functions as time allows. ",
+      "course name": "Calculus II for the Social and Life Sciences",
+      "units": "3 Units",
+      "id": "CSUS_MATH 26B",
+      "prerequisite": [
+        "MATH 26A",
+        "MATH 26A",
+        "MATH 31"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Designed to prepare students for calculus. Topics: trigonometry, points and lines in the Cartesian plane; lines and planes in space; transformation of coordinates; the conics; graphs of algebraic relations; the elementary transcendental functions. ",
+      "course name": "Pre-Calculus Mathematics",
+      "units": "4 Units",
+      "id": "CSUS_MATH 29",
+      "prerequisite": [
+        "MATH 12"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "First semester of a two semester course that is designed to prepare students for calculus. Topics: functions and graphs, polynomial functions, rational functions and applications. Lecture two hours. ",
+      "course name": "Pre-Calculus Mathematics A",
+      "units": "2 Units",
+      "id": "CSUS_MATH 29A",
+      "prerequisite": [
+        "MATH 12"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Second semester of a two semester course that is designed to prepare students for calculus. Topics: exponential and logarithmic functions, trigonometric functions, analytic geometry, and applications. Lecture two hours. ",
+      "course name": "Pre-Calculus Mathematics B",
+      "units": "2 Units",
+      "id": "CSUS_MATH 29B",
+      "prerequisite": [
+        "MATH 29A",
+        "MATH 29M"
+      ]
+    },
+    {
+      "term": " May be taken for workload credit toward establishing full-time enrollment status, but is not applicable to the baccalaureate degree.  Laboratory ",
+      "description": ". ",
+      "course name": "Lab for Pre-Calculus Math A",
+      "units": "1 Unit",
+      "id": "CSUS_MATH 29L",
+      "prerequisite": [
+        "MATH 29B",
+        "MATH 29A"
+      ]
+    },
+    {
+      "term": " May be taken for workload credit toward establishing full-time enrollment status, but is not applicable to the baccalaureate degree.  Laboratory ",
+      "description": ". ",
+      "course name": "Lab for Pre-Calculus Math B",
+      "units": "1 Unit",
+      "id": "CSUS_MATH 29M",
+      "prerequisite": [
+        "MATH 29B",
+        "MATH 29B"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Functions and their graphs; limits; the derivative and some of its applications; trigonometric and hyperbolic functions and their inverses; the integral; the fundamental theorem; some applications of the integral. ",
+      "course name": "Calculus I",
+      "units": "4 Units",
+      "id": "CSUS_MATH 30",
+      "prerequisite": [
+        "MATH 29",
+        "MATH 29B"
+      ]
+    },
+    {
+      "term": " May be taken for workload credit toward establishing full-time enrollment status, but is not applicable to the baccalaureate degree.  Laboratory ",
+      "description": ". ",
+      "course name": "Laboratory for First Semester Calculus",
+      "units": "1 Unit",
+      "id": "CSUS_MATH 30L",
+      "prerequisite": [
+        "MATH 30",
+        "MATH 30"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": " continuation. Methods of integration; improper integrals; analytic geometry; infinite sequences and series. ",
+      "course name": "Calculus II",
+      "units": "4 Units",
+      "id": "CSUS_MATH 31",
+      "prerequisite": [
+        "MATH 30",
+        "MATH 30"
+      ]
+    },
+    {
+      "term": " May be taken for workload credit toward establishing full-time enrollment status, but is not applicable to the baccalaureate degree.  Laboratory ",
+      "description": ". ",
+      "course name": "Laboratory for Second Semester Calculus",
+      "units": "1 Unit",
+      "id": "CSUS_MATH 31L",
+      "prerequisite": [
+        "MATH 31",
+        "MATH 31"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Continuation of Calculus II. Algebra and calculus of vectors; functions of several variables; partial differentiation; multiple integration; vector analysis. ",
+      "course name": "Calculus III",
+      "units": "4 Units",
+      "id": "CSUS_MATH 32",
+      "prerequisite": [
+        "MATH 31"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Careful development of matrices, systems of equations, determinants, vector spaces, linear transformations, orthogonality, real and complex eigenvalues; R3 viewed as a vector space with generalization to Rn. ",
+      "course name": "Introduction to Linear Algebra",
+      "units": "3 Units",
+      "id": "CSUS_MATH 35",
+      "prerequisite": [
+        "MATH 30"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "First order differential equations, second order differential equations with constant coefficients. Laplace transforms, small systems of linear differential equations, numerical methods, introduction to second order differential equations with variable coefficients. ",
+      "course name": "Differential Equations for Science and Engineering",
+      "units": "3 Units",
+      "id": "CSUS_MATH 45",
+      "prerequisite": [
+        "MATH 31"
+      ]
+    },
+    {
+      "units": "1 - 6 Units",
+      "term": " Open only to students who appear competent to carry on individual work; admission requires the approval of the faculty member under whom individual work is to be conducted, and approval of the advisor and the Department Chair. ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_MATH 99",
+      "course name": "Special Problems"
+    },
+    {
+      "term": " May not be taken for credit toward a mathematics major.  ",
+      "description": "Linear algebra and its elementary applications. Topics: Matrix algebra; simultaneous linear equations; linear dependence and vector spaces; rank and inverses; determinants; numerical solution of simultaneous linear equations; linear transformations; eigenvalues and eigenvectors; unitary and similarity transformations; quadratic forms. ",
+      "course name": "Applied Linear Algebra",
+      "units": "3 Units",
+      "id": "CSUS_MATH 100",
+      "prerequisite": [
+        "MATH 26B",
+        "MATH 31"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Introduction to the art of counting. The focus will be on actually listing the objects being counted in small cases and using the knowledge gained in working with small cases to build toward general principles. Sum and product principles, models of counting, permutations and combinations, equivalence relations and partitions, inclusion-exclusion principle, recurrence relations, and generating functions. ",
+      "course name": "Combinatorics",
+      "units": "3 Units",
+      "id": "CSUS_MATH 101",
+      "prerequisite": [
+        "MATH 31"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Theory of divisibility; some number theoretical functions; congruencies (linear and quadratic); some Diophantine equations. Simple continued fractions. ",
+      "course name": "Number Theory",
+      "units": "3 Units",
+      "id": "CSUS_MATH 102",
+      "prerequisite": [
+        "MATH 31"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Vector and scalar fields, integral theorems, orthogonal curvilinear coordinates, vector spaces and linear transformations, applications to physical fields and operators. ",
+      "course name": "Vector Analysis",
+      "units": "3 Units",
+      "id": "CSUS_MATH 104",
+      "prerequisite": [
+        "MATH 32"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Survey of second order linear differential equations, power series and Fourier series solutions, solution of partial differential equations by separation of variables. ",
+      "course name": "Advanced Mathematics for Science and Engineering I",
+      "units": "4 Units",
+      "id": "CSUS_MATH 105A",
+      "prerequisite": [
+        "MATH 32",
+        "MATH 45"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Partial differential equations continued, complex function theory and its applications. ",
+      "course name": "Advanced Mathematics for Science and Engineering II",
+      "units": "4 Units",
+      "id": "CSUS_MATH 105B",
+      "prerequisite": [
+        "MATH 105A"
+      ]
+    },
+    {
+      "term": " May not be taken for credit toward a mathematics major or minor.  ",
+      "description": "First half of a one-year course in the structure of the real number system and its sub-systems and in the basic properties and concepts of geometry. Topics will include: definitions and properties of set theory and their use in the development of the natural and whole number systems, definitions and properties of the arithmetic relations and operations for the natural numbers, whole numbers, integers. ",
+      "course name": "Fundamental Mathematical Concepts",
+      "units": "3 Units",
+      "id": "CSUS_MATH 107A",
+      "prerequisite": [
+        "MATH 17",
+        "MATH 10"
+      ]
+    },
+    {
+      "term": " May not be taken for credit toward a mathematics major or minor.  ",
+      "description": ". Topics will include: rational numbers, real numbers, measurement, Euclidean Geometry. ",
+      "course name": "Fundamental Mathematical Concepts",
+      "units": "3 Units",
+      "id": "CSUS_MATH 107B",
+      "prerequisite": [
+        "MATH 107A",
+        "MATH 107A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students will build on their understanding of material of Math 17, Math 107A/B by deepening their understanding of the concepts taught in these courses. This will be done by examining these concepts in relationship to theories of learning and development. Students will examine mathematical concepts related to K-8 with respect to the treatment of reasoning, communication, and the perspective of cognitive and social constructivism; and throughout the course will consider the question of  \"What is mathematics?\" and \"How is mathematics learned? ",
+      "course name": "Elementary Mathematics and the Learning Process",
+      "units": "3 Units",
+      "id": "CSUS_MATH 107C",
+      "prerequisite": [
+        "MATH 17",
+        "MATH 107A",
+        "MATH 107B",
+        "CHDV 30",
+        "CHDV 35"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Logic of mathematical proof, set theory, relations, functions. Examples and applications from set cardinality, algebra, and analysis. ",
+      "course name": "Introduction to Formal Mathematics",
+      "units": "3 Units",
+      "id": "CSUS_MATH 108",
+      "prerequisite": [
+        "MATH 31",
+        "MATH 35"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "First half of a one-year introductory course in algebraic concepts. Topics include: groups, subgroups, properties of groups, permutation groups, factor groups, homomorphism theorems. ",
+      "course name": "Modern Algebra",
+      "units": "3 Units",
+      "id": "CSUS_MATH 110A",
+      "prerequisite": [
+        "MATH 108"
+      ]
+    },
+    {
+      "term": " Topics include ",
+      "description": ". ",
+      "course name": "Modern Algebra",
+      "units": "3 Units",
+      "id": "CSUS_MATH 110B",
+      "prerequisite": [
+        "MATH 110A",
+        "MATH 110A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Abstract linear spaces and linear transformations; invariant subspaces; canonical forms. ",
+      "course name": "Linear Algebra",
+      "units": "3 Units",
+      "id": "CSUS_MATH 117",
+      "prerequisite": [
+        "MATH 110A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of the axioms and theorems of Euclidean geometry.  A comparison of several geometry axiom systems and their theorems, including those of some non-Euclidean and finite geometries. ",
+      "course name": "College Geometry",
+      "units": "3 Units",
+      "id": "CSUS_MATH 121",
+      "prerequisite": [
+        "MATH 31",
+        "MATH 32",
+        "MATH 35"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "First half of a one-year upper division course in functions of a real variable. The first semester will consist of a rigorous development of the theory of real-valued sequences and continuity and differentiation for functions of one real variable. ",
+      "course name": "Functions of a Real Variable",
+      "units": "3 Units",
+      "id": "CSUS_MATH 130A",
+      "prerequisite": [
+        "MATH 32",
+        "MATH 108"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". This semester will be devoted to a rigorous development of the theory of Riemann integration, infinite series, and sequences and series of functions. ",
+      "course name": "Functions of a Real Variable",
+      "units": "3 Units",
+      "id": "CSUS_MATH 130B",
+      "prerequisite": [
+        "MATH 130A",
+        "MATH 130A"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Complex plane; analytic functions; integration and Cauchy's Theorem; sequences and series; residue calculus; applications to potential theory; Fourier and Laplace transforms. ",
+      "course name": "Functions of a Complex Variable and Applications",
+      "units": "3 Units",
+      "id": "CSUS_MATH 134",
+      "prerequisite": [
+        "MATH 32"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Numerical solutions of algebraic and transcendental equations; interpolation, inverse interpolation, finite differences, cubic splines, and applications; numerical differentiation and integration; direct and iterative numerical solutions of linear systems; discrete and continuous least squares approximation. ",
+      "course name": "Introduction to Numerical Analysis",
+      "units": "3 Units",
+      "id": "CSUS_MATH 150",
+      "prerequisite": [
+        "MATH 31"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced study of logic with special application to mathematics. ",
+      "course name": "Mathematical Logic",
+      "units": "3 Units",
+      "id": "CSUS_MATH 161",
+      "prerequisite": [
+        "MATH 108"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Axiomatic study of set theory. Topics usually considered include: relations and functions; set theoretical equivalence; finite and infinite sets; cardinal arithmetic; ordinal numbers and transfinite induction; variants of the Axiom of Choice. ",
+      "course name": "Set Theory",
+      "units": "3 Units",
+      "id": "CSUS_MATH 162",
+      "prerequisite": [
+        "MATH 108"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Theory of linear programming, duality, simplex method, integer programming, applications. ",
+      "course name": "Linear Programming",
+      "units": "3 Units",
+      "id": "CSUS_MATH 170",
+      "prerequisite": [
+        "MATH 31",
+        "MATH 35",
+        "MATH 100"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of the development of mathematical ideas and techniques and their impact on the general course of the history of western civilization. ",
+      "course name": "History Of Mathematics",
+      "units": "3 Units",
+      "id": "CSUS_MATH 190",
+      "prerequisite": [
+        "MATH 31"
+      ]
+    },
+    {
+      "term": " Not accepted for credit for non-Teaching Credential students.  ",
+      "description": "Reviews the major themes presented in the upper division program in Mathematics, and relates the themes to junior high school and high school curriculum. Required for all subject matter students. ",
+      "course name": "Capstone Course for the Teaching Credential Candidate",
+      "units": "3 Units",
+      "id": "CSUS_MATH 193",
+      "prerequisite": [
+        "MATH 102",
+        "MATH 110A",
+        "MATH 110B",
+        "MATH 121",
+        "MATH 130A",
+        "MATH 130B",
+        "MATH 190",
+        "MATH 110A",
+        "MATH 130A"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Calculus methods are applied to the study of curves and surfaces in three dimensional space. After an introduction to the geometry of curves (curvature, torsion, and Frenet's formulas), the course explores the geometry of surfaces. Some of the geometrical properties of a surface that will be investigated are its first and second fundamental forms, its various curvatures (normal, principal, mean, and Gaussian curvatures), and its geodesic curves. ",
+      "course name": "Introduction to Differential Geometry",
+      "units": "3 Units",
+      "id": "CSUS_MATH 196K",
+      "prerequisite": [
+        "MATH 32",
+        "MATH 35"
+      ]
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated up to two times for credit.  ",
+      "description": "Supports Sacramento State students who are working in tutorial and related roles in mathematics programs on campus. Focus on questioning as a fundamental strategy for teaching mathematics, on classroom observation, and on communication among mathematics instructors in support of effective teaching and learning. ",
+      "id": "CSUS_MATH 198",
+      "course name": "Seminar for Mathematics Tutors"
+    },
+    {
+      "units": "1 - 6 Units",
+      "term": "Fall, Spring",
+      "description": "Individual projects or directed reading. Open only to those students who appear competent to carry on individual work. Admission to this course requires the approval of the faculty member under whom the individual work is to be conducted, in addition to the approval of the advisor and the Department Chair.",
+      "id": "CSUS_MATH 199",
+      "course name": "Special Problems"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "General algebraic systems and concepts; groups. ",
+      "course name": "Algebraic Structures",
+      "units": "3 Units",
+      "id": "CSUS_MATH 210A",
+      "prerequisite": [
+        "MATH 110B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fields; vector spaces; Galois theory. ",
+      "course name": "Algebraic Structures",
+      "units": "3 Units",
+      "id": "CSUS_MATH 210B",
+      "prerequisite": [
+        "MATH 210A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Point set topology, continuity, compactness, connectedness. ",
+      "course name": "Topology",
+      "units": "3 Units",
+      "id": "CSUS_MATH 220A",
+      "prerequisite": [
+        "MATH 130B"
+      ]
+    },
+    {
+      "term": " May be taken twice with approval of the graduate coordinator.  ",
+      "description": " with topics selected from: General topology/Foundations, Geometric Topology, Continuum Theory, Homology Theory, Homotopy Theory, Topological Dynamics. ",
+      "course name": "Topics In Topology",
+      "units": "3 Units",
+      "id": "CSUS_MATH 220B",
+      "prerequisite": [
+        "MATH 220A",
+        "MATH 220A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Metric topology; the theory of the derivative; measure theory. ",
+      "course name": "Real Analysis",
+      "units": "3 Units",
+      "id": "CSUS_MATH 230A",
+      "prerequisite": [
+        "MATH 130B"
+      ]
+    },
+    {
+      "term": " May be taken twice with approval of the graduate coordinator.  ",
+      "description": ", with topics selected from: Theory of the integral, including Riemann, Riemann Stieltjes, and Lebesque integrals. ",
+      "course name": "Real Analysis",
+      "units": "3 Units",
+      "id": "CSUS_MATH 230B",
+      "prerequisite": [
+        "MATH 230A",
+        "MATH 230A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Complex numbers, complex functions, analytic functions, complex integration, harmonic functions. ",
+      "course name": "Complex Analysis",
+      "units": "3 Units",
+      "id": "CSUS_MATH 234A",
+      "prerequisite": [
+        "MATH 130B",
+        "MATH 105B",
+        "MATH 134"
+      ]
+    },
+    {
+      "term": " May be taken twice with approval of the graduate coordinator.  ",
+      "description": " with topics selected from: Partial Fractions and Infinite Products, Entire Functions, Riemann Zeta Function, Normal Families, Riemann Mapping Theorem, Conformal Mapping of Polygons, Dirihclet Problem, Analytic Continuation. ",
+      "course name": "Topics in Complex Analysis",
+      "units": "3 Units",
+      "id": "CSUS_MATH 234B",
+      "prerequisite": [
+        "MATH 234A",
+        "MATH 234A"
+      ]
+    },
+    {
+      "term": " May be repeated for credit provided topic is not repeated.  ",
+      "description": "Topics from: Hilbert Space Theory, Operators on Hibert Space, Generalized Functions with Applications to Sturm-Liouville Theory and Partial Differential Equations. ",
+      "course name": "Methods of Applied Mathematics",
+      "units": "3 Units",
+      "id": "CSUS_MATH 241A",
+      "prerequisite": [
+        "MATH 134"
+      ]
+    },
+    {
+      "term": " May be taken twice with approval of the graduate coordinator.  ",
+      "description": " with topics: Calculus of Variations, Functional Analysis, Dynamical Systems, Integral Equations, Sobolev Spaces, Fourier Analysis, Potential Theory, and Optimal Control Theory. ",
+      "course name": "Topics in Applied Mathematics",
+      "units": "3 Units",
+      "id": "CSUS_MATH 241B",
+      "prerequisite": [
+        "MATH 241A",
+        "MATH 241A"
+      ]
+    },
+    {
+      "units": "1 - 6 Units",
+      "term": "Fall, Spring",
+      "description": "Any properly qualified student who wishes to pursue a problem may do so if the proposed subject is acceptable to the supervising instructor and to the student's advisor.",
+      "id": "CSUS_MATH 299",
+      "course name": "Special Problems"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall only",
+      "description": "A survey course for students in the Blended Program in Mathematics that relates broad areas of educational psychology and theories of learning to instruction in the secondary mathematics classroom. The focus is on practical applications of theories through the design of lesson and unit plans. Students will design learning activities for diverse classes of learners, including English Language Learners, and build and refine assessment plans that include formative assessments. Lecture two hours. ",
+      "id": "CSUS_MATH 316",
+      "course name": "The Psychology of Mathematics Instruction"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "The first of a two-part sequence supporting student teachers in the Mathematics Blended Program. Focus is on strategies for secondary mathematics instruction, the process of reflection on teaching, communication among mathematics teachers in support of effective teaching and learning, strategies for engagement, questioning, creating a safe classroom environment, classroom management, assessment, and familiarity with school and community resources. Emphasis on issues related to English Language Learners, special needs students, and intervention strategies. Seminar two hours. ",
+      "id": "CSUS_MATH 371A",
+      "course name": "Schools and Community A"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "The second of a two-part sequence supporting student teachers in the Mathematics Blended Program. Focus is on strategies for secondary mathematics instruction, the process of reflection on teaching, communication among mathematics teachers in support of effective teaching and learning, strategies for engagement, questioning, creating a safe classroom environment, classroom management, assessment, and familiarity with school and community resources. Emphasis on issues related to English Language Learners, special needs students, and intervention strategies. Seminar two hours. ",
+      "id": "CSUS_MATH 371B",
+      "course name": "Schools and Community B"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Directed reading programs for master's candidates preparing for written comprehensive examinations. ",
+      "id": "CSUS_MATH 500",
+      "course name": "Culminating Experience"
+    }
+  ],
+  "subjectOf": {
+    "id": "MATH",
+    "subject": "Mathematics"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Mathematics",
+    "id": "CSUS"
+  }
+}

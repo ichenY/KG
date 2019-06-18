@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "units": "1 - 15 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_LCOM 99",
+      "course name": "Learning Communities"
+    }
+  ],
+  "subjectOf": {
+    "id": "LCOM",
+    "subject": "Learning Communities"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Learning Communities",
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course will explore the ways in which K-12 schools are influenced by the economic, social and political environment. It will examine how educators can respond to the conditions and issues that exist, and in particular, how the individual teacher\u00bfs study and practice is shaped by and can transform public education.",
+      "id": "CSUS_EDCI 227",
+      "course name": "Transforming Curriculum in K-12"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Advanced study of critical pedagogy as a vision for shifting the power in education through a consideration of the sociocultural and sociopolitical issues in schooling. Course readings focus on the experiences of students in schools; school organization; and relationships between communities and schools. The emphasis is on American public school systems through an exploration of educational inequities, from theoretical and practical viewpoints.",
+      "id": "CSUS_EDCI 251",
+      "course name": "Power in Education"
+    }
+  ],
+  "subjectOf": {
+    "id": "EDCI",
+    "subject": "Education - Curriculum and Instruction"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Education - Curriculum and Instruction",
+    "id": "CSUS"
+  }
+}

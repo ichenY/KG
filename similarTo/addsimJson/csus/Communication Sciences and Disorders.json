@@ -1,0 +1,611 @@
+{
+  "courses": [
+    {
+      "term": "Fall only",
+      "description": "Physical production, acoustic characteristics of sounds of speech. International Phonetic Alphabet as applied to speech sounds; practice in phonetic transcription of dialects and deviant speech; applications in speech education, speech and hearing therapy. Introduction to physiological acoustics, psychoacoustics, and acoustic phonetics. Perception of speech including voice, resonance, individual speech segments; instrumentation for acoustic and perceptual analysis of speech. ",
+      "course name": "Physics of Sound and Phonetics",
+      "units": "4 Units",
+      "id": "CSUS_CSAD 110",
+      "prerequisite": [
+        "CHDV 30",
+        "DEAF 51",
+        "PSYC 2",
+        "STAT 1",
+        "CSAD 111"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Anatomical, physiological and neurological bases of speech. Covers development, normal structure and function. A general course in human anatomy is recommended as background. ",
+      "course name": "Anatomy and Physiology of the Speech Mechanism",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 111",
+      "prerequisite": [
+        "CHDV 30",
+        "DEAF 51",
+        "PSYC 2",
+        "STAT 1",
+        "CSAD 110"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Overview and comparison of normal and abnormal child language development from infancy through upper elementary school.  Establishes a framework for understanding language disorders including autism and pervasive developmental delay.  Includes theories of language acquisition, basic principles of language sampling, systems of language, elements of grammar, and preparation for informal and standardized assessment of language disorders.  Introduces students to the impact of variables such as attention deficit disorder, poverty, bilingualism on developing language skills. ",
+      "course name": "Language Science and Development",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 112",
+      "prerequisite": [
+        "CHDV 30",
+        "DEAF 51",
+        "PSYC 2",
+        "STAT 1",
+        "CSAD 110",
+        "CSAD 111"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Review of normal speech and language development. Overview of language, speech, and hearing development and disorders including multicultural issues.  Introduction to professional issues and ethics.",
+      "id": "CSUS_CSAD 120",
+      "course name": "Introduction to Language, Speech and Hearing Problems"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fluency - Characteristics of stuttering, etiologic theories and their implications for treatment. Management of stuttering and other disorders of rhythm. Voice - Current concepts regarding anatomy and physiology, etiology, assessment and treatment of hyperfunctional and organic disorders. ",
+      "course name": "Voice and Fluency",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 123",
+      "prerequisite": [
+        "CSAD 125",
+        "CSAD 126",
+        "PSYC 2",
+        "STAT 1",
+        "CHDV 30",
+        "DEAF 51"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Language disorders and the dynamic, reciprocal relationships between the disability, the client, his/her family, and the environment. Developmental and acquired neurogenic language disorders from infancy through adulthood will be covered including neurophysiology and neuropathology. ",
+      "course name": "Developmental and Acquired Neurogenic Language Disorders Across the Lifespan",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 125",
+      "prerequisite": [
+        "CSAD 112",
+        "CHDV 30",
+        "PSYC 2",
+        "STAT 1",
+        "DEAF 51"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Study of normal articulation and phonological development in children.  Discussion of etiologies and specific characteristics of articulatory-phonological disorders.  Introductory description of foundational specific assessment and treatment principles.  Analyzes case studies. ",
+      "course name": "Speech Sound Development and Disorders in Children: Aspects of Articulation and Phonology",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 126",
+      "prerequisite": [
+        "CSAD 110",
+        "CHDV 30",
+        "PSYC 2",
+        "STAT 1",
+        "DEAF 51"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Current concepts regarding anatomy and physiology, etiology, assessment, and treatment of craniofacial disorders, laryngectomy, tracheostomy and dysphagia. ",
+      "course name": "Introduction to Medical Speech Pathology",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 127",
+      "prerequisite": [
+        "CSAD 123",
+        "CSAD 125",
+        "CSAD 126",
+        "PSYC 2",
+        "STAT 1",
+        "CHDV 30",
+        "DEAF 51"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Introduction to audiology; anatomy and physiology of the hearing mechanism; pathologies of the ear; basic acoustics of sound and its relation to hearing and speech; school hearing screening; hearing conversation; audiometric interpretation and its relationship to speech language and learning disorders. ",
+      "course name": "Audiology and Hearing Testing",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 130",
+      "prerequisite": [
+        "CHDV 30",
+        "DEAF 51",
+        "PSYC 2",
+        "STAT 1",
+        "CSAD 110",
+        "CSAD 111"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "According to Tye-Murray, aural rehabilitation is \"intervention aimed at minimizing and alleviating the communication difficulties associated with hearing loss.\"  This course examines communication assessment and remediation approaches for children and adults with both peripheral and central auditory problems. ",
+      "course name": "Aural Rehabilitation",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 133",
+      "prerequisite": [
+        "CSAD 125",
+        "CSAD 126",
+        "CSAD 130",
+        "PSYC 2",
+        "STAT 1",
+        "CHDV 30",
+        "DEAF 51"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Taken by students as one of their senior level courses when they wish to pursue a Speech-Language Pathology Assistant (SLPA) licensure. Graduate students who have not had a similar course and wish to obtain this licensure will also need to enroll prior to pursuing the licensure.  ",
+      "course name": "SLPA Methods",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 140",
+      "prerequisite": [
+        "CSAD 145",
+        "CSAD 140L"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Taken by students as one of their senior level courses when they wish to pursue a Speech-Language Pathology Assistant (SLPA) licensure. Graduate students who have not had a similar course and wish to obtain this licensure will also need to enroll prior to pursuing the licensure. ",
+      "course name": "SLPA Practicum, Ethical and Legal Parameters",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 140L",
+      "prerequisite": [
+        "CSAD 145",
+        "CSAD 140"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Detailed look at characteristics of autism spectrum disorders (including Asperger's Syndrome, PDD-NOS and Autism). Issues related to diagnosis/assessment, early intervention, school-based intervention, functional therapeutic techniques and theories, and current \"hot topics\" in Autism (Theory of Mind, joint attention, biomedical issues, dietary restrictions, sensory regulation and intervention paradigms) will be a part of this course. ",
+      "course name": "Topics in Autism Spectrum Disorders",
+      "units": "2 Units",
+      "id": "CSUS_CSAD 142",
+      "prerequisite": [
+        "CSAD 112",
+        "CSAD 125",
+        "PSYC 2",
+        "STAT 1",
+        "CHDV 30",
+        "DEAF 51"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Identification, evaluation, and treatment of multicultural, multilingual clients with communication disorders. Discussion of normal second language acquisition, bilingual development, and cultural values related to effective service delivery for multicultural clients. ",
+      "course name": "Communication Disorders in Multicultural Populations",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 143",
+      "prerequisite": [
+        "CHDV 30",
+        "DEAF 51",
+        "PSYC 2",
+        "STAT 1",
+        "CSAD 110",
+        "CSAD 125",
+        "CSAD 126"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Directed observations of speech and hearing testing (screening and diagnostic); therapy and case staffing in schools, service clinics and hospitals. ",
+      "course name": "Supervised Field Observations",
+      "units": "1 Unit",
+      "id": "CSUS_CSAD 145",
+      "prerequisite": [
+        "CSAD 110",
+        "CSAD 111",
+        "CSAD 112",
+        "PSYC 2",
+        "STAT 1",
+        "CHDV 30",
+        "DEAF 51",
+        "CSAD 125",
+        "CSAD 126",
+        "CSAD 130"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ", students must fulfill the catalogue requirements listed in the catalogue section \"Undergraduate Clinical Assistantship. ",
+      "course name": "Introduction to Clinical Issues and Methods",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 146",
+      "prerequisite": [
+        "CHDV 30",
+        "DEAF 51",
+        "PSYC 2",
+        "STAT 1",
+        "CSAD 110",
+        "CSAD 111",
+        "CSAD 112",
+        "CSAD 125",
+        "CSAD 126",
+        "CSAD 130",
+        "CSAD 145",
+        "CSAD 146"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Current principles, methods and materials used by the speech-language pathologist to assess communication disorders are presented.  Issues related to a model of assessment, informal and formal testing, dynamic assessment, interview techniques, administration, scoring and interpretation of test results, report writing and related issues will be discussed. ",
+      "course name": "Assessment Procedures",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 147",
+      "prerequisite": [
+        "CSAD 125",
+        "CSAD 126",
+        "CSAD 145",
+        "PSYC 2",
+        "STAT 1",
+        "CHDV 30",
+        "DEAF 51"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Survey of research strategies and methods in Speech-Language Pathology and Audiology. Statistical procedures and single-subject designs. Emphasis on interpreting research reports in the literature and on developing research projects. Writing research proposals and reports. ",
+      "course name": "Research in Speech - Language Pathology and Audiology",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 148",
+      "prerequisite": [
+        "CHDV 30",
+        "DEAF 51",
+        "PSYC 2",
+        "CSAD 110",
+        "CSAD 111",
+        "CSAD 112",
+        "CSAD 125",
+        "CSAD 126",
+        "CSAD 130",
+        "CSAD 145"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Departmental petition required. ",
+      "description": "Individual projects or directed reading. Open only to students competent to carry on individual work. ",
+      "id": "CSUS_CSAD 199",
+      "course name": "Special Problems"
+    },
+    {
+      "units": "2 Units",
+      "term": "Spring only",
+      "description": "Biological, acoustic, psychological, development, linguistic, and cultural bases for motor speech disorders, focusing on augmentative and alternative communication an assistive technologies as well as their assessment and treatment techniques.",
+      "id": "CSUS_CSAD 217",
+      "course name": "AAC and Assistive Technologies"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Background pertinent to understanding neurophysiology associated with congenital and acquired dysarthria and dyspraxia. Descriptions and classifications of disorders and their causes, methods of assessment and treatment. ",
+      "id": "CSUS_CSAD 218",
+      "course name": "Motor Speech Disorders"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Development of strategies for counseling and interviewing clients with communication disorders and their families.  Development of specific skills such as effective listening, dealing constructively with emotions, working with families, and leading support groups.  Students will learn to deal effectively with the affective side of communication disorders to help clients benefit maximally from assessment and treatment.",
+      "id": "CSUS_CSAD 219",
+      "course name": "Counseling Techniques for Speech Pathologists and Audiologists"
+    },
+    {
+      "units": "4 Units",
+      "term": "Spring only",
+      "description": "In-depth study of language and cognitive disorders in adult, secondary to cerebrovascular accident, dementia, and/or traumatic brain injury. Assessment and intervention strategies are covered with particular emphasis on functional  outcomes.",
+      "id": "CSUS_CSAD 221",
+      "course name": "Neurogenic Language Disorders"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Language acquisition as a continuum from oral language to reading and writing, the role of the speech-language specialist in working with reading disabilities; the interactions among speech-language intervention and curricula areas including mathematics, spelling, handwriting, social studies and language arts; and various service delivery models, including collaborative consultation and learning centers. ",
+      "id": "CSUS_CSAD 222",
+      "course name": "Curriculum in Relation to Language -- Learning Disabilities in School-age Children"
+    },
+    {
+      "term": "Fall only",
+      "description": "In-depth study of childhood language disorders emphasizing the use of critical thinking to integrate evidence-based practice into discussion of current assessment and intervention practices for children with primary and secondary language impairment Specific topics include language sampling, early intervention, connecting intervention with Common Core State Standards, and team-based service delivery. Populations addressed include bilingual learners, those with working memory deficits, and autism spectrum disorder. The impact of the digital era and screen exposure on children with language impairment is discussed. ",
+      "course name": "Advanced Seminar in Child Language Disorders",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 223",
+      "prerequisite": [
+        "CSAD 125"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Swallowing problems from infancy through old age; growth patterns and failures in younger populations; feeding and swallowing problems related to normal aging processes and those associated with neurogenic disorders. Assessment and treatment. Includes theoretical and experiential components. Overview of the role of Speech-Language Pathologist in the hospital setting including learning how to read medical charts, basic insurance information, understanding other disciplines and how they affect the job and career of an SLP in the hospital, and medical terms/abbreviations. ",
+      "course name": "Dysphagia and the Medical Setting",
+      "units": "3 Units",
+      "id": "CSUS_CSAD 227",
+      "prerequisite": [
+        "CSAD 218",
+        "CSAD 221"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Diagnosis and treatment as applied to the current caseload, including articulation and phonological disorders and characteristics associated with English as a second language (ESL) populations. Methods for both children and adults. Staffings, case studies and presentations, demonstrations and class discussions. ",
+      "course name": "Methods: Speech Disorders I",
+      "units": "2 Units",
+      "id": "CSUS_CSAD 228A",
+      "prerequisite": [
+        "CSAD 125",
+        "CSAD 126",
+        "CSAD 143",
+        "CSAD 145",
+        "CSAD 146",
+        "CSAD 148",
+        "CSAD 229A"
+      ]
+    },
+    {
+      "term": " May be repeated.  ",
+      "description": "Techniques and materials for assessing and treating speech disorders emphasizing fluency and voice. Staffings and discussion of cases in the current caseload. ",
+      "course name": "Methods: Speech Disorders II",
+      "units": "1 Unit",
+      "id": "CSUS_CSAD 228B",
+      "prerequisite": [
+        "CSAD 123",
+        "CSAD 127",
+        "CSAD 228A",
+        "CSAD 229B"
+      ]
+    },
+    {
+      "term": " May be repeated.  ",
+      "description": "Techniques and materials for assessing and treating clients with disordered speech secondary to developmental disabilities and syndromes, degenerative diseases or complex problems associated with English as a second language (ESL). Discussions of cases in the current caseload. ",
+      "course name": "Methods: Speech Disorders III",
+      "units": "1 Unit",
+      "id": "CSUS_CSAD 228C",
+      "prerequisite": [
+        "CSAD 218",
+        "CSAD 228B",
+        "CSAD 221",
+        "CSAD 229C"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised clinical practice emphasizing articulation and phonological disorders, and phonological difficulties associated with English as a second language (ESL). Clients may include both children and adults. ",
+      "course name": "Practice: Speech Disorders I",
+      "units": "2 Units",
+      "id": "CSUS_CSAD 229A",
+      "prerequisite": [
+        "CSAD 228A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised clinical practice emphasizing clients whose speech is disrupted by abnormal rhythm and rate (e.g. stuttering and cluttering) or abnormal vocal pitch, loudness, and/or quality. ",
+      "course name": "Practice: Speech Disorders II",
+      "units": "2 Units",
+      "id": "CSUS_CSAD 229B",
+      "prerequisite": [
+        "CSAD 228B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised clinical practice emphasizing children and adults whose speech is disrupted secondary to developmental disorders and syndromes, degenerative disorders or complex problems. ",
+      "course name": "Practice: Speech Disorders III",
+      "units": "2 Units",
+      "id": "CSUS_CSAD 229C",
+      "prerequisite": [
+        "CSAD 228C"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised clinical practice in the administration of hearing screening tests. The student must furnish his/her own transportation. Fifteen to twenty hours for one unit. ",
+      "course name": "Practice: Hearing Screenings",
+      "units": "1 Unit",
+      "id": "CSUS_CSAD 241S",
+      "prerequisite": [
+        "CSAD 130"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Methods, materials and procedures in language disorders with emphasis on working with children and adults with peripheral hearing loss or central auditory processing disorders (CAPD). Includes staffing and discussion of cases in the current caseload. Focus on professional writing in the field of Speech-Language Pathology through the development of treatment plan proposals, critical responses, and clinic reports.  ",
+      "course name": "Methods: Language Disorders I & Professional Writing-Field of Speech-Language Pathology & Audiology.",
+      "units": "2 Units",
+      "id": "CSUS_CSAD 242A",
+      "prerequisite": [
+        "CSAD 243A"
+      ]
+    },
+    {
+      "term": " May be repeated.  ",
+      "description": "Techniques and materials for assessing and treating children with disordered language secondary to a myriad of contributing factors including delayed development, neurological problems and various genetic conditions. Discussion of cases in the current caseload. ",
+      "course name": "Methods: Language Disorders II",
+      "units": "1 Unit",
+      "id": "CSUS_CSAD 242B",
+      "prerequisite": [
+        "CSAD 223",
+        "CSAD 242A",
+        "CSAD 243B"
+      ]
+    },
+    {
+      "term": " May be repeated.  ",
+      "description": "Techniques and materials for assessing and treating speech and language disorders emphasizing disorders secondary to cerebral vascular accidents, traumatic brain injury, or other neurological disorders. Discussion of cases in the current caseload. ",
+      "course name": "Methods: Language Disorders III",
+      "units": "1 Unit",
+      "id": "CSUS_CSAD 242C",
+      "prerequisite": [
+        "CSAD 218",
+        "CSAD 242B",
+        "CSAD 221",
+        "CSAD 243C"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised clinical practice in language disorders emphasizing children and adults with peripheral hearing loss or central auditory processing disorders (CAPD). ",
+      "course name": "Practice: Language Disorders I",
+      "units": "2 Units",
+      "id": "CSUS_CSAD 243A",
+      "prerequisite": [
+        "CSAD 242A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised clinical practice with children demonstrating language disorders secondary to a myriad of contributing factors including delayed development, neurological problems, and various genetic conditions. ",
+      "course name": "Practice: Language Disorders II",
+      "units": "2 Units",
+      "id": "CSUS_CSAD 243B",
+      "prerequisite": [
+        "CSAD 242B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised clinical practice emphasizing adult clients whose speech and language are disordered secondary to neurogenically related problems such as cerebrovascular accident, traumatic brain injury, or other neurological disorders. ",
+      "course name": "Practice: Language Disorders III",
+      "units": "2 Units",
+      "id": "CSUS_CSAD 243C",
+      "prerequisite": [
+        "CSAD 243B",
+        "CSAD 242C"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Methods and materials for initial assessment in Speech-Language Pathology. ",
+      "course name": "Methods: Speech -- Language Assessment",
+      "units": "1 Unit",
+      "id": "CSUS_CSAD 244",
+      "prerequisite": [
+        "CSAD 147",
+        "CSAD 228B",
+        "CSAD 242B",
+        "CSAD 245"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised clinical practice in assessment with a variety of communication disorders in children and adults. Experience with interdisciplinary teams. ",
+      "course name": "Practice: Speech -- Language Assessment",
+      "units": "1 Unit",
+      "id": "CSUS_CSAD 245",
+      "prerequisite": [
+        "CSAD 244"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Assessment, scheduling and conducting language speech and hearing programs in schools. Related issues including scope of practice, managed care, interagency cooperation and transdisciplinary approaches. ",
+      "course name": "Speech/Language Internships Seminar",
+      "units": "2 Units",
+      "id": "CSUS_CSAD 250",
+      "prerequisite": [
+        "CSAD 228A",
+        "CSAD 228B",
+        "CSAD 228C",
+        "CSAD 229A",
+        "CSAD 229B",
+        "CSAD 229C",
+        "CSAD 241S",
+        "CSAD 242A",
+        "CSAD 242B",
+        "CSAD 242C",
+        "CSAD 243A",
+        "CSAD 243B",
+        "CSAD 243C",
+        "CSAD 244",
+        "CSAD 245",
+        "CSAD 295I",
+        "CSAD 295M",
+        "CSAD 295P",
+        "CSAD 295S"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised clinical practice in the school setting. Students are expected to conform to the schedules of the placement(s) to which they are assigned. The student must furnish his/her own transportation. ",
+      "course name": "Internship: Speech-Language and Hearing Services in Schools (SLHS)",
+      "units": "4 Units",
+      "id": "CSUS_CSAD 295I",
+      "prerequisite": [
+        "CSAD 250"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised clinical practice in a medical setting. Students are expected to conform to the schedules of the placement(s) to which they are assigned. The student must furnish his/her own transportation. ",
+      "course name": "Internship: Speech-Language Pathology in a Medical Setting",
+      "units": "4 Units",
+      "id": "CSUS_CSAD 295M",
+      "prerequisite": [
+        "CSAD 250"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised clinical practice in a private practice setting. Students are expected to conform to the schedules of the placement(s) to which they are assigned. The student must furnish his/her own transportation. ",
+      "course name": "Internship: Speech-Language Pathology in Private Practice",
+      "units": "4 Units",
+      "id": "CSUS_CSAD 295P",
+      "prerequisite": [
+        "CSAD 250"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Supervised clinical practice in a medical setting. Students are expected to conform to the schedules of the placement(s) to which they are assigned. The student must furnish his/her own transportation. ",
+      "course name": "Internship: Special Class Authorization Eligibility",
+      "units": "4 Units",
+      "id": "CSUS_CSAD 295S",
+      "prerequisite": [
+        "CSAD 250"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Departmental petition required. ",
+      "description": "Individual projects or directed reading. Open only to students who appear competent to carry on individual work. ",
+      "id": "CSUS_CSAD 299",
+      "course name": "Special Problems"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "Written exam comprised of eight questions. Examinees are given one and a half hours to complete each question. ",
+      "id": "CSUS_CSAD 500C",
+      "course name": "Culminating Experience: Comprehensive Exam"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "Independent work conducted under the supervision of faculty members. A project is a significant undertaking appropriate to the professional fields of Speech-Language Pathology or Audiology. It must evidence originality, independent thinking, appropriate form and organization, and a rationale. It must be described and summarized in a written document that includes the project's significance, objectives, methodology, and a conclusion or recommendation. Students must follow all department and university project guidelines. ",
+      "id": "CSUS_CSAD 500P",
+      "course name": "Culminating Experience: Project"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "Independent research study, conducted under the supervision of faculty members. Thesis must involve a research question or hypothesis, review of pertinent literature, collection and analysis of data. It is the student's responsibility to locate and recruit subjects, to collect data, and to write the thesis. Students must follow all department and university thesis guidelines. ",
+      "id": "CSUS_CSAD 500T",
+      "course name": "Culminating Experience: Thesis"
+    }
+  ],
+  "subjectOf": {
+    "id": "CSAD",
+    "subject": "Communication Sciences and Disorders"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Communication Sciences and Disorders",
+    "id": "CSUS"
+  }
+}

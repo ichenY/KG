@@ -1,0 +1,373 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "The primary objective of this course is to prepare future education administrators to lead for a just, equitable, and inclusive education in all educational environments.", 
+      "id": "CSUS_EDLP 200", 
+      "course name": "Diversity and Equity in Educational Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Primary objective is to provide a learning environment conducive to the development of knowledge, understanding and skills consistent with Multicultural Education and pluralistic philosophy. It will examine the advantages and complexities of a strategic approach to school and community relationships. Content will focus on public policy formation; community education role of culturally and linguistically diverse groups; current recommendations and emerging issues as they relate to the role of the school, family, and community in the ongoing debate of school reform.", 
+      "id": "CSUS_EDLP 200A", 
+      "course name": "Diversity and Equity in Educational Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "An introduction to theory and practice of educational leadership at the local, state, and federal levels. Specifically, students will examine strategies and techniques to effectively lead schools in the 21st century.", 
+      "id": "CSUS_EDLP 201", 
+      "course name": "Foundations of Educational Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be taken twice for credit (Adm Credential Interns). ", 
+      "description": "Introduction to theory and practice of educational administration at the local, state, and federal levels including but not limited to the structure and function of administration, organizational behavior, interpersonal relationships, trends affecting contemporary practice, and the changing nature of school reform. Designed to encourage introspection and the reflective process to examine students' values, beliefs and needs. Students will examine strategies for integrating new information and experiences into their evolving professional knowledge base. ", 
+      "id": "CSUS_EDLP 201A", 
+      "course name": "Foundations of Educational Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "The study of school law and ethical decision making as it applies to school leadership including federal and state decisions affecting the educational setting.", 
+      "id": "CSUS_EDLP 202", 
+      "course name": "School  Law and Ethics of Educational Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of school law as set forth in the common law, state, and federal constitutions, statutes, judicial decisions, and in the rules and regulations of state departments and local units of administration. ", 
+      "id": "CSUS_EDLP 202A", 
+      "course name": "Legal Basis of Education"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "School finance with focus on the State of California school system.", 
+      "id": "CSUS_EDLP 203", 
+      "course name": "Foundations of Educational Leadership"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "School finance and business administration with focus on the California school system. ", 
+      "course name": "Financial Resources Planning and Allocation", 
+      "units": "3 Units", 
+      "id": "CSUS_EDLP 203A", 
+      "prerequisite": [
+        "EDLP 201"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the organization, leadership, and management of special education and categorical programs. Provides an overview of the historical, philosophical, ethical and legal roots of education for both special education and students served by state and federal categorical programs.", 
+      "id": "CSUS_EDLP 204B", 
+      "course name": "Special Education and Categorical Programs"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Instructional leadership that focuses on the diverse needs of students through the collection and analysis of data, state standards, accountability systems and culturally relevant pedagogy. Theory and practice will be explored on the best practice of supervisory techniques, classroom observation, and teacher improvement.", 
+      "id": "CSUS_EDLP 205", 
+      "course name": "Instructional Leadership"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Focuses on the significance of instructional leadership in the design and implementation of curriculum leading to high achievement for all students in K-12 schools. Particular attention will be given to current state and federal school accountability requirements, standards-based curriculum, the use of disaggregated student achievement data to design an instructional program appropriate to and effective for a diverse student population, and best research-based instructional practices. ", 
+      "course name": "Curriculum and Instructional Leadership in K-12 Schools", 
+      "units": "3 Units", 
+      "id": "CSUS_EDLP 205A", 
+      "prerequisite": [
+        "EDLP 201"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Supervisory theory and technique, including assessment of educational innovations, supervision of teaching, development of strategies for in-service programming, and the roles of various groups and individuals in the improvement of instruction. ", 
+      "id": "CSUS_EDLP 206A", 
+      "course name": "Supervision and Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination, synthesis, and application of contemporary leadership/management theory and processes at the site or unit level; consideration given to the expanding roles and current requirements in the administration of educational enterprises. Lecture three hours per week. ", 
+      "id": "CSUS_EDLP 208A", 
+      "course name": "School Leadership/Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Students will engage in examination, synthesis, and application of human resources and management practices necessary to effectively serve as school leader in P-12 educational setting.", 
+      "id": "CSUS_EDLP 209", 
+      "course name": "Organizational Systems and Human Resources"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines human resources and personnel practices in educational organizations. Key themes and issues in personnel will be presented with broad assumptions regarding dominant practices and their application to establishing positive human relations.", 
+      "id": "CSUS_EDLP 209A", 
+      "course name": "Human Resources and Supervision"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes higher education including its historical, political, philosophical and social aspects with emphasis upon the implications of crucial issues for leaders in higher education.  An examination of the historical origins of contemporary practices and discourse and an analysis of the complex relationships between society and institutions of higher education: patterns of governance and coordination; diversity; overview of organizational and administrative structure; faculty; curriculum; student affairs, policy, and demographic trends. ", 
+      "id": "CSUS_EDLP 221", 
+      "course name": "Foundations in Higher Education Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Engages participants in a process of inquiry and reflection through self-critique, peer critique, and the dialogical examination of our assumptions, ideas, and understandings that promote intellectual growth.  Participants will examine and discuss the literature, research, and discourse concerning theory, policy, and practice about diversity and its relation to higher education. ", 
+      "id": "CSUS_EDLP 222", 
+      "course name": "Diversity in Higher Education"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Administration of student services and student affairs in colleges and universities.  Principles that guide professional practice and decision making will be explored, as will the roles and responsibilities of student affairs professionals.  Students will have the opportunity to explore current and future issues and directions in student services. ", 
+      "id": "CSUS_EDLP 223", 
+      "course name": "Advanced Seminar: Student Affairs Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Program development, processes, and procedures, including needs assessment and writing goals and objectives.  An exploration of administrative roles and responsibilities.  Formative, summative, and impact evaluation strategies, including empowerment evaluation, planning for evaluation, and analyzing and applying evaluation data for program improvement. ", 
+      "id": "CSUS_EDLP 224", 
+      "course name": "Advanced Seminar: Program Development and Evaluation"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Links analysis with action through a survey of the ethical, legal, and professional issues facing the public or private education administrator.  Underlying decision making is to understand the basic nature of the academic enterprise and apply social and moral values to the management of higher education and ethical decision making. ", 
+      "id": "CSUS_EDLP 225", 
+      "course name": "Advanced Seminar: Ethical Decision Making"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explore and analyze the leadership styles, qualities and characteristics that are common to effective leaders and the leadership skills and knowledge necessary to effectively lead in California's community colleges. The history, mission, and culture of the California Community College system and the students it serves will also be examined. Topics such as consultation, shared governance, legislative and accrediting bodies, and other external groups that influence policy and decision-making in higher education will be discussed.", 
+      "id": "CSUS_EDLP 226", 
+      "course name": "Meeting the Leadership Challenge"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Participants will explore changing demographics, accountability regarding statewide mandates, reporting regulations, and accreditation, new technology and other factors impacting California's community college student services programs and professionals. Gain an understanding of the philosophy and mission of student services initiatives and programs and student development theory. Examine the role of faculty as leaders in curriculum, instruction and assessment and student success. Understand the purposes and uses of research and technology to address student outcomes, teaching and learning, institutional effectiveness, and decision-making.", 
+      "id": "CSUS_EDLP 227", 
+      "course name": "Leading the Way for Student Success: Student and Instructional Services"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "California community college leaders are presented with increased legislative and public pressure for accountability while in an era of chronic and disparate under-funding of the system. Understand the relationship between higher education finance and the overall fiscal operations of California's community college system. Gain a broad knowledge of human resource laws and regulations and explore issues of faculty and staff diversity, part-time and full-time faculty, collective bargaining, affirmative action, staff development and recruitment, and selection and retention of staff.", 
+      "id": "CSUS_EDLP 228", 
+      "course name": "Innovative Leadership for Troubled Times: Budget/Finance and Human Resources"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This individualized seminar is designed to extend research knowledge, and provide direction in the use of library/professional education resources, as well as exposure to sample theses and projects using APA style.  Reviews research methods and a review of the literature and provides instruction in the appropriate academic writing style and format for academic presentations. ", 
+      "course name": "Master of Arts Thesis/Project Seminar", 
+      "units": "3 Units", 
+      "id": "CSUS_EDLP 230", 
+      "prerequisite": [
+        "EDLP 250"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Graduate Writing Intesive (GWI) course.   ", 
+      "description": "Studies qualitative and quantitative methods in the development of reliable knowledge in the field of education. Includes identification and formulation of research problems, research designs and presentation of reports representative of different research strategies. Establishes and improves students' professional and academic writing skills in preparation for leadership duties. Classified students are encouraged to take this course early in their graduate programs. ", 
+      "id": "CSUS_EDLP 250", 
+      "course name": "Education Research."
+    }, 
+    {
+      "term": ".  ", 
+      "description": "Experience and practice in observation and analysis of school environment, including disaggregated student achievement data. ", 
+      "course name": "Field Experience Seminar", 
+      "units": "3 Units", 
+      "id": "CSUS_EDLP 255", 
+      "prerequisite": [
+        "EDLP 200", 
+        "EDLP 201", 
+        "EDLP 205", 
+        "EDLP 206A", 
+        "EDLP 401", 
+        "EDLP 402", 
+        "EDLP 401", 
+        "EDLP 402"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Develop a comprehensive theoretical/conceptual framework from which to view current research surrounding Organizational Leadership and Staff Teambuilding.  Special emphasis will be on providing students with experiential learning activities beyond the classroom and incorporate challenging outdoor components.  Students will develop a resource portfolio relevant to their unique work situations. ", 
+      "id": "CSUS_EDLP 270", 
+      "course name": "Advanced Seminar: Applied Leadership and Staff Teambuilding"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Systematic planning theory and skills with particular attention to use of these skills in the development of grant proposals. Students will use funding agency regulations and guidelines relative to program development and implementation, and will develop a proposal which may be submitted to a funding agency.", 
+      "id": "CSUS_EDLP 273", 
+      "course name": "Advanced Seminar: Grants, Proposals and Systematic Planning"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Engage participants in a process of ongoing assessment of their administrative practice as school leaders. Such ongoing assessment uses multiple points of data, multiple sources of information, and multiple feedback sources such as colleagues and mentors. ", 
+      "id": "CSUS_EDLP 277", 
+      "course name": "Advanced Seminar: Assessment"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Through lecture and discussion, philosophical and practical problems of supervision of instruction will be explored. Current research on effective teaching, staff development, supervisory techniques, and theories of learning for both students and adults will be examined as a basis for sound supervision practices. ", 
+      "course name": "Advanced Seminar: Supervision and Leadership", 
+      "units": "3 Units", 
+      "id": "CSUS_EDLP 286", 
+      "prerequisite": [
+        "EDLP 206A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Selected current topics of concern to those involved with the administration of schools and other educational systems.", 
+      "id": "CSUS_EDLP 292", 
+      "course name": "Advanced Seminar: Current Topics in Educational Leadership and Policy Studies"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Induction Seminar leads to the training experience of the Professional Administrative Services Credential candidate. Facilitates the interaction among candidate, district mentor, and university advisor, per standards of the Commission on Teaching Credentialing. Through guided practice, candidates are prompted and supported in developing an individualized induction plan. This induction plan includes mentoring, academic program at the university and non-campus components.", 
+      "id": "CSUS_EDLP 293", 
+      "course name": "Induction Seminar"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "Each student conducts an individual project to fulfill the culminating experience graduation requirement. The course covers application of research in education to the professional practice of educational leadership, and integrates the accumulated knowledge, skills and strategies delivered in the program. This course is the culmination of the MA in Educational Leadership/Higher Education Leadership, leading to completion of the final project and the 4-semester degree. ", 
+      "id": "CSUS_EDLP 296A", 
+      "course name": "Capstone Research Project"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Geared specifically to meet the needs of those leaders in higher education.  Those new to technology or those who want to learn more about using technology to lead programs and institutions of high education.  Participants will be provided with an array of appropriate educational technology resources to drive decision making practices.  They will also learn various programs and software used to address enrollment management, admissions, records, fiscal matters, etc. ", 
+      "id": "CSUS_EDLP 296D", 
+      "course name": "Leading with Technology in Institutions of Higher Education"
+    }, 
+    {
+      "units": "1 - 4 Units", 
+      "term": " Departmental petition required.  Professional Credential Students only may take up to 8 units. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_EDLP 299", 
+      "course name": "Special Problems  Educational Leadership"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Departmental petition required. ", 
+      "description": "Individual projects or directed reading - for students working on their culminating MA requirements. ", 
+      "id": "CSUS_EDLP 299T", 
+      "course name": "Special Problems -  Educational Leadership"
+    }, 
+    {
+      "units": "8 Units", 
+      "term": "Fall, Spring", 
+      "description": "First semester of the on-the-job internship experience. Interns are supervised in the administrative roles by sponsoring employing agency, as well as by university faculty. Limited to, and required of, internship candidates for the Preliminary Administrative Services Internship Credential.", 
+      "id": "CSUS_EDLP 401", 
+      "course name": "Internship On-the-Job Experience"
+    }, 
+    {
+      "units": "8 Units", 
+      "term": "Fall, Spring", 
+      "description": "Second semester of the on-the-job internship experience. Interns are supervised by sponsoring employing agency, as well as by university sponsors. Limited to, and required of, candidates for the Preliminary Administrative Services Internship Credential.", 
+      "id": "CSUS_EDLP 402", 
+      "course name": "Internship On-the-Job Experience"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ".) Limited to, and required of, candidates for the Preliminary Administrative Services Internship Credential. ", 
+      "course name": "Internship On-the-Job Experience", 
+      "units": "8 Units", 
+      "id": "CSUS_EDLP 403", 
+      "prerequisite": [
+        "EDLP 413", 
+        "EDLP 401"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ".) ", 
+      "course name": "Internship On-the-Job Experience", 
+      "units": "8 Units", 
+      "id": "CSUS_EDLP 404", 
+      "prerequisite": [
+        "EDLP 414", 
+        "EDLP 403"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Third semester of the supplemental internship experience. Provides first-hand visitations and experiences in various educational and community agencies at state, county, district, and local school levels; additional supervised experience for candidates; and seminar experiences in observation and analysis of school environments for candidates for the Preliminary Administrative Services Internship Credential. ", 
+      "course name": "Supplemental Internship Experience", 
+      "units": "6 Units", 
+      "id": "CSUS_EDLP 413", 
+      "prerequisite": [
+        "EDLP 403"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Fourth semester of the supplemental internship experience. Provides first-hand visitations and experiences in various educational and community agencies at state, county, district, and local school levels; additional supervised experience for candidates; and seminar experiences in observation and analysis of school environments for candidates for the Preliminary Administrative Services Internship Credential. ", 
+      "course name": "Supplemental Internship Experience", 
+      "units": "6 Units", 
+      "id": "CSUS_EDLP 414", 
+      "prerequisite": [
+        "EDLP 404"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "On-the-job experience in which the candidate assumes responsibility for observation and analysis of school environments including leadership responsibilities, supervision of instructional program, and overall school climate. ", 
+      "course name": "Field Study in Educational Leadership", 
+      "units": "3 Units", 
+      "id": "CSUS_EDLP 495A", 
+      "prerequisite": [
+        "EDLP 255"
+      ]
+    }, 
+    {
+      "units": "8 Units", 
+      "term": "Fall, Spring", 
+      "description": "Candidates for the Professional Administrative Services Credential are supervised in full-time administrative roles by sponsoring employment agency and university faculty. ", 
+      "id": "CSUS_EDLP 498", 
+      "course name": "Advanced Administrative Field Experience"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis or project approved for the Master's degree. ", 
+      "id": "CSUS_EDLP 500A", 
+      "course name": "Master of Arts Thesis/Project"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis or project approved for the Master's degree. ", 
+      "id": "CSUS_EDLP 500B", 
+      "course name": "Master of Arts Thesis/Project"
+    }
+  ], 
+  "subjectOf": {
+    "id": "EDLP", 
+    "subject": "Educational Leadership and Policy Studies"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Educational Leadership and Policy Studies", 
+    "id": "CSUS"
+  }
+}

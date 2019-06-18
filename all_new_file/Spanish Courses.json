@@ -1,0 +1,28 @@
+{
+  "subjectOf": {
+    "subject": "Spanish Courses",
+    "id": "SPA"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Spanish Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_SPA 103",
+      "course name": "Beginning Spanish I",
+      "units": "3 Credits",
+      "description": "This course is designed for beginning Spanish speakers with no previous college course work in Spanish. The goal of this course is to enable students to acquire a basic mastery of the following four language skills: listening, speaking, reading, and writing. The course will emphasize practice of grammar and communication skills."
+    },
+    {
+      "id": "AshFord_SPA 104",
+      "course name": "Beginning Spanish II",
+      "units": "3 Credits",
+      "description": "Continued study of grammar and vocabulary of the Spanish language and study of the Spanish-speaking cultures. Emphasis on speaking, reading, and writing skills.",
+      "prerequisite": [
+        "SPA 103"
+      ]
+    }
+  ]
+}

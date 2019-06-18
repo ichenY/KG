@@ -1,0 +1,744 @@
+{
+  "subjectOf": {
+    "id": "BMED",
+    "subject": "Biomedical Engineering"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Biomedical Engineering"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_BMED 101",
+      "course name": "Introduction to the Biomedical Engineering Major",
+      "units": "1 unit",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduction to major topics in Biomedical Engineering. Time management, study skills and class scheduling necessary for academic success. Overview of university services. Professional pathways and ethics. Review of career opportunities. 1 seminar."
+    },
+    {
+      "id": "CalPoly_BMED 102",
+      "course name": "Introduction to Biomedical Engineering Analysis",
+      "prerequisite": [
+        "BMED 101",
+        "MATH 141"
+      ],
+      "units": "1 unit",
+      "term": [
+        "Winter"
+      ],
+      "description": "General introduction to bioengineering analysis applied to representative topics in biomechanics, biofluidics, bioinstrumentation, biomaterials, biotechnology, and related areas. Review of technological needs, testing procedures, governmental regulation, quality of life, and ethical issues. 1 seminar."
+    },
+    {
+      "id": "CalPoly_BMED 212",
+      "course name": "Introduction to Biomedical Engineering Design",
+      "prerequisite": [
+        "MATH 143"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "General introduction to bioengineering design, including examples of engineering analysis and design applied to representative topics in biomechanics, bioinstrumentation, biomaterials, biotechnology, and related areas. A review of technological needs, design methodology, testing procedures, statistical analysis, governmental regulations, evaluation of costs and benefits, quality of life, and ethical issues.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 213",
+      "course name": "Bioengineering Fundamentals",
+      "prerequisite": [
+        "MATH 142"
+      ],
+      "units": "2 units",
+      "term": [
+        "ge area b2"
+      ],
+      "description": "Treatment of the engineering applications of biology. Genetic engineering and the industrial application of microbiology. Systems physiology with engineering applications. Structure and function relationships in biological systems. The impact of life on its environment. Course may be offered in classroom - based or online format. 2 lectures. Crosslisted as BMED / BRAE213. Fulfills GE B2."
+    },
+    {
+      "id": "CalPoly_BMED 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 310",
+      "course name": "Biomedical Engineering Measurement and Analysis",
+      "prerequisite": [
+        "EE 201",
+        "CSC 231",
+        "CSC 232"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Fundamentals of biomedical engineering analysis. Use and application of tools and analytical methods used by bioengineers.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 330",
+      "course name": "Intermediate Biomedical Design",
+      "prerequisite": [
+        "MATE 210",
+        "ME 328",
+        "STAT 312"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Design of biomedical devices and systems using various machine elements and components including gears, welded connections, prime movers. Decision modeling based on technical and economic feasibility.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 355",
+      "course name": "Electrical Engineering Concepts for Biomedical Engineering",
+      "prerequisite": [
+        "EE 201",
+        "MATH 344"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Introduction to electrical engineering concepts for biomedical engineers. Continuation of basic circuit analysis. Steady state AC circuit analysis and phasor concepts. Application of the Laplace Transform to transient circuit analysis. Introduction to digital logic gates, combinational and sequential logic circuits.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "prerequisite": [
+        "ME 212"
+      ],
+      "units": "2-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total degree credit limited to 4 units. Total credit",
+      "grading": "limited to 6 units"
+    },
+    {
+      "id": "CalPoly_BMED 401",
+      "course name": "Biomedical Entrepreneurship",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Identification and evaluation of commercial opportunities in the healthcare industry. Methods necessary for rapid iteration and market validation of early - stage prototypes, with emphasis on issues critical to biomedical products, including intellectual property, FDA submission, funding sources, and business models.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 404",
+      "course name": "Applied Finite Element Analysis",
+      "prerequisite": [
+        "BMED 410",
+        "CE 207"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Finite element based solutions to engineering problems with an emphasis on elastostatic problems in structural mechanics. The power and pitfalls associated with the finite element method highlighted through practical modeling assignments. Introduces the use of commercial finite element codes.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as BMED / CE / ME404."
+    },
+    {
+      "id": "CalPoly_BMED 409",
+      "course name": "Interdisciplinary Study in Biomechanics",
+      "prerequisite": [
+        "KINE 403"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Examination of human motion biomechanics. Experimental and analytical methods in motion analysis based on rigid body dynamics. Protocols for protection of human subjects in research. Hypothesis - driven research in interdisciplinary teams, including written proposal development and written / oral communication of results to a scientific audience.",
+      "format": "1 lecture, 3 activities.",
+      "other": "Crosslisted as BMED / KINE / ME409."
+    },
+    {
+      "id": "CalPoly_BMED 410",
+      "course name": "Biomechanics",
+      "prerequisite": [
+        "CE 204",
+        "ME 212"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to physiological systems, with emphasis on structure and function of major tissues and organs. Application of mechanics to understand the behavior of these tissues and organs at gross and microscopic levels. Bioelastic solids. Rigid body biomechanics. Biofluids, basic mechanical properties of collagen and elastin, bone, cartilage, muscles, blood vessels, and other living tissues. Application of continuum mechanics to hard and soft tissues. Biomechanical engineering design for clinical applications.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 420",
+      "course name": "Principles of Biomaterials Design",
+      "prerequisite": [
+        "CE 204",
+        "MATE 210"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Fundamentals of materials science as applied to bioengineering design. Biocompatibility of materials. Materials characterization and design. Natural and synthetic polymeric materials. Wound repair, foreign body response, blood clotting. Transplantation biology, artificial organs, and tissue engineering. Medical devices, government regulations, and ethical issues.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 422",
+      "course name": "Medical Device Evaluation and the FDA Approval Process",
+      "prerequisite": [
+        "BMED 420"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Overview of the path to market for new medical devices, including nonclinical and clinical evaluation and the regulatory process. Course covers bench, in vitro, and in vivo models, GLP studies, clinical trials, Quality Systems, and FDA clearance and approval processes.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 425",
+      "course name": "Biomedical Engineering Transport",
+      "prerequisite": [
+        "ME 302",
+        "ME 341"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Mass transfer in solids, liquids, and gases with application to biological systems. Free and facilitated diffusion. Convective mass transfer. Diffusion - reaction phenomena. Active transport. Biological mass transfer coefficients. Nonequilibrium thermodynamic analysis of transport phenomena. The osmotic effect. Diffusion and exchange in biological systems.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 430",
+      "course name": "Biomedical Modeling and Simulation",
+      "prerequisite": [
+        "BMED 310"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Computational methods for anatomical modeling and boundary value problems in the biomechanics of tissues and biomedical devices. Nonlinear biodynamics, heat flow, cardiac impulse propagation, anatomic modeling, and biomechanics.",
+      "format": "1 lecture, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 432",
+      "course name": "Micro/Nano System Design",
+      "prerequisite": [
+        "BMED 212 or MATE 210"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Fundamentals of designing micro / nano scale systems employing sensors, actuators and intelligent controls. Explore mechanics, electronics, heat transfer, photonics, fluid mechanics and biometrics at the micrometer and nanometer scale. Discover how scaling impacts design criteria. Investigate the integration of science and engineering and evaluate applications in living systems. Not open to students with credit in MATE550.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 434",
+      "course name": "Micro/Nano Fabrication",
+      "prerequisite": [
+        "BMED 212 or MATE 210"
+      ],
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Fabrication science and technology for creating micro and nano scale devices. Explore basic processes such as oxidation, diffusion, ion implantation, etching, chemical and physical vapor deposition, photolithography. Develop an understanding of the science of each process and how to select the right steps for fabricating electronic, photon and micro - electro - mechanical systems devices. 3 lectures. Crosslisted as BMED434/EE423/MATE430."
+    },
+    {
+      "id": "CalPoly_BMED 435",
+      "course name": "Microfabrication Laboratory",
+      "units": "1 unit",
+      "term": [
+        "Winter"
+      ],
+      "description": "Application of basic processes involved in microfabrication : cleanroom protocol, oxidation, diffusion, photolithography etching and sputtering. Explore process development through fabrication of electronic, photonic or microfluidic devices. Each student will be part of a team that will fabricate and test a device.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 436",
+      "course name": "Characterization of Micro/Nano Scale Structures",
+      "prerequisite": [
+        "BMED 212 or MATE 210"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Fundamentals of material 's surface analysis techniques for exploring structure and composition of micro / nano scale features and films will be assessed. Students will develop data analytics for deciding which technique to apply for morphological, elemental or chemical composition analysis.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 440",
+      "course name": "Bioelectronics and Instrumentation",
+      "prerequisite": [
+        "BMED 310",
+        "EE 201"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Analog and digital circuits in bioinstrumentation. Biomedical signals in continuous and discrete systems. Sampling and digital signal processing. Ultrasound, MRI, CT, Bioelectromagnetics. Electrokinetics. Biophysical phenomena, transducers, and electronics as related to the design of biomedical instrumentation. Potentiometric and amperometric signals and amplifiers. Biopotentials, membrane potentials, chemical sensors. Mechanical transducers for displacement, force and pressure. Temperature sensors. Flow sensors. Light - based instrumentation. Electrical safety.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 445",
+      "course name": "Biopotential Instrumentation",
+      "prerequisite": [
+        "BMED 440"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Focus on the principles associated with instrumentation used to detect surface biopotentials. Emphasis on circuit level design and laboratory implementation of systems used to detect ECG, EMG and EEG signals. Development of practical experience with analog electronic instrumentation used in the design and testing process. A system level design project related to surface biopotential detection and recording.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_BMED 450",
+      "course name": "Contemporary Issues in Biomedical Engineering",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Current and evolving topics in biomedical engineering, including medical and industrial applications. Exploration of contemporary issues in biomedical engineering, including technical and societal implications. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 16 units.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 455",
+      "course name": "Biomedical Engineering Design I",
+      "prerequisite": [
+        "BMED 410"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Engineering design methodology, design process, project planning, decision making, modeling, construction, and testing of an open - ended design project. Preparation of formal engineering reports. Statistical analysis. Governmental regulations. Bioethical issues.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_BMED 456",
+      "course name": "Biomedical Engineering Design II: Senior Project",
+      "prerequisite": [
+        "BMED 455"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Engineering design methodology, design process, project planning, decision making, modeling, construction, and testing of an open - ended design project. Preparation of formal engineering reports. Statistical analysis. Governmental regulations. Bioethical issues.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_BMED 459",
+      "course name": "Senior Thesis",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Selection and completion of senior thesis under faculty supervision. Projects typical of problems which graduates must solve in their fields of employment. Thesis results presented in a formal report. Minimum commitment of 120 hours."
+    },
+    {
+      "id": "CalPoly_BMED 460",
+      "course name": "Engineering Physiology",
+      "prerequisite": [
+        "BMED 310"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Physiology for biomedical engineering students, with an emphasis on control mechanisms and engineering principles. Engineering aspects of basic cell functions ; biological control systems ; muscle ; neural ; endocrine, and circulatory systems, digestive, respiratory, renal, and reproductive systems ; regulation of metabolism, and defense mechanisms.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "1 to 4 laboratories."
+    },
+    {
+      "id": "CalPoly_BMED 481",
+      "course name": "Senior Project Design Laboratory I",
+      "prerequisite": [
+        "IME 314",
+        "MATH 244",
+        "ME 302"
+      ],
+      "units": "1 unit",
+      "term": [
+        "tbd"
+      ],
+      "description": "Selection and development of project by individuals or team which is typical of problems graduates must solve in their fields of employment or applied research. Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning, scheduling and research. Formulation of outline, literature review, and project schedule.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 482",
+      "course name": "Senior Project Design Laboratory II",
+      "prerequisite": [
+        "BMED 481"
+      ],
+      "units": "1 unit",
+      "term": [
+        "tbd"
+      ],
+      "description": "Continuation of BMED481. Continuation of project by individuals or team which is typical of problems graduates must solve in their fields of employment or applied research. Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning, scheduling and research. Formulation of outline, literature review, and project schedule.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 483",
+      "course name": "Senior Project Design Laboratory III",
+      "prerequisite": [
+        "BMED 482"
+      ],
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Continuation of BMED482. Continuation of project by individuals or team which is typical of problems graduates must solve in their fields of employment or applied research. Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning, scheduling and research. Formulation of outline, literature review, and project schedule.",
+      "format": "2 laboratories."
+    },
+    {
+      "id": "CalPoly_BMED 495",
+      "course name": "Cooperative Education Experience",
+      "units": "1-12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. A fully developed formal report and evaluation by work supervisor is required. Credit / No Credit grading only. No major credit allowed ; total credit",
+      "grading": "limited to 24 units."
+    },
+    {
+      "id": "CalPoly_BMED 500",
+      "course name": "Individual Study",
+      "units": "2-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual investigation, research, studies or surveys of selected problems. Advanced study planned and completed under the direction of faculty. Open to graduate students who have demonstrated the ability to do independent work. Total credit",
+      "grading": "limited to 8 units"
+    },
+    {
+      "id": "CalPoly_BMED 510",
+      "course name": "Principles of Tissue Engineering",
+      "prerequisite": [
+        "BIO 361"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Exploration of areas including cell source and isolation, scaffold selection and modification, tissue cultivation and bioreactor design, and patient implantation. Applications of tissue engineering for creating skin, cartilage, blood vessels, and other tissues.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 512",
+      "course name": "Biomedical Engineering Horizons",
+      "prerequisite": [
+        "MATH 143",
+        "CHEM 125",
+        "PHYS 131 or PHYS 141",
+        "BIO 161 or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Examination of the advances in nanotechnology, micro - electro - mechanical systems, materials and clinical technology. Relationship between modern medical achievements and advances in engineering and science, the biomedical engineering industry, and the use of technology in a human context.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 515",
+      "course name": "Introduction to Biomedical Imaging",
+      "prerequisite": [
+        "PHYS 132",
+        "MATH 244"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Fundamental principles and applications of biomedical imaging, modalities in medicine. Topics focus on optical imaging techniques, such as brightfield, fluorescence, confocal, multiphoton, DIC, OCT, SEM, and other advanced microscopy techniques.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_BMED 520",
+      "course name": "Introduction to Biomedical Engineering",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Advanced treatment of the basic engineering sciences in the biomedical engineering context. For the student who has had little prior exposure to biomedical engineering, but has either a strong engineering or a strong science background.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 525",
+      "course name": "Skeletal Tissue Mechanics",
+      "prerequisite": [
+        "CE 204",
+        "BMED 460"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Overview of the mechanical properties of various tissues in the musculoskeletal system, the relationship of these properties to anatomic and histologic structures, and the changes in these properties caused by aging, disease, overuse, and disuse. Tissues covered include bone, cartilage and synovial fluid, ligament, and tendon.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 530",
+      "course name": "Biomaterials",
+      "prerequisite": [
+        "BIO 161",
+        "MATE 210"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Structure - function relationships for materials in contact with biological systems. Interactions of materials implanted in the body. Histological and hematological considerations including foreign body responses, inflammation, carcinogenicity, thrombosis, hemolysis, immunogenic and toxic properties. Microbial interaction with material surfaces, degradation. 4 lectures. Crosslisted as BMED / MATE530."
+    },
+    {
+      "id": "CalPoly_BMED 535",
+      "course name": "Bioseparations",
+      "prerequisite": [
+        "BMED 425",
+        "ME 341 or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Advanced topics in physicochemical hydrodynamics, bioseparations and microfluidic bioseparations, which include the key aspects of electrokinetics, colloid science and suspension mechanics in bioseparations. Understanding key separation design parameters through theoretical and numerical models.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 541",
+      "course name": "Microcirculation",
+      "prerequisite": [
+        "BMED 460"
+      ],
+      "units": "3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Topic groups include microvessel wall structure, network architecture, flow regulation, transport, inflammation, angiogenesis, arteriogenesis, and rarefaction. Additional focus on patho - physiology and the engineering approaches to assess and treat microvascular dysfunction. Not open to students with credit",
+      "grading": "in BMED 540.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 542",
+      "course name": "Microcirculation Laboratory",
+      "prerequisite": [
+        "BMED 460"
+      ],
+      "units": "1 unit",
+      "term": [
+        "tbd"
+      ],
+      "description": "Laboratory procedures include direct visualization of microvessels by microscopy and indirect assessment by skin temperature, evaluation of microvascular networks by casting and immunostaining, and assessment of vascular wall structure by histology.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 550",
+      "course name": "Current and Evolving Topics in Biomedical Engineering",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Current topics in biomedical engineering, including medical and industrial applications. Exploration of detailed technical treatment of contemporary issues in biomedical engineering, and examination of technical and societal implications of these subjects. The Schedule of Classes will list topics selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 555",
+      "course name": "Neural Systems Simulation and Modeling",
+      "prerequisite": [
+        "MATH 244",
+        "BMED 440"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "The biophysical basis of the Hodgkin - Huxley active membrane model. A detailed description of the dynamics of voltage gated ion channels. The complete Hodgkin - Huxley active membrane model, with an emphasis on its use in simulating the electrical activity of nerve cells. Equivalent circuit/ circuit simulator based approaches to modeling Hodgkin - Huxley neurons.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 560",
+      "course name": "Cell Transplantation and Biotherapeutics",
+      "prerequisite": [
+        "ASCI 438",
+        "BIO 361"
+      ],
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Topics include the etiology, patho - physiology, and rodent models for various forms of disease, such as inflammatory, autoimmune, and monogenic diseases, as well as nucleic acid, protein, and cellular - based therapies for these conditions. Not open to students with credit",
+      "grading": "in BMED 545.",
+      "format": "2 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 561",
+      "course name": "Cell Transplantation and Biotherapeutics Laboratory",
+      "prerequisite": [
+        "ASCI 438",
+        "BIO 361",
+        "STAT 218 or STAT 312"
+      ],
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Procedures include rodent handling, anesthesia, surgically modeling disease, biotherapy delivery, and visualizing / measuring therapeutic efficacy. Additional focus on experimental design, data collection, and analysis.",
+      "format": "2 laboratories."
+    },
+    {
+      "id": "CalPoly_BMED 563",
+      "course name": "Biomedical Engineering Graduate Seminar",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Selected topics of interest to biomedical engineering and other graduate students. Open to graduate students and selected seniors. A forum to share information about research and research tools ; an opportunity to discuss topics of interest with professionals in the field, academics, and other graduate students. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 4 units",
+      "format": ". 1 seminar, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BMED 570",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for graduate students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    },
+    {
+      "id": "CalPoly_BMED 571",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_BMED 591",
+      "course name": "Thesis Project Design Laboratory I",
+      "units": "2 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Selection and completion of project by individuals or team which is typical of problems graduates must solve in their fields of employment or applied research. Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning, scheduling and research and may involve students from several disciplines. Formulation of outline, literature, review and project schedule.",
+      "format": "2 laboratories."
+    },
+    {
+      "id": "CalPoly_BMED 592",
+      "course name": "Thesis Project Design Laboratory II",
+      "prerequisite": [
+        "BMED 591 or consent of instructor"
+      ],
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Continuation of BMED591. Completion of project by individuals or team which is typical of problems graduates must solve in their fields of employment or applied research. Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning, scheduling and research. Formulation of outline, literature review, and project schedule.",
+      "format": "2 laboratories."
+    },
+    {
+      "id": "CalPoly_BMED 593",
+      "course name": "Regenerative Medicine Internship",
+      "units": "3-5 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Supervised graduate research and/or development in stem cell science or regenerative medicine and engineering. Provides students with an off - campus industrial or university internship. Total credit",
+      "grading": "limited to 10 units.",
+      "other": "Crosslisted as ASCI / BIO / BMED593."
+    },
+    {
+      "id": "CalPoly_BMED 594",
+      "course name": "Applications in Regenerative Medicine",
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Transfer of skills and knowledge gained through coursework, in an applied setting at Cal Poly. Demonstration of technical, problem solving, and presentation skills, and familiarity with current research. Part of the culminating experience for the Specialization in Regenerative Medicine in the MS in Biological Sciences, or the MS in Biomedical Engineering, or the Animal Science Specialization in the MS in Agriculture. 1 seminar and supervised work.",
+      "other": "Crosslisted as ASCI / BIO / BMED594."
+    },
+    {
+      "id": "CalPoly_BMED 599",
+      "course name": "Design Project (Thesis)",
+      "units": "1-9 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Selection by individual or group, with faculty guidance and approval, of topic for independent research or investigation resulting in a thesis or project to be used to satisfy the degree requirement. An appropriate experimental or analytical thesis or project may be accepted. Total credit",
+      "grading": "limited to 9 units"
+    }
+  ]
+}

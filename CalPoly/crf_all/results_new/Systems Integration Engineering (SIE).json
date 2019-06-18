@@ -1,0 +1,52 @@
+{
+  "subjectOf": {
+    "id": "SIE",
+    "subject": "Systems Integration Engineering"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Systems Integration Engineering"
+  },
+  "courses": [
+    {
+      "id": "SIE 509",
+      "course name": "Systems Integration Overview",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Orientation and overview of the Systems Integration Engineering graduate certificate program, including introduction to systems integration, learning technologies, teamwork, personality types, leadership, desired attributes of an engineer, and presentations by visiting system experts.  1 lecture."
+    },
+    {
+      "id": "SIE 510",
+      "course name": "Introduction to Systems",
+      "hasPrerequisite": "SIE 509",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Introduction to man-made and socio-technical systems, including life cycle concepts, needs analysis, requirements discovery, models, complexity, project management, life cycle costing, risk management, and decision making.  Verification, validation, and virtual collaboration of teams.  Course offered online only.  4 lectures."
+    },
+    {
+      "id": "SIE 511",
+      "course name": "Systems Analysis",
+      "hasPrerequisite": "SIE 510",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Analysis topics and techniques within the systems context, including functional analysis, systems simulation, design analysis, financial analysis, schedule analysis, manufacturability, reliability, maintainability, and usability.  Course offered online only.  4 lectures."
+    },
+    {
+      "id": "SIE 512",
+      "course name": "Systems Synthesis",
+      "hasPrerequisite": "SIE 511",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Systems synthesis and integration through systems thinking, interface management, configuration management, lean systems, A3 Thinking, commercial versus government systems, system verification and validation, and internal versus external subsystem development.  Course offered online only.  4 lectures."
+    }
+  ]
+}

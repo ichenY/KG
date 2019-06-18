@@ -1,0 +1,1172 @@
+{
+  "subjectOf": {
+    "id": "BIO",
+    "subject": "Biology"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Biology"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_BIO 111",
+      "course name": "General Biology",
+      "units": "4 units",
+      "term": [
+        "ge area b2; ge area b4"
+      ],
+      "description": "Principles of cellular biology, heredity, ecology, biological diversity, and evolution, with emphasis on their relationships to human affairs. Not open for major credit in Biological Sciences, Microbiology or Marine Sciences. Not open to students who have",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "completed BIO 115 or BIO161."
+    },
+    {
+      "id": "CalPoly_BIO 112",
+      "course name": "Environmental Biology and Conservation",
+      "units": "4 units",
+      "term": [
+        "ge area b5"
+      ],
+      "description": "A biologically centered exploration of our planet focusing on natural resource conservation and contemporary environmental issues. Interactions between components of the biosphere and impacts of human society on interrelationships within ecosystems. Trends in natural resource conservation and biodiversity preservation. Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE B5."
+    },
+    {
+      "id": "CalPoly_BIO 114",
+      "course name": "Plant Diversity and Ecology",
+      "units": "4 units",
+      "term": [
+        "ge area b2; ge area b4"
+      ],
+      "description": "Plant diversity and ecology in aquatic and terrestrial plant communities including adaptations of plants to their environment. Identification of common, local native plants and plant communities, uses of native plants by Native Americans, and human impacts on native plant communities.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_BIO 123",
+      "course name": "Biology of Sex",
+      "units": "4 units",
+      "term": [
+        "ge area b2"
+      ],
+      "description": "Fundamental principles of biology related to sexual reproduction : genetics, physiology, behavior, ecology and evolution of sex in a broad range of organisms. 4 lectures. Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences. Fulfills GE B2."
+    },
+    {
+      "id": "CalPoly_BIO 160",
+      "course name": "Diversity and History of Life",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Overview of the history, diversity and genetic relatedness of life on Earth ; broad - scale evolutionary framework of the organization and expansion of life on Earth.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 161",
+      "course name": "Introduction to Cell and Molecular Biology",
+      "units": "4 units",
+      "term": [
+        "ge area b2; ge area b4"
+      ],
+      "description": "Fundamentals of cellular biology with an emphasis on the molecular perspective of life : metabolism, photosynthesis, cell structure and reproduction, meiosis, immunology, classical and molecular genetics, gene regulation.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 162",
+      "course name": "Introduction to Organismal Form and Function",
+      "prerequisite": [
+        "BIO 161"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Fundamentals of the structure and physiology of tissues and organs of plants and animals : energy acquisition and food distribution, gas exchange and fluid transport, and sensing and responding to the environment.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Individual investigation, research, studies or surveys of selected problems. Intended for lower division students in the Biological Sciences Department. Total credit limited to 12 units, with a maximum of 2 units per quarter. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_BIO 202",
+      "course name": "Orientation to Biotechnology",
+      "units": "2 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to the diversity of fields in biotechnology. Applications in agriculture, nutrition, medicine and environmental problems.",
+      "format": "1 lecture, 1 activity.",
+      "other": "Crosslisted as BIO / CHEM202."
+    },
+    {
+      "id": "CalPoly_BIO 211",
+      "course name": "Biology of Plants and Animals",
+      "prerequisite": [
+        "BIO 111"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Plant and animal anatomy, physiology, diversity and life cycles. How plants and animals acquire nutrients, reproduce, and adapt to environments. Emphasis on hands - on activities and model organisms suited for the elementary classroom.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 213",
+      "course name": "Life Science for Engineers",
+      "prerequisite": [
+        "MATH 142"
+      ],
+      "units": "2 units",
+      "term": [
+        "ge area b2"
+      ],
+      "description": "Fundamentals of life sciences : energetics, cell biology, molecular and classical genetics, microbiology, organismal biology, and ecology. 2 lectures. Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences. Fulfills GE B2."
+    },
+    {
+      "id": "CalPoly_BIO 227",
+      "course name": "Wildlife Conservation Biology",
+      "units": "4 units",
+      "term": [
+        "ge area b2"
+      ],
+      "description": "Historical development of wildlife biology and philosophies. Basic principles of ecology and evolution. Practices applied to wildlife. Current problems involving people - wildlife interactions with special reference to world biodiversity. Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BIO 231",
+      "course name": "Human Anatomy and Physiology I",
+      "prerequisite": [
+        "BIO 111 or BIO 161",
+        "CHEM 110",
+        "CHEM 111",
+        "CHEM 124",
+        "CHEM 127"
+      ],
+      "units": "5 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Structure and function of the skeletal, muscular, nervous, endocrine, and integumentary systems. Molecular, cellular, and organ system levels of organization. Lab includes study of prosected human cadavers. Not open for major credit to Biological Sciences majors. Not open to students with credit",
+      "grading": "in BIO 432 or ZOO 331.",
+      "format": "4 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 232",
+      "course name": "Human Anatomy and Physiology II",
+      "prerequisite": [
+        "BIO 111 or BIO 161",
+        "CHEM 110",
+        "CHEM 111",
+        "CHEM 124",
+        "CHEM 127"
+      ],
+      "units": "5 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Structure and function of the circulatory, immune, respiratory, digestive, urinary, and reproductive systems. Molecular, cellular, and organ system levels of organization. Lab includes study of prosected human cadavers. Not open for major credit to Biological Sciences majors. Not open to students with credit",
+      "format": "4 lectures, 1 laboratory.",
+      "other": "in BIO 433 or ZOO 332."
+    },
+    {
+      "id": "CalPoly_BIO 253",
+      "course name": "Health Professions Shadowing",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Observation in a healthcare setting. Students will shadow healthcare practitioners on campus or in a community setting. Specific placement depend on practitioner availability. Total credit limited to 2 units with a maximum of 1 unit per quarter. Credit / No Credit grading only. 1 activity. Priority to BIO and MCRO majors."
+    },
+    {
+      "id": "CalPoly_BIO 263",
+      "course name": "Introductory Ecology and Evolution",
+      "prerequisite": [
+        "BIO 160 or BIO 161"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Basic concepts in ecology and evolution. Relationships among organisms in populations, communities and ecosystems, structures and dynamics of populations, communities and ecosystems, ecosystem inputs and energy flows, nutrient cycling, biogeography, population genetics, evolution, patterns of biodiversity and issues in conservation biology.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BIO 301",
+      "course name": "Service Learning in the Health Professions",
+      "prerequisite": [
+        "BIO 161 or MCRO 221 or MCRO 224"
+      ],
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Framework for understanding the implications of service in different health - related settings through discussion and participation in a local service project. Social determinants of health, cultural competency and unconscious bias, identity / intersectionality, and health needs of different populations.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 302",
+      "course name": "Human Genetics",
+      "prerequisite": [
+        "ASCI 112",
+        "BIO 111",
+        "BIO 123",
+        "BIO 161",
+        "BIO 213"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area b5"
+      ],
+      "description": "Basic principles of human inheritance, including the transmission of genetic traits, chromosomal abnormalities and their effects, gene structure and function, mutations and mutagenic agents, cancer genetics, population genetics, and principles of genetic counseling. Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences. Not open to students with credit in BIO303 or BIO351. 4 lectures. Fulfills GE B5."
+    },
+    {
+      "id": "CalPoly_BIO 303",
+      "course name": "Survey of Genetics",
+      "prerequisite": [
+        "BIO 111 or BIO 161 or BOT 121"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Principles of heredity and variation. Transmission genetics ; molecular mechanisms of inheritance and gene expression. Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences. Not open to students with credit in BIO351. Credit will be granted in only one of the following courses : BIO302 or BIO303.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BIO 305",
+      "course name": "Biology of Cancer",
+      "units": "4 units",
+      "term": [
+        "ge area b5"
+      ],
+      "description": "Introduction to the causes, characteristics and treatment of human cancer. Topics include effects of carcinogens and radiation ; the genetics of cancer ; molecular, cellular and physiological changes in common cancers ; conventional chemotherapy and new treatments. Not open for major credit in Biological Sciences, Microbiology, Marine Sciences, or Biochemistry. 4 lectures. Fulfills GE B5."
+    },
+    {
+      "id": "CalPoly_BIO 308",
+      "course name": "Genetic Engineering Technology",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Introduction to the methodology and techniques used in genetic engineering. Applications in agriculture, nutrition, medicine and environmental problems. Potential benefits and problems, including the underlying ethical questions. Not open to students with credit in CHEM373, or to Biological Sciences, Marine Sciences, or Microbiology majors. 4 lectures.",
+      "other": "Crosslisted as BIO / CHEM308. Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_BIO 321",
+      "course name": "Mammalogy",
+      "prerequisite": [
+        "BIO 162 or BIO 263 or BIO 427 or ASCI 329"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Ecology, behavior, physiology, functional morphology, and evolution of mammals. Classification and identification of mammals, with emphasis on California species.",
+      "format": "2 lectures, 2 laboratories.",
+      "other": "Formerly ZOO 321."
+    },
+    {
+      "id": "CalPoly_BIO 322",
+      "course name": "Ichthyology",
+      "prerequisite": [
+        "BIO 162"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Phylogeny, anatomy, functional morphology, physiology, and ecology of marine and freshwater fishes. Special reference to local and economically important species. Laboratory emphasis on taxonomy of California species, especially marine groups.",
+      "format": "2 lectures, 2 laboratories.",
+      "other": "Formerly ZOO 322."
+    },
+    {
+      "id": "CalPoly_BIO 323",
+      "course name": "Ornithology",
+      "prerequisite": [
+        "BIO 162 or BIO 263 or BIO 427 or ASCI 329"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Classification and identification of birds, with emphasis on California species. Functional morphology, physiology, ecology, behavior and census methods. Field trips may require meeting in the morning before scheduled lab time.",
+      "format": "2 lectures, 2"
+    },
+    {
+      "id": "CalPoly_BIO 324",
+      "course name": "Herpetology",
+      "prerequisite": [
+        "BIO 160",
+        "BIO 162"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring",
+        "Summer"
+      ],
+      "description": "Living and extinct reptiles and amphibians ; an adaptive approach to their diversity, biology, and classification.",
+      "format": "2 lectures, 2 laboratories.",
+      "other": "Formerly ZOO 341."
+    },
+    {
+      "id": "CalPoly_BIO 327",
+      "course name": "Wildlife Ecology",
+      "prerequisite": [
+        "BIO 263 or NR 306"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Principles of ecology as applied to the study of wild vertebrates and their habitats. Emphasis on techniques for collecting and analyzing field data and how these data apply to the study and management of wildlife. Use of the literature, inventory of plants and animal populations, use of maps and databases, quantifying diet and habitat use, determining sex and age and nutritional condition, capture and marking techniques, non - invasive sampling methods.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 329",
+      "course name": "Vertebrate Field Zoology",
+      "prerequisite": [
+        "BIO 162 or BIO 263 or BIO 427 or ASCI 329"
+      ],
+      "units": "4 units",
+      "term": [
+        "Summer"
+      ],
+      "description": "Identification and natural history of terrestrial vertebrates, with emphasis on field studies and local species. Field trips may require meeting in the morning before scheduled lab time.",
+      "format": "2 lectures, 2 laboratories.",
+      "other": "Formerly ZOO 329."
+    },
+    {
+      "id": "CalPoly_BIO 330",
+      "course name": "Extended Field Biology Activity",
+      "units": "1-3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Minimum of two days of field instruction in places with significant biological diversity, and an individual or group project. Focus on field notebooks, field identification, survey methods, experimental design, and significant habitat types for various groups of organisms. The Schedule of Classes will list the title of the associated field biology course. Total credit limited to 6 units, each associated with a different field biology course, with no more than 4 units applied as advisor approved electives. Field trip required.",
+      "format": "1 - 3 activities."
+    },
+    {
+      "id": "CalPoly_BIO 335",
+      "course name": "General Entomology",
+      "prerequisite": [
+        "AEPS 313",
+        "BIO 160"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Introduction to the study of insects. Structure, major orders and families of insects, life histories, medical, and economic importance. Insect collection required.",
+      "format": "2 lectures, 2 laboratories.",
+      "other": "Formerly ZOO 335."
+    },
+    {
+      "id": "CalPoly_BIO 336",
+      "course name": "Invertebrate Zoology",
+      "prerequisite": [
+        "BIO 160",
+        "BIO 162"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Invertebrate groups of animals with emphasis on taxonomy, morphology, distribution, and economic importance.",
+      "format": "2 lectures, 2",
+      "other": "Formerly ZOO 336."
+    },
+    {
+      "id": "CalPoly_BIO 351",
+      "course name": "Principles of Genetics",
+      "prerequisite": [
+        "BIO 161",
+        "CHEM 216",
+        "CHEM 312"
+      ],
+      "units": "5 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Principles of genetics and genetic analysis, including underlying molecular mechanisms. Subjects include gene structure and function, inheritance patterns, regulation of gene expression, mutation, recombination, recombinant DNA technology, and an introduction to population genetics.",
+      "format": "5 lectures."
+    },
+    {
+      "id": "CalPoly_BIO 361",
+      "course name": "Principles of Animal Physiology",
+      "prerequisite": [
+        "BIO 162",
+        "CHEM 216",
+        "CHEM 312 or CHEM 316"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Fundamental principles of animal physiology, including cellular mechanisms and integration to whole animals. Membrane transport, fluid / salt balance, excitable cells, metabolic rate, temperature, gas exchange and circulation.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total major credit limited to 6 units, with a maximum of 2 units per quarter. Total credit",
+      "grading": "limited to 12 units."
+    },
+    {
+      "id": "CalPoly_BIO 401",
+      "course name": "Principles of Conservation Biology",
+      "prerequisite": [
+        "BIO 263 or NR 306"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Foundational concepts in the conservation of wild organisms and their habitats. Quantification and valuation of biological diversity, current threats to diversity, and approaches to better understand and address these threats, across terrestrial, freshwater, and marine environments.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BIO 405",
+      "course name": "Developmental Biology",
+      "prerequisite": [
+        "BIO 161",
+        "BIO 162",
+        "BIO 303 or BIO 351 or CHEM 373"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Events and mechanisms of embryonic development, including fertilization, morphogenesis, cell differentiation, and organogenesis, with emphasis on differential gene expression in model organisms.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 406",
+      "course name": "Advanced Anatomy and Physiology: Neuroscience",
+      "prerequisite": [
+        "BIO 361",
+        "CHEM 331 or STAT 218",
+        "PHYS 123 or PHYS 133"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Anatomy and physiology of nervous systems including electrophysiology, molecular and cellular mechanisms of neurotransmission, interactions between the nervous system and other body systems, and comparative anatomy of vertebrate nervous systems, especially humans.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 407",
+      "course name": "Advanced Anatomy and Physiology: Endocrinology",
+      "prerequisite": [
+        "BIO 361",
+        "CHEM 331 or STAT 218"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Anatomy and physiology of the endocrine system and hormones, with an emphasis on humans and other vertebrates.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BIO 408",
+      "course name": "Advanced Anatomy and Physiology: Cardiorespiratory and Renal",
+      "prerequisite": [
+        "BIO 361",
+        "CHEM 331 or STAT 218"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Anatomy and physiology of the cardiovascular, respiratory, and renal systems, with an emphasis on humans and other vertebrates. Discussion of health and disease states and responses to exercise and environmental factors.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 409",
+      "course name": "Advanced Anatomy and Physiology: Muscle and Locomotion",
+      "prerequisite": [
+        "BIO 361",
+        "CHEM 331 or STAT 218",
+        "PHYS 121 or PHYS 141"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Anatomy and physiology of musculoskeletal systems, including energetics and biomechanics of locomotion. Discussion of invertebrates and vertebrates with emphasis on humans.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 410",
+      "course name": "Functional Histology",
+      "prerequisite": [
+        "ASCI 229 or BIO 231 or BIO 232 or BIO 361 or graduate st"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Functional microscopic anatomy of principal tissues and organs of vertebrates, including humans. Structural studies to determine mechanisms underlying physiological processes and their clinical applications in medicine.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_BIO 414",
+      "course name": "Evolution",
+      "prerequisite": [
+        "BIO 263",
+        "BIO 303 or BIO 351"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Scientific evaluation of the theories, mechanism, and patterns of biological evolution.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BIO 415",
+      "course name": "Biogeography",
+      "prerequisite": [
+        "BIO 263"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Plant and animal distribution patterns in relation to past and present physical and biotic factors ; survey of major biomes with major emphasis on North and South America.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BIO 419",
+      "course name": "Analytical Methods in Ecology",
+      "prerequisite": [
+        "STAT 218 or graduate st"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Introduction to quantitative methods used in ecology with an emphasis on the design and analysis of field studies. Population estimates, sampling design and analysis, and the determination of community structure.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_BIO 421",
+      "course name": "Wetlands",
+      "prerequisite": [
+        "BOT 121 or BIO 162",
+        "CHEM 111 or CHEM 127",
+        "SS 121 or SS 131"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "The formation, characteristics, and functions of wetlands. Genesis of hydric soils. Plant adaptations to saturated soils. Wetlands as wildlife habitat. Policies and social issues associated with wetlands. The procedures of wetland delineations.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as BIO / NR / SS421."
+    },
+    {
+      "id": "CalPoly_BIO 424",
+      "course name": "Organizing and Teaching Science",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Techniques, aims and objectives in the teaching of physical and life sciences at the secondary level. Selection and organization of teaching material, including strategies for English language learners ( ELL ) and special needs students. Evaluation of results.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Crosslisted as BIO / PSC424."
+    },
+    {
+      "id": "CalPoly_BIO 425",
+      "course name": "Clinical Experience in Teaching Science Seminar",
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Principles and practices in effective teaching of science at the middle and high school level, learning theories, curriculum content and structure, classroom issues, and the teaching profession. Credit / No Credit grading only. Total credit",
+      "grading": "limited to 4 units.",
+      "format": "2 seminars.",
+      "other": "Crosslisted as BIO / PSC425."
+    },
+    {
+      "id": "CalPoly_BIO 426",
+      "course name": "Immunology",
+      "prerequisite": [
+        "BIO 351 or CHEM 373"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Principles of molecular and cellular immunology. Emphasis on molecular regulation of immune cell development, including generation of unique receptors, lymphocyte signal transduction and selection, programmed cell death and regulation of immune responses. Discussion and demonstration of roles of immunology in disease and as diagnostic tools.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 427",
+      "course name": "Wildlife Management",
+      "prerequisite": [
+        "BIO 401",
+        "BIO 444",
+        "BOT 326",
+        "MSCI 328"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Important habitats, such as riparian, wetlands, and habitat features important to wildlife, such as vegetation types and snags. Basic concepts of wildlife management. Emphasis on planning and designing habitats to meet the needs of wildlife.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 428",
+      "course name": "Hematology",
+      "prerequisite": [
+        "BIO 351 or BIO 302 or BIO 303 or CHEM 373"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring",
+        "Summer"
+      ],
+      "description": "Development and function of blood as a tissue. Composition, function, and mechanisms of formation and destruction of blood components in health and disease. Methods for examination of blood.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Formerly ZOO 428."
+    },
+    {
+      "id": "CalPoly_BIO 429",
+      "course name": "Parasitology",
+      "prerequisite": [
+        "BIO 160",
+        "BIO 161"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "External and internal parasites of man and animals. Life history. Parasite - host relationships. Control and recognition of species of clinical importance.",
+      "format": "2 lectures, 2 laboratories.",
+      "other": "Formerly ZOO 425."
+    },
+    {
+      "id": "CalPoly_BIO 434",
+      "course name": "Environmental Physiology",
+      "prerequisite": [
+        "BIO 162"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Comparative physiological mechanisms involved in the regulation of oxygen uptake, water and ion balance, and temperature regulation in animals. Emphasis is placed on physiological adaptations which maintain or restore homeostasis in animals which are subjected to environmental changes.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 435",
+      "course name": "Plant Physiology",
+      "prerequisite": [
+        "BOT 121 or BIO 162"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Consideration of the principal physiological and biochemical processes of plants with emphasis on water relations, mineral nutrition, photosynthesis, and the physiology of plant development.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 441",
+      "course name": "Bioinformatics Applications",
+      "prerequisite": [
+        "BIO 161 or BIO 303"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Introduction to new problems in molecular biology and current computer applications for genetic database analyses. Use of software for : nucleic acid, genome and protein sequence analysis ; genetic databases, database tools ; industrial applications in bioinformatics ; ethical and societal concerns.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as BIO / CHEM441."
+    },
+    {
+      "id": "CalPoly_BIO 442",
+      "course name": "Behavioral Ecology",
+      "prerequisite": [
+        "BIO 263"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Behavioral adaptations of animals to their environment and way of life. Analysis of behavior patterns, use of patterns in clarifying evolutionary and ecological relationships.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 444",
+      "course name": "Population Ecology",
+      "prerequisite": [
+        "BIO 263 or NR 306"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Growth, fluctuations, balance, and natural mechanisms controlling wild populations, and methods for assessing their interconnectedness. Field trip may be required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 445",
+      "course name": "Community Ecology",
+      "prerequisite": [
+        "BIO 160",
+        "BIO 162",
+        "BIO 263",
+        "STAT 218 or Graduate st"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Principles of ecology at the community level including the mechanism that structure ecological communities, and the quantitative methods used to study community ecology such as diversity metrics, community composition analyses, interaction strengths and the application of statistics to field and experimental studies.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 446",
+      "course name": "Ecosystem Ecology",
+      "prerequisite": [
+        "BIO 263",
+        "BOT 326",
+        "STAT 218"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Advanced ecosystem ecology and biology, and the interactions of biological communities with the abiotic environment. Emphasis on climate change, ecosystem services, and major fluxes and pools of organic elements.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BIO 450",
+      "course name": "Undergraduate Laboratory Assistantship",
+      "units": "1-4 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Assisting the instructor in teaching and supervising undergraduate laboratories in the Biological Sciences Department. Total credit limited to 8 units, with a maximum of 4 units per quarter. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_BIO 452",
+      "course name": "Cell Biology",
+      "prerequisite": [
+        "BIO 351 or CHEM 373",
+        "CHEM 216",
+        "CHEM 312 or CHEM 316"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to cell structure and function, energy conversions, protein sorting, signaling, cytoskeleton, cell adhesion, and the cell cycle.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 461",
+      "course name": "Senior Project - Research Proposal",
+      "prerequisite": [
+        "STAT 218"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Completion of a research proposal and literature review, including analysis of experimental results from published peer - reviewed articles in biology. Written and oral presentations.",
+      "format": "2 activities."
+    },
+    {
+      "id": "CalPoly_BIO 462",
+      "course name": "Senior Project - Research",
+      "prerequisite": [
+        "STAT 218"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Completion of a research project or equivalent in the biological sciences, selected and conducted in consultation with an instructor. Results are presented in written reports."
+    },
+    {
+      "id": "CalPoly_BIO 463",
+      "course name": "Honors Research",
+      "prerequisite": [
+        "BIO 462"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Completion of advanced research in the biological sciences, selected and conducted in consultation with an instructor. Results presented as a written report and/or oral presentation in a public forum."
+    },
+    {
+      "id": "CalPoly_BIO 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_BIO 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topics selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "1 to 4 laboratories."
+    },
+    {
+      "id": "CalPoly_BIO 472",
+      "course name": "Current Topics in Biological Research",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Applications of biological research topics. Discussions of how selected discoveries in biological research formed the basis for, and were developed into, practical applications, currently accepted theories, generally utilized techniques or decisions affecting society and political policies The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 seminars."
+    },
+    {
+      "id": "CalPoly_BIO 475",
+      "course name": "Molecular Biology Laboratory",
+      "prerequisite": [
+        "BIO 161"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to techniques used in molecular biology and biotechnology ; DNA extraction, characterization, cloning, Southern blotting, reverse transcription, polymerase chain reaction, and sequencing analysis. 1 lecture, 2 laboratories. Crosslisted as BIO / CHEM475."
+    },
+    {
+      "id": "CalPoly_BIO 476",
+      "course name": "Gene Expression Laboratory",
+      "prerequisite": [
+        "CHEM 313 or CHEM 371"
+      ],
+      "units": "3 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Heterologous gene expression of a recombinant protein in a microbial system : gene cloning, construction of expression plasmid, DNA sequence analysis, transformation of microbial host, selection and analysis of transformed host cells, expression and purification of recombinant protein. 1 lecture, 2 laboratories. Crosslisted as BIO / CHEM476."
+    },
+    {
+      "id": "CalPoly_BIO 485",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Part - time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. Formal report and evaluation by work supervisor required. Major credit limited to 4 units ; total credit limited to 12 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_BIO 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Full - time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. Formal report and evaluation by work supervisor required. Major credit limited to 4 units ; total credit limited to 12 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_BIO 500",
+      "course name": "Individual Study",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Advanced study planned and completed with the approval of and under the direction of a member of the department faculty. A written scholarly presentation of the results of each BIO500 project must be included in the graduate student 's departmental file. Total degree credit limited to 3 units. Total credit",
+      "grading": "limited to 12 units."
+    },
+    {
+      "id": "CalPoly_BIO 501",
+      "course name": "Molecular & Cellular Biology",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Principles of molecular and cellular biology including gene function and regulation, energetics, protein trafficking, cytoskeleton, signaling, adhesion, and the cell cycle.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 502",
+      "course name": "Biology of Organisms",
+      "prerequisite": [
+        "BIO 501"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Principles of and current topics in organismal biology, with an emphasis on physiology ( including organ systems ), behavior, and responses to the environment.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 503",
+      "course name": "Population Biology",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Considerations of theory and practice in population ecology, evolutionary biology, and biosystematics.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_BIO 509",
+      "course name": "Communicating Biology to General Audiences",
+      "units": "1 unit",
+      "term": [
+        "Spring"
+      ],
+      "description": "Key issues for scientists communicating with the general public. Introduction to principles, examination of case studies, and practical application in outreach projects. Intended for graduate students in biology and related disciplines.",
+      "format": "1 activity."
+    },
+    {
+      "id": "CalPoly_BIO 524",
+      "course name": "Developmental Biology Seminar",
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Principles and selected topics in developmental biology. Issues of differentiation, morphogenesis, and pattern formation ; specific topics chosen by participants.",
+      "format": "2 seminars."
+    },
+    {
+      "id": "CalPoly_BIO 534",
+      "course name": "Principles of Stem Cell Biology",
+      "units": "2 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Principles of stem cell biology including characteristics, types, roles in development, therapeutic uses, historical perspectives and ethical issues.",
+      "format": "2 seminars."
+    },
+    {
+      "id": "CalPoly_BIO 537",
+      "course name": "Advanced Behavioral Ecology",
+      "prerequisite": [
+        "BIO 442"
+      ],
+      "units": "1 unit",
+      "term": [
+        "tbd"
+      ],
+      "description": "Function and evolution of behavioral traits as they relate to ecological phenomena. Habitat selection, migration, spacing mechanisms, reproductive strategies, feeding strategies, agonistic, parasitic, altruistic behavior, communication, and comparative social systems.",
+      "format": "1 activity."
+    },
+    {
+      "id": "CalPoly_BIO 561",
+      "course name": "Proposal Writing for Biological Research",
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Written and oral presentations of a proposal for research in biology including a literature review.",
+      "format": "3 seminars."
+    },
+    {
+      "id": "CalPoly_BIO 570",
+      "course name": "Selected Topics in Biology",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for graduate students. Class Schedule will list topics for selection. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "1 to 4 seminars."
+    },
+    {
+      "id": "CalPoly_BIO 571",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_BIO 574",
+      "course name": "Teaching Strategies for College Biology Laboratories",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Concepts of teaching and learning related to instructor performance in college biology laboratory classes. Introduction to teaching strategies, managing a classroom, writing exam questions, and science education research for the laboratory class setting. Credit / No Credit grading only.",
+      "format": "1 activity."
+    },
+    {
+      "id": "CalPoly_BIO 575",
+      "course name": "College Biology Teaching Practicum",
+      "units": "1-2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Part - time teaching assignment in an undergraduate college classroom. Includes teaching and related activities under the supervision of a professor in Biological Science. Total credit limited to 2 units. Credit / No Credit grading only.",
+      "format": "1 - 2 activities."
+    },
+    {
+      "id": "CalPoly_BIO 585",
+      "course name": "Cooperative Education Experience",
+      "units": "6 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Advanced study, analysis and part - time work experience in student 's career field ; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government. Must have demonstrated ability to do independent work and research in career field. Total credit limited to 6 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_BIO 590",
+      "course name": "Seminar in Biology",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Problems and topics in advanced biology selected according to the interest and needs of the students enrolled. Total credit",
+      "grading": "limited to 6 units",
+      "format": ". 1 activity."
+    },
+    {
+      "id": "CalPoly_BIO 591",
+      "course name": "Trends in Biology",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Recent trends in the field of biology for graduate students in the Biological Sciences master 's degree program. Overview of current research with presentations from visiting scholars and Cal Poly faculty. Total credit",
+      "grading": "limited to 3 units",
+      "format": ". 1 activity."
+    },
+    {
+      "id": "CalPoly_BIO 593",
+      "course name": "Regenerative Medicine Internship",
+      "units": "3-5 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Supervised graduate research and/or development in stem cell science or regenerative medicine and engineering. Provides students with an off - campus industrial or university internship. Total credit",
+      "grading": "limited to 10 units.",
+      "other": "Crosslisted as ASCI / BIO / BMED593."
+    },
+    {
+      "id": "CalPoly_BIO 594",
+      "course name": "Applications in Regenerative Medicine",
+      "units": "2 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Transfer of skills and knowledge gained through coursework, in an applied setting at Cal Poly. Demonstration of technical, problem solving, and presentation skills, and familiarity with current research. Part of the culminating experience for the Specialization in Regenerative Medicine in the MS in Biological Sciences, or the MS in Biomedical Engineering, or the Animal Science Specialization in the MS in Agriculture. 1 seminar and supervised work.",
+      "other": "Crosslisted as ASCI / BIO / BMED594."
+    },
+    {
+      "id": "CalPoly_BIO 595",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Advanced study, analysis and full - time work experience in student 's career field ; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government. Must have demonstrated ability to do independent work and research in career field. Total credit limited to 12 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_BIO 599",
+      "course name": "Thesis",
+      "units": "1-3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual research under the general supervision of the faculty, leading to a graduate thesis of suitable quality. Total credit",
+      "grading": "limited to 9 units"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of business law for the future business professional. Introduces students to basic business problems that have legal consequences. Encourages the identification of ethical concerns along with the ability to anticipate potential legal problems with the goal of preventing them. Covers introduction to the legal system; court procedures; contracts and sales; business organizations; real and personal property; labor and employment law; product liability, and the government regulation of business.",
+      "id": "CSUS_MGMT 10",
+      "course name": "Introduction to Business Law"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides an overview of the various basic functions of business and how they interface. Topics will include accounting, finance, marketing, human resources management, management information systems, operations management, real estate, and international business.",
+      "id": "CSUS_MGMT 20",
+      "course name": "Introduction To Business"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Intended to provide students with an introduction to the nature and possible meanings of higher education and the functions and resources of the University.  Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills.  Provides students with the opportunity to interact with fellow students and the seminar leader and to build a community of academic and personal support.",
+      "id": "CSUS_MGMT 21",
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of business law for the business professional. Aside from investigating substantive law, the course stresses critical thinking and analytical evaluation of contemporary business problems. Encourages the identification of ethical concerns along with the ability to anticipate potential legal problems with the goal of preventing them.  Covers introduction to the legal system; court procedures; contracts and sales; business organizations; real and personal property; labor and employment law; product liability, and the government regulation of business. OBE 16 or the equivalent is recommended. ",
+      "id": "CSUS_MGMT 101",
+      "course name": "Legal Environment of Business"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides basic concepts for understanding and practice of communication in the changing world of business for managers and professionals.  It examines the use of language and conversations in business settings and their role in coordinating actions, resolving breakdowns in work performance, and providing customer satisfaction.  Topics include: Practice in professional styles of business writing and formats, preparation of a formal report, development of competence in business conversation skills (written, electronic, and oral), and other selected topics.  International, technical, and linguistic developments are integrated into the various applications of business communication. ",
+      "course name": "Business Communications",
+      "units": "3 Units",
+      "id": "CSUS_MGMT 102",
+      "prerequisite": [
+        "ENGL 20",
+        "COMS 2",
+        "COMS 4"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Investigation of contemporary business issues and management dilemmas in relation to broad social concerns. Focus is upon public and private decision making in the business environment and how business practices, ethics, and social concerns interrelate. Topics such as the nature of property and profits, efficiency and human values, the balancing of claims of owners, employees, customers, and others in community, corporate responsibility, corporate governance, government regulation and international dimensions of public policy will be covered. ",
+      "course name": "Business, Ethics and Society.",
+      "units": "3 Units",
+      "id": "CSUS_MGMT 117",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "MGMT",
+    "subject": "Management"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Management",
+    "id": "CSUS"
+  }
+}

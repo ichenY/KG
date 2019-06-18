@@ -1,0 +1,167 @@
+{
+  "subject": "Military Science Leadership (MSL)",
+  "courses": [
+    {
+      "Course number & title": " Foundation of Officership I",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Introduction to issues and competencies of the Army officer profession.  Emphasis on stereotypes about the military, the role of the Army officer, customs and traditions within the military, and personal and physical development.  1 lecture."
+    },
+    {
+      "Course number & title": " Foundation of Officership II",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: W",
+      "Course description": "The role of leadership within a large organization.  Emphasis on the definition of leadership, leadership framework, individual and organizational core values, and the moral responsibility of leadership.  1 lecture."
+    },
+    {
+      "Course number & title": " Basic Leadership",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "The foundation of basic leadership fundamentals such as problem solving, communications, briefings and effective writing, techniques for improving listening and speaking skills, and an introduction to counseling.  1 lecture."
+    },
+    {
+      "Course number & title": " Exercises in Military Leadership",
+      "Number of units": "1 unit",
+      "Term": "CR/NC",
+      "Course description": "Hands-on instruction on the proper execution of small-unit military operations.  Incorporation of the military decision-making process in the planning, execution and conducting of a wide variety of squad, platoon and company sized missions.  Credit/No Credit grading only.  1 activity."
+    },
+    {
+      "Course number & title": " Orienteering",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: W, SP",
+      "Course description": "Principles of orienteering, basic map reading and compass skills; course running techniques applied in field orienteering events.  Open to all freshmen and sophomores.  1 lecture, 1 activity."
+    },
+    {
+      "Course number & title": " The Army Physical Fitness Program",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "The Army Physical Fitness Program and its proper execution. Physical training to the Army standard with the goal of successfully passing the Army Physical Fitness Test. 1 laboratory."
+    },
+    {
+      "Course number & title": " Foundations of Leadership I",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "The development of individual leadership traits and capabilities using the Army officer as a model.  The Army's problem solving methods, written and oral communications, tactics and group leadership.  2 lectures."
+    },
+    {
+      "Course number & title": " Foundations of Leadership II",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "The development of individual leadership traits and capabilities using the Army officer as a model.  The Army's problem solving methods, tactics and group leadership.  2 lectures."
+    },
+    {
+      "Course number & title": " Foundations of Leadership III",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "The development of individual leadership traits and capabilities using the Army officer as a model.  The Army's problem solving methods, land navigation techniques, tactics and group leadership.  2 lectures."
+    },
+    {
+      "Course number & title": " Leader's Training Course",
+      "Number of units": "1-7 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "One to seven units of credit may be granted depending upon successful completion of training. Five weeks of training, Fort Knox, Kentucky. Travel pay and salary provided through the Military Science Department. No obligation. LTC graduates eligible to enroll in ROTC Advanced Program."
+    },
+    {
+      "Course number & title": " Ranger Challenge",
+      "Number of units": "2 units",
+      "Term": "CR/NC",
+      "Course description": "Selection and preparation of the Ranger Challenge Team which will represent Cal Poly in military tactical skills competition. Includes rope bridging, orienteering, weapons knowledge, hand grenade accuracy, 10K road march with equipment, first aid, marksmanship, physical fitness and tactics. Credit/No Credit grading only. 2 activities."
+    },
+    {
+      "Course number & title": " American Military History and the Evolution of Western Warfare",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W, SP",
+      "Course description": "Comprehensive analysis of American military history from the early Anglo-French period to the end of the 20th Century. Examination of the strategies, operations and tactics of military warfare, and exploration of how social, economic, and technological factors produced the distinct patterns of war that characterize the struggles of the past two hundred plus years. Open to all students. 4 lectures."
+    },
+    {
+      "Course number & title": " Selected Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " Facilitation and Teambuilding",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Techniques and models used in leadership, facilitation, and teambuilding. Emphasis on leadership and facilitation styles and models, teambuilding and group dynamics, and working with various populations. Field trip required. 2 seminars. Crosslisted as MSL/RPTA275."
+    },
+    {
+      "Course number & title": " Tactical Leadership I",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Introduction to the life of a professional Army officer.  Instruction in the operational art of small-unit leadership, and the roles and responsibilities of an Army 2nd Lieutenant in preparation for attendance at the Leader Development and Assessment Course.  3 lectures."
+    },
+    {
+      "Course number & title": " Tactical Leadership II",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Continuation of study of the life of a professional Army officer.  Instruction in the operational art of small-unit leadership, and the roles and responsibilities of an Army 2nd Lieutenant in preparation for attendance at the Leader Development and Assessment Course.  3 lectures."
+    },
+    {
+      "Course number & title": " Applied Leadership",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Demonstration of proficiency in leading small units.  Emphasis on clear and concise oral communications, land navigation, weapons skills, and timely decision-making.  Completion of training for the Leader Development and Assessment Course and preparation for attendance at the course.  3 lectures."
+    },
+    {
+      "Course number & title": " Advanced Leadership of Military Exercises",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "The planning, resourcing and execution of selected Army tactical missions in a field environment, and leading all students enrolled in MSL110.  Total credit limited to 3 units.  1 activity."
+    },
+    {
+      "Course number & title": " Leadership of the Army Physical Fitness Program",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "The planning, resourcing and execution of the Army Physical Fitness Program, and leading all students enrolled in MSL112.  Total credit limited to 3 units.  1 laboratory."
+    },
+    {
+      "Course number & title": " Leadership Development and Assessment Course",
+      "Number of units": "6 units",
+      "Term": "CR/NC",
+      "Course description": "Five week summer training program required to achieve an Army commission.  Testing and training as functional Army officers and determination of potential for service.  Travel pay, room and board, and salary provided by the U.S.  Army.  Held at Fort Lewis, Washington.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Special Problems for Advanced Undergraduates",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "Course number & title": " Developmental Leadership I",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "In-depth study and analysis of the duties and responsibilities of an ethical Army officer.  Emphasis on honing skills required at follow-on training.  Administrative actions and self and subordinate developmental processes utilized by an Army 2nd Lieutenant.  3 lectures."
+    },
+    {
+      "Course number & title": " Developmental Leadership II",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Continuation of MSL401 with a focus on communications and personal development.  Continuation of in-depth study and analysis of the duties and responsibilities of an ethical Army officer.  Emphasis placed on honing skills required at follow-on training.  Administrative actions and self and subordinate developmental processes utilized by an Army 2nd Lieutenant.  3 lectures."
+    },
+    {
+      "Course number & title": " Adaptive Leadership",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Beginning of transition from student to commissioned officer.  Emphasis on expectations of an Army 2nd Lieutenant.  Cultural awareness, effective command climates, terrorism and force protection in the current operational environment, and individual officer skills.  3 lectures."
+    },
+    {
+      "Course number & title": " Administration and Evaluation of Exercises in Military Leadership",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "The supervision and evaluation of the organization, planning, resourcing, and execution of selected Army tactical missions, and mentoring assigned students enrolled in MSL310.  Total credit limited to 3 units.  1 activity."
+    },
+    {
+      "Course number & title": " Administration and Evaluation of the Army Physical Fitness Program",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "The supervision and evaluation of the organization, planning, resourcing, and execution of the Army Physical Fitness Program, and mentoring assigned students enrolled in MSL312.  Total credit limited to 3 units.  1 laboratory."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures."
+    }
+  ]
+}

@@ -1,0 +1,1391 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of the earliest civilizations with emphasis on the contributions of the Hellenic, Roman and the Medieval eras to the West. Continues to the close of the Middle Ages. Stress is placed on social, economic, as well as political factors.",
+      "id": "CSUS_HIST 4",
+      "course name": "Survey of Early Western Civilization"
+    },
+    {
+      "term": ". ",
+      "description": "Survey of the development of western civilization from the Renaissance to the present day. Stress is placed on social and economic, as well as political, factors. ",
+      "course name": "Survey of Modern Western Civilization",
+      "units": "3 Units",
+      "id": "CSUS_HIST 5",
+      "prerequisite": [
+        "HIST 105"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to major developments in the histories and cultures of China, Japan, and India -- origins of civilizations, great empires, religions, growth and spread of cultures, alien invasions, Western impact, nationalist movements, modernization, and characteristics of contemporary society.",
+      "id": "CSUS_HIST 6",
+      "course name": "Asian Civilizations"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introductory survey of the history of Africa from earliest times to the present. Major topics include: origins of humanity and society, civilizations of the Nile Valley, the peopling of Sub-Saharan Africa, African societies to 1500, pre-colonial Saharan and Sub-Saharan Africa, Colonial Africa and the emergence of modern states in Africa.",
+      "id": "CSUS_HIST 7",
+      "course name": "History of African Civilizations"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introductory survey of the history of Islamic societies of Asia, Africa, and the Middle East from the 6th century to the present.  Focus will be on both continuities and the discontinuities that distinguish them from one another.  Topics will include: religious, political, social, and cultural development in Islamic civilization during the premodern period, and reform, western imperialism, nationalism, and religious politics in the modern period.",
+      "id": "CSUS_HIST 8",
+      "course name": "History of Islamic Civilizations"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "From the builders of the Pyramids to the cause of the Holocaust: unlock mysteries of the past; apply historical thinking skills to answer compelling historical questions; sharpen reasoning and argumentative skills; evaluate historical evidence; learn to recognize scientific standards of historical investigation; hone college level writing skills. Topics vary based on instructor's expertise.",
+      "id": "CSUS_HIST 10",
+      "course name": "History's Mysteries: Thinking Critically about the Past"
+    },
+    {
+      "units": "3 Units",
+      "term": " Fulfills graduation requirement for U.S. History and Race and Ethnicity. ",
+      "description": "A survey of topics in American history from the colonial period to the end of the twentieth century. Subjects may include reform movements, immigration, racial problems, religion, politics and the role of women. ",
+      "id": "CSUS_HIST 15H",
+      "course name": "Major Problems in U.S. History."
+    },
+    {
+      "units": "3 Units",
+      "term": " Fulfills state graduation requirement for U.S. History. ",
+      "description": "Basic historical survey of the rise of American civilization from colonial beginnings through the rebuilding of the union during Reconstruction. ",
+      "id": "CSUS_HIST 17A",
+      "course name": "United States History, 1607-1877."
+    },
+    {
+      "units": "3 Units",
+      "term": " Fulfills state graduation requirement for U.S. History. ",
+      "description": "Basic historical survey of the growth of urban-industrial American civilization and its rise to world power, 1877-present. ",
+      "id": "CSUS_HIST 17B",
+      "course name": "United States History, 1877-Present."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course will examine science, medicine, and public health in America from the colonial era through the present.",
+      "id": "CSUS_HIST 18",
+      "course name": "Health, Medicine, and Science in America, 1600-Present"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the nature of higher education, and the functions and resources of the University.  Designed to help students develop academic success strategies and to improve learning skills.  Students will interact with fellow students to build a community of academic and personal support.  Introduces history as an academic discipline by requiring students to interpret historical information about issues such as academic freedom and the development of racism.",
+      "id": "CSUS_HIST 21",
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of some major civilizations of the world from the beginnings of civilization to 1600. Covers the classical and medieval traditions of the West as well as at least two major non-western cultures.",
+      "id": "CSUS_HIST 50",
+      "course name": "World Civilizations, Beginnings-1600"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Intensive comparative history of the world's major civilizations that highlights human community's increased level of connection. Explores the diverse global culture, political, and economic patterns from the origins of complex societies to the birth of modern capitalism. ",
+      "id": "CSUS_HIST 50H",
+      "course name": "World History I:"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "A survey of the increased inter-connections of the world's civilizations from the conquest of the Americas to the dawn of the 21st century. Explores the history of the human community's political development, culture diversity, and economic globalization.",
+      "id": "CSUS_HIST 51",
+      "course name": "World History from 1500 to the Present."
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "An intensive survey of the increased inter-connections of the world's civilizations from the conquest of the Americas to the dawn of the 21st century. Explores the history of the human community's political development, cultural diversity, and economic globalization. ",
+      "id": "CSUS_HIST 51H",
+      "course name": "World History from 1500 to the Present"
+    },
+    {
+      "units": "3 Units",
+      "term": " Open to History majors who have completed at least 6 units of required lower division coursework. Recommended for second semester of sophomore year. ",
+      "description": "Introduction to the skills of secondary and primary source research, critical analysis of documentary sources, historical reasoning and the preparation of written reports. Attention to research procedures, record-keeping, citation, and bibliography. ",
+      "id": "CSUS_HIST 100",
+      "course name": "Introduction to Historical Skills"
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "This is part of the two-semester hybrid course on Ancient Greek language and written culture. The language component of the course is taught online through interactive language-teaching website, while the weekly meetings are mainly discussions on Ancient Greek texts in translation. The focus in this first part is on basic grammatical rules, the reading and construction of simple sentences, and the study of Greek written culture from its beginnings to the Classical Period. ",
+      "course name": "Language and written culture in Ancient Greece",
+      "units": "3 Units",
+      "id": "CSUS_HIST 101A",
+      "prerequisite": [
+        "WLL 120A"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "This is the second part of a two-semester hybrid course on Ancient Greek language and written culture. The language component of the course is taught online through an interactive language-teaching website, while the weekly meetings are mainly discussions on Ancient Greek texts in translation. The focus in this second part is on advanced grammar, the reading and understanding of long passages, and the study of Greek written culture from the Classical Period to the Roman era. ",
+      "course name": "Language and written culture in Ancient Greece",
+      "units": "3 Units",
+      "id": "CSUS_HIST 101B",
+      "prerequisite": [
+        "HIST 101A",
+        "WLL 120B"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "This is the first part of a two-semester hybrid course on modern Greek language, history, and culture. This course is an introduction to the main cultural forces in history and literature that shape modern Greek society. It explores the historical development of modern Greek culture from the period of the Greek War of Independence to the present. Students will also obtain a basic level of modern Greek grammatical rules, the reading and writing of simple sentences, and basic everyday conversation skills.",
+      "id": "CSUS_HIST 102A",
+      "course name": "Culture and Language in Modern Greece, 1821-1909"
+    },
+    {
+      "term": "Spring only",
+      "description": "This is the second part of a two-semester hybrid course on modern Greek language, history, and culture. This course is an introduction to the main cultural forces in history and literature that shape modern Greek society. It explores the historical development of modern Greek culture from the period of the Greek War of Independence to the present. Students will also obtain a basic level of modern Greek grammatical rules, the reading and writing of simple sentences, and basic everyday conversation skills. ",
+      "course name": "Culture and Language in Modern Greece, 1909-Present",
+      "units": "3 Units",
+      "id": "CSUS_HIST 102B",
+      "prerequisite": [
+        "HIST 102A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Traces the development of Southern European countries from the Renaissance to European Union membership.  These two \"rebirths\" for Europe had a unique impact on Portugal, Spain, Italy and Greece.  Focuses on the political, economics, and cultural aspects of these Mediterranean countries.",
+      "id": "CSUS_HIST 103",
+      "course name": "Mediterranean Europe: From the Renaissance to the European Union"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "An examination of the theories, experiments, and calculations of Greek and Roman scientists as well as the work of major contributors to astronomy, natural philosophy, medicine, and technology in the ancient period.",
+      "id": "CSUS_HIST 104A",
+      "course name": "Ancient Science"
+    },
+    {
+      "term": ".  ",
+      "description": "Advanced analysis of topics in modern European history from the Renaissance to the present. Emphasis is placed upon primary sources and contemporary as well as historical interpretations of the sources. ",
+      "course name": "Great Ages and Issues in Modern European History.",
+      "units": "3 Units",
+      "id": "CSUS_HIST 105",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X",
+        "HIST 5"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "An overview of social beliefs and practices in a variety of ancient cultures, including Ancient Greece, Rome, and the Near East chronologically ranging from Late Prehistory to the rise of Christianity. All the examined themes are approached comparatively and on the basis of ancient historical evidence, consisting of both texts and archaeological materials. ",
+      "course name": "Everyday Life and Society in Antiquity.",
+      "units": "3 Units",
+      "id": "CSUS_HIST 106",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Study of the development of the major physical laws presently used in describing our physical world. Some considerations of the influences of these developments on other areas of knowledge and on society in general. ",
+      "course name": "History of the Physical Sciences",
+      "units": "3 Units",
+      "id": "CSUS_HIST 107",
+      "prerequisite": [
+        "PHSC 107"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Overview of the history of ancient Egypt from prehistory to the Roman conquest, combined with a study of cultural development in areas of ancient Egyptian religion, art, and literature.",
+      "id": "CSUS_HIST 108",
+      "course name": "Ancient Egypt: History & Culture"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduces the fundamental events and figures that shaped modern Greek history and politics.  Topics will include: the Greek War of Independence, the Megali Idea, the Asia Minor Catastrophe, and Greece's entry into the European Union.  No prior knowledge of Greece or Greek language assumed.",
+      "id": "CSUS_HIST 109",
+      "course name": "History of Modern Greece"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Growth and development of Ancient Near Eastern civilization with emphasis on Mesopotamia and Egypt as the foundation of ancient Mediterranean civilization. Religion, literature, art and social institutions will all be stressed as integral elements in an historical process.",
+      "id": "CSUS_HIST 110",
+      "course name": "The Ancient Near East: A Cultural History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Political, social, and cultural development of Greece from the Mycenaeans to the post-Alexandrian world with emphasis on Fifth Century Athens and on a reading of Thucydides.",
+      "id": "CSUS_HIST 111",
+      "course name": "Ancient Greece"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Rome from its foundation to Justinian with emphasis on its political institutions, their strengths and weaknesses, social structure, the ancient economy, paganism and Christianity, and the end of ancient civilization.",
+      "id": "CSUS_HIST 112",
+      "course name": "Ancient Rome"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The transformation of Mediterranean civilization from Late Antiquity to its three heirs: Western Europe, Byzantium and Islamic Civilization. Topics include: Late Antique Christianity, monasticism, economic and trade structures, Islamic conquests, Carolingian civilization, medieval archaeology and technology, and the origins of manorialism and feudalism.",
+      "id": "CSUS_HIST 113",
+      "course name": "Early Medieval Europe"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Flourishing of European civilization from the Gregorian reform (11th century) until the end of the Middle Ages. Emphasizes the development of Latin Christianity, the formation of national communities in France and England, and the multi-faceted crisis of the 14th and 15th centuries.",
+      "id": "CSUS_HIST 114",
+      "course name": "Europe in the High Middle Ages"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of the development of Italian City States and their relation to Northern Europe; an examination of the relationship among commerce, capitalism and secular culture; a survey of Reformation and Counter-Reformation.",
+      "id": "CSUS_HIST 115",
+      "course name": "The Renaissance and Reformation in Europe"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Political and social survey of Europe with emphasis on (a) the scientific revolution and the Enlightenment, (b) absolute monarchs and enlightened despots, (c) the American and French Revolutions, (d) Napoleon I, and (e) art, society and popular culture.",
+      "id": "CSUS_HIST 116",
+      "course name": "Europe, 1648-1815, The Age of Revolution"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Consideration of historical trends in 19th Century Europe. Emphasis on Germany and France.  Attention is devoted to liberalism, conservatism and nationalism; the industrial revolution, national unification, nationalism, imperialism and the rise of socialism.",
+      "id": "CSUS_HIST 117",
+      "course name": "Europe, 1815-1914"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Political and social development of Europe from the beginning of the 20th Century to the accession of Hitler to power in 1933 with emphasis on relations among the Great Powers.",
+      "id": "CSUS_HIST 118A",
+      "course name": "World War I: Causes, Conduct, Consequences"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Critical examination of political, military, social, and cultural transformations in the era of the Second World War.  Particular emphasis will be placed on diplomatic relations between the Great Powers, military conduct during the war, the experience of fascism, the causes and ramifications of the Holocaust, and the war's cultural and political legacy in Europe.",
+      "id": "CSUS_HIST 118B",
+      "course name": "World War II: Causes, Conduct, Consequences"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examination of major developments in Europe since the end of World War II.  Topics include:  the basic intellectual structures of the 20th century; the origins of the Cold War; the rise of the EEC; decolonization; the political and social upheaval of the l960's; d\u00e9tente; and the new preoccupation with nationalism and ethnic identity.",
+      "id": "CSUS_HIST 119",
+      "course name": "Europe"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "History of ancient-medieval medicine, the role of medicine in society, and attitudes toward illness and the body. Also covers alternative remedies such as magic and folk medicine. Primary focus on Greco-Roman medicine but also Sumerian, Egyptian, Christian and Islamic traditions.",
+      "id": "CSUS_HIST 120A",
+      "course name": "History of Medicine, Ancient and Medieval"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Explores the crucial social, cultural, intellectual, and political legacies of the Revolutionary and Napoleonic years (1789-1815) in France and across the globe.  In particular, examines ideas and policies regarding religious toleration, democratic participation, slavery, gender, and nationalism.",
+      "id": "CSUS_HIST 121",
+      "course name": "Democracy and Human Rights in the Era of the French Revolution and Napoleon"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Emphasis on the lives and experiences of women as they relate to the fundamental characteristics of Western culture. Topics include women and religion, production and economic institutions, reproduction and family structures, power and politics, women's self-definition. ",
+      "course name": "History of Women in Western Civilization, Prehistory-Middle Ages.",
+      "units": "3 Units",
+      "id": "CSUS_HIST 122A",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Emphasis on the lives and experiences of women as they relate to fundamental characteristics of Western culture. Topics include women and industrialization, the modern state, the development of feminism, feminism and socialism, revolutionary and reactionary movements. ",
+      "course name": "History of Women in Western Civilization, Renaissance-Present.",
+      "units": "3 Units",
+      "id": "CSUS_HIST 122B",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "The Crusading movement from the eleventh through the thirteenth centuries.  Explores the eight \"official\" Crusades, and explores the concept of \"crusading\" as Christian Holy War.  Extensively covers the intersection of Byzantine, Islamic, Catholic, and Jewish cultures in the Middle Ages, and incorporates religious, social, military, and political, history.",
+      "id": "CSUS_HIST 123",
+      "course name": "The Crusades"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Conduct of war from 336 B.C. to 1815. Social and political consequences; development of weaponry, strategy and tactics; Great Captains.",
+      "id": "CSUS_HIST 124A",
+      "course name": "Warfare: Alexander to Napoleon"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the inception, conduct and impact of European warfare from the French Revolution to the present. Students will be required to complete one or more projects designed to increase their understanding of modern warfare and its implications.",
+      "id": "CSUS_HIST 124B",
+      "course name": "European Warfare from the French Revolution to the Present"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "History of Germany from the fall of the Holy Roman Empire to the present. Topics will include the rise of German nationalism, the formation of the German nation-state, the Nazi era and the Holocaust, and postwar Germany's development.",
+      "id": "CSUS_HIST 125",
+      "course name": "Modern Germany, 1806-Present"
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Christianity from Jesus to Martin Luther. Emphasis on the evolution of Christian thought and institutions and the relationship of the Church to popular culture and secular powers. ",
+      "course name": "Evolution of Christianity to the Reformation",
+      "units": "3 Units",
+      "id": "CSUS_HIST 126",
+      "prerequisite": [
+        "HRS 126"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "European Christianity from the Reformation to the present. Emphasis on the evolution of Christian thought, the co-existence of the Catholic and Protestant traditions, and the relationship of religious and secular values in European society. ",
+      "course name": "Evolution of Christianity Since the Reformation",
+      "units": "3 Units",
+      "id": "CSUS_HIST 127",
+      "prerequisite": [
+        "HRS 127"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Examines the developments of English history from the Celtic Bronze Age to the fifteenth century.  Issues of race and ethnicity, gender, social classes, political ideology, religious toleration, economic developments, and artistic achievements will be examined in particular detail.",
+      "id": "CSUS_HIST 128A",
+      "course name": "Medieval England"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "History of England from the consolidation of royal power under Henry VII to the Hanoverian succession. Emphasis on the Tudor Renaissance and Reformation, the growth of England's international status under Elizabethan, Stuart rule, the Civil Wars, the dictatorship of Oliver Cromwell and the Restoration.",
+      "id": "CSUS_HIST 128B",
+      "course name": "Tudor and Stuart England, 1485-1714"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "History of the British Isles from Hanoverians to the Present. Emphasis upon the rise of Parliament, industrialization, reform, rise of labor, the two World Wars, the Welfare State and contemporary Britain.",
+      "id": "CSUS_HIST 128C",
+      "course name": "British History, 1714-Present"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Emergence of modern Russia from the principalities of medieval Russia. Emphasis on Eastern European, Byzantine, and Eurasian contributions to Russian history.",
+      "id": "CSUS_HIST 129A",
+      "course name": "Medieval Russia"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Emergence and collapse of imperial Russia as a continental world power from 1600 to 1917. Emphasis on the role of monarchy, a changing society and economy, and the growth of the educated public in the development of a distinctive imperial Russian culture and its final destruction in revolution.",
+      "id": "CSUS_HIST 129B",
+      "course name": "Imperial Russia"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Revolutionary origins of the Soviet Union, its rise as a global superpower, and its sudden dissolution.  Emphasis on the major political, economic, social, and cultural trends that defined Soviet civilization, as well as the Soviet legacy for contemporary Russia and the world.",
+      "id": "CSUS_HIST 129C",
+      "course name": "Twentieth Century Russia"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Causes and consequences of the dramatic transformations in the political, economic, and cultural life of the Soviet Union, eastern Europe, and China after 1970.  Topics include \"real-existing\" socialism, Gorbachev and the revolutions of 1989, the emergence of China, impact on the non-socialist world, and implications for the future.",
+      "id": "CSUS_HIST 130",
+      "course name": "The Fall Of Communism"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of the comparative history of sexuality in the pre-modern and modern world (including the United States and Europe). Topics include the intersections of gender, sexuality, race, and social status across societies and time periods; religion and sexual norms; sex, sexuality and the rise of the nation-state; sex and imperialism; and sexuality and the law.",
+      "id": "CSUS_HIST 131",
+      "course name": "History of Sexuality in Comparative Perspective"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". ",
+      "course name": "Topics In World History",
+      "units": "3 Units",
+      "id": "CSUS_HIST 132",
+      "prerequisite": [
+        "HIST 50",
+        "HIST 50"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "A survey of the major international themes and historical processes that shaped the twentieth century.  Designed for History majors and present or prospective teachers of history. ",
+      "course name": "Twentieth-Century World History",
+      "units": "3 Units",
+      "id": "CSUS_HIST 133",
+      "prerequisite": [
+        "HIST 51",
+        "HIST 51H"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course covers the origins of European colonialism in the Iberian expansion, the development of English and Dutch empires, the role of spices, slaves, sugar, and opium in the making of the modern global economy, the \" New Imperialism\" of the 19th Century, the anti-colonialist and nationalist movements, and the final collapse of the empires after World War II.",
+      "id": "CSUS_HIST 134",
+      "course name": "The Rise and Fall of European Colonial Empires"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Emphasizes Meso-American culture, the creation and flourishing of Spanish colonial culture, the independence movements, and the trials and tribulations of nationhood in the 19th century.",
+      "id": "CSUS_HIST 135A",
+      "course name": "History Of Mexico"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Political, social, economic and cultural history of the Mexican upheaval, from 1910 to 1920, and the development of Modern Mexico since 1920.",
+      "id": "CSUS_HIST 135B",
+      "course name": "Revolutionary and Modern Mexico"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "In-depth examination of the Spanish Civil War (1936-1939) focusing on its social, political, and cultural contexts. The course also examines the war's historical origins, immediate aftermath and implications for understanding modern Spain.",
+      "id": "CSUS_HIST 136",
+      "course name": "Spanish Civil War"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Comparative analysis of twentieth-century Latin American revolutions. Considers economic and political causes, revolutionary aims, and historical outcomes.",
+      "id": "CSUS_HIST 137A",
+      "course name": "Latin American Revolution 20th Century"
+    },
+    {
+      "units": "3 Units",
+      "description": "An analysis of films representing Latin American history from conquest through present.",
+      "id": "CSUS_HIST 137B",
+      "course name": "Latin American History in Film"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Survey course in the history of Latin America from the late fifteenth century to the early nineteenth century. ",
+      "course name": "Colonial Latin America.",
+      "units": "3 Units",
+      "id": "CSUS_HIST 138A",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Survey course in the history of Latin America from the early nineteenth centry to the present. ",
+      "course name": "Modern and Contemporary Latin America.",
+      "units": "3 Units",
+      "id": "CSUS_HIST 138B",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "; only one may count for credit.",
+      "description": ". ",
+      "course name": "Modern East Asian Cinema.",
+      "units": "3 Units",
+      "id": "CSUS_HIST 140",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X",
+        "ASIA 140"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "European control in Africa, African primary resistance and proto-nationalist movements, decolonization and post-independence, nation-building to present.",
+      "id": "CSUS_HIST 141",
+      "course name": "History of Africa"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the role of African women in politics, religion, the economy, the family and the arts from ancient times to the present. Considers the varying status of women in different regions of the continent. Also looks at the impact of kinship structures on women, development issues, and African responses to feminist discourse.",
+      "id": "CSUS_HIST 142",
+      "course name": "History of Women in Africa"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Surveys the history of the Muslim Middle East from the age of the Prophet Mohammed to the late Ottoman Empire. Topics include: the Islamic religious revolution; the splintering of the Islamic community into Sunnis, Shias and other Islamic minorities; the impact of Islam upon the European West; the Crusades; and Western influence at the end of the 18th century.",
+      "id": "CSUS_HIST 143A",
+      "course name": "Middle Eastern History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Surveys Middle Eastern history from 1800 to the present. Topics include: the late Ottoman Empire; World War I and state creation; western imperialism; Arab nationalism; Zionism; state building; modern economies and traditional societies; Islam and the modern state; and the Arab-Israeli conflict.",
+      "id": "CSUS_HIST 143B",
+      "course name": "The Modern Middle East"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the domestic and international political, social, and economic context of the overthrow of Indonesian President Sukarno, the mass murder of perhaps a million individuals associated with the Indonesian Communist Party, and subsequent US-backed military dictatorship of General Suharto.",
+      "id": "CSUS_HIST 144",
+      "course name": "Indonesia, 1965: Context, Causes, and Consequences of Cold War Mass Murder"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "South Asian history from the Indus Valley Civilization to the 1947 partition of British India to the nation-states of India and Pakistan. Topics include: development of Hinduism, Buddhism, Jainism, and Sikhism; rise and fall of the Mauryan, Mughal, and British empires; Indian philosophy, art, literature; South Asian expressions of Islam, Judaism, and Christianity; elite and popular religious syncretism; gender and sexuality in South Asia; Portuguese and British colonialism; South Asian nationalism; and the life and thought of Mahatma Gandhi.",
+      "id": "CSUS_HIST 145",
+      "course name": "South Asian History & Civilization"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "History of traditional Japan stressing developments in literature, drama, art, religion and philosophy in the context of political, social and economic development. Movies, slides and readings in Japanese literature will be used.",
+      "id": "CSUS_HIST 146A",
+      "course name": "Cultural History of Japan"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Roots of modernization in late feudal Japan; Western impact; political, economic and social modernization; the growth and decline of democratic institutions; militarism and World War II; U.S. occupation; and Japan's impressive \"success story\" 1950-present.",
+      "id": "CSUS_HIST 146B",
+      "course name": "Modern Japan, 1800-present"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "A survey of the history of manga (Japanese graphic novels) that will trace the historical antecedents of manga from ancient Japan to today. The course will focus on major artists, genres, and works of manga produced in Japan and translated into English.",
+      "id": "CSUS_HIST 146C",
+      "course name": "The History of Manga"
+    },
+    {
+      "term": "Cross listed: ",
+      "description": "Examines in cultural and historical perspective, drawing from ancient and contemporary sources, the key practices and ideas of Buddhist traditions in India, China, Southeast Asia, Tibet, Japan and other surrounding regions; as well as the most recent spread of these practices and ideas to Europe, North America, and Australia. ",
+      "course name": "History of Buddhism",
+      "units": "3 Units",
+      "id": "CSUS_HIST 147",
+      "prerequisite": [
+        "HRS 147"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Historical development of China from the Neolithic period to the end of the 16th Century.  In addition to texts and records, other sources such as archaeology, literature, and art will be examined to gain understanding of and appreciation for the longevity of China as a culture and a polity.  Traditionally neglected groups such as women and the lower classes will be emphasized.",
+      "id": "CSUS_HIST 148A",
+      "course name": "China: Antiquity to 1600 AD"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "The transformation of China since the 17th Century.  Examines the internal tensions of population growth and social unrest, as well as external pressures of encroaching imperialism and modern values of freedom and democracy.  Revolution, communism, modernization, and nationalism will be addressed.",
+      "id": "CSUS_HIST 148B",
+      "course name": "China, 1600 to Present"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the historical formation of Southeast Asia, how European colonization integrated Southeast Asia into the global economic order, and how the region became a critical strategic zone in the Second World War and the Cold War.  Traces the centuries long formation of nations of Southeast Asia, the second half will focus on political and economics developments of the 20th Century.",
+      "id": "CSUS_HIST 149",
+      "course name": "The Making of Modern Southeast Asia"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Development of the British mainland colonies from exploration, contact, and settlement to the age of the American Revolution.  Topics include: background to colonization; mercantilism, the emergence of a multicultural society; regional variation; Native Americans, slavery, women and family, community formation, religion, education, Enlightenment in America, European rivalries, imperialism.",
+      "id": "CSUS_HIST 150",
+      "course name": "Colonial America"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Causes and consequences of the American Revolution.  Topics include: Whig ideology, popular politics, loyalism, economic concerns, the western frontier, Native Americans, African-Americans, and women during the era, the course of the war with Great Britain, the Confederation and Constitution, social consequences of the Revolution.",
+      "id": "CSUS_HIST 151",
+      "course name": "The Age of the American Revolution"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Beginnings of government under the Constitution; the U.S. in a warring world; Thomas Jefferson and Andrew Jackson; market economy, canals and factories; nationalism, the debate over slavery, and emerging sectionalism.",
+      "id": "CSUS_HIST 152",
+      "course name": "Young Republic, 1790-1840"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Political history of the Civil War and Reconstruction. Topics include sectionalism; slavery, westward expansion, secession, the conduct of the war, industrialization, and the changing status of African Americans.",
+      "id": "CSUS_HIST 153",
+      "course name": "Civil War and Reconstruction, 1840-1890"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "U.S. response to urban, industrial growth from the origin of the Spanish-American War to Franklin D. Roosevelt. Progressivism, Imperialism, World War I, the decade of the 1920's; Depression and the New Deal.",
+      "id": "CSUS_HIST 154",
+      "course name": "20th Century United States, 1890-1940"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Social, economic, and cultural challenges and achievements in U.S. life as they are reflected in political history. Emphasis upon domestic affairs, supplemented by foreign concerns that have presented fundamental choices to the American people.",
+      "id": "CSUS_HIST 155",
+      "course name": "20th Century United States, 1941-Present"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the key events and ideas that helped shape American politics and culture in the 1960s.  Special emphasis placed on political power, race and racism, the role of dissent and social activism, and nonviolent civil disobedience.  Covers the Vietnam War, the African-American Civil Rights movement, the Chicano movement, the women's movement, the counterculture, as well as social conflict and its resolution. ",
+      "id": "CSUS_HIST 156",
+      "course name": "The Sixties: Years of Hope, Days of Rage"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of the history of international relations (political, military, economic, cultural, and environmental) in the 20th century.  Covers Europe, Asia, the Middle East, Africa, and the Americas, with emphasis on global events and issues from non-U.S. perspectives.",
+      "id": "CSUS_HIST 157",
+      "course name": "History of International Relations in the 20th Century"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey from the colonial militia to the present, including all military branches, with emphasis on the U.S. Army.  In addition to doctrine, operations, weapons and warfare,  focuses on the interrelationship of the military with the economic, social and political concerns of the American nation.",
+      "id": "CSUS_HIST 158",
+      "course name": "Military History of the United States"
+    },
+    {
+      "units": "3 Units",
+      "term": " Fulfills state graduation requirement for U.S. History. ",
+      "description": "Diplomatic, military, economic, and cultural relations between the U.S. and the world from 1789 to the present, with emphasis on the 20th Century; focus on transformation of U.S. into a global power. ",
+      "id": "CSUS_HIST 159",
+      "course name": "History of US Foreign Relations"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Case study of the making of foreign policy through seven presidencies. Identifies the causes of an American war in Vietnam and examines that involvement as a representative example of post-World War II U.S. globalism. Consideration of the domestic impact of the War and a critical examination of the \"lessons\" learned from it.",
+      "id": "CSUS_HIST 160",
+      "course name": "The United States in Vietnam, 1940-1975"
+    },
+    {
+      "units": "3 Units",
+      "term": " Fulfills state graduation requirement for U.S. History. ",
+      "description": "Media survey of American life from the beginnings to the present. Integrates slides of American art, architecture, popular culture, and technology with history, literature and contemporary music. ",
+      "id": "CSUS_HIST 161",
+      "course name": "The American Vision"
+    },
+    {
+      "units": "3 Units",
+      "term": " Fulfills state graduation requirement for U.S. History. ",
+      "description": "Survey of topics in American social history from the colonial period to the middle of the Twentieth Century. Subjects may include reform movements, immigration, racial problems, religion, medicine, and the role of women. ",
+      "id": "CSUS_HIST 162",
+      "course name": "Social History of the United States"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Role of the city in the American experience, with emphasis on the rapid urbanization of the 19th and 20th centuries. Attention given to the attractions and problems of urban life and to proposals for reforming the cities.",
+      "id": "CSUS_HIST 163",
+      "course name": "The City in US History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Cross Listed: GOVT 164; only one may be counted for credit.",
+      "description": "Survey of U.S. business from the colonial era to the present that places U.S. business in a global context.  Examines how individual entrepreneurs and regulators have contributed to the development of the modern American political economy. ",
+      "id": "CSUS_HIST 164",
+      "course name": "History of American Capitalism"
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Traces the changing relationship between human society and the natural environment from pre-colonial era to the present. Focuses on the interplay between industrialization and nature, and examines past and present environmental movements. ",
+      "course name": "American Environmental History",
+      "units": "3 Units",
+      "id": "CSUS_HIST 165",
+      "prerequisite": [
+        "ENVS 165"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on entertainment and everyday life in America from the beginnings to the present. Enhances the students' understanding of how popular culture reflects and shapes the larger issues and institutions of American life.",
+      "id": "CSUS_HIST 166",
+      "course name": "Popular Culture"
+    },
+    {
+      "units": "3 Units",
+      "term": " Fulfills state graduation requirement for U.S. History. ",
+      "description": "Study of the role of women throughout American history with emphasis on the suffrage movement, abolitionism, and birth control. Considers the emancipation of women and their role in contemporary society. ",
+      "id": "CSUS_HIST 167",
+      "course name": "History of American Women"
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Interdisciplinary survey of major events, trends and figures in American history viewed through American literature, visual arts, music and architecture. The arts in America are studied in relation to major ideas, significant personalities and important historical events from the period of the early republic to the present. ",
+      "course name": "",
+      "units": "3 Units",
+      "id": "CSUS_ ",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X",
+        "HRS 168"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Chronological survey of American films and their cultural significance from the 1890's to the present. Focus on films produced in Hollywood, the contexts in which they were created, and the impact of Hollywood as a mythical place in the development of American culture. ",
+      "course name": "Hollywood and America",
+      "units": "3 Units",
+      "id": "CSUS_HIST 169",
+      "prerequisite": [
+        "HRS 169"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "History of North American native people from before the European invasion to 1840. Particular attention given to the formation of indigenous societies before and during European colonization of the Americas and to the experience of Indian cultures, societies, and nations in the early U.S.",
+      "id": "CSUS_HIST 171A",
+      "course name": "American Indian History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "History of North American native people from 1840 to the present. Particular attention given to Indian nations' engagement with the Indian policies of the United States and the persistence and adaptation of American Indian cultures, societies, and identities in the modern U.S.",
+      "id": "CSUS_HIST 171B",
+      "course name": "American Indian History"
+    },
+    {
+      "term": "; only one may be taken for credit.",
+      "description": "This course provides an introduction to the study of lesbian, gay, bisexual, transgender, and queer (LGBTQ) histories. Uses an interdisciplinary and comparative approach to explore the historical emergence and development of LGBTQ identities, communities, and political movements. Includes theoretical analysis of the history of gender and sexuality and the practice of historical analysis. ",
+      "course name": "LGBTQ Histories",
+      "units": "3 Units",
+      "id": "CSUS_HIST 172",
+      "prerequisite": [
+        "WOMS 172"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the campaign for civil rights waged by African Americans from the Reconstruction era through the present. Treats the movement's roots, goals, main organizations, and its relationship with African American culture in this period.  Includes a comparison with the experiences of Mexican Americans and Native Americans.",
+      "id": "CSUS_HIST 173",
+      "course name": "The History of the Civil Rights Movement: From Reconstruction to Deconstruction, 1865-Present."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Study of mental and physical disability in United States history from colonial times to the present. Emphasizes disability as a social and cultural construction and examines how disability intersects with historical constructions of race, class, gender, and sexuality. Includes lived experiences of disabled Americans, changing cultural perceptions of disabled Americans, and disability activism and legislative action, including the passage of the Americans with Disabilities Act and its aftermath.",
+      "id": "CSUS_HIST 174A",
+      "course name": "History of Disability in the United States"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only \u2013 odd years",
+      "description": "Explores efforts to control reproduction in America in the nineteenth and twentieth centuries.  It examines the medical and legal institutions that shaped public policy and the general public's response to efforts to regulate citizens' reproduction, sexuality, and healthcare.  It also investigates how race, ethnicity, class, and gender determined the types of reproductive choices available to Americans.",
+      "id": "CSUS_HIST 175A",
+      "course name": "Sex, Population, and Birth Control in America"
+    },
+    {
+      "units": "3 Units",
+      "term": "Cross Listed: ETHN 176; only one may be counted for credit.",
+      "description": "Focuses on the legacies of African cultural and social systems among the diasporic Africans in the Americas in the 19th and 20th centuries. Primary focus is on the U.S., but also examines African retentions in Jamaica, Haiti, Cuba, and South America. ",
+      "id": "CSUS_HIST 176",
+      "course name": "African Cultural Heritage in the Americas"
+    },
+    {
+      "units": "3 Units",
+      "term": " Fulfills the state graduation requirements for U.S. History. ",
+      "description": "Gives students an understanding of African-American history from the colonial period to the present. Focuses on African-Americans as active agents in shaping U.S. History, and analyzes the issues, ideas and strategies they have developed and used in their struggle for justice and equality. ",
+      "id": "CSUS_HIST 177",
+      "course name": "The African-American Experience, 1603-Present."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Explores the contours of Mexican American history from the Spanish colonial experience through the present.  Examines the roots of the Chicano community in the U.S. conquest of the Southwest, the twentieth-century immigration experience, the development of diverse Chicano communities after 1900, and the struggles for full civil rights in American society.  Compared with the experiences of African Americans and Native Americans.",
+      "id": "CSUS_HIST 178",
+      "course name": "Mexican-American History."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of immigration in American life.  Particular attention given to the shifting causes and patterns of immigration, similarities and differences among the experiences of immigrants in the U.S., nativism, the development of immigration restrictions, and the effects of immigration on the life of the nation over time.",
+      "id": "CSUS_HIST 179",
+      "course name": "American Immigration History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Examines the interaction of law, society, and politics in America from the colonial period to the present, with special emphasis on law as an arena of social and cultural conflict.  Major topics include the development of the common law in early America; the law of slavery and its impact on constitutional development; the role of the law in defining controversies over race and gender; legal thought and education; and the role of the Supreme Court in 20th Century America.",
+      "id": "CSUS_HIST 180",
+      "course name": "American Legal History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course explores the intersection of anti-authoritarian ideologies, transnational migration and anarchist movements in the United States. It will focus on the time period of 1871 through 1940 and the ways in which concepts of \"liberty\" informed radical movements. Topics may include: European and Caribbean origins of anti-authoritarianism, immigrant enclaves, radical labor, anarchism, anarchist periodicals, and selected liberation movements.",
+      "id": "CSUS_HIST 181",
+      "course name": "Anarchists and Revolutionaries: Transnational Radicalism in America"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the Spanish and Indian frontiers, the advance of the Anglo-American settlers, and the emergence of the modern West.",
+      "id": "CSUS_HIST 182",
+      "course name": "American West"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the people, institutions and cultural influence of Spanish-Mexican California and the changes brought by U.S. conquest and the Gold Rush.",
+      "id": "CSUS_HIST 183A",
+      "course name": "California History, 1542-1860"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the social, political and economic evolution of California from construction of the first continental railroad link to the present, focusing on issues which are still significant in the state.",
+      "id": "CSUS_HIST 183B",
+      "course name": "California History, 1860-1970"
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "A survey of the history of California architecture and its impact on the urban environment from Native Americans to the 20th Century. Particular attention will be given to architecture as a statement of social, economic, and political empowerment. ",
+      "course name": "California Architecture and Urban History",
+      "units": "3 Units",
+      "id": "CSUS_HIST 184",
+      "prerequisite": [
+        "ART 118B"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Historical study of California's native people and Indian-white relations from the Spanish colonial era to the present.",
+      "id": "CSUS_HIST 185",
+      "course name": "California Indian History"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of the social, cultural, economic, political, and environmental influences of the California Gold Rush in the contexts of state, national, and world history.  ",
+      "course name": "The California Gold Rush",
+      "units": "3 Units",
+      "id": "CSUS_HIST 186A",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of the history of water in California, including its social, cultural, legal, economic, political, land use, and environmental significance.  ",
+      "course name": "History of California Water",
+      "units": "3 Units",
+      "id": "CSUS_HIST 186B",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Surveys the history of Sacramento and the lower Sacramento Valley through the nineteenth, twentieth, and early twenty-first centuries. Using local history methodologies, explores landscape change and patterns of community development in Sacramento and situates the city and region within national and global historical contexts.",
+      "id": "CSUS_HIST 186C",
+      "course name": "Sacramento History"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". ",
+      "course name": "Topics in United States History 1600-1900",
+      "units": "3 Units",
+      "id": "CSUS_HIST 187",
+      "prerequisite": [
+        "HIST 17A",
+        "HIST 17A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of the history of working people in the United States from the colonial period to the present.  Topics include labor systems from slavery to wage work, strategies of labor organizations, race and labor, radicalism and reform, immigration and labor, labor and leisure, women and work, and globalization.",
+      "id": "CSUS_HIST 188",
+      "course name": "American Labor History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the cultural history of California as reflected in the humanities - art, music, literature, and film - from early American settlement and conquest to the present.",
+      "id": "CSUS_HIST 189",
+      "course name": "California Dreamin': A Cultural History of California"
+    },
+    {
+      "term": "Spring only",
+      "description": "Seminar devoted to learning the editing and publishing side of the history profession. Students will produce the student history journal Clio. ",
+      "course name": "Clio: Editing and Publishing in History",
+      "units": "3 Units",
+      "id": "CSUS_HIST 190",
+      "prerequisite": [
+        "HIST 100"
+      ]
+    },
+    {
+      "term": " Not open to lower division students.  ",
+      "description": "Reading seminar in philosophy of history, historical methodology, and historical reasoning.  Special focus on the instructor's field of expertise.  Designed for History majors and present and prospective teachers of history. ",
+      "course name": "Seminar in Historical Interpretation and Analysis",
+      "units": "3 Units",
+      "id": "CSUS_HIST 191",
+      "prerequisite": [
+        "HIST 100",
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": " Not open to lower division students.  ",
+      "description": "Reading seminar in recent scholarship and current trends in the interpretation of United States history. Designed especially for History majors and present and prospective teachers of history. ",
+      "course name": "Seminar in Recent Interpretations of United States History",
+      "units": "3 Units",
+      "id": "CSUS_HIST 192A",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": " Not open to lower division students.  ",
+      "description": "Reading seminar in recent scholarship and current trends in the interpretation of  European history.  Designed especially for History majors and present and prospective teachers of history. ",
+      "course name": "Seminar in Recent Interpretations of European History",
+      "units": "3 Units",
+      "id": "CSUS_HIST 192B",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Not open to lower division students.  ",
+      "description": "Reading seminar in recent scholarship and current trends in the interpretation of Asian history.  Designed especially for History majors and present and prospective history teachers. ",
+      "id": "CSUS_HIST 192C",
+      "course name": "Seminar in Recent Interpretations of Asian History"
+    },
+    {
+      "units": "3 Units",
+      "term": " Not open to lower division students.  ",
+      "description": "Reading seminar in recent scholarship and current trends in the interpretation of African history.  Designed especially for History majors and present and prospective history teachers. ",
+      "id": "CSUS_HIST 192E",
+      "course name": "Seminar in Recent Interpretations of African History"
+    },
+    {
+      "units": "3 Units",
+      "term": " Not open to lower division students.  ",
+      "description": "Reading seminar in recent scholarship and current trends in the interpretation of Latin American history.  Designed especially for History majors and present and prospective history teachers. ",
+      "id": "CSUS_HIST 192F",
+      "course name": "Seminar in Recent Interpretations of Latin American History"
+    },
+    {
+      "units": "3 Units",
+      "term": " Not open to lower division students.  ",
+      "description": "Reading seminar in recent scholarship and current trends in the interpretation of a special topic.  Designed especially for History majors and present and prospective history teachers. ",
+      "id": "CSUS_HIST 192Z",
+      "course name": "Seminar in Recent Interpretations of a Special Topic"
+    },
+    {
+      "term": " Field trip. Students will be required to attend field trips to public history institutions both on and off campus.  ",
+      "description": "Course engages students in the work of historians in public practice. Covers theory and methods of public history through hands-on experience, field trips, guest speakers, and directed readings and discussion. Topics include: Archives, Museums, Historic Preservation, Cultural Resource Management, Heritage Tourism, Digital History, World Heritage, and Historical Memory. ",
+      "course name": "Public History",
+      "units": "3 Units",
+      "id": "CSUS_HIST 193",
+      "prerequisite": [
+        "HIST 100"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduces students to the theory and practice of oral history. Examines ethical and legal issues as well as problems of accuracy in memory. Students will also learn how to conduct, transcribe, and edit oral histories and develop oral history projects. ",
+      "course name": "Oral History: Theory and Practice",
+      "units": "3 Units",
+      "id": "CSUS_HIST 194",
+      "prerequisite": [
+        "ENGL 109M"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring, Summer",
+      "description": "Supervised work and project experience with history-related agencies and organizations, developing entry level skills. May not be repeated for credit. ",
+      "id": "CSUS_HIST 195A",
+      "course name": "History Internship"
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Supervised work and project experience with history-related agencies and organizations, developing more advanced entry level skills and practice in communicating history to public audiences. May not be repeated for credit. ",
+      "course name": "Advanced History Internship",
+      "units": "3 Units",
+      "id": "CSUS_HIST 195B",
+      "prerequisite": [
+        "HIST 195A"
+      ]
+    },
+    {
+      "term": " Limited to upper division majors in the pre-credential program and students who have an interest in teaching history at the secondary level.  ",
+      "description": "Supervised classroom observations and historical research to assist with curriculum development in secondary grade level history classrooms, with accredited schools, teaching related agencies and organizations. Students improve historical research skills, content mastery, and develop knowledge of using primary sources in history teaching. Students are exposed to secondary grade level history classrooms and observe instructional methods. ",
+      "course name": "History Pre-credential Internship",
+      "units": "3 Units",
+      "id": "CSUS_HIST 195T",
+      "prerequisite": [
+        "HIST 17A",
+        "HIST 17B",
+        "HIST 50",
+        "HIST 51",
+        "HIST 100"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Overview of the history of the Ottoman Empire from its rise in the 13th century to its demise in the early 20th century. Topics include Ottoman state structure, military, economy, legal system, society, culture, and legacy.",
+      "id": "CSUS_HIST 196A",
+      "course name": "The Ottoman Empire"
+    },
+    {
+      "units": "3 Units",
+      "term": "Winter",
+      "description": "A three-week course, with a two week Study-Abroad portion to Matsuyama Japan. Students will learn about Japanese history in both a classroom setting and through field trips to local sites in Ehime and Hiroshima prefectures. Field trip.",
+      "id": "CSUS_HIST 196M",
+      "course name": "Japanese History in Japan"
+    },
+    {
+      "term": " Not open to lower division students.  ",
+      "description": "Research seminar in historical writing in which students will complete a research paper in United States History based on primary sources. Subject will vary according to instructor.  Recommended for the second semester of the senior year. ",
+      "course name": "Senior Research Seminar:  United States History",
+      "units": "3 Units",
+      "id": "CSUS_HIST 197A",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": " Not open to lower division students.  ",
+      "description": "Research seminar in historical writing in which students will complete a research paper in world history based on primary sources. Subject will vary according to instructor.  Recommended for the second semester of the senior year. ",
+      "course name": "Senior Research Seminar: World History",
+      "units": "3 Units",
+      "id": "CSUS_HIST 197B",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": " Not open to lower division students.  ",
+      "description": "Introduction to bibliographic and research skills in secondary and primary sources, and the development of expertise in writing historical reports. Particular attention to regional research libraries, manuscript repositories and archival facilities. ",
+      "course name": "Senior Research Seminar: Public History",
+      "units": "3 Units",
+      "id": "CSUS_HIST 197C",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Capstone seminar that serves as a bridge between academic preparation and entry into a professional teacher credential program. Students will examine social science-history in the State curriculum framework, reflect on subject matter preparation, focus on middle and high school social science teaching and learning, investigate and evaluate resources pertinent to instruction, and explore current issues in education. ",
+      "course name": "Summative Assessment for Teachers",
+      "units": "3 Units",
+      "id": "CSUS_HIST 198",
+      "prerequisite": [
+        "HIST 100"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Individual projects or directed reading. Open only to students who appear competent to carry on individual work.",
+      "id": "CSUS_HIST 199",
+      "course name": "Special Problems"
+    },
+    {
+      "units": "3 Units",
+      "term": " Graduate Writing Intensive (GWI) course.  ",
+      "description": "Study of the theoretical schools and debates that have most influenced historical research and writing in the modern era. Introduces students to both important theoretical texts and their applied use. It is designed to provide an intellectual foundation for subsequent graduate-level history seminars. ",
+      "id": "CSUS_HIST 200",
+      "course name": "History and Theory."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of historical interpretations of major issues and problems in world history. Helps students to define world history as a field and to consider different approaches to teaching and/or researching world history topics. ",
+      "id": "CSUS_HIST 201",
+      "course name": "Interpreting World History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of historical interpretations of major issues and problems in US history. Helps students to define US history as a field and to consider different approaches to teaching and/or researching US history topics. ",
+      "id": "CSUS_HIST 202",
+      "course name": "Interpreting U.S. History"
+    },
+    {
+      "units": "3 Units",
+      "term": " Graduate Writing Intensive (GWI) course.  ",
+      "description": "Provides an introduction to public history by surveying the major topics in the field through readings, discussion, and guest lectures. Students will learn about the history of public history, employment opportunities for public historians, and public historical issues. ",
+      "id": "CSUS_HIST 203",
+      "course name": "Public History Principles and Techniques."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Research seminar in fields of special interest. Topics will be announced each semester. ",
+      "id": "CSUS_HIST 209A",
+      "course name": "Research and Writing in US History"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided the period or the topic is different.  ",
+      "description": "Research seminar in fields of special interest in the history of the American West.  Topics will be announced each semester. ",
+      "id": "CSUS_HIST 209B",
+      "course name": "Research and Writing in the History of the American West"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided the period or the topic is different.  ",
+      "description": "Research seminar in fields of special interest in the history of regions outside the U.S.  Topics will be announced each semester. ",
+      "id": "CSUS_HIST 209C",
+      "course name": "Research and Writing in World History"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided the period or the topic is different.  ",
+      "description": "Extensive reading and analysis of the significant historical literature on a topic in African or Asian history.  The area or topic to be studied will change from term to term. ",
+      "id": "CSUS_HIST 280A",
+      "course name": "Reading Seminar in African or Asian History"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided the period or the topic is different.  ",
+      "description": "Extensive reading and analysis of the significant historical literature on a topic in ancient or medieval European history.  The area or topic to be studied will change from term to term. ",
+      "id": "CSUS_HIST 280B",
+      "course name": "Reading Seminar in Ancient or Medieval European History"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided the period or the topic is different.  ",
+      "description": "Extensive reading and analysis of the significant historical literature on a topic in early modern or modern European history.  The area or topic to be studied will change from term to term. ",
+      "id": "CSUS_HIST 280C",
+      "course name": "Reading Seminar in Modern European History"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided the period or the topic is different.  ",
+      "description": "Extensive reading and analysis of the significant historical literature in world history.  The area of topic to be studied will change from term to term. ",
+      "id": "CSUS_HIST 280Z",
+      "course name": "Reading Seminar: Topics in World History"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided the period or the topic is different.  ",
+      "description": "Extensive reading and analysis of the significant historical literature of a particular period or topic in colonial North American or early U.S. history; the era or topic to be studied will vary from semester to semester. ",
+      "id": "CSUS_HIST 281A",
+      "course name": "Reading Seminar in Colonial or Early US History"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided the period or the topic is different.  ",
+      "description": "Extensive reading and analysis of the significant historical literature of a particular period or topic in nineteenth century U.S. history; the era or topic to be studied will vary from semester to semester. ",
+      "id": "CSUS_HIST 281B",
+      "course name": "Reading Seminar in Nineteenth Century US History"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided the period or the topic is different.  ",
+      "description": "Extensive reading and analysis of the significant historical literature of a particular period or topic in U.S. history after 1900; the era or topic to be studied will vary from semester to semester. ",
+      "id": "CSUS_HIST 281C",
+      "course name": "Reading Seminar in Modern US History"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit provided the period or the topic is different.  ",
+      "description": "Extensive reading and analysis of significant historical literature of a particular period or topic in U.S. history; the era or topic to be studied will vary from semester to semester. ",
+      "id": "CSUS_HIST 281Z",
+      "course name": "Reading Seminar: Topics in United States History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Professional training in the research and analysis of cartographic, archival, architectural, and artifactual sources related to public history. Attention to such research areas as cultural resources management, environmental impact, and historic sites and structures. ",
+      "id": "CSUS_HIST 282A",
+      "course name": "Research Seminar in Public History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Professional training in archives and manuscripts administration. Historical development of archives and manuscripts administration, theoretical concepts that underlie the discipline, integration of these concepts into practice, and various uses of archival resources. ",
+      "id": "CSUS_HIST 282B",
+      "course name": "Archives and Manuscripts"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Professional training in oral history, with attention to the field's historical and theoretical development. Emphasis is placed on the methodology of oral history in the context of selected public history topics. Students learn to prepare for, conduct, transcribe, and edit oral history interviews. ",
+      "id": "CSUS_HIST 282C",
+      "course name": "Oral History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Intensive introduction to museum theory, practice, and management.  Concentrates on providing an understanding of museums including museum exhibitions, collections, and acquisition policy. Students will have opportunities for practical museum experience and for meeting museum professionals. ",
+      "id": "CSUS_HIST 282D",
+      "course name": "Museum Studies"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Overview of the different aspects of historic preservation, including downtown revitalization, neighborhood organization, historic site management, preservation legislation, preservation education and historic architecture. The history of historic preservation in the U.S. Students will engage in on-site visits to historic sites. ",
+      "id": "CSUS_HIST 282E",
+      "course name": "Historic Preservation"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of theoretical schools and debates regarding the formation, transformation, and transmission of collective memory. Draws upon theoretical literature on group memories from the social sciences and humanities, and it examines the importance of this literature for public and academic historians. ",
+      "id": "CSUS_HIST 282F",
+      "course name": "History and Memory"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Intensive seminar in a particular topic related to public history studies. Topics may include urban history, California history, demographics, visual history and public history. ",
+      "id": "CSUS_HIST 282Z",
+      "course name": "Special Topics in Public History"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Seminar devoted to learning the editing and publishing side of the history profession. Students will produce the student history journal Clio.",
+      "id": "CSUS_HIST 290",
+      "course name": "Clio: Editing and Publishing in History"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit  ",
+      "description": "Supervised work and project experience with history-related agencies and organizations, developing entry-level professional skills. ",
+      "id": "CSUS_HIST 295",
+      "course name": "History Internship"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Professional work experience in a specialized field of public history, with training and supervision as part of the Capital Campus Graduate Program in Public History. ",
+      "course name": "Advanced Internship",
+      "units": "3 Units",
+      "id": "CSUS_HIST 297",
+      "prerequisite": [
+        "HIST 295"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students who appear competent to carry on individual work; May be repeated for credit. ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_HIST 299",
+      "course name": "Special Problems"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Seminar devoted to the teaching of college history. Students will intern in lower division courses.",
+      "id": "CSUS_HIST 400",
+      "course name": "The Teaching of History in College"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Credit given upon successful completion of one of the following: A.) Thesis. An original contribution to historical knowledge, which includes the statement of a problem, a review of pertinent literature, the collection and presentation of relevant material, a conclusion, and a formal bibliography, all presented with appropriate documentation; OR B.) Project. A significant undertaking appropriate to public history, based upon the relevant literature, research skills, and applied expertise in areas of professional concern. Available for MA, Public History Option students only; OR C.) Comprehensive Examination. Structured and supervised reading programs for MA candidates preparing for the History Comprehensive Examination. ",
+      "id": "CSUS_HIST 500",
+      "course name": "Culminating Experience"
+    }
+  ],
+  "subjectOf": {
+    "id": "HIST",
+    "subject": "History"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "History",
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "subjectOf": {
+    "id": "MCRO",
+    "subject": "Microbiology"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Microbiology"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_MCRO 100",
+      "course name": "Introduction to Microbiology Research",
+      "prerequisite": [
+        "BIO 161"
+      ],
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Group research experience in microbiology through participation in a faculty - student research project. Foundations of the scientific method including literature review, design of experiments, common laboratory techniques, data analysis, interpretation of results and scientific communication. Intended for freshmen and sophomores with no research experience. Priority to MCRO majors. Credit / No Credit grading only.",
+      "format": "1 seminar, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MCRO 221",
+      "course name": "Microbiology",
+      "prerequisite": [
+        "CHEM 110 or CHEM 111 or CHEM 124 or CHEM 127 or PSC 102"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area b2; ge area b4"
+      ],
+      "description": "Morphology, metabolism, classification, and identification ; microbiology of air, soil, water, and foods with applications to industry, agriculture, medicine, and public health. Not open to students with credit in MCRO224 ; not open for major credit for",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "BIO / MCRO / MSCI."
+    },
+    {
+      "id": "CalPoly_MCRO 224",
+      "course name": "General Microbiology I",
+      "prerequisite": [
+        "BIO 161",
+        "CHEM 111",
+        "CHEM 124 or CHEM 127"
+      ],
+      "units": "5 units",
+      "term": [
+        "ge area b2; ge area b4"
+      ],
+      "description": "Microbial cellular structure and function, nutrition and growth dynamics, control of microbial growth, metabolism, genetics, and viruses. Both prokaryotic and eukaryotic microorganisms emphasized.",
+      "format": "3 lectures, 2"
+    },
+    {
+      "id": "CalPoly_MCRO 225",
+      "course name": "General Microbiology II",
+      "prerequisite": [
+        "MCRO 224"
+      ],
+      "units": "5 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Microbial diversity, systematics, ecology, and symbiotic relationships. Introduction to host - microorganism interactions including pathogenesis, epidemiology, and immunology.",
+      "format": "3 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_MCRO 301",
+      "course name": "Wine Microbiology",
+      "prerequisite": [
+        "WVIT 202"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Wine yeasts, bacteria, and molds : morphology and methods of identification ; successful alcoholic and malolactic fermentations ; management and prevention of unwanted microbial growth ; micro - organisms and flavor development.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as MCRO / WVIT301."
+    },
+    {
+      "id": "CalPoly_MCRO 320",
+      "course name": "Emerging Infectious Diseases",
+      "prerequisite": [
+        "BIO 161",
+        "MCRO 221 or MCRO 224"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Summer"
+      ],
+      "description": "Recent outbreaks of human diseases, interrelationships between infectious disease agents, human biology, and the environment. Infectious agents and disease processes, virulence mechanisms, and host immune response. Clinical approaches and surveillance methods to detect, investigate, and monitor emerging pathogens. Factors involved in the accelerating emergence of diseases and bioterrorist agents.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_MCRO 342",
+      "course name": "Public Health Microbiology",
+      "prerequisite": [
+        "MCRO 221 or MCRO 224"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Principles of disease prevention and control. Water-, food-, and air - borne microbial contaminations and epidemiology of ensuing diseases.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MCRO 402",
+      "course name": "General Virology",
+      "prerequisite": [
+        "BIO 351 or CHEM 373"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Infective macromolecules ( prions, viroids, and viruses ) associated with microbes, plants, and animals. Epidemiology, immune responses, pathogenicity, carcinogenesis, diagnoses, vaccination, and therapy.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MCRO 421",
+      "course name": "Food Microbiology",
+      "prerequisite": [
+        "MCRO 221 or MCRO 224"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Physiological activities of microorganisms involved in the preparation, preservation, deterioration, and toxicity of foods and related products. Detection and prevention of spoilage microorganisms and foodborne pathogens.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_MCRO 423",
+      "course name": "Medical Microbiology",
+      "prerequisite": [
+        "MCRO 225",
+        "CHEM 216",
+        "CHEM 312 or CHEM 316"
+      ],
+      "units": "5 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Microorganisms as agents of disease in humans. Epidemiology, host - parasite relationships, and chemotherapy. The compromised host and opportunistic disease. Laboratory safety. Procedures for laboratory diagnosis of human diseases. Rapid miniaturized methods of identification.",
+      "format": "3 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_MCRO 424",
+      "course name": "Microbial Physiology",
+      "prerequisite": [
+        "MCRO 225",
+        "CHEM 313 or CHEM 371"
+      ],
+      "units": "5 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Cellular structure and life processes of bacteria ; chemical composition, growth, and metabolism. General biological and evolutionary considerations.",
+      "format": "3 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_MCRO 433",
+      "course name": "Microbial Biotechnology",
+      "prerequisite": [
+        "MCRO 221 or MCRO 224",
+        "BIO 303 or BIO 351 or equivalent",
+        "CHEM 216",
+        "CHEM 312 or CHEM 316 or equivalent"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Principles and methods used for production of enzymes, pharmaceuticals, chemicals, and food additives using micro - organisms. Topics include screening and strain improvement, regulation of metabolite production, genetic engineering, heterologous gene expression systems, large - scale production, and intellectual property.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_MCRO 436",
+      "course name": "Microbial Ecology",
+      "prerequisite": [
+        "BIO 160",
+        "BIO 161",
+        "BIO 263",
+        "MCRO 221 or MCRO 224"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Ecology and interactions of microorganisms in natural environments. Role of microorganisms in ecosystem function such as nutrient cycling, extreme environments, symbioses. Applications of microorganisms in the environment such as bioremediation, biocontrol, biofuels. Field trip may be required.",
+      "format": "2 lectures, 2 activities."
+    }
+  ]
+}

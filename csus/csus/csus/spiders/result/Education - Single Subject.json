@@ -1,0 +1,452 @@
+{
+  "courses": [
+    {
+      "term": "Fall, Spring", 
+      "description": "This course is the first of a two-course series. Introduces candidates to a repertoire of theory-based methods needed to facilitate and measure their own students' growth in English language development (ELD) as well as create learning environments which promote content area learning through the use of Specially Designed Academic Instruction in English (SDAIE). Candidates acquire knowledge and skills in methods of teaching a second language through readings, fieldwork, discussion, group interaction, lesson presentation, hands-on experience of methods, and materials exploration. ", 
+      "course name": "Method and Materials for Teaching Secondary English Learners, A", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 279A", 
+      "prerequisite": [
+        "EDUC 170"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Second course in a two-course series. Candidates expand their repertoire of theory-based methods to facilitate and measure their own students' growth in English language development (ELD} as well as create learning environments which promote content area learning through the use of Specially Designed Academic Instruction in English (SDAIE). Candidates deepen knowledge and skills related to methods of teaching a second language through readings, fieldwork, discussion, group interaction, lesson presentation, hands-on experience of methods, and materials exploration. ", 
+      "course name": "Methods and Materials for Teaching Secondary English Learners, B", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 279B", 
+      "prerequisite": [
+        "EDSS 279A"
+      ]
+    }, 
+    {
+      "units": "1.5 Units", 
+      "description": "The first of two-course series. Introduces candidates to theory-based methods to facilitate/measure their own students' growth in English language development and create learning environments which promote content area learning through Specially Designed Academic Instruction in English (SDAIE). Specific instruction given to develop skills in Linked Learning settings and learning activities therein. Candidates acquire knowledge/skills in methods of teaching a second language through readings, fieldwork, discussion, group interaction, lesson presentation, hands-on experience of methods, and materials exploration. ", 
+      "id": "CSUS_EDSS 279C", 
+      "prerequisite": [
+        "EDUC 170"
+      ], 
+      "course name": "Method and Materials for Teaching Secondary English Learners, C"
+    }, 
+    {
+      "units": "1.5 Units", 
+      "description": "Second in two-course series. Candidates expand repertoire of theory-based methods to facilitate/measure students' growth in English language development and create learning environments which promote content area learning through Specially Designed Academic Instruction in English (SDAIE). Specific instruction given to develop skills in Linked Learning settings and learning activities therein. Candidates deepen knowledge and skills related to methods of teaching a second language through readings, fieldwork, discussion, group interaction, lesson presentation, hands-on experience of methods, and materials exploration. ", 
+      "id": "CSUS_EDSS 279D", 
+      "prerequisite": [
+        "EDSS 279C"
+      ], 
+      "course name": "Method and Materials for Teaching Secondary English Learners, D"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " This course may be repeated for up to 9 units of credit. ", 
+      "description": "Individual projects for Single Subject credential candidates at graduate/credential level especially for students capable of independent study. Admission by written approval of the instructor with whom the student will be working and the Department Chair. ", 
+      "id": "CSUS_EDSS 299", 
+      "course name": "Special Problems: Single Subject"
+    }, 
+    {
+      "term": "  ", 
+      "description": "Candidates in the Teacher Preparation Program must complete the Teaching Event for the Performance Assessment for California Teachers. The Teaching Event requires candidates to plan and teach an instructional sequence in their student teaching placement. They must also assess student learning during this lesson sequence and submit a videotape with material recorded during the lesson sequence. The Teaching Event is a summative assessment and one of several requirements that must be completed in order to receive a recommendation for a teaching credential. ", 
+      "course name": "Teaching Performance Assessment-Single Subjects", 
+      "units": "1 Unit", 
+      "id": "CSUS_EDSS 300", 
+      "prerequisite": [
+        "EDSS 474B", 
+        "EDSS 300"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "An introduction to critical analysis of the purpose and process of public schooling. Examination of the sociopolitical contexts of public schools and society; educational theories, philosophies, notions of culture, community and educational practice. Engagement with sociocultural, historical and philosophical foundations of education, learning theories, theories of adolescent cognitive and social development. Modalities include lecture and discussions. ", 
+      "course name": "Theoretical Foundations of Teaching in a Multicultural Democratic Society, Lecture", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 364A", 
+      "prerequisite": [
+        "EDSS 364B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "An introduction to critical analysis of the purpose and process of public schooling. Examination of the sociopolitical contexts of public schools and society; educational theories, philosophies, notions of culture, community and educational practice. Exploration of sociocultural, historical and philosophical foundations of education. Initial application of strategies and approaches associated with learning theories, theories of adolescent cognitive and social development. Modalities include discussion, simulation and activities. ", 
+      "course name": "Theoretical Foundations of Teaching in a Multicultural Democratic Society, Workshop", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 364B", 
+      "prerequisite": [
+        "EDSS 364A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Further study of the purposes and processes of public schooling. Candidates develop a philosophy of education for teaching in a multicultural, multilingual, and democratic society through self-examination of dispositions related to gender, sexuality, race, social class, language, religion/spirituality and ability. Modalities include lecture and discussions. ", 
+      "course name": "Advanced Theoretical Foundations of Teaching in a Multicultural Democratic Society, Lecture", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 364C", 
+      "prerequisite": [
+        "EDSS 364A", 
+        "EDSS 365B", 
+        "EDSS 364D"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Further study of the purposes and processes of public schooling. Candidates develop a philosophy of education for teaching in a multicultural, multilingual, and democratic society through self-examination of dispositions related to gender, sexuality, race, social class, language, religion/spirituality and ability. Modalities include discussions, small group tasks, group projects and simulations. ", 
+      "course name": "Advanced Theoretical Foundations of Teaching in a Multicultural Democratic Society, Workshop", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 364D", 
+      "prerequisite": [
+        "EDSS 364A", 
+        "EDSS 364B", 
+        "EDSS 364C"
+      ]
+    }, 
+    {
+      "units": "1.5 Units", 
+      "description": "Candidates explore sociocultural, historical and philosophical foundations of education with focus on context of Linked Learning and critical examination of traditional tracking and vocational education. Students will evaluate the extent to which programs aimed at Career Pathways and College Readiness depart from or replicate previous patterns and analyze historical/economic drivers that shape schooling. Initial application of strategies and approaches associated with Linked Learning theories, theories of adolescent cognitive and social development. Integration of Discussions, simulation, activities. ", 
+      "id": "CSUS_EDSS 364E", 
+      "course name": "Theoretical Foundations of Teaching in a Multicultural Democratic Society, Workshop-Linked Learning"
+    }, 
+    {
+      "units": "1.5 Units", 
+      "description": "Further study of purposes and processes of public schooling with a special focus on educational theory and practice in Linked Learning contexts. Candidates develop a philosophy of education for teaching in a multicultural, multilingual, and democratic society through self-examination of dispositions related to gender, sexuality, race, social class, language, religion/spirituality and ability. Modalities include discussions, small group tasks, group projects, simulations. ", 
+      "id": "CSUS_EDSS 364F", 
+      "prerequisite": [
+        "EDSS 364A", 
+        "EDSS 364E", 
+        "EDSS 364C"
+      ], 
+      "course name": "Theoretical Foundations of Teaching in a Multicultural Democratic Society, Workshop-Linked Learning"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course introduces the relationship between elements of teaching and instructional organization to effectively teach in culturally and linguistically diverse and inclusive secondary classrooms through the use of backwards design, Universal Design for Learning, and differentiated instruction. The focus will be grounded in a Social Justice/Multicultural paradigm. Emphasis will include students' development as a teacher, curriculum development, long and short-term planning, and specific theories for instructional practice. Lecture and Discussion. ", 
+      "course name": "Fundamentals of Teaching, Lecture", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 365A", 
+      "prerequisite": [
+        "EDSS 365B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ", with a focus on students' development as a teacher, curriculum development, long and short-term planning, and assessing student learning.  Discussion, small group work and simulations. ", 
+      "course name": "Theoretical Foundations of Teaching in a Multicultural Democratic Society, Workshop", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 365B", 
+      "prerequisite": [
+        "EDSS 365A", 
+        "EDSS 365A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " with deeper examination of the relationship between elements of teaching and instructional organization needed to effectively teach in culturally and linguistically diverse and inclusive secondary classrooms through the use of backward design, Universal Design for Learning, differentiated instruction and assessment. The focus will be grounded in a Social Justice/Multicultural paradigm. Emphasis will include students' development as teacher through exploration of curriculum development frameworks, long-and short-term planning approaches, specific theories for instructional practice and assessment. Lecture and discussion. ", 
+      "course name": "Advanced Fundamentals of Teaching, Lecture", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 365C", 
+      "prerequisite": [
+        "EDSS 365A", 
+        "EDSS 365B", 
+        "EDSS 365D", 
+        "EDSS 365A", 
+        "EDSS 365B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ", B and C by deepening knowledge about the  relationship between elements of teaching and instructional organization. Focus on effective teaching for culturally and linguistically diverse and inclusive secondary classrooms through the use of backward design, Universal Design for Learning, differentiated instruction and assessment. Instructional framework will be grounded in a Social Justice/Multicultural paradigm. Emphasis will include students' development as a teacher including application of curriculum development theories, long-and short-term planning frameworks and specific theories for instructional practice and assessment. Discussion, small group work and simulations. ", 
+      "course name": "Advanced Fundamentals of Teaching, Workshop", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 365D", 
+      "prerequisite": [
+        "EDSS 365A", 
+        "EDSS 365B", 
+        "EDSS 365C", 
+        "EDSS 365A"
+      ]
+    }, 
+    {
+      "units": "1.5 Units", 
+      "description": "This is the first course in a two course series; practice using instructional planning frameworks (e.g., backwards design, Universal Design for Learning, and differentiated instruction) and a Social Justice/Multicultural Education paradigm to design learning segments for culturally and linguistically diverse students. Emphasis on application of theories and frameworks learned in EDTE 365A, with a focus on Linked Learning curriculum development and integration, long- and short-term planning, and assessing student learning. Discussion, small group work, simulations. ", 
+      "id": "CSUS_EDSS 365E", 
+      "course name": "Fundamentals of Teaching, Workshop - Linked Learning"
+    }, 
+    {
+      "units": "1.5 Units", 
+      "description": "The second course in a two-course series. Deepens candidates' ability to apply frameworks for effective teaching of culturally and linguistically diverse students (e.g., inclusion strategies, backwards design, Universal Design for Learning, differentiated instruction and assessment). Continued emphasis on a Social Justice/Multicultural Education paradigm, and focus on candidates' development as a teacher. Application of Linked Learning curriculum development, long- and short-term planning frameworks, and specific theories for instructional practice and assessment. Discussion, small group work, simulations. ", 
+      "id": "CSUS_EDSS 365F", 
+      "prerequisite": [
+        "EDSS 365A", 
+        "EDSS 365E", 
+        "EDSS 365C"
+      ], 
+      "course name": "Fundamentals of Teaching, Workshop - Linked Learning"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "First part of a 2-course sequence that provides structured opportunities for student teachers to discuss, analyze, and reflect upon data gathered from their field placements. Attention given to policies, school law, resources, strategies, routines, and activities that contribute to the productive management of the school and classroom as locations for student engagement and learning. Special emphasis will be on English Language Development and students with special needs. Course assignments and activities are integrated with other core courses. ", 
+      "course name": "Single Subject Seminar, A", 
+      "units": "3 Units", 
+      "id": "CSUS_EDSS 366A", 
+      "prerequisite": [
+        "EDSS 474A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Second part of a two-part sequence that provides opportunities for student teachers to discuss, analyze, reflect upon data gathered from field placements and to support completion of PACT teaching event. Attention given to policies, school law, resources, strategies, routines and activities that contribute to productive environments in school and classrooms as locations for student engagement and learning. Special emphasis will be on English Language Development and students with special needs. Course assignments and activities are integrated with other core courses. ", 
+      "course name": "Single Subject Seminar, B", 
+      "units": "3 Units", 
+      "id": "CSUS_EDSS 366B", 
+      "prerequisite": [
+        "EDSS 366A", 
+        "EDSS 474B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "First of two-course sequence. Provides structured opportunities for candidates to discuss, analyze, and reflect upon data gathered from field. Attention given to policies, school law, resources, strategies, routines, and activities that contribute to productive management of school and classroom as locations for student engagement/learning. Special emphasis on English Language Development, students with special needs, and specific management and implementation of Linked Learning activities (e.g. multidisciplinary integrated units of study). Course assignments/activities integrated with other core courses. ", 
+      "id": "CSUS_EDSS 366C", 
+      "prerequisite": [
+        "EDSS 474A"
+      ], 
+      "course name": "Single Subject Seminar, C"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "Second of two-course series. Provide structured opportunities for candidates to discuss, analyze, reflect upon data gathered from field; support completion of TPA. Further study of policies, school law, resources, strategies, routines, and activities needed for productive environments in classrooms as locations for student engagement/learning. Special emphasis on English Language Development, students with special needs, and specific management/implementation of Linked Learning activities (e.g. multidisciplinary integrated units of study). Course assignments/activities integrated with other core courses. ", 
+      "id": "CSUS_EDSS 366D", 
+      "prerequisite": [
+        "EDSS 366C", 
+        "EDSS 474B"
+      ], 
+      "course name": "Single Subject Seminar, D"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Candidates learn historical, theoretical, and practical information related to key issues facing secondary public schooling currently, including how to educate learners with special needs, differentiate instruction in the content areas, develop assessments that fairly and accurately measure student learning, and use universal design to structure classroom and school practices, processes and policies to maximize access to core content for all students, regardless of language or ability. Lecture and discussion. ", 
+      "id": "CSUS_EDSS 368", 
+      "course name": "Inclusive  Education in Secondary Schools"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Educational technology lab course will prepare the candidates use technology for three areas: coursework in the teaching credential program, enhancing teaching and learning and eportfolio development. The candidates are introduced to an array of digital technologies for teaching relevant for K-12 student learning. The candidates are also prepared to use technology in the Teaching Credential Program and for the development of an electronic portfolio. ", 
+      "id": "CSUS_EDSS 373A", 
+      "course name": "Educational Technology Lab I"
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "This course will offer support and instructions of facilitating and improving learning of a diverse student population by creating, using, and managing appropriate technological processes and resources. The candidates will learn applying and developing knowledge of technology in K-12 teaching and student learning. The candidates are prepared to use technology in the Teaching Credential Program and for the development of an electronic portfolio. ", 
+      "course name": "Educational Technology Lab II", 
+      "units": "1 Unit", 
+      "id": "CSUS_EDSS 373B", 
+      "prerequisite": [
+        "EDSS 373A"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "description": "This course encompasses the knowledge, skills and dispositions needed to understand, describe and develop \"technological, pedagogical content knowledge\" for effective pedagogical practice in a technology enhanced learning environment. Instruction occurs through labs, online resource center and individualized support. Candidates develop a range of technology skills and knowledge needed for effective instruction in the Linked Learning classroom and provides technology resources associated with project-based learning and integrated curricular units. ", 
+      "id": "CSUS_EDSS 373C", 
+      "course name": "Educational Technology Lab - Linked Learning"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "A critical course for English teaching preparation, educational experiences will promote understandings, attitudes and competencies necessary for effective instruction in English Language Arts and literacy in grades 7-12. Candidates acquire skills related to literacy assessment, text selection, and lesson/unit planning designed to meet the needs of all learners, including mainstream populations, English learners and students with special needs. Students are provided with opportunities to acquire skills, knowledge, practice, and experience planning for and teaching secondary English language arts and literacy. Lecture and discussion. ", 
+      "course name": "Methods in English Education, A", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 383A", 
+      "prerequisite": [
+        "EDSS 474A"
+      ]
+    }, 
+    {
+      "term": " This course is the second in a two course series  ", 
+      "description": "A critical course for English teaching preparation, educational experiences will promote understandings, attitudes and competencies necessary for effective instruction in English Language Arts and literacy in grades 7-12. Candidates acquire skills related to literacy assessment, text selection, and lesson/unit planning designed to meet the needs of all learners, including mainstream populations, English learners and students with special needs. Students are provided with opportunities to acquire skills, knowledge, practice, and experience planning for and teaching secondary English language arts and literacy. Lecture and discussion. ", 
+      "course name": "Methods in English Education, B", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 383B", 
+      "prerequisite": [
+        "EDSS 383A", 
+        "EDSS 474B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to foundational understandings, attitudes and competencies necessary for effective instruction of academic language and literacy in 7-12 content area classrooms. Candidates acquire skills related to literacy assessment, text selection, and lesson planning designed to meet the needs of all learners, including mainstream population, English learners and students with special needs. Candidates develop an awareness of what constitutes effective content literacy instruction and a beginning repertoire of strategies to help students meet the demands of content reading, writing and discussion. Lecture and discussion. ", 
+      "course name": "Instruction and Assessment of Academic Literacy, A", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 384A", 
+      "prerequisite": [
+        "EDSS 474A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Second course in a two course series on understanding effective instruction of academic language and literacy in 7-12 content area classrooms. Candidates hone skills in literacy assessment, text selection, and lesson planning to meet the needs of all learners, including mainstream populations, English learners and students with special needs. Application of content literacy instruction (pre, during and post reading and writing strategies). Enhanced knowledge of strategies to support students' attainment of the demands of content reading, writing and discussion. Lecture, discussion. ", 
+      "course name": "Instruction and Assessment of Academic Literacy, B", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 384B", 
+      "prerequisite": [
+        "EDSS 384A", 
+        "EDSS 474B"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "This course is designed for candidates who are preparing to teach world languages in secondary school settings in California public schools. Candidates will learn about current theoretical bases for second-language acquisition and how such theories inform classrooms practice. Candidates have introductory opportunities to practice principles of learning from which teachers can draw as they make decisions about instruction. Lecture, discussion and simulation. ", 
+      "course name": "Methods in World Language Education, A", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 385A", 
+      "prerequisite": [
+        "EDSS 474A", 
+        "WLL 385A"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": " and is designed for candidates who are preparing to teach world languages in secondary school settings in California public schools. Candidates will learn additional methodologies for planning and delivering instruction in world languages. Candidates will practice instructional strategies and will design lessons. Candidates will implement assessments that capture student learning of key world language outcomes, including oral language and written language development and reading fluency. Strategies for teaching cultural appreciation are also embedded. Lecture, discussion and simulation. ", 
+      "course name": "Methods in World Language Education, B", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 385B", 
+      "prerequisite": [
+        "EDSS 385A", 
+        "WLL 385A", 
+        "EDSS 474B", 
+        "EDSS 385A", 
+        "WLL 385B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "First part of a two-course sequence that provides instruction to organize instructional materials, techniques of presentation and methods of evaluation for secondary school mathematics. Articulated with student teaching and should be taken the same semester. Activities include discussions, presentations and demonstrations. ", 
+      "course name": "Methods in Mathematics Education, A", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 386A", 
+      "prerequisite": [
+        "EDSS 474A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Second part of a two-course sequence that provides continuation of organization of instructional materials, techniques of presentation and methods of evaluation for secondary school mathematics. Articulated with student teaching and should be taken the same semester. ", 
+      "course name": "Methods in Mathematics Education, B", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 386B", 
+      "prerequisite": [
+        "EDSS 386A", 
+        "EDSS 474B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "First of a two-part field and lecture-based course which will prepare candidates to teach history-social science content and analysis skills to secondary students, particularly those who are culturally and linguistically diverse, have special needs, or are English learners. Focus on identifying and evaluating curricular resources and instructional strategies that emphasize the active use of critical thinking skills and the development of civic values for informed participation in a democratic society.  ", 
+      "course name": "Methods in History/Social Science Education, A", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 387A", 
+      "prerequisite": [
+        "EDSS 474A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Second of a two-part field and lecture-based course which will prepare candidates to teach history-social science content and analysis skills to secondary students, particularly those who are culturally and linguistically diverse, have special needs, or are English learners. Focus on implementing curriculum and instructional strategies and assessing student mastery of grade-level content and skills that are central to history-social science disciplines. ", 
+      "course name": "Methods in History/Social Science Education, B", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 387B", 
+      "prerequisite": [
+        "EDSS 387A", 
+        "EDSS 474B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "First part of a two-course sequence that provides introduction to organization of instructional materials, techniques of presentation, and methods of evaluation for secondary school science. Articulated with student teaching and should be taken the same semester. Activities include discussion, presentations and demonstrations. ", 
+      "course name": "Methods in Science Education, A", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 388A", 
+      "prerequisite": [
+        "EDSS 474A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Second part of a two-course sequence that provides introduction to organization of instructional materials, techniques of presentation, and methods of evaluation for secondary school science. Articulated with student teaching and should be taken the same semester. Activities include discussion, presentations and demonstrations. ", 
+      "course name": "Methods in Science Education, B", 
+      "units": "1.5 Units", 
+      "id": "CSUS_EDSS 388B", 
+      "prerequisite": [
+        "EDSS 388A", 
+        "EDSS 474B"
+      ]
+    }, 
+    {
+      "units": "2 Units", 
+      "description": "Teacher candidates will observe and participate as teaching assistants in public school secondary classrooms. ", 
+      "id": "CSUS_EDSS 401", 
+      "course name": "Observation and Participation in Secondary Classrooms"
+    }, 
+    {
+      "units": "2 Units", 
+      "description": "This fieldwork course focuses on the work-based learning core component of Linked Learning/Career Pathways. After an orientation to work-based learning, its function in Linked Learning/Career pathways, and how it can be integrated into core curriculum, candidates will experience a non-paid, one-week internship at a worksite associated with one of the 15 major CA industries. Candidates develop work-based knowledge and experiences to be applied when they create a subject-specific curricular unit incorporating their work-based learning. Fieldwork, discussion. ", 
+      "id": "CSUS_EDSS 440", 
+      "course name": "Work-Based Learning Field Experience"
+    }, 
+    {
+      "units": "6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides candidates with field experiences of increasing complexity and responsibility as they engage in cycles of teaching.  Public school assignment in a secondary school serving culturally and linguistically diverse community for one university semester with three periods of responsibility:  English learner class, single subject content class, and an observation/consultation period.  Observations and supervised teaching experiences will be systematic and structured. ", 
+      "id": "CSUS_EDSS 470A", 
+      "course name": "Field Experience: Secondary"
+    }, 
+    {
+      "units": "12 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides candidates with field experiences of increasing complexity and responsibility as they engage in cycles of teaching.  Experiences will be systematic and structured.  Student teachers will be placed for the public school's semester at a school serving linguistically and culturally diverse students.  Candidates become more independent with primary responsibility for cycle of teaching with equivalent of three periods supervised teaching and one consultation period.", 
+      "id": "CSUS_EDSS 470B", 
+      "course name": "Student Teaching: Secondary"
+    }, 
+    {
+      "units": "5 Units", 
+      "term": "Fall, Spring", 
+      "description": "The elementary physical education teacher will be placed in a setting where he/she is able to plan, implement, promote and assess a developmentally appropriate physical education program that meets the diverse needs, interests and abilities of elementary school children, K-6. ", 
+      "id": "CSUS_EDSS 471A", 
+      "course name": "Elementary Physical Education Student Teaching"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "The secondary physical education student teacher will be placed in a setting where he/she is able to plan, implement, promote and assess a developmentally appropriate physical education program that meets the diverse needs, interests and abilities of secondary school children, 6-12. ", 
+      "id": "CSUS_EDSS 471B", 
+      "course name": "Secondary Physical Education Student Teaching"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides candidates with field experiences of increasing complexity and responsibility as they engage in cycles of teaching. Public school assignment in a secondary school serving culturally and linguistically diverse community for one university semester with three periods of responsibility: English learner class, single subject content class and an observation/consultation period. Observations and supervised teaching experiences will be systematic and structured. ", 
+      "id": "CSUS_EDSS 474A", 
+      "course name": "Field Experiences in Secondary Schools"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Candidates engage in student teaching, taking on tasks of increasing complexity and responsibility as they perform cycles of teaching. Student teaching will be systematic and structured. Student teachers will be placed for the public school's semester at a school serving linguistically and culturally diverse students. Candidates become more independent with primary responsibility for cycle of teaching with equivalent of three periods supervised teaching and one consultation period. ", 
+      "course name": "Student Teaching in Secondary Schools", 
+      "units": "4 Units", 
+      "id": "CSUS_EDSS 474B", 
+      "prerequisite": [
+        "EDSS 474A"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "EDSS", 
+    "subject": "Education - Single Subject"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Education - Single Subject", 
+    "id": "CSUS"
+  }
+}

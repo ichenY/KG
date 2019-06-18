@@ -1,0 +1,803 @@
+{
+  "subjectOf": {
+    "id": "NR",
+    "subject": "Natural Resources"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Natural Resources"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_NR 140",
+      "course name": "Careers in Natural Resources Management and Environmental Sciences",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Analysis and development of career goals in natural resources and environmental sciences. Acquainting students with potential career options and preparation of academic plans for the majors in the Natural Resources Management and Environmental Sciences Department. Credit / No Credit grading.",
+      "format": "1 activity.",
+      "other": "Crosslisted as ERSC / NR140."
+    },
+    {
+      "id": "CalPoly_NR 141",
+      "course name": "Introduction to Forest Ecosystem Management",
+      "units": "3 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Fundamentals of forestry including basic silviculture, forest protection, measurement and policy. Integrated resource management of forest lands for water production, forage, recreation, wildlife, and timber.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_NR 142",
+      "course name": "Environmental Management",
+      "units": "3 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Environmental management as a process within functioning societies seeking a harmonious balance between human activities and intrinsic behavior of the natural environment. Major components of the natural environment and the political and social activities that impact that environment.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_NR 203",
+      "course name": "Resource Law Enforcement",
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Law enforcement applied to natural resource conservation on public and private lands. Examination of state and federal laws related to fish and wildlife management. Problems associated with implementation of resource laws examined.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_NR 204",
+      "course name": "Wildland Fire Control",
+      "units": "3 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Fire control techniques used on various wildland fuels. Elementary fire physics, fuels, weather, fire behavior, tactics and fire suppression techniques, line construction, ' mop - up ', fire line safety, air operations and fire organization. Meets basic wildland fire fighter certification requirements for the USDA Forest Service. Partially meets California Department of Forestry Firefighter I requirements.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 208",
+      "course name": "Dendrology",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Identification, classification, silvical characteristics, distribution, environmental requirements and economic importance of woody plants in shrub, woodland, and forest ecosystems of the United States. Emphasis on species located in the Pacific Coastal, Sierran, and Cascade ecosystems.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_NR 215",
+      "course name": "Land and Resource Measurements",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to land and resource measurement technology and methods - field instruments, property description, map and photograph reconciliation, data accuracy and precision. Trigonometric functions as applied to natural resources applications. Field trips required.",
+      "format": "1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 218",
+      "course name": "Applications in GIS",
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "ARC / INFO and ArcView Geographic Information System ( GIS ) computer software to explore environmental, natural resource, social and economic issues using spatial data. Develop and apply data base and software management competencies.",
+      "format": "1 lecture, 2 laboratories.",
+      "other": "Crosslisted as LA / NR218."
+    },
+    {
+      "id": "CalPoly_NR 247",
+      "course name": "Forest Surveying",
+      "prerequisite": [
+        "NR 215"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Use and care of tapes, staff compass, abney levels, total stations, and GPS receivers. Keeping field notes, measurements by tape. Closed and open traverse by compass and total stations. Turning angles and determining directions of lines. Map reading and public land description. GPS measurements. Weekend field trips required.",
+      "format": "1 lecture, 1 laboratory.",
+      "other": "Crosslisted as BRAE / NR247."
+    },
+    {
+      "id": "CalPoly_NR 260",
+      "course name": "Forest Practices and Environmental Protection",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Relationships between forest ecosystem management, forest practices, harvesting methods, timber harvest planning, components of forest harvesting, harvesting effects ; cost analysis of harvesting methods ; safety management ; value - added forest utilization ; environmental protection ; and road location. Overnight or weekend field trips required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_NR 290",
+      "course name": "Intercollegiate Forestry Activities",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Beginning through advanced skills in the event areas of college forestry activities. Instruction in use of specialized equipment and safety. Minimum of 4 hours of laboratory per week. Total credit limited to 18 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_NR 306",
+      "course name": "Natural Resource Ecology and Habitat Management",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Resource ecology and management implications in the major ecosystems of North America. Importance of maintaining the natural dynamics of energy flow and nutrient cycles at the community and ecosystem level to sustain uses and values. Humanity 's role as a principal factor of change of the resources in natural systems.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 307",
+      "course name": "Fire Ecology",
+      "units": "3 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Effects of wildland fires on shrub, woodland, and forest environments to include fuels, plants, soil, water, wildlife, and air. Emphasis on western U.S. forest and shrub ecosystems.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 308",
+      "course name": "Fire and Society",
+      "units": "4 units",
+      "term": [
+        "ge area d5"
+      ],
+      "description": "Prehistorical and historical record of human use of and attitude toward fire. Mythology and religion of fire. Traditional, cultural and ethnic variations and their influence on modern U.S. institutions involved in managing fire.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Crosslisted as ES / NR308. Fulfills GE D5."
+    },
+    {
+      "id": "CalPoly_NR 312",
+      "course name": "Technology of Wildland Fire Management",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Models and technology to solve complex land management problems. Historic, current and future perspectives of wildland fire in California. Sustainability and ecosystem health. Assumptions and limitations of fire behavior and suppression models.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_NR 314",
+      "course name": "Environmental Life-Cycle Analysis",
+      "prerequisite": [
+        "NR 306"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Estimation and assessment of environmental impacts of human activity and product development using life - cycle analysis methodology ; organization and presentation of modeling results.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 315",
+      "course name": "Measurements and Sampling in Forested Environments",
+      "prerequisite": [
+        "BRAE 239 or BRAE/NR 247",
+        "STAT 217 or STAT 218"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Principles and methods of sampling and measurement for forest and natural resource quantities and qualities. Modeling and estimation for tree volumes, stand structure and composition, and related forest vegetation. Applications in sampling, statistical and inventory techniques.",
+      "format": "2 lectures, 2"
+    },
+    {
+      "id": "CalPoly_NR 317",
+      "course name": "The World of Spatial Data and Geographic Information Technology",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Basic foundation for understanding the world through geographic information and tools available to utilize spatial data. Application of Geographic Information Systems ( GIS ) and related technologies, including their scientific basis of operation. Not open to students with credit in LA / NR218.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Crosslisted as LA / NR317. Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_NR 320",
+      "course name": "Watershed Processes and Management",
+      "prerequisite": [
+        "SS 121"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction, analysis, and measurement of watershed processes of precipitation, evapotranspiration, streamflow, stream channels, erosion, and riparian functions. Watershed management toward aquatic habitat and water quality goals. Weekend field trip required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 321",
+      "course name": "Water Systems Technology, Issues and Impacts",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Sustainable strategies and technologies to enhance freshwater supplies and marine habitats. Systems treated include artificial wetlands, stormwater, drinking water, agricultural and industrial waste water.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_NR 323",
+      "course name": "Human Dimensions in Natural Resources Management",
+      "units": "4 units",
+      "term": [
+        "ge area d5"
+      ],
+      "description": "Social, economic, political and ecological conditions and institutions that influence decisions affecting the environment ; examination of human - caused environmental impacts and how they in turn influence social institutions. 4 lectures. Fulfills GE D5 except for Forestry and Natural Resources majors."
+    },
+    {
+      "id": "CalPoly_NR 324",
+      "course name": "Social Dimensions of Sustainable Food and Fiber Systems",
+      "units": "4 units",
+      "term": [
+        "ge area d5"
+      ],
+      "description": "Historical, political, socio - economic, and cultural dimensions of sustainable food and fiber systems. Overview of frameworks used for understanding agro - ecological sustainability with an emphasis on human elements. Exploration of core sustainability concepts, practices, and goals through case studies. 4 lectures. Fulfills GE D5 except for Environmental Management and Protection majors."
+    },
+    {
+      "id": "CalPoly_NR 326",
+      "course name": "Natural Resources Economics and Valuation",
+      "prerequisite": [
+        "MATH 161 or MATH 221 or equivalent"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Theory of efficient use of renewable and nonrenewable natural resources, including methods for attaching value to marketable and non - market natural resources. Environmental economic theories and techniques to address allocation of water, timber, wildlife / fisheries, open space, and recreation.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_NR 335",
+      "course name": "Conflict Management in Natural Resources",
+      "prerequisite": [
+        "NR 141 or NR 142"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Application of behavioral science principles and techniques in the management of natural resource systems. Management of internal and external human resource issues and concerns in natural resources organizations is emphasized.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 339",
+      "course name": "Internship in Forest and Natural Resources",
+      "units": "1-12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Selected students will spend up to 12 weeks with an approved firm or agency engaged in forest or natural resources management. Applying and developing managerial skills and abilities. One unit of credit may be allowed for each full week of completed and reported internship. Credit / No Credit grading."
+    },
+    {
+      "id": "CalPoly_NR 340",
+      "course name": "Wildland Fire Management",
+      "prerequisite": [
+        "NR 204"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Wildland fuels, fire weather, and fire danger ratings in chaparral, grassland, and forested areas. Advanced modeling of surface and crown fire behavior. Fire management strategies and implications, policies and objectives of fire management organizations. Saturday field trips may be required.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_NR 350",
+      "course name": "Urban Forestry",
+      "prerequisite": [
+        "NR 208"
+      ],
+      "units": "3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Establishment and management of municipal forests, wildland - urban interface, wildlife habitat, and pollution abatement. Management of forest areas requiring special attention because of heavy recreational use, fire hazard, watershed, and societal values. Full - day field trips may be required.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 351",
+      "course name": "Introduction to Emergency Management in California",
+      "units": "3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Emergency management emphasizing the Standardized Emergency Management System ( SEMS ) and Emergency Operations Center ( EOC ) operations. Earthquake hazard used as the case to explore potential wide geographic impacts, multiple secondary hazards, and multidisciplinary problem - solving methods in natural disasters faced by local governments and communities.",
+      "format": "2 lectures, 1 activity.",
+      "other": "Crosslisted as CRP / NR351."
+    },
+    {
+      "id": "CalPoly_NR 360",
+      "course name": "Ethnicity and the Land",
+      "units": "4 units",
+      "term": [
+        "ge area c4; uscp"
+      ],
+      "description": "Comparative study of how race and culture shape landscapes, and how social hierarchies allocate the use of natural resources and the burdens of environmental pollution. 4 lectures. Crosslisted as ES / NR360. Fulfills GE C4 and USCP."
+    },
+    {
+      "id": "CalPoly_NR 365",
+      "course name": "Silviculture and Vegetation Management",
+      "prerequisite": [
+        "NR 208",
+        "NR 315"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Applied forest ecology focusing on development of prescriptions for achieving diverse forest ecosystem management objectives. Topics include natural stand dynamics, traditional / contemporary silvicultural systems, forest health assessments / diagnoses, emulating natural disturbances, and managing ecosystem services. Overnight and/or weekend field trips required.",
+      "format": "2 lectures, 2 laboratories."
+    },
+    {
+      "id": "CalPoly_NR 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies or surveys of selected problems. Total credit",
+      "grading": "limited to 12 units."
+    },
+    {
+      "id": "CalPoly_NR 401",
+      "course name": "Disaster Recovery",
+      "units": "3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Strategies and procedures for public sector management of recovery from disasters. Understanding the role of, and relationship between, federal, state and local agencies to provide assistance to individuals and communities in the post - disaster environment. Issues in the recovery process.",
+      "format": "2 lectures, 1 activity.",
+      "other": "Crosslisted as CRP / NR401."
+    },
+    {
+      "id": "CalPoly_NR 402",
+      "course name": "Forest Health",
+      "prerequisite": [
+        "NR 208",
+        "NR 306 or BIO 325"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Impact and losses to forested areas caused by physical and biotic agents ( such as insects and diseases ) other than fire ; relation of direct and indirect control practices to forest management. Saturday field trips required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 404",
+      "course name": "Environmental Law",
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Detailed examination of the law governing use and protection of natural resources with focus on the legal institutions entrusted with the public duty of protecting the environment.",
+      "format": "3 lectures.",
+      "other": "Crosslisted as CRP / NR404."
+    },
+    {
+      "id": "CalPoly_NR 406",
+      "course name": "Indigenous Peoples and International Law and Policy",
+      "prerequisite": [
+        "ES 241",
+        "NR 141 or NR 142"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Interdisciplinary examination of the evolution of international law effecting indigenous peoples in the U.S. and in the Americas. Development of international legal and sociological norms and their impact on human rights of indigenous peoples with particular attention to environmental issues. 4 lectures. Crosslisted as ES / NR406."
+    },
+    {
+      "id": "CalPoly_NR 408",
+      "course name": "Water Resource Law and Policy",
+      "units": "3 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Detailed examination of the various legal systems of water use, regulation and management in California and the United States. Discussion on the key concepts and principles of state, federal and interstate water quantity and quality control ; focusing on issues and problems, why conflicts occur and how solutions evolve.",
+      "format": "3 lectures.",
+      "other": "Crosslisted as CRP / NR408."
+    },
+    {
+      "id": "CalPoly_NR 412",
+      "course name": "Senior Assessment Project",
+      "prerequisite": [
+        "NR 326"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Principles and practices of integrated sampling and inventory of natural resource values in terrestrial ecosystems, culminating in a student project report.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 414",
+      "course name": "Sustainable Forest Management",
+      "prerequisite": [
+        "NR 326",
+        "NR 365"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Biophysical, economic, social and political influences on optimal forest management for purposes of providing sustained yields of goods and services. Growth and yield modeling ; forest investment analysis ; sustainable forest production ; harvest schedule modeling. Day field trip required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 416",
+      "course name": "Environmental Impact Analysis and Management",
+      "prerequisite": [
+        "BIO 263 or NR 306"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "National Environmental Policy and California Environmental Quality Acts as applied to environmental and natural resource management problems and projects. Intent, purpose and history of the laws ; differences between laws identified. Request for proposals and preparation of environmental assessment documents covered.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 418",
+      "course name": "Applied GIS",
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Acquisition, organization and analysis of spatial data from diverse sources using Geographic Information System ( GIS ) software. GIS modeling applications and validation techniques used in development and preparation of client - driven projects.",
+      "format": "1 lecture, 2 activities."
+    },
+    {
+      "id": "CalPoly_NR 420",
+      "course name": "Watershed Assessment and Protection",
+      "prerequisite": [
+        "NR 320"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Analysis of streamflow, peak flows, and land management effects using established techniques and hydrologic models. Fluvial processes, sediment transport, and channel restoration techniques. Assessment and restoration of watersheds toward protection of aquatic and public resources. Weekend field trips required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 421",
+      "course name": "Wetlands",
+      "prerequisite": [
+        "BOT 121 or BIO 162",
+        "CHEM 111 or CHEM 127",
+        "SS 121 or SS 131"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "The formation, characteristics, and functions of wetlands. Genesis of hydric soils. Plant adaptations to saturated soils. Wetlands as wildlife habitat. Policies and social issues associated with wetlands. The procedures of wetland delineations.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as BIO / NR / SS421."
+    },
+    {
+      "id": "CalPoly_NR 425",
+      "course name": "Applied Resource Analysis and Assessment",
+      "prerequisite": [
+        "NR 416"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Environmental impacts in responses to resource management, projects, programs and activities. Preparation, implementation, and coordination of environmental plans. Criteria for measurements, interpretation, and evaluation. Resource inventories, analysis, evaluation, synthesis, environmental assessment writing and preparation.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 434",
+      "course name": "Wood Properties, Products and Sustainable Uses",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Principles of wood properties, green building practices, sustainable and efficient use of renewable wood resources including methods for using wood as an energy source. Field trips required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 435",
+      "course name": "Environmental Policy Analysis",
+      "prerequisite": [
+        "NR 326"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Policy process approach to understanding the efforts to resolve natural resource problems in the public and private sector. Principles and techniques used to analyze the effects of environmental policies. Analysis of major federal and state environmental laws.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_NR 455",
+      "course name": "Wildland-Urban Fire Protection",
+      "prerequisite": [
+        "NR 340"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Biophysical and socioeconomic issues affecting wildland fire management in urbanized landscapes. Fire risk assessment. Pre - fire prevention, mitigation, and preparedness, during - fire response, and post - fire recovery actions by public- and private - sector agencies and residents.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 465",
+      "course name": "Ecosystem Management",
+      "prerequisite": [
+        "NR 326",
+        "NR 416"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Capstone course that integrates biophysical, economic and socio - political sciences. Principles, concepts and techniques designed to utilize resources while sustaining ecosystem health within acceptable limits of change. Ecosystem assessment, planning, management and monitoring project.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    },
+    {
+      "id": "CalPoly_NR 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_NR 472",
+      "course name": "Leadership Practice",
+      "units": "1 unit",
+      "term": [
+        "Winter"
+      ],
+      "description": "Tasks associated with development of personal leadership skills. Study and practice in setting goals and objectives ; developing, evaluating and implementing a project independently and as part of a team ; decision making and problem - solving emphasized. Total credit",
+      "grading": "limited to 4 units",
+      "format": ". 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 475",
+      "course name": "Sustainable Forest and Environmental Practices",
+      "units": "12 units",
+      "term": [
+        "Summer"
+      ],
+      "description": "Typical modules related to sustainable forest management, ecosystem sampling and inventory methods, photo interpretation, hydrologic resources, road condition, project impact analysis, best management practices. Topics covered vary from term to term depending on the priority for learning modules. Residency at Swanton Pacific and extended field trips required.",
+      "format": "8 lectures, 4 activities.",
+      "other": "Crosslisted as HNRS / NR475."
+    },
+    {
+      "id": "CalPoly_NR 476",
+      "course name": "Senior Project - Advanced Internship Experience in Environmental Science/Management",
+      "prerequisite": [
+        "ERSC 363 or NR 306 or NR 326"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Independent internship experience conducted under faculty supervision focusing on a discipline area of environmental science / management. Completion of a project as a component of their internship. Satisfies the senior project requirement. Minimum 90 hours required. Crosslisted as ERSC / NR476."
+    },
+    {
+      "id": "CalPoly_NR 477",
+      "course name": "Senior Project - Research Experience in Environmental Science",
+      "prerequisite": [
+        "ERSC 363 or NR 306 or NR 326"
+      ],
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Guided research experience in a specific area of environmental science. Implementation of materials and methods. Collection, analysis and interpretation of data. Completion of formal written report. Satisfies senior project requirement. 1 lecture, 2 laboratories. Crosslisted as ERSC / NR477."
+    },
+    {
+      "id": "CalPoly_NR 478",
+      "course name": "Senior Project - Current Topics in Environmental Science/Management",
+      "prerequisite": [
+        "ERSC 363 or NR 306 or NR 326"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Critical evaluation and formal presentation of current issues in environmental science / management. Evaluation of current topics, analysis of supporting evidence, and synthesis and presentation of resulting perspectives on different approaches to current challenges in environmental science / management. Satisfies the senior project requirement.",
+      "format": "3 lectures.",
+      "other": "Crosslisted as ERSC / NR478."
+    },
+    {
+      "id": "CalPoly_NR 479",
+      "course name": "Senior Project - Independent Study",
+      "prerequisite": [
+        "ERSC 363 or NR 306 or NR 326"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Selection and completion of a project under faculty supervision. Projects typical of problems which graduates must solve in their fields of employment. Project results are presented in a formal report. Minimum 90 hours total time. Crosslisted as ERSC / NR479."
+    },
+    {
+      "id": "CalPoly_NR 500",
+      "course name": "Individual Study",
+      "units": "1-3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Advanced independent study planned and completed under the direction of a member of the department faculty. Open only to graduate students who have demonstrated ability to do independent work. Total credit",
+      "grading": "limited to 4 units"
+    },
+    {
+      "id": "CalPoly_NR 503",
+      "course name": "Tropical Forest Ecosystem",
+      "units": "3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Tropical forest ecosystem classification, function and limitations. Applied tropical forest management systems ; tropical problems, management, and political strategies ; over - grazing and desertification ; overcutting and fuelwood shortages.",
+      "format": "3 seminars."
+    },
+    {
+      "id": "CalPoly_NR 532",
+      "course name": "Applications in Biometrics and Econometrics",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Parametric and semi - parametric statistical methods in modeling biological and economic phenomena. Biometric modeling of stand growth and inventory. Econometric modeling of market and environmental values.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 534",
+      "course name": "Environmental Modeling",
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Methods and modeling approaches used in quantifying ecological and environmental processes and conditions, such as fire behavior, wildland hydrology, terrestrial and aquatic habitat condition, using GIS and other models.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_NR 539",
+      "course name": "Graduate Internship in Forest Resources",
+      "units": "1-9 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Application of theory to the solution of problems of forest resources or related businesses in the field. Analyze specific management problems and perform general management assignments detailed in a contract between the student, the firm or organization, and the faculty advisor before the internship commences. Degree credit",
+      "grading": "limited to 6 units"
+    },
+    {
+      "id": "CalPoly_NR 570",
+      "course name": "Selected Topics in Forest Resources",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "1 - 4 seminars."
+    },
+    {
+      "id": "CalPoly_NR 571",
+      "course name": "Selected Topics Forest Resources Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory of selected topics for advanced students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_NR 575",
+      "course name": "Applications in Advanced Watershed Hydrology",
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Techniques and applications in watershed hydrology to real - world projects. Projects could include water quality or quantity assessments, water quality or channel morphology monitoring, and structural and non - structural enhancements for channel and upland watersheds, culminating in a final report and presentation.",
+      "format": "2 laboratories."
+    },
+    {
+      "id": "CalPoly_NR 581",
+      "course name": "Graduate Seminar in Environmental Sciences",
+      "units": "3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Student study and presentation of selected developments, trends and problems in the field of forest and natural resources, earth and soil sciences, and environmental management. 3 seminars. Crosslisted as NR / SS581."
+    },
+    {
+      "id": "CalPoly_NR 599",
+      "course name": "Thesis",
+      "units": "1-9 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Individual research in forest or natural resources management under the general supervision of faculty, leading to a graduate thesis. Degree credit",
+      "grading": "limited to 9 units"
+    }
+  ]
+}

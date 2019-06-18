@@ -1,0 +1,492 @@
+{
+  "subjectOf": {
+    "id": "ENVE",
+    "subject": "Environmental Engineering"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Environmental Engineering"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_ENVE 111",
+      "course name": "Introduction to the Environmental Engineering Profession",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Introduction to the Environmental Engineering Program including course planning, opportunities for global and regional problems such as water quality, waste management, and sustainability. Credit / No Credit grading only.",
+      "format": "1 lecture."
+    },
+    {
+      "id": "CalPoly_ENVE 264",
+      "course name": "Environmental Fluid Mechanics",
+      "prerequisite": [
+        "MATH 241",
+        "PHYS 132",
+        "ME 211"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Theory and application of fluid statics and fluid dynamics to environmental problems in air and water systems. Fluid properties, pressure within stationary and moving systems, fluid momentum, pipe and channel flow including Bernoulli 's Equation and friction effects, flow measurement systems.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 304",
+      "course name": "Process Thermodynamics",
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "First and second laws of thermodynamics, properties of gases, liquids and mixtures, vapor - liquid equilibria, solubility and absorption, equilibrium in chemical reactions, thermodynamic applications in environmental engineering.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 309",
+      "course name": "Noise and Vibration Control",
+      "prerequisite": [
+        "MATH 241",
+        "PHYS 132"
+      ],
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Impact of noise and methods for noise reduction in industrial environments. Behavior of sound waves, selection of instrumentation, practical measurements, criteria for noise and vibration control. Laboratory and field measurements to investigate the basic principles of sound propagation and control. Assessment of noise produced by transportation and other engineering facilities.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ENVE 323",
+      "course name": "Engineering for the Environment",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Societal importance of air quality, water quality and land resources. Technologies used to control air and water pollution and the scientific basis for these technologies. Use of mass balances to understand pollutant transport and treatment. Local examples of the application of pollution control technologies to meet legal requirements. Not for engineering majors.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_ENVE 324",
+      "course name": "Introduction to Air Pollution",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Causes and effects of air pollution on the individual, the community and industry. Application of mathematics and chemistry to solve air pollution problems. For non - majors.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_ENVE 325",
+      "course name": "Air Quality Engineering",
+      "prerequisite": [
+        "CHEM 125 or CHEM 128"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Causes and effects of air pollution on individual, regional, and global scales including meteorology, pollutant chemistry, global and regional transport, health impacts, regulations, air pollution control technology, and global climate change. Engineering principles to understand, model, and predict air quality.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 331",
+      "course name": "Introduction to Environmental Engineering",
+      "prerequisite": [
+        "CHEM 125 or CHEM 128",
+        "MATH 242 or MATH 244 (or concurrent)"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Description and quantification of water and air quality characteristics important for water and wastewater treatment and air pollution control. Fundamentals of kinetics, reactor configurations, toxicity and dose - response relationship. Regulations governing ambient pollutant levels and discharges. Introduction to the modeling of pollutant fate and transport. Overview of solid waste management and global environmental issues.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 400",
+      "course name": "Special Problems",
+      "units": "1-2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "id": "CalPoly_ENVE 405",
+      "course name": "Environmental Engineering Research",
+      "units": "1-2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Participation in environmental engineering research projects with emphasis on professional safety procedures for lab and field work and data quality assurance / quality control. Research projects focus on developing technologies or techniques that improve the sustainability of environmental engineering infrastructure. Total credit limited to 8 units ; technical elective credit",
+      "grading": "limited to 4 units",
+      "format": ". 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ENVE 407",
+      "course name": "Environmental Engineering Design Competition",
+      "units": "1 unit",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Design, build, test, and present a solution to an environmental problem posed by a student design competition. 1 laboratory. Total credit",
+      "grading": "limited to 4 units"
+    },
+    {
+      "id": "CalPoly_ENVE 411",
+      "course name": "Air Pollution Control",
+      "prerequisite": [
+        "CE 251 or CSC 231",
+        "ENVE 304 or ME 302",
+        "ENVE 264 or ME 341",
+        "ENVE 325",
+        "ENVE 331"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Theory, principles, and practices related to the control of particulate and gaseous emissions. Mechanical and chemical separations. Cost and design of control systems.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 421",
+      "course name": "Mass Transfer Operations",
+      "prerequisite": [
+        "ENVE 325",
+        "ENVE 331",
+        "ENVE 304 or ME 302",
+        "ENVE 264 or ME 341"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Theory of mass transfer principles applied to environmental problems. Diffusion and dispersion modeling of contaminant transport. Design principles of scrubbers, absorbers, and membrane systems for air and water pollution control.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 426",
+      "course name": "Air Quality Measurements",
+      "prerequisite": [
+        "ENVE 325",
+        "CHEM 212/312",
+        "ENVE 264 or ME 341",
+        "STAT 312",
+        "ENGL 149"
+      ],
+      "units": "3 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Planning and conducting air quality measurements in the atmosphere, indoors and at the source. Topics include quality control, calibration, and instrument operation for particulate matter, gas and meteorological measurements.",
+      "format": "2 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ENVE 434",
+      "course name": "Water Chemistry and Water Quality Measurements",
+      "prerequisite": [
+        "CHEM 125 or CHEM 129",
+        "ENVE 330 or ENVE 331"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Aquatic environmental chemistry and water quality measurements. Equilibrium chemistry, carbonate systems, redox reactions, and electrochemistry. Laboratories include topics such as measurement of suspended solids, turbidity, alkalinity, BOD, and coliform detection. Quality analysis and control.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ENVE 436",
+      "course name": "Introduction to Hazardous Waste Management",
+      "prerequisite": [
+        "ENVE 325",
+        "ENVE 331"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Overview of hazardous waste generation, federal and state regulations, storage, transport, treatment, and remediation. Principles of toxicology, unit operations and processes for the treatment, reduction, and remediation of wastes. Ultimate disposal including incineration, solidification, and bioremediation 4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 438",
+      "course name": "Water and Wastewater Treatment Design",
+      "prerequisite": [
+        "ENVE 331",
+        "ME 341 or ENVE 264"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Theory and design of facilities for physical and chemical treatment of water and wastewater, biological treatment of wastewater, and treatment and disposal of sludge.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 439",
+      "course name": "Sustainable Solid Waste Engineering",
+      "prerequisite": [
+        "ENVE 325",
+        "ENVE 331"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Design and analysis of recycling, composting, anaerobic digestion, gasification, and combustion systems for the recovery of resources and energy from solid wastes. Field trips required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ENVE 443",
+      "course name": "Bioremediation Engineering",
+      "prerequisite": [
+        "ENVE 331"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "State - of - the - art bioremediation technologies for soil, groundwater and contaminated air stream remediation and pollution prevention. Introduction to engineering design combining biogenetics, reactor configuration, and basic biological and engineering principles. Various in - situ and ex - situ technologies. Field trip may be required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ENVE 450",
+      "course name": "Industrial Pollution Prevention",
+      "prerequisite": [
+        "ENVE 331"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Theory and case studies of innovative industrial waste minimization and resource conservation through principles of pollution prevention. Life - cycle assessment, pollution prevention, economic analysis, and sustainable designs.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ENVE 455",
+      "course name": "Environmental Health and Safety",
+      "prerequisite": [
+        "ENVE 331"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Physical, chemical and biological hazards associated with industrial processes. Toxicology. Safety analysis and design. Causes and prevention of occupational and environmental hazards. Development and implementation of industrial hygiene programs.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 466",
+      "course name": "Senior Project Design Laboratory I",
+      "prerequisite": [
+        "ENVE 438"
+      ],
+      "units": "2 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Capstone team project on a complex, integrated design problem typical of the environmental engineering profession. Formal reports and presentations are prepared. Non - technical issues addressed : ethics, teamwork, leadership, communication, and professional practice.",
+      "format": "2 laboratories."
+    },
+    {
+      "id": "CalPoly_ENVE 467",
+      "course name": "Senior Project Design Laboratory II",
+      "prerequisite": [
+        "ENVE 466"
+      ],
+      "units": "2 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Continuation of ENVE466. Continuation of capstone project by individuals or teams with submission of final reports and presentations 2 laboratories."
+    },
+    {
+      "id": "CalPoly_ENVE 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "1 to 4 laboratories."
+    },
+    {
+      "id": "CalPoly_ENVE 480",
+      "course name": "Environmental Engineering of Energy",
+      "prerequisite": [
+        "ENVE 304 or ME 302",
+        "ENVE 331"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Environmental impacts of conventional and renewable energy production and of emerging renewable energy development. Environmental engineering methods for mitigation of impacts of fossil fuel processing, including hydrofracking. Greenhouse gas inventory and management. Field trips required.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ENVE 495",
+      "course name": "Cooperative Education Experience",
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Full - time work experience in business, industry, government, and other areas of student career interest. Positions are paid and usually require relocation and registration in course for two consecutive quarters. A more fully developed formal report and evaluation by work supervisor required. Credit / No Credit grading only. No major credit allowed ; total credit",
+      "grading": "limited to 24 units."
+    },
+    {
+      "id": "CalPoly_ENVE 500",
+      "course name": "Individual Study",
+      "units": "1-3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Advanced study planned and completed under the direction of a member of the department faculty. Open only to graduate students who have demonstrated ability to do independent work. Total credit",
+      "grading": "limited to 4 units"
+    },
+    {
+      "id": "CalPoly_ENVE 525",
+      "course name": "Indoor Air Quality Engineering",
+      "prerequisite": [
+        "ENVE 264 or ME 341"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Pollutants sources and sinks indoors, transport processes, ventilation, and engineering controls. Human factors and engineering factors that influence the quality of the indoor environment.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 535",
+      "course name": "Physico-Chemical Water and Wastewater Treatment",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Physical and chemical processes used in potable water treatment and advanced wastewater treatment. Coagulation, flocculation, sedimentation, filtration, membrane separation, disinfection, and absorption. Wastewater recycling regulations. Integration of treatment processes.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 536",
+      "course name": "Biological Wastewater Treatment Processes Engineering",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Fundamentals of biological wastewater treatment. Suspended and attached growth bioreactors. Activated sludge, biotower, and anaerobic process design. Biological nutrient removal.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 537",
+      "course name": "Decentralized Wastewater Management",
+      "prerequisite": [
+        "ENVE 438 or Graduate st"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Design and management of decentralized wastewater treatment systems. Septic tanks, aerobic nutrient removal systems, ponds, constructed wetlands, and improved latrines ; surface and subsurface effluent recycling or disposal ; and septage management.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ENVE 542",
+      "course name": "Sustainable Environmental Engineering",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Critical analysis of environmental engineering practices such as solid waste management, recycling, and wastewater treatment from the viewpoint of energy efficiency, lifecycle cost, and sustainability. Both laboratory experiments and computer models to assess sustainability.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ENVE 570",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 seminars."
+    },
+    {
+      "id": "CalPoly_ENVE 571",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_ENVE 581",
+      "course name": "Biochemical Engineering",
+      "prerequisite": [
+        "CHEM 312",
+        "MCRO 221"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Types of microorganisms and microbially - mediated biochemical reactions for biotechnology applications. Stoichiometric and thermodynamic principles for microbial growth and metabolism. Material and energy balances for aerobic and anaerobic growth and bioreactor design. Kinetics of enzyme catalyzed reactions. Field trips required.",
+      "format": "3 seminars, 1 laboratory.",
+      "other": "Crosslisted as ENGR / ENVE581."
+    },
+    {
+      "id": "CalPoly_ENVE 599",
+      "course name": "Design Project (Thesis)",
+      "units": "1-9 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Each individual or group will be assigned a project for solution under faculty supervision as a requirement for the master 's degree, culminating in a written report / thesis."
+    }
+  ]
+}

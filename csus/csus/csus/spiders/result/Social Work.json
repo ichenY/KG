@@ -1,0 +1,782 @@
+{
+  "courses": [
+    {
+      "term": ". ", 
+      "description": "Provides an overview of the social work profession and of social welfare systems especially in relation to marginalized populations. Also introduces a generalist perspective to social work practice with emphasis on professional development. Students are exposed to the values and ethics of social work, as well as the important ideologies that have shaped social welfare and social work. ", 
+      "course name": "Introduction to Social Work", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 95", 
+      "prerequisite": [
+        "SWRK 140A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Increase student awareness of social, political, economic, and cultural diversity. Addresses patterns and consequences of discrimination and oppression as well as theoretical and practice content and strategies for social change.", 
+      "id": "CSUS_SWRK 102", 
+      "course name": "Crosscultural Theory and Practice: Issues of Race, Gender and Class."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Descriptive and inferential statistics, sampling, probability distribution, introduction to research methods, relationship of statistics to research methods; illustrations drawn from the field of human services.", 
+      "id": "CSUS_SWRK 110", 
+      "course name": "Statistics and Research for Social Workers"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "User oriented research methods focusing on locating, understanding, and using the professional research literature relevant to the development of skills for the human service practitioner; and methods of evaluating ones own practice and agency programs. ", 
+      "course name": "Research Methods and Program Evaluation", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 111", 
+      "prerequisite": [
+        "SWRK 110", 
+        "SWRK 140B", 
+        "SWRK 140C"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to social work practice with the alcoholic/addicted individual or family. The ecological framework will be utilized for studying alcohol and drug dependence and its prevention/intervention. Emphasis will be placed on addiction as a biopsychosocial problem with a special focus on oppressed and marginalized populations.", 
+      "id": "CSUS_SWRK 118", 
+      "course name": "Chemical Dependency and Social Work Practice"
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Theory forms the foundation of all social work practice, attempting to explain complicated human behavior in interaction with diverse environments. This course examines core theories of human behavior, families, small groups, organizations, social movements, and human society from a variety of social science disciplines. Each theory will be critically examined in respect to application towards diverse groups and the vulnerable populations that social workers serve. ", 
+      "course name": "Human Behavior and the Social Environment: Theory", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 125A", 
+      "prerequisite": [
+        "BIO 1", 
+        "BIO 10", 
+        "BIO 20", 
+        "ANTH 1", 
+        "ECON 1A", 
+        "ECON 1B", 
+        "SOC 1", 
+        "CRJ 1", 
+        "GERO 100", 
+        "SOC 3", 
+        "SOC 10"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "This course examines growth and development with special focus on lifespan from birth through old age in the context of family, community, complex organizations, and society. With technological, economic, political and ecological systems rapidly changing, the course will also examine the effects on the interplay between human life and the environment. ", 
+      "course name": "Human Behavior and the Social Environment: The Life Course", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 125B", 
+      "prerequisite": [
+        "SWRK 125A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Analyzes various theories in terms of their logic, historical origins, and policy implications. Focus on developing a critical framework. ", 
+      "course name": "Theories of Criminal Behavior.", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 126", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Examines psycho-social-cultural influences on sexual identity and sexual behavior; analyzes problems confronting the victims of sex-discrimination and oppression; considers education and treatment programs.", 
+      "id": "CSUS_SWRK 129", 
+      "course name": "Human Sexuality in Social Work Perspectives"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "This course examines how spirituality serves as a liberating, and at times constricting force in the lives of our clients and communities. Competencies for both assessing and engaging in discussions about our clients' spiritual world as well as self-awareness regarding social work practitioner spiritual orientations are emphasized. Diverse spiritual and religious backgrounds (including those who consider themselves non-spiritual or non-religious) are welcomed and celebrated in the classroom.", 
+      "id": "CSUS_SWRK 132", 
+      "course name": "Social Work and Spirituality"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Focuses on the study of particular behavior defined as criminal, including addiction, pornography, homosexuality, prostitution and abortion. The role of morality is examined.", 
+      "id": "CSUS_SWRK 134", 
+      "course name": "Crimes Without Victims"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes social theory and its relationship to the generation and retention of institutional poverty. Within this context, public and private welfare programs serving low-income populations will be examined.", 
+      "id": "CSUS_SWRK 136", 
+      "course name": "Poverty and Homelessness in America"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Both civil and criminal aspects of the relationship of the applicability and effect of the law on minors, including juvenile court, wardship and dependency, liability for torts, the child and divorce.", 
+      "id": "CSUS_SWRK 137", 
+      "course name": "The Child and the Law"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Provides basic information on victims and perpetrators of violence in the family. The focus is on child maltreatment, spouse/partner battering, abuse of the elderly, and the roles and responsibilities of social workers responding to family violence.", 
+      "id": "CSUS_SWRK 138", 
+      "course name": "Violence In The Family"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provides an introduction to the profession and generalist social work practice with individuals, families, groups, organizations, and communities. Practice skills  focus on application of the planned changed process from an empowerment approach. ", 
+      "course name": "Social Work Practice", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 140A", 
+      "prerequisite": [
+        "SWRK 95", 
+        "SWRK 125A", 
+        "SWRK 125B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Generalist practice through a cross-cultural lens.  Focuses on culturally competent relationship building, assessment, and intervention with individuals, organizations and communities. ", 
+      "course name": "Social Work Practice", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 140B", 
+      "prerequisite": [
+        "SWRK 95", 
+        "SWRK 102", 
+        "SWRK 125B", 
+        "SWRK 140A", 
+        "SWRK 150", 
+        "SWRK 195A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ".", 
+      "course name": "Social Work Practice", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 140C", 
+      "prerequisite": [
+        "SWRK 195A", 
+        "SWRK 140B", 
+        "SWRK 195B", 
+        "SWRK 195B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Examines the history, purpose, structure and costs of current American social welfare policy and programs and the role of social work in policy and program development.", 
+      "id": "CSUS_SWRK 150", 
+      "course name": "Welfare In America"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Examines the delivery of health and mental health service with a focus on problems experienced by economically disadvantaged and oppressed populations.", 
+      "id": "CSUS_SWRK 151", 
+      "course name": "Health Services and Systems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides basic information on the recognition and treatment of problems of children in the home, school and community, and on the public and private social services and laws which promote and protect the welfare of children.", 
+      "id": "CSUS_SWRK 153", 
+      "course name": "Child Welfare Services"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Through the review of ethnographic works, qualitative research articles and other significant recent literature on veterans' issues, students are introduced to the qualitative research process. Most significantly students simultaneously gain knowledge of the issues and challenges faced by veterans returning from combat as they transition to civilian life as well as the best practices in supporting positive transitions from combat to civilian life. Students will develop analytical thinking skills and writing skills for preparing literature reviews. ", 
+      "course name": "Exploration of Veteran Studies: An Ethnographic Approach.", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 191", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Two semester sequence of instruction that takes place in a human service organization in the community wherein students demonstrate, under the auspices of a certified field instructor, their ability to apply the knowledge, practical skills, critical thinking/reasoning abilities, and interpersonal communication skills required of undergraduate level social works.  Students must provide their own transportation to and from field sites, purchase malpractice insurance through the Division of Social Work. ", 
+      "course name": "Field Instruction", 
+      "units": "6 Units", 
+      "id": "CSUS_SWRK 195A", 
+      "prerequisite": [
+        "SWRK 102", 
+        "SWRK 125A", 
+        "SWRK 125B", 
+        "SWRK 140A", 
+        "SWRK 150", 
+        "SWRK 140B"
+      ]
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved Field placement.  ", 
+      "description": "Two-semester course sequence that takes place in a human service organization. Students demonstrate their ability to apply social work knowledge and practical skills. Students must provide their own transportation and purchase malpractice insurance through the Division of Social Work. ", 
+      "course name": "Field Instruction", 
+      "units": "6 Units", 
+      "id": "CSUS_SWRK 195B", 
+      "prerequisite": [
+        "SWRK 102", 
+        "SWRK 125A", 
+        "SWRK 125B", 
+        "SWRK 140A", 
+        "SWRK 140B", 
+        "SWRK 195A", 
+        "SWRK 150", 
+        "SWRK 140C"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "This elective course is designed to provide students with an intermediate and critical understanding to conduct work with individuals who are LGBTQ, and with their kinship networks and communities. Various perspectives (e.g., historical, political, psychological, critical) are examined throughout the course to assist students in understanding the complexity and dynamics of the person-in-environment. The course builds on BSW content and upper division coursework, integrating that through applied assignments and increasing self-awareness. ", 
+      "id": "CSUS_SWRK 196", 
+      "course name": "Working with LGBTQ Communities"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Co-curricular activities related to the subject matter and intellectual concerns of the Division of Social Work, including service on division policy-making committees and participation in ASI approved organizations. ", 
+      "id": "CSUS_SWRK 198", 
+      "course name": "Co-Curricular Activities"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open to students who are capable of independent work.  ", 
+      "description": "Independent research, project or directed reading. ", 
+      "id": "CSUS_SWRK 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Prepares students to understand cultural and social diversity. Addresses theoretical and practice dimensions of social work with diverse and oppressed and vulnerable people for personal and social empowerment in behalf of human dignity and social justice.", 
+      "id": "CSUS_SWRK 202", 
+      "course name": "Social Work and Diverse Populations"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Building on the liberal arts framework and using the ecological model, this course introduces students to generalist social work practice with individuals, families, small groups, organizations, disadvantaged populations, communities, and society. ", 
+      "course name": "Social Work Practice I", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 204A", 
+      "prerequisite": [
+        "SWRK 295A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Broadens the ecological perspective to address economic and political issues, social stratification, and racism as they impact practice with at-risk populations; promoting change at multiple levels of intervention. ", 
+      "course name": "Social Work Practice II", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 204B", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 295A", 
+        "SWRK 295B"
+      ]
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved Field placement.  ", 
+      "description": " and provides advanced knowledge and skills for mental health assessments, diagnosis and treatment and to provide long-term and acute mental health treatment, respond to acute trauma and indigent populations. ", 
+      "course name": "Multi-Level Practice for Behavioral Health", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 206A", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 295A", 
+        "SWRK 295B", 
+        "SWRK 296A", 
+        "SWRK 204B"
+      ]
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved Field placement.  ", 
+      "description": " and provides advanced knowledge and skills for mental health assessments, diagnosis and treatment and to provide long-term and acute mental health treatment, respond to acute trauma and indigent populations. ", 
+      "course name": "Multi-Level Practice for Behavioral Health", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 206B", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 295A", 
+        "SWRK 295B", 
+        "SWRK 206A", 
+        "SWRK 296A", 
+        "SWRK 296B", 
+        "SWRK 204B"
+      ]
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved Field placement.  ", 
+      "description": " and provides advanced knowledge and skills in areas affecting children and families with a specific focus on training students in Child Protective Services, abuse, neglect and human trafficking. ", 
+      "course name": "Multi-Level Practice for Children & Families", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 207A", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 295A", 
+        "SWRK 295B", 
+        "SWRK 297A", 
+        "SWRK 204B"
+      ]
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved Field placement.  ", 
+      "description": " and provides advanced knowledge and skills in areas affecting children and families with a specific focus on training students in Child Protective Services, abuse, neglect and human trafficking. ", 
+      "course name": "Multi-Level Practice for Children & Families", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 207B", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 295A", 
+        "SWRK 295B", 
+        "SWRK 207A", 
+        "SWRK 297A", 
+        "SWRK 297B", 
+        "SWRK 204B"
+      ]
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved Field placement.  ", 
+      "description": " and provides advanced knowledge and skills for hospital and hospice care, respond to the needs of Baby Boomers, support diversity in aging choices while assisting clients with management of health care, housing and quality of life optimization. ", 
+      "course name": "Multi-Level Practice for Health & Aging", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 208A", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 295A", 
+        "SWRK 295B", 
+        "SWRK 298A", 
+        "SWRK 204B"
+      ]
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved Field placement  ", 
+      "description": " and provides advanced knowledge and skills for hospital and hospice care, respond to the needs of Baby Boomers, support diversity in aging choices while assisting clients with management of health care, housing and quality of life optimization. ", 
+      "course name": "Multi-Level Practice for Health & Aging", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 208B", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 295A", 
+        "SWRK 295B", 
+        "SWRK 208A", 
+        "SWRK 298A", 
+        "SWRK 298B", 
+        "SWRK 204B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of quantitative and qualitative methods of social work research. Includes problem formulation, selection of various conceptual frameworks, research designs, sampling, collecting data, experimental design and computer technology. ", 
+      "id": "CSUS_SWRK 210", 
+      "course name": "Methods of Social Research"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Integrates the concepts and skills learned in Advanced Practice, Advanced Policy, and Research courses of the MSW program and applies to the specific client population of public child welfare agencies. Required for Title IV-E stipend students; open to others on basis of space availability. ", 
+      "course name": "Public Child Welfare Practice", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 213", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "The course examines the principles, policies, goals, and practice of mediation and restorative justice in social work settings including the adult and juvenile criminal justice systems, family court, child welfare, schools, mental health, health, and community dispute resolution centers. Students will learn mediation and restorative justice practice skills to work effectively with individuals as both clients and providers of services, as well as within various institutions, systems, and communities.", 
+      "id": "CSUS_SWRK 215", 
+      "course name": "Mediation & Restorative Justice"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to increase the sensitivity of graduate social work students to the major intervening variables contributing to the problem of chemical dependence in contemporary American society.", 
+      "id": "CSUS_SWRK 218", 
+      "course name": "Chemical Dependence: Strategies and Tactics for Social Work Practice"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides intervention strategies useful in health care settings. Individual, family and group practice strategies are presented as well as discharge planning, advocacy, ethnically sensitive issues, and collaboration practice within hospital settings.", 
+      "id": "CSUS_SWRK 219", 
+      "course name": "Social Work Practice in Health Care Settings"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Focuses on intervention at the community level with a special emphasis on grass roots organizing and advocacy. ", 
+      "course name": "Community Organizing Practice", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 221", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed to give practitioners and students hands-on experience in using the DSM IV Manual. Videotapes, case vignettes, and small group discussions used.", 
+      "id": "CSUS_SWRK 223", 
+      "course name": "DSM New Developments in Psychodiagnosis"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines a variety of theoretical views on adaptations of childhood and adulthood with accompanying models for assessment and treatment. Explores current views on intra-psychic and interpersonal functioning utilized in mental health settings. ", 
+      "course name": "Advanced Mental Health Practice", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 224", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Covers small group theory and process, and group method in a variety of settings, with emphasis on group development.", 
+      "id": "CSUS_SWRK 225", 
+      "course name": "Advanced Group Work Methods: Process and Intervention Strategies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Critically addresses the origins and contemporary context and models of interventions with families.", 
+      "id": "CSUS_SWRK 226", 
+      "course name": "Family Intervention: Contemporary Issues in Social Work Practice"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Presents an intervention system that can assist professionals to work with sexually abusive families and victims of sexual abuse. Assessment, planning, and treatment are described and methods of intervention demonstrated.", 
+      "id": "CSUS_SWRK 228", 
+      "course name": "Clinical Intervention in Sexual Abuse"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Considers the role of spirituality in the socialization process of the professional as well as the client by examination of spirituality, values, ethics, principles, and philosophies as influences on personal and professional interactions.", 
+      "id": "CSUS_SWRK 232", 
+      "course name": "Spirituality and Social Work"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the growth, change and interaction of individuals, families and groups, organizations, and communities with special attention to lifespan development and systems theory.", 
+      "id": "CSUS_SWRK 235A", 
+      "course name": "Theoretical Bases of Social Behavior"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Focuses on major personality theories; principal theories of health, illness and disordered behavior; child and family dynamics; and theories of group and organizational behavior. ", 
+      "course name": "Theoretical Bases of Social Behavior", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 235B", 
+      "prerequisite": [
+        "SWRK 235A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Required for Pupil Personnel Services Credential.  ", 
+      "description": "Introduces the student to the field of school social work in its dynamic social, educational, legal, political, and human complexity. Examines the challenges of rapid social and demographic change in California as well as the need for restructuring education and innovative responses. ", 
+      "id": "CSUS_SWRK 238A", 
+      "course name": "Issues and Practice in Schools"
+    }, 
+    {
+      "term": " Required for Pupil Personnel Services Credential.  ", 
+      "description": ", course examines classroom management, case assessment, alternative education practices, discipline and attendance law, impediments to individual development as well as case studies, interagency collaboration, new community partnerships, and media and high technology uses. ", 
+      "course name": "Issues and Practice in Schools", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 238B", 
+      "prerequisite": [
+        "SWRK 238A", 
+        "SWRK 238A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Death and the process of terminating life seen from the social, cultural, personal and medical perspectives. Comparisons of competing, contradictory or complementary views of death among specific religions, social classes, ethnic groups and superstitions and taboos connected with the dead.", 
+      "id": "CSUS_SWRK 245", 
+      "course name": "Death, Grief And Growth"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Graduate Writing Intensive (GWI) course. ", 
+      "description": "Analyzes contemporary social welfare policy and the ways in which policy is carried out through a broad spectrum of agencies and services, in a historical and philosophical context relevant to professional social workers. This course meets the foundation competencies of social welfare policies and services within the specific context of thinking, reading and writing in social work policy practice. ", 
+      "id": "CSUS_SWRK 250", 
+      "course name": "Social Welfare Policy and Services."
+    }, 
+    {
+      "units": "3 Units", 
+      "description": " with deeper knowledge of diverse theoretical and practical approaches to policy analysis, development, implementation, and evaluation to empower communities and individuals, to advance and protect human rights, and to optimize social justice. Focuses on Behavioral Health policy and services, involuntary commitment, access to care and patients' rights, financing and organization of Behavioral Health services, legislation and community engagement around Behavioral Health issues. ", 
+      "id": "CSUS_SWRK 252", 
+      "prerequisite": [
+        "SWRK 250", 
+        "SWRK 250"
+      ], 
+      "course name": "Advanced Policy for Behavioral Health"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": " with deeper knowledge of diverse theoretical and practical approaches to policy analysis, development, implementation, and evaluation to empower communities and individuals, to advance and protect human rights, and to optimize social justice. Focuses on sociopolitical issues, laws and court decisions, history and role of government in public child welfare practice, children's and parents' rights, child custody, sexual abuse laws, and emancipation. ", 
+      "id": "CSUS_SWRK 253", 
+      "prerequisite": [
+        "SWRK 250", 
+        "SWRK 250"
+      ], 
+      "course name": "Advanced Policy for Children & Families"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": " with deeper knowledge of diverse theoretical and practical approaches to policy analysis, development, implementation, and evaluation to empower communities and individuals, to advance and protect human rights, and to optimize social justice. Focuses on the policies and services for meeting the health, economic, psychological, and the social needs of the older adults and those in health care settings.", 
+      "id": "CSUS_SWRK 254", 
+      "prerequisite": [
+        "SWRK 250"
+      ], 
+      "course name": "Advanced Policy for Health & Aging"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Required for title IV-E students.  ", 
+      "description": "Building upon SWRK 251, this course examines the history of child and family services, introduces the students to theories and methods of policy analysis, and focuses on analysis of selected federal, state, and local policies specifically relevant to children and families, as well as how social workers influence policy formulation and implementation. ", 
+      "id": "CSUS_SWRK 258", 
+      "course name": "Advanced Policy - Children and Families"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_SWRK 259", 
+      "course name": "International Social Work"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Prepares students for resource and grant proposal development as well as grant project management and evaluation. Students will develop various skills including how to identify and communicate with appropriate funding sources conceptualize, write and submit a grant proposal prepare a grant budget; administer a grant funded program; and evaluate  program outcomes, and peer reviews of grant proposals.", 
+      "id": "CSUS_SWRK 261", 
+      "course name": "Grant Writing and Resource Development"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Reflects the current best practices of psychosocial rehabilitation, and pays particular attention to the nuances of those practice expectations within the context of the Mental Health Services Act of 2004.  The course requirement for all students who are recipients of the mental health stipend in the Division of Social Work. ", 
+      "id": "CSUS_SWRK 262", 
+      "course name": "Social Work Practice in Rehabilitation"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "The focus of this course is on specialized practice with aging clientele. The curriculum is intended to help students adapt social work theory (person-in-environment), practice principles, standards and values to practice with older adults. This course includes a critical analysis of the theoretical underpinnings of gerontological thought and assists students to view aging through multiple perspectives with an examination of physiological, psychological and sociological phenomenon.", 
+      "id": "CSUS_SWRK 268", 
+      "course name": "Advanced Clinical Social Work with Older Adults"
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved Field placement  ", 
+      "description": "Field Instruction ", 
+      "course name": "Field Instruction", 
+      "units": "3 Units", 
+      "id": "CSUS_SWRK 295A", 
+      "prerequisite": [
+        "SWRK 204A"
+      ]
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved Field placement.  ", 
+      "description": "Field Instruction ", 
+      "course name": "Field Instruction", 
+      "units": "4 Units", 
+      "id": "CSUS_SWRK 295B", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "295A", 
+        "SWRK 204B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "School based sites for the development of Pupil Personnel Services skills. Two days per week. ", 
+      "id": "CSUS_SWRK 295E", 
+      "course name": "Post Master's Pupil Personnel Services Fieldwork"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "School based sites for the development of Pupil Personnel Services skills. Two days per week. ", 
+      "id": "CSUS_SWRK 295F", 
+      "course name": "Post Master's Pupil Personnel Services Fieldwork"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "This elective course is designed to provide students with an in-depth and critical understanding to conduct social work with individuals who are LGBTQ, and with their kinship networks and communities. Various perspectives (e.g., historical, political, psychological, and critical theory) are examined throughout the course to assist students in understanding the complexity and dynamics of the person-in-environment perspective. The course builds on first year MSW content, integrating that through assignments as well as deepening self-awareness in service of professional development. ", 
+      "id": "CSUS_SWRK 296", 
+      "course name": "Social Work with LGBTQ Communities"
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved field placement.  ", 
+      "description": "Field Instruction for Behavioral Health ", 
+      "course name": "Field Instruction for Behavioral Health", 
+      "units": "5 Units", 
+      "id": "CSUS_SWRK 296A", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 295A", 
+        "SWRK 295B", 
+        "SWRK 206A"
+      ]
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved field placement.  ", 
+      "description": "Field Instruction for Behavioral Health ", 
+      "course name": "Field Instruction for Behavioral Health", 
+      "units": "5 Units", 
+      "id": "CSUS_SWRK 296B", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 295A", 
+        "SWRK 295B", 
+        "SWRK 206A", 
+        "SWRK 296A", 
+        "SWRK 206B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "The definition, incidence, etiology, and prevention of developmental disabilities will be presented. This course also examines the life course needs of people with developmental disabilities including the collaboration of families and community, the role of social workers and other health professionals in the California Regional Center System and the Department of Developmental Disabilities, as well as presenting general issues related to service delivery systems, advocacy movements, criminal justice system involvement, mental health, sexuality issues as well as social policy issues.", 
+      "id": "CSUS_SWRK 296D", 
+      "course name": "Advanced Social Work Practice with Persons with a Developmental Disability"
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved field placement.  ", 
+      "description": "Field Instruction for Children & Families ", 
+      "course name": "Field Instruction for Children & Families", 
+      "units": "5 Units", 
+      "id": "CSUS_SWRK 297A", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 295A", 
+        "SWRK 295B", 
+        "SWRK 207A"
+      ]
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved field placement.  ", 
+      "description": "Field Instruction for Children & Families ", 
+      "course name": "Field Instruction for Children & Families", 
+      "units": "5 Units", 
+      "id": "CSUS_SWRK 297B", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 295A", 
+        "SWRK 295B", 
+        "SWRK 207A", 
+        "SWRK 297A", 
+        "SWRK 207B"
+      ]
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved field placement.  ", 
+      "description": "Field Instruction for Health & Aging ", 
+      "course name": "Field Instruction for Health & Aging", 
+      "units": "5 Units", 
+      "id": "CSUS_SWRK 298A", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 295A", 
+        "SWRK 295B", 
+        "SWRK 208A"
+      ]
+    }, 
+    {
+      "term": " Enrollment is limited to students who have secured an approved field placement.  ", 
+      "description": "Field Instruction for Health & Aging ", 
+      "course name": "Field Instruction for Health & Aging", 
+      "units": "5 Units", 
+      "id": "CSUS_SWRK 298B", 
+      "prerequisite": [
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 295A", 
+        "SWRK 295B", 
+        "SWRK 208A", 
+        "SWRK 298A"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual research and directed reading. Written report required. ", 
+      "id": "CSUS_SWRK 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Completion of either: A. Thesis (an original contribution to knowledge) OR B. Research Project (addition to technical/professional knowledge or application of knowledge through case study, field study, documentary report, substantial annotated bibliography, or article of publishable quality) OR C. Directed Study and Comprehensive Examination (seminar, portfolio, examination). ", 
+      "course name": "Culminating Experience", 
+      "units": "2 - 4 Units", 
+      "id": "CSUS_SWRK 500", 
+      "prerequisite": [
+        "SWRK 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " (Methods of Research). Students will experience a mixture of advanced research content including: quantitative research designs, sampling, data collection and analysis, advanced quantitative research designs, sampling, data collection and analysis. ", 
+      "course name": "Advanced Research Methods", 
+      "units": "2 Units", 
+      "id": "CSUS_SWRK 501", 
+      "prerequisite": [
+        "SWRK 202", 
+        "SWRK 204A", 
+        "SWRK 204B", 
+        "SWRK 210", 
+        "SWRK 250", 
+        "SWRK 210"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course is designed to reflect the student's proficiency in the core competencies of the social work profession. The focus of this course is the identification of a social work problem, developing a research design which appropriately addresses the problem, and presentation of the findings. Students demonstrate professional competencies in: ethics, communication, diversity, theory, research, direct and indirect and indirect practice, leadership and organizational processes and evidence of a professional self. ", 
+      "course name": "Integrative Capstone Project", 
+      "units": "2 Units", 
+      "id": "CSUS_SWRK 502", 
+      "prerequisite": [
+        "SWRK 501"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "SWRK", 
+    "subject": "Social Work"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Social Work", 
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "subjectOf": {
+    "subject": "Business Courses",
+    "id": "BUS"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Business Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_BUS 119",
+      "course name": "Principles of Personal & Organizational Leadership",
+      "units": "3 Credits",
+      "description": "This is a leadership skills development course. This course provides an overview and introduction toleadership principles and leadership applications in various organizational settings. It examines theconcept of leadership, leadership styles, traits, and types, and the evolution of leadership behaviorsobserved during recent generations."
+    },
+    {
+      "id": "AshFord_BUS 201",
+      "course name": "Principles of Management",
+      "units": "3 Credits",
+      "description": "This course is an introduction to the nature and problems of management and organizations, leadershipand control. The relationships between the needs of the individual, the organization and society areexamined."
+    },
+    {
+      "id": "AshFord_BUS 215",
+      "course name": "Personal Financial Management",
+      "units": "3 Credits",
+      "description": "This course provides an introduction to the field of personal financial management and planning,focusing on the tools individuals and families employ to manage their financial affairs."
+    },
+    {
+      "id": "AshFord_BUS 226",
+      "course name": "Introduction to Personnel Administration",
+      "units": "3 Credits",
+      "description": "This course examines relationships and issues in personnel administration within a broad range oforganizations. Students study personnel management, organizational development, recruitment andselection, performance management systems, discipline, and collective bargaining."
+    },
+    {
+      "id": "AshFord_BUS 235",
+      "course name": "Introduction to Marketing",
+      "units": "3 Credits",
+      "description": "This course is an introduction to marketing principles, concepts and theories that define the marketingdiscipline. Basic marketing strategies relating to product, price, promotion and distribution, culturaltrends, societal behavior, technology, and legal environments that influence effective marketing decisionsare examined."
+    },
+    {
+      "id": "AshFord_BUS 250",
+      "course name": "Corporate & Social Responsibility",
+      "units": "3 Credits",
+      "description": "This course explores philosophic perspectives for understanding the meaning of corporate responsibilityin society, and considers the leadership roles of managers in implementing corporate and socialresponsibilities. Topics include uses of power, government regulations, environmental issues, employeerights and responsibilities, consumer protection, and ethical integrity."
+    },
+    {
+      "id": "AshFord_BUS 303",
+      "course name": "Human Resource Management",
+      "units": "3 Credits",
+      "description": "An introduction to the field of human resource management. Topics to be discussed includecommunication, motivation, and management of personnel. The course will include a review of currentstandards and practices as well as the legal environment as it pertains to the human resource field."
+    },
+    {
+      "id": "AshFord_BUS 311",
+      "course name": "Business Law I",
+      "units": "3 Credits",
+      "description": "Introduction to the legal environment of business in the United States. Examination of the Constitution,administrative law, contracts, agency, and the protection of competition, consumers, employees,investors, the environment, and international trade."
+    },
+    {
+      "id": "AshFord_BUS 317",
+      "course name": "Introduction to Advertising",
+      "units": "3 Credits",
+      "description": "This course is designed to introduce students to the field of advertising as a promotional force withemphasis on institutions, planning, strategic practices, and tactical decisions made by advertisingexecutives. It will also explore the various career opportunities including account executive, mediabuying, copywriting, production, and research."
+    },
+    {
+      "id": "AshFord_BUS 318",
+      "course name": "Organizational Behavior",
+      "units": "3 Credits",
+      "description": "This course is designed to develop the students skills in the understanding of factors that affect how individuals and groups act and interact with one another and with management. It also looks at howorganizations manage their internal environment with the aim of improving productivity, efficiency, andcommunications among members. ",
+      "prerequisite": [
+        "BUS 201",
+        "MGT 330"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 319",
+      "course name": "The Social Responsibility of Organization",
+      "units": "3 Credits",
+      "description": "The course is designed to provide students with insights into the complex environment that organizations of any size operate. Organizational leaders and organizational members responsibility to use ethical thinking to balance stakeholder interests with organizational duty are examined. Modern managers and leaders face increasing demands in local, regional, national and global environments with competing value expectations. The values and beliefs of organizational members fundamentally impact the success of the organization. In this course, students will gain appreciation for and understanding of social responsibility of the organization under such conditions. ",
+      "prerequisite": [
+        "ENG 121",
+        "ENG 122"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 323",
+      "course name": "Risk Management & Insurance",
+      "units": "3 Credits",
+      "description": "In this course, students study identification and quantification of risk, the span of methods of handlingrisk, and common contracts for managing risk. Common commercial/industrial situations and personalrisk management situations are addressed."
+    },
+    {
+      "id": "AshFord_BUS 330",
+      "course name": "Principles of Marketing",
+      "units": "3 Credits",
+      "description": "The methods used by producers of goods and services to determine and satisfy the wants of society. Anexamination of external and internal environments that impact marketing decisions, the basic elementsof a marketing program, and issues in ethics and social responsibility."
+    },
+    {
+      "id": "AshFord_BUS 336",
+      "course name": "Marketing Strategy",
+      "units": "3 Credits",
+      "description": "The objective of this course is to advance the students ability to develop, implement, and criticallyevaluate the marketing strategy for a product or service. It will provide the conceptual frameworks andhone the analytical and creative skills that are necessary to define and develop superior value,persuasively communicate that value, profitably deliver it to a carefully selected target market, andsustain both the value and the profitability in the face of ever-changing customer needs and competitiveofferings."
+    },
+    {
+      "id": "AshFord_BUS 337",
+      "course name": "Principles of Retail Management",
+      "units": "3 Credits",
+      "description": "Principles and practices used in management of retail businesses. The course covers topics such as siteselection, layout, organization, staffing, positioning, customer service, promotional techniques, and allaspects of the critical buying function."
+    },
+    {
+      "id": "AshFord_BUS 339",
+      "course name": "Marketing Research",
+      "units": "3 Credits",
+      "description": "Study and analysis of the marketing information system. Includes the organizational characteristics ofmarketing research, basic tools and procedures, and management science applications."
+    },
+    {
+      "id": "AshFord_BUS 340",
+      "course name": "Business Communications",
+      "units": "3 Credits",
+      "description": "Every aspect of contemporary business communications  from determining what information tocommunicate to processing information and sharing it  depends on technology. Students will learn tocompose, format, and manage business letters, memos, reports, email, and resumes. Students will usesoftware to access information and to evaluate the quality of the information they receive. Students willcreate electronic presentations to communicate information."
+    },
+    {
+      "id": "AshFord_BUS 342",
+      "course name": "Financial Planning & Practice",
+      "units": "3 Credits",
+      "description": "This course is a study of the various aspects of family financial planning from the perspective of thefinancial planning professional. It introduces the legal and regulatory issues affecting financial planners,defines the client-planner relationship, and prepares the planner to conduct family financial analysis.Emphasis is on providing the student with the knowledge and tools necessary to help families makeinformed financial decisions."
+    },
+    {
+      "id": "AshFord_BUS 343",
+      "course name": "International Marketing",
+      "units": "3 Credits",
+      "description": "Examination of cultural, economic, and political factors that affect marketing of goods and servicesworldwide. Emphasis is on adapting the marketing strategies of domestic marketers to internationaloperations and the institutional structure that exists in international markets. Marketing strategies offirms operation within these markets are also examined."
+    },
+    {
+      "id": "AshFord_BUS 350",
+      "course name": "Consumer Behavior",
+      "units": "3 Credits",
+      "description": "This course illustrates the psychological, socio-cultural, and decision-making aspects of consumerbehavior. Students study behavioral concepts, motivation, and the role of consumer behavior in oursociety."
+    },
+    {
+      "id": "AshFord_BUS 351",
+      "course name": "Integrated Marketing Communications",
+      "units": "3 Credits",
+      "description": "This course is designed to reinforce the concept of integrated marketing communications (IMC). It aims to increase students' understanding of the planning, implementation, and evaluation process of an IMC campaign. Particular emphasis is on the integration of key elements of the marketing communication mix (e.g., advertising, promotion, direct marketing, interactive marketing, PR and publicity, etc.). Students will also learn how different types of media are employed in IMC."
+    },
+    {
+      "id": "AshFord_BUS 352",
+      "course name": "e-Business",
+      "units": "3 Credits",
+      "description": "An introduction to the fundamental concepts used in e-business and e-commerce. This course identifiesand describes the wide range of applications in business. It explains what the Internet is and how it canbe used for business applications in a competitive environment. Through Internet labs, this course willcompare various Web strategies of current businesses. Students need to be proficient in using theInternet to find information."
+    },
+    {
+      "id": "AshFord_BUS 357",
+      "course name": "International Business",
+      "units": "3 Credits",
+      "description": "Students examine functional areas of business from an international perspective. The importance ofdiffering cultural and political assumptions in business is also addressed."
+    },
+    {
+      "id": "AshFord_BUS 362",
+      "course name": "Introduction to Entrepreneurship",
+      "units": "3 Credits",
+      "description": "This dynamic course is based on a unique model of entrepreneurial methodology developed by Forbes School of Business and Technology at Ashford University. Entrepreneurship encompasses imagining the unknown, taking inspired action, and embracing uncertainty to create a new future. It involves the identification, evaluation, and exploitation of opportunities to address challenges and to solve problems. Students will learn how to use imagination, creativity, innovation, and entrepreneurship to bring new ideas to fruition that inspire others. Students will create a feasible blueprint for a venture opportunity idea of their own. This course will be the beginning of the journey to becoming an entrepreneur."
+    },
+    {
+      "id": "AshFord_BUS 365",
+      "course name": "Creativity & Innovation",
+      "units": "3 Credits",
+      "description": "This course focuses on creativity and innovation as a process in organizations. The course also examineshow individuals can be innovative in organizations and the challenge of building innovativeorganizations. ",
+      "prerequisite": [
+        "BUS 362"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 368",
+      "course name": "Venture Capital & Banking",
+      "units": "3 Credits",
+      "description": "This course examines financing the start-up of a new venture, from bootstrapping with personalresources or bank debt to equity investment by angel investors or venture capitalists. The course alsocovers the four main aspects of venture capital: valuation, deal structuring, governance, and harvesting. ",
+      "prerequisite": [
+        "BUS 362"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 370",
+      "course name": "Organizational Development",
+      "units": "3 Credits",
+      "description": "The course overviews how, why, and when to integrate the behavioral sciences with human resourcesmanagement principles to increase individual and organizational effectiveness. Students will also beintroduced to many types of interpersonal, intra-group, inter-group, and organizational interventionsthat are used to effect comprehensive and lasting changes. ",
+      "prerequisite": [
+        "BUS 201",
+        "MGT 330",
+        "HCA 459 "
+      ]
+    },
+    {
+      "id": "AshFord_BUS 372",
+      "course name": "Employee & Labor Relations",
+      "units": "3 Credits",
+      "description": "The course provides students with both the common and complex issues related to human behavior inthe workplace as it relates to employee relations, and an examination of relationships among unions,workers, management, laws and government regulation. ",
+      "prerequisite": [
+        "BUS 303"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 375",
+      "course name": "Employee Training",
+      "units": "3 Credits",
+      "description": "This course provides essential managerial-level comprehension of training theory and its practicalapplications in the business and management environment. Students learn the functions and duties oftraining: trainer/developer, the identification and assessment of training needs, program design anddevelopment, selection of delivery methods and means of instruction, the implementation of trainingprograms, and evaluation. ",
+      "prerequisite": [
+        "BUS 303"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 378",
+      "course name": "International Business Law",
+      "units": "3 Credits",
+      "description": "This courses focuses on the legal environment associated with international commercial transactions,including an analysis of major Western and non-Western legal traditions and the supranational law of theEuropean Community, a detailed analysis of the negotiation, formation, enforcement, and financing ofinternational sales contracts, an analysis of international trade regulation, analysis of methods ofregulating global competition, and of the protection of business property rights in internationaltransactions."
+    },
+    {
+      "id": "AshFord_BUS 401",
+      "course name": "Principles of Finance",
+      "units": "3 Credits",
+      "description": "Basic corporate finance is presented with the emphasis on risk and return, bond and equity markets,valuation of bonds and equities, present value analysis, internal rate of return analysis, and project analysis using the weighted average cost of capital. ",
+      "prerequisite": [
+        "ACC 205",
+        "ACC 208",
+        "ACC 281"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 402",
+      "course name": "Strategic Management & Business Policy",
+      "units": "3 Credits",
+      "description": "A case-based course that discusses the set of managerial decisions and actions that determines the long-run performance of a company. The course includes environmental scanning, strategy formulation, strategy implementation, and evaluation and control. ",
+      "prerequisite": [
+        "GEN 499"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 405",
+      "course name": "Principles of Investments",
+      "units": "3 Credits",
+      "description": "The study and analysis of securities and other forms of investments. Emphasis is on investmentprinciples from the managers point of view. ",
+      "prerequisite": [
+        "BUS 401"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 410",
+      "course name": "Digital Marketing Essentials",
+      "units": "3 Credits",
+      "description": "This course is designed to provide the theoretical understanding of the internet marketplace necessary to adapt to its many changes, while also equipping the students with the skills they will need to perform vital functions of internet marketing."
+    },
+    {
+      "id": "AshFord_BUS 421",
+      "course name": "PR/Marketing Capstone",
+      "units": "3 Credits",
+      "description": "This course is designed to bring together the knowledge gained through the entire program and permits the student to demonstrate mastery in the various course competencies. Students are expected to apply and integrate a variety of skills, tools, and knowledge to assess real-world problems offering realistic solutions. Students will analyze, design, implement, and document an appropriate solution for a capstone project. The project should exemplify the students ability to apply program outcomes. ",
+      "prerequisite": [
+        "GEN 499"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 427",
+      "course name": "Sustainable Business Practices",
+      "units": "3 Credits",
+      "description": "Using readings and cases, students examine business strategies in response to and anticipation of opportunities resulting from shifting economic, political, and environmental conditions including social change, market failures, or interruption of business operations. Compliance and risk management strategies will be emphasized while emphasis focuses on business innovation and business sustainability."
+    },
+    {
+      "id": "AshFord_BUS 430",
+      "course name": "Finance Seminar",
+      "units": "3 Credits",
+      "description": "Using readings and case studies, students gain understanding the types of analysis performed and decisions made by the financial managers of corporations, focusing on valuation concepts and managing for value. Students also explore specific financing and investing decisions made by the firms management to mitigate corporate risk using insurance and financial derivatives; valuation of real options; real estate investment decision; issues and methods of corporate financial management in an international environment. ",
+      "prerequisite": [
+        "BUS 405"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 433",
+      "course name": "New Business Strategy",
+      "units": "3 Credits",
+      "description": "This course is intended to provide prospective entrepreneurs with information and tools for evaluating opportunities for starting a new firmhow to choose markets for entry, when to enter, and what resources and capabilities it will take to enter and provide a platform for future growth. ",
+      "prerequisite": [
+        "BUS 362"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 434",
+      "course name": "Compensation & Benefits Management",
+      "units": "3 Credits",
+      "description": "This course reviews the fundamentals of wage and salary programs, including conducting salary surveys, defining compensable factors, adjusting pay structures, evaluating pay differentials, and relating pay to performance. Benefit programs and related employee incentive and service programs are also covered. ",
+      "prerequisite": [
+        "BUS 303"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 435",
+      "course name": "Small Business Ventures",
+      "units": "3 Credits",
+      "description": "This course explores the strategic planning, operating, financing, legal, career and other business issues found in launching a small business or operating family-owned and managed companies or privately-held firms. Other course topics include the challenge of identifying viable business opportunities, gaining the appropriate business skills and tools to be successful, and defining the capital requirements to operate the business. ",
+      "prerequisite": [
+        "BUS 362"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 437",
+      "course name": "Business Plan Development",
+      "units": "3 Credits",
+      "description": "This course gives students the opportunity to study the elements of a successful business plan and to put that knowledge to work in creating a comprehensive business plan for a new venture. ",
+      "prerequisite": [
+        "GEN 499"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 439",
+      "course name": "International Human Resources Management",
+      "units": "3 Credits",
+      "description": "In this course, students will examine human resources practices in an international business environment. The course also addresses HR strategies and practices to increase organizational effectiveness and efficiency as well as international compliance problems faced by HR professionals."
+    },
+    {
+      "id": "AshFord_BUS 441",
+      "course name": "Retail Pricing Management",
+      "units": "3 Credits",
+      "description": "The purpose of this course is to provide an in-depth understanding of the issues and considerations in the pricing of retail products, illustrate the role of pricing and product management in achieving strategic retail business goals, and demonstrate the link between pricing and product management within the context of the marketing mix within the marketing management process. ",
+      "prerequisite": [
+        "ECO 204",
+        "SRV 340"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 442",
+      "course name": "Retail Merchandising",
+      "units": "3 Credits",
+      "description": "This course addresses the central issues of retailing business while emphasizing issues related to channel options available to the final consumer. The course features concepts applied to both store based (e.g., specialty store, department store, multi-unit retail) and non-store based (e.g., Internet and catalog) retailing channels."
+    },
+    {
+      "id": "AshFord_BUS 443",
+      "course name": "Quality Management for Organizational Excellence",
+      "units": "3 Credits",
+      "description": "This course presents quality procedures and concepts for enhancing goods, services, and the entire business environment. Students will learn to view quality as the result of customer-focused processes. Tools to manage these processes focus on designing, monitoring, controlling, and improving the inputs, activities, and outputs involved in all business activities."
+    },
+    {
+      "id": "AshFord_BUS 445",
+      "course name": "Total Quality Management",
+      "units": "3 Credits",
+      "description": "This course presents quality procedures and concepts for enhancing goods, services and the entire business environment. Students learn various methods of process control and acceptance sampling, including using control charts and sampling plans. Quality planning, assurance and control are covered as parts of a total quality system. Probability and statistical concepts are further explored as related to process control."
+    },
+    {
+      "id": "AshFord_BUS 446",
+      "course name": "Production Operations Control",
+      "units": "3 Credits",
+      "description": "Students analyze production control requirements as applied to both \"push\" and \"pull\" production environments. Students will gain an understanding of the ideologies related to forecasting, planning, scheduling, and managing operations with regard to the important relationship between the supply chain and production control. Students further learn to capture data to produce goods and services."
+    },
+    {
+      "id": "AshFord_BUS 450",
+      "course name": "International Finance",
+      "units": "3 Credits",
+      "description": "An examination of the international aspects of corporate finance and investing, the course covers balance of payments, foreign exchange with emphasis on exchange rate determination, exchange risk, hedging, and interest arbitrage, international money and capital markets, international financing, and international banking."
+    },
+    {
+      "id": "AshFord_BUS 455",
+      "course name": "Internet & Social Media Marketing",
+      "units": "3 Credits",
+      "description": "This course is an introduction to the use of the Internet and social media applications as part of an integrated marketing strategy. Students will be exposed to a variety of alternative media as well as other online marketing tools and strategies. The course will also evaluate how these tools fit into the marketing theoretical framework. ",
+      "prerequisite": [
+        "BUS 330"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 458",
+      "course name": "Consumer & Family Finance Capstone",
+      "units": "3 Credits",
+      "description": "This course provides a link between the traditional advisement services (finance, investment, tax, insurance, retirement planning, trust planning) and the clients life plan to manage financial affairs. As a final exercise, students complete a model financial plan for a mock client. ",
+      "prerequisite": [
+        "GEN 499"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 461",
+      "course name": "Decision Modeling & Analysis",
+      "units": "3 Credits",
+      "description": "An introduction to the application of management science techniques and statistical tools to business decisions. Students will learn the assumptions and techniques necessary to apply and to implement solutions from optimization and other decision science models. The focus of the course will be on problem solving, which includes problem definition, problem analysis, evaluation and choice of alternatives, and implementation and evaluation of the decision. ",
+      "prerequisite": [
+        "MGT 330",
+        "BUS 308"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 495",
+      "course name": "Marketing Capstone Course",
+      "units": "3 Credits",
+      "description": "This course is designed to bring together marketing knowledge gained throughout the entire program. Students will demonstrate a mastery of marketing components by designing and developing a marketing plan for a product or service. The student will be attentive to domestic and global markets in a sustainable and responsible manner. ",
+      "prerequisite": [
+        "GEN 499"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 497",
+      "course name": "e-Marketing Capstone",
+      "units": "3 Credits",
+      "description": "This course discusses the elements of a marketing plan as they are applied in an internet marketing situation. Students will create an e-marketing plan, beginning with an environmental scan and progressing through product strategy, channel strategy, and marketing communication. ",
+      "prerequisite": [
+        "GEN 499"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 590",
+      "course name": "General Cost Accounting",
+      "units": "3 Credits",
+      "description": "This course covers principles of planning, measuring, recording, and controlling costs in different types of organizations. Key concepts will include cost records, cost behavior and allocation, inventory valuation, product costing, standard costs, responsibility accounting, and cost planning and control. Emphasis is placed on costing analysis, evaluation, and reporting in order to assist management with the decision-making process."
+    },
+    {
+      "id": "AshFord_BUS 591",
+      "course name": "Financial Accounting & Analysis",
+      "units": "3 Credits",
+      "description": "This course is a study of how the firms management captures and uses financial information for reporting and analysis to both internal and external stakeholders. Various course topics include the accounting cycle, sources of the information contained in financial statements, time value of money, ratio analysis, the preparation and analysis of income statements, balance sheets, and statements of cash flows."
+    },
+    {
+      "id": "AshFord_BUS 600",
+      "course name": "Management Communications with Technology Tools",
+      "units": "3 Credits",
+      "description": "This course is designed to introduce the student to the Ashford University Graduate Business programs, with emphases upon conceptualizing communication and communication processes in the contexts of organizations and leadership. Emphasis will be on technology, theories and models, qualitative communication research methodologies, and research writing."
+    },
+    {
+      "id": "AshFord_BUS 604",
+      "course name": "New Business Venture Management",
+      "units": "3 Credits",
+      "description": "This course focuses on the important aspects of starting a new business enterprise with emphasis on the challenges faced by the entrepreneur in initiating a business venture and directing its early development. The course also addresses the process of forming business ventures, the identification and evaluation of new venture opportunities, and the development of appropriate entry strategies."
+    },
+    {
+      "id": "AshFord_BUS 605",
+      "course name": "Venture Capital & Private Equity",
+      "units": "3 Credits",
+      "description": "This course will examine the role of finance and the formation of financial strategies needed to support each phase of the business start-up. Sources of equity and debt capital along with entry strategies such as franchising and acquisition are examined. Alternative working capital, capital structure, and investment strategies unique to the start-up are presented."
+    },
+    {
+      "id": "AshFord_BUS 606",
+      "course name": "Global Comparative Management",
+      "units": "3 Credits",
+      "description": "This course reviews management systems within their political, social, and economic environments with a global perspective. This course also emphasizes the managerial processes in a global business environment and provides a strategic assessment of the fundamental issues involved in the management of multinational corporations. Topics include comparative studies of practices of management in foreign nations and examination of the influences of culture on business operations."
+    },
+    {
+      "id": "AshFord_BUS 607",
+      "course name": "Business Law for the Accountant",
+      "units": "3 Credits",
+      "description": "This course involves in-depth study of specific laws and practices as related to contracts, the Uniform Commercial Code, commercial paper, secured transactions, real and personal property, estates, and bankruptcy."
+    },
+    {
+      "id": "AshFord_BUS 610",
+      "course name": "Organizational Behavior",
+      "units": "3 Credits",
+      "description": "This course investigates behavioral factors that affect modern organizations and their management. Topics include group and team dynamics, organizational structure, motivation, leadership, power, and change management."
+    },
+    {
+      "id": "AshFord_BUS 611",
+      "course name": "Project Planning & Management",
+      "units": "3 Credits",
+      "description": "This course introduces students to the art and science of project management as applied to different types of project situations. Topics such as project life-cycle management, project organizations and leadership, project team building, RFPs, proposals and contracts, techniques for project scope definition, work definition, estimating, scheduling, risk management, control and closeout, the project management methodology, and PM software are covered."
+    },
+    {
+      "id": "AshFord_BUS 612",
+      "course name": "Advanced Project Procurement",
+      "units": "3 Credits",
+      "description": "This course emphasizes a hands-on approach to using project management knowledge areas to facilitate scheduling, estimating, tracking and controlling the schedule and costs of the project. A project baseline will be set so that actual schedule and cost variances can be compared to the project baseline and corrective actions can be developed to address the variances. In this course students will learn about the legal, ethical, and fiscal considerations in procurement and contracts. Students will examine ways of identifying, evaluating and mitigating risk in scheduling, cost control, contracting and procurement."
+    },
+    {
+      "id": "AshFord_BUS 616",
+      "course name": "International Business",
+      "units": "3 Credits",
+      "description": "This course studies the major functional business areas in a global context. Taking into consideration socio-political structural differences, the multinational corporation is investigated with applications in management, finance, marketing and operations."
+    },
+    {
+      "id": "AshFord_BUS 620",
+      "course name": "Managerial Marketing",
+      "units": "3 Credits",
+      "description": "This course examines the marketing function, focusing on the managerial application of marketing tools and methodology. Emphasis is placed on marketing decisions associated with allocating organizational resources including: product development and design, pricing, promotional strategies, and distribution-based activities. Course coverage includes the marketing concept, buyer psychology, strategic planning and implementation of marketing plans."
+    },
+    {
+      "id": "AshFord_BUS 630",
+      "course name": "Managerial Accounting",
+      "units": "3 Credits",
+      "description": "This course studies the role and major functions of the managerial accountant within the organization. Students of managerial accounting should not only be able to produce accounting information but also understand how managers are likely to use and react to that information. The goal of this course is to acquaint students of business with the fundamental tools of management accounting and to promote their understanding of the dramatic ways in which the field is changing. The emphasis through the text and course is on using account information to help manage an organization. Some topics covered in this course include: cost management, various budgeting theories and techniques, and decision-making processes. ",
+      "prerequisite": [
+        "BUS 591"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 631",
+      "course name": "Integrated Supply Chain Management",
+      "units": "3 Credits",
+      "description": "Study and analysis of supply chain management for products/services and the dynamic interaction of companies within an integrated supply chain. Topics include factors guiding companies supply chain development and management; Technology as a supply chain tool; Positioning of a company in terms of its role as a valuable member of the supply chain; and, performance measures used across the supply chain."
+    },
+    {
+      "id": "AshFord_BUS 632",
+      "course name": "Advanced Logistics",
+      "units": "3 Credits",
+      "description": "This course provides an overview of current logistics and distribution practices intended to advance current knowledge. Students should gain an understanding of the significant components of logistics management and the dynamics of what is considered best practice. Focuses on the complexities associated with the integrated flow of raw materials, in-process goods, finished goods, and information from point-of-origin through the production process to the end consumer."
+    },
+    {
+      "id": "AshFord_BUS 635",
+      "course name": "Media Markets & Systems",
+      "units": "3 Credits",
+      "description": "The course examines the various segments of the market that utilize media resources for organizational growth and communication. Examination of the components of media, stakeholders, markets available and cultures impacted by media will include assessment of technological and economic drivers that establish a congruent approach to the marketplace."
+    },
+    {
+      "id": "AshFord_BUS 636",
+      "course name": "Media Management & Innovation",
+      "units": "3 Credits",
+      "description": "Utilizing the key principles of organizational management, this course will focus on the media approach in an organization and providing systematic guidelines for oversight of the institutional media team. Creating a culture of innovation in the media team will be a strategic element in the course content."
+    },
+    {
+      "id": "AshFord_BUS 640",
+      "course name": "Managerial Economics",
+      "units": "3 Credits",
+      "description": "This course is designed to provide a solid foundation of economic understanding for use in managerial decision-making. The course offers an intuitive non-calculus based treatment of economic theory and analysis. A variety of examples is used to illustrate the application of managerial economics to diverse practical situations. The role that economic analysis plays in that process is emphasized throughout this course. ",
+      "prerequisite": [
+        "MAT 540"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 642",
+      "course name": "Business Research Methods & Tools",
+      "units": "3 Credits",
+      "description": "This course examines the use of quantitative techniques business decision-making. Using spreadsheet software, the course addresses managerial problem solving through the use descriptive statistics, hypothesis testing, and correlation and regression (single and multiple) analysis. This course also provides a graduate foundation for conducting business research. Topic coverage includes: research methodology, literature review, hypothesis generation, data collection and summary techniques. Additional coverage includes study of qualitative and quantitative data as well as reviewing conceptual versus empirical research studies. ",
+      "prerequisite": [
+        "MAT 540"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 644",
+      "course name": "Operations Management",
+      "units": "3 Credits",
+      "description": "This course focuses on the principles associated with the effective design, implementation and management of organizational processes and systems. With an emphasis on efficiency, course coverage includes: systems design for products and services, inventory management systems, distribution and supply chain management."
+    },
+    {
+      "id": "AshFord_BUS 650",
+      "course name": "Managerial Finance",
+      "units": "3 Credits",
+      "description": "This course studies the role and major functions of corporate finance within the organization. Upon developing an understanding of the theoretical foundation of corporate finance, students will use financial tools in an applied case and problem format. Topics covered include: net present value analysis (time value of money), risk assessment, security valuation, decisions on capital structure and allocation, and the weighted average cost of capital. ",
+      "prerequisite": [
+        "BUS 591"
+      ]
+    },
+    {
+      "id": "AshFord_BUS 655",
+      "course name": "Financial Investment Management",
+      "units": "3 Credits",
+      "description": "The central focus of this course is to develop an understanding of how security markets function, factors that influence security valuation, differentiating between various investment types and understanding investment risk and return principles. This course covers security markets operations, investment information, portfolio asset allocation; financial environment analysis; and evaluation of equity and fixed income securities."
+    },
+    {
+      "id": "AshFord_BUS 657",
+      "course name": "Corporate Managerial Finance",
+      "units": "3 Credits",
+      "description": "This course introduces the financial theory and practices firm managers use to attain their goal of maximizing corporate shareholder wealth. Topics covered are: analysis techniques of financial statement and cash flows; working capital management and financial forecasting; valuation methods for debt and equity capital; risk and rate of return theory; cost of capital, capital project budgeting decisions and cash flow estimation; optimal capital structure and dividend policy."
+    },
+    {
+      "id": "AshFord_BUS 660",
+      "course name": "Contemporary Issues in Organizational Leadership",
+      "units": "3 Credits",
+      "description": "This course provides an in-depth examination of the multi-faceted concept of leadership studies by presenting the student with the vocabulary, concepts, theories, and applicable research that are fundamental to the understanding of leadership. The course examines contemporary and historical leadership issues, moral and ethical responsibilities of leadership, and leadership in a variety of contexts. Leadership as a social and political influence process is examined."
+    },
+    {
+      "id": "AshFord_BUS 661",
+      "course name": "Leading Organizational Change",
+      "units": "3 Credits",
+      "description": "This course blends theories of leadership with concepts and models of organizational change. The change process consists of a series of steps that focuses on vision, implementation, change agents, and other internal and external components. The course provides insight into types of changes that impact organizations and possible strategies to effectively address those changes."
+    },
+    {
+      "id": "AshFord_BUS 665",
+      "course name": "Environmental Law & Compliance",
+      "units": "3 Credits",
+      "description": "This course begins with an analysis of The Solid Waste Disposal Act/Resource Conservation and Recovery Act (RCRA), Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA). Further, it will familiarize students with an environmental managers duties in permitting, reporting, record keeping and sampling. It emphasizes a systematic approach to identifying obligations with respect to regulated media and developing appropriate responses. Obligations under United States environmental laws, their relationship to state and local laws, and state and local obligations are considered as a model for analysis and response."
+    },
+    {
+      "id": "AshFord_BUS 667",
+      "course name": "Energy, Environment & Economics",
+      "units": "3 Credits",
+      "description": "This course deals with the linkage of energy, environmental and economic issues. The impact of energy supply and end-use on human well-being and the ecosystem is covered. It also includes a comprehensive approach to the resolution of resource, technical, economic, strategic, environmental, socio- and geopolitical problems of the energy industries. In addition, pathways to a sustainable global energy system are presented."
+    },
+    {
+      "id": "AshFord_BUS 668",
+      "course name": "Macroeconomics of Financial Markets",
+      "units": "3 Credits",
+      "description": "This course examines the monetary aspects of production, spending, borrowing, and lending decisions, organization, performance and scope of services provided by financial markets and institutions, and the powers of the Federal Reserve System to use monetary policy and limits to credit expansion. The regulatory and globalization aspects and relevance of market behavior to the financial system are also examined."
+    },
+    {
+      "id": "AshFord_BUS 669",
+      "course name": "Managerial Economic Analysis",
+      "units": "3 Credits",
+      "description": "Managerial economics introduces the basic principles of economic analysis as applied to managerial decisions to determine how an organization can achieve its aims most efficiently. This course applies statistical and quantitative tools and the methodological approaches commonly used by economists to business problems as demand estimation, product pricing, profit maximizing level of output, cost minimizing level of input use, and forecasting."
+    },
+    {
+      "id": "AshFord_BUS 670",
+      "course name": "Legal Environment",
+      "units": "3 Credits",
+      "description": "This course involves the study of business law, its foundations, and the role it plays in managing a business, with a particular emphasis on the corporate form. Topics of relevance to be explored include the following core concepts: constitutional law, case law, government regulation, ethics, contracts, anti-trust law, securities regulations, employment law, environmental law, and crimes and torts."
+    },
+    {
+      "id": "AshFord_BUS 680",
+      "course name": "Training & Development",
+      "units": "3 Credits",
+      "description": "This course provides in-depth knowledge of training and performance development concepts essential for line managers or human resource specialists. Beginning with fundamental principles of performance, the course focus is on identifying critical factors in workplace performance and in determining how to analyze the causes of performance problems. Additionally, this course distinguishes between training and development and addresses their complementary functions in the modern organization."
+    },
+    {
+      "id": "AshFord_BUS 681",
+      "course name": "Compensation & Benefits",
+      "units": "3 Credits",
+      "description": "This course provides in-depth knowledge into compensation theories, policies, systems, and practices, with particular emphasis toward designing effective compensation programs."
+    },
+    {
+      "id": "AshFord_BUS 688",
+      "course name": "Business Strategy: The Sustainable Enterprise",
+      "units": "3 Credits",
+      "description": "This course integrates environmental management issues with use of strategic planning tools for assessing and responding to the driving forces of the next economy: globalization, technology, demographics and the environment. The course examines the challenge of corporations competing in the global economy of the new millennium in such a way that will allow the planet to support them indefinitely. Emphasis is on the companys ability to build and sustain a competitive advantage utilizing traditional management concepts as well as new sustainability practices."
+    },
+    {
+      "id": "AshFord_BUS 689",
+      "course name": "Market Structure & Firm Strategy",
+      "units": "3 Credits",
+      "description": "This course focuses on the study of markets, laws, and government regulations used to smooth significant market imperfections, especially the problems caused by market structure and market power. The course further examines how firms formulate business strategies and activities to position themselves for profit advantage. This course is cumulative in nature, integrating knowledge and information attained while completing the entire MBA/Business Economics curriculum. In addition, the course project requires the generation and presentation of an industry economic analysis."
+    },
+    {
+      "id": "AshFord_BUS 690",
+      "course name": "Business Strategy",
+      "units": "3 Credits",
+      "description": "This course explores the formulation, implementation, and evaluation/control of organizational strategic management. In the context of a globally competitive market, students will explore methods of directing an entire organization through applied case analysis. Topics include analysis of competitive position, value creation, development of system-wide goals and objectives, and creation of a strategicplan. This course is cumulative in nature, integrating knowledge and information attained while completing the entire MBA curriculum. Additionally, the course project requires the generation and presentation of an industry analysis."
+    },
+    {
+      "id": "AshFord_BUS 691",
+      "course name": "Strategies in Organizational Leadership",
+      "units": "3 Credits",
+      "description": "This course builds on leadership, business, and management concepts. This strategy course provides the student with the opportunity to synthesize all prior learning in leadership and related coursework and experiences, both personal and professional. The course expands the leaders thinking and explores the arena of leadership and how it will impact the future of the individual, the organization, and the world in which we live."
+    },
+    {
+      "id": "AshFord_BUS 692",
+      "course name": "Strategies in Human Resource Management",
+      "units": "3 Credits",
+      "description": "This course examines how to manage human resources effectively in the dynamic legal, social, and economic environment currently impacting organizations. The course examines human resource management in the current business environment and develops alignment with vision, strategy, organizational values, and HR functions. Emphasis is placed on integrating human resource management with the overall business strategy."
+    },
+    {
+      "id": "AshFord_BUS 693",
+      "course name": "Global Business Strategy",
+      "units": "3 Credits",
+      "description": "This course builds on the leadership, business, and management concepts while integrating a comprehensive look at strategic planning and management in a global environment. The course is designed to employ case analyses, critical assessments, global market evaluations, and a comprehensive strategic planning project to lead the student to fluency in the global strategic planning process."
+    },
+    {
+      "id": "AshFord_BUS 694",
+      "course name": "Finance Seminar",
+      "units": "3 Credits",
+      "description": "This course will cover advanced financial topics including: International financial management, corporate risk management, merger and acquisitions, portfolio management theory and real options."
+    },
+    {
+      "id": "AshFord_BUS 695",
+      "course name": "Marketing Seminar",
+      "units": "3 Credits",
+      "description": "This course builds on the leadership, business, and management concepts contained in the MBA program while introducing the principles and tools for managers to apply in the development, implementation, and review of marketing strategy for organizations. Topics include internal and external environmental analysis; value, competition, and strategic choice; strategic positioning; and implementation and control issues. In addition, the project requires the generation and presentation of strategic marketing plan."
+    },
+    {
+      "id": "AshFord_BUS 696",
+      "course name": "Strategic Thinking for Entrepreneurs",
+      "units": "3 Credits",
+      "description": "This course focuses on application of key strategic and managerial approaches necessary for entrepreneurs to implement the strategy for a start-up or business takeover enterprise. It examines and discusses how entrepreneurial firms develop and implement innovative business plans, create functional operations, and incorporate technology strategies. Emphasis is placed on the vision of the firm, the strategic planning process, and strategic management. The final component is the generation of a business plan."
+    },
+    {
+      "id": "AshFord_BUS 697",
+      "course name": "Project Management Strategy",
+      "units": "3 Credits",
+      "description": "This course focuses on application of managerial approaches necessary to align significant projects with organizational strategy. It examines and discusses how firms determine business benefits and project feasibility, report progress, and measure project quality while communicating with key organizational stakeholders. Emphasis is placed on Earned Value Management techniques and achieving project progress and technical performance of the project."
+    },
+    {
+      "id": "AshFord_BUS 698",
+      "course name": "Supply Chain Strategic Management",
+      "units": "3 Credits",
+      "description": "This covers addresses the strategic implications of sourcing and supplier relationships in the context of supply chain management. Critical elements including identifying and selecting suppliers, negotiating contract terms and conditions, implementing contracts, and measuring performance in the context of the organizations strategic plans are covered. Practical examples of sourcing excellence are provided."
+    },
+    {
+      "id": "AshFord_BUS 699",
+      "course name": "Media Strategies & Applications",
+      "units": "3 Credits",
+      "description": "The courseis designed to integrate media management concepts in to a strategic plan. The course is focused on building and implementing the media strategies for an integrated and comprehensive plan that is consistent with an institutions vision and mission and follows standard strategic planning theory and practice."
+    }
+  ]
+}

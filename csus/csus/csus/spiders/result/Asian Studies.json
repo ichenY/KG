@@ -1,0 +1,93 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course traces the development of a multifaceted cultural practice integrating architecture, garden design, art, painting, and calligraphy into a carefully constructed hospitality ritual. Students explore multiple aspects of Japanese Chado via hands-on learning including aesthetic, economic, scientific, socio-political and cultural dimensions associated with tea. The course is taught in the Nakatani Tea Room, including weekly classroom lectures and discussions, demonstrations, on-line learning modules, a group project, and typically, a day field trip to San Francisco.", 
+      "id": "CSUS_ASIA 96", 
+      "course name": "The Way of Chanoyu: An Interdisciplinary Approach to the Japanese Tea Gathering"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "This course examines contemporary Asia as an articulation of intersecting historical, cultural, political and economic processes. The course will focus on postcolonial developments and critically explore the manner in which process of globalization and neoliberal strategies embed themselves within, and the responses they elicit from societies across Asia. ", 
+      "id": "CSUS_ASIA 110", 
+      "prerequisite": [
+        "ANTH 146"
+      ], 
+      "course name": "Anthropology of Contemporary Asia"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "This course traces the historical development of Korean culture from the period the Three Kingdoms to the present. In addition to the texts and records, other sources such as literature, religion, and art will be examined to gain an understanding of and appreciation for the longevity of Korea as a culture and a polity.", 
+      "id": "CSUS_ASIA 134", 
+      "course name": "History of Korea: Antiquity to Present"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "This course provides a comprehensive understanding of Korean culture and society through the analysis of contemporary Korean popular media. By critically examining the particular cultural phenomenon of the Korean Wave, this course upholds various Korean popular media (film drama, documentaries, and music) as significant forms of visual culture, which reflect as well as shape the reality of people's everyday lives both within and outside Korea.", 
+      "id": "CSUS_ASIA 135", 
+      "course name": "Contemporary Korean Culture"
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "This course examines critical issues in Korean human development and behavior with particular attention given to current theoretical perspectives within a fast developing society. Topics include identity, cognitive development, mental health, tiger parenting, gender roles, socio-emotional development, body image, and transracial adoptions. This course integrates an interdisciplinary approach and includes indigenous discourse on Confucianism and Eastern and Western thought to understand the underlying processes of the Korean heritage person as an individual and as a member of a larger society.", 
+      "id": "CSUS_ASIA 136", 
+      "course name": "Korean Development and Behavior"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Survey of the development of cinema in Asia, focusing primarily on cinematic masterpieces from China, Hong Kong, and Japan.  Focuses on directors, actors, and studios that left a lasting mark on cinema history.  Also focuses on how the Asian aesthetic sense differs from the Hollywood norm. ", 
+      "course name": "Modern East Asian Cinema.", 
+      "units": "3 Units", 
+      "id": "CSUS_ASIA 140", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X", 
+        "HIST 140"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Survey of human rights abuses and genocides that have occurred in post-colonial Southeast Asia. Focuses on mass killings in Indonesia and Cambodia and communal riots often targeting the ethnic Chinese community, religious minorities, or highland peoples like the Hmong. Topics include cultural genocide, ideological pressure, and ethnic intolerance. An interdisciplinary literature will interpret the causes and conditions while introducing students to the diverse societies and cultures of Southeast Asia.", 
+      "id": "CSUS_ASIA 151", 
+      "course name": "Genocide in Southeast Asia"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Supervised work experience on topics related to the study of Asia's art, culture, economics, geography, environment, politics, and government and social issues.", 
+      "id": "CSUS_ASIA 195", 
+      "course name": "Internship: Asian Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Senior seminar in recent scholarship and current issues concerning Asia in the world today.  A capstone course for Asian Studies majors, as well as graduate students interested in Asia. ", 
+      "id": "CSUS_ASIA 198", 
+      "course name": "Asia in the World Today"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual research projects, including directed readings, under the direction of an Asian Studies faculty person.", 
+      "id": "CSUS_ASIA 199", 
+      "course name": "Special Problems"
+    }
+  ], 
+  "subjectOf": {
+    "id": "ASIA", 
+    "subject": "Asian Studies"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Asian Studies", 
+    "id": "CSUS"
+  }
+}

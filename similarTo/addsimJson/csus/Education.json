@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Candidates in the Teacher Preparation Program must complete the Teaching Event for the Performance Assessment for California Teachers. The Teaching Event requires candidates to plan and teach an instructional sequence in their student teaching placement. They must also assess student learning during this lesson sequence and submit a videotape with material recorded during the lesson sequence. The Teaching Event is a summative assessment and one of several requirements that must be completed in order to receive a recommendation for a teaching credential. ",
+      "id": "CSUS_ED 300B",
+      "course name": "Teaching Performance Assessment-Multiple Subject-Literacy"
+    }
+  ],
+  "subjectOf": {
+    "id": "ED",
+    "subject": "Education"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Education",
+    "id": "CSUS"
+  }
+}

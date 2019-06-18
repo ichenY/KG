@@ -1,0 +1,347 @@
+{
+  "subject": "Physics (PHYS)",
+  "courses": [
+    {
+      "Course number & title": " Introductory Physics",
+      "Number of units": "4 units",
+      "Term": "GE Area B3",
+      "Course description": "Elementary introduction to mechanics, gases, liquids and solids, heat, vibrations and waves, light, electricity and magnetism.  Intended to provide non-science students with an understanding of basic physical concepts.  Not open to students who have credit in a college physics course.  4 lectures.  Fulfills GE Area B3."
+    },
+    {
+      "Course number & title": " Introduction to Meteorology",
+      "Number of units": "4 units",
+      "Term": "GE Area B3",
+      "Course description": "Physics of Earth's atmosphere.  Topics include the physical basis for temperature, wind generation, atmospheric circulation, humidity, adiabatic processes, cloud formation, cyclone development, precipitation, and storm growth.  Other topics include the variety of storms and their effects, satellite imaging, and air pollution and its possible effect on global temperature change.  4 lectures.  Fulfills GE Area B3."
+    },
+    {
+      "Course number & title": " Contemporary Physics for Nonscientists",
+      "Number of units": "4 units",
+      "Term": "GE Area B3",
+      "Course description": "Exploration of the key concepts of quantum mechanics and Einstein's special and general theories of relativity. Particle-wave duality, Heisenberg's uncertainty principle, Schrodinger's cat, warped spacetime, black holes. 4 lectures. Fulfills GE B3."
+    },
+    {
+      "Course number & title": " College Physics I",
+      "Number of units": "4 units",
+      "Term": "GE Area B3",
+      "Course description": "Introductory course in mechanics emphasizing motion, force, and energy.  Not open to students having a grade of C- or better in PHYS131 or PHYS141.  4 lectures.  Fulfills GE B3."
+    },
+    {
+      "Course number & title": " College Physics II",
+      "Number of units": "4 units",
+      "Term": "GE Area B3; GE Area B4",
+      "Course description": "Continuation of PHYS121.  Topics include properties of materials, fluids, waves and vibrations, sound, heat, light and optics.  Not open for credit to students having a grade of C- or better in PHYS132.  3 lectures, 1 laboratory.  Fulfills GE B3 & B4."
+    },
+    {
+      "Course number & title": " College Physics III",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Continuation of PHYS121 and 122.  Electrostatics, electric current, magnetic fields and induction.  Elements of modern physics.  Not open for credit to students having a grade of C- or better in PHYS133.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " College Physics I Laboratory",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Laboratory experiments to complement introductory course in mechanics, emphasizing experiments on motion, force, and energy.  Not open to students with a grade of C- or better in PHYS131 or PHYS141.  1 laboratory."
+    },
+    {
+      "Course number & title": " General Physics I",
+      "Number of units": "4 units",
+      "Term": "GE Area B3; GE Area B4",
+      "Course description": "Fundamental principles of mechanics.  Vectors, particle kinematics.  Equilibrium of a rigid body.  Work and energy, linear momentum, rotational kinematics and dynamics.  Primarily for engineering students, and for students majoring in the physical sciences.  Not open to students with credit in PHYS141.  3 lectures, 1 laboratory.  Crosslisted as HNRS/PHYS131.  Fulfills GE B3 & B4."
+    },
+    {
+      "Course number & title": " General Physics II",
+      "Number of units": "4 units",
+      "Term": "GE Area B3; GE Area B4",
+      "Course description": "Oscillations, waves in elastic media, sound waves.  Temperature, heat and the first law of thermodynamics.  Kinetic theory of matter, second law of thermodynamics.  Geometrical and physical optics.  3 lectures, 1 laboratory.  Crosslisted as HNRS/PHYS132.  Fulfills GE B3 & B4."
+    },
+    {
+      "Course number & title": " General Physics III",
+      "Number of units": "4 units",
+      "Term": "GE Area B3; GE Area B4",
+      "Course description": "Charge and matter, electric field, electric potential, dielectrics, capacitance, current and resistance, electromotive force and circuits, magnetic fields, magnetic field of a moving charge, induced emf.  3 lectures, 1 laboratory.  Fulfills GE B3 & B4."
+    },
+    {
+      "Course number & title": " General Physics IA",
+      "Number of units": "4 units",
+      "Term": "GE Area B3",
+      "Course description": "Fundamental principles of mechanics.  Vectors, particle kinematics.  Equilibrium of a rigid body.  Work and energy, linear momentum, rotational kinematics and dynamics.  Primarily for engineering and science students.  Not open to students with credit in PHYS131.  4 lectures.  Crosslisted as HNRS134/PHYS141.  Fulfills GE B3."
+    },
+    {
+      "Course number & title": " Special Problems for Undergraduates",
+      "Number of units": "1-2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "Course number & title": " Physics on the Computer",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Introduction to using computers for solving problems in physics:  differential equations, matrix manipulations, simulations and numerical techniques, nonlinear dynamics.  4 lectures."
+    },
+    {
+      "Course number & title": " Experimental Physics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "L-R-C circuits and electronic circuit elements emphasizing the applications of analog and digital electronics to instrumentation in modern physics.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Modern Physics I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Special relativity, fundamental principles of quantum mechanics, emphasizing the modern description of atomic phenomena.  Wave-particle duality, Bohr theory, Schroedinger equation, elementary atomic structure.  4 lectures."
+    },
+    {
+      "Course number & title": " Modern Physics II",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Applications of quantum physics to atoms, molecules, solid state systems, nuclei, and elementary particles including angular momentum and spin.  Topics may include applications of statistical mechanics, principles of the laser, cooling and trapping of atoms, Bose-Einstein condensates, semiconductors, superconductors, heavy ion physics, and other topics of current interest.  4 lectures."
+    },
+    {
+      "Course number & title": " Introduction to Physics Research",
+      "Number of units": "1 unit",
+      "Term": "CR/NC",
+      "Course description": "Introduction to the research programs of faculty in the department and opportunities for research.  Survey of departmental facilities and procedures related to research.  Overview of external research programs/internships.  Credit/No Credit grading.  1 lecture."
+    },
+    {
+      "Course number & title": " Selected Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " Thermal Physics I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Thermodynamics and statistical mechanics.  Entropy, temperature, ensembles, partition functions, chemical potential, free energy.  Selected applications including paramagnetism, ideal gas, Fermi-Dirac and Bose-Einstein distributions.  4 lectures."
+    },
+    {
+      "Course number & title": " Classical Mechanics I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Laws of motion, kinematics and dynamics of a particle.  Use of numerical methods for solving problems.  Work and energy.  Linear and angular momentum.  Lagrange's and Hamilton's equations and the calculus of variations.  Newton's Law of gravity, Kepler's laws of orbital motion, and central force problems.  4 lectures."
+    },
+    {
+      "Course number & title": " Classical Mechanics II",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Mechanics in non-inertial reference frames.  Dynamics of a rigid bodies.  Coupled oscillators and normal modes.  Use of numerical methods for solving problems.  3 lectures."
+    },
+    {
+      "Course number & title": " Physics of Energy",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Physics and mathematics applied to broad energy topics.  Efficient usage, transportation, solar energy, nuclear fission and fusion.  Plasma, hydrogen economy, fuel cells, wind wave, tidal, and geothermal energy.  Transmission, storage, fossils.  National planning, and energy economics.  3 lectures."
+    },
+    {
+      "Course number & title": " Introduction to Atmospheric Physics",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Properties of the atmosphere, atmospheric motions, solar and terrestrial radiation.  Emphasis on conservation laws of momentum, energy and mass applied to understanding the Earth's atmospheric motions.  3 lectures."
+    },
+    {
+      "Course number & title": " Introduction to Lasers and Laser Applications",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Interaction of radiation with matter, theory of laser action, characteristics and modification of laser output, types of lasers.  Holography and other applications.  3 lectures."
+    },
+    {
+      "Course number & title": " Special Theory of Relativity",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Fundamental experiments and basic postulates of special relativity.  Simultaneity, length and time measurements.  Lorentz transformations.  Four-Vectors.  Space-time diagrams.  Relativistic mechanics and electromagnetism.  3 lectures.  Formerly PHYS 317."
+    },
+    {
+      "Course number & title": " Vibrations and Waves",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Introduction to vibrations and waves and their applications.  Harmonic oscillator, waves, complex notation, superposition, interference, coherence, Fourier analysis.  Applications may include sound, optics, quantum mechanics, and electromagnetic radiation.  3 lectures."
+    },
+    {
+      "Course number & title": " Optics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Geometrical optics, lens systems, aberrations, physical optics and polarization.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Teaching Physics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Inquiry approaches to teaching physics incorporating insights from physics education research and the use of computer technology.  Emphasis on pedagogical approaches and assessment that engage learners in scientific discourse and the development of basic models of physics phenomena such as motion, forces, energy, and momentum through experimentation.  2 lectures, 2 activities."
+    },
+    {
+      "Course number & title": " Quantum Physics Laboratory I",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Experimental studies of the quantum properties of atoms and nuclei.  Measurements of fundamental constants.  Statistics and data analysis.  1 lecture, 1 laboratory."
+    },
+    {
+      "Course number & title": " Quantum Physics Laboratory II",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Experimental studies of quantum properties of atoms and nuclei.  Interactions of radiation, particles and fields.  2 laboratories."
+    },
+    {
+      "Course number & title": " Quantum Physics Laboratory III",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Advanced experimental studies of quantum properties of atoms and nuclei.  Interactions of radiation, particles and fields emphasizing spectroscopic techniques.  1 laboratory."
+    },
+    {
+      "Course number & title": " Advanced Instrumentation in Experimental Physics",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Advanced analog and digital electronics, computer interfacing to experiments, robotics.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Special Problems for Advanced Undergraduates",
+      "Number of units": "1-2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Individual investigations, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "Course number & title": " Thermal Physics II",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Additional topics in thermodynamics and statistical physics, including chemical equilibrium, phase transitions, transport processes, and cryogenics.  3 lectures."
+    },
+    {
+      "Course number & title": " Particle and Nuclear Physics",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Elementary particles and their interactions, fundamental forces, the Standard Model of particle physics.  Symmetries and conservation laws including parity, charge conjugation, and time reversal invariance, as well as charge-parity violation.  Dirac equation, quantum electrodynamics, and Feynman diagrams.  Advanced nuclear physics.  Topics may include decays, symmetries of the quark model, neutrinos, nucleosynthesis, and the quark-gluon plasma.  3 lectures."
+    },
+    {
+      "Course number & title": " Research Experience for Advanced Undergraduates",
+      "Number of units": "1-2 units",
+      "Term": "CR/NC",
+      "Course description": "Individual investigations, research, studies, or surveys of selected problems.  Credit/No Credit grading only.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "Course number & title": " Quantum Mechanics I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Wave nature of matter and the basic postulates of quantum mechanics.  The wave function, operators, and their interpretation.  Schroedinger's equation and its solutions in one and more dimensions.  The hydrogen atom and the periodic table.  4 lectures."
+    },
+    {
+      "Course number & title": " Quantum Mechanics II",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Angular momentum operators and problems in three dimensions including the hydrogen atom.  Elements of matrix mechanics and properties of spin state vectors.  Time-independent and time-dependent perturbation theory.  Topics may include variational principle, WKB approximation.  3 lectures."
+    },
+    {
+      "Course number & title": " Electromagnetic Fields and Waves I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Electric and magnetic field theory using vector analysis.  Electric fields, dielectric materials, magnetic fields, induced emf, magnetic materials, Maxwell's equations, wave equation.  4 lectures."
+    },
+    {
+      "Course number & title": " Electromagnetic Fields and Waves II",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Wave equation, plane electromagnetic waves, guided waves.  Dipole radiation, radiation from an accelerated charge.  Special relativity.  3 lectures."
+    },
+    {
+      "Course number & title": " Physics of Solid Earth",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Gravity and the figure of the Earth.  Body wave seismology, structure and composition of the Earth, heat flow and heat sources, Earth tides, rotational dynamics, the geomagnetic field and its source, paleomagnetism.  3 lectures."
+    },
+    {
+      "Course number & title": " Solid State Physics",
+      "Number of units": "3 units",
+      "Term": "GE Area B6",
+      "Course description": "Physics of solids including the structural, mechanical, thermal, and electronic properties, energy band theory and the properties of metals and semiconductors.  3 lectures.  Fulfills GE B6 with PHYS452."
+    },
+    {
+      "Course number & title": " Advanced Topics in Solid State Physics",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Semiconducting devices, including junction and field-effect transistors, LED's, and diode lasers.  Magnetic properties of solids.  Superconductivity, including discussion of high-temperature superconductors.  Other topics of current interest in solid state physics.  3 lectures."
+    },
+    {
+      "Course number & title": " Nonlinear Dynamical Systems",
+      "Number of units": "4 units",
+      "Term": "GE Area B6",
+      "Course description": "Analysis of linear and nonlinear dynamical systems with emphasis on geometrical methods and visualization techniques.  Fixed points, phase plane analysis, bifurcations and limit cycles.  Laboratory component includes data acquisition and analysis using computers, numerical simulations of dynamical systems, and analysis of discrete systems.  3 lectures, 1 laboratory.  Fulfills GE B6."
+    },
+    {
+      "Course number & title": " Introduction to General Relativity",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Introduction to Einstein's theory of gravity:  general relativity.  Geometric description of special relativity as flat spacetime.  Extension to curved spacetimes and description of gravity.  Topics include solar system tests of relativity, black holes, gravitational waves, and applications to astronomy and cosmology.  3 lectures."
+    },
+    {
+      "Course number & title": " Polymer Electronics Laboratory",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Experimental procedures in polymer electronics.  Investigation of the characteristics of a polymer electronic device.  1 laboratory.  Crosslisted as EE/PHYS422."
+    },
+    {
+      "Course number & title": " Advanced Optics",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Advanced topics of modern optics.  May include:  fiber optics, Fourier optics, quantum optics, lasers, holography, non-linear optics.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Theoretical Physics",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Contour integration in the complex plane, properties of common special functions and delta functions used in physics, partial differential equations, Green's function techniques for solving differential equations.  3 lectures."
+    },
+    {
+      "Course number & title": " Solid State Physics Laboratory",
+      "Number of units": "1 unit",
+      "Term": "GE Area B6",
+      "Course description": "Selected experiments on X-ray diffraction, Hall effect, optical absorption, thermo-electric effect, photovoltaic cells, diode characteristics, and superconductivity.  1 laboratory.  Fulfills GE B6 with PHYS412."
+    },
+    {
+      "Course number & title": " Senior Project I",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 60 hours total time."
+    },
+    {
+      "Course number & title": " Senior Project II",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 60 hours total time."
+    },
+    {
+      "Course number & title": " Senior Project - Laboratory Research I",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Selection and completion of a laboratory research project under faculty supervision.  Projects typical of problems which graduates will encounter in industry or graduate school.  Project results are presented in a formal report.  Minimum 60 hours total time.  2 laboratories."
+    },
+    {
+      "Course number & title": " Senior Project - Laboratory Research II",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Selection and completion of a laboratory research project under faculty supervision.  Projects typical of problems which graduates will encounter in industry or graduate school.  Project results are presented in a formal report.  Minimum 60 hours total time.  2 laboratories."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " Selected Advanced Laboratory",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 laboratories."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "6 units",
+      "Term": "CR/NC",
+      "Course description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Total credit limited to 12 units; major credit limited to 2 units.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "12 units",
+      "Term": "CR/NC",
+      "Course description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Total credit limited to 12 units; major credit limited to 2 units.  Credit/No Credit grading only."
+    }
+  ]
+}

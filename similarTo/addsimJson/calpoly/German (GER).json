@@ -1,0 +1,176 @@
+{
+  "subjectOf": {
+    "id": "GER",
+    "subject": "German"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "German"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_GER 101",
+      "course name": "Elementary German I",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Beginning German. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and conversation. Language taught in its intercultural context.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_GER 102",
+      "course name": "Elementary German II",
+      "prerequisite": [
+        "GER 101 or appropriate score on placement exam or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and conversation. Language taught in its intercultural context. To be taken in numerical sequence.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_GER 103",
+      "course name": "Elementary German III",
+      "prerequisite": [
+        "GER 102 or appropriate score on placement exam or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and conversation. Language taught in its intercultural context. To be taken in numerical sequence.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_GER 201",
+      "course name": "Intermediate German I",
+      "prerequisite": [
+        "GER 103 or appropriate score on placement exam or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area c5"
+      ],
+      "description": "Development of presentational, interpersonal, and interpretive intermediate - level language skills in German within an intercultural context. To be taken in numerical sequence.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Fulfills GE C5."
+    },
+    {
+      "id": "CalPoly_GER 202",
+      "course name": "Intermediate German II",
+      "prerequisite": [
+        "GER 201 or appropriate score on placement exam or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area c5"
+      ],
+      "description": "Development of presentational, interpersonal, and interpretive intermediate - level language skills in German within an intercultural context. To be taken in numerical sequence.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Fulfills GE C5."
+    },
+    {
+      "id": "CalPoly_GER 203",
+      "course name": "Intermediate German III",
+      "prerequisite": [
+        "GER 202 or appropriate score on placement exam or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area c5"
+      ],
+      "description": "Development of presentational, interpersonal, and interpretive intermediate - level language skills in German within an intercultural context. To be taken in numerical sequence.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Fulfills GE C5."
+    },
+    {
+      "id": "CalPoly_GER 233",
+      "course name": "Critical Reading in German Literature",
+      "prerequisite": [
+        "GER 203 or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area c1"
+      ],
+      "description": "Selected readings from German - language authors that show the literary tradition from the Middle Ages to the present. May include film and other media. Conducted in German. 4 lectures. Fulfills GE C1."
+    },
+    {
+      "id": "CalPoly_GER 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. Open only to undergraduate students. Conducted in German. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GER 301",
+      "course name": "Advanced German Composition and Grammar",
+      "prerequisite": [
+        "GER 203 or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Written and oral development of structural grammar, syntax and complex components of German. Vocabulary expansion and idiomatic construction. Written compositions. May include German / English translation. Conducted in German.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GER 302",
+      "course name": "Advanced German Conversation and Grammar",
+      "prerequisite": [
+        "GER 203 or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Oral and written development of structural grammar, syntax and complex components of German. Expansion of vocabulary and idiomatic expressions through topics focusing on culture. Individual and/or group presentations. Conducted in German.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GER 305",
+      "course name": "Significant Works in German",
+      "prerequisite": [
+        "GER 233 or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Critical analysis and oral discussion of poetry, essays, novels, plays, films, and other media by selected German - language authors. Conducted in German. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "4 lectures"
+    },
+    {
+      "id": "CalPoly_GER 350",
+      "course name": "German Literature in English Translation",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Selected works to be read by students in English translation. Critical analysis, interpretation, and comparison of works by German - language authors. Course may include film and other media. Discussion in English. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "4 lectures"
+    },
+    {
+      "id": "CalPoly_GER 470",
+      "course name": "Selected Advanced Topics",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. Conducted in German. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "4 lectures."
+    }
+  ]
+}

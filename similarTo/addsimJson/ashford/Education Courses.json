@@ -1,0 +1,887 @@
+{
+  "subjectOf": {
+    "subject": "Education Courses",
+    "id": "EDU"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Education Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_EDU 100",
+      "course name": "Issues in Education",
+      "units": "3 Credits",
+      "description": "This is an introductory course for students considering teaching as a career path or individuals seeking an increased understanding of the complexity and importance of education. The first focus is on topics in education that include, but are not limited to, teaching as a profession, diversity in the classroom, facilitation of student achievement and accountability, classroom management, and requirements for continuing professionalism in the field. The second focus of this course is on academic writing as a necessary component in the field of education.",
+      "similarTo": [
+        "CalPoly_EDUC 586"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 108",
+      "course name": "Introduction to Policy & Education",
+      "units": "3 Credits",
+      "description": "This course examines the theory, analysis, development, and implementation of educational policy. It will explore the reasons for change in educational policy, ways to track its evolution, and manners in which educational policy may be influenced. The history of educational policy will also be explored.",
+      "similarTo": [
+        "CalPoly_EDUC 586"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 120",
+      "course name": "Principles of Instructional Design",
+      "units": "3 Credits",
+      "description": "This introductory course will cover learning theories including behaviorist, cognitive, constructivist and social learning as well as examine their relationship to instructional practices and course design. Basic principles and vocabulary for instructional design will be introduced. Additional topics covered will include factors that influence learning including motivation, learner engagement and learning styles. Students will begin to identify learning outcomes that can be addressed in an instructional design setting."
+    },
+    {
+      "id": "AshFord_EDU 232",
+      "course name": "Instructional Design for E-Learning",
+      "units": "3 Credits",
+      "description": "This course will introduce students to a variety of eLearning strategies preparing them to select and evaluate eLearning for a variety of learners and organizational contexts. Throughout this course, students will have an opportunity to evaluate eLearning and create effective assessments for eLearning activities. Additionally, students build on prior learning about needs assessment in instructional design contexts. ",
+      "prerequisite": [
+        "EDU 120"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 302",
+      "course name": "Foundations of Library & Information Science",
+      "units": "3 Credits",
+      "description": "In this course, students will explore and evaluate library services and programs designed to meet diverse user needs. The course includes a strong focus on customer service and creating welcoming and flexible library environments. Students will explore methods of communicating the librarys message to the community, including social networking. Students will discuss ethical, legal, and social issues surrounding programs and services, especially in the area of equal access for all patrons."
+    },
+    {
+      "id": "AshFord_EDU 304",
+      "course name": "Introduction to Education",
+      "units": "3 Credits",
+      "description": "This course is designed to provide students with a broad view of the various components involved in education and schools today. An introduction to current legislation and trends in education as well as curriculum standards will be covered. The complex diversity of students today, as well as assessment and accountability issues, will also be addressed.",
+      "similarTo": [
+        "CalPoly_EDUC 586"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 306",
+      "course name": "Library Programs & Services",
+      "units": "3 Credits",
+      "description": "In this course, students will explore and evaluate library services and programs designed to meet diverse user needs. The course includes a strong focus on customer service and creating welcoming and flexible library environments. Students will explore methods of communicating the librarys message to the community, including social networking. Students will discuss ethical, legal, and social issues surrounding programs and services, especially in the area of equal access for all patrons."
+    },
+    {
+      "id": "AshFord_EDU 307",
+      "course name": "Library Collection Development & Management ",
+      "units": "3 Credits",
+      "description": "This course is an introduction to collection development and management. Students will learn the essential skills needed to manage a library collection in a variety of library settings. Learners will explore multiple categories of resources, including informational books, digital material, and media, and develop instructional materials to promote learning. Students will also examine policies and procedures related to library collections, and learn how library materials are classified and organized."
+    },
+    {
+      "id": "AshFord_EDU 308",
+      "course name": "Reference & Research Services ",
+      "units": "3 Credits",
+      "description": "This course provides knowledge and skills using general and specialized reference tools, materials and services for patrons. It includes topics including an exploration of the role of teaching, information literacy and the research process, the reference interview, information seeking behavior, and evaluation of reference resources and services."
+    },
+    {
+      "id": "AshFord_EDU 321",
+      "course name": "Introduction to Serving English Language Learners",
+      "units": "3 Credits",
+      "description": "This course provides a sufficiently broad yet detailed exposure to the realities of teaching English Language Learners. The course is designed to prepare students to deliver content area instruction to English Language Learners with diverse abilities using the sheltered instruction approach."
+    },
+    {
+      "id": "AshFord_EDU 324",
+      "course name": "History of American Education",
+      "units": "3 Credits",
+      "description": "This course provides an overview of sentinel events, theories, and important historical figures that have shaped the United States education system.",
+      "similarTo": [
+        "CalPoly_EDUC 590"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 335",
+      "course name": "Design Concepts & Application for Online Learning",
+      "units": "3 Credits",
+      "description": "The application of instructional design for online learning will be emphasized as students apply their knowledge to analyze, select and design instructional strategies that are most effective for engaging and teaching online learners. Students will learn methods for managing and delivering online instruction utilizing course management tools and multimedia technologies in both synchronous and asynchronous environments. ",
+      "prerequisite": [
+        "EDU 120",
+        "EDU 232"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 336",
+      "course name": "Evaluation of E-Learning",
+      "units": "3 Credits",
+      "description": "In this course, students will examine eLearning in a variety of forms. Students will explore various instructional design eLearning principles, their application to eLearning materials, and will develop the skills necessary to evaluate eLearning products. Through the study of eLearning, students will also learn to identify evaluation methods that are appropriate to both context and audience. ",
+      "prerequisite": [
+        "EDU 120",
+        "EDU 232"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 337",
+      "course name": "Collaboration in the Virtual Classroom",
+      "units": "3 Credits",
+      "description": "The use of e-learning to promote collaboration and teamwork in a virtual environment will be explored in this course. Opportunities for collaboration utilizing social networking and other tools will be evaluated. Students will utilize a variety of tools to experience real-time learning in the virtual classroom. ",
+      "prerequisite": [
+        "EDU 120",
+        "EDU 232"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 338",
+      "course name": "Human Development & Learning",
+      "units": "3 Credits",
+      "description": "Brain development as related to human development and the capacity for learning will be explored throughout this course. The neuroscience of brain development and how this information translates into education, as well as the implications of this information for maximizing learning, memory, behavior and overall functioning, are topics that will be addressed."
+    },
+    {
+      "id": "AshFord_EDU 352",
+      "course name": "Foundations of Educational Technology",
+      "units": "3 Credits",
+      "description": "Strategies and ideas for the use of technology to enhance learning will be explored in this course. The latest in Web applications will be explored and evaluated for their instructional application."
+    },
+    {
+      "id": "AshFord_EDU 356",
+      "course name": "Emerging Issues in Educational Technology",
+      "units": "3 Credits",
+      "description": "Strategies and ideas of including the latest in technology advancements to promote student engagement and learner success will be examined in this course. Mobil learning, the use of social media such as blogs, Facebook, etc. as well as other Web 2.0 applications will be explored and evaluated for instructional application. ",
+      "prerequisite": [
+        "EDU 120",
+        "EDU 232"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 358",
+      "course name": "Assessment of Student Learning",
+      "units": "3 Credits",
+      "description": "Students will learn to identify the differences in formative and summative evaluation data and design online learning scenarios to address both of these. The effectiveness of e-learning will be explored through research. The philosophy, use and development of grading rubrics for assignments will be explored. Issues of plagiarism and cheating in e-learning will also be examined. ",
+      "prerequisite": [
+        "EDU 120",
+        "EDU 232"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 360",
+      "course name": "Philosophy of Education",
+      "units": "3 Credits",
+      "description": "This course provides a sufficiently broad yet detailed exposure to the realities of teaching. The text introduces the vantage points of teaching in four main categories. Part I, the world of teachers and students. Part II, examines the structure, climate and culture of schools today. Part III, reviews the historical, philosophical, legal and financial foundations that shape our educational system. Part IV, provides opportunities to debate, explore and discuss educational issues and trends facing educators in the 21st century. The primary goals of this course are to support students by providing a comprehensive understanding of the world of teaching, by developing critical skills related to the teaching profession, and by developing a teaching philosophy."
+    },
+    {
+      "id": "AshFord_EDU 362",
+      "course name": "Adult Learning & Instruction",
+      "units": "3 Credits",
+      "description": "Students will learn about the various theories and practices associated with adult learning. Various modalities of instruction will be addressed including e-learning, accelerated courses, and training sessions."
+    },
+    {
+      "id": "AshFord_EDU 363",
+      "course name": "Education & Social Justice",
+      "units": "3 Credits",
+      "description": "The influences of educational policy and its convergence with social justice will be studied in this course. Issues of race, gender, sexuality, globalism, and other multicultural issues within the study of politics and policy will be explored throughout this course."
+    },
+    {
+      "id": "AshFord_EDU 365",
+      "course name": "Politics of American Education",
+      "units": "3 Credits",
+      "description": "The political dimensions of policy formation/implementation in education and the use of power to influence educational policy will be explored. Conflict resolution and the analysis of consequences and impact will be examined.",
+      "similarTo": [
+        "CalPoly_EDUC 590"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 367",
+      "course name": "Elementary & Secondary School Media",
+      "units": "3 Credits",
+      "description": "This class will explore the role of the teacher librarian and role of the library media center at three different levels of education (elementary, middle, and high school). Students will research programs, library practices, teaching styles and management in the facilitation of a library media center."
+    },
+    {
+      "id": "AshFord_EDU 371",
+      "course name": "Phonics-Based Reading & Decoding",
+      "units": "3 Credits",
+      "description": "This course provides an overview of research, curricular content, and instructional practices associated with Research Based Systematic Phonics Instruction (RBSPI) and other methods for teaching reading. Emphasis and focus are on methods mandated by Arizona legislation. This course covers the history of written language, alphabetic reading and writing systems, and implementation of effective methods for reading instruction. Note: Students enrolled in EDU 371 will be required to find a student to teach or instruct for this course. The student can be a child or adult, age 5 or above. The time commitment will be approximately 3 hours per week for three weeks beginning the second week of this course. There are no exceptions to this requirement. ",
+      "prerequisite": [
+        "EDU 372"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 372",
+      "course name": "Educational Psychology",
+      "units": "3 Credits",
+      "description": "Educational Psychology explores the theories of how people learn. Selected learning theories are analyzed from the perspective of teaching and learning. Developmental theory and environmental and social factors are explored as they interface with the learning process. Educational psychologys research is applied to the measurement, assessment, and evaluation of learning and the effectiveness and efficiency of teaching-learning interactions."
+    },
+    {
+      "id": "AshFord_EDU 381",
+      "course name": "Curriculum & Instructional Design",
+      "units": "3 Credits",
+      "description": "Students will examine the pedagogy involved in designing, selecting and assessing curriculum to meet the needs of diverse learners. The basics such as how to write learning outcomes based on academic standards to selecting the research based materials and activities to support student learning, will be covered. Evaluation of student learning will be included in the course."
+    },
+    {
+      "id": "AshFord_EDU 382",
+      "course name": "Meeting the Needs of Diverse Learners",
+      "units": "3 Credits",
+      "description": "Students will explore the variety of learning differences found in the classroom today including linguistically diverse students, students with mild to moderate disabilities as well as Gifted and Talented learners. Specific strategies and classroom accommodations that may be used at all levels to meet the needs of all students will be addressed. Working as a member of a collaborative team will also be covered."
+    },
+    {
+      "id": "AshFord_EDU 400",
+      "course name": "Library Materials for Mid-Grade & Young Adults",
+      "units": "3 Credits",
+      "description": "In this course students will explore, read, discuss, and assess a variety of middle grade and young adult literature, including informational text, award winning fiction, multicultural materials and more. Students will focus on recommending materials for library purchase from the perspective of the librarian, explore review sources, recommend materials for individual users, and learn about resources in the YA and middle grades fields. Students will examine programs that promote reading and other library activities and examine legal, ethical and other issues surrounding youth services in libraries."
+    },
+    {
+      "id": "AshFord_EDU 401",
+      "course name": "Literature for Children",
+      "units": "3 Credits",
+      "description": "This class will expose students to many different types of childrens literature and resources. Students will develop material lists for different genres, explore current trends in childrens interests, and exhibit knowledge of library review sources."
+    },
+    {
+      "id": "AshFord_EDU 411",
+      "course name": "Reading & Cognition",
+      "units": "3 Credits",
+      "description": "The task of learning to read is a very complex process involving the application of perceptual, sensory, linguistic, and cognitive skills to making meaning of text. Exploration of the specific cognitive functions that are applied while reading and strategies supporting reading instruction and reading comprehension skills will be addressed. The implications of digital media on reading skills will also be explored in this course."
+    },
+    {
+      "id": "AshFord_EDU 416",
+      "course name": "Intelligence Assessment",
+      "units": "3 Credits",
+      "description": "This course will explore different theories of intelligence, the use of intelligence tests to create a numeric score, and the impact of family and culture on intelligence. Educational expectations and programs based on intelligence scores and cultural biases that may impact educational opportunities."
+    },
+    {
+      "id": "AshFord_EDU 422",
+      "course name": "Public Policy & Special Education",
+      "units": "3 Credits",
+      "description": "A study of the educational, legal, sociological and ethical issues that influence public policy related to the provision of special education to students with disabilities."
+    },
+    {
+      "id": "AshFord_EDU 428",
+      "course name": "Student Achievement in Public Schools",
+      "units": "3 Credits",
+      "description": "This course will examine various factors influencing student achievement in public schools. Influencing factors will include motivation theories, as well as the impact of families, teachers and schools on student success. Issues of equity and access to quality educational programs will be considered."
+    },
+    {
+      "id": "AshFord_EDU 431",
+      "course name": "Advanced Instructional Design",
+      "units": "3 Credits",
+      "description": "In this course, students will apply the systematic approach of instructional design to design and develop instruction for online delivery. Throughout this course, students will evaluate trends and issues in the field of instructional design. Students will apply knowledge and skills acquired throughout the Bachelor of Arts in Instructional Design program to assess the quality of instructional design projects. ",
+      "prerequisite": [
+        "EDU 120",
+        "EDU 232"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 433",
+      "course name": "Project Management for Instructional Design",
+      "units": "3 Credits",
+      "description": "Instructional design requires careful and thoughtful collaboration among a variety of design team members. In this course various project management tools, procedures, and methodologies will be introduced as they are applied to projects in education or training. Students will explore the relationship of time constraints, cost, scope and the nature of the project being designed. ",
+      "prerequisite": [
+        "EDU 120",
+        "EDU 232"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 440",
+      "course name": "Information Literacy",
+      "units": "3 Credits",
+      "description": "This course will provide students with hands-on experiences in strategies to access information in the 21st century, evaluate resources, and effectively use search engines to locate information. Students will learn Web 2.0 tools in a systematic way recommended by professional library associations."
+    },
+    {
+      "id": "AshFord_EDU 441",
+      "course name": "Research & Analysis Skills",
+      "units": "3 Credits",
+      "description": "This course will introduce students to the theory and methods of evaluating research methods. It explores the ways in which professionals identify and frame research and evaluation questions, assess current scholarly literature on specific topics, locate and critically use primary and secondary source data, and formulate worthwhile evaluation projects. Emphasis will be placed on the research tools and processes professionals use and the role information professionals play in their development, dissemination, and use."
+    },
+    {
+      "id": "AshFord_EDU 443",
+      "course name": "Literature for Children & Teens",
+      "units": "3 Credits",
+      "description": "This class will expose students to many different types of children and young adult literature, media, and resources. Students will develop material lists for different genres, explore current trends in student interests, and exhibit knowledge of library published journals."
+    },
+    {
+      "id": "AshFord_EDU 471",
+      "course name": "Public Policy Issues in Education",
+      "units": "3 Credits",
+      "description": "Public policy issues in education including historical, international and political will be examined in light of current research perspectives. Current policy strategies for reforming U.S. public schools will be highlighted.",
+      "similarTo": [
+        "CalPoly_EDUC 586"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 473",
+      "course name": "Divergent Perspectives in Educational Policy & Practice",
+      "units": "3 Credits",
+      "description": "Current issues and debates in the field of education will be investigated. Students will examine the purpose of schooling and the challenges of meeting a variety of visions for what the school system should accomplish today."
+    },
+    {
+      "id": "AshFord_EDU 486",
+      "course name": "Educational Policy & Administration",
+      "units": "3 Credits",
+      "description": "This course focuses on the societal and political contexts in educational settings. Students will examine various issues that are likely to have an impact on teaching and learning in diverse educational settings. Educational policy areas considered include governance, curriculum, accountability, personnel development, and school finance."
+    },
+    {
+      "id": "AshFord_EDU 490",
+      "course name": "Interdisciplinary Capstone",
+      "units": "3 Credits",
+      "description": "This is the capstone course for social science majors with a concentration in education. The course provides students with the opportunity to integrate and apply learning from their professional programs of study in a comprehensive manner. Students will also assess the impact of their educational experiences on their ethical perspectives and critical thinking skills. Students will reflect on and evaluate their personal and professional growth, the benefits of lifelong learning, knowledge and strategy evaluation, and the impact of these elements on their future."
+    },
+    {
+      "id": "AshFord_EDU 499",
+      "course name": "College of Education Capstone",
+      "units": "3 Credits",
+      "description": "The capstone will tie together the themes and concepts students have learned throughout their degree program. With this information as the foundation, students will synthesize theories, knowledge, and professional standards related to their field of study. Students will assess multiple influences, such as social and cultural factors, contemporary issues, and trends have on their practice. Students will further demonstrate their knowledge of the field by applying evidence-based strategies, approaches, and technologies to their work. The students will explain environments that support optimal outcomes to the field of study. Finally, students will propose professional and ethical based practices that emphasize access, participation, and partnerships with children and families.",
+      "prerequisite": [
+        "GEN 499"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 500",
+      "course name": "Differentiation: Designing for Student Differences ",
+      "units": "3 Credits",
+      "description": "What is differentiated instruction and why do instructors need to know how to differentiate? Participants enrolled in this course will explore a variety of evidence-based strategies and tools that help to effectively meet the diverse needs of learners in the classroom. With opportunities to observe, analyze, plan, and execute differentiated instructional practices, participants in this course will deepen their understanding through direct application and self-reflection.This course is only available as non-degree seeking and is not transferable to an Ashford program."
+    },
+    {
+      "id": "AshFord_EDU 501",
+      "course name": "Social and Emotional Learning: Integrating its Elements with Ease ",
+      "units": "3 Credits",
+      "description": "This course examines the concepts of social and emotional learning and mindset and their potential impact on teaching and learning. Participants in this course analyze how strategies related to social and emotional learning and having a growth mindset enhance student learning, engagement, and motivation in the classroom. Participants will leave with a repertoire of strategies to infuse social emotional learning into their practice.This course is only available as non-degree seeking and is not transferable to an Ashford program."
+    },
+    {
+      "id": "AshFord_EDU 502",
+      "course name": "Standards and Assessment: Gauging Student Growth ",
+      "units": "3 Credits",
+      "description": "This course takes a deeper look at assessment, focusing on how teachers can effectively design and use multiple types of assessments to inform instruction and make data-driven decisions about students. Formal, informal, formative, and summative assessments will be evaluated and linked to key objectives based on standards for learning. Critical elements of assessment will be explored including the role of assessment in a teachers planning and design of curriculum, management of data, consideration of special populations, and monitoring of student progress. This course is only available as non-degree seeking and is not transferable to an Ashford program."
+    },
+    {
+      "id": "AshFord_EDU 503",
+      "course name": "Classroom Culture: Managing the Classroom Environment ",
+      "units": "3 Credits",
+      "description": "This course provides participants with opportunities to discover and implement a variety of classroom management strategies. With a focus on evidence-based practices, participants will explore and apply methods for creating positive classroom culture, engaging learning environments, and proactive behavior management. Through inquiry-based learning, participants will have ample opportunities for practical application in their own classroom settings.This course is only available as non-degree seeking and is not transferable to an Ashford program."
+    },
+    {
+      "id": "AshFord_EDU 586",
+      "course name": "Foundations of American Higher Education",
+      "units": "3 Credits",
+      "description": "This course provides an examination of the development of higher education in America as seen through historical, legal, philosophical, and social lenses. Students analyze influences of the European model and alternative approaches and the complex social settings in which these events occur. The development and range of todays institutions are reviewed with implications for policy development.",
+      "similarTo": [
+        "CalPoly_EDUC 590"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 587",
+      "course name": "Adult Learning and Development",
+      "units": "3 Credits",
+      "description": "This course reviews aspects of higher education including curriculum development, delivery, and assessment. Students will study theoretical foundations, models, and methods appropriate for adult learning. A review of literature on adult learning and development will be included."
+    },
+    {
+      "id": "AshFord_EDU 588",
+      "course name": "Student Services",
+      "units": "3 Credits",
+      "description": "This course examines the development and implementation of student support systems in higher education. Supports for student success and the environment in which these occur will be analyzed. Major issues and trends in diversity, security, accommodations, and ethics will be addressed."
+    },
+    {
+      "id": "AshFord_EDU 589",
+      "course name": "Issues and Innovations in Higher Education",
+      "units": "3 Credits",
+      "description": "This course analyzes the primary areas of operation in institutions of higher education including organizational structure and control, finance, institutional effectiveness, and accreditation. An analysis of recent innovations in higher education will be included."
+    },
+    {
+      "id": "AshFord_EDU 590",
+      "course name": "Climate, Culture, and Managing the Learning Environment",
+      "units": "3 Credits",
+      "description": "This course brings focus to the skills, strategies, and considerations a facilitating educator must master to create and maintain a safe, orderly, and flexible environment that is conducive for learning. Participants in this class will increase their knowledge of techniques and strategies proven effective for classroom instruction and individual student behavior management."
+    },
+    {
+      "id": "AshFord_EDU 591",
+      "course name": "Assessing Learners",
+      "units": "3 Credits",
+      "description": "This course emphasizes how formative and summative systems are embedded in a problem-based approach to assessment, and how different types of assessments appeal to different learners. Participants analyze research-proven assessment strategies and how to implement these to impact educational and program improvement. Participants will explore the issue of integrating instruction with assessment, or what has been popularly referred to as teaching to the test. The paradigm shift from assessment of learning to assessment for learning is highlighted."
+    },
+    {
+      "id": "AshFord_EDU 592",
+      "course name": "Planning for Diverse Learners",
+      "units": "3 Credits",
+      "description": "Instructional Practice specialization graduates engage in continuous and collaborative planning processes to address the needs of diverse learners they encounter in todays educational environments. Graduates will address planning and preparation techniques to accommodate English language learners, special education, gifted, physically challenged, and mainstreamed students that are consistent with strategies that benefit all. Emphasis is on triangulating curricular demands, assessment, and the lesson-planning process. A variety of instructional models and strategically-placed combinations of formative and summative assessments are employed to ensure mastery of targeted goals."
+    },
+    {
+      "id": "AshFord_EDU 593",
+      "course name": "Student Engagement and Literacy in STEM",
+      "units": "3 Credits",
+      "description": "This course has several main objectives. First, it will explore what it means to integrate STEM. Second, it will investigate what skills students should be learning to aid them in integrating STEM into their curriculum. Third, it will analyze the importance of teaching reading in the content area. Fourth, it will critique and develop activities with an emphasis on bringing \"excitement\" to the STEM and Literacy classrooms. Finally, it will align learning practices with the New Generation Science Standards (NGSS), Common Core Standards, and classroom strategies."
+    },
+    {
+      "id": "AshFord_EDU 600",
+      "course name": "Introduction to Online Learning",
+      "units": "3 Credits",
+      "description": "This course presents an overview of the online learning environment from the instructor's point of view. It is a description of the terminology, tools, and skills needed to create a successful online learning experience. Areas addressed in this course include basic online learning concepts, the roles of the teacher and student in online learning, and the components of the online learning environment. Also covered in the course are teaching methodologies, types of blended learning, and guidelines for making the transition from the traditional classroom to the online classroom. Hardware, software, and other tools and technologies used in online learning are discussed."
+    },
+    {
+      "id": "AshFord_EDU 601",
+      "course name": "Promoting Student Success in the Online Learning Environment",
+      "units": "3 Credits",
+      "description": "This course covers the basic tools needed for student success in an online learning environment. Topics include communication, collaboration, and software skills required to succeed in online learning. Also covered are instructor and student responsibilities and expectations, as well as potential roadblocks to success. Tools and techniques for organizing, prioritizing, and completing course tasks are discussed. Finally, instructional methods for guiding students and evaluating student progress in online courses are also addressed. ",
+      "prerequisite": [
+        "EDU 600"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 602",
+      "course name": "Assessing Knowledge & Skills in the Online Learning Environment",
+      "units": "3 Credits",
+      "description": "This course examines approaches that assess student knowledge and skills in the online learning environment. Directed instruction, or objectivism, is compared and contrasted with constructivist or inquiry-based learning and assessment theories. Traditional assessment strategies are discussed as applied in directed instructional models of online learning. Nontraditional assessment approaches are explored in constructivist models, such as group products, web pages, multimedia projects, student portfolios, and student projects graded by self-report assessment instruments and rubrics. This course will focus on the use of discussions, pre- and post-testing, writing activities, graded assessments, self-grading assessments, and hands-on projects on student learning and assessment. ",
+      "prerequisite": [
+        "EDU 600"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 608",
+      "course name": "Childrens & Young Adult Literature",
+      "units": "3 Credits",
+      "description": "Students will explore contemporary literature for children and young adults at the early childhood, elementary, middle and high school levels. The ability to select and evaluate quality literature for children and youth, and the skills necessary to plan and integrate literature into a K-12 program will be addressed."
+    },
+    {
+      "id": "AshFord_EDU 609",
+      "course name": "Online Teaching Internship",
+      "units": "3 Credits",
+      "description": "In previous courses, students developed an online course within a Learning Management System (LMS) using principles and strategies of quality online learning. In this capstone course, students will collect data and feedback around the online teaching and learning experience. Students will then make further improvements to their online courses based on the evaluative data. Finally, students will create a professional portfolio piece using their revised online course as a model to demonstrate the principles and strategies used in the field to ensure quality online learning. ",
+      "prerequisite": [
+        "EDU 601"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 610",
+      "course name": "Introduction to Teaching & Learning with Technology",
+      "units": "3 Credits",
+      "description": "The tremendous growth of technology has had an enormous impact on academics, and knowledge acquired has perpetually altered the dynamics of teaching. However, pedagogical preparations for the use of the new learning technologies requires an understanding of their worth in the context of historical implications, philosophical foundations, educational psychology, and learning theories."
+    },
+    {
+      "id": "AshFord_EDU 613",
+      "course name": "Technology Issues in Instruction",
+      "units": "3 Credits",
+      "description": "The focus will be on issues related to the use of technology in learning including equity, access, technology literacy, plagiarism, the effective use of games and simulations, and the trend toward e-learning. Students will evaluate various examples of technology-based instruction for instructional quality as well as relevance to the classroom and training environment. Course assignments will include participation in discussions, evaluation of courseware, online journal articles and other web sites, and individual reviews of relevant literature."
+    },
+    {
+      "id": "AshFord_EDU 615",
+      "course name": "Leading the Change Process in Curriculum & Instruction",
+      "units": "3 Credits",
+      "description": "The course will explore the role of the change agent in the identification, planning, implementation, and assessment of change initiatives for improved achievement. The impact of change on the individual, course, program, and system level will be studied. Research-based standards for successful leadership will be identified and applied as students examine the impact of administration and management on teaching and learning."
+    },
+    {
+      "id": "AshFord_EDU 616",
+      "course name": "Methods & Materials for Teaching & Learning With Technology",
+      "units": "3 Credits",
+      "description": "This course focuses on the application of technology to enhance instruction. Students will be exposed to the courseware, software applications, and technologies used in instructional technology and discuss ways they can be used effectively. Course assignments and projects require the use of productivity tools, presentation tools, digital imaging, Internet Websites, and online learning platform technologies. Teaching style with technology-based instruction will be explored. Various software and hardware tools will be utilized to enhance presentations, strengthen professional productivity, and encourage critical thinking skills of learners."
+    },
+    {
+      "id": "AshFord_EDU 617",
+      "course name": "School, Family & Community Partnerships",
+      "units": "3 Credits",
+      "description": "Parent and community involvement is a crucial element to school success. Promoting the social, emotional and academic skills necessary for student success in the 21st century requires a team effort of collaboration with schools, families and the community. Students in this course will explore strategies and research for engaging partners in the ongoing education of children in the community."
+    },
+    {
+      "id": "AshFord_EDU 620",
+      "course name": "Meeting Individual Student Needs With Technology",
+      "units": "3 Credits",
+      "description": "This course fosters awareness of individual learner characteristics that impede successful achievement. Milder forms of learning disabilities, emotional disorders, and dysfunctional social conditions that are prevalent in typical instructional situations are evaluated. Alternative pedagogies utilizing computer technology applications to alleviate such barriers are explored. ",
+      "prerequisite": [
+        "EDU 673",
+        "ESE 601",
+        "ECI 601"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 622",
+      "course name": "Development of Interactive Learning Modules",
+      "units": "3 Credits",
+      "description": "The focus in this course is the development of resources to be used for instruction. Using the information gathered from previous courses, the student creates a project that engages learners in interactive activities. The activities in this course will utilize technology as a tool to enhance pedagogical practices. The performance outcomes of these activities must promote both creative and complex thinking skills."
+    },
+    {
+      "id": "AshFord_EDU 623",
+      "course name": "Introduction to Teaching & Learning",
+      "units": "3 Credits",
+      "description": "This course is designed to introduce the student to the Master of Arts in Education Program. Students will engage in self-assessment and reflection focused on the philosophy of serving the needs of all students within the context of the community."
+    },
+    {
+      "id": "AshFord_EDU 625",
+      "course name": "Managing the Instructional Environment",
+      "units": "3 Credits",
+      "description": "In this course the student identifies and explores the internal and external factors that serve to challenge teachers and trainers in instructional environments. Logistical and behavioral components of creating an engaging learning environment are explored. Individual and group dynamics with the integration of technology are evaluated."
+    },
+    {
+      "id": "AshFord_EDU 626",
+      "course name": "Research Design & Methodology",
+      "units": "3 Credits",
+      "description": "In this course the student accesses sources of educational information, evaluates research evidence, studies various types of educational resources, and applies research to the instructional setting. The focus of this course is research on issues in educational technology and the use of technology tools for making data-driven decisions using both quantitative and qualitative methods."
+    },
+    {
+      "id": "AshFord_EDU 629",
+      "course name": "Linguistically & Culturally Diverse Learners",
+      "units": "3 Credits",
+      "description": "This course explores strategies and techniques to support the success of language and culturally diverse students. The values, customs, and communication styles of cultural groups and their implication for teaching are considered. Research-based instructional approaches to developing English learner literacy will be examined."
+    },
+    {
+      "id": "AshFord_EDU 635",
+      "course name": "Community & Youth Development",
+      "units": "3 Credits",
+      "description": "This course will support teachers and others with the development of practical strategies and tools to support community-wide efforts to strengthen and support youth today. Advocacy for youth development as well as strategies to support youth from a wide range of backgrounds will be addressed."
+    },
+    {
+      "id": "AshFord_EDU 639",
+      "course name": "Human Relationships & Learning in the Multicultural Environment",
+      "units": "3 Credits",
+      "description": "Students will explore and experience the impact of interpersonal communication concepts and skills upon the creation and maintenance of positive human relationships. The student will develop a knowledge base of selected cultural groups to acquire the competency to identify basic cultural modalities that have an effect upon the teaching and learning processes. Students will demonstrate the integration of the course content to their own personal values and teaching styles. The student will also demonstrate application of human relationship skills to the educational setting and the community."
+    },
+    {
+      "id": "AshFord_EDU 642",
+      "course name": "Understanding & Teaching English Language",
+      "units": "3 Credits",
+      "description": "In this course students will study the structure of the English language in order to better understand the difficulties that arise in learning a second language. English phonology, syntax, analysis, and application of linguistic theory will be studied."
+    },
+    {
+      "id": "AshFord_EDU 643",
+      "course name": "Methods, Materials & Technology for Learning a Second Language",
+      "units": "3 Credits",
+      "description": "Strategies for English Language Learners in the content areas while maintaining a language development focus will be illustrated. Specific strategies, materials, technology, and learning activities will be examined to support learning."
+    },
+    {
+      "id": "AshFord_EDU 644",
+      "course name": "Child & Family Welfare",
+      "units": "3 Credits",
+      "description": "This course will examine public policies in place to support children and families in at-risk situations. A focus on the services and programs offered to support families and children as well as the development of protective factors in families will be offered in this course."
+    },
+    {
+      "id": "AshFord_EDU 645",
+      "course name": "Learning & Assessment for thest Century",
+      "units": "3 Credits",
+      "description": "Student learning is achieved when assessments appropriately measure student skill and content knowledge. This course examines the most effective practices and principles of assessment as it relates to informal and formal assessment instruments and procedures. The course explores the importance of using formative assessments to monitor student learning and guide instruction through analyzing assessment data results to identify learner needs. Furthermore, effective uses of technology to enhance and support assessment practices are evaluated. ",
+      "prerequisite": [
+        "EDU 673"
+      ],
+      "similarTo": [
+        "CalPoly_EDUC 565"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 647",
+      "course name": "Families, Communities & Diversity",
+      "units": "3 Credits",
+      "description": "This course will focus on establishing relationships and partnerships within families and community of diverse cultures. Specific strategies in developing programs promoting cultural competence within families and communities will be explored. Students will analyze available family and community resources within their community in promoting and supporting cultural diversity."
+    },
+    {
+      "id": "AshFord_EDU 648",
+      "course name": "Teaching & Learning with Technology",
+      "units": "3 Credits",
+      "description": "This first course is an overview of the field of educational technology including instructional design, influence of learning theory on technology application as well as the various technologies available and their application to learning."
+    },
+    {
+      "id": "AshFord_EDU 649",
+      "course name": "Technologies for Teaching & Learning",
+      "units": "3 Credits",
+      "description": "This course focuses on identifying appropriate technologies for teaching and learning. Special attention will be directed in analyzing teaching and learning styles. Identifying and evaluating technologies to meet individual needs will be explored in both educational and corporate environments."
+    },
+    {
+      "id": "AshFord_EDU 650",
+      "course name": "Teaching, Learning & Leading in thest Century",
+      "units": "3 Credits",
+      "description": "This course is designed give students a real world perspective into what it is like to teach, learn, and lead in the 21st century classroom. This course provides an opportunity for students to experience the world of the classroom and analyze the range of perspectives and topics that impact being a successful teacher, learner, and leader in the 21st century. The course will bring together a unique set of voices from the field, to explore the contemporary nature of what it is like to teach in todays changing schools while focusing on identifying innovations that can develop students capacity to be agents of innovation, collaboration, and creativity."
+    },
+    {
+      "id": "AshFord_EDU 651",
+      "course name": "Collaboration & Learning in a Virtual Environment",
+      "units": "3 Credits",
+      "description": "Students will explore teaching and learning in virtual worlds. Project-based design, facilitation, and evaluation of instruction, research, and other resources will be examined. The use of online collaboration for student learning and effective uses of various technologies for social networking will be explored.",
+      "similarTo": [
+        "CalPoly_EDUC 588"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 652",
+      "course name": "Instructional Design & Delivery",
+      "units": "3 Credits",
+      "description": "This course covers various elements of the instructional design process including needs assessment, instructional problems, learner characteristics, instructional objectives, content sequencing, instructional strategies, and evaluation instruments. Students are expected to learn how to plan, develop, evaluate, and manage the design of effective instructional materials."
+    },
+    {
+      "id": "AshFord_EDU 653",
+      "course name": "Teaching in Higher Education",
+      "units": "3 Credits",
+      "description": "The course will examine education theories, methods, and strategies for the improvement of instruction in higher education. Emphasis will be placed on the unique challenges of teaching in a changing environment in higher education. Students will explore factors that affect adult learning and the organizational cultures that promote or inhibit learning."
+    },
+    {
+      "id": "AshFord_EDU 654",
+      "course name": "Student Development in Higher Education",
+      "units": "3 Credits",
+      "description": "The course will examine student development theories from a socio-cultural and psychological developmental perspective. Factors affecting the teaching and learning related to the college environment will be analyzed. Theories of student development and their applications in student affair programs, services, and activities will be reviewed.",
+      "similarTo": [
+        "CalPoly_EDUC 562"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 655",
+      "course name": "Trends & Issues in Instructional Design & Technology for Online Learning",
+      "units": "3 Credits",
+      "description": "Students gain the necessary skills and knowledge to design effective instructional materials for use in an on-line learning environment. Powerful innovations that may redefine teaching and learning practices will be explored throughout the course."
+    },
+    {
+      "id": "AshFord_EDU 656",
+      "course name": "Technology Solutions for Just in Time Training & Learning",
+      "units": "3 Credits",
+      "description": "This course will allow students to develop an understanding of the planning for and application of technology for training that meets institutional and organizational needs. Students will utilize technology to effectively develop a request for proposal plan for training utilizing technology to inform, motivate, and prepare learners."
+    },
+    {
+      "id": "AshFord_EDU 657",
+      "course name": "History & Philosophy of American Higher Education",
+      "units": "3 Credits",
+      "description": "The course will provide an overview of the historical development and cultural backgrounds of higher education in America. Emphasis will be placed on the major themes and developments in American higher education including the ideologies, people, cultures, and movements that have particularly influenced those developments. Current issues and trends in higher education will be explored.",
+      "similarTo": [
+        "CalPoly_EDUC 590"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 658",
+      "course name": "Instructional Leadership",
+      "units": "3 Credits",
+      "description": "This course focuses on leadership in the educational or corporate environment to bring about change required to meet learning and training needs. Students will evaluate their personal leadership in their professional environment. Leadership tools to provide increased learning opportunities will be used to design learning experiences and evaluate results."
+    },
+    {
+      "id": "AshFord_EDU 659",
+      "course name": "Testing & Assessment for English Language Learners",
+      "units": "3 Credits",
+      "description": "Various tools and methodologies for assessing English proficiency in speaking, listening, reading and writing for both ELL children and adults will be critiqued. Formative and summative assessments will be explored with an emphasis on the application and appropriateness of their use for instructional design."
+    },
+    {
+      "id": "AshFord_EDU 659",
+      "course name": "Testing & Assessment for English Language Learners",
+      "units": "3 Credits",
+      "description": "Various tools and methodologies for assessing English proficiency in speaking, listening, reading and writing for both ELL children and adults will be critiqued. Formative and summative assessments will be explored with an emphasis on the application and appropriateness of their use for instructional design."
+    },
+    {
+      "id": "AshFord_EDU 662",
+      "course name": "Curriculum & Assessment in Higher Education",
+      "units": "3 Credits",
+      "description": "The course will study the relationships between planning and student learning at course, program, and institutional levels. Modes of curriculum design, development and change in higher education will be presented. Emphasis will be placed on examining curricular leadership and assessment strategies.",
+      "similarTo": [
+        "CalPoly_EDUC 565"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 667",
+      "course name": "Reading Instruction & Early Intervention",
+      "units": "3 Credits",
+      "description": "Reviews of various research based reading programs will be examined critically. Evaluation will be based on cost, alignment to standards, and research in regard to program effectiveness. Intervention programs for struggling readers and their role in a traditional school setting will be explored."
+    },
+    {
+      "id": "AshFord_EDU 668",
+      "course name": "Reading Comprehension Across the Curriculum",
+      "units": "3 Credits",
+      "description": "This course will support teachers and others in working with students to improve reading comprehension across all areas of the curriculum. Research investigations into the brain activity required for reading comprehension will be reviewed. Specific strategies for addressing reading comprehension difficulty will be explored.",
+      "similarTo": [
+        "CalPoly_EDUC 523",
+        "CalPoly_EDUC 521"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 669",
+      "course name": "The Reading, Writing Connection",
+      "units": "3 Credits",
+      "description": "This course will emphasize the connection of reading and writing with a focus on the content areas. Students will be exposed to a variety of approaches including vocabulary techniques, comprehension strategies, and study techniques to use with learners. Issues of assessment, motivation, and cultural as well as linguistic diversity will also be addressed."
+    },
+    {
+      "id": "AshFord_EDU 671",
+      "course name": "Fundamentals of Educational Research",
+      "units": "3 Credits",
+      "description": "This educational research course is designed to teach students how to use digital sources to locate and evaluate research articles and apply that information in a learning environment. Students will also consider ethical aspects of research. Finally, students will evaluate and propose ways to become change agents by effectively applying action research principles to real world educational problems and issues.",
+      "prerequisite": [
+        "EDU 620",
+        "EDU 652"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 673",
+      "course name": "Instructional Strategies for Differentiated Teaching & Learning",
+      "units": "3 Credits",
+      "description": "During this course, students will learn about and use evidence-based differentiated strategies and materials to meet diverse academic instruction that incorporate the progressive needs of 21st century learners using students cultural schemata (i.e., personal experiences, cultural/language norms and family belief systems). Instruction will align with the Common Core State Standards and alternative assessment methods to provide a rich inquiry of learning styles while applying strategies that promote critical thinking and incorporate digital tools and resources. ",
+      "prerequisite": [
+        "EDU 650 "
+      ]
+    },
+    {
+      "id": "AshFord_EDU 674",
+      "course name": "Foundations & Trends in Curriculum & Instruction",
+      "units": "3 Credits",
+      "description": "The course will provide an overview of the foundational pieces necessary for effective design and delivery of curriculum and instruction. Current trends will be compared and contrasted with brain-based research from the field. Emphasis will be placed on processes and procedures for developing both an engaging curriculum and a caring and responsive learning environment."
+    },
+    {
+      "id": "AshFord_EDU 675",
+      "course name": "Change Leadership for the Differentiated Educational Environment",
+      "units": "3 Credits",
+      "description": "Change Leadership for the Differentiated Educational Environment is designed to ensure that students demonstrate mastery of the MAED program learning outcomes through the continuation of the capstone project. This course bridges the learning activities between EDU 671 Fundamentals of Educational Research and EDU 695 MAED Capstone. This course experience is designed to ensure that students continue their exploration of action research principles in which they will seek out and solve an organizational problem within their area of concentration. Topics in this course will be related to implementing change in an organization, evaluating the impact of the applied intervention, communicating outcomes, collaboration, and 21st century leadership practices."
+    },
+    {
+      "id": "AshFord_EDU 676",
+      "course name": "Curriculum & Instruction Design for Increased Achievement",
+      "units": "3 Credits",
+      "description": "The course will teach a backward design model for curriculum and instruction that emphasizes clear targets and goals for increased achievement. Curriculum integration and mapping techniques will be examined and implemented as students model the power of collaborative planning and individual reflection. A variety of delivery models will be explored.",
+      "similarTo": [
+        "CalPoly_EDUC 523"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 677",
+      "course name": "Monitoring & Evaluating Curriculum & Instruction through Systems Thinking",
+      "units": "3 Credits",
+      "description": "The course will define and apply the concepts of differentiated instruction and systems thinking in the development of curriculum and instruction. Processes and procedures for monitoring and evaluating programs will lead to an understanding of the complexity of an effective change process for increased achievement."
+    },
+    {
+      "id": "AshFord_EDU 679",
+      "course name": "Technology Solutions for Organizational Improvement",
+      "units": "3 Credits",
+      "description": "In this course, students will examine theories, organizational learning outcomes, and models of assessment and evaluation that lead to institutional improvement and effectiveness in the use of technology. Students will follow a logic model to conduct a program evaluation and develop a proposal for organizational improvement."
+    },
+    {
+      "id": "AshFord_EDU 684",
+      "course name": "Shared Vision of Learning",
+      "units": "3 Credits",
+      "description": "Students will learn how to develop a shared vision of student achievement and integrate it into the school plan. By developing and articulating a belief system and shared vision of teaching and learning, students will learn how to link improved teaching strategies to school-wide and district-wide instructional priorities. From this initial building of a shared vision, students will develop a theory of action directed at getting to the shared vision by ensuring that relevant student data are available and examined regularly. Students will learn and apply strategies for guiding, motivating, delegating and building consensus among diverse constituencies in the school and community. The reality is that school leaders must encounter multiple voices in the community and as such, they need to ensure that those voices are part of the consensus building for shared visions of schooling."
+    },
+    {
+      "id": "AshFord_EDU 687",
+      "course name": "Building a Learning-Centered Culture",
+      "units": "3 Credits",
+      "description": "This course is designed to provide an opportunity for participants to learn how to advocate, nurture, and sustain a school culture and instructional program that is conducive to student learning and staff professional growth in a standards-based system of learning. In this course students will develop an understanding of the rationale for and the components of standards based curriculum and instruction and how they link to students learning needs. Students will learn to apply student data to determine policy decisions and leadership actions to improve the instructional program. They will learn to apply site-based teacher-practice data to determine leadership actions to drive professional development and identify student support systems that result in increased student performance. Students will also explore research on diverse learning styles and differentiating instruction for all learners. It is in this course that students learn the power of a system-based approach that builds coherence through a standards-based curriculum and instruction; supervision that supports differentiated instruction in support of accelerating student learning, and the development, implementation, and evaluation of professional development that supports standards-based curriculum and instruction."
+    },
+    {
+      "id": "AshFord_EDU 688",
+      "course name": "Organizational Management for Student Learning",
+      "units": "3 Credits",
+      "description": "Students are introduced to safe school environments, data-driven decision-making strategies, practice using various assessment tools and monitoring systems for teaching and learning, and learn district, state, and federal accountability systems. Students will gain an understanding of the legal polices pertaining to classified and certificated personnel. Students will also continue to apply a system-based approach that builds coherence through the alignment of fiscal, human, and material resources to support the learning of all sub-groups of students."
+    },
+    {
+      "id": "AshFord_EDU 689",
+      "course name": "Personal Ethics & Leadership Capacity",
+      "units": "3 Credits",
+      "description": "This course develops students' ability to model integrity and justice while learning and applying a variety of decision-making and problem-solving strategies. In this course, students will write a personal code of ethics that includes their moral purpose and belief system for the improvement of teaching and learning. Students will also address issues of equity such as race, language, religions, and sexual harassment. Students will learn ways to inspire and motivate others, and to effectively communicate shared decision-making outcomes to stakeholders. Students will continue to build understanding around the leadership practices that create a learning-centered and trustworthy school community that provides high levels of learning for all students."
+    },
+    {
+      "id": "AshFord_EDU 690",
+      "course name": "Electronic Summative Portfolio",
+      "units": "3 Credits",
+      "description": "Using LiveText software, students will begin to create an electronic, professional, portfolio that documents personal and professional growth. Artifacts that parallel INTASC standards will be required for classroom teachers. Corporate trainers will focus on skill-based instruction and outcomes in accordance with the NETS-T standards. This will be an ongoing project through the remainder of the courses within this program and will be finalized in EDU 697."
+    },
+    {
+      "id": "AshFord_EDU 692",
+      "course name": "Creativity, Culture, & Global Contexts in Education Decision Making",
+      "units": "3 Credits",
+      "description": "This course provides rich opportunities for participants to learn how culture, creativity, and innovation impact teaching and student learning in the 21st century. Participants will adopt a global perspective of teaching and learning to understand how the infusion of 21st century skills impacts curriculum and prepares learners for the challenges associated with living and working in the 21st century. Through scenario-based activities, participants will directly apply skills needed to make informed decisions about the design, development, implementation, and evaluation of culturally relevant instructional practices to support the learning of 21st century skills. ",
+      "prerequisite": [
+        "EDU 650 "
+      ]
+    },
+    {
+      "id": "AshFord_EDU 694",
+      "course name": "Capstone I: Educational Research ",
+      "units": "3 Credits",
+      "description": "Capstone I: Educational Research guides students through the process of becoming an effective change agent by applying action research principles to current educational challenges and issues. Students will locate and evaluate research articles for scholarship, relevancy, and ethical neutrality. The topics covered during this course include implementing change in an education-based organization, evaluating the impact of the applied intervention, communicating outcomes, collaboration, and 21st-century leadership practices. ",
+      "prerequisite": [
+        "ECI 685",
+        "EDU 620",
+        "ECE 673"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 695",
+      "course name": "MAED Capstone",
+      "units": "3 Credits",
+      "description": "The Capstone is a course in which students will demonstrate their attainment of the program outcomes through a spiraled process of skill demonstration including reflection, application, and evaluation. First, students will reflect on patterns in academic work as well as design and development challenges associated with previous course work so as to take control of ones professional growth and become a more self-directed learner. Next, students apply the framework of 21st Century teaching and learning to redesign prior MAED activities and then evaluate how 21st Century skills influence program learning outcomes. Last, students will use digital tools to showcase their scholarly artifacts through the creation of a digital portfolio for both course, and professionally related purposes."
+    },
+    {
+      "id": "AshFord_EDU 696",
+      "course name": "Capstone II: Culminating Project",
+      "units": "3 Credits",
+      "description": "Capstone II: Culminating Project is a course in which students will demonstrate their attainment of the program outcomes through a spiraled process of skill demonstration including reflection, application, and evaluation. First, students will reflect on patterns in academic work as well as design and development challenges associated with previous coursework so as to take control of ones professional growth and become a more self-directed learner. Next, students apply the framework of 21st century teaching and learning to redesign prior coursework and then evaluate how 21st century skills influence program learning outcomes. Last, students will use digital tools to showcase their scholarly artifacts through the creation of a digital portfolio for both courses, and for professionally related purposes. ",
+      "prerequisite": [
+        "EDU 694"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 697",
+      "course name": "MATLT Capstone: A Project Approach",
+      "units": "3 Credits",
+      "description": "This Capstone course requires students to synthesize their skills and knowledge acquired throughout the MATLT program. The Capstone project must present a practical application that is appropriate for a professional environment in the students chosen field of work, be appropriate for inclusion in a professional portfolio, and incorporate a relevant problem or issue that can be supported through formal research. Furthermore, the project should demonstrate significant content across the spectrum of MATLT courses and promote the accomplishment of professional and personal goals. In addition, students will create a professional brochure highlighting their skills, strengths, and educational preparation."
+    },
+    {
+      "id": "AshFord_EDU 7000",
+      "course name": "Learning & Cognition",
+      "units": "3 Credits",
+      "description": "Educational practice is based on theories and philosophies of learning and cognition. These accepted theories have evolved, from idealism to realism, pragmatism to constructivism, and are incorporating new research in brain-based learning. This course will focus on theories and philosophies of learning and cognition along with ways in which these theories are studied and applied in educational practice."
+    },
+    {
+      "id": "AshFord_EDU 7100",
+      "course name": "History of Education & Social Change",
+      "units": "3 Credits",
+      "description": "This course examines the history and philosophy of education, as well as a systematic analysis of the effect of social change on education and vice versa. Adult learning and higher education settings are a focus in this course."
+    },
+    {
+      "id": "AshFord_EDU 7120",
+      "course name": "Transformative Issues & Trends in Education",
+      "units": "3 Credits",
+      "description": "This course examines current issues in education, and explores how changing social trends affect educational systems and practices bound by decades of tradition. Topics include applicable federal and state policies and regulations, national education standards, access to education, and others.",
+      "similarTo": [
+        "CalPoly_EDUC 586"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 7130",
+      "course name": "Educational Leadership Theories & Strategies",
+      "units": "3 Credits",
+      "description": "Students will explore the history and theoretical nature of educational leadership. The emphasis is on the application of the latest theories and strategies of educational leadership in political, economic, social and global contexts. Students will explore the theories and principles of executive decision-making processes such as qualitative decision-making models and techniques. A related emphasis is on effective communication with diverse groups, and implementation and evaluation of strategic decisions. A critical examination of the emerging leadership literature and research are used to develop a comprehensive understanding and working knowledge of the strategies, theories, and interdisciplinary nature of educational leadership."
+    },
+    {
+      "id": "AshFord_EDU 7220",
+      "course name": "Educational Leadership: Challenges & Opportunities",
+      "units": "3 Credits",
+      "description": "This course explores current trends in higher education with an emphasis on challenges and opportunities that administrative leadership will face in the next ten years due to changing demographics, technology, structures, and resources. The 21st century education administrator faces a number of challenges including student preparedness, campus safety, reduced institutional aid, programmatic costs, environmental concerns, and a myriad of other factors that make appropriate problem assessment and decision-making a priority. This course will focus on diagnosing the root causes of common institutional problems and apply appropriate solution-based critical thinking skills."
+    },
+    {
+      "id": "AshFord_EDU 7240",
+      "course name": "Diversity in Education",
+      "units": "3 Credits",
+      "description": "Students will identify and analyze the socio-cultural, institutional, historical, legal and political resources, policies, and needs associated with serving diverse populations in an educational setting. They will be prepared to advocate for underserved communities and for constituents with diverse needs and learning processes. Students will grapple with complex situations and propose strategies for resolution."
+    },
+    {
+      "id": "AshFord_EDU 8225",
+      "course name": "Culture, Curriculum & Learning",
+      "units": " 3 Credits",
+      "description": "This course explores literature and recent debate related to culture and linguistic diversity, learning, and instruction both within the United States and globally. Emphasis will be placed on an exploration of the history of and recent debates related to social, cultural and linguistic diversity, learning, and instruction in the service of leveraging resources and systems to support student learning in diverse populations."
+    },
+    {
+      "id": "AshFord_EDU 8240",
+      "course name": "Theories & Models of Instructional Systems Design",
+      "units": "3 Credits",
+      "description": "This course will include an examination of the major instructional design models and their theoretical, empirical, historical, and philosophical foundations in technology and media. Students will evaluate current theories and models and examine the historical and philosophical foundations of these theories and will present their analyses of instructional design examples as well as prepare an outline for an instructional design project, incorporating relevant learning theory, media, and other technology applications."
+    },
+    {
+      "id": "AshFord_EDU 8250",
+      "course name": "Curriculum, Assessment, Design, & Evaluation",
+      "units": "3 Credits",
+      "description": "This course will provide students with an opportunity to study curriculum assessment, design and evaluation principles, processes, approaches and models. The focus will be on the resulting impact on curriculum, assessment, design and evaluation modifications at the classroom, school, system, state, and national levels. The influence of societal trends will be examined as will recent major higher educational reform efforts and potential future trends.",
+      "similarTo": [
+        "CalPoly_EDUC 565"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 8260",
+      "course name": "Integrating Technology",
+      "units": "3 Credits",
+      "description": "This course will equip learners to recognize and integrate appropriate learning theory into instructional design, and to make effective use of instructional interventions, technology and media. Participants will evaluate current theories and models, policies and initiatives, along with original scholarship, to examine the historical and philosophical foundations of these theories and their influence on the use of technology and media."
+    },
+    {
+      "id": "AshFord_EDU 8300",
+      "course name": "Governance & Politics of Education",
+      "units": "3 Credits",
+      "description": "This course will provide students with an opportunity to study the politics of education as well as educational policy making, processes, approaches and models. The focus will be on the making of educational policies, the politics involved relating to non-profit and for-profit educational institutions, emerging educational technologies, and governance in higher education institutions. The influence of societal trends will be examined as will recent major higher education reform efforts and potential future trends at the local, state, regional, and national level. Topics of study include educational policy making, globalism and the politics of education, the politics of learning, the politics of inclusion and exclusion, and the politics of educational reforms.",
+      "similarTo": [
+        "CalPoly_EDUC 511"
+      ]
+    },
+    {
+      "id": "AshFord_EDU 8320",
+      "course name": "Change in People, Society, Bureaucracies & Institutions",
+      "units": "3 Credits",
+      "description": "This course explores the contradictory roles of educators and educational institutions in both preserving the past and preparing students for the future. The impacts of recent innovations and advancements in technologies have not been fully realized and will be the foundation of exploration in this course. The role of change agents, early adopters, and the diffusion process on the acceptance of innovation will be investigated."
+    },
+    {
+      "id": "AshFord_EDU 8770",
+      "course name": "Doctoral Capstone Seminar",
+      "units": "4 Credits",
+      "description": "This seminar provides students the opportunity to apply what they learned in their doctoral coursework related to their fields of specialization for the doctorate. Students will review, analyze, and evaluate material related to important topics in education and will demonstrate the ability to apply the content by preparing a final integrative project. Students will contemplate complex questions posed by their instructor, reply to those questions, and respond to other students analyses and evaluations. Additionally, segments of the final integrative project will be submitted for review and feedback at intervals throughout the course. The final project will comprehensively demonstrate the students critical thinking on the core issues in the doctoral program in education."
+    }
+  ]
+}

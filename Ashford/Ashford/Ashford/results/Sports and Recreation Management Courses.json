@@ -1,0 +1,49 @@
+{
+  "subjectOf": {
+    "subject": "Sports and Recreation Management Courses",
+    "id": "SRM"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Sports and Recreation Management Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_SRM 300",
+      "course name": "Sport Facility Management",
+      "units": "3 Credits",
+      "description": "This course explores the basic concepts, practices and management of sport facilities. The students will identify and review the managerial practices as to the financing, building, and management of various forms of sport facilities. Included in the course will be an examination of legal issues, risk management, and current trends and issues in the management of sport facilities. The students will be afforded the opportunity to obtain specific insights to current practices and new developments in sport facilities management."
+    },
+    {
+      "id": "AshFord_SRM 311",
+      "course name": "Sport Law",
+      "units": "3 Credits",
+      "description": "This course explores the legal structure of, and issues surrounding, amateur and professional sports leagues and associations. Included will be an examination of tort issues, risk management, sports agency, contract law, collective bargaining, gender issues, intellectual property, and antitrust law."
+    },
+    {
+      "id": "AshFord_SRM 325",
+      "course name": "Case Research in Sports & Recreation Management",
+      "units": "3 Credits",
+      "description": "Sports as a subject matter is very ancient and its marketing can be traced to even its earliest days. However, as an integral portion of contemporary society, successful sporting events or seasons generally require professional marketing efforts. Utilizing the principles of management, marketing and other relevant disciplines this course will use case studies, class discussions, and projects to enhance the students collective expertise in this area of Sports and Recreation Management.",
+      "prerequisite": [
+        "GEN 499"
+      ]
+    },
+    {
+      "id": "AshFord_SRM 401",
+      "course name": "Sport Finance",
+      "units": "3 Credits",
+      "description": "The course examines the economic and financial environment in which the sport industry operates, with emphasis on financial decision-making, financial management, and current financial trends. The content identifies key stakeholders and their various interests in the financial success of sport operations and organizations. The students will explore sources of funding and revenue generation, financial controls and reporting, budgets, and the relationship between management principles and financial performance.",
+      "prerequisite": [
+        "ACC 205"
+      ]
+    },
+    {
+      "id": "AshFord_SRM 410",
+      "course name": "Contemporary Issues in Sports Marketing & Management",
+      "units": "3 Credits",
+      "description": "Sport has become a major business enterprise in the United States and in much of the world. This course helps students understand the scope of the sport industry, to include identifying career opportunities in various segments of the sport industry. The course also examines the managerial process to include the functions of management, as well as the roles, skills, and attributes required of sport managers. Special attention is given to examining the unique characteristics of sport and the resulting social and ethical responsibilities of sport managers."
+    }
+  ]
+}

@@ -1,0 +1,1228 @@
+{
+  "courses": [
+    {
+      "term": ". ",
+      "description": "Survey of architecture, crafts, painting, and sculpture of the Eastern Mediterranean and European cultures. ",
+      "course name": "Art in the Western World: From Stone Age to End of Middle Ages",
+      "units": "3 Units",
+      "id": "CSUS_ART 1A",
+      "prerequisite": [
+        "ART 1A",
+        "ART 1B"
+      ]
+    },
+    {
+      "term": ". ",
+      "description": "Survey of architecture, crafts, painting, and sculpture of the Eastern Mediterranean and European cultures. ",
+      "course name": "Art in the Western World: From Renaissance to Baroque",
+      "units": "3 Units",
+      "id": "CSUS_ART 1B",
+      "prerequisite": [
+        "ART 1A",
+        "ART 1B"
+      ]
+    },
+    {
+      "term": ". ",
+      "description": "A 3-unit lecture based survey of the history of world art from the late 18th century to the present, from the European Rococo, Enlightenment, age of science and revolution, through Neo-Classicism, Romanticism and the rise of the international avant-garde, Realism, Impression, Symbolism, photography and film. In the 20th century, Fauvism, Cubism, the Bauhaus, Expressionism, Pop, Minimal art, Postmodernism, conceptualism, performance, video and new media are considered from global perspectives and artistic production. Part of the art history foundation sequence. ",
+      "course name": "Global Modern and Contemporary Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 1C",
+      "prerequisite": [
+        "ART 1A",
+        "ART 1B",
+        "ART 1C"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Introduces students to the art and architecture of major Islamic cultures and offers a background in the religion and philosophy of Islam. Works of art from Muslim countries and regions are studied in comparison to those of other major Asian and European cultures. Lecture. 3 units",
+      "id": "CSUS_ART 2",
+      "course name": "History of Islamic Art",
+      "similarTo": [
+        "CalPoly_ART 201",
+        "CalPoly_ART 209",
+        "CalPoly_ART 200"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Introduces students to the art and architecture of Asia from the pre-historic through pre-modern periods (approximately 1600).  The styles, subjects, and significance of the art of India, Sri Lanka, Indonesia, Thailand, Burma, Cambodia, Tibet, China, Japan and Korea will be presented in a broad context including the  history, geography, ethnic populations, languages, and religions of these countries (i.e., Buddhism, Hinduism, Jainism, Islam, Daoism, and Shinto).",
+      "id": "CSUS_ART 3A",
+      "course name": "Traditional Asian Art",
+      "similarTo": [
+        "CalPoly_ART 317",
+        "CalPoly_ART 318"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Covers the art and architecture of Asia from the modern period to the present day. Attention will be given to the impact of outside influences upon the development of art in several Asian countries, including India, Thailand, Vietnam, Indonesia, Philippines, China, Korea, and Japan. Contacts between those countries, their exposure to western visual culture through new or increased contact with the west, and the spread of Christianity all had an impact on Asian art during the period under consideration.",
+      "id": "CSUS_ART 3B",
+      "course name": "Modern and Contemporary Asian Art",
+      "similarTo": [
+        "CalPoly_ART 318"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Historical survey and visual study of the development of American Indian art in North America from the prehistoric periods to the end of the 19th century.",
+      "id": "CSUS_ART 5",
+      "course name": "Native American Art",
+      "similarTo": [
+        "CalPoly_ART 318",
+        "CalPoly_ART 310",
+        "CalPoly_ART 494",
+        "CalPoly_ART 495"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "For the general education student who wants to explore the world of art and visual culture. A wide range of multicultural, historical, and contemporary art works, art media, art history, art ideas, and art practices are presented through illustrated lectures, discussions, field trips, guest lectures, studio visits, and beginning-level art projects.",
+      "id": "CSUS_ART 7",
+      "course name": "Introduction to Art and Visual Culture"
+    },
+    {
+      "units": "3 Units",
+      "term": " fee course. ",
+      "description": "Introduction to various techniques of and approaches to drawing, using still lifes, landscapes, and figures. ",
+      "id": "CSUS_ART 20A",
+      "course name": "Beginning Drawing"
+    },
+    {
+      "term": " fee course.  ",
+      "description": ", with emphasis on surveying materials and concepts pertinent to contemporary and historical drawing. ",
+      "course name": "Intermediate Drawing",
+      "units": "3 Units",
+      "id": "CSUS_ART 20B",
+      "prerequisite": [
+        "ART 20A",
+        "ART 20A"
+      ],
+      "similarTo": [
+        "CalPoly_ART 201"
+      ]
+    },
+    {
+      "term": " May be taken twice for credit. Fee course.  ",
+      "description": "Introduction to the methods and problems of painting in oil or acrylic medium. ",
+      "course name": "Beginning Painting",
+      "units": "3 Units",
+      "id": "CSUS_ART 22",
+      "prerequisite": [
+        "ART 20A"
+      ],
+      "similarTo": [
+        "CalPoly_ART 209"
+      ]
+    },
+    {
+      "term": " May be taken twice for credit. Fee course.  ",
+      "description": "Introduction to both transparent and opaque watercolor. ",
+      "course name": "Beginning Watercolor",
+      "units": "3 Units",
+      "id": "CSUS_ART 24",
+      "prerequisite": [
+        "ART 20A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Investigation of the interactions of color based on the laws of perception, color composition, space, and design. An empirical study of the phenomena of color as developed by Josef Albers and Johannes Itten, and the use of color as a visual experience with acrylic paints.",
+      "id": "CSUS_ART 27",
+      "course name": "Beginning Color"
+    },
+    {
+      "term": " Fee course. This course will carry a fee of $75 to cover ink, plates, and other supplies.  ",
+      "description": "Introduction to printmaking processes, their history, and their contemporary applications. Students will learn a combination of basic relief, intaglio, lithography, monotype, and/or screen print techniques, along with their historical and contemporary context. ",
+      "course name": "Beginning Printmaking",
+      "units": "3 Units",
+      "id": "CSUS_ART 40",
+      "prerequisite": [
+        "ART 20A",
+        "ART 60"
+      ],
+      "similarTo": [
+        "CalPoly_ART 209"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to intaglio techniques, including etching, drypoint, and aquatint. Fee course.",
+      "id": "CSUS_ART 40B",
+      "course name": "Basic Printmaking: Etching"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to wood and linoleum cutting and printing.  Fee course.",
+      "id": "CSUS_ART 40D",
+      "course name": "Basic Printmaking: Relief"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to silkscreen processes and printing. Includes the construction of the equipment necessary to print direct drawing materials, and photo-established imagery.  Fee course.",
+      "id": "CSUS_ART 40E",
+      "course name": "Basic Printmaking: Silkscreen"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be taken twice for credit. ",
+      "description": "Projects in basic techniques and approaches to the potter's wheel.  Fee course. ",
+      "id": "CSUS_ART 50",
+      "course name": "Beginning Ceramics",
+      "similarTo": [
+        "CalPoly_ART 494",
+        "CalPoly_ART 495"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be taken twice for credit. ",
+      "description": "Basic techniques and approaches to pottery through practice in hand-building methods, including coil, slab, pinch, and combinations thereof.  Fee course. ",
+      "id": "CSUS_ART 53",
+      "course name": "Beginning Hand-Built Ceramics"
+    },
+    {
+      "units": "3 Units",
+      "term": " Recommended for freshman or sophomore years. ",
+      "description": "Structured exploration of principles used to organize two-dimensional images. Basic art elements and their properties are explored in a series of progressive projects. ",
+      "id": "CSUS_ART 60",
+      "course name": "Two-Dimensional Composition"
+    },
+    {
+      "units": "3 Units",
+      "term": " Recommended for freshman or sophomore years. ",
+      "description": "Foundation in three-dimensional design primarily concerned with the visual dialogue between form and space. A heightened visual sensitivity for three-dimensional composition is a major objective of every project. Line, plane, and volume are utilized separately and in concert to construct three-dimensional forms. A variety of materials are employed in the activation of form and space: wire, cardboard, clay, wood, and plaster.  Fee course. ",
+      "id": "CSUS_ART 70",
+      "course name": "Form, Space Vision"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to techniques and tools used in the design and fabrication of jewelry, such as lost wax casting, stone setting, and finishing processes. Emphasis is on compositional arrangement and finish.  Fee course.",
+      "id": "CSUS_ART 74",
+      "course name": "Beginning Jewelry"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to techniques, tools, and methods used in fabrication of ferrous and non-ferrous metal, such as piercing, riveting, soldering, forging, and finishing processes. Emphasis is on composition and imagery.  Fee course.",
+      "id": "CSUS_ART 75",
+      "course name": "Beginning Metalsmithing"
+    },
+    {
+      "units": "3 Units",
+      "term": " Sophomore status and above recommended. ",
+      "description": "Develops students' awareness of traditional and contemporary techniques used as the basis for fine and applied art. Devoted to materials and their methods of application, with most materials introduced via their traditional antecedents (for example, hide glue before modern epoxies). May be team taught. Lecture one hour; laboratory four hours.  Fee course. ",
+      "id": "CSUS_ART 80",
+      "course name": "Materials Methods"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Includes work with the various forms of hand-built sculpture in both low- and high-fire clay. Glazes are used sparingly to stress forms and their relationships.  Fee course.",
+      "id": "CSUS_ART 86",
+      "course name": "Clay Sculpture"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to traditional and non-traditional processes of sculpture and three-dimensional forms in space. Students can expect to use the following materials: cardboard, clay, metals, plaster, plastics, wire and wood to explore the making of three-dimensional imagery. Investigations will include the formulation of ideas relative to sculptural problem solving while discovering historical and contemporary examples of sculpture. Fee course.",
+      "id": "CSUS_ART 88",
+      "course name": "Beginning Sculpture",
+      "similarTo": [
+        "CalPoly_ART 148"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Explores the creative potential of imaging software used by visual artists.  Familiarity with software, hardware and output devices will be established.  The creation of digital art will be considered within the framework of current ideas in art and culture.  No previous computer experience is necessary.  Fee course.",
+      "id": "CSUS_ART 97",
+      "course name": "Beginning Electronic Art"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Survey of 19th and 20th century American Indian art. Emphasis is on the student's involvement with Indian art and includes discussion of Indian philosophy and art techniques.",
+      "id": "CSUS_ART 100",
+      "course name": "Origins of American Indian Art"
+    },
+    {
+      "term": ".",
+      "description": "Introduces students to the history of photography, from inception to Mid-20th Century. Practices of photographers and artists, working with photographic technologies, will be discussed. The course examines photographic vision and the impact of the medium through lectures and readings by art historians and photographers. ",
+      "course name": "Photography, Inception to Mid-Century",
+      "units": "3 Units",
+      "id": "CSUS_ART 101",
+      "prerequisite": [
+        "PHOT 101"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "A thematic exploration of world art and visual culture throughout human history. Throughout this course, students will be able to draw connections between works of art created in various time periods and from a diverse variety of cultural contexts. ",
+      "course name": "Themes in World Art and Visual Culture.",
+      "units": "3 Units",
+      "id": "CSUS_ART 102",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109M",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Architecture, crafts, and sculpture in the ancient Mediterranean world from ca. 700 BCE to ca. 500 CE. ",
+      "course name": "Art of the Ancient Mediterranean",
+      "units": "3 Units",
+      "id": "CSUS_ART 103",
+      "prerequisite": [
+        "ART 1A"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Architecture, crafts, painting, and sculpture of medieval Western Europe. ",
+      "course name": "Medieval Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 105",
+      "prerequisite": [
+        "ART 1A"
+      ]
+    },
+    {
+      "term": "Fall only \u2013 even years",
+      "description": "Architecture, painting, graphic arts, sculpture, and crafts principally of the 15th and 16th centuries. Emphasis is on the art of Europe in the historical context of an emerging global consciousness. ",
+      "course name": "Renaissance Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 106",
+      "prerequisite": [
+        "ART 1A",
+        "ART 1B"
+      ],
+      "similarTo": [
+        "CalPoly_ART 371"
+      ]
+    },
+    {
+      "term": "Spring only \u2013 odd years",
+      "description": "European architecture, painting, and sculpture of the 17th and 18th centuries. ",
+      "course name": "Baroque and Rococo Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 107",
+      "prerequisite": [
+        "ART 1B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "European architecture, painting, and sculpture of the 19th century. ",
+      "course name": "19th Century Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 108",
+      "prerequisite": [
+        "ART 1C"
+      ],
+      "similarTo": [
+        "CalPoly_ART 315"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Presented as the cultural episode that began with the emergence of the avant-garde in mid-nineteenth century Paris and ended in the middle of the twentieth century with WW II and the beginning of the postmodern era: from Realism, the birth of photography, and Impressionism through the high modernist movements associated with the international School of Paris, including Fauvism, Cubism, Constructivism, Dada, and Surrealism.  It concludes with post-WW II expressions, including Abstract Expressionism. ",
+      "course name": "Modern Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 109",
+      "prerequisite": [
+        "ART 1C"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Art of the Americas, particularly the architecture, crafts, painting, and sculpture of the U.S. ",
+      "course name": "American Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 110",
+      "prerequisite": [
+        "ART 1B",
+        "ART 1C"
+      ],
+      "similarTo": [
+        "CalPoly_ART 489",
+        "CalPoly_ART 317",
+        "CalPoly_ART 318",
+        "CalPoly_ART 310",
+        "CalPoly_ART 211"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Provides an overview of Latin American and Latino art from the independence movements of the 1820s to the present. After an introductory survey of pre-Columbian and Spanish colonial art, the art of Mexico, Central and South America, the Caribbean and the U.S. is studied within the contexts of contemporaneous cultural, intellectual, political and social history. The diverse visual cultures of Latin American and Latino art are thematically unified by an examination of common concerns and motivations. ",
+      "course name": "Latin American and Latino Art History.",
+      "units": "3 Units",
+      "id": "CSUS_ART 111",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": ".  ",
+      "description": "Beginning with international Pop art and Minimalism in the 1960s, surveys the history of contemporary art from the end of avant-garde modernism to the postmodernism and globalism of today.  Lectures, discussions, readings and assignments offer insights into the contexts, attitudes, and ideas behind current art and visual culture. ",
+      "course name": "Contemporary Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 112",
+      "prerequisite": [
+        "ART 1C",
+        "ART 109",
+        "ART 212"
+      ]
+    },
+    {
+      "term": "Spring only \u2013 odd years",
+      "description": "Survey and investigation of selected myths from Asian cultures and traditions. ",
+      "course name": "Asian Art and Mythology",
+      "units": "3 Units",
+      "id": "CSUS_ART 113B",
+      "prerequisite": [
+        "ART 3A"
+      ],
+      "similarTo": [
+        "CalPoly_ART 318"
+      ]
+    },
+    {
+      "term": " Course may be taken twice for credit, if the topic is not the same.  ",
+      "description": "Seminar on topics in early modern art history. ",
+      "course name": "Topics in Early Modern Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 114",
+      "prerequisite": [
+        "ART 1A",
+        "ART 1B",
+        "ENGL 109M",
+        "ENGL 109M",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Seminar on topics in Asian art. ",
+      "course name": "Topics in Asian Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 115",
+      "prerequisite": [
+        "ART 3A",
+        "ART 117A",
+        "ART 117B",
+        "ART 113B",
+        "ENGL 109M"
+      ],
+      "similarTo": [
+        "CalPoly_ART 317",
+        "CalPoly_ART 318"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Seminar on topics in modern and contemporary art history. ",
+      "course name": "Topics in Modern and Contemporary Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 116",
+      "prerequisite": [
+        "ART 1C"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Provides a broad overview of the architectural remains and visual arts of India and Southeast Asia from prehistory to the present.  Consideration will be given to the art styles, iconography, history, geography, ethnic populations, languages, and religions (i.e., Buddhism, Hinduism, Jainism, and Islam) of each region. ",
+      "course name": "Art of India and Southeast Asia",
+      "units": "3 Units",
+      "id": "CSUS_ART 117A",
+      "prerequisite": [
+        "ART 3A"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Provides a broad overview of the architectural remains and visual arts of China and Japan from prehistory to the present.  Consideration will be given to the art styles, iconography, history, geography, ethnic populations, languages, and religions (i.e., Buddhism, Taoism, and Shintoism) of each region. ",
+      "course name": "Art of China and Japan",
+      "units": "3 Units",
+      "id": "CSUS_ART 117B",
+      "prerequisite": [
+        "ART 3A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only \u2013 even years",
+      "description": "Introduces students to the art and architecture of Korea from the pre-historic through contemporary periods. The styles, subjects, and significance of the art of Korea will be presented in a broad context including the history, geography, ethnic populations, languages, and religions of Korea (i.e., Buddhism, Daoism, Confucianism, and Christianity).",
+      "id": "CSUS_ART 117C",
+      "course name": "Art of Korea"
+    },
+    {
+      "term": "Not offered",
+      "description": "A survey of modern architecture which covers the architectural theories and principles underlying certain significant structures.  Special consideration is given to an analysis of the works of 20th century pioneers and their followers, such as Wright, Gropius, Le Corbusier, Van der Rohe, Aalto, and Johnson, among others, and to certain movements, such as the International Style, Brutalism, and Formalism. ",
+      "course name": "Modern Architecture",
+      "units": "3 Units",
+      "id": "CSUS_ART 118A",
+      "prerequisite": [
+        "ART 1C"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Survey of the history of California architecture and its impact on the urban environment from Native Americans to the 20th century. Particular attention will be given to architecture as a symbol or statement of social, economic, and political empowerment. ",
+      "course name": "California Architecture and Urban History",
+      "units": "3 Units",
+      "id": "CSUS_ART 118B",
+      "prerequisite": [
+        "HIST 184"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair.  ",
+      "description": "Open to upper division art majors or minors only who have completed 9 units in a specialized area. ",
+      "id": "CSUS_ART 119",
+      "course name": "Directed Research in Art History"
+    },
+    {
+      "term": " May be taken twice for credit.  ",
+      "description": "Continuing investigation of drawing. Emphasis is on the development of individual style. ",
+      "course name": "Advanced Drawing",
+      "units": "3 Units",
+      "id": "CSUS_ART 120",
+      "prerequisite": [
+        "ART 20B"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Junior-level studio art course designed to prepare students for the senior year of the BFA degree. Course builds dialog among an interdisciplinary cohort of BFA students while engaging them with contemporary professional practices in the arts. Emphasis placed on students' ability to communicate about their work through critiques with faculty, peers, and visiting artists, preparation of professional documents and presentations. Fee course. Pre-requisite: Completion of a minimum of 3 units upper division studio coursework, second semester Junior standing with 75 units minimum.",
+      "id": "CSUS_ART 121",
+      "course name": "BFA Junior Studio"
+    },
+    {
+      "term": " May be taken twice for credit.  ",
+      "description": "Continuing investigation of the technical and conceptual issues of painting. ",
+      "course name": "Intermediate Painting",
+      "units": "3 Units",
+      "id": "CSUS_ART 122A",
+      "prerequisite": [
+        "ART 22"
+      ],
+      "similarTo": [
+        "CalPoly_ART 309"
+      ]
+    },
+    {
+      "term": " May be repeated four times for credit.  ",
+      "description": "Continuing investigation of the technical and conceptual issues of painting, with an emphasis on intensive individual exploration. ",
+      "course name": "Advanced Painting",
+      "units": "3 Units",
+      "id": "CSUS_ART 122B",
+      "prerequisite": [
+        "ART 122A",
+        "ART 124A",
+        "ART 125A",
+        "ART 126"
+      ]
+    },
+    {
+      "term": " May be taken for credit three times.  ",
+      "description": "Concentrates on the development of drawing and visual skills with emphasis on the human figure. Strong emphasis is placed on anatomical knowledge of the body and its expression through drawing techniques. The effects of volume and movement in space as well as compositional possibilities with the figure are explored. Slides are used to inform students of the drawing techniques achieved in historic and contemporary images.  Fee course. ",
+      "course name": "Figure Drawing",
+      "units": "3 Units",
+      "id": "CSUS_ART 123",
+      "prerequisite": [
+        "ART 20A"
+      ],
+      "similarTo": [
+        "CalPoly_ART 302"
+      ]
+    },
+    {
+      "term": " May be taken twice for credit.  ",
+      "description": "Continuing investigation of the technical and conceptual issues of painting, using transparent water media. ",
+      "course name": "Intermediate Watercolor",
+      "units": "3 Units",
+      "id": "CSUS_ART 124A",
+      "prerequisite": [
+        "ART 24"
+      ]
+    },
+    {
+      "term": " May be taken four times for credit.  ",
+      "description": "Continuing investigation of the  techniques and conceptual issues of painting using transparent water media, with emphasis on intensive individual exploration. ",
+      "course name": "Advanced Watercolor",
+      "units": "3 Units",
+      "id": "CSUS_ART 124B",
+      "prerequisite": [
+        "ART 124A"
+      ]
+    },
+    {
+      "term": " May be taken for credit twice.  Fee course.  ",
+      "description": "Painting from professional models.   ",
+      "course name": "Life Painting",
+      "units": "3 Units",
+      "id": "CSUS_ART 125A",
+      "prerequisite": [
+        "ART 20A"
+      ]
+    },
+    {
+      "term": " May be taken twice for credit.  ",
+      "description": "Drawing and painting from professional models.  Fee course. ",
+      "course name": "Life Studio",
+      "units": "3 Units",
+      "id": "CSUS_ART 125B",
+      "prerequisite": [
+        "ART 20A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Further development of painting and drawing skills with emphasis on direct observation and use of color to make form. Class will meet at specific landscape sites to work, with primary focus on painting. In addition, work will be developed in the classroom based on prior field study. Critiques will examine how one situation is variously interpreted. ",
+      "course name": "Painting and Drawing in the Field",
+      "units": "3 Units",
+      "id": "CSUS_ART 126",
+      "prerequisite": [
+        "ART 22",
+        "ART 24"
+      ]
+    },
+    {
+      "term": " May be taken twice for credit.  Fee Course ",
+      "description": "Use of found and readily available materials to make 2-dimensional collage and 3-dimensional assemblage. Most projects are conceptual, a few purely visual, and take from one to three class periods, including critique, and class discussions. ",
+      "course name": "Collage and Assemblage",
+      "units": "3 Units",
+      "id": "CSUS_ART 127",
+      "prerequisite": [
+        "ART 20A",
+        "ART 22",
+        "ART 70",
+        "ART 88"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Study of the thought processes and preparations for presenting one's artwork in the marketplace. An overview of what it takes to begin showing and selling artworks, including the skills and procedures of presenting artwork to galleries. A study of contracts, loan agreements, invoicing, commissions, model releases, taxes, pricing of work, resumes, slide preparation/presentation, publicity skills, and record keeping. Lecture, field trips to galleries and museums.",
+      "id": "CSUS_ART 128",
+      "course name": "Art and the Artist in the Marketplace"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair.  ",
+      "description": "Open to upper division art majors or minors only who have completed 9 units in a specialized area. ",
+      "id": "CSUS_ART 129",
+      "course name": "Painting/Drawing Studio"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Overview of national and international theories in the fields of visual art and education through historical and contemporary literature with particular attention to strategies for engaging student populations in the topics. ",
+      "id": "CSUS_ART 130",
+      "course name": "Theories in Art Education"
+    },
+    {
+      "units": "3 Units",
+      "term": " Fee course.  ",
+      "description": "Intended for students who are preparing to become elementary school teachers in California, providing meaningful, thematic instruction suitable for grades 1-6. Students will explore several 21st century education approaches applicable to both elementary generalists and visual art specialists, including meaning making, visual culture, holistic integration, learner-directed, and standards-based. Students will explore and evaluate the Common Core State Standards and the California Visual and Performing Arts Standards. ",
+      "id": "CSUS_ART 133",
+      "course name": "Art Education for Children"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Students learn how to make connections and relationships between visual art and curriculum subjects such as ecology, history, anthropology, language arts, theatre and music.  Through studio activities and interdisciplinary themes, students will learn how to integrate the California Visual Art Content Standards. ",
+      "course name": "Interdisciplinary Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 134",
+      "prerequisite": [
+        "ART 20A"
+      ],
+      "similarTo": [
+        "CalPoly_ART 111",
+        "CalPoly_ART 353"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Exploration of visual art and education theories, studio practices, curriculum development, and teaching strategies for art at the secondary school level. Students will explore and evaluate the National Core Arts Standards. ",
+      "course name": "Overview of Secondary Art Education",
+      "units": "3 Units",
+      "id": "CSUS_ART 135",
+      "prerequisite": [
+        "ART 133"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Art is studied as a means of meeting the learning needs of atypical children, whose ages range from infancy through adolescence, and whose atypical characteristics consist of mental deficiencies, physical disabilities, emotional problems, or gifted abilities. Lectures, readings, and class discussions focus on the characteristics, and art curriculum goals of exceptional children, while studio activities provide experiences with art media. Lecture, laboratory.  Fee course.",
+      "id": "CSUS_ART 137",
+      "course name": "Art for Exceptional Children"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair.  ",
+      "description": "Open only to upper division art majors/minors who have successfully completed 9 units in a specialized area. ",
+      "id": "CSUS_ART 139",
+      "course name": "Directed Research in Art Education"
+    },
+    {
+      "term": " Fee course. This course will carry a fee of $75 to cover ink, plates, and other supplies. This course may be repeated for up to 6 units of credit.  ",
+      "description": "Intermediate-level study of printmaking processes, their history, and their contemporary applications. This course focuses on a single set of printmaking media each semester: Intaglio, Relief/Monotype, Lithography, or Screen Printing. Students will engage with the relationship between research, content, and process to develop a body of work through assigned and self-designed projects. ",
+      "course name": "Intermediate Printmaking",
+      "units": "3 Units",
+      "id": "CSUS_ART 140",
+      "prerequisite": [
+        "ART 40"
+      ],
+      "similarTo": [
+        "CalPoly_ART 309"
+      ]
+    },
+    {
+      "term": " May be taken for credit four times.  ",
+      "description": "Advanced work in silkscreen including photo-silkscreen. Emphasis is on exploration of color and imagery. ",
+      "course name": "Advanced Silkscreen",
+      "units": "3 Units",
+      "id": "CSUS_ART 141",
+      "prerequisite": [
+        "ART 40E"
+      ],
+      "similarTo": [
+        "CalPoly_ART 470",
+        "CalPoly_ART 448"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Techniques and processes to create 3D computer models and environments. Exercises, assignments and projects designed to build skill levels with 3D computer modeling tools. Demonstrations and workshops in the use of 3D computer modeling software. Critiques, discussion and presentations to develop students' conceptual grasp of 3D computer modeling and virtual reality environments. Example applications in art/new media and computer gaming. ",
+      "course name": "3D Computer Modeling",
+      "units": "3 Units",
+      "id": "CSUS_ART 142",
+      "prerequisite": [
+        "CSC 10",
+        "ART 97",
+        "CSC 126"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Creative skills and techniques for animating 3D computer-modeled objects/environments. Topics include animation techniques; keyframing and interpolation; deformation and morphing; path control; skeletal animation; model rigging and skinning; forward and inverse kinematics, constraints and IK solvers; particle systems; fluid, cloth, hair, and fur simulation; shape keys; and soft body animation. Emphasis on both skill development and creative application of modeling and animation techniques. Includes demos, in class and homework excercises, and self directed projects. ",
+      "course name": "3D Computer Animation",
+      "units": "3 Units",
+      "id": "CSUS_ART 143",
+      "prerequisite": [
+        "ART 142",
+        "CSC 126",
+        "CSC 127"
+      ]
+    },
+    {
+      "term": "  May be taken twice for credit.  ",
+      "description": "Through traditional and digital print media,  the course explores the convergence of digital imaging (vector and raster processes) and printmaking techniques (such as monoprint, lithography, etching and silkscreen). Vector graphics use geometry: points, lines and fills, creating crisp re-scaleable images. Raster graphics use a rectangular grid of pixels to create continuous-tone effects. By exploring these approaches and their transference to printmaking processes, students gain deeper understanding of print technology and a more tactile awareness of image making. Fee course. ",
+      "course name": "Digital Printmaking",
+      "units": "3 Units",
+      "id": "CSUS_ART 144",
+      "prerequisite": [
+        "ART 97"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Open to students with experience in upper division painting or photography, or lower division printmaking. May be taken twice for credit. Fee course. ",
+      "description": "Advanced exploration of printmaking media (etching, lithography, relief, and monoprinting techniques) within a historical framework. Students investigate the printmaking techniques of historically significant figures and apply them to their own imagery.   ",
+      "id": "CSUS_ART 145",
+      "course name": "Advanced Printmaking Studio"
+    },
+    {
+      "term": ".  Fee course ",
+      "description": "Introduces techniques and artistic perspectives on interactivity and computationally-generated visual composition for New Media Artists. Nonlinear, dynamic, and generative approaches to composition, animation, video, and data processing are covered. ",
+      "course name": "Creative Coding",
+      "units": "3 Units",
+      "id": "CSUS_ART 146",
+      "prerequisite": [
+        "ART 97",
+        "ART 143",
+        "ART 198"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "The creation and analysis of video artwork; including techniques of video production, post-production manipulation and critique, within the context of art and communication. The techniques and theory of producing and editing video will serve as a foundation for the pursuit of individual, creative projects. ",
+      "course name": "Video Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 147",
+      "prerequisite": [
+        "ART 97",
+        "COMS 27A",
+        "FILM 27A",
+        "COMS 27B",
+        "FILM 27B",
+        "COMS 157"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be taken twice for credit. ",
+      "description": "Provides a cultural situation for students who expect to work with the Mexican American community. Involves personal contact with persons in that community. Uses poetry, music, slides, and film to understand art as a non-verbal language. ",
+      "id": "CSUS_ART 148",
+      "course name": "Barrio Art for Ethnic Groups"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair.  ",
+      "description": "Open only to upper division art majors/minors who have completed 9 units in a specialized area. ",
+      "id": "CSUS_ART 149",
+      "course name": "Graphics/Printmaking Studio"
+    },
+    {
+      "term": " May be taken for credit four times.  ",
+      "description": "Advanced study of ceramic techniques leading toward the development of an individual creative expression.  Fee course. ",
+      "course name": "Advanced Ceramics",
+      "units": "3 Units",
+      "id": "CSUS_ART 150",
+      "prerequisite": [
+        "ART 50"
+      ],
+      "similarTo": [
+        "CalPoly_ART 325"
+      ]
+    },
+    {
+      "term": " May be taken for credit four times.  ",
+      "description": "Specialization in hand-built clay forms. Methods of working include coil, slab, pinch, and combinations of techniques which might include some wheel-thrown parts, decoration, and glazing of forms.  Fee course. ",
+      "course name": "Hand-Built Ceramic Techniques",
+      "units": "3 Units",
+      "id": "CSUS_ART 153",
+      "prerequisite": [
+        "ART 53"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair.  ",
+      "description": "Open to upper division art majors or minors only who have completed 9 units in a specialized area. ",
+      "id": "CSUS_ART 159",
+      "course name": "Ceramics Studio"
+    },
+    {
+      "term": ".",
+      "description": "The class visits specific sites followed by a group critique of the resulting photographic work. The course objective is to examine how one situation can be interpreted by many varied sensibilities, broadening the artist's visual vocabulary. Students are required to create visually unified portfolio that demonstrates a sense of place. ",
+      "course name": "Photography in the Field",
+      "units": "3 Units",
+      "id": "CSUS_ART 161",
+      "prerequisite": [
+        "PHOT 141",
+        "PHOT 161"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Studio course exploring alternative photographic processes that may include: printing-out paper, new cyanotype, argyrotype, and platinum-palladium. Slide discussions, individual and class critiques. ",
+      "course name": "Alternative Photographic Processes",
+      "units": "3 Units",
+      "id": "CSUS_ART 162",
+      "prerequisite": [
+        "PHOT 141",
+        "PHOT 162"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Intermediate course investigating the theory, history, and practice of pinhole photography.  Use of student-made pinhole cameras of varying focal lengths using black and white and color materials.  Emphasis on creative approach in both camera making and image formation, supported by intermediate-level photographic technique.  Individual final portfolios and group exhibition of cameras and prints at conclusion of course. ",
+      "course name": "Pinhole Photography",
+      "units": "3 Units",
+      "id": "CSUS_ART 163",
+      "prerequisite": [
+        "PHOT 40",
+        "PHOT 163"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair.  ",
+      "description": "Open to upper division art majors or minors only who have completed successfully 9 units in a specialized area. ",
+      "id": "CSUS_ART 169",
+      "course name": "Photography Studio"
+    },
+    {
+      "term": " May be taken twice for credit.  ",
+      "description": "Continued study of the techniques and tools used in metal fabrication, such as raising, tool making, chasing and repousse, and scoring/bending process. Emphasis is on development and individual style.  Fee course. ",
+      "course name": "Intermediate Jewelry",
+      "units": "3 Units",
+      "id": "CSUS_ART 174",
+      "prerequisite": [
+        "ART 74"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Continued exploration of techniques, tools, and methods used in fabrication of ferrous and non-ferrous metal such as cold fastening, repousage, forging, and finishing processes. Emphasis is on composition and imagery. Fee course. ",
+      "id": "CSUS_ART 175",
+      "course name": "Intermediate Metalsmithing"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Focus on the development of personal style in metal fabrication and casting techniques.  Students learn to build mechanical devices such as clasp systems that enhance the overall appearance of their work.  Research involving historical periods in metal work. ",
+      "course name": "Advanced Jewelry",
+      "units": "3 Units",
+      "id": "CSUS_ART 176",
+      "prerequisite": [
+        "ART 174"
+      ]
+    },
+    {
+      "term": " May be repeated as often as approved by advisor and Department chair.  ",
+      "description": "Open to upper division art majors or minors only who have completed 9 units in a specialized area. ",
+      "course name": "Small Metals Studio",
+      "units": "3 Units",
+      "id": "CSUS_ART 179",
+      "prerequisite": [
+        "ART 176"
+      ]
+    },
+    {
+      "term": " May be taken for credit four times.  ",
+      "description": "Work from live models in clay and plaster. Construction of armatures and waste mold demonstrated.  Fee course. ",
+      "course name": "Figure Sculpture",
+      "units": "3 Units",
+      "id": "CSUS_ART 180",
+      "prerequisite": [
+        "ART 20A"
+      ]
+    },
+    {
+      "term": " May be taken twice for credit.  Fee Course ",
+      "description": "Intermediate explorations with traditional and non-traditional processes of sculpture, three-dimensional form and spatial relationships. Students will expect to explore concept based learning through visual problem solving while accumulating in depth techniques and skills in a variety of sculpture materials.  Includes study of historical and contemporary examples of sculpture and other relevant forms of art. ",
+      "course name": "Intermediate Sculpture",
+      "units": "3 Units",
+      "id": "CSUS_ART 182",
+      "prerequisite": [
+        "ART 70",
+        "ART 88"
+      ],
+      "similarTo": [
+        "CalPoly_ART 348"
+      ]
+    },
+    {
+      "term": " May be taken twice for credit.  ",
+      "description": "Advanced explorations and study in sculpture, three-dimensional media and imagery and conceptual based art. Students can explore sculpture, advanced three-dimensional design, mixed media, installation art, site specificity, performance art, public art or other. Study will be both assignment based or self-directed. Fee course. ",
+      "course name": "Advanced Sculpture",
+      "units": "3 Units",
+      "id": "CSUS_ART 183",
+      "prerequisite": [
+        "ART 180",
+        "182"
+      ],
+      "similarTo": [
+        "CalPoly_ART 448"
+      ]
+    },
+    {
+      "term": " may be taken twice for credit.  ",
+      "description": "Explores the practice, theory and history of making installation and performance art.  Students will study contemporary artists of this genre while designing, modeling and creating installation projects.  Performances are not mandatory.  Students will exhibit their works in traditional campus galleries alternative spaces.  Emphasizes individual investigation and discovery while remaining open to collaborative projects that may cross disciplines.  Fee course. ",
+      "course name": "Installation and Performance Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 187",
+      "prerequisite": [
+        "ART 20A",
+        "ART 70",
+        "ART 88"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair.  ",
+      "description": "Open to upper division art majors or minors only who have completed 9 units in a specialized area.  Fee course. ",
+      "id": "CSUS_ART 189",
+      "course name": "Sculpture Studio"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Wide range of theory and criticism of film, photography, and painting in the 20th century is presented from which the student may cultivate a coherent critical awareness. The development of realism in Western art, the photographic image, narrative in film, montage, and the development of cinematography will be included with special attention given to the films of D.W. Griffith, Sergei Eisenstein, Jean Renoir, Alfred Hitchcock, and Orsen Welles.",
+      "id": "CSUS_ART 191",
+      "course name": "Film as an Art Form"
+    },
+    {
+      "term": " Must be taken twice. Cannot be taken twice in the same semester.  ",
+      "description": "Culminating studio art course designed to deepen experiences in diverse visual arts. Emphasis placed on independent studio practice with additional development in verbal and written skills in a variety of art disciplines. Participation in BA candidate exhibition required in the second enrolled semester for completion of the course. ",
+      "course name": "Senior Seminar in Studio Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 192A",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Focuses on the research, writing, and oral presentation of a 25-35 page thesis in the student's area  of interest.  Seminar readings, discussions, and weekly workshops support the thesis project and develop basic career skills.  Explores how to employ traditional and new research technologies and develops writing skills.  Career topics include how to locate appropriate jobs, professional schools, and graduate programs; how to write professional resumes, correspondence, including graduate school and grant applications. ",
+      "course name": "Senior Seminar in Art History",
+      "units": "3 Units",
+      "id": "CSUS_ART 192B",
+      "prerequisite": [
+        "HIST 100"
+      ],
+      "similarTo": [
+        "CalPoly_ART 316"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Relates current art education theories to teaching practices in elementary and secondary classrooms, and museum/gallery settings. Teaching practices in a classroom or gallery/museum setting will connect to curriculum materials developed. ",
+      "course name": "Senior Seminar in Art Education",
+      "units": "3 Units",
+      "id": "CSUS_ART 192C",
+      "prerequisite": [
+        "ART 130",
+        "ART 133",
+        "ART 134",
+        "ART 135"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be taken twice for credit. ",
+      "description": "Designed for direct participation of students in the management of an art gallery, including installation, publicity, and budgeting. ",
+      "id": "CSUS_ART 193",
+      "course name": "Art Gallery Management"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Under the mentorship of a faculty advisor, students develop a body of work to be exhibited in the BFA exhibition. Emphasis placed on engagement with research, content, and the process to produce professional quality work in preparation for graduate study and/or careers in the arts. ",
+      "id": "CSUS_ART 194",
+      "course name": "BFA Senior Project"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Directed observation and work experience with public agencies. Field work is offered for the purpose of giving students orientation in occupational specialties. Supervision is provided by both the instructional staff of the University and the cooperating agencies. Each student is required to maintain a record of activities and assignments, and to prepare periodic reports. The student must make arrangements with a faculty member for a work program prior to admittance to the course.",
+      "id": "CSUS_ART 195",
+      "course name": "Fieldwork"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Undergraduate seminar in art, to be scheduled as needed.",
+      "id": "CSUS_ART 196",
+      "course name": "Experimental Offerings in Art"
+    },
+    {
+      "units": "3 Units",
+      "description": "This course provides the foundation needed for professionally managing and displaying objects held in art collections. Through readings, small group discussions, field trips, guest lectures, and the directed experience of creating an exhibition of artworks from the Sacramento State Art Department collection, students learn the basics of curatorial studies and art collection management.  ",
+      "id": "CSUS_ART 196U",
+      "course name": "Introduction to Curatorial Studies"
+    },
+    {
+      "term": " Proficiency in MAC-OS recommended.  May be taken for credit three times.  ",
+      "description": "Explores the creative potential of digital imaging and multimedia art making techniques.  Teaching methods will include hands on demonstrations, lab workshops, creative projects, reading assignments, seminars, discussion and critiques.  The development of technical fluency will be stressed, and the creative potential of digital media within the framework of contemporary art, design and culture will be emphasized.  Fee course. ",
+      "course name": "Intermediate Electronic Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 197",
+      "prerequisite": [
+        "ART 97",
+        "PHOT 11"
+      ]
+    },
+    {
+      "term": " Proficiency in MAC-OS recommended.  May be taken for credit three times.  ",
+      "description": "Utilizes the creative potential of electronic media to create art projects, working within the conceptual framework of developments in contemporary culture using a range of available software programs.  An experimental and exploratory approach to the digital medium in concept, process and execution of work is encouraged.  Fee course. ",
+      "course name": "Advanced Electronic Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 198",
+      "prerequisite": [
+        "ART 197"
+      ],
+      "similarTo": [
+        "CalPoly_ART 489"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Departmental petition required. ",
+      "description": "Individual projects or directed reading. Open only to students who are competent to carry on individual work. ",
+      "id": "CSUS_ART 199",
+      "course name": "Special Problems",
+      "similarTo": [
+        "CalPoly_ART 200"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Required for students in art graduate program; Graduate Writing Intensive (GWI) course. ",
+      "description": "Seminar discussions of essential readings in Western aesthetic philosophy and contemporary art theory and criticism.  Stress is placed on the conceptualization of the student's own graduate production. ",
+      "id": "CSUS_ART 206",
+      "course name": "Art Theory and Criticism."
+    },
+    {
+      "term": " to satisfy graduate level criteria.  ",
+      "description": "Beginning with international Pop art and Minimalism in the 1960s, surveys the history of contemporary art from the end of avant-garde modernism to the postmodernism and globalism of today.  Lectures, discussions, readings and assignments, offer insights into the contexts, attitudes and ideas behind current art and visual culture. ",
+      "course name": "Contemporary Art",
+      "units": "3 Units",
+      "id": "CSUS_ART 212",
+      "prerequisite": [
+        "ART 109",
+        "ART 112",
+        "ART 212",
+        "ART 299"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair.  ",
+      "description": "Open to classified and unclassified art graduate students only. ",
+      "id": "CSUS_ART 219",
+      "course name": "Directed Research in Art History"
+    },
+    {
+      "term": " May be taken twice for credit.  ",
+      "description": "Special problems in painting and drawing. ",
+      "course name": "Advanced Problems in Painting and Drawing",
+      "units": "3 Units",
+      "id": "CSUS_ART 220",
+      "prerequisite": [
+        "ART 122B"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Required for students in the art studio graduate program, every semester until the final review has been passed. Only 6 units may be applied toward the degree program. Open only to classified graduate students. ",
+      "description": "Critique seminar taught by one or more instructors representing different creative experiences. ",
+      "id": "CSUS_ART 222",
+      "course name": "Studio Critique Seminar"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair; only 6 units may be applied toward the degree program.  ",
+      "description": "Open to classified and unclassified art graduate students only. ",
+      "id": "CSUS_ART 229",
+      "course name": "Painting/Drawing Studio"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair; only 6 units may be applied toward the degree program.  ",
+      "description": "Open to classified and unclassified art graduate students only. ",
+      "id": "CSUS_ART 239",
+      "course name": "Directed Research in Art Education"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair; only 6 units may be applied toward the degree program.  ",
+      "description": "Open to classified and unclassified art graduate students only. ",
+      "id": "CSUS_ART 249",
+      "course name": "Graphics/Printmaking Studio"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair; only 6 units may be applied toward the degree program.  ",
+      "description": "Open to classified and unclassified art graduate students only. ",
+      "id": "CSUS_ART 259",
+      "course name": "Ceramics Studio"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair; only 6 units may be applied toward the degree program.  ",
+      "description": "Open to classified and unclassified art graduate students only. ",
+      "id": "CSUS_ART 269",
+      "course name": "Photography Studio"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair; only 6 units may be applied toward the degree program.  ",
+      "description": "Open to classified and unclassified art graduate students only. ",
+      "id": "CSUS_ART 279",
+      "course name": "Crafts/Art Metal Studio"
+    },
+    {
+      "units": "3 Units",
+      "term": " may be taken twice for credit ",
+      "description": "Special problems in sculpture, mixed media, installation art, site specific art, performance art, public art or other. Students will engage in self-directed projects while participating in sculpture studio forum and critiques. ",
+      "id": "CSUS_ART 283",
+      "course name": "Graduate Sculpture"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated as often as approved by advisor and Department chair; only 6 units may be applied toward the degree program.  ",
+      "description": "Open to classified and unclassified graduate students only.  Fee course. ",
+      "id": "CSUS_ART 289",
+      "course name": "Sculpture Studio"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated twice for credit. ",
+      "description": "Students will work on self-directed new media projects with the supervision of the instructor. The work will focus on projects that are either entirely based on digital image and/or animation, or on works that also utilize other media or processes combined with digital image or animation, such as intermedia, mixed media and installation work. This course also includes reading assignments, critique and discussion.  ",
+      "id": "CSUS_ART 297",
+      "course name": "New"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be taken twice for credit. ",
+      "description": "Students will work on self-directed video and new media with the supervision of the instructor. The work will focus on projects that are either entirely based in new media and video, or on works that also utilize other media or processes combined with video and/or interactive processes, such as intermedia, mixed media and installation work. The course also includes reading assignments, critique and discussion. ",
+      "id": "CSUS_ART 298",
+      "course name": "New"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Only 6 units may be applied toward the degree program.  ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_ART 299",
+      "course name": "Special Problems",
+      "similarTo": [
+        "CalPoly_ART 200"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Art teaching methods and programs for public school grades K-12. Must be taken during Phase I or II of student teaching. ",
+      "id": "CSUS_ART 305",
+      "course name": "Art in the Public School"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Culminating exhibition of student work. ",
+      "id": "CSUS_ART 500",
+      "course name": "Culminating Experience",
+      "similarTo": [
+        "CalPoly_ART 494",
+        "CalPoly_ART 495"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "ART",
+    "subject": "Art"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Art",
+    "id": "CSUS"
+  }
+}

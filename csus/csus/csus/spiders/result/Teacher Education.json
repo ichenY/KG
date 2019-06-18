@@ -1,0 +1,472 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Research, practice, and issues related to decoding, spelling, and fluency instruction from preschool through adult with applications to classroom teaching.  Includes a practicum for assessing and tutoring students having difficulty in decoding. ", 
+      "id": "CSUS_EDTE 200", 
+      "course name": "Practicum in Decoding and Fluency: Assessment and Instruction"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Research, practice and issues related to vocabulary, background knowledge, and comprehension and study strategies from preschool through adult with applications for classroom teaching.  Topics include motivation, metacognition, and strategic reading.  Analysis of formal and informal assessment measures with a focus on utility, reliability, and validity.  In the practicum portion, teachers assess and tutor students with reading difficulties.", 
+      "id": "CSUS_EDTE 201", 
+      "course name": "Practicum in Comprehension: Assessment and Instruction"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Research and theory related to the nature of culture, first and second language acquisition, schooling and literacy development.  Implications of the research and theory for working with pre-K children through adults  in group contexts.", 
+      "id": "CSUS_EDTE 202", 
+      "course name": "Language and Literacy Development in Multicultural Settings"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Writing assessment and instruction in pre-K through 12 classrooms and other settings is the dominant focus.  Topics include research and theoretical models of composition, classroom-based instructional approaches to process writing instruction, writing assessment and writing strategies to improve reading comprehension and writing instruction in a social context.", 
+      "id": "CSUS_EDTE 203", 
+      "course name": "Teaching and Assessing Writing in the Pre-K through 12 Classroom"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "The major focus of the course is the investigation and understanding of the reading process, various theories that attempt to explain the process, and the implications of those theories for language and literacy development. These course emphases will be addressed through a seminar format comprised of a combination of lecture, group discussion and analysis, and student-led presentations. The literature review that will form part of the thesis or project will be a signature assignment that is a central part of this course.", 
+      "id": "CSUS_EDTE 205", 
+      "course name": "Psychology and Sociology of Literacy Instruction"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides field experiences for applying theoretical understandings about contemporary schooling policies, as well as a venue for expanding the role of leadership in literacy to meet the needs of the broader community. Also provides candidates with opportunities to incorporate understandings about literacy and the content of cultures to field actions related to their personal professional development.", 
+      "id": "CSUS_EDTE 206", 
+      "course name": "Leadership In Literacy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Evaluation and use of materials and techniques for assessing and teaching decoding, spelling, and comprehension across ages, languages, developmental levels, and diverse backgrounds. Examination of models of reading disability and of intervention programs for students and adults with varying degrees of disability.  Application through assessment, instruction, and compilation of a case study of a student or adult with reading and/or spelling difficulties. Permission of instructor required for those wishing to take the course as an elective.", 
+      "id": "CSUS_EDTE 207", 
+      "course name": "Advanced Practicum in Reading Difficulties: Assessment and Intervention"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyze state and national issues related to the use of juvenile literature in schools.  Evaluate  models and strategies for employing quality literature (fiction and non-fiction) effectively in the Pre-K through 12 multicultural classroom. Building upon research and genre overview, each participant will develop instructional materials and strategies such as booklists, storytelling, textsets, read-alouds, and web-based literature activities for students and support materials for parents.", 
+      "id": "CSUS_EDTE 209", 
+      "course name": "Literature for the Diverse Pre- K through 12  Classroom: Issues, Models and  Strategies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Focuses on classroom assessment, grounded in sound principles of measurement and evaluation of learning. Assessment is considered in the context of historical, social, political, legal, educational, and ethical trends, and concerns including reviews of socio-cultural diversity and individual differences as they relate to accurate appraisal of what learners know how to do.", 
+      "id": "CSUS_EDTE 214", 
+      "course name": "Classroom Assessment and School Accountability Issues"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_EDTE 219A", 
+      "course name": "Intro To Information Services"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_EDTE 219G", 
+      "course name": "Networks For School Lib Med Ct"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_EDTE 219K", 
+      "course name": "Eval & Sel Learn Res & Info Se"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_EDTE 219L", 
+      "course name": "Lit For Children/Lib Media Svc"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_EDTE 219M", 
+      "course name": "Mgmt School Library Media Cent"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_EDTE 219N", 
+      "course name": "Org Of Info & Learning Resourc"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_EDTE 219P", 
+      "course name": "Lib Media Ctr+Core Curriculum"
+    }, 
+    {
+      "units": "2 - 4 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_EDTE 219Z", 
+      "course name": "Field Study School Librariansh"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Research of mathematical instruction trends, problems of teaching math and successful mathematics programs.", 
+      "id": "CSUS_EDTE 220", 
+      "course name": "Seminar in Mathematics Education"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examining successful curricular materials and techniques for use with slow, average and rapid learners of mathematics, and programs directed at the non-college-bound population. Creating materials for exceptional as well as for average learners.", 
+      "id": "CSUS_EDTE 221", 
+      "course name": "Curriculum Development in Mathematics Education"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Investigation of issues and trends being faced by elementary and secondary teachers in California. An overall goal  is to develop a significant body of examples of successful mathematics teaching, designed to be useful with learners from all of California's diverse student population.", 
+      "id": "CSUS_EDTE 222", 
+      "course name": "Teaching Mathematics in the Twenty-First Century"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Introduces students to current theories surrounding the pedagogies and politics of adult literacies within a wide variety of contexts, including community colleges, prisons, and community projects. Incorporates information on technological literacies, information literacies, cultural literacies, and multiliteracies. In addition, students will be partnered with community literacy experts and required to complete formal observations of adult reading classrooms throughout the semester, fostering collaboration between the local community and the university. ", 
+      "course name": "Theoretical Issues in Adult Literacies", 
+      "units": "3 Units", 
+      "id": "CSUS_EDTE 225C", 
+      "prerequisite": [
+        "ENGL 225C"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Seminar focuses on analyzing various teaching strategies used in classrooms, K-12. Teaching strategies will be analyzed to identify teacher competencies and learning outcomes. Additional attention will be given to appropriate classroom management strategies.", 
+      "id": "CSUS_EDTE 226", 
+      "course name": "Seminar: Strategies for Teachers"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual and group study of current programs, issues, trends and research in elementary and secondary instruction and curricular areas.", 
+      "id": "CSUS_EDTE 227", 
+      "course name": "Seminar in Curriculum and Instruction, K-12"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Students will learn aspects of mathematical modeling used to uncover mathematics as used in non-school contexts, a basic premise to ethnomathematics is that the mathematics found in other traditions is strongly influenced by, indeed reflects, a given individual's cultural heritage and world view. Students examine alternative mathematical thought practices of other, mainly nonwestern cultures; consider how mathematical topics that include cultural connections to numbering and systems of organization, geometry and perceptions of time and space.", 
+      "id": "CSUS_EDTE 228", 
+      "course name": "Introduction to Ethnomathematics"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Practical introduction to the use and applications of computer-based technologies in the Kindergarten-twelfth grade classroom. Major topics include basic computer terminology and functions, educational software evaluation and integration into instruction, using telecommunication, multimedia authoring and issues relating to the impact of computers in a democratic society. No prior experience with computers required.", 
+      "id": "CSUS_EDTE 230", 
+      "course name": "Introduction to Computers in the Classroom"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines how application programs such as word processing, database management, spreadsheets and presentation tools can be used as part of the teaching, management and learning processes. Also includes instruction on the setup and management of telecommunications and classroom networks. ", 
+      "course name": "Educational Applications of Computers", 
+      "units": "3 Units", 
+      "id": "CSUS_EDTE 232", 
+      "prerequisite": [
+        "EDS 291A", 
+        "EDS 291B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the theoretical presuppositions underlying the use of educational technology to teach problem-solving, conditions under which problem-solving opportunities are likely to arise, computer programming as a problem-solving medium and the potential of software programs designed to teach problem-solving skills.  Includes Internet-based problem-solving and principles of distributed learning. ", 
+      "course name": "Teaching Problem-Solving with Educational Technology", 
+      "units": "3 Units", 
+      "id": "CSUS_EDTE 233", 
+      "prerequisite": [
+        "EDTE 232"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provides the student with an in-depth understanding of the principles and processes of analyzing curriculum for the purpose of integrating educational technology at the classroom, school and district levels. Students will analyze curricula, identify appropriate technology applications, and create plans for establishing, monitoring, and evaluating technology-based programs.  Special emphasis will be placed on professional development. ", 
+      "course name": "Curriculum and Staff Development with Educational Technology", 
+      "units": "3 Units", 
+      "id": "CSUS_EDTE 234", 
+      "prerequisite": [
+        "EDTE 232"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provides the student with an in-depth understanding of the principles of multimedia  and web-based design. Students will apply these principles to developing curriculum for the technology-infused classroom.  Intensive hands-on experience in the development of web and multimedia including video based on principles of human information processing and aesthetics. ", 
+      "course name": "Enhancing Curriculum with Multimedia and the Web", 
+      "units": "3 Units", 
+      "id": "CSUS_EDTE 235", 
+      "prerequisite": [
+        "EDTE 232"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Building upon the historical role of the position in society, the cultural influences that affect public and personal perception of teachers, the theoretical models of teaching, and research on teacher identity, participants will explore the continuum of a teacher's professional life (preservice, induction, professional growth, mentorship), teacher professionalism, and what teachers' professional lives look like in practice. Students will define their career stage and create a vision for the rest of their career in the field. ", 
+      "course name": "The Professional Lives of Teachers", 
+      "units": "4 Units", 
+      "id": "CSUS_EDTE 237", 
+      "prerequisite": [
+        "EDTE 226", 
+        "EDTE 251"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines contemporary issues in professional development for teachers. Students learn specific foundations and procedures for professional development that have well-documented effects on student achievement, e.g., professional learning communities. Students also analyze and design appropriate strategies for implementing and evaluating professional development for the contexts in which they are teaching as well as for a variety of other settings. ", 
+      "course name": "Professional Development of Teachers in Democratic Schools", 
+      "units": "4 Units", 
+      "id": "CSUS_EDTE 238", 
+      "prerequisite": [
+        "EDTE 237", 
+        "EDTE 239"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Beginning with a historical framework of reform, examines theories and models of school reform in the U.S. and international contexts. Students engage in researching and identifying how political and social forces impact the development of educational policy and reform initiatives. Using the lens of contemporary reform, students analyze recent school reform initiatives as well as the ideas and ideals of professional development within their own educational contexts.", 
+      "id": "CSUS_EDTE 239", 
+      "course name": "Schools and Schooling in a World of Policy and Practices"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Through action research, professional reading and guided discussions, students will explore key elements of the National Board Standards including engaging student learning, assessment, decision making in lesson design, and identifying essential \"big ideas\" in content areas. ", 
+      "id": "CSUS_EDTE 242", 
+      "course name": "Key Issues in National Board Certification"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Studies qualitative and quantitative research methods in the field of education.  Includes identification and formulation of research problems, research designs and presentation of reports representative of different research strategies.  ", 
+      "course name": "Education Research", 
+      "units": "3 Units", 
+      "id": "CSUS_EDTE 250", 
+      "prerequisite": [
+        "EDTE 251"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Studies qualitative and quantitative research methods in the field of education with special emphasis on educational technology. Includes identification and formulation of research problems, research designs and presentation of reports representative of different research strategies. ", 
+      "id": "CSUS_EDTE 250I", 
+      "course name": "Educational Research for IMET"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Advanced study of social and psychological issues which need to be considered in education relating to the client, the educator, the community and society.  Addresses implications of theories of learning, assessment, individual differences, cultural, historical, philosophical, and social/political influences. Includes an overview of research and an introduction to APA formatting. Must be taken first semester in EDTE uncohorted Masters' program.", 
+      "id": "CSUS_EDTE 251", 
+      "course name": "Education for a Democratic, Pluralistic Society"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Fee course.  ", 
+      "description": "Advanced study of social and psychological issues which need to be considered in education relating to the client, the educator, the community, and society, with a focus on the effects of educational technology advancements and influences. Addresses implications of theories of learning, assessment, individual differences, cultural, historical, philosophical, and social/political influences. ", 
+      "id": "CSUS_EDTE 251I", 
+      "course name": "Education in Democratic, Pluralistic Society for Educational Technology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Involves experiencing, appreciating and generating the arts.  Develops a creative, collaborative community for learning and teaching through the arts which will be sustained throughout the Master of Arts in Education (Curriculum and Instruction) and beyond. ", 
+      "id": "CSUS_EDTE 262", 
+      "course name": "Experiencing the Arts in Education"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination and analysis of methods, practices and materials prevalent in educational institutions, at all levels and their ultimate effect on the female both as an individual and as a member of society. Students will examine the limiting factors in their own sex-role socialization and the dangers of perpetuating them in their own teaching.", 
+      "id": "CSUS_EDTE 266", 
+      "course name": "Women And Education"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Brain-based teaching and learning practices are related directly to the functions of the limbic system; the frontal, parietal, temporal and occipital lobes; and the reticular activating system, brainstem and vestibular apparatus. Students will understand why, from a brain perspective, certain learning/teaching practices are successful/unsuccessful. ", 
+      "id": "CSUS_EDTE 267", 
+      "course name": "The Human Brain and Its Function for Effective Teaching and Learning"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines gender dynamics within schools analyzing theories of education in order to understand the role of gender in schools, past and present.  Using historical and philosophical lenses, female and male schooling experiences will be examined.  The historical experiences of women of color will be of particular interest.  We will also explore ideas and pedagogies associated with gay and lesbian theory,  masculinity studies, and anti-oppressive education.", 
+      "id": "CSUS_EDTE 268", 
+      "course name": "Gender Perspectives on Schooling, Past-Present"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Fee course.  ", 
+      "description": "Introduces students to a variety of online instructional strategies, skills, and instructional design and their theories and practices. Will include an introduction to distributed education, including synchronous and asynchronous modes of instruction, and their applications to instruction. ", 
+      "id": "CSUS_EDTE 280A", 
+      "course name": "Fundamentals of Online Pedagogy & Instructional Design"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Fee course.  ", 
+      "description": "This course provides students with experiences to develop the knowledge, skills, and dispositions essential in the design of instruction that involves uses of technology for learning. Students will explore and apply instructional design processes and theories for analysis, planning, and evaluation of learning activities. Students will work together to develop learning activities that utilize multimedia technologies. Learning activities that students work to develop may include webinars, parts of a course or workshop, online learning, or others with the instructor's approval. ", 
+      "id": "CSUS_EDTE 280B", 
+      "course name": "Instructional Design"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Fee course.  ", 
+      "description": "Seamlessly blends basic technological applications with established areas of the curriculum. Students will , create and use an array of educational technology applications, including multimedia and interactive tools, as integrated facets of well-established teaching and design strategies. Learning and applying strategies to new and unique problem-solving including online learning and instructional situations is expected. In the process, students evaluate and synthesize theories of learning best suited to designing and developing instruction. ", 
+      "id": "CSUS_EDTE 281", 
+      "course name": "Tools and the Curriculum"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Develops techniques for presenting and teaching thinking skills and problem solving in schools.  Students research social and cultural problems as well as local and curricular problems and apply teaching strategies that develop higher-order thinking processes.  Inquiry and problem-based strategies are used and integrated with technological applications.  Students design web-based units that focus on logic as well as creative thinking that lead toward a solution to curricular or social and cultural problems. ", 
+      "id": "CSUS_EDTE 282", 
+      "course name": "Strategies for Application and Presentation"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Fee course.  ", 
+      "description": "Focuses on the need for staff development and on effective instructional practices. Explores the necessary elements that facilitate integrated technology to staff members. Students practice a variety of delivery methods for staff development that include multimedia, online resources, and hands-on integrated curricular activities that teachers or instructional leaders or designers can use within the organizational culture. ", 
+      "id": "CSUS_EDTE 283", 
+      "course name": "Staff Development and Presentation Applications"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Students will focus on integrating curriculum, equity, and/or staff development strands into an overall educational technology implementation strategy.  Complex problem-solving techniques, research, distributed learning, methodology, and evaluation will be emphasized. ", 
+      "id": "CSUS_EDTE 284", 
+      "course name": "Problem Solving and Project Development"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Students will learn to understand, construct, and manage communications-based technologies in educational settings.  Focuses on modern communications technology, terminology, educational practices, and instructional technology strategies.  Emphasis will be placed on mentoring, management, and leadership. ", 
+      "id": "CSUS_EDTE 285", 
+      "course name": "Technology and Modern Practices"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Fee course.  ", 
+      "description": "Development and innovations in modern technology, especially as related to instructional design, teaching and learning. Composition will vary from semester to semester and over time. However, it will consistently utilize cutting-edge technology to support teaching, learning, and instructional design. ", 
+      "id": "CSUS_EDTE 286", 
+      "course name": "Special Topics in Educational Technology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Seminar course will focus on topics/elements/expectations to be included in the culminating experience: abstract writing, development of organizational schemes for the review of literature; format requirements; thesis/project planning; range and breadth of evidence for a comprehensive review; integrating the review with thesis/project; writing style and quality; revisions and critical feedback. Successful completion of the course requires the completion of Chapters 1 and 2 of the thesis/project and the beginning of Chapter 3. Graded: Credit/ No Credit ", 
+      "id": "CSUS_EDTE 290", 
+      "course name": "Seminar: Preparation of Master's Thesis/Project"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "This is the first course of three with the purpose of providing participants with an introduction to Response to Intervention/Instruction (RT12). Participants will gain knowledge of the state laws behind RT12, current implementation models, critical components and best practices in implementing a RT12 system. This course will lay a solid foundation of knowledge for the proceeding two courses of the RT12 certificate program. ", 
+      "id": "CSUS_EDTE 296O", 
+      "course name": "Introduction to Response To Intervention/Instruction (RT12)"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Response to Instruction/Intervention (RT12) is a proactive approach to student learning that uses data to determine student need, monitor student progress, and make decisions about instructional changes to maximize student achievement and to address behavioral concerns. This course will examine the various methods of data collection, data analysis and research-based interventions found in an RT12 framework. Participants will be involved in real world Case Studies to apply RT12 practices at individual, school, and district levels. ", 
+      "id": "CSUS_EDTE 296P", 
+      "course name": "Response To Intervention/Instruction (RT12): Assessment and Intervention"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". It is a practicum course that will help students transfer new learning's from the previous two courses into a RTI plan of action for the classroom, site, or district. This course will help students further explore and research systems and practices in place at their site or district to help develop a RTI plan. ", 
+      "course name": "Response to Intervention: Practical Application", 
+      "units": "3 Units", 
+      "id": "CSUS_EDTE 296Q", 
+      "prerequisite": [
+        "EDTE 296O", 
+        "EDTE 296P", 
+        "EDTE 296O", 
+        "EDTE 296P"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Fee course.  ", 
+      "description": "In the final course in the Educational Technology Master's program, students review, reflect, and discuss personal and professional evolution of program experiences, and create and present a final showcase. Students will select assignments from their courses to create a media-rich final ePortfolio that will be evaluated by both peers and faculty. Additionally students will discuss and present selected elements, of their Master's project developments with their cohorted peers, and identify methods to apply in disseminating results related to their Culminating Experience. ", 
+      "id": "CSUS_EDTE 298", 
+      "course name": "Capstone"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects at graduate level especially for students capable of independent study. Admission by written approval of the instructor with whom the student will be working and the Department Chair.", 
+      "id": "CSUS_EDTE 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_EDTE 329D", 
+      "course name": "Helping Writing Happen"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Cross listed: FORL 385", 
+      "description": "Problems of teaching foreign language; evaluation of methods in the light of objectives; discussion of techniques and source materials. Should be taken prior to or with student teaching. Discussion, participation in such classroom activities as panel discussions, presentations and demonstrations. ", 
+      "id": "CSUS_EDTE 385", 
+      "course name": "Foreign Languages in the Secondary School"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis or  project approved for the Master's degree. ", 
+      "id": "CSUS_EDTE 503", 
+      "course name": "Culminating Experience:  Language and Literacy"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis or project approved for the Master's degree. ", 
+      "course name": "Culminating Experience:  Curriculum and Instruction", 
+      "units": "3 Units", 
+      "id": "CSUS_EDTE 505", 
+      "prerequisite": [
+        "EDTE 250", 
+        "EDTE 290"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis or project approved for the Master's degree. ", 
+      "course name": "Culminating Experience:  Behavioral Sciences - Women's Studies", 
+      "units": "3 Units", 
+      "id": "CSUS_EDTE 506", 
+      "prerequisite": [
+        "EDTE 250", 
+        "EDTE 290"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis or project approved  for the Master's degree. ", 
+      "id": "CSUS_EDTE 507", 
+      "course name": "Culminating Experience:  Educational Technology"
+    }
+  ], 
+  "subjectOf": {
+    "id": "EDTE", 
+    "subject": "Teacher Education"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Teacher Education", 
+    "id": "CSUS"
+  }
+}

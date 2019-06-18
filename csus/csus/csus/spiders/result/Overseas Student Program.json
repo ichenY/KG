@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "units": "1 - 10 Units", 
+      "term": "Fall, Spring", 
+      "description": "Enrollment in an online class at a CSU campus through CourseMatch. Any questions or enrollment changes (drop, withdrawal, change of grade basis, etc.) must be done through the CSU campus hosting the class. Details about the class will be recorded on your Home campus record after completion.", 
+      "id": "CSUS_REG 220", 
+      "course name": "Enrolled in online class at a participating CSU Campus through CourseMatch"
+    }
+  ], 
+  "subjectOf": {
+    "id": "REG", 
+    "subject": "Overseas Student Program"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Overseas Student Program", 
+    "id": "CSUS"
+  }
+}

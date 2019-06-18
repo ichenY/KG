@@ -1,0 +1,1062 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": " Majors must complete with a grade of \"C-\" or better. ", 
+      "description": "Practice in argumentation, critical evaluation, evidence, and reasoning. Basic principles are applied in a variety of formal and informal advocacy situations. Concepts of argument structure and context are discussed and applied. ", 
+      "id": "CSUS_COMS 2", 
+      "course name": "Argumentation"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Theory and technique of public speaking. Emphasis on organizing, supporting, and clearly stating ideas. Practice in informative and persuasive speaking.", 
+      "id": "CSUS_COMS 4", 
+      "course name": "Introduction to Public Speaking"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides both theoretical and practical training in the art of public discourse. Students learn both to recognize and to demonstrate the strategic processes of organizing and delivering speeches, especially within the context of global citizenship issues. Students are also introduced to the basic idea of forming reasonable challenges to speech in the public square. ", 
+      "id": "CSUS_COMS 4H", 
+      "course name": "Honors Public Speaking"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Not recommended for COMS majors in General, Organizational or Public Relations concentrations. ", 
+      "description": "Basic skills and introductory concepts necessary for effective communication in a variety of settings. Special emphasis on practical experiences within groups, facilitation of interpersonal relationships, and methods of conflict resolution. ", 
+      "id": "CSUS_COMS 5", 
+      "course name": "The Communication Experience"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Majors must complete with a grade \"C-\" or better. ", 
+      "description": "Basic skills and introductory concepts for examining and altering interpersonal communication. In addition to lectures and discussions, students engage in structured interpersonal exercises and simulations to practice interpersonal communication skills such as listening, paraphrasing, describing feelings and intentions, and giving and receiving criticism. ", 
+      "id": "CSUS_COMS 8", 
+      "course name": "Interpersonal Communication Skills"
+    }, 
+    {
+      "term": ".", 
+      "description": "Introduction to the theory and practice of audio production in radio, television, film and recording applications. ", 
+      "course name": "Audio Production", 
+      "units": "2 Units", 
+      "id": "CSUS_COMS 20A", 
+      "prerequisite": [
+        "COMS 20B", 
+        "FILM 20A"
+      ]
+    }, 
+    {
+      "term": ".", 
+      "description": "Experience in audio console operation, microphone selection and use, and audio recording in radio, television, film and recording applications. ", 
+      "course name": "Audio Production Laboratory", 
+      "units": "1 Unit", 
+      "id": "CSUS_COMS 20B", 
+      "prerequisite": [
+        "COMS 20A", 
+        "FILM 20B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University.  Helps students to develop and exercise fundamental academic success strategies and to improve their basic learning skills.  Students interact with fellow students and the seminar leader to build a community of academic and personal support.", 
+      "id": "CSUS_COMS 21", 
+      "course name": "First Year Seminar:  Becoming an Educated Person"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Developing skills in producing photographic, graphic and animated materials used for the World Wide Web and multimedia.", 
+      "id": "CSUS_COMS 26", 
+      "course name": "Introduction to Capturing and Editing Digital Media"
+    }, 
+    {
+      "term": "Cross-listed: ", 
+      "description": ". There are no exceptions to this requirement. ", 
+      "course name": "Digital Film/Video Production", 
+      "units": "2 Units", 
+      "id": "CSUS_COMS 27A", 
+      "prerequisite": [
+        "COMS 27B", 
+        "COMS 27A", 
+        "COMS 27B", 
+        "FILM 27A"
+      ]
+    }, 
+    {
+      "term": ".", 
+      "description": ".  ", 
+      "course name": "Digital Film/Video Production Laboratory", 
+      "units": "1 Unit", 
+      "id": "CSUS_COMS 27B", 
+      "prerequisite": [
+        "COMS 27A", 
+        "COMS 27B", 
+        "COMS 27A", 
+        "FILM 27B"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Introduction to the basic concepts of mass communication, including the effects, uses, and functions associated with the goods and services of mass media. Examination of the ways mass media combine with other institutions to affect the organization, design, and comprehension of messages, as well as political thought, cultural beliefs, and economic behavior. ", 
+      "course name": "Media Communication and Society", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 55", 
+      "prerequisite": [
+        "JOUR 55"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Majors and minors must complete with a grade of \"C-\" or better. ", 
+      "description": "Survey of various theories of communication. Attention given to such topics as verbal and nonverbal coding, information processing, interpersonal and small group communication, organizational communication, the structure and effects of mediated communication, rhetorical criticism, and research in communication. ", 
+      "id": "CSUS_COMS 100A", 
+      "course name": "Survey of Communication Studies"
+    }, 
+    {
+      "term": " Majors must complete with a grade of \"C-\" or better; Writing Intensive  ", 
+      "description": "Detailed examination of texts on controversial issues in order to illustrate the varied forms of rhetorical action and the diverse modes of rhetorical analysis. Examples drawn from the literature of classical/contemporary rhetors. ", 
+      "course name": "Rhetoric and Social Influence.", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 100B", 
+      "prerequisite": [
+        "COMS 2", 
+        "COMS 4", 
+        "COMS 5", 
+        "COMS 4", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "term": " Majors must complete with a grade of \"C-\" or better.  ", 
+      "description": "Empirical methods commonly applied during communication research.  An introduction to the concepts fundamental to the scientific study of communication, including conceptual and operational definitions, sampling, measurement, experimental design, independent and dependent variables, and quantitative data analysis. ", 
+      "course name": "Introduction to Scientific Methods in Communication Research", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 100C", 
+      "prerequisite": [
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Students develop skills to use information proficiently in digital environments. In order to cope with information overload, students learn how to define and limit informational needs, how to access and evaluate information critically, and how to analyze and integrate information purposefully. The course teaches students evolving strategies and techniques for maintaining personal information spaces and security.", 
+      "id": "CSUS_COMS 101", 
+      "course name": "Information Management and Privacy"
+    }, 
+    {
+      "term": ".  ", 
+      "description": "Contemporary communication techniques for use in business and industry. Principles and practice of oral reporting, persuasive speaking, conference participation, and interpersonal interaction. ", 
+      "course name": "Presentational Speaking in the Organization", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 103", 
+      "prerequisite": [
+        "COMS 104", 
+        "COMS 103"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced public speaking focusing upon persuasive strategies, principles and techniques. ", 
+      "course name": "Persuasive Public Speaking", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 104", 
+      "prerequisite": [
+        "COMS 2", 
+        "COMS 4"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Theory and practice in small group communication.  Topics include leadership, meeting management, evolution of group norms, phases of group development, communication networks, good communication techniques, conflict management, and problem solving in a variety of contexts.", 
+      "id": "CSUS_COMS 105", 
+      "course name": "Communication in Small Groups"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Students learn multimedia authoring through the manipulation of digital media download legally from online repositories. Students learn how to digitally edit pixel-based images, vector images, audio, video and 3D models, while learning the principles that govern all digital media. The course uses Open Source and specialized software.", 
+      "id": "CSUS_COMS 106", 
+      "course name": "Digital Media Creation - An Introduction"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Cognitive, affective, and behavioral effects of television on children. Explores in detail issues such as televised violence, stereotyping, advertising and cognitive development. Discusses relationship between television and education.", 
+      "id": "CSUS_COMS 107", 
+      "course name": "Children And Television"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Family as a small group with emphasis on understanding and interpreting the dynamics of family communication and socio-psychological theories. ", 
+      "course name": "Family Communication", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 108", 
+      "prerequisite": [
+        "COMS 8", 
+        "FACS 50", 
+        "SOC 166", 
+        "FACS 108"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Participation in intercollegiate debate competition.", 
+      "id": "CSUS_COMS 110", 
+      "course name": "Advanced Debate Workshop"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be taken four times for credit with instructor permission. ", 
+      "description": "Directed research in the current intercollegiate debate topic; identification of issues, compilation of evidence, and case building. ", 
+      "id": "CSUS_COMS 111", 
+      "course name": "Debate Research Practicum"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Critical analysis of the ways modern American media interact with the conduct of American life; emphasizes the role of commercialism and other aspects of contemporary American capitalism; examines the problem of personal development and relationships in the context of a commercially dominated media system.", 
+      "id": "CSUS_COMS 114", 
+      "course name": "Communication and American Culture"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Nonverbal communication will focus on the nonverbal aspects of human communication. Students will learn the vocabulary of nonverbal communication (NVC) as we examine the nature of NVC, NVC Codes, and the effects of NVC on messages we receive and send. In addition, we will consider nonverbal behaviors in interpersonal relationships, intercultural communication and research in nonverbal.", 
+      "id": "CSUS_COMS 115", 
+      "course name": "Nonverbal Communication"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Analysis of factors which influence communication between individuals of different cultures and cocultures.  Discussion and practical application.", 
+      "id": "CSUS_COMS 116", 
+      "course name": "Intercultural Communication"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Students create and integrate information and digital media with the purpose of informing or persuading an audience. By identifying communication needs, students learn to prepare multimedia presentational aids and standalone multimedia presentations for distribution in online environments. This course features topics in visual communication, story-boarding, presentation and delivery. ", 
+      "course name": "Multimedia Communication", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 117", 
+      "prerequisite": [
+        "COMS 106"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Introduces the student to publics, organization-environment relationships, structures, practices, and processes from a communication theory and research perspective. Specifically, the student is introduced to the multi-phased approach to public relations, an approach that highlights the PR subprocesses of task identification, task analysis, and task performance. ", 
+      "id": "CSUS_COMS 118", 
+      "course name": "Survey of Public Relations"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Ways to identify, clarify, and resolve conflicts in dyads, groups, and organizations. Conflict is contrasted with disagreement, aggression, incompatible values, etc. The costs and benefits of conflict are explored.", 
+      "id": "CSUS_COMS 119", 
+      "course name": "Conflict Resolution Through Communication"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Examination of development of major mass communication media in the U.S. and of how the economics, content, regulation and audience use of the media have been affected by the way the media have evolved.  Current issues and trends are discussed, as well as possible future development. ", 
+      "course name": "History of the Media", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 120", 
+      "prerequisite": [
+        "COMS 55", 
+        "JOUR 55", 
+        "JOUR 120"
+      ]
+    }, 
+    {
+      "term": ".", 
+      "description": "Overview and analysis of the primary aesthetic tools used to create messages in video and film. The basic properties of light, color, area, space, shape, sound, time and motion are defined and discussed as they relate to media production. Introduces students to the concepts and vocabulary necessary for effectively conceiving, producing or criticizing mediated messages. Designed primarily for students with interest in digital media.  Provides a foundation for students working in media criticism. ", 
+      "course name": "Media Aesthetics", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 121", 
+      "prerequisite": [
+        "FILM 121"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Writing and editing for visual, audio, and interactive media.  How to choose appropriate format and delivery mechanisms for news, web sites, kiosks, and CD/DVD.  Topics include copyright law and information ethics. ", 
+      "course name": "Writing for Interactive Media", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 122", 
+      "prerequisite": [
+        "ENGL 20", 
+        "ENGL 109M", 
+        "ENGL 109W"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Organization and operation of communication media; practice in publicity and public relations techniques. Emphasis on clear writing and correct public relations formats such as releases, PSAs, articles, and speeches. ", 
+      "course name": "Writing For Public Information", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 123", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X", 
+        "JOUR 123"
+      ]
+    }, 
+    {
+      "term": ".", 
+      "description": ". ", 
+      "course name": "Writing Scripts for Film/Video", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 124", 
+      "prerequisite": [
+        "ENGL 20", 
+        "FILM 128", 
+        "FILM 185", 
+        "FILM 124"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Artistic and technical skills employed when capturing and editing photographic, audio, and video data files.  Data files are prepared for export into multimedia authoring applications.  Mastery of appropriate hardware and software. ", 
+      "course name": "Motion Graphics in Film and Video", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 126", 
+      "prerequisite": [
+        "COMS 20A", 
+        "COMS 20B", 
+        "COMS 26", 
+        "COMS 27A", 
+        "COMS 27B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Theory and practice of producing and directing television programs with emphasis on studio and control room techniques. ", 
+      "course name": "Producing and Directing for Television", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 127", 
+      "prerequisite": [
+        "COMS 20A", 
+        "COMS 20B", 
+        "COMS 27A", 
+        "COMS 27B"
+      ]
+    }, 
+    {
+      "term": ".", 
+      "description": "Production of video materials using portable cameras and recorders.  Application of electronic field production and post-production techniques. ", 
+      "course name": "Non-Studio Video Production", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 128", 
+      "prerequisite": [
+        "COMS 20A", 
+        "COMS 20B", 
+        "COMS 27A", 
+        "COMS 27B", 
+        "FILM 128"
+      ]
+    }, 
+    {
+      "term": ".", 
+      "description": "Management and administration of the preproduction and production process. Course to include script breakdown, budgeting, scheduling and other preproduction and production management skills needed for film or video production. Special attention on the history, development and current practices of the Production Manager. ", 
+      "course name": "Film and Video Production Management", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 129", 
+      "prerequisite": [
+        "FILM 129"
+      ]
+    }, 
+    {
+      "term": ".", 
+      "description": "Introduction to the aesthetics, concepts and techniques used to control lighting in digital video productions.  Aspects of staging, blocking and composition in the context of studio and location lighting. ", 
+      "course name": "Staging and Lighting Digital Video", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 130", 
+      "prerequisite": [
+        "COMS 20A", 
+        "COMS 20B", 
+        "COMS 27A", 
+        "COMS 27B", 
+        "FILM 130"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the historical, development, and present state of documentary film. Emphasis is on both understanding and critically analyzing the significance of various genres of the documentary and its uses as a tool for information, proselytizing, education, and propaganda.", 
+      "id": "CSUS_COMS 133", 
+      "course name": "The Documentary Film"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Design and production of information sites for the World Wide Web.  Concepts covered include market analysis, cognitive design, layout, navigation, interactive strategies, site management, and multimedia components for electronic distribution systems. Introduction to object oriented programs and XHTML text editors. ", 
+      "course name": "Introduction to  Electronic Publishing", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 136", 
+      "prerequisite": [
+        "COMS 26"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Students learn to communicate in virtual environments in real-time and asynchronously. Students survey current technologies for collaboration, explore psychological and cultural aspects of individuals working and communicating in teams across computer networks, and identify strategies to foster cooperatives in distributed work.", 
+      "id": "CSUS_COMS 140", 
+      "course name": "Online Collaboration"
+    }, 
+    {
+      "term": ". ", 
+      "description": "Study of history and theory of film and video editing.  Many films are viewed and discussed, examining how editing theory is put into practice. ", 
+      "course name": "Theory of Film and Video Editing", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 141", 
+      "prerequisite": [
+        "FILM 27A", 
+        "FILM 27B", 
+        "FILM 141"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Explores the uses of film as a tool of communication.", 
+      "id": "CSUS_COMS 142", 
+      "course name": "Film As Communication"
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "One-to-one communication between individuals in both social and task settings. Theories of communication during the growth and decay of relationships, as well as research on the forces behind relational dynamics.  Topics include nonverbal communication, self concept, communication of self, theories of conflict resolution, communication competence and the rhetoric of disconfirmation. ", 
+      "course name": "Theories of Interpersonal Communication", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 143", 
+      "prerequisite": [
+        "COMS 8", 
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "An introduction to the creation of multimedia websites using current multimedia development software such as Flash. Emphasis will be placed on creating interactive video and formatting video programs for delivery over the WWW, extranets, or intranet. ", 
+      "course name": "Developing Rich Media Websites", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 144", 
+      "prerequisite": [
+        "COMS 27A", 
+        "COMS 27B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Basic concepts of interpersonal and inter-group communication within formal and informal social organizations. Current techniques of auditing and evaluating organizational communication. ", 
+      "course name": "Organizational Communication", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 145", 
+      "prerequisite": [
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Basic multimedia authoring theory and skills.  Text, graphics, audio, and video are synchronized into interactive media.  Topics include 2D animation, interface design, and fundamentals of scripting language. ", 
+      "course name": "Multimedia Authoring", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 149", 
+      "prerequisite": [
+        "COMS 106", 
+        "COMS 126"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Survey of the major theories dealing with the relationship between the mass media and human communication behavior. Examination of research into the social, political, economic and cultural effects of mass communication. ", 
+      "course name": "Mass Communication Theories and Effects", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 150", 
+      "prerequisite": [
+        "COMS 55", 
+        "JOUR 55", 
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Thorough introduction to issues related to freedom of speech and censorship, sections of the historical origins of free speech, seditious speech, libel and slander, pornography and obscenity, commercial speech and advertising, symbolic speech and hate speech. The class brings a communication focus to addressing issues related to the First Amendment.", 
+      "id": "CSUS_COMS 152", 
+      "course name": "Freedom Of Speech"
+    }, 
+    {
+      "term": "Cross listed: ", 
+      "description": "Laws and regulations that govern print, broadcast, and the electronic mass media in the U.S. Discusses the process by which laws and regulations are enacted and interpreted as well as legal and regulatory issues concerned with the content, control, political role and responsibilities of media practitioners, regulators, Congress, and the public. ", 
+      "course name": "Journalism Law and Ethics", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 153", 
+      "prerequisite": [
+        "JOUR 153"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Communication theory and practice in organizational training.  Surveys instructional communication theory and the instructional design process.  Focus on effective communication in training contexts.  Topics include needs assessment, training design, training evaluation and training delivery via electronic media.", 
+      "id": "CSUS_COMS 154", 
+      "course name": "Instructional Design and Training"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A historical review of the development of major international film styles and themes. Concepts derived from this study of international film are then used as a basis to analyze contemporary films of India, Asia, and Africa. Emphasis is on both the development of formal film technique and a comparison of the unique cultural values that shape the film narrative and style.", 
+      "id": "CSUS_COMS 155", 
+      "course name": "Survey of World Cinema"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "The creation and analysis of video artwork; including techniques of video production, post-production manipulation and critique, within the context of art and communication. The techniques and theory of producing and editing video will serve as a foundation for the pursuit of individual, creative projects.  ", 
+      "course name": "Video Art", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 157", 
+      "prerequisite": [
+        "ART 97", 
+        "COMS 27A", 
+        "COMS 27B", 
+        "ART 147"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Theoretical concepts to the solution of problems for pre-selected non-profit and campus clients by  forming small group PR agencies; completing needs assessments; profiling target and secondary audiences; developing and implementing a strategic public relations plan; producing targeted messages for media kits and other uses; developing and evaluating formative and summative evaluation plans; and making formal in-class presentations to peers, clients and invited PR professionals.  Students will also learn how to negotiate contracts, maintain client relations, track work on projects and develop timelines and budgets. ", 
+      "course name": "Public Relations Planning and Management", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 158", 
+      "prerequisite": [
+        "COMS 118", 
+        "COMS 123", 
+        "JOUR 123", 
+        "JOUR 158"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Analyzes the relationship between mass media and political decision-making, including a structural analysis of political and media institutions. Particular attention on the formation of public opinion through messages and strategies, and the impact of public opinion on public policy.", 
+      "id": "CSUS_COMS 160", 
+      "course name": "Political Communication"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Communication principles and techniques as they apply to the many facets of health care, health education and promotion, and research in health communication. Emphasis on understanding and improving communication among health professionals, and between health professionals and clients.  Explores the rapidly emerging field of health communication. Selected concepts and theories of human communication are directly applied to communication problems and situations in health care settings through the use of case studies. In addition, pertinent research that helps explain human interaction in health care is incorporated through readings and discussions.", 
+      "id": "CSUS_COMS 161", 
+      "course name": "Health Communication"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Scholarly, theoretical and critical writings on the production and circulation of gender roles, images, and gender-types attributes through communication, with a special focus on mass-mediated communication such as television, video, and film. ", 
+      "course name": "Gender Ideology and Communication", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 162", 
+      "prerequisite": [
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Comprehensive overview of the theoretical concepts and communication methodologies appropriate for analysis of contemporary visual messages. Focuses on rhetorical analysis of visual messages. Significant research and critical writing required ", 
+      "course name": "Visual Communication", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 164", 
+      "prerequisite": [
+        "COMS 100A", 
+        "100B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Examines the history, development and present state of religious communication. Discussion of the limits and challenges communication theories face when confronted with situations requiring them to describe the indescribable. Emphasis upon the communication methods in a religious context as well as the communication strategies, limits, and possibilities that are revealed in what is arguably the most extreme of communication situations: the intersection of religion and words.", 
+      "id": "CSUS_COMS 165", 
+      "course name": "Communication and Religion"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Various theories of persuasion and attitude change, both classical and empirical, in terms of their effectiveness and social impact. Includes units on production and consumption of persuasive messages.", 
+      "id": "CSUS_COMS 166", 
+      "course name": "Theories of Persuasion and Attitude Change"
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Historical survey of theories of rhetoric. Comparison/contrast of scope and value of rhetorical theories. Practice in critical writing. ", 
+      "course name": "Systems and Theories of Rhetoric", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 167", 
+      "prerequisite": [
+        "COMS 100B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Analyzes rhetorical events, using a variety of critical perspectives. Current issues on criticism's function and the critic's role. Practice in critical writing. ", 
+      "course name": "Approaches to Rhetorical Criticism", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 168", 
+      "prerequisite": [
+        "COMS 100B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Introduction to television criticism theory and to various critical methods with which television program texts may be analyzed. Current theoretical and critical issues in the function of criticism and the role of the critic are addressed through readings, writing assignments, screenings and discussion. ", 
+      "course name": "Television Criticism", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 169", 
+      "prerequisite": [
+        "COMS 100B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Introduction to the application of data analysis to the study of communication processes. ", 
+      "course name": "Data Analysis in Communication Research", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 170", 
+      "prerequisite": [
+        "COMS 100C"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Techniques of survey research in communication, including sampling, questionnaire construction, interviewing, data analysis, and report writing.  Each student designs and executes a research project. ", 
+      "course name": "Survey Methods in Communication Research", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 171", 
+      "prerequisite": [
+        "COMS 100C"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Content analysis as a research technique in communication.  Emphasizes design and execution of content analysis studies in a wide range of communication situations. Each student completes several short studies and a major project. ", 
+      "course name": "Content Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 172", 
+      "prerequisite": [
+        "COMS 100C"
+      ]
+    }, 
+    {
+      "term": " Restricted to junior and above or instructor permission.  ", 
+      "description": "Cross-cultural exploration of communication and social interaction; relationship between language and society; cross-cultural implications of values embedded in message production, transmission, and interpretation; studies of how language influences perception and organization of social reality; linguistics, information and message transmission. ", 
+      "course name": "Communication, Language and Culture", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 173", 
+      "prerequisite": [
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Movement of mediated messages across and between national boundaries.  Topics include news and entertainment flow, media systems and philosophies, cultural dependency and imperialism, the new world information order and communication development. ", 
+      "course name": "International Communication", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 174", 
+      "prerequisite": [
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Creative problem solving techniques for use by individuals and groups.  Topics include the nature of creative problem solving, barriers to creativity, clear problem definition, idea generation, decision making, group dynamics in creative situations, implementation of changes, and overcoming resistance to change.", 
+      "id": "CSUS_COMS 175", 
+      "course name": "Creative Problem Solving"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "This course addresses the communication aspects of terrorism, including both the ways terrorism has been used to make political and religious statements worldwide; how the media cover those messages; and how we talk about those messages and the coverage they receive. The course draws on the cutting-edge communication research from international/intercultural, political, mass communication, and computer-mediated communication sources. This is a course in the communication of terrorism. It is neither a course in the political science of terrorism nor in the criminal justice enforcement of counter-terrorism. ", 
+      "course name": "Communication and Terrorism", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 176", 
+      "prerequisite": [
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "The nature of communication in virtual communities on the Internet and the impact that these communities have on traditional communication media. Topics include: the interaction of real and cyber communities, self-publishing, educational uses of virtual communities, virtual self-governance, artificial intelligent agents, and the issues of security, privacy, and anonymity. Students will participate in structured on-line activities.", 
+      "id": "CSUS_COMS 178", 
+      "course name": "Virtual Communities on the Internet"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Examines and critiques the relationship between the mass media and sports.  Reviews theoretical approaches for studying media and sports (including historical, sociological, psychological, political, and cultural studies perspectives), then examines how sport is mediated through literature, print journalism, radio, and television.", 
+      "id": "CSUS_COMS 179", 
+      "course name": "Media, Sports, and Society"
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Seminar on communication theories, techniques and research methodologies in the field of social and governmental organizational systems. ", 
+      "course name": "Senior Seminar in Organizational Communication", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 180", 
+      "prerequisite": [
+        "COMS 145", 
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Seminar on the ways theories of group communication are realized in actual social settings. ", 
+      "course name": "Senior Seminar in Small Group Communication", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 181", 
+      "prerequisite": [
+        "COMS 105", 
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Seminar on advanced theories of interpersonal communication. Sample topics include relational development, relational termination, communication and interpersonal attraction, and communication competence. Students present one in-class report and complete a major research paper. ", 
+      "course name": "Senior Seminar in Interpersonal Communication", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 182", 
+      "prerequisite": [
+        "COMS 8", 
+        "COMS 143"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Seminar on the functions and roles of communication media in contemporary society. Includes issues and ethical considerations associated with freedom, responsibility and control examined from the points of view of the media, the government and the public. Specific topics will vary. ", 
+      "course name": "Senior Seminar in Media Issues and Ethics", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 183", 
+      "prerequisite": [
+        "COMS 55", 
+        "JOUR 55", 
+        "COMS 150", 
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Second of a two-semester senior project sequence.  Students complete the project designed in COMS 184A.  Projects are completed with assistance and feedback from the instructor, client, and  working professionals. ", 
+      "id": "CSUS_COMS 184B", 
+      "course name": "Multimedia Project Completion"
+    }, 
+    {
+      "term": ". ", 
+      "description": "Assignments in various phases of video production including creative use of camera, sound and  lighting, editing production design, production planning and management, and directing and producing. Students in first semester function as crew members for productions. ", 
+      "course name": "Senior Practicum in Video Production", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 185", 
+      "prerequisite": [
+        "FILM 124", 
+        "FILM 185"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines how health messages impact individuals, communities, and mass audiences. Critiques health communication research, raises awareness about health-related messages in our daily lives, applies theories of health communication, and critically analyzes how the creation, sending, and reception of health messages impacts society. Sample topics include doctor-patient communication, cross-cultural communication about health, and mass media effects of health-related images in media.", 
+      "id": "CSUS_COMS 186", 
+      "course name": "Seminar in Health Communication"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the management of issues in the public and private sectors including knowledge and skills in the communication activities and thinking processes that affect an issue's development.  Uses case studies of organizations--governmental agencies, businesses, and not-for-profit entities to assess issue development and management by examining the fundamental questions confronting organizations: What should the particular organization do and how should it do it?  Examines criteria for selecting among alternative options, and the relation of the organization to its environment.  Explores the broader social, legal, and ethical implications of the organization's activities. ", 
+      "course name": "Issue Management and Case Studies in Public Relations", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 187", 
+      "prerequisite": [
+        "COMS 118"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Critically examines and analyzes complex dynamics and concepts in communication and culture in a pluralistic society. Also relates various perspectives on intercultural communication theories and methods to an analysis of social interaction processes among culturally diverse groups. An interactive dimension includes problem-solving strategies. ", 
+      "course name": "Senior Seminar in Intercultural Communication", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 188", 
+      "prerequisite": [
+        "COMS 116", 
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Students work in groups to complete organizational training projects within community organizations.  After assessing the organization's needs, students design, conduct and evaluate training.  Advanced readings and professional competencies are emphasized. ", 
+      "course name": "Practicum in Communication Training", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 189", 
+      "prerequisite": [
+        "COMS 145", 
+        "COMS 154"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Provides an in-depth study of communication models that summarize and explain the interaction of humans in electronic environments, especially the Internet. Students locate, organize, analyze, an synthesize the latest research in online communication and make connection between theoretical models and their own experiences.", 
+      "id": "CSUS_COMS 190", 
+      "course name": "Human Communication on the Internet"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "The course examines contemporary social, cultural, political and economic topics regarding the adoption of digital media and the Internet. Students understand their role as citizens of a global knowledge-based society and the ethical dimensions brought by the new computer-enabled media environment.", 
+      "id": "CSUS_COMS 191", 
+      "course name": "New Media and Society"
+    }, 
+    {
+      "term": ".", 
+      "description": "Research seminar that provides an in-depth investigation of film as an art form, a medium of mass communication and a means of personal expression. Subject will vary according to instructor. ", 
+      "course name": "Senior Seminar in Film", 
+      "units": "3 Units", 
+      "id": "CSUS_COMS 192", 
+      "prerequisite": [
+        "COMS 142", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "FILM 192"
+      ]
+    }, 
+    {
+      "units": "3 - 6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Supervised employment in a company or agency working on communication studies-related assignments, arranged through the Department of Communication Studies and the Cooperative Education Program office. Requires preparation of application packet, completion of a 6 month full-time or part-time work assignment, and a written report. ", 
+      "id": "CSUS_COMS 194", 
+      "course name": "Communication Studies - Related Work Experience"
+    }, 
+    {
+      "term": "Summer only", 
+      "description": "Directed work experience in the internship program. Supervision is provided by both instructional staff and the cooperating agency. Faculty approval required. ", 
+      "course name": "Internship in Communication Studies", 
+      "units": "1 - 6 Units", 
+      "id": "CSUS_COMS 195", 
+      "prerequisite": [
+        "COMS 100A", 
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "The course will introduce students to semiotics that will be employed to tease out \"overt\" and hidden meanings in news (print and video) and other mediated messages. In particular the course will focus on the various, powerful strands of American ideology, e.g., individualism, democracy, patriarchy, femininity, feminism, capitalism, the family, patriotism, environmentalism, and the First Amendment that shape an understanding of ourselves and of our society. It will examine the present state of American journalism and how it operates. ", 
+      "id": "CSUS_COMS 196", 
+      "course name": "Critical Analysis of the Media"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading open to students who wish to attempt independent work. Faculty approval required. ", 
+      "course name": "Special Problems", 
+      "units": "1 - 3 Units", 
+      "id": "CSUS_COMS 199", 
+      "prerequisite": [
+        "COMS 100A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Graduate student status or instructor permission required ", 
+      "description": "Focuses on qualitative research methods as one methodological option to use in scholarly research. Critically review and analyze existing qualitative research projects; creation of qualitative research project; and response the research projects of peers. Consideration of ways to successfully integrate into the communication discipline through a variety of class discussions, readings, and activities. ", 
+      "id": "CSUS_COMS 200", 
+      "course name": "Qualitative Research Methods in Communication Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Graduate standing or instructor permission required. ", 
+      "description": "Approaches to the study of human communication. Emphasizes general theories of communication and specific theories of rhetoric, symbolic interaction, information processing, interpersonal communication, small group communication, persuasion, organizational communication, and mass communication. Must be taken within first two semesters of graduate enrollment. ", 
+      "id": "CSUS_COMS 201", 
+      "course name": "Communication Theory"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to advanced quantitative and qualitative research methods. Students will demonstrate their ability to apply at least one research perspective to a significant topic of interest in the discipline. Students are expected to produce a well-crafted research proposal as part of a culminating experience. ", 
+      "id": "CSUS_COMS 202", 
+      "course name": "Quantitative Research Methods in Communication Studies"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "History, research, and theories in the social, psychological, and structural aspects of organizational communication. Students undertake field studies integrating various analytical approaches.", 
+      "id": "CSUS_COMS 206", 
+      "course name": "Organizational Communication"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Various theoretical approaches to interpersonal or face-to-face communication.", 
+      "id": "CSUS_COMS 207", 
+      "course name": "Dyadic Communication"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Role of communication in national development.  Examines how communication (government policies, technologies and implementation strategies) can be used in the development of third world nations.", 
+      "id": "CSUS_COMS 208", 
+      "course name": "Communication and National Development"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Relationship between movement rhetoric, mass media messages and major societal changes and paradigm shifts. Students examine the flow of communication from individual and group \"change agents\" to the larger population and write a paper which illuminates a contemporary social change in progress.", 
+      "id": "CSUS_COMS 209", 
+      "course name": "Communication and Social Change"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Concentrated survey of mass media systems and an analysis of theories of media uses and effects. Students are required to conduct library research on a specific media-related topic and to present their findings orally.", 
+      "id": "CSUS_COMS 210", 
+      "course name": "Seminar in Mass Communication"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "American thought and culture as reflected in and influenced by the content of electronic media.", 
+      "id": "CSUS_COMS 211", 
+      "course name": "Electronic Media and American Culture"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Theory and research about task-oriented groups.", 
+      "id": "CSUS_COMS 212", 
+      "course name": "Seminar in Small Group Communication"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Graduate Writing Intensive ", 
+      "description": "Intensive examination of critical theory. A major critical paper is prepared by each student. ", 
+      "id": "CSUS_COMS 213", 
+      "course name": "Seminar In Criticism."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines theoretical foundations of public opinion formation and change and explores current public opinion measurement methodologies.", 
+      "id": "CSUS_COMS 215", 
+      "course name": "Communication and Public Opinion"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Various theories, perspectives and approaches to the study of intercultural communication.  Selected contemporary issues pertaining to race and culture and their impact on the communication process, especially the multicultural/multiracial consciousness in California in particular, and the U.S. in general.", 
+      "id": "CSUS_COMS 216", 
+      "course name": "Seminar on Contemporary Issues in Intercultural Communication"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Review of measuring instruments commonly used to assess communication practices in large organizations. Students also critically review relevant research literature regarding important communication issues in large organizations.", 
+      "id": "CSUS_COMS 217", 
+      "course name": "Assessment of Communication Behavior in Organizations"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Review of theory and research of the role of communication in conflict resolution.", 
+      "id": "CSUS_COMS 219", 
+      "course name": "Conflict Resolution"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Survey of dominant theories of instructional communication. Students read, study and critique prevailing bodies of literature which have a bearing on the study and practice of instructional communication. Theories are used to help students reflect on their own experiences as teachers and students and to generate new ideas for research in instructional communication.", 
+      "id": "CSUS_COMS 221", 
+      "course name": "Instructional Communication Theory"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of communication theory and research in instructional or training contexts. Designed for beginning teachers or organizational trainers. Centers on those communication principles which contribute to greater student/client learning and satisfaction. Emphasis on the development and implementation of instructional communication packages for adult learners.", 
+      "id": "CSUS_COMS 222", 
+      "course name": "Instructional Communication Practicum"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explores \"corporate advocacy\" as a kind of rhetorical, persuasive transaction between Corporate America and those in its environment. Seeks to understand corporate America's role in the \"policy process\" (broadly defined), by analyzing the constituted authority for policy formation, the actual institutions involved in such formation, the interaction between/among these centers of power, the difference between authority and influence between/among these centers of power and influence, and how corporate America uses rhetorical messages to enhance various goals.", 
+      "id": "CSUS_COMS 228", 
+      "course name": "Corporate Advocacy and Public Policy"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Instruction and analysis of human and social Computer-Mediated Communications. Covers from how digital media affects representation and narrative to research on current uses of the Internet and the theoretical frameworks applied to summarize it. Includes a component of Computer Literacy that will help students understand Computer-Mediated Communication and use online collaborative tools efficiently. No previous computer knowledge is required.", 
+      "id": "CSUS_COMS 230", 
+      "course name": "Computer-Mediated Communication"
+    }, 
+    {
+      "term": " May be repeated up to three times with permission of instructor.  ", 
+      "description": "Open to students appointed as teaching associates in Communication Studies.  Designed to facilitate the development, refinement, and maintenance of effective teaching methods and strategies. ", 
+      "course name": "Practicum for Teaching Associates in Communication Studies", 
+      "units": "1 Unit", 
+      "id": "CSUS_COMS 285", 
+      "prerequisite": [
+        "COMS 200", 
+        "COMS 201"
+      ]
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Directed work experience in the internship program. Supervision is provided by both the instructional staff and the cooperating agency. Faculty and Graduate Committee approval required the semester prior to enrollment.", 
+      "id": "CSUS_COMS 295", 
+      "course name": "Internship in Communication Studies"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open to students who have been advanced to candidacy and have secured permission of the chair of their examining committee and the Graduate Coordinator.  ", 
+      "description": "Structured and supervised reading program for MA candidates preparing for comprehensive examinations. Should be taken after completion of all other requirements for the degree. Credit given upon successful completion of comprehensive examinations.  Examining committee determines the number of units to be credited. ", 
+      "id": "CSUS_COMS 297", 
+      "course name": "Directed Study and Comprehensive Examination"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A seminar on a communication topic of contemporary concern. Topic may change from semester to semester. May be taken for credit more than once, provided topic is not repeated.", 
+      "id": "CSUS_COMS 298", 
+      "course name": "Colloquium In Communication"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading open to students wishing to attempt independent work. Faculty and Graduate Committee approval required the semester prior to enrollment.", 
+      "id": "CSUS_COMS 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 - 6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis or project approved for the Master's degree.  Thesis or project prospectus committees determine the number of units to be credited. ", 
+      "id": "CSUS_COMS 500", 
+      "course name": "Culminating Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "COMS", 
+    "subject": "Communication Studies"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Communication Studies", 
+    "id": "CSUS"
+  }
+}

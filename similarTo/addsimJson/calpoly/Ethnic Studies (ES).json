@@ -1,0 +1,382 @@
+{
+  "subjectOf": {
+    "id": "ES",
+    "subject": "Ethnic Studies"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Ethnic Studies"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_ES 112",
+      "course name": "Race, Culture and Politics in the United States",
+      "units": "4 units",
+      "term": [
+        "ge area d1; uscp"
+      ],
+      "description": "Introductory and interdisciplinary study of the ways that race and ethnicity are created by both historical processes and American institutional formation - specifically social, political, economic, legal and cultural institutions. Special attention paid to the interlocking systems of race, class, gender and sexuality.",
+      "format": "4 lectures.",
+      "other": "Crosslisted as ES / HNRS112. Fulfills GE D1 and USCP."
+    },
+    {
+      "id": "CalPoly_ES 114",
+      "course name": "Introduction to Ethnic Studies: Race in the United States",
+      "units": "4 units",
+      "term": [
+        "uscp"
+      ],
+      "description": "Racial equality movements, including the history of Ethnic",
+      "grading": "Studies ( 1960 's & 70",
+      "format": "4 lectures.",
+      "other": "Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 200",
+      "course name": "Special Problems",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Supervised investigation, including a written report, of a topic chosen with prior approval of instructor. Total credit",
+      "grading": "limited to 4 units"
+    },
+    {
+      "id": "CalPoly_ES 212",
+      "course name": "Global Origins of United States Cultures",
+      "units": "4 units",
+      "term": [
+        "ge area d3; uscp"
+      ],
+      "description": "How the global dispersal of Europeans, Asians, and Africans, the hemispheric dispersal of Latin Americans, and the forced internal migration of Native Americans have contributed to American cultural heritage and the struggles for ethnic, class and gender equality, and justice.",
+      "format": "4 lectures.",
+      "other": "Crosslisted as ES / HNRS212. Fulfills GE D3 and USCP."
+    },
+    {
+      "id": "CalPoly_ES 215",
+      "course name": "Planning for and with Multiple Publics",
+      "units": "4 units",
+      "term": [
+        "uscp"
+      ],
+      "description": "How the social / spatial relationships among racial / ethnic and gender groups are expressed in terms of human settlement patterns, civic involvement and everyday negotiations. Ways in which segregation and marginalization are expressed in western and non - western contexts. 4 lectures. Crosslisted as CRP / ES215. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 241",
+      "course name": "Survey of Indigenous Studies",
+      "units": "4 units",
+      "term": [
+        "ge area d3; uscp"
+      ],
+      "description": "A survey of the interdisciplinary field of indigenous studies and specifically the social, political, economic, legal, and cultural institutions of American Indian, Native Alaskan, and Native Hawaiian peoples within a transnational and global context. Special attention paid to the interlocking systems of race, class, gender, and sexuality, particularly within but not limited to the United States.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE D3 and USCP."
+    },
+    {
+      "id": "CalPoly_ES 242",
+      "course name": "Survey of Africana Studies",
+      "units": "4 units",
+      "term": [
+        "ge area d3; uscp"
+      ],
+      "description": "A survey of the interdisciplinary field of Africana Studies and specifically the social, political, economic, legal, and cultural institutions of African American, Afro - Caribbean, and African diasporic peoples within a transnational and global context. Special attention paid to the interlocking systems of race, class, gender, and sexuality, particularly within but not limited to the United States.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE D3 and USCP."
+    },
+    {
+      "id": "CalPoly_ES 243",
+      "course name": "Survey of Latino/a Studies",
+      "units": "4 units",
+      "term": [
+        "ge area d3; uscp"
+      ],
+      "description": "A survey of the interdisciplinary field of Latino / a Studies and specifically the social, political, economic, legal, and cultural institutions of Chicano / a and other Latino / a peoples within a transnational and global context. Special attention paid to the interlocking systems of race, class, gender, and sexuality, particularly within but not limited to the United States. Course may be offered in classroom - based or online format.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE D3 and USCP."
+    },
+    {
+      "id": "CalPoly_ES 244",
+      "course name": "Survey of Asian American Studies",
+      "units": "4 units",
+      "term": [
+        "ge area d3; uscp"
+      ],
+      "description": "A survey of the interdisciplinary field of Asian American Studies and specifically the social, political, economic, legal, and cultural institutions of West Asian, South Asian, Southeast Asian, and East Asian peoples in the United States within a transnational and global context. Special attention paid to the interlocking systems of race, class, gender, and sexuality, particularly within but not limited to the United States.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE D3 and USCP."
+    },
+    {
+      "id": "CalPoly_ES 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_ES 300",
+      "course name": "Chicano/a Non-Fiction Literature",
+      "units": "4 units",
+      "term": [
+        "ge area c4; uscp"
+      ],
+      "description": "Overview of contemporary Chicano / a non - fiction literature since 1848. Thematic concerns, literary criticism, literary techniques, historical and socio - cultural factors influencing non - fiction Chicano / a literary genres. Instructor reserves option to select non - fiction genres to be studied. 4 lectures. Fulfills GE C4 except for Comparative Ethnic Studies majors. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 308",
+      "course name": "Fire and Society",
+      "units": "4 units",
+      "term": [
+        "ge area d5"
+      ],
+      "description": "Prehistorical and historical record of human use of and attitude toward fire. Mythology and religion of fire. Traditional, cultural and ethnic variations and their influence on modern U.S. institutions involved in managing fire.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Crosslisted as ES / NR308. Fulfills GE D5."
+    },
+    {
+      "id": "CalPoly_ES 310",
+      "course name": "Hip-Hop, Poetics and Politics",
+      "units": "4 units",
+      "term": [
+        "ge area d5; uscp"
+      ],
+      "description": "Dynamics of hip - hop culture, its historical development, political significance, and social influence. How hip - hop exemplifies cross - cultural hybridization within not only Black communities nationally and internationally, but also amongst indigenous, Latino / a, and Asian peoples in the U.S. and beyond. 4 lectures. Fulfills GE D5 except for Comparative Ethnic Studies majors. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 320",
+      "course name": "African American Cultural Images",
+      "units": "4 units",
+      "term": [
+        "ge area d5; uscp"
+      ],
+      "description": "Comparative study of the cultural representations of, and counter - representations by, American racial / ethnic groups in American popular opinion and consciousness, with particular emphasis on African Americans. 4 lectures. Fulfills GE D5 except for Comparative Ethnic Studies majors. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 321",
+      "course name": "Native American Cultural Images",
+      "units": "4 units",
+      "term": [
+        "ge area d5; uscp"
+      ],
+      "description": "Comparative study of the cultural representations of, and counter - representations by racial / ethnic groups in American popular opinion and consciousness, with particular emphasis on Native Americans. The cultural images of Native peoples in the United States that have characterized relationships. 4 lectures. Fulfills GE D5 except for Comparative Ethnic Studies majors. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 322",
+      "course name": "Asian American Cultural Images",
+      "units": "4 units",
+      "term": [
+        "ge area d5; uscp"
+      ],
+      "description": "Comparative study of the cultural representations of, and counter - representations by, American racial / ethnic groups in American popular opinion and consciousness, with particular emphasis on Asian - Americans. 4 lectures. Fulfills GE D5 except for Comparative Ethnic Studies majors. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 323",
+      "course name": "Mexican American Cultural Images",
+      "units": "4 units",
+      "term": [
+        "ge area d5; uscp"
+      ],
+      "description": "Comparative study of the cultural representations ( racializing images and discourses ) of, and counter - representations by, American cultural / ethnic groups in American popular opinion and consciousness, with particular emphasis on Mexican Americans / Latinos. 4 lectures. Fulfills GE D5 except for Comparative Ethnic Studies majors. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 325",
+      "course name": "Sexuality and Gender in African American Communities",
+      "units": "4 units",
+      "term": [
+        "uscp"
+      ],
+      "description": "Gender and sexuality issues that influence the social, political, economic and cultural development of African - America. Special attention given to how racism affects the realization of standard gender conventions within black communities, as well as to myths of black sexuality, black feminism, and queer politics. 4 lectures. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 326",
+      "course name": "Native American Architecture and Place",
+      "units": "4 units",
+      "term": [
+        "ge area c4; uscp"
+      ],
+      "description": "The role of culture and setting in the construction of spatial, material and landscape concepts and artifacts, through the introduction of selected North American cultures, with focus from 1300 AD through contemporary time. 4 lectures. Crosslisted as ARCH / ES326. Fulfills GE C4. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 330",
+      "course name": "The Chinese American Experience",
+      "units": "4 units",
+      "term": [
+        "ge area d5; uscp"
+      ],
+      "description": "History and current status of Chinese Americans, with emphasis on the international contexts, organizations and institutions of Chinese America, and on Chinese Americans ' demographic compositions, spatial patterns, and cultural, socioeconomic, and political adaptation experiences. 4 lectures. Fulfills GE D5 except for Comparative Ethnic Studies majors. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 335",
+      "course name": "The Filipina/o American Experience",
+      "units": "4 units",
+      "term": [
+        "ge area d5; uscp"
+      ],
+      "description": "An interdisciplinary examination of the historical development of Filipina / o American identities and communities. The social, cultural and political institutions that have influenced Filipina / o immigration, participatory citizenship, activism and cultural practices. 4 lectures. Fulfills GE D5 except for Comparative Ethnic Studies majors. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 340",
+      "course name": "Cultural Production and Ethnicity",
+      "units": "4 units",
+      "term": [
+        "ge area c4"
+      ],
+      "description": "Culture and ethnicity as key factors in the production, perception, and interpretation of art and the humanities. Critical analysis of cultural attitudes and knowledge in expressive arts and cultural production, and of the contexts of cultural production as reflective of ethnicity. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "4 lectures"
+    },
+    {
+      "id": "CalPoly_ES 345",
+      "course name": "Queer Ethnic Studies",
+      "units": "4 units",
+      "term": [
+        "ge area d5; uscp"
+      ],
+      "description": "Theories, research and methods focused on the interlocking systems of sexuality, race, racialization, and ethnicity in local, national and comparative global / transnational contexts. Relationships between racialization and heteronormativity ; queer of color critique ; queer migration ; decolonizing queer organizing, theory, and knowledge production. 4 lectures. Crosslisted as ES / WGS345. Fulfills GE D5 except for Ethnic Studies majors. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 350",
+      "course name": "Gender, Race, Culture, Science and Technology",
+      "units": "4 units",
+      "term": [
+        "ge area Fall; uscp"
+      ],
+      "description": "Interdisciplinary examination of the complex relationships between gender, race, culture, science, technology in educational, work, knowledge production, policy, and ethical contexts. Topics may include reproductive, medical, genetic, and emerging technologies and exploration of efforts to create more socially responsible science / technology.",
+      "format": "3 lectures, 1 activity"
+    },
+    {
+      "id": "CalPoly_ES 351",
+      "course name": "Gender, Race, Class, Nation in Global Engineering, Technology & International Development",
+      "units": "4 units",
+      "term": [
+        "ge area d5"
+      ],
+      "description": "Cross - cultural exploration of the intersections of gender, race, class, nation in the global engineering workforce, small- and large - scale technological systems, and international development programs ; special attention to 21st century challenges and efforts to create more socially responsible engineering and technology. 4 lectures. Crosslisted as ES / WGS351. Fulfills GE Area D5 except for Comparative Ethnic Studies majors."
+    },
+    {
+      "id": "CalPoly_ES 360",
+      "course name": "Ethnicity and the Land",
+      "units": "4 units",
+      "term": [
+        "ge area c4; uscp"
+      ],
+      "description": "Comparative study of how race and culture shape landscapes, and how social hierarchies allocate the use of natural resources and the burdens of environmental pollution. 4 lectures. Crosslisted as ES / NR360. Fulfills GE C4 and USCP."
+    },
+    {
+      "id": "CalPoly_ES 380",
+      "course name": "Critical Race Theory",
+      "units": "4 units",
+      "term": [
+        "ge area d5; uscp"
+      ],
+      "description": "History and evolution of the critical race theory movement. Defining issues of the field ; in particular, the relationship between race, power and the law. 4 lectures. Fulfills GE D5 except for Comparative Ethnic Studies majors. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 381",
+      "course name": "The Social Construction of Whiteness",
+      "units": "4 units",
+      "term": [
+        "ge area d5; uscp"
+      ],
+      "description": "The investigation of the social construction of race in the United States through historicizing the category of ' whiteness. ' Why ' white ' was invented as a racial category and how white privilege has been sustained through social, political, economic and legal practices. 4 lectures. Fulfills GE D5 except for Comparative Ethnic Studies majors. Fulfills USCP."
+    },
+    {
+      "id": "CalPoly_ES 390",
+      "course name": "Research Methodology in Comparative Ethnic Studies",
+      "prerequisite": [
+        "STAT 217",
+        "ES 112",
+        "ES 242",
+        "ES 243",
+        "ES 244"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Theory and practice of research methodology in comparative ethnic studies. Topics include the scientific method, qualitative and quantitative methodologies, and ethical practices. Research report prepared from start to finish, including database searching, collecting pilot data, and proper formatting of a research report. Issues of race in research practice and use foregrounded throughout.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_ES 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies or surveys of selected problems. Total credit",
+      "grading": "limited to 4 units"
+    },
+    {
+      "id": "CalPoly_ES 406",
+      "course name": "Indigenous Peoples and International Law and Policy",
+      "prerequisite": [
+        "ES 241",
+        "NR 141 or NR 142"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Interdisciplinary examination of the evolution of international law effecting indigenous peoples in the U.S. and in the Americas. Development of international legal and sociological norms and their impact on human rights of indigenous peoples with particular attention to environmental issues. 4 lectures. Crosslisted as ES / NR406."
+    },
+    {
+      "id": "CalPoly_ES 410",
+      "course name": "Advanced Topics in Comparative Ethnic Studies",
+      "prerequisite": [
+        "ES 390"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Selected topics and issues in comparative ethnic studies. Class Schedule will list topic selected. Repeatable for a maximum of",
+      "grading": "8 units.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_ES 450",
+      "course name": "Fieldwork in Comparative Ethnic Studies",
+      "prerequisite": [
+        "ES 390"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Supervised project based on fieldwork in comparative ethnic studies.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_ES 461",
+      "course name": "Senior Project",
+      "prerequisite": [
+        "ES 390"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Completion of a project under faculty supervision. Results presented in a formal paper or project."
+    },
+    {
+      "id": "CalPoly_ES 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Class Schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    }
+  ]
+}

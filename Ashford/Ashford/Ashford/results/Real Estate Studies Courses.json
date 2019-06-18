@@ -1,0 +1,70 @@
+{
+  "subjectOf": {
+    "subject": "Real Estate Studies Courses",
+    "id": "RES"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Real Estate Studies Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_RES 301",
+      "course name": "Principles of Real Estate",
+      "units": "3 Credits",
+      "description": "This course introduces students to the general principles of real estate, to include industry terminology, ethics, deeds, listing and purchase agreements, agency, contracts, and property valuation decisions. Emphasis will also be on factors impacting local and national real estate markets."
+    },
+    {
+      "id": "AshFord_RES 325",
+      "course name": "Real Estate Practice",
+      "units": "3 Credits",
+      "description": "This course examines the basic job functions of real estate salespersons and brokers. Property listing, advertising, escrow, sales, and establishing a client base will be covered with practical applications for completing successful transactions."
+    },
+    {
+      "id": "AshFord_RES 327",
+      "course name": "Real Estate Economics",
+      "units": "3 Credits",
+      "description": "This course is a study of the foundational economic principles of real estate with an overview of the U.S. capitalist system. Focus will be on land use, markets, cycles and growth patterns, as well as property and income taxation."
+    },
+    {
+      "id": "AshFord_RES 334",
+      "course name": "Real Estate Finance",
+      "units": "3 Credits",
+      "description": "This course primarily examines the residential real estate finance markets and their impacts on consumers, but will also cover facets of commercial real estate. Mortgage options and purchase costs will be highlighted with attention to theories of real estate investment."
+    },
+    {
+      "id": "AshFord_RES 345",
+      "course name": "Legal Aspects of Real Estate",
+      "units": "3 Credits",
+      "description": "This course is a study of the legal system and its impact on purchase, ownership, sale, and leasing of real estate. Topics to be covered include contracts, wills, zoning, and environmental law, as well as Constitutional issues in real estate."
+    },
+    {
+      "id": "AshFord_RES 429",
+      "course name": "Property Management",
+      "units": "3 Credits",
+      "description": "This course provides the framework for the management and development of inventory of private and commercial real estate properties on a large scale. Included emphases are the roles of the property manager, landlord duties and policies, leases, maintenance, reports, and insurance."
+    },
+    {
+      "id": "AshFord_RES 431",
+      "course name": "Commercial Real Estate Investment",
+      "units": "3 Credits",
+      "description": "This course examines investment transactions, asset management, and enterprise management as the core components of commercial real estate investment. Methods for determining the value of commercial properties and the sources of real estate capital are also discussed."
+    },
+    {
+      "id": "AshFord_RES 450",
+      "course name": "Real Estate Appraisal",
+      "units": "3 Credits",
+      "description": "A study of the functions and approaches to appraisal, which include cost, income, and the direct sale comparison approach. The social and economic factors that impact determination of value will be discussed with emphasis on analyzing market data."
+    },
+    {
+      "id": "AshFord_RES 497",
+      "course name": "Strategic Management of the Real Estate Enterprise",
+      "units": "3 Credits",
+      "description": "This capstone course discusses the managerial decision-making and problem-solving processes that determine the failure or success of a real estate enterprise. Strategy formulation, implementation, and evaluation and control are key points of comprehensive focus. The course also incorporates program comprehensive demonstrations of knowledge.",
+      "prerequisite": [
+        "GEN 499"
+      ]
+    }
+  ]
+}

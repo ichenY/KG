@@ -1,0 +1,55 @@
+{
+  "subjectOf": {
+    "subject": "Health Promotion Courses",
+    "id": "HPR"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Health Promotion Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_HPR 205",
+      "course name": "The Human Body, Health & Disease",
+      "units": "4 Credits",
+      "description": "This introductory course provides students the opportunity to develop a basic understanding of health and disease as it relates to basic human physiology for non-science majors. The functions of the skeletal,muscular, integumentary, nervous, special senses, endocrine, cardiovascular, respiratory, immune,gastrointestinal, urinary and reproductive systems are explored. The most common conditions and diseases associated with these systems are examined. Students are provided the opportunity to learn about the major contributing factors associated with these conditions and diseases. In addition to coursework, weekly laboratories provide students the opportunity to explore various aspects of human physiology while applying the scientific method."
+    },
+    {
+      "id": "AshFord_HPR 231",
+      "course name": "Introduction to Health Education",
+      "units": "3 Credits",
+      "description": "This course is a foundational course designed to provide an introduction to health education and the health education profession. Health educators are often responsible for developing and implementing health education programs that aim to improve the quality of life of individuals and communities. The roles, responsibilities, skills, settings and professional networks of health educators will be reviewed in this course."
+    },
+    {
+      "id": "AshFord_HPR 232",
+      "course name": "Community Health Promotion Methods",
+      "units": "3 Credits",
+      "description": "This course provides an overview of the professional scope of entry-level health educator responsibilities. Students gain knowledge of organizational concepts, processes, skills, attitudes, and personal characteristics comprising the field of health education. The course content explores the theoretical and practical issues of the field of community health that enable students to identify and apply health education principles to health challenges facing individuals, groups, and communities."
+    },
+    {
+      "id": "AshFord_HPR 303",
+      "course name": "Health Communications",
+      "units": "3 Credits",
+      "description": "Utilizing a multi-disciplinary approach, this course provides an introduction to the field of health communications, and explores how communications are utilized to influence and motivate individuals,institutional, government, and public audiences about important health issues and interventions.Students examine processes for creating clear, accurate, and appropriate health communications for a variety of target audiences. Case studies of health campaigns are integrated into the course."
+    },
+    {
+      "id": "AshFord_HPR 350",
+      "course name": "Introduction to Epidemiology",
+      "units": "3 Credits",
+      "description": "This course will introduce students to the field of epidemiology, its purpose and benefits within thepublic health and health-related fields. It will provide the students the opportunity to review currentand relevant health surveillance data and its application in the various health care fields. Furthermore, it will afford the students the opportunity to learn about the role of epidemiologists in todays health care system."
+    },
+    {
+      "id": "AshFord_HPR 450",
+      "course name": "Grant Writing & Evaluations",
+      "units": "3 Credits",
+      "description": "This course explores the strategies and execution of the grant process and proposal writing in both non-profit and government sectors. The course covers research for local, state, federal and private funding sources, and emphasizes the creation and preparation of competitive proposals. Students will use all aspects of grant and proposal writing, including how to effectively describe objectives, research and program design, methodology, expected measurable outcomes, evaluation, and budget development.Students will prepare and submit an actual grant proposal as the final project."
+    },
+    {
+      "id": "AshFord_HPR 460",
+      "course name": "Analysis of Health Research",
+      "units": "3 Credits",
+      "description": "This course is designed to provide students the opportunity to develop a basic understanding of health research. Students are given the opportunity to learn about the various types of health research and associated research designs and methodologies. This course provides the students with increased exposure to health research literature and teaches students strategies to critically analyze this literature.Students are provided the opportunity to learn about the ethical dimensions, physical limitations, and practical application of health research. The students are provided a supplemental booklet containing example literature and figures that highlight the major concepts covered in the course."
+    }
+  ]
+}

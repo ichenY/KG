@@ -1,0 +1,27 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Capstone seminar that serves as a bridge between academic preparation and entry into a professional teacher credential program. Students will examine social science-history in the State curriculum framework, reflect on subject matter preparation, focus on middle and high school social science teaching and learning, investigate and evaluate resources pertinent to instruction, and explore current issues in education. ", 
+      "id": "CSUS_SSCI 193", 
+      "course name": "Integrating History and Social Science"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading. Requires permission of instructor and department chair. ", 
+      "id": "CSUS_SSCI 199", 
+      "course name": "Special Problems"
+    }
+  ], 
+  "subjectOf": {
+    "id": "SSCI", 
+    "subject": "Social Sciences"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Social Sciences", 
+    "id": "CSUS"
+  }
+}

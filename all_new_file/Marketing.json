@@ -1,0 +1,186 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The purpose of this course is to help students develop a working knowledge of marketing. Students will learn about the role marketing plays in an organization, as well as how to plan, implement and evaluate marketing activities. This course builds a foundation for further study in marketing and related fields. ",
+      "id": "CSUS_MKTG 101",
+      "course name": "Principles Of Marketing"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "The course covers current developments in marketing analytics. Topics include methodologies for market forecasting, estimating market size, and demand; evaluating marketing ROI and customer life time value; modeling of segmentation, positioning, competitive analysis, conjoint analysis, distribution channel analytics, and sales analytics. Students will also learn the latest datamining tools to collect, analyze, and visualize data for decision making and communicating to senior executives. ",
+      "course name": "Marketing Analytics",
+      "units": "3 Units",
+      "id": "CSUS_MKTG 115",
+      "prerequisite": [
+        "MKTG 101",
+        "DS 101",
+        "MKTG 121"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examines the acquisition of information for marketing management decision making, including methods of collection and analysis applicable to secondary and primary data, as this process relates to the management information system. Seminar. ",
+      "course name": "Marketing Research and Information",
+      "units": "3 Units",
+      "id": "CSUS_MKTG 121",
+      "prerequisite": [
+        "MKTG 101"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Understanding buying as a process in order to develop more effective solutions to marketing problems; an interdisciplinary approach drawing on insights from the behavioral sciences; applications to practical marketing situations. Seminar. ",
+      "course name": "Buyer Behavior",
+      "units": "3 Units",
+      "id": "CSUS_MKTG 122",
+      "prerequisite": [
+        "MKTG 101"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Managerial function of evaluating public attitudes toward business firms and other organizations and institutions, and of adjusting policies and executing programs to earn public acceptance and support. Media and method of communicating with the various publics, and problems in responsible leadership.",
+      "id": "CSUS_MKTG 123",
+      "course name": "Public Relations and Ethics in Business"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Development, trends, and institutions of retailing; organization and management of retail establishments; principles and policies of retail store operations including location and layout, planning and control of budgets, personnel, pricing and customer services. ",
+      "course name": "Retail Management",
+      "units": "3 Units",
+      "id": "CSUS_MKTG 124",
+      "prerequisite": [
+        "MKTG 101"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of advertising as a marketing communications tool in profit and nonprofit organizations. Emphasis will be placed on creative methods, alternative media, measurements of effectiveness, and coordination with other aspects of the marketing program through class discussion and written projects. Seminar. ",
+      "course name": "Advertising",
+      "units": "3 Units",
+      "id": "CSUS_MKTG 125",
+      "prerequisite": [
+        "MKTG 101"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Principles of the sales process including prospecting, structuring a sales presentation, handling objections, closing and customer relationship management.  Application of sales techniques in product and service situations, integration of technology as a sales tool.  Includes lectures, role playing, and practice in sales presentations.",
+      "id": "CSUS_MKTG 126",
+      "course name": "Salesmanship"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Individual problems of manufacturer or wholesaler in merchandising; intensive development of the \"selling\" function of marketing; duties of the sales manager. ",
+      "course name": "Sales Management",
+      "units": "3 Units",
+      "id": "CSUS_MKTG 127",
+      "prerequisite": [
+        "MKTG 101"
+      ]
+    },
+    {
+      "term": ". Seminar.  ",
+      "description": "Application of marketing principles to the solution of a wide variety of problems and cases including target markets, product selection, channels of distribution, promotion and pricing. ",
+      "course name": "Marketing Management",
+      "units": "3 Units",
+      "id": "CSUS_MKTG 129",
+      "prerequisite": [
+        "MKTG 101",
+        "MKTG 121",
+        "MKTG 122",
+        "MKTG 129"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "description": "The purpose of this course is to help students learn and apply emerging marketing techniques to become efficient and effective marketers in the 21st century. Topics covered center on effective marketing in an online environment to help students refine their strategic marketing skills, ability to work effectively in diverse teams, and understanding of the local marketing environment. ",
+      "id": "CSUS_MKTG 130",
+      "prerequisite": [
+        "MKTG 101"
+      ],
+      "course name": "Digital Marketing"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the major principles of quality management: customer focus, continuous improvement, employee involvement, and process improvement. Use of case studies and a project to gain knowledge in implementing quality management principles. Seminar.",
+      "id": "CSUS_MKTG 160",
+      "course name": "Principles of Quality Management"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Delivery of enhanced customer and economic value through synchronized management of the flow of physical goods and associated information from sourcing through consumption. Examines the management of those activities that facilitate the movement, control and direction of goods and services to create time, place, form and ownership utilities in the global market. Topics include transportation, warehousing, information systems, sourcing, strategic alliances, modeling, purchasing and international operations. ",
+      "course name": "Supply Chain Logistics Management",
+      "units": "3 Units",
+      "id": "CSUS_MKTG 181",
+      "prerequisite": [
+        "OPM 101"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Focuses on effective operations strategies for companies that operate in a dynamic business environment, with an emphasis on in-depth treatments of the decision situations facing managers in charge of related to the planning and control of the flow of goods and services in supply chain systems. ",
+      "course name": "Advanced Operations Planning and Control",
+      "units": "3 Units",
+      "id": "CSUS_MKTG 186",
+      "prerequisite": [
+        "OPM 101"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Covers modeling and analytics for designing, managing and improving supply chain systems in order to achieve competitive advantages: cost, quality, service, flexibility, adaptability, and sustainability which support business level strategies of cost leadership and differentiation. ",
+      "course name": "Supply Chain Modeling and Analysis",
+      "units": "3 Units",
+      "id": "CSUS_MKTG 188",
+      "prerequisite": [
+        "OPM 101"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Environmental factors affecting international trade, such as culture and business customs, political factors and constraints, economic development and legal differences, are integrated with the marketing management functions of market potential, analysis marketing research, international organization, channels and distribution, sales promotion, prices, credit, and financing. ",
+      "course name": "Multinational Marketing",
+      "units": "3 Units",
+      "id": "CSUS_MKTG 190",
+      "prerequisite": [
+        "MKTG 101"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Open to upper division students, subject to permission of the Marketing Area.  Petitions can be obtained from the Student Affairs Office, Tahoe  2065.  Open to declared business administration majors only.  ",
+      "description": "Supervised work experience in business, governmental or service agencies for the purpose of increasing student understanding of the nature and scope of their operations.  Supervision is provided by the faculty and the cooperating agencies. ",
+      "id": "CSUS_MKTG 195",
+      "course name": "Internship in Marketing"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Admission requires approval of the instructor and the Associate Dean. Petitions can be obtained from the Undergraduate Business Advising Center, Tahoe 1030. ",
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. ",
+      "id": "CSUS_MKTG 199",
+      "course name": "Special Problems in Marketing"
+    },
+    {
+      "units": "3 Units",
+      "term": " Admission requires approval of the instructor and the Associate Dean. Petitions can be obtained from the Undergraduate Business Advising Center, Tahoe 1030. ",
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. ",
+      "id": "CSUS_MKTG 199A",
+      "course name": "Special Problems in Supply Chain Management"
+    }
+  ],
+  "subjectOf": {
+    "id": "MKTG",
+    "subject": "Marketing"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Marketing",
+    "id": "CSUS"
+  }
+}

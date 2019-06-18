@@ -1,0 +1,908 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides a general overview of theory and research concerning psychological processes at the basic, individual and social levels. Topics will include physiological psychology, comparative psychology, learning, motivation, sensation and perception, developmental psychology, personality, social psychology, maladaptive behavior, individual differences, and selected other topics. Requires three hours of participation as a research subject.", 
+      "id": "CSUS_PSYC 2", 
+      "course name": "Introductory Psychology"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Covers requirements for the major and career options in psychology and related fields. Students learn to design plans of study to meet requirements for the major and enhance career objectives. Introduces career options in various areas such as academic psychology, applied behavior analysis, counseling and mental health, education, industrial-organizational psychology and related fields. Class activities clarify students' career goals and develop skills for job seeking and graduate education. Requires participation as a research subject. ", 
+      "course name": "Navigating Psychology: The Major and Careers", 
+      "units": "1 Unit", 
+      "id": "CSUS_PSYC 4", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to methods of the science of psychology. The topics include psychology as a way of knowing, the role of science in psychology, the nature of psychological research, research ethics, psychological literature and report writing, psychological measurement, and the design and analysis of case studies, survey research, field studies, correlational methods, and experimental methods. Requires three hours of participation as an experimental subject. ", 
+      "course name": "Methods of Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 8", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to descriptive and inferential statistics as tools for evaluating data from Psychological research. Topics include: measures of central tendency, measures of variability, correlation and regression, sampling distributions, hypothesis testing procedures including t-tests and analysis of variance. Application of hand computation will be emphasized to include the interpretation and significance of the statistical findings. ", 
+      "course name": "Introductory Statistics for Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 9", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of similarities and differences in human behavior, cognition, and emotion across cultures. Empirical evidence from cross-cultural research in the various areas of psychology, including biological, clinical, cognitive, developmental, social, personality, and industrial/organizational psychology, is evaluated with the purpose of developing a global perspective on the psychological processes underlying human behavior, cognition, and emotion. ", 
+      "course name": "Cross-Cultural Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 100", 
+      "prerequisite": [
+        "PSYC 2", 
+        "PSYC 8"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to descriptive and inferential statistics as tools for evaluating data from Psychological research. Topics include: measures of central tendency, measures of variability, correlation and regression, sampling distributions, hypothesis testing procedures including t-tests and analysis of variance, and selected other topics. Application of hand computation will be emphasized to include the interpretation and significance of the statistical findings. ", 
+      "course name": "Statistics for Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 101", 
+      "prerequisite": [
+        "PSYC 2", 
+        "PSYC 4", 
+        "PSYC 8", 
+        "PSYC 4"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Plan and conduct projects  using experimental, quasi-experimental and correlational methods. Evaluate published research and write proposals with attention to such issues as the reliability and validity of methods, the degree to which statistical assumptions are met, the adequacy of statistical power, and the internal and external validity of the project. Contemporary research design, measurement, and analysis techniques are examined, including the use of statistical software, for varieties of univariate and multivariate research designs.  Lecture-discussion three hours; laboratory three hours. ", 
+      "course name": "Advanced Methods and Statistics in Psychological Research", 
+      "units": "4 Units", 
+      "id": "CSUS_PSYC 102", 
+      "prerequisite": [
+        "PSYC 121"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of how information about the outside world is sensed and how that information is organized and interpreted to form perceptions. Vision and audition will be primarily examined, along with some coverage of the other senses. Topics may include psychophysical methods, basic physiology and function of sensory systems, perception of color and form, motion, distance, auditory patterns, body and limb position, temperature, pain, perceptual constancies, attention, perceptual learning, adaptation, and perceptual development. ", 
+      "course name": "Perception", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 103", 
+      "prerequisite": [
+        "PSYC 2", 
+        "PSYC 8", 
+        "PSYC 9"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of classical and contemporary theories of learning, and a sampling of experimental findings which bear directly on the theories. Some attention is given to theory construction in psychology. ", 
+      "course name": "Learning Theories", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 104", 
+      "prerequisite": [
+        "PSYC 2", 
+        "PSYC 8", 
+        "PSYC 9"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of theories and experimental findings related to basic processes in animal and human motivation. ", 
+      "course name": "Motivation", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 106", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Consideration of unresolved issues of interest to psychology and the general public, such as the use of animals in research and mind and health. Emphasis is on critical analysis (but not solution) of the issues as they are presented in public discourse. Discussion format, written reports and evaluations. ", 
+      "course name": "Controversial Issues in Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 107", 
+      "prerequisite": [
+        "PSYC 121"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course will provide an overview of the dynamics of human behavior in organizations, using the lens of psychological theory. Students will explore individual-, group-, and systems-level phenomena in organizations, with the overriding goal of understanding how to maximize performance, well-being, and satisfaction at work. Topics may include job attitudes, teams, organizational culture, individual differences, leadership, employee development, organizational change, occupational stress, fairness and diversity, and more.", 
+      "id": "CSUS_PSYC 108", 
+      "course name": "Organizational Psychology"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of the basic concepts of cognitive psychology, including sensory storage, pattern recognition, attention, short-term memory, long-term memory, visual imagery, semantic memory structure, text processing, problem solving and decision-making. The relations among artificial intelligence, mental modeling, and the simulation of cognitive processes will also be explored. ", 
+      "course name": "Cognitive Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 110", 
+      "prerequisite": [
+        "PSYC 2", 
+        "PSYC 8", 
+        "PSYC 9"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introductory overview of the psychobiological aspects of behavior. Emphasis is on the central and autonomic nervous systems and the endocrine system. Topics include physiological factors involved in sensation, perception, motivation, learning, emotion, social behavior, and maladaptive behavior. ", 
+      "course name": "Introduction to Biological Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 111", 
+      "prerequisite": [
+        "PSYC 2", 
+        "PSYC 8", 
+        "PSYC 9"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Introduction to the structure and function of the nervous system including neuroanatomy, neurophysiology, and systems neuroscience.  Lectures and readings emphasize the empirical questions, techniques and methods used in neuroscience research. Laboratory activities focus on nervous system structure and some of the specialized techniques used within the fields of cellular, systems, and behavioral neuroscience. Lecture-discussion three hours; laboratory three hours. ", 
+      "course name": "Introduction to Neuroscience", 
+      "units": "4 Units", 
+      "id": "CSUS_PSYC 115", 
+      "prerequisite": [
+        "PSYC 2", 
+        "PSYC 8", 
+        "PSYC 9", 
+        "BIO 115"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Basic principles of animal behavior including the genetic, evolutionary and ecological mechanisms underlying courtship, reproduction, aggression, territoriality, communication and parental behavior; applied aspects of animal behavior; innate or naturally occurring behavior patterns necessary for survival in the natural environment; physiological, social and acquired aspects of animal and, secondarily, human behavior. ", 
+      "course name": "Animal Behavior", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 116", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the classification of psychoactive drugs and their mode of action. Covers effects of psychoactive drugs on central nervous system structure and function and on behavior; use, abuse, effects, and dangers of therapeutic and recreational drugs; motivational aspects of drug use, and methods for treating addiction. ", 
+      "id": "CSUS_PSYC 117", 
+      "course name": "Drugs and Behavior"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines how the nervous system accomplishes cognitive functioning.  Brain mechanisms of higher functions such as memory, attention, sensorimotor integration, decision making, and language will be covered. ", 
+      "course name": "Cognitive Neuroscience", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 118", 
+      "prerequisite": [
+        "PSYC 111", 
+        "PSYC 115", 
+        "PSYC 117", 
+        "BIO 132"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of the scientific application of psychology and human performance to the design of products and complex systems. Applications of perception, cognition, and human physical limitations are covered, with an emphasis on understanding how they relate to design. Topics include perception, attention, decision making, memory, action, and how they related to areas such as product design, human-machine interaction, health and medicine, aviation and aerospace, ergonomics of the workplace, and designing for special populations. ", 
+      "course name": "Human Factors Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 119", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Construction, application, interpretation and evaluation of psychological tests. Tests used to measure general mental ability, specific abilities and aptitudes, personality, interests and attitudes are surveyed. ", 
+      "course name": "Psychological Testing", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 120", 
+      "prerequisite": [
+        "PSYC 121"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Project-based experience of Psychology. Study of scientific processes in research such as literature reviews; developing testable hypotheses; design; IRB review; data collection, analysis, and interpretation; critical analysis of studies; APA paper preparation; and issues in dissemination. Study of some advanced statistical processes such as factorial ANOVAs, planned and post hoc comparisons, and multiple regression. Study of statistical software programs used in the analysis of data. ", 
+      "course name": "Methods and Statistics in Psychological Research", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 121", 
+      "prerequisite": [
+        "PSYC 4", 
+        "PSYC 8", 
+        "PSYC 9"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the philosophy underpinning the use of qualitative research and the methods and analyses strategies used in qualitative research.  Methods may include interviews, focus groups, participant observation, and behavioral observation. Analyses strategies may include grounded theorizing, negative case analyses, developing case studies, and content coding.  Issues pertaining to data accuracy and consistency will be examined, and the researcher's role in interpreting results.  Students will complete research projects involving the collection and/or analyses of qualitative data. ", 
+      "course name": "Qualitative Research in Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 122", 
+      "prerequisite": [
+        "PSYC 121"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Covers evaluating and thinking critically about behavioral research (i.e., data collection, logic, designs). Topics include: comparing group and single-case designs; observational strategies and measuring inter-observer reliability; displaying and interpreting behavioral data; single-case experimental design including reversal, multiple-baseline, alternating treatments, changing-criterion, and combinatory designs; research ethics; identifying characteristics of pseudoscience; and disseminating behavioral research. The versatility of single-case designs will be discussed by including a wide range of case examples from multiple disciplines in the social and behavioral sciences and education. ", 
+      "course name": "Behavioral Research Methods", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 129", 
+      "prerequisite": [
+        "PSYC 121", 
+        "PSYC 171"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Detailed examination of classic and contemporary personality theories such as those of Freud, Jung, Adler, Horney, Fromm, Skinner, Dollard and Miller, Rotter, Bandura, Kelly, Rogers, Maslow and May. Theories will be considered with respect to content, conceptual image of the individual, and current status. ", 
+      "course name": "Personality Theories", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 130", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Covers the inherent biological, as well as the psychological, social and cultural similarities and differences between the sexes. Sexual myths and misconceptions are explored, and the sex roles and patterns of interaction currently practiced in our society are discussed. ", 
+      "course name": "Psychology of Human Sexuality", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 134", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines the role of culture, race, ethnicity, gender, and social class in human development and behavior within diverse cultural groups. Presents sociocultural and ecological perspectives on human development, i.e., that individuals must be understood in the context of his or her culturally patterned social relations, practices, institutions, and ideas. Explores psychological issues that pertain to the major ethnic minority groups in the U.S.", 
+      "id": "CSUS_PSYC 135", 
+      "course name": "Psychology of Multicultural Groups."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the causes and manifested effects of various stressors related to acculturation, socio-economic, physical, occupational, and psychological pressures. Techniques for recognizing and coping with stress will be explored. Emphasis is on the development of skills to handle commonly encountered stress-producing situations.", 
+      "id": "CSUS_PSYC 137", 
+      "course name": "Stress Management"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course is designed to introduce you to the field of community psychology, which is concerned with the scientific study of social problems through collaborative research. This course will provide you with ecological frameworks that aim to reduce social problems (e.g., poverty, mental illness and others) as well as core values of community well-being, empowerment, and collaboration. You will be exposed to prevention and intervention programs employed to solve social concerns as well as potential implications for practice and policy. ", 
+      "course name": "Community Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 142", 
+      "prerequisite": [
+        "PSYC 121"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Classroom and on-site experience in community psychology. Students will work at a community organization for a minimum of six hours per week with supervision by authorized persons at the organization. Students will also attend weekly class meetings to discuss the application of concepts in community psychology to practicum experience. Topics include: ethics, structure and capacity of community organizations, working with diverse populations, and professional relationships. ", 
+      "course name": "Practicum in Community Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 143", 
+      "prerequisite": [
+        "PSYC 142"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Empirical examination of the emotion, behavior, and cognition of individuals in social situations.  Topics can include:  social psychology methods, social perception, social cognition, attitudes, persuasion, social identity, gender identity, prejudice and discrimination, interpersonal attraction, close relationships, conformity, compliance, obedience to authority, helping behavior, aggression, group processes, and social psychology applications.  Multiple perspectives discussed. ", 
+      "course name": "Social Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 145", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examination of behavioral and physiological development during the prenatal period, and behavioral, cognitive and social development during infancy and childhood. Theories, methods and empirical research will be studied. ", 
+      "course name": "Child Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 148", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Growth and development during the adolescent period and the interrelationships between adolescents and their culture are studied. Physical, psychological, social and educational problems and their implications are considered. ", 
+      "course name": "Psychology of Adolescence", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 149", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Developmental study of human aging emphasizing psychosocial, psychopathological, biological, intellectual and personality processes from a theoretical and research-oriented perspective. Influences including culture, gender, gender identity, race, ethnicity, sexual orientation, and socio-economic status on aging are examined. ", 
+      "course name": "Psychological Aspects of Aging", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 150", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the beliefs, attitudes, and behaviors associated with death and dying. Topics covered include children's and adults' concepts of dying and death; causes and types of death; self-destructive behavior; grief and mourning in the dying person and their survivors; euthanasia and other legal and ethical issues; cross-cultural and historical perspectives.", 
+      "id": "CSUS_PSYC 151", 
+      "course name": "Psychological Aspects of Death and Dying"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines social, psychological, and behavioral factors important for physical health and emotional well-being. Psychological perspectives are applied to such topics as behavioral medicine, health promotion and compromise, the stress-illness relationship, social relations, personality, emotions, chronic illness, death and dying, and health care provider and patient interactions. Explores the development of health problems and the causes of premature death, as well as research on how psychology can help people live longer, healthier lives. ", 
+      "course name": "Psychological Aspects of Health, Wellness, and Illness", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 152", 
+      "prerequisite": [
+        "PSYC 2", 
+        "PSYC 8"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Cross Listed: GOVT 152", 
+      "description": "Examines the ways in which political behavior is shaped by individual beliefs, personalities, cognitive patterns, biases, and other psychological mechanisms. Students will engage with a wide range of research on topics such as cognitive styles, personality, obedience, psychological roots of terrorism, the psychology of ideology, and the role of emotion in politics. ", 
+      "id": "CSUS_PSYC 153", 
+      "course name": "Political Psychology"
+    }, 
+    {
+      "term": " A service course for WOMS.  ", 
+      "description": "Contemporary psychological theories and issues related to the psychology of women in America and globally.  Psychological theories may include but are not limited to feminism, cognitive-behavioral, self-object relations, humanistic, social learning and existential.  Issues may include development, sexuality, mental health, psychotherapy, physical health, education, work, violence against women, gender inequality, multicultural perspectives, aging, parenting, criminal behavior, politics, sexual slavery, reproductive rights, religion, spirituality, and the arts. ", 
+      "course name": "Psychology of Women", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 157", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Exploration of the psychological world of gay men and lesbians. An examination of psychological theories, empirical research, and phenomenological perspectives. Covers psychological functioning, homophobia, disclosure, relationships, parenting, and aging.", 
+      "id": "CSUS_PSYC 160", 
+      "course name": "Homosexuality"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Examination of empirical literature on emotion, behavior, and cognition of individuals from an evolutionary perspective. Topics can include: scientific methods in evolutionary psychology, survival strategies, mating strategies, parenting, kinship, cooperation, altruism, aggression, sexual conflict, and social dominance. ", 
+      "course name": "Evolutionary Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 165", 
+      "prerequisite": [
+        "PSYC 2", 
+        "PSYC 8"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Application of psychological principles to problems of personnel training and development; techniques for determining training requirements, motivating trainees, providing feedback on trainee performance, and ensuring positive transfer of training to the job situation; personnel development programs. ", 
+      "course name": "Psychology in Personnel Training and Development", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 167", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Detailed consideration of behavior disorders and maladaptive behavior: theories of causation, descriptions of the disorders, and strategies of various therapies. ", 
+      "course name": "Abnormal Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 168", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Comprehensive overview of various human resources practices and policies, with an emphasis on people's psychological reactions to them.  Topics include:  recruitment, employee selection, training, employee compensation, legal aspects of employment decisions, and ethics in human resource management. ", 
+      "course name": "Industrial Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 169", 
+      "prerequisite": [
+        "PSYC 2", 
+        "PSYC 8"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Introduction to theory, historical background, and philosophical assumptions relevant to behavior analysis with individuals.  Lectures and laboratory activities in basic principles of behavior and methodology.   ", 
+      "course name": "Applied Behavior Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 171", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Extensive analysis of single subject experimental research on intermittent reinforcement of behavior, including complex schedules, stimulus control, generalization, and verbal behavior. Lecture-discussion three hours; laboratory three hours; laboratory may include a component of self paced instruction. ", 
+      "course name": "Experimental Analysis of Behavior", 
+      "units": "4 Units", 
+      "id": "CSUS_PSYC 181", 
+      "prerequisite": [
+        "PSYC 9", 
+        "PSYC 171"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of best practices in the Teaching of Psychology.  Selected topics may include, course preparation, skills for fostering student learning, strategies for improving student writing, theories of assessment, using technology in the classroom, sensitivity to diversity, teaching special populations, and the ethical and legal issues faced in the classroom. Students attend scheduled seminars on course topics and course are mentored by a professor in the Department of Psychology (called Faculty Mentor/Sponsor). ", 
+      "id": "CSUS_PSYC 183", 
+      "course name": "Teaching of Psychology"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Extensive study of applied behavior analytic methods in the assessment, development, and implementation of treatment programs for a variety of clinical issues including pediatric behavior problems, developmental disabilities, hyperactivity, parent-child difficulties, school-related problems, behavioral safety, brain injury, and dementia. Lecture three hours; laboratory three hours. ", 
+      "course name": "Clinical Issues in Applied Behavior Analysis", 
+      "units": "4 Units", 
+      "id": "CSUS_PSYC 184", 
+      "prerequisite": [
+        "PSYC 2", 
+        "PSYC 171"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines characteristics, special needs, and problems of children who differ from the group norm because of their level of abilities, physical handicaps, or other deviations. ", 
+      "course name": "Psychology of Exceptional Children", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 185", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Covers the development of the various schools and systems of psychology, and their philosophical roots, interrelationships and differences. Normally taught with a seminar or proseminar format. ", 
+      "course name": "History and Systems of Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 190", 
+      "prerequisite": [
+        "PSYC 9"
+      ]
+    }, 
+    {
+      "term": " Requires permission of instructor. May be repeated for credit.  ", 
+      "description": "Classroom and on-site experience in applied behavior analysis. Students will work at an approved agency for a minimum of 10 hours per week under the supervision of a Board Certified Behavior Analyst. Students will also meet in class to present and review their cases. Emphasis will be placed on treatment integrity and ethics.  ", 
+      "course name": "Undergraduate Practicum in Behavior Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 191", 
+      "prerequisite": [
+        "PSYC 171", 
+        "PSYC 181"
+      ]
+    }, 
+    {
+      "term": " May be repeated once for up to 6 units of credit.  ", 
+      "description": "Opportunity for dedicated students interested in graduate school or a career involving research to work cooperatively on a psychological research project under faculty supervision. ", 
+      "course name": "Cooperative Research", 
+      "units": "1 - 6 Units", 
+      "id": "CSUS_PSYC 194", 
+      "prerequisite": [
+        "PSYC 2", 
+        "PSYC 8", 
+        "PSYC 9", 
+        "PSYC 121"
+      ]
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": " Requires permission of instructor and the Department Chair. May be repeated once for credit. ", 
+      "description": "Supervised experience in various educational and instructionally related tasks, such as leading discussion groups, setting up and presenting demonstrations, constructing and scoring tests, and tutoring, at selected educational institutions in the Sacramento area. ", 
+      "id": "CSUS_PSYC 195A", 
+      "course name": "Fieldwork in the Teaching of Psychology"
+    }, 
+    {
+      "term": " Requires permission of instructor and the Department Chair. May be repeated once for credit.  ", 
+      "description": "Supervised observation of preschool children in a formal school setting. ", 
+      "course name": "Fieldwork in Child Observation", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 195B", 
+      "prerequisite": [
+        "PSYC 148"
+      ]
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": " Requires permission of instructor and the Department Chair. May be repeated once for credit. ", 
+      "description": "Supervised work experience at an appropriate level in business and governmental organizations. ", 
+      "id": "CSUS_PSYC 195C", 
+      "course name": "Fieldwork in Industrial and Organizational Psychology"
+    }, 
+    {
+      "units": "1 - 4 Units", 
+      "term": " Requires permission of instructor and the Department Chair. May be repeated once for credit and a third time if another agency is involved. ", 
+      "description": "Supervised experience in various community and governmental agencies, such as the Suicide Prevention Service, Planned Parenthood, and the California Youth Authority. The experience must be of an applied psychological nature, determined collectively by the agency, the supervising faculty member, and the student. ", 
+      "id": "CSUS_PSYC 195F", 
+      "course name": "Fieldwork in Community Psychology"
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": " Requires permission of instructor and the Department Chair. May be repeated once for credit. ", 
+      "description": "Projects in contemporary areas of psychology under the supervision of one or more faculty. ", 
+      "id": "CSUS_PSYC 195G", 
+      "course name": "Fieldwork"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to psychological aspects of religion, including its foundations, measurement, and research methods. Selected topic areas include: religious & spiritual development; religion and spirituality in neuroscience, cognitive psychology, emotion, personality, social psychology, and cross-cultural psychology; religion and spirituality in health, mental health, coping, and psychotherapy. ", 
+      "course name": "Psychology of Religion", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 196S", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the concepts, issues and theories related to the psychology of the African American experience. Through the exploration of topics related to the African American experience in the United States, including, but not limited to, African philosophy, the US Census, media representations, language, and political enfranchisement, the course utilizes an interdisciplinary approach to interrogate the cultural, historical, political, and social factors influencing Black identity in the US and the creation of Black Psychology. ", 
+      "course name": "Black Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 196T", 
+      "prerequisite": [
+        "PSYC 2"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": ". Students in the course are expected to develop advanced skills in research methods, data management, data analysis, and the communication of research findings by conducting research on collaborative projects under the guidance of a psychology faculty supervisor. ", 
+      "course name": "Advanced Research I", 
+      "units": "1 - 4 Units", 
+      "id": "CSUS_PSYC 197A", 
+      "prerequisite": [
+        "PSYC 194", 
+        "PSYC 194"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". Students in the course are expected to demonstrate competence in advanced research skills in research methods, data management, data analysis, and the communication of research findings by conducting research on collaborative projects under the guidance of a psychology faculty supervisor. ", 
+      "course name": "Advanced Research II", 
+      "units": "1 - 4 Units", 
+      "id": "CSUS_PSYC 197B", 
+      "prerequisite": [
+        "PSYC 197A", 
+        "PSYC 197A"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be repeated for credit ", 
+      "description": "Provide psychology majors with information and experiences necessary for developing academic goals, skills, and better understanding of the Psychology major. Weekly meetings with peer mentors to discuss topics that include academic planning, website navigation, preparation for meeting with professors, academic skills, student professionalism and resume/CV development. ", 
+      "id": "CSUS_PSYC 198A", 
+      "course name": "Prospects for Success: Peer Mentee"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provide peer mentoring and advising to Psychology majors. Develop peer mentoring knowledge and skills through training and assigned readings. Peer mentors provide psychology majors with information and experiences necessary for developing academic goals, skills, and a better understanding of the Psychology major. Conduct weekly mentee meetings to discuss topics that include academic planning, website navigation, preparations for meetings with professors, academic skills, student professionalism and resume/CV development. ", 
+      "course name": "Prospects for Success: Peer Mentor", 
+      "units": "2 - 3 Units", 
+      "id": "CSUS_PSYC 198B", 
+      "prerequisite": [
+        "PSYC 4"
+      ]
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": " Requires permission of instructor and the Department Chair. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_PSYC 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Philosophy of science, critical thinking in the design of research studies, and professional issues. Topics include: nature of science; observational, experimental, and case study designs; formulating research questions; measurement strategies; scaling and coding; internal and external validity; naturalism in research; quasi-experiments; archival research; physical traces; data collection; interpreting results; program evaluation; professional writing; and ethics. ", 
+      "course name": "Methods in Empirical Psychology.", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 200", 
+      "prerequisite": [
+        "PSYC 8", 
+        "PSYC 101", 
+        "PSYC 102"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Broad coverage of common univariate and multivariate designs and analyses used in contemporary psychological research. Primary focus is on providing the basic tools for carrying out the analyses in statistical software and interpreting the results, as well as understanding results presented in published research reports. Topics include various ANOVA and multiple regression models and applications including related categorical and multivariate alternatives, such as logistic regression analysis, discriminant function analysis, MANOVA, path analysis, factor analysis, canonical correlation analysis. ", 
+      "course name": "Survey of Contemporary Statistical Methods in Psychological Research", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 202", 
+      "prerequisite": [
+        "PSYC 102"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced treatment of selected research design and analysis methods of psychological research. Applications of the general and generalized linear models (e.g., multiple regression models, structural equation models, multilevel models, and limited dependent variable models) for a variety of research designs and data structures. Intermediate to advanced training in statistical software and data management. Focus is on understanding foundations and assumptions of the methods, understanding interrelationships between the methods, performing specialized and non-routine analyses when needed, and interpreting results in detail. ", 
+      "course name": "Advanced Topics in Statistical Methods for Psychological Research", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 204", 
+      "prerequisite": [
+        "PSYC 202"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Detailed coverage of classical and modern theories and models of psychological measurement, and their applications in research and professional testing settings. Primary focus is on principles of constructing and analyzing measures, including both paper-and-pencil tests/surveys and performance-based tests that require rater judgment in scoring. Measurement models include classical testing theory, generalizability theory, confirmatory factor analysis, Rasch measurement, and item response theory. ", 
+      "course name": "Measurement Methods for Psychological Research and Practice", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 205", 
+      "prerequisite": [
+        "PSYC 202"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the administration, interpretation, and application of psychological tests used by behavioral scientists in clinical, educational, organizational, and other settings. Test development, reliability and validity, and legal considerations will be discussed. ", 
+      "course name": "Tests and Measurement", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 206", 
+      "prerequisite": [
+        "PSYC 102"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Historical review of the systems of thought which led to modern psychology. An examination of current psychological systems and their development. Factors that differentiate psychological systems will be studied.", 
+      "id": "CSUS_PSYC 209", 
+      "course name": "Seminar in Systems of Psychology"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of the role of personality theory in the field of psychology, and an examination of the current theories. ", 
+      "course name": "Theories of Personality", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 210", 
+      "prerequisite": [
+        "PSYC 102", 
+        "PSYC 102"
+      ]
+    }, 
+    {
+      "term": " May be repeated twice for credit.  ", 
+      "description": "Analyzes selected current articles on theory and research in such journals as the Journal of Applied Psychology, Personnel Psychology, and Organizational Dynamics, with written and oral critiques. ", 
+      "course name": "Current Literature in Personnel and Organizational Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 216", 
+      "prerequisite": [
+        "PSYC 102"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Seminar to review current literature in selected organizational psychology topics, and develop proposals for applied research in industrial-organizational psychology. Literature focus will be centered on personal and interpersonal factors influencing the quality of work life and experiences of employees. Application focus will be centered on identifying organizational problems amenable to research, reviewing literature and common practices to identify potential solutions, designing a research methodology to address the problem and evaluate the solution, and writing research proposals including Human Subjects Review.", 
+      "id": "CSUS_PSYC 216A", 
+      "course name": "Current Literature and Applications in Industrial-Organizational Psychology"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Seminar to discuss implementation of applied research proposals from the previous semester and review current literature in performance management and workforce planning systems. Application focus will be centered on understanding organizational contexts and constraints for implementing research, obtaining managerial and participant cooperation, maintaining methodological rigor in the field, systematically and objectively recording data, and preparing data for analysis. Literature focus will be centered on methods for measuring employee performance relative to objectives, understanding performance barriers, and identifying human resource needs. ", 
+      "course name": "Current Literature and Applications in industrial-Organizational Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 216B", 
+      "prerequisite": [
+        "PSYC 216A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Review of classic and contemporary theories and research in social psychology. Topics may include group dynamics, social influence, aggression, helping behavior, attitudes, dissonance and self-justification, prejudice, stereotyping, and discrimination; automaticity and social cognition, motivation, and gender. Emphasis upon the application of social psychological theories and research to social problems. ", 
+      "id": "CSUS_PSYC 217", 
+      "course name": "Seminar in Social Psychology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Surveys the fundamental principles of Behavioral Neuroscience, the connection between the brain and behavior. Topics may include: neuroanatomy, electrochemical transmission, sites and mechanism of drug action, sensation and perception, motor systems, developmental processes, neuroendocrine systems, learning and memory, attention, emotion, executive function, neurodegenerative disease and the neurobiology of mental illness.  Seminal experiments and recent discoveries within the field will be reviewed and discussed with a focus on how these findings impacted and continue to influence past and current theory. ", 
+      "id": "CSUS_PSYC 240", 
+      "course name": "Seminar in Behavioral Neuroscience"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides a survey of topics in human information processing. Selected topics may include perception, attention, memory, knowledge, categorization, problem solving, reasoning, decision making, and language comprehension and production. Classical theories and experiments in these areas will be reviewed in addition to applications of this work to practical problems. ", 
+      "id": "CSUS_PSYC 241", 
+      "course name": "Seminar in Cognitive Psychology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Surveys the area of Psychology concerned with how people and animals learn and how their behaviors are changed as a result of this learning. Selected topics include: Inmate behaviors, respondent and operant learning, behavioral economics, comparative cognition, theories of imitation, choice and self-control. Classical theories and current experiments in these areas will be reviewed in addition to implications of this work to practical problems. ", 
+      "id": "CSUS_PSYC 242", 
+      "course name": "Seminar in Learning and Behavior"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of the psychological processes underlying development throughout the life span. Covers such topics as cognitive, language, emotional, and relationship development in terms of the individual. Attention will be given to functioning of the individual within social units such as the family. ", 
+      "course name": "Developmental Processes", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 251", 
+      "prerequisite": [
+        "PSYC 148", 
+        "PSYC 149"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Major theories that made significant theoretical contributions to organizational psychology are covered, along with areas of significant research which have provided the foundations of modern organizational psychology. ", 
+      "course name": "Theoretical Foundations of Organizational Psychology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 262", 
+      "prerequisite": [
+        "PSYC 108"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "This course will provide an overview of the application of psychological principles to employee training and development, and an in-depth review of common training and development practices. Additional topics include techniques for determining training requirements, motivating trainees, providing feedback on trainee performance, ensuring positive transfer of training to the job environment, and employee development programs.", 
+      "id": "CSUS_PSYC 267", 
+      "course name": "Training & Employee Development"
+    }, 
+    {
+      "term": ". ", 
+      "description": "Covers an advanced and detailed discussion of the description, etiology, development, dynamics and treatment of individuals with mental disorders. Since the DSM-IV is the major classification system used by mental health professionals, it will also be discussed. This manual describes essential features of a variety of disorders and outlines the basis on which an experienced clinician can differentiate one disorder from another. ", 
+      "course name": "Advanced Psychopathology", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 268", 
+      "prerequisite": [
+        "EDC 231"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Survey of work analysis, with emphasis on designing employee selection systems. Topics to include multiple methods for analysis of different types and aspects of work, and applications of the results such as: Explicating the performance construct for a given job; identifying human attributes required for successful performance; evaluating jobs in terms of compensation; selecting appropriate measurement methods for predictor and criterion constructs; evaluating predictor utility; and the legal environment for employee selection practice.", 
+      "id": "CSUS_PSYC 269", 
+      "course name": "Analysis of Work and Employee Selection"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed both for graduate students who are interested in gaining knowledge about the fundamental principles of behavioral psychology and those who are pursuing certification as a Board Certified Behavior Analyst. Students will not only learn behavioral theory and the means by which behavior is increased, decreased, shaped and maintained, but they will learn to apply behavioral principles to more complex topics such as concept formation and novel behaviors. ", 
+      "id": "CSUS_PSYC 271", 
+      "course name": "Advanced Applied Behavior Analysis"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Covers methods related to single-case research (i.e., data collection, logic, designs). Course content is based primarily on contemporary books and articles from peer-review journals. Topics include: measurement of behavior, methods of assessing inter-rater agreement; experimental design including, reversal designs, changing-criterion designs, alternating treatment designs, and multiple-baseline designs; and displaying and interpreting behavioral data. Current methodological issues will be discussed. ", 
+      "course name": "Research Methods in Behavior Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 272", 
+      "prerequisite": [
+        "PSYC 171", 
+        "PSYC 181"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Covers major theories that have made significant contributions to behavior analysis, along with areas of significant research providing the foundations of radical behaviorism and contemporary behavior analysis. Topics include history of behaviorism, selection by consequences as a casual mode, pragmatism, determinism, logical positivism, dualism x monism, verbal behavior and private events. ", 
+      "id": "CSUS_PSYC 274", 
+      "course name": "Theoretical Foundations of Behavior Analysis"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Overview of contemporary research and practice on the use of applied behavior analysis techniques in the workplace. Students will learn to use several performance assessment and improvement tools based on the operant learning literature, as well as learn strategies for effective supervision, training, and management of staff in human service organizations. ", 
+      "id": "CSUS_PSYC 275", 
+      "course name": "Applied Behavior Analysis in the Workplace"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced consideration of small-N research designs.  Analysis of complex contingencies of reinforcement and stimulus control as they apply to such topics as perceiving, thinking, abstractions, and concept formation.  In-depth examination of behavior analytic principles in relation to choice behavior and verbal behavior. ", 
+      "course name": "Advanced Experimental Analysis of Behavior", 
+      "units": "4 Units", 
+      "id": "CSUS_PSYC 281", 
+      "prerequisite": [
+        "PSYC 271"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Covers the historical background of higher education, the social and administrative structure of colleges and universities, and the selection, preparation and planning of undergraduate psychology courses, particularly introductory courses.", 
+      "id": "CSUS_PSYC 283", 
+      "course name": "Teaching Of Psychology"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Advanced study and practical experience in application and teaching of behavior analytic methods of assessment, data collection, program construction and evaluation for a variety of behavior problems. Students will become proficient in conducting functional analyses, positive programming, and constructing and implementing behavior intervention programs for behavior excesses (consistent with State of California laws) including, antecedent manipulations, differential reinforcement schedules, functional communication training, and response cost. They will be required to develop didactic skills with respect to these various programs. Lecture three hours; Lab three hours. ", 
+      "id": "CSUS_PSYC 284", 
+      "course name": "Assessment and Treatment of Behavior Problems"
+    }, 
+    {
+      "term": " Requires permission of instructor. May be repeated for credit.  ", 
+      "description": "Classroom and on-site experience in applied behavior analysis. Students will work at an approved agency for a minimum of 10 hours per week under the supervision of a Board Certified Behavior Analyst. Students will also meet in class to present and review their cases. Emphasis will be placed on treatment integrity and ethics.  ", 
+      "course name": "Professional Issues in Behavior Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_PSYC 291", 
+      "prerequisite": [
+        "PSYC 271"
+      ]
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": " Requires permission of instructor and the Department Chair. May be repeated once for credit. ", 
+      "description": "Students work cooperatively on a psychological research project under faculty supervision. ", 
+      "id": "CSUS_PSYC 294", 
+      "course name": "Cooperative Research"
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": " Requires permission of instructor and the Department Chair. May be repeated once for credit. ", 
+      "description": "Supervised experience in various educational and instructionally related tasks, such as leading discussion groups, setting up and presenting demonstrations, constructing and scoring tests, and tutoring, at selected educational institutions in the Sacramento area. ", 
+      "id": "CSUS_PSYC 295A", 
+      "course name": "Fieldwork in the Teaching of Psychology"
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": " Requires permission of instructor and the Department Chair. May be repeated once for credit. ", 
+      "description": "Supervised work experience at a professional level in business and governmental organizations. ", 
+      "id": "CSUS_PSYC 295C", 
+      "course name": "Fieldwork in Personnel and Organizational Psychology"
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": " Requires permission of instructor and the Department Chair. May be repeated once for credit. ", 
+      "description": "Projects in contemporary areas of psychology under the supervision of one or more faculty. ", 
+      "id": "CSUS_PSYC 295G", 
+      "course name": "Fieldwork"
+    }, 
+    {
+      "units": "1 - 6 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading. Requires approval of instructor and Department Chair.", 
+      "id": "CSUS_PSYC 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis or project approved for the Master's degree. ", 
+      "id": "CSUS_PSYC 500A", 
+      "course name": "Culminating Experience"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Continuation of work on thesis or project. ", 
+      "course name": "Culminating Experience", 
+      "units": "2 Units", 
+      "id": "CSUS_PSYC 500B", 
+      "prerequisite": [
+        "PSYC 500A"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "PSYC", 
+    "subject": "Psychology"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Psychology", 
+    "id": "CSUS"
+  }
+}

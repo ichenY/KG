@@ -1,0 +1,111 @@
+{
+  "subjectOf": {
+    "id": "BOT",
+    "subject": "Botany"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Botany"
+  },
+  "courses": [
+    {
+      "id": "BOT 121",
+      "course name": "General Botany",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b2; ge area b4"
+      },
+      "description": "The anatomy, physiology, reproduction, and importance of plants. 3 lectures, 1 laboratory. Fulfills GE B2 & B4."
+    },
+    {
+      "id": "BOT 311",
+      "course name": "Plants, People and Civilization",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b5"
+      },
+      "description": "Human uses of plants for food, beverage, medicine, fiber, recreation, and rituals.  Uses of plants by different cultures throughout the world and the social, economical, and environmental importance of plants in our lives.  3 lectures, 1 laboratory.  Fulfills GE B5."
+    },
+    {
+      "id": "BOT 313",
+      "course name": "Taxonomy of Vascular Plants",
+      "hasPrerequisite": "BIO 114 or BIO 162 or BOT 121",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Introduction to classification and identification of vascular plants, emphasizing major plant families; field and herbarium techniques.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "BOT 323",
+      "course name": "Plant Pathology",
+      "hasPrerequisite": "BIO 162 or BOT 121",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Comprehensive study of the causes and effects of disease in plants.  Designed to lead to an understanding of the science and modern control methods.  2 lectures, 2 laboratories.  Crosslisted as AEPS/BOT323."
+    },
+    {
+      "id": "BOT 326",
+      "course name": "Plant Ecology",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "BIO 114"
+        },
+        {
+          "prerequisite": "BIO 162"
+        },
+        {
+          "prerequisite": "BIO 211"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Summer"
+        }
+      ],
+      "description": "Plant communities, population dynamics, and effects of the following environmental factors on plant growth and development:  soil, water, temperature, light, atmosphere, topography, organisms, and fire.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "BOT 329",
+      "course name": "Plants, Food, and Biotechnology",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "BIO 111"
+        },
+        {
+          "prerequisite": "BIO 114"
+        },
+        {
+          "prerequisite": "BIO 161"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area Fall"
+      },
+      "description": "Agriculture as applied biology and its impact on civilization.  Application of technology to increase the efficiency of food production.  Genetics and biotechnology; culminating in an assessment of genetically engineered foods, the myths, the controversy, the science.  Not open to Agricultural and Environmental Plant Sciences majors.  3 lectures, 1 laboratory.  Crosslisted as AEPS/BOT329.  Fulfills GE Area F."
+    },
+    {
+      "id": "BOT 433",
+      "course name": "Field Botany: California Plant Diversity",
+      "hasPrerequisite": "BOT 313",
+      "units": "5 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Field studies of California's diverse vegetation.  Identification of plants and plant communities in the field.  Factors affecting distribution and ecological relationships.  California geography, geology, and evolution of California flora.  Several one day field trips and three weekend trips to California's deserts and mountains.  Field trips required.  3 lectures, 2 laboratories."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "courses": [
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Acquaints students with digital photographic equipment and techniques. Lecture and demonstrations will cover hardware (cameras, computers, scanners and printers) and software used to create digital images. Ethical and legal issue will be discussed. Portfolio of digital photographs created in the computer lab required.",
+      "id": "CSUS_PHOT 11",
+      "course name": "Digital Imaging"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "An introduction to composited photographic images. Course provides a broad primer to digital editing and compositing techniques. Lectures and discussions provide artistic and ethical context for contemporary photographic practice.  ",
+      "course name": "Digital Photography II",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 12",
+      "prerequisite": [
+        "PHOT 11"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_PHOT 15",
+      "course name": "Survey of Photography"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focuses on photography's influence on notions of self from its inception in 1938 to the present. Enhances students' understanding of how and why photography became the powerful and ubiquitous tool that shaped a new form of visual self-expression.",
+      "id": "CSUS_PHOT 20",
+      "course name": "The Photographic Self"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Introduction to basic camera and darkroom techniques. Concepts of visual organization, design and using light effectively are emphasized. Lecture two hours; laboratory three hours.",
+      "id": "CSUS_PHOT 40",
+      "course name": "Basic Techniques of Photography"
+    },
+    {
+      "term": ".",
+      "description": "Introduces students to the history of photography, from inception to Mid-20th Century. Practices of photographers and artists, working with photographic technologies, will be discussed. The course examines photographic vision and the impact of the medium through lectures and readings by art historians and photographers. ",
+      "course name": "Photography, Inception to Mid-Century",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 101",
+      "prerequisite": [
+        "ART 101"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Examines photographic vision and  the impact of the medium on society through readings by both photographers and photographic critics. Establishes the importance of photography as a contemporary medium, explores the development of photographic vision and the relationship between photographs and cultural events. Lecture/discussion.",
+      "id": "CSUS_PHOT 102",
+      "course name": "Photography, a Social History"
+    },
+    {
+      "term": "Fall only",
+      "description": "Covers intermediate to advanced concepts and techniques in digital photographic imaging, providing students with the ability to explore both new and previously mastered software and hardware applications. Emphasis is on using digital techniques to create and print effective and imaginative color photographs. Lectures and demonstrations cover capture, manipulation, color management and pre-press techniques for a variety of output devices.  ",
+      "course name": "Intermediate Digital Imaging",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 111",
+      "prerequisite": [
+        "PHOT 11",
+        "PHOT 40",
+        "PHOT 141",
+        "PHOT 101"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "This course focuses on the development of the photographer's vision through the Zone System, black and white materials and the 4X5 view camera. The Zone System is used to control negative exposure and contrast, enhance print pre-visualization and to create quality gelatin-silver prints. Though this class concentrates on advancing student's technical proficiency a significant portion of the class is dedicated to aesthetic concerns in photography. ",
+      "course name": "Intermediate Black and White  Photography",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 141",
+      "prerequisite": [
+        "PHOT 11",
+        "PHOT 40",
+        "PHOT 111",
+        "PHOT 101"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "A commercially oriented course with assignments covering such topics as food, fashion and products photographed with artificial light in the studio. Business, legal and ethical practices in commercial and editorial photography are discussed as they apply to work done in a studio setting. Students are expected to become visually and technically competent with artificial light sources used in a studio setting.  ",
+      "course name": "Artificial Light, Studio",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 148",
+      "prerequisite": [
+        "PHOT 111",
+        "PHOT 141",
+        "PHOT 102",
+        "PHOT 155"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "A location lighting course covering the use of artificial light and non-studio photography. Assignments cover such topics as: interior and exterior architecture, food and fashion shot on location. Techniques for combining the use of hot lights, electronic flash and ambient light are discussed. Students will use a body of work demonstrating their visual and technical understanding of artificial light sources for editorial and commercial application. ",
+      "course name": "Artificial Light, Location",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 149",
+      "prerequisite": [
+        "PHOT 148",
+        "PHOT 155",
+        "PHOT 165"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Explores advanced techniques in the production of photographic imagery, with special emphasis on the hybridization of photographic processes. Lectures cover advanced chemical and digital photographic procedures in camera use and printing techniques. Students must demonstrate a high level of visual awareness and technical competency, and must be willing to take risks in the creative application of photographic processes.  ",
+      "course name": "Advanced Photography Techniques",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 155",
+      "prerequisite": [
+        "PHOT 111",
+        "PHOT 141",
+        "PHOT 102",
+        "PHOT 148"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "The class visits specific sites followed by a group critique of the resulting photographic work. The course objective is to examine how one situation can be interpreted by many varied sensibilities, broadening the artist's visual vocabulary. Students are required to create visually unified portfolio that demonstrates a sense of place. ",
+      "course name": "Photography in the Field",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 161",
+      "prerequisite": [
+        "PHOT 141",
+        "ART 161"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Studio course exploring alternative photographic processes that may include: printing-out paper, new cyanotype, argyrotype, and platinum-palladium. Slide discussions, individual and class critiques. ",
+      "course name": "Alternative Photographic Processes",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 162",
+      "prerequisite": [
+        "PHOT 141",
+        "ART 162"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Intermediate course investigating the theory, history, and practice of pinhole photography.  Use of student-made pinhole cameras of varying focal lengths using black and white and color materials.  Emphasis on creative approach in both camera making and image formation, supported by intermediate-level photographic technique.  Individual final portfolios and group exhibition of cameras and prints at conclusion of course. ",
+      "course name": "Pinhole Photography",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 163",
+      "prerequisite": [
+        "PHOT 40",
+        "ART 163"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Covers advanced problems in the process of creating photographic work. Emphasis is on the ways which content/form relationships within a body of work are informed by the artist's conceptual and material engagement, as well as the way in which process and context shape meaning in photographic work. Course centers on readings in contemporary theory and aesthetics, discussion, the production of photographic work, and critique. ",
+      "course name": "Issues in Contemporary Photographic Practice",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 165",
+      "prerequisite": [
+        "PHOT 148",
+        "PHOT 155",
+        "PHOT 149"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "This class is a broad investigation of photography's potential. Each semester the class concentrates on a photographic strategy including but not limited to: documentary, journalism, fabrication, image and text, and the archive. Students are introduced to photography's varied application, new developments and conversations in the medium. Readings and discussions will enlist a range of theoretical and critical approaches. Course center on readings, discussion, production of photographic work and critique. ",
+      "course name": "Studio Topics in Photography",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 175",
+      "prerequisite": [
+        "PHOT 149",
+        "PHOT 165",
+        "PHOT 180"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "A senior level course aimed at furthering student's knowledge of postgraduate opportunities. The required final portfolio of images will reflect the student's photographic education, experience and area of expertise.  The content and format of this portfolio will depend on the student's future academic or professional goals.   ",
+      "course name": "Senior Portfolio",
+      "units": "3 Units",
+      "id": "CSUS_PHOT 180",
+      "prerequisite": [
+        "PHOT 149",
+        "PHOT 165",
+        "PHOT 175"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Directed observation and work experience with public agencies, organizations, publications, design or photography studios. Fieldwork is offered to give students experience, personal contacts and orientation in the area of professional photography. Supervision is provided by faculty and the cooperating community employer. Students are required to maintain a detailed record of activities and report regularly to the supervising faculty member. To receive credit the selected activity must be approved prior to adding the course. Ten hours weekly. ",
+      "id": "CSUS_PHOT 195",
+      "course name": "Internship In Photography"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Individual projects or directed readings in photography.  Open to students who are working at an advanced level of photography and competent to carry on individual work.",
+      "id": "CSUS_PHOT 199",
+      "course name": "Special Problems"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Individual projects or directed readings in photography for graduate level students.  Open to students who are working at an advanced level of photography and competent to carry on individual work. ",
+      "id": "CSUS_PHOT 299",
+      "course name": "Special Problems"
+    }
+  ],
+  "subjectOf": {
+    "id": "PHOT",
+    "subject": "Photography"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Photography",
+    "id": "CSUS"
+  }
+}

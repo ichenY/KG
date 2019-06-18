@@ -1,0 +1,427 @@
+{
+  "courses": [
+    {
+      "term": "Fall, Spring", 
+      "description": ". Emphasis is on reasoning and problem-solving, including conceptualization, visualization, and interpretation of written descriptions of physical situations, and on the connection of physical laws to the mathematical techniques used in their solution.", 
+      "course name": "Physical Reasoning and Calculation", 
+      "units": "2 Units", 
+      "id": "CSUS_PHYS 1", 
+      "prerequisite": [
+        "PHYS 11A", 
+        "PHYS 1", 
+        "PHYS 5A"
+      ]
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "One semester introductory physics course including a laboratory. Covers the fundamental concepts of physics with an emphasis on everyday life situations and applications. The range of material includes mechanics, waves, electricity and optics. One hour lecture, two hour discussion, and a three hour laboratory session. ", 
+      "id": "CSUS_PHYS 2", 
+      "course name": "Topics in Elementary Physics"
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "-B sequence is a two-semester course in introductory physics in which fundamental concepts are emphasized including some physiological applications. Lecture two hours; discussion one hour; laboratory three hours. ", 
+      "course name": "General Physics: Mechanics, Heat, Sound", 
+      "units": "4 Units", 
+      "id": "CSUS_PHYS 5A", 
+      "prerequisite": [
+        "PHYS 5A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": "Lecture two hours; discussion one hour; laboratory three hours. ", 
+      "course name": "General Physics: Light, Electricity and Magnetism, Modern Physics", 
+      "units": "4 Units", 
+      "id": "CSUS_PHYS 5B", 
+      "prerequisite": [
+        "PHYS 5A"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introductory course designed for non-science students completing general education requirements. Students will be introduced to basic concepts in Physics through the study of astronomy, atomic nature of matter, electromagnetic waves, energy, sound and earthquake waves, current electricity, magnetism, and nuclear processes. Development of reasoning and quantitative skills and applying them to scientific and technological topics of current importance will be emphasized.", 
+      "id": "CSUS_PHYS 10", 
+      "course name": "Physics In Our World"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " and satisfies the general education science lab requirement. Emphasis is placed on the nature of scientific observation and measurement and their relationship to general physical concepts. Students will be given a concrete, hands-on sense of observing and interpreting data from a variety of experimental environments. ", 
+      "course name": "Physics in Our World Laboratory", 
+      "units": "1 Unit", 
+      "id": "CSUS_PHYS 10L", 
+      "prerequisite": [
+        "PHYS 10", 
+        "PHYS 10"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": " covers the basics of classical mechanics, including kinematics, Newton's laws, conservation laws and rotational dynamics. Lecture two hours; discussion one hour; laboratory three hours. ", 
+      "course name": "General Physics: Mechanics", 
+      "units": "4 Units", 
+      "id": "CSUS_PHYS 11A", 
+      "prerequisite": [
+        "MATH 30", 
+        "MATH 31", 
+        "MATH 31", 
+        "PHYS 11A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " covers the basics of thermodynamics, light propagation, sound, and an introduction to modern physics. Lecture two hours; discussion one hour; laboratory three hours. ", 
+      "course name": "General Physics: Heat, Light, Sound, Modern Physics", 
+      "units": "4 Units", 
+      "id": "CSUS_PHYS 11B", 
+      "prerequisite": [
+        "PHYS 11C", 
+        "PHYS 11B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring, Summer", 
+      "description": " covers the basics of electricity and magnetism. Lecture two hours; discussion one hour; laboratory three hours. ", 
+      "course name": "General Physics: Electricity and Magnetism", 
+      "units": "4 Units", 
+      "id": "CSUS_PHYS 11C", 
+      "prerequisite": [
+        "MATH 31", 
+        "PHYS 11A", 
+        "PHYS 11C"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examination of the methodology of science. Comparison of legitimate investigations with others that do not meet high scientific standards, including both science poorly done and nonsense posing as science. Examples will be drawn primarily from the physical sciences. Analyzes will require study of basic skills of reasoning, types of logical argument, structure and validity of arguments, common reasoning fallacies, critical evaluation of evidence, and understanding of the scientific thinking process.", 
+      "id": "CSUS_PHYS 30", 
+      "course name": "Science and Pseudoscience"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open only to students who appear competent to assume individual work on the approval of the instructor. For students with lower division status. Up to 4 units may be taken for grade. ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_PHYS 99", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Linear algebra and linear vector spaces, linear transformations and eigenvectors, differential and integral vector calculus, with applications to physical problems. ", 
+      "course name": "Mathematical Methods in Physics", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 105", 
+      "prerequisite": [
+        "MATH 32", 
+        "PHYS 11A", 
+        "PHYS 11B", 
+        "PHYS 11C", 
+        "PHYS 5A", 
+        "PHYS 5B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Basic concepts of special relativity and quantum theory of matter. Phenomenological study of atomic and molecular energy states and spectra. Elements of solid-state and nuclear physics. ", 
+      "course name": "Introduction to Modern Physics", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 106", 
+      "prerequisite": [
+        "MATH 31", 
+        "PHYS 11A", 
+        "PHYS 11B", 
+        "PHYS 11C", 
+        "PHYS 5A", 
+        "PHYS 5B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Concepts include matter, waves and energy, force and motion, electricity and magnetism, and scientific inquiry.  Emphasizes hands on cooperative learning  engaging students in scientific inquiry by posing testable scientific questions, conducting experiments, and analyzing and presenting findings to their peers.  Appropriate for Liberal Studies and Blended Multiple Subject Credential students.  Weekly activity and discussion sessions. ", 
+      "course name": "Conceptual Physics and Scientific Inquiry", 
+      "units": "4 Units", 
+      "id": "CSUS_PHYS 107", 
+      "prerequisite": [
+        "BIO 7", 
+        "CHEM 106", 
+        "GEOL 8", 
+        "MATH 17", 
+        "CHEM 106"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Fundamental principles of statics and dynamics, including Newton's equations and conservation laws, damped and forced oscillations, central force motion, accelerated coordinate systems, coupled oscillations, normal modes, Lagrangian and Hamiltonian methods, introduction to nonlinear systems and chaos theory. ", 
+      "course name": "Classical Mechanics", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 110", 
+      "prerequisite": [
+        "MATH 45", 
+        "PHYS 11C", 
+        "PHYS 105"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Linear and non-linear circuits, operational amplifiers, transducers, basics of digital circuitry, and an introduction to computerized data acquisition. Lecture two hours; laboratory six hours. ", 
+      "course name": "Electronics and Instrumentation", 
+      "units": "4 Units", 
+      "id": "CSUS_PHYS 115", 
+      "prerequisite": [
+        "PHYS 11C", 
+        "PHYS 5B"
+      ]
+    }, 
+    {
+      "term": "Spring only \u2013 even years", 
+      "description": "Noise reduction techniques, signal recovery, frequency analysis, computerized instrument control, and instrument development. Lecture one hour; laboratory six hours. ", 
+      "course name": "Advanced Electronics and Instrumentation", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 116", 
+      "prerequisite": [
+        "PHYS 115"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Basic concepts and laws of thermodynamics and thermal properties of matter; kinetic theory of gases; use of distribution functions and ensembles in statistical mechanics; connection of probability and entropy; quantum statistics; applications to various systems. ", 
+      "course name": "Thermodynamics and Statistical Mechanics", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 124", 
+      "prerequisite": [
+        "MATH 45", 
+        "PHYS 11A", 
+        "PHYS 11B", 
+        "PHYS 11C"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Theoretical and experimental study of sound sources, sound waves and sound measurement. Basic properties of waves in continuous media; spectral analysis of vibrations; use of acoustic impedance and circuit analogies; applications to environmental noise analysis, room acoustics, and loudspeaker and microphone design and use; experience with acoustic instrumentation. Lecture two hours; laboratory three hours. ", 
+      "course name": "Acoustics", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 130", 
+      "prerequisite": [
+        "MATH 45", 
+        "PHYS 11A", 
+        "PHYS 11B", 
+        "PHYS 11C"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Development of electromagnetic theory from basic experimental laws; electrostatics, electric currents, magnetostatics, electric and magnetic properties of matter, induction, Maxwell's equations, conservation laws, introduction to electromagnetic waves. ", 
+      "course name": "Electricity And Magnetism", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 135", 
+      "prerequisite": [
+        "MATH 45", 
+        "PHYS 11C", 
+        "PHYS 105"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Electromagnetic waves, wave propagation in material media, reflection and refraction, polarization, cavities and waveguides, optical fibers, simple radiating systems, radiation from an accelerated charge and special relativity. Introduction to plasma physics and electromagnetic properties of superconductors. ", 
+      "course name": "Electrodynamics of Waves, Radiation,and Materials", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 136", 
+      "prerequisite": [
+        "PHYS 135"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Elementary treatment of crystal structure and lattice and electron dynamics. Physics of semiconductor junctions, diodes, transistors and MOSFETS, solar cells, lasers, electro-optic and acousto-optic devices. Introduction to basic physical properties such as electrical conduction of selected amorphous solids and their applications. Laboratory experience. ", 
+      "course name": "Applied Solid State Physics", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 142", 
+      "prerequisite": [
+        "MATH 45", 
+        "PHYS 106"
+      ]
+    }, 
+    {
+      "term": "Spring only \u2013 even years", 
+      "description": "Theoretical and experimental treatment of wave optics; interference, diffraction, absorption, scattering, dispersion, polarization. Selected topics from contemporary optics: Fourier optics, coherence theory, lasers, holography. Lecture two hours; laboratory three hours. ", 
+      "course name": "Optics", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 145", 
+      "prerequisite": [
+        "MATH 45", 
+        "PHYS 11A", 
+        "PHYS 11B", 
+        "PHYS 11C"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Foundations of wave mechanics, including wave packets, superposition, and the uncertainty principle. The Schroedinger equation and its relation to operators and eigenstates. Symmetric systems and conserved quantities. Introduction to matrix mechanics, spin, scattering, and perturbation theory. ", 
+      "course name": "Quantum Mechanics", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 150", 
+      "prerequisite": [
+        "MATH 45", 
+        "PHYS 106", 
+        "PHYS 110"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Structure of matter including basic elements of atomics, molecular, solid state, nuclear and particle physics. Topics will also include photon and electron gases, lasers, superconductivity, Bose-Einstein condensation and superfluidity. ", 
+      "course name": "Advanced Modern Physics", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 151", 
+      "prerequisite": [
+        "PHYS 150"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Review of classical mechanics, Lagrangian and Hamiltonian formulations, rigid body motion, small vibrations and normal modes, nonlinear dynamics and chaos. Review of the laws of thermodynamics, principles of classical statistical mechanics, ensemble formulations and applications, principles of quantum statistical mechanics, ideal quantum gases, applications to Fermi-Dirac and Bose-Einstein systems. ", 
+      "course name": "Classical and Statistical Mechanics", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 156", 
+      "prerequisite": [
+        "PHYS 110", 
+        "PHYS 124"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Basic methods and skills of applying computers to the solution of scientific problems. Numerical calculation methods, numbers and data, algebraic equations, rate processes, iterative techniques, approximation methods, statistical analysis and data fitting, relaxation methods, and use of software and other programming resources on the web. Practical experience emphasized throughout. ", 
+      "course name": "Scientific Computing: Basic Methods", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 162", 
+      "prerequisite": [
+        "MATH 26A", 
+        "MATH 30", 
+        "PHYS 5A", 
+        "MATH 30", 
+        "PHYS 11A", 
+        "MATH 105A"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Application of computer modeling, simulation, and visualization to the solution of scientific problems.  Projects drawn from various scientific disciplines will be used to develop the necessary skills, including a capstone project.  Examples include projectile motion with air drag, time development of a biological population, chemical reactions with several reactants, and random walk and Monte Carlo methods.  Practical experience emphasized throughout.  ", 
+      "course name": "Scientific Computing: Modeling, Simulation, and Visualization", 
+      "units": "3 Units", 
+      "id": "CSUS_PHYS 163", 
+      "prerequisite": [
+        "PHYS 162"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced experiments chosen from several of the major areas of physics, performed usually on an individual basis. Laboratory six hours. ", 
+      "course name": "Advanced Physics Laboratory", 
+      "units": "2 Units", 
+      "id": "CSUS_PHYS 175", 
+      "prerequisite": [
+        "PHYS 106", 
+        "PHYS 115", 
+        "PHYS 145"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "description": "A conceptual course in the topics of modern physics including Quantum Mechanics, Special Relativity, and other contemporary topics for a general audience. This course meets General Education Area B5 (Further Studies in Physical Science, Life Forms, and Quantitative Reasoning) and satisfies the upper-division Area B requirement. ", 
+      "id": "CSUS_PHYS 181", 
+      "course name": "Modern Physics for Everyone"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A conceptual course in the application of the laws of physics in the context of sport. Focusing mainly on classical physics, we will cover topics such as force, energy, momentum, collisions, pressure, and fluids to explain what we see on the court, field, pool, and road. This course meets General Education Area B5 (Further Studies in Physical Science, Life Forms, and Quantitative Reasoning) and satisfies the upper-division Area 8 requirement. ", 
+      "id": "CSUS_PHYS 182", 
+      "course name": "Physics of Sports"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " No technical background required; course cannot be used to meet Physics BS program requirements. It is recommended that student have already completed their B1 and B4 requirement prior to enrollment. Some experience with music is also helpful. ", 
+      "description": "Physical principles of vibration and wave motion, with illustrations involving musical instruments and concert hall acoustics; principles of electronic synthesis, recording, and reproduction of sound; operation of the human ear and brain in receiving and analyzing sound; relation of the harmonic series to sound quality, harmony and scales; proper roles for science in explaining music as an artistic activity. ", 
+      "id": "CSUS_PHYS 186", 
+      "course name": "Musical Acoustics: Science and Sound"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "An extensive study of light, mostly in the context of applications. Topics include basics of light and natural phenomena, optics, color, light and energy (solar power), and holography; as well as more advanced topics such as wave/particle model of light, diffraction and polarization. The course will also cover optical instrumentation such as cameras, microscopes, telescopes, displays, and photoreceptors. ", 
+      "id": "CSUS_PHYS 187", 
+      "course name": "Seeing the Light"
+    }, 
+    {
+      "units": "1 - 2 Units", 
+      "term": " May be taken for credit in sequential semesters for a maximum of two units total. ", 
+      "description": "Special lecture series on announced topics by local and visiting speakers, emphasizing current research developments, with related reading assignments. ", 
+      "id": "CSUS_PHYS 190", 
+      "course name": "Physics Seminar"
+    }, 
+    {
+      "units": "1 - 2 Units", 
+      "term": " May be taken for credit in sequential semesters for a maximum of four units total.  Grade assigned upon completion of the project.  ", 
+      "description": "Research Project under faculty supervision. Project may consist of laboratory or theoretical research project, instrumentation/demonstration development, or literature research project. Projects require written and oral reports. ", 
+      "id": "CSUS_PHYS 191", 
+      "course name": "Senior Project"
+    }, 
+    {
+      "term": " may not be used to meet major requirements in Physics; May be taken for credit in sequential semesters  ", 
+      "description": "Supervised employment in a physics or astronomy related company or agency. Placement is arranged through the department and the Cooperative Education Program office. Requires completion of a three-to-six month work assignment and a written report. ", 
+      "course name": "Physics Related Work Experience", 
+      "units": "6 - 12 Units", 
+      "id": "CSUS_PHYS 194", 
+      "prerequisite": [
+        "PHYS 194"
+      ]
+    }, 
+    {
+      "term": " May be taken for credit in sequential semesters for a maximum of six units total.  ", 
+      "description": "-B, 10, 11A-C, 107, or ASTR4. The students will meet weekly with the faculty teaching this class, and with their supervisor or mentor to help prepare and teach the class. ", 
+      "course name": "Teaching Internship", 
+      "units": "1 - 2 Units", 
+      "id": "CSUS_PHYS 195", 
+      "prerequisite": [
+        "PHYS 2", 
+        "5A"
+      ]
+    }, 
+    {
+      "term": " May be taken for credit in sequential semesters for a maximum of six units total.  ", 
+      "description": ". The student will meet weekly with the faculty teaching this class, and with their supervisor or mentor to help prepare and teach the laboratory. ", 
+      "course name": "Laboratory Teaching Assistant", 
+      "units": "1 - 2 Units", 
+      "id": "CSUS_PHYS 197", 
+      "prerequisite": [
+        "PHYS 2", 
+        "5A", 
+        "ASTR 6"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Spring only", 
+      "description": "Students may provide special tutoring to students taking physics courses, participate in community oriented projects, assist in activity sessions for teacher training courses, or engage in activities related to the subject matter and concerns of the Physics and Astronomy Department. Up to 4 units may be taken.", 
+      "id": "CSUS_PHYS 198", 
+      "course name": "Co-Curricular Activities"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading. Open only to students who appear competent to assume individual work on the approval of the instructor. Up to 4 units may be taken for grade.", 
+      "id": "CSUS_PHYS 199", 
+      "course name": "Special Problems"
+    }
+  ], 
+  "subjectOf": {
+    "id": "PHYS", 
+    "subject": "Physics"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Physics", 
+    "id": "CSUS"
+  }
+}

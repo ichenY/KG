@@ -1,0 +1,52 @@
+{
+  "subjectOf": {
+    "id": "ITAL",
+    "subject": "Italian"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Italian"
+  },
+  "courses": [
+    {
+      "id": "ITAL 101",
+      "course name": "Elementary Italian I",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Beginning Italian. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation. Language taught in its intercultural context. 3 lectures, 1 activity."
+    },
+    {
+      "id": "ITAL 102",
+      "course name": "Elementary Italian II",
+      "hasPrerequisite": "ITAL 101 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "id": "ITAL 103",
+      "course name": "Elementary Italian III",
+      "hasPrerequisite": "ITAL 102 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity."
+    },
+    {
+      "id": "ITAL 201",
+      "course name": "Intermediate Italian I",
+      "hasPrerequisite": "ITAL 103 or consent of instructor",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c5"
+      },
+      "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Italian within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5."
+    }
+  ]
+}

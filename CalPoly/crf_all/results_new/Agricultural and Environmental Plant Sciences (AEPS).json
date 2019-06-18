@@ -1,0 +1,1088 @@
+{
+  "subjectOf": {
+    "id": "AEPS",
+    "subject": "Agricultural and Environmental Plant Sciences"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Agricultural and Environmental Plant Sciences"
+  },
+  "courses": [
+    {
+      "id": "AEPS 101",
+      "course name": "Orientation to Horticulture and Crop Science",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Understand the depth and breadth of horticulture, field crops, and plant protection careers. Examination of curricula within the department. Introduction to both student and professional organizations. Emphasis on curriculum and career planning. Required of all Horticulture and Crop Science students. Credit/No Credit grading only. 1 lecture, 1 activity."
+    },
+    {
+      "id": "AEPS 110",
+      "course name": "People, Pests and Plagues",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area b2; ge area b4"
+      },
+      "description": "Introduction to the science of entomology, focusing on insect identification, biology, ecology, and interactions with humans. Insect pest and beneficial species, and their role in shaping how we live, work and eat. Not open to Agricultural and Environmental Plant Sciences majors or Wine and Viticulture majors (viticulture concentration). 3 lectures, 1 activity. Fulfills GE B2 & B4."
+    },
+    {
+      "id": "AEPS 120",
+      "course name": "Principles of Horticulture and Crop Science",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Introduction to horticulture and crop science. Basic plant processes, classification, anatomy, physiology, and biotechnology. Effect of environment on plants and how we control it. Introduction to plant growth including propagation, media, irrigation, nutrition, management, harvest, and post harvest handling. People's use of plants. Field trip required. 3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 123",
+      "course name": "Landscape Installation and Maintenance",
+      "hasPrerequisite": "AEPS 120",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Planting and maintenance of trees, shrubs, ground covers, perennial plantings, color beds, specialty plantings, and small turf areas.  Site selection, cultural requirements, scheduling of maintenance activities, pruning, landscape renovation and irrigation system repair.  Equipment operation, maintenance, and safety.  Speakers from industry.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 124",
+      "course name": "Plant Propagation",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 120"
+        },
+        {
+          "prerequisite": "BOT 121"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Plant propagation practices with emphasis on understanding why practices are used, how they work, and how they are applied in commercial horticulture.  Field trip required.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 126",
+      "course name": "Landscape Construction",
+      "hasPrerequisite": "AEPS 120",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Design, construction techniques, and materials used in landscape and horticulture construction.  Material quantity estimating, sustainable building practices, construction material substitutions, tools and equipment associated with landscape and horticulture construction, and equipment safety.  Field trip required.  2 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 127",
+      "course name": "Horticulture and Landscape Design",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Aesthetic aspects of environmental horticulture, introduction to computer aided design, presentation techniques and garden history. Field trip required. 2 lectures, 2 laboratories."
+    },
+    {
+      "id": "AEPS 132",
+      "course name": "Pomology I",
+      "hasPrerequisite": "AEPS 120",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Orchard design and development, cultural practices, physiological responses of trees to cultural practices, propagation and strategies to maximize orchard profitability and sustainability.  Not open to students with credit in AEPS250.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 133",
+      "course name": "Pomology II",
+      "hasPrerequisite": "AEPS 132",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Analysis of production and management strategies for major fruit and nut crops in California.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 150",
+      "course name": "Forage Crops",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Forages as a world resource in food and animal production, soil and water conservation and sustainable agricultural systems. Forage use systems: pasture and range, green chop, silage, hay and cubes. Identification and management of limiting factors of forage plant growth. Botany of legumes and grasses. Grass, legume and weed identification. Forage crop improvement. Forage composition and quality. Antiquality factors. 3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 175",
+      "course name": "Beekeeping",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Studies and exercises in the handling of European honey bees with special reference to pollination of commercial crops. Honey processing and marketing. Hive inspection and disease detection. 2 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 190",
+      "course name": "California Vegetable Production",
+      "hasPrerequisite": "AEPS 120",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "History, botany, growth characteristics and climatic adaptation, pests, and harvesting methods for the most important vegetable crops grown in California.  Use of transplants, plastic mulches and row covers in vegetable production.  Current topics in agriculture important to the vegetable industry.  Field trip to a major California vegetable production area required.  Survey of vegetable production for Agricultural and Environmental Plant Sciences majors.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total graduation credit limited to 4 units, with a maximum of 4 units per quarter.  Report required."
+    },
+    {
+      "id": "AEPS 202",
+      "course name": "Fruit Enterprise Project",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Beginning field experience in management of orchards or honeybees. May include cultural practices, harvesting, processing, sales and marketing activities. Credit/No Credit grading only. 1 lecture, 1 activity."
+    },
+    {
+      "id": "AEPS 203",
+      "course name": "Organic Enterprise",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Beginning field experience in production and marketing of organic vegetable crops. May include cultural practices, harvesting, processing, sales and marketing activities. Credit/No Credit grading only. 1 lecture, 1 activity."
+    },
+    {
+      "id": "AEPS 204",
+      "course name": "Vegetable Enterprise Project",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Beginning field experience in vegetable production systems. May include cultural practices, harvesting, processing, sales and marketing activities. Credit/No Credit grading only. 1 lecture, 1 activity."
+    },
+    {
+      "id": "AEPS 210",
+      "course name": "Viticultural Practices",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Critical viticultural practices including planting, pruning, canopy management, fruit thinning, harvest, floor management, trellis and irrigation maintenance. 2 activities. Crosslisted as AEPS/WVIT210."
+    },
+    {
+      "id": "AEPS 212",
+      "course name": "Environmental Horticulture Enterprise Project I",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Beginning field experience in environmental horticulture. Selection and completion of a management/production project. Credit/No Credit grading only. 1 lecture, 1 activity."
+    },
+    {
+      "id": "AEPS 215",
+      "course name": "Floral Design I",
+      "units": "3 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        }
+      ],
+      "description": "Fundamentals of theory, techniques and skills currently practiced in the floral industry. Intended as consumer education for non-majors as well as initial preparation for pre-professionals. Includes applied art principles, post-harvest care and handling practices, and proper use of florist tools and materials in developing basic designs. 1 lecture, 2 laboratories."
+    },
+    {
+      "id": "AEPS 225",
+      "course name": "Floral Design II",
+      "hasPrerequisite": "AEPS 215",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Expanded exploration and application of design theory to commercial products and services in the retail floral industry.  Appropriate utilization of current sales and business practices in a florist setting.  Advanced techniques and skills for construction of designs for weddings, advanced arrangements, and designs for events.  1 lecture, 2 laboratories."
+    },
+    {
+      "id": "AEPS 230",
+      "course name": "Environmental Horticulture",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Technical information and recommendations for the residential horticulturist. Propagation, pruning, planting, media, fertilizers, pest and weed control, landscaping, maintenance, identification and care of ornamental plants. Being a wise horticultural consumer. Not open to Agricultural and Environmental Plant Sciences majors. 3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 233",
+      "course name": "Plant Materials I",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Identification, habits of growth, cultural requirements, and use of ornamental plants in the landscape. 3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 234",
+      "course name": "Plant Materials II",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Identification, habits of growth, cultural requirements, and use of ornamental plants in the landscape. 3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 240",
+      "course name": "Commercial Seed Production",
+      "hasPrerequisite": "AEPS 120 or AEPS 260",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Production of field and vegetable seed.  Seed technology, germination, quality control, seed enhancement, storage and handling of seed, and seed laws.  Field trip to a seed conditioning/seed enhancement facility required.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 244",
+      "course name": "Precision Farming",
+      "hasPrerequisite": "AEPS 133 or AEPS 190 or AEPS 260 or BRAE 237 or BRAE 239",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Precision agriculture applications.  Integrating GIS, GPS, and remote sensing technologies with site-specific farming practices to optimize agricultural productivity.  Field trip required.  3 lectures, 1 laboratory.  Crosslisted as AEPS/BRAE244."
+    },
+    {
+      "id": "AEPS 245",
+      "course name": "Horticultural Production Techniques",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Applied principles of plant growth in relation to the production horticulture industry. Emphasis on container media, fertilizing practices, irrigation, plant growth regulators, and miscellaneous growing structures. 2 activities, 1 laboratory."
+    },
+    {
+      "id": "AEPS 250",
+      "course name": "California Fruit Growing",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Interrelationship of climate and cultural techniques on orchard productivity. California's place in the international production-marketing scheme. Field trip required. Not open to Agricultural and Environmental Plant Sciences majors, or students with credit in AEPS132. 3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 260",
+      "course name": "Introduction to Vegetable Science",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Environmental and cultural principles involved in the production of California vegetable crops; temperature, daylength and fertility effects on production and yield, use of plastic mulches and row covers, and use of transplants. Harvest principles and precooling methods. Not open to Agricultural and Environmental Plant Sciences majors or students with credit in AEPS190. 3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "AEPS 301",
+      "course name": "Principles of Landscape Design",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 127"
+        },
+        {
+          "prerequisite": "AEPS 233 or AEPS 234"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Introduction to basic principles and elements of residential landscape design, design theory, plant composition, creative problem solving, functional and aesthetic uses of landscape materials, client and maintenance criteria, and sustainable design concepts.  Intermediate computer aided design drafting and drawing skills.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "AEPS 304",
+      "course name": "Introduction to Plant Breeding",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 120"
+        },
+        {
+          "prerequisite": "STAT 218"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Principles of qualitative and quantitative genetics useful in the development of new plant varieties.  Procedures for the creation of genetic variability, testing procedures, and selection schemes for development of improved plant types.  4 lectures."
+    },
+    {
+      "id": "AEPS 312",
+      "course name": "Environmental Horticulture Enterprise Project II",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Field experience in environmental horticulture.  Selection and completion of a management/production project under faculty supervision.  Credit/No Credit grading only.  1 lecture, 1 activity."
+    },
+    {
+      "id": "AEPS 313",
+      "course name": "Agricultural Entomology",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 120 or BOT 121"
+        },
+        {
+          "prerequisite": "CHEM 111"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "The science of entomology as it relates to insects of importance in agriculture.  Focus on the biology, ecology and identification of insects and mites important to California horticulture, field crops and landscapes.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 315",
+      "course name": "Organic Crop Production",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area Fall"
+      },
+      "description": "Origins, application, regulation and technology of organic crop production.  Theoretical and practical issues surrounding organic crop production from a cross-disciplinary perspective.  Topics include the history of the organic movement; current regulation and certification; and field management practices and technologies.  Features industry guest lecturers.  3 lectures, 1 activity.  Crosslisted as AEPS/AG315.  Fulfills GE Area F."
+    },
+    {
+      "id": "AEPS 321",
+      "course name": "Weed Biology and Management",
+      "hasPrerequisite": "AEPS 120 or BOT 121",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Weed ecology, biology, and implications for management.  Identification of weedy and invasive plant species in annual agricultural, perennial semi-managed, range, aquatic, and forest ecosystems, to elucidate weaknesses and strengths in order to facilitate vegetation management.  Organic, cultural, biological, mechanical, and chemical methods and their integrated pest management (IPM) uses.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 323",
+      "course name": "Plant Pathology",
+      "hasPrerequisite": "BIO 162 or BOT 121",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Comprehensive study of the causes and effects of disease in plants.  Designed to lead to an understanding of the science and modern control methods.  2 lectures, 2 laboratories.  Crosslisted as AEPS/BOT323."
+    },
+    {
+      "id": "AEPS 327",
+      "course name": "Vertebrate Pest Management",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Vertebrate pests injurious to crops, livestock, forest products, wildlife, stored products and humans.  Life habits, identification, control methods, and materials.  Related laws and regulations.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 329",
+      "course name": "Plants, Food, and Biotechnology",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "BIO 111"
+        },
+        {
+          "prerequisite": "BIO 114"
+        },
+        {
+          "prerequisite": "BIO 161"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area Fall"
+      },
+      "description": "Agriculture as applied biology and its impact on civilization.  Application of technology to increase the efficiency of food production.  Genetics and biotechnology; culminating in an assessment of genetically engineered foods, the myths, the controversy, the science.  Not open to Agricultural and Environmental Plant Sciences majors.  3 lectures, 1 laboratory.  Crosslisted as AEPS/BOT329.  Fulfills GE Area F."
+    },
+    {
+      "id": "AEPS 331",
+      "course name": "Advanced Viticulture - Fall",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Summer"
+        }
+      ],
+      "description": "Advanced viticulture theory and practice, with an emphasis on fall season activities.  Identification of rootstocks, wine and table grapes, species taxonomy and diversity, and breeding for grapevine improvement.  Field trips required.  3 lectures, 1 laboratory.  Crosslisted as AEPS/WVIT331."
+    },
+    {
+      "id": "AEPS 332",
+      "course name": "Landscape Contracting",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 126"
+        },
+        {
+          "prerequisite": "AEPS 127"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Practices in supervising personnel and applying standard techniques in landscape construction.  Cost finding and estimating for landscape trades.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 333",
+      "course name": "Greenhouse Vegetable Production",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 120"
+        },
+        {
+          "prerequisite": "CHEM 111 or CHEM 127"
+        },
+        {
+          "prerequisite": "SS 221"
+        }
+      ],
+      "units": "2 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Development, practices, history, and future of crop production in greenhouses.  Research applications, commercial applications, production problems, marketing, and economics.  Special emphasis on growing transplants in greenhouses and use of nutrient solutions.  Field trips to a commercial greenhouse operation and/or analysis lab required.  2 activities."
+    },
+    {
+      "id": "AEPS 339",
+      "course name": "Internship in Horticulture and Crop Science",
+      "units": "1-12 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Selected Horticulture and Crop Science students will spend up to 12 weeks with an approved agricultural/horticultural firm engaged in production or related business.  Time will be spent applying and developing production and managerial skills and abilities.  One unit of credit may be allowed for each full week of completed and reported internship.  Degree credit limited to 6 units.  Credit/No Credit grading only."
+    },
+    {
+      "id": "AEPS 340",
+      "course name": "Principles of Greenhouse Environment",
+      "hasPrerequisite": "AEPS 245",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Analysis of problems and practices affecting the contemporary commercial horticulturist.  Analysis and operation of greenhouses and related equipment stressing the effect of environment on plant growth.  Field trip required.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 341",
+      "course name": "Cut Flower Production",
+      "hasPrerequisite": "AEPS 120",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Production of cut flowers and other fresh florists' commodities in greenhouses and outdoors.  Preparation and scheduling of such commodities for major markets.  Field trip required.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 342",
+      "course name": "Potted Plant Production",
+      "hasPrerequisite": "AEPS 245",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Production of major commercial flowering potted plants in greenhouses and outdoors.  Preparation and scheduling of potted flowering greenhouse crops for major markets.  Field trip required.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 343",
+      "course name": "Turfgrass Management",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 120 or BOT 121"
+        },
+        {
+          "prerequisite": "SS 121"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Turfgrass species and uses.  Principles of turfgrass physiology and communities under different environments.  Overview of procedures and equipment for propagation, mowing, irrigation, fertilization, aerification, and pest control.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 350",
+      "course name": "Abiotic Plant Problems",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 124"
+        },
+        {
+          "prerequisite": "CHEM 111 or CHEM 127"
+        },
+        {
+          "prerequisite": "SS 121"
+        }
+      ],
+      "units": "3 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Diagnosis of physiological disorders associated with environmental and nutritional factors.  Particular emphasis on the systematic inquiry process.  Case histories, multimedia use.  2 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 351",
+      "course name": "Experimental Techniques and Analysis",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "MATH 118 or equivalent"
+        },
+        {
+          "prerequisite": "STAT 218"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Principal experimental designs used in agriculture and methods of statistical analysis of data collected from each.  Statistical software.  Field practice in planning and layout of typical experiments.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 355",
+      "course name": "Citrus and Avocado Fruit Production",
+      "hasPrerequisite": "AEPS 120 or AEPS 250",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "World citrus and avocado production and marketing.  Orchard management techniques.  Relationship of environment to species, cultivar, and rootstock selection.  Field trip to a major California production area required.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 381",
+      "course name": "Native Plants for California Landscapes",
+      "hasPrerequisite": "BOT 121",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Horticultural investigation of the California flora with emphasis on landscape use and potential.  Plant recognition, identification, propagation and culture.  Utilization of native plants in landscape design and habitat restoration.  Field trip required.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems.  Total degree credit limited to 4 units, with a maximum of 4 units per quarter.  Report required."
+    },
+    {
+      "id": "AEPS 402",
+      "course name": "Fruit Enterprise Project Management",
+      "hasPrerequisite": "AEPS 202",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Advanced experience in production of orchards.  Development and execution of a plan for field operations, fruit processing and/or marketing.  Management decision-making.  Total credit limited to 4 units.  Credit/No Credit grading only.  1 lecture, 1 activity."
+    },
+    {
+      "id": "AEPS 403",
+      "course name": "Organic Enterprise Project Management",
+      "hasPrerequisite": "AEPS 203",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Advanced experience in production of organic vegetables.  Development and execution of a plan for planting schedule, cultivation, harvest, and/or marketing.  Management decision-making.  Total credit limited to 4 units.  Credit/No Credit grading only.  1 lecture, 1 activity."
+    },
+    {
+      "id": "AEPS 404",
+      "course name": "Vegetable Enterprise Project Management",
+      "hasPrerequisite": "AEPS 204",
+      "units": "2 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Advanced experience in the production of vegetable crops.  Development, management and implementation of cultural practices, harvesting, processing, sales and marketing activities for vegetable crops.  Total credit limited to 4 units.  Credit/No Credit grading only.  1 lecture, 1 activity."
+    },
+    {
+      "id": "AEPS 406",
+      "course name": "Advanced Weed Management",
+      "hasPrerequisite": "AEPS 321",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Advanced coverage of sustainable weed and invasive plant management technologies.  Concepts include environmental fates, plant metabolism, ecology and biology of weeds, and mechanisms of action of herbicides.  Plant biotechnology as it relates to herbicide resistance in crops and weeds.  4 lectures."
+    },
+    {
+      "id": "AEPS 410",
+      "course name": "Crop Physiology",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 120 or BIO 263"
+        },
+        {
+          "prerequisite": "BIO 162 or BOT 121"
+        },
+        {
+          "prerequisite": "CHEM 216"
+        },
+        {
+          "prerequisite": "CHEM 312 or CHEM 316"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Ecological and physiological interactions associated with the production of crop plants.  Physiological and biochemical processes that elucidate the mechanism of whole plant performance and responses to the environment.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 414",
+      "course name": "Grape Pest Management",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "WVIT 232 or WVIT 233"
+        },
+        {
+          "prerequisite": "AEPS 313"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Comprehensive survey of major grape pests including diseases, insects, weeds, vertebrates, and nematodes.  Identification and biology of grape pests and natural enemies, monitoring, and integrated pest management (IPM) strategies, including cultural, biological, and chemical controls.  Guest lectures.  3 lectures, 1 activity.  Crosslisted as AEPS/WVIT414."
+    },
+    {
+      "id": "AEPS 421",
+      "course name": "Postharvest Technology of Horticultural Crops",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Respiration, ethylene, ripening and senescence; modified atmosphere packaging, controlled atmosphere storage, packinghouses and transportation; survey of postharvest techniques to maximize commodity shelf-life.  Field trip required.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 423",
+      "course name": "Advanced Vegetable Science",
+      "hasPrerequisite": "AEPS 190 or AEPS 260",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Agricultural land conservation; current laws impacting vegetable production and marketing.  Environmental and cultural effects on selected vegetables including specific effects on growth, flowering, fruiting and yield.  Field trip to desert vegetable production regions required.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 424",
+      "course name": "Nursery Crop Production",
+      "hasPrerequisite": "AEPS 124",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Comprehensive and historical overview of the nursery industry.  Types of wholesale nurseries and their products.  Plant production systems, scheduling, and marketing.  Emphasis on medium to large woody plants and deciduous field-grown ornamental trees and shrubs in the western U.S.  Field trip required.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 425",
+      "course name": "Arboriculture",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 123"
+        },
+        {
+          "prerequisite": "AEPS 233"
+        },
+        {
+          "prerequisite": "AEPS 234 or NR 208 for FNR majors"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Theory and practice for the care and management of ornamental trees.  Selection, planting, establishment, maintenance of specimen trees.  Professional use of ropes and safety equipment.  Tree evaluation, scheduling cultural practices, bracing, cabling, specialty hand and power equipment operation, safety regulations.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "AEPS 427",
+      "course name": "Disease and Pest Control Systems for Ornamental Plants",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 120"
+        },
+        {
+          "prerequisite": "AEPS 313"
+        },
+        {
+          "prerequisite": "AEPS 321"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Recognition, prevention and control of diseases, insect/mite pests and weeds that impact commercial ornamental plantings.  Integrated pest management strategies presented including biological, cultural, and safe and proper pesticidal controls.  Laboratory emphasizes monitoring, problem solving and application of appropriate pest control measures.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 431",
+      "course name": "Insect Pest Management",
+      "hasPrerequisite": "AEPS 313",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Principles of insect and mite pest management, including integrated pest management (IPM), applications of ecological theory to pest management, cultural, biological and chemical controls, pesticide resistance management, insect and mite monitoring, biotechnology applications, pesticide laws and regulations, pest control advisor and qualified applicator licensing and certification.  Field trip required.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 432",
+      "course name": "Specialized Operations for Golf Courses and Athletic Fields",
+      "hasPrerequisite": "AEPS 343",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Advanced maintenance and operation of golf course facilities and athletic field complexes.  Specialized turf establishment and maintenance, environmental concerns, finance and personnel management, and professional development.  Field trip required.  3 lectures, 1 laboratory.  Not open to students with credit in AEPS 430 or AEPS 433."
+    },
+    {
+      "id": "AEPS 434",
+      "course name": "Landscape Management",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 123"
+        },
+        {
+          "prerequisite": "AEPS 126"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Maintenance procedures and operations.  Operating a landscape management business.  Estimating, scheduling, recordkeeping and implementation of landscape maintenance projects.  Interior landscape maintenance.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 435",
+      "course name": "Advanced Landscape Design",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 233"
+        },
+        {
+          "prerequisite": "AEPS 234"
+        },
+        {
+          "prerequisite": "AEPS 301"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Advanced principles of landscape design for residential properties.  Design process, form, and space composition emphasized.  Application of sustainable design concepts.  Computer aided design applications, including three-dimensional design, emphasized.  Field trip required.  2 lectures, 2 laboratories."
+    },
+    {
+      "id": "AEPS 437",
+      "course name": "Park and Public Space Management",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Management and maintenance of private and public parks, arboreta, botanical gardens and recreational areas.  Maintenance personnel management, safety and liability issues.  Field trips required.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 441",
+      "course name": "Biological Control for Pest Management",
+      "hasPrerequisite": "AEPS 313",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Control of arthropods, weeds and vertebrates to include history of biocontrol; biology of beneficial arthropods; methods of introduction, augmentation and conservation; and case studies.  Identification of beneficial arthropods to appropriate taxonomic level.  Technology, laws and regulations governing use of biocontrol agents.  Field trips to insectaries, quarantine facilities and/or crop production areas.  3 lectures, 1 laboratory."
+    },
+    {
+      "id": "AEPS 445",
+      "course name": "Cropping Systems",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "AEPS 120"
+        },
+        {
+          "prerequisite": "SS 121"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Classification and description of agricultural systems of the world.  Cropping systems as land management plans.  Systems approaches to improvement of agricultural situations.  Consideration of human factors and the agroecosystem in efforts to create a more sustainable agriculture.  Field trip required.  3 lectures, 1 activity."
+    },
+    {
+      "id": "AEPS 461",
+      "course name": "Senior Project I",
+      "hasPrerequisite": "STAT 218",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Initial information research for project definition and development.  Projects are typical of problems which graduates must solve in their fields of study or employment.  Project results are presented in AEPS462.  Contract drawn up with approval of advisor.  2 lectures."
+    },
+    {
+      "id": "AEPS 462",
+      "course name": "Senior Project II",
+      "units": "2 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Continuation of Senior Project development.  Write-up of rough draft and formal draft of project.  Completion of formal written report under advisor supervision.  Minimum 60 hours."
+    },
+    {
+      "id": "AEPS 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1-4 lectures."
+    },
+    {
+      "id": "AEPS 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1-4 laboratories."
+    },
+    {
+      "id": "AEPS 500",
+      "course name": "Individual Study in Horticulture and Crop Science",
+      "units": "1-6 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Advanced independent study planned and completed under the direction of a member of the Horticulture and Crop Science faculty.  Total credit limited to 6 units."
+    },
+    {
+      "id": "AEPS 539",
+      "course name": "Graduate Internship in Horticulture and Crop Science",
+      "units": "1-9 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": "Winter"
+        },
+        {
+          "term": "Spring"
+        },
+        {
+          "term": "Summer"
+        }
+      ],
+      "description": "Application of theory to the solution of problems of agricultural production or related business in the fields of horticulture and crop science.  Analyze specific management problems and perform general management assignments detailed in a contract between the student, the firm or organization, and the faculty advisor before the internship commences.  Degree credit limited to 6 units."
+    },
+    {
+      "id": "AEPS 570",
+      "course name": "Selected Topics in Horticulture and Crop Science",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1-4 seminars."
+    },
+    {
+      "id": "AEPS 571",
+      "course name": "Selected Topics Laboratory in Horticulture and Crop Science",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1-4 laboratories."
+    },
+    {
+      "id": "AEPS 575",
+      "course name": "Applied Systematics for Agriculture",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "The application of evolutionary, phylogenetic, taxonomic and biogeographic principles as they pertain to current agricultural issues in the US.  Attention is given to invasive species and their impact on California's agricultural industry.  The course focus is insects, but invasive plants and microorganisms are also addressed.  4 seminars."
+    },
+    {
+      "id": "AEPS 581",
+      "course name": "Graduate Seminar in Crop/Fruit Production",
+      "units": "3 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Group study of current problems, trends and research results pertaining to production or marketing of field, vegetable or fruit crops.  3 seminars."
+    },
+    {
+      "id": "AEPS 596",
+      "course name": "Thesis in Crop Science",
+      "units": "1-9 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Systematic research of a significant problem in Crop Science.  Thesis will include problem identification, significance, methods, data analysis, and conclusion.  Students must enroll every quarter in which facilities are used or advisement is received.  Degree credit limited to 6 units."
+    },
+    {
+      "id": "AEPS 597",
+      "course name": "Thesis in Environmental Horticulture Science",
+      "units": "1-9 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Systematic research of a significant problem in environmental horticulture.  Thesis will include problem identification, significance, methods, data analysis and conclusion.  Students must enroll every quarter in which facilities are used or advisement is received.  Degree credit limited to 6 units."
+    },
+    {
+      "id": "AEPS 598",
+      "course name": "Thesis in Fruit Science",
+      "units": "1-9 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Systematic research of a significant problem in Fruit Science.  Thesis will include problem identification, significance, methods, data analysis, and conclusion.  Students must enroll every quarter in which facilities are used or advisement is received.  Degree credit limited to 6 units."
+    },
+    {
+      "id": "AEPS 599",
+      "course name": "Thesis in Plant Protection Science",
+      "units": "1-9 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Systematic research of a topic in plant protection science, including weed science, entomology, plant pathology, nematology or vertebrate management.  Thesis to describe the problem and its significance, methodology, results, data analysis, discussion and conclusion.  Enrollment required every quarter in which facilities are used or advisement received.  Degree credit limited to 6 units.  Total credit limited to 9 units."
+    }
+  ]
+}

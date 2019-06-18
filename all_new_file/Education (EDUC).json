@@ -1,0 +1,964 @@
+{
+  "subjectOf": {
+    "id": "EDUC",
+    "subject": "Education"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Education"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_EDUC 125",
+      "course name": "First Year Seminar",
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Issues associated with the successful transition from high school or community college to Cal Poly. Links fostered between student needs and campus resources. Coverage of academic policies and procedures, university study skills, goal setting, career planning, wellness and other topics relevant to student success. Not open to students with credit in UNIV100. Credit / No Credit grading only.",
+      "format": "1 lecture, 1 activity.",
+      "other": "Crosslisted as EDUC / UNIV125."
+    },
+    {
+      "id": "CalPoly_EDUC 207",
+      "course name": "Children's Learning and Development in Educational Settings",
+      "prerequisite": [
+        "PSY 201 or PSY 202 or admission to the university with the intent to enter the MSTEP Program"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Study of theories and research about the development and learning of children and young adolescents within diverse backgrounds, and application to teaching in public school settings. Observations / interactions with children in school settings.",
+      "format": "3 lectures, 1 activity"
+    },
+    {
+      "id": "CalPoly_EDUC 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_EDUC 300",
+      "course name": "Historical, Philosophical, and Social Foundations of Public Education",
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Historical, philosophical, and social foundations of public education in relation to school curriculum, instruction and dispositions of effective teachers. Structured observation and participation in K-12 public schools with attention to instructional practices for diverse learners.",
+      "format": "2 lectures, 1 activity"
+    },
+    {
+      "id": "CalPoly_EDUC 400",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Individual investigation, research, studies or surveys of selected problems. Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "id": "CalPoly_EDUC 401",
+      "course name": "Field Experience Seminar",
+      "units": "3 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Discussion of contemporary educational issues, classroom practice, and professional dispositions ; reflection on beginning fieldwork experiences in the classroom and their connection with educational theory and research. Credit/ No Credit grading only.",
+      "format": "3 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 405",
+      "course name": "Social, Historical and Cultural Influences on Latino/a Students in Education",
+      "prerequisite": [
+        "SPAN 202 with a grade of B or better"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Social, cultural, historical, political, economic, and educational factors and systems in Latin America and the United States that have contributed to and shaped Latino / a individual and group identity. How factors affect individual acculturation in California and the United States and influence how Latino / as experience and participate with schooling in the United States.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 410",
+      "course name": "Social, Historical and Ethical Perspectives on Teaching and Learning",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Inquiry into the social, historical, philosophical and psychological foundations of education with an emphasis on applying educational theory to practice. Prepares Single Subject Credential Program students for classroom teaching.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_EDUC 412",
+      "course name": "Access to Learning in a Pluralistic Society",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "The role of culture, status, identity, and human development in public school experiences of diverse learners. Organization and management of secondary school classrooms as related to adolescent development and issues of access to learning.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_EDUC 414",
+      "course name": "Curriculum and Inquiry in Public Schools",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Principles, methods and practices of organizing curriculum, instruction, and assessment for secondary school subject areas, with an emphasis on backward design in curriculum development and assessment. Site visits to local schools to allow analysis of planning, instruction, and assessment in secondary school classrooms.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_EDUC 416",
+      "course name": "Literacy, Language, and Culture in Content Area Classrooms",
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Theories and application of literacy learning, assessment and second language acquisition in content classrooms. Observation of classrooms, tutoring English language learners, designing and teaching literacy lessons, planning and implementing assessments across content areas. Recognition of the role of culture in language acquisition. Course may be offered in classroom - based or online format.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_EDUC 417",
+      "course name": "Literacy, Language, and Culture in the Content Area Classroom Fieldwork",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Fieldwork in the secondary classroom related to literacy, language and culture for Agriculture Education candidates. Includes",
+      "format": "1 - 3"
+    },
+    {
+      "id": "CalPoly_EDUC 418",
+      "course name": "Culturally Responsive Teaching in Diverse Classrooms",
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Differentiated instruction and further theoretical knowledge and skills needed for successful teaching of linguistically and culturally diverse learners, as well as students with special learning needs. PACT assessments embedded in course prepare credential candidates for the teaching event.",
+      "format": "3 lectures."
+    },
+    {
+      "id": "CalPoly_EDUC 419",
+      "course name": "Culturally Responsive Fieldwork in Diverse Classrooms",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Fieldwork in the secondary classroom related culturally responsive teaching in diverse classrooms for Agriculture Education candidates. Includes",
+      "format": "1 - 3"
+    },
+    {
+      "id": "CalPoly_EDUC 423",
+      "course name": "Bilingual Literacy",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Patterns of classroom organization, application of reading programs, approaches, methods in English and Spanish, and supervised field experiences in elementary classrooms with bilingual students.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 427",
+      "course name": "Theories, Methods, and Assessment of First and Second Language Acquisition in Schools",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Theories, methods, materials and assessment involved in the instruction of emergent bilingual students. Bilingual, transitional, and English only programs compared across a historical framework. Emphasis on an integrated language arts approach ; theories of language acquisition.",
+      "format": "3 seminars, 1 activity"
+    },
+    {
+      "id": "CalPoly_EDUC 428",
+      "course name": "Foundations of K-8 Literacy Teaching and Learning in Schools with Diverse Populations",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction of foundational topics in literacy teaching and learning in K-8 schools with diverse populations. Examination of concepts and theories underlying literacy learning and instruction, and relating research - based patterns of reading and writing development to features of the learner and learning environments. Participation in public schools requires mandated fingerprint clearance.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 429",
+      "course name": "Learning to Teach K-8 Literacy in Schools with Diverse Populations",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Integration of theory and practice for planning, instruction and assessment in a balanced, comprehensive, research - based K-8 literacy and language arts program to enable children of all abilities and background to read, write, speak, listen and think effectively.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 431",
+      "course name": "Learning to Teach K-8 Social Studies with Diverse Populations",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Curriculum instruction and assessment concepts regarding teaching social studies to culturally diverse students in grades K-8, to promote civic competence and the development of elementary students ' knowledge and reasoning in the social sciences.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 433",
+      "course name": "Foundations of Bilingual Education",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "History, theories, and practices associated with contemporary bilingual education in California and the U.S. Observation and limited teaching in bilingual classrooms. Approximately one - half of the class taught in Spanish.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 435",
+      "course name": "Learning to Teach K-8 Mathematics with Diverse Populations",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Curriculum, instruction, and assessment concepts regarding teaching mathematics for understanding to culturally diverse students in grades K-8, with emphasis on using manipulatives to promote elementary students ' development of mathematical knowledge and reasoning.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 436",
+      "course name": "Learning to Teach K-8 Science with Diverse Populations",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Curriculum, instruction, and assessment concepts regarding teaching science for understanding to culturally diverse students in grades K-8, with emphasis on teaching via inquiry to promote the development of scientific knowledge and reasoning.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 438",
+      "course name": "Multiple Subject Clinical Practice I",
+      "units": "2-4 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Clinical experiences involving observation ; limited lesson planning, instruction, assessment and reflection ; growth as a professional educator and participation in school - related activities in K-8 public school classrooms. Participation in public schools requires mandated fingerprint clearance. Total credit limited to 4 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_EDUC 439",
+      "course name": "Multiple Subject Clinical Practice Seminar I",
+      "units": "2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Discussion of contemporary educational issues and classroom practice ; reflection on beginning clinical experiences in elementary education and their connection with educational theory and research. Total credit limited to 4 units. Credit / No Credit grading only.",
+      "format": "2 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 440",
+      "course name": "Educating Individuals with Exceptional Needs",
+      "prerequisite": [
+        "EDUC 429",
+        "EDUC 431",
+        "EDUC 435",
+        "EDUC 436",
+        "EDUC 438",
+        "EDUC 439"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Characteristics, incidence, and etiology of individuals with exceptional needs. Problems, assessment, and approaches toward accommodating students with exceptional needs in the regular classroom.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 442",
+      "course name": "Elementary Field Experience in General and/or Special Education",
+      "units": "1-4 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Public school classroom experiences in general education and/or special education classrooms at the elementary level. Teaching individuals and small groups. Total credit limited to 4 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_EDUC 447",
+      "course name": "Secondary Field Experience in General and/or Special Education",
+      "units": "1-4 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Public school classroom experiences in general education classrooms and/or special education classrooms at the secondary level. Teaching individuals and small groups. Total credit limited to 4 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_EDUC 449",
+      "course name": "Special Education Student Teaching",
+      "units": "8 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Participation in public schools as a student teacher in activities representing different roles of special education teachers. Assumption of a teacher 's responsibility for individual and small groups. Minimum 4 days per week. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_EDUC 450",
+      "course name": "Teaching Performance Assessment Seminar",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Tasks, timelines, evaluation rubrics, and academic writing in relation to the Teaching Performance Assessments that are required for teacher credentialing in California. Total credit limited to 2 units. Credit / No Credit grading.",
+      "format": "1 seminar."
+    },
+    {
+      "id": "CalPoly_EDUC 451",
+      "course name": "Special Education Student Teaching Seminar",
+      "units": "4 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Educational issues and research, development and assessment of teaching portfolio, completion of materials for a job search, and beginning the first year as a special educator.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 454",
+      "course name": "Multiple Subject Clinical Practice II",
+      "units": "6 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Clinical experiences involving planning, instruction, assessment and reflection ; growth as a professional and related activities in K-8 public school classrooms. Participation in public schools requires mandated fingerprint clearance. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_EDUC 455",
+      "course name": "Multiple Subject Clinical Practice Seminar II",
+      "units": "3 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Discussion of contemporary educational issues, state education policies and expectations for effective classroom practice ; reflection on clinical experiences in elementary education and their connection with educational theory research. Participation in public schools requires mandated fingerprint clearance. Credit / No Credit grading.",
+      "format": "3 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 456",
+      "course name": "Multiple Subject Clinical Practice III",
+      "prerequisite": [
+        "EDUC 454",
+        "EDUC 455"
+      ],
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Advanced clinical experiences involving planning, instruction, assessment and reflection ; growth as a professional and related activities in K-8 public school classrooms. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_EDUC 457",
+      "course name": "Multiple Subject Clinical Practice Seminar III",
+      "prerequisite": [
+        "EDUC 454",
+        "EDUC 455"
+      ],
+      "units": "3 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Discussion of contemporary educational issues, national education policies and expectations for effective classroom practice ; reflection on advanced clinical experiences in elementary education and their connection with educational theory and research. Credit / No Credit grading.",
+      "format": "3 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 460",
+      "course name": "Clinical Practice I",
+      "units": "4 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Clinical experiences involving observation ; limited planning, instruction, assessment and reflection ; growth as a professional, and participation in other school - related activities in secondary public classrooms. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_EDUC 469",
+      "course name": "Clinical Practice II",
+      "units": "8 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Part - time assignment in a classroom ( Single Subject only ). Includes teaching activities under the direction of a selected cooperating teacher in consultation with a university supervisor. Assignment consists of an entire morning in the classroom ( or the equivalent ) for one quarter. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_EDUC 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. Class schedule will list topic selected. Total credit",
+      "grading": "limited to 8 units. 1 to",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_EDUC 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    },
+    {
+      "id": "CalPoly_EDUC 479",
+      "course name": "Clinical Practice III",
+      "units": "12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Full - time assignment in a classroom ( Single Subject only ). Includes teaching activities under the direction of a selected cooperating teacher in consultation with a university supervisor. Assignment consists of an entire teaching day in the school for one quarter. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_EDUC 480",
+      "course name": "Computer Based Curriculum",
+      "units": "2 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Computer assisted instruction and computer based technology. Lesson planning and integration of technology into the K-12 curriculum. Familiarization with available educational courseware and software. Emphasis on classroom application.",
+      "format": "1 seminar, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 500",
+      "course name": "Individual Study",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Advanced study planned and completed under the direction of a member of the department faculty. Open only to graduate students who have demonstrated ability to do independent work. Enrollment by petition. Total credit",
+      "grading": "limited to 8 units"
+    },
+    {
+      "id": "CalPoly_EDUC 502",
+      "course name": "Advancing Pedagogical Practices with Technology",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Examination of technology - supported instruction with special focus on the use of technology to enable constructivist learning experiences for K-12 students. A survey of advanced technologies including Web - based tools, apps, digital story telling, and media production. Course offered online only.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 510",
+      "course name": "Education Finance and Resource Allocation",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Financing public schools in America : historical and current sources and types of funding. District level and site level funding and budgeting including priorities and purchasing procedures. Financial implications of personnel contracts and obligations.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 511",
+      "course name": "Educational Law and Governance",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Legal aspects of school administration including unions, collective bargaining, and contract administration. Governing roles of federal, state, and local agencies including boards and district administrators.",
+      "format": "3 seminars, 1 activity.",
+      "similarTo": [
+        "AshFord_EDU 8300"
+      ]
+    },
+    {
+      "id": "CalPoly_EDUC 512",
+      "course name": "Education Organization and Management",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Principles of organization, management, and leadership and their relationship to educational effectiveness and productivity. Activity experience in the application of management theory in schools.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 513",
+      "course name": "Education Planning and Decision Making",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Concepts of planning and decision making in educational administration that utilize a wide range of data gathering and analysis procedures.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 515",
+      "course name": "Educational Program Management and  Evaluation",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Supervision, management, and evaluation of educational curriculum and educational programs. Current trends in program management including mapping, monitoring, alignment.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 516",
+      "course name": "Educational Personnel Supervision and Evaluation",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Principles and processes for the supervision and evaluation of certificated and classified staff including legal, research, and professional considerations.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 518",
+      "course name": "Administrative Services Fieldwork",
+      "units": "3 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Supervised fieldwork in school administration for supervision at the elementary and secondary level. Assignments must encompass three of the four academic quarters and must involve some multicultural experience. Total credit",
+      "grading": "limited to 18 units, only 9 of which"
+    },
+    {
+      "id": "CalPoly_EDUC 519",
+      "course name": "Professional e-Portfolios for Educational Leaders",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Demonstration of exemplars of professional practice keyed to standards for the California Preliminary Administrative Services Credential. Class meets",
+      "grading": "two ( 2 )",
+      "format": "1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 521",
+      "course name": "Literacy Across the Curriculum",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Supporting students ' literacy development across school subjects -- English language arts, mathematics, science, social studies -- through an integrated instructional approach focusing on critical literacy as meaning - making, accommodating diverse students including English language learners and students with special needs.",
+      "format": "4 seminars.",
+      "similarTo": [
+        "AshFord_EDU 668"
+      ]
+    },
+    {
+      "id": "CalPoly_EDUC 522",
+      "course name": "Advanced Classroom Pedagogy",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Principles of authentic pedagogy and development of a classroom learning community. Examination of the role of classroom culture and advanced instructional strategies to foster conceptual development and disciplinary ways of knowing in diverse classrooms.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 523",
+      "course name": "Integrative Approaches to Curriculum",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Perspectives, principles and practices for designing curriculum to foster authentic instruction using integrative approaches. Emphasis on designing for the development of multiple literacies.",
+      "format": "3 seminars, 1 activity.",
+      "similarTo": [
+        "AshFord_EDU 676",
+        "AshFord_EDU 668"
+      ]
+    },
+    {
+      "id": "CalPoly_EDUC 528",
+      "course name": "Advanced Classroom Pedagogy in English Language Arts",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "The relationship between theory, research and practice in English Language Arts. Emphasis is on reading processes and principles and advanced teaching practices for the English Language Arts with attention to working with diverse students including English language learners and students with special needs.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 532",
+      "course name": "Advanced Field Experiences in Education",
+      "units": "2-6 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Advanced field experience and practical application of specialization emphasis for general and special education teachers, school administrators and school support personnel. Total credit limited to 12 units for specialist credentials. Total credit limited to 6 units for the master 's degree. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_EDUC 535",
+      "course name": "Advanced Classroom Pedagogy in Elementary Mathematics Education",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Standards - based principles and advanced pedagogical practices for elementary mathematics instruction in diverse classroom settings.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 536",
+      "course name": "Advanced Classroom Pedagogy in Elementary Science Education",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Perspectives, principles and advanced practices for instruction geared to the Next Generation Science Standards at the elementary level. Emphasis on strategies to support elementary students in substantive conversation in a learning community and higher - order thinking and activity common to the practice of science / engineering.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 542",
+      "course name": "Administration of Special Programs and Services",
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Principles and practices of organizing and administering special education, reading, counseling, and other support programs. Assessment and placement procedures, middle management 's role, overview of specially funded programs, historical precedents and future trends.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 544",
+      "course name": "Advanced Collaboration and Consultation for Teachers of Students with Special Needs",
+      "units": "5 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Advanced studies and skills in educational consultation. Emphasis on the collaborative and consultative role of the special educator with a wide range of individuals from diverse cultural backgrounds including school personnel, parents, outside agencies, and paraprofessionals.",
+      "format": "3 seminars, 2 activities."
+    },
+    {
+      "id": "CalPoly_EDUC 545",
+      "course name": "Characteristics and Instruction of Pupils with Mild/Moderate Disabilities",
+      "units": "5 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Advanced studies and skills in educational consultation. Emphasis on the collaborative and consultative role of the special educator with a wide range of individuals from diverse cultural backgrounds including school personnel, parents, outside agencies, and paraprofessionals.",
+      "format": "3 seminars, 2 activities."
+    },
+    {
+      "id": "CalPoly_EDUC 546",
+      "course name": "Reading and Language Arts Instruction in Special Education",
+      "units": "5 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Overview of principles of reading instruction, elements of the language arts program including literature - based reading, content area reading, and the role of phonics, emergent literacy, and diagnosis of reading problems for special education teachers.",
+      "format": "3 seminars, 2 activities."
+    },
+    {
+      "id": "CalPoly_EDUC 550",
+      "course name": "Assessment Strategies for Special Education",
+      "prerequisite": [
+        "EDUC 440",
+        "EDUC 446"
+      ],
+      "units": "5 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Using norm referenced, criterion referenced, and curriculum based testing for assessing academic, behavioral, and physical status of individuals with exceptional needs, including English language learners, for referral purposes. Instructional and evaluation decisions regarding exceptional students in school settings.",
+      "format": "3 seminars, 2 activities."
+    },
+    {
+      "id": "CalPoly_EDUC 552",
+      "course name": "Support and Transition Strategies in Special Education",
+      "prerequisite": [
+        "EDUC 440",
+        "EDUC 446"
+      ],
+      "units": "5 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Basic guidance techniques for teachers working with exceptional individuals and their families. Career selection, preparation, and counseling. Transition from school to work, and community resource utilization.",
+      "format": "3 seminars, 2 activities."
+    },
+    {
+      "id": "CalPoly_EDUC 553",
+      "course name": "Current Issues, Emerging Research and Practices in Special Education",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Consideration of assumptions and techniques of educational research regarding the educational, personal, social and vocational difficulties affecting the development of individuals with exceptional needs ; emphasizing their applicability to general and specific educational programs.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 554",
+      "course name": "Behavior Disorders and Positive Behavior Support Strategies",
+      "prerequisite": [
+        "EDUC 440",
+        "EDUC 446"
+      ],
+      "units": "5 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Assessment of students whose behavior impedes either their own learning or the learning of other students. Strategies for facilitating proactive educational, environmental and social - emotional techniques for supporting students with challenging behavior.",
+      "format": "3 seminars, 2 activities."
+    },
+    {
+      "id": "CalPoly_EDUC 555",
+      "course name": "Introduction to the Counseling Profession",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Overview of the counseling profession, history, philosophy, theory and ethics. Required activity.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 556",
+      "course name": "Multicultural Counseling",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Initiation of critical analysis of personal beliefs and attitudes regarding counseling in a diverse society. Focus on a variety of approaches to explore the beliefs and attitudes of the student in counseling settings, and examination of strategies considered effective in working with diverse populations.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 557",
+      "course name": "Career Counseling",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Focus on the study and application of career development theories in career counseling. Utilizing appraisal instruments, community referral resources, occupational information, computerized retrieval systems, and personal and social data and required activities.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 560",
+      "course name": "Counseling Theories",
+      "prerequisite": [
+        "EDUC 555"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Theories and practice of counseling with special emphasis on the counseling process. Emphasis of conditions of counseling, counseling techniques, counseling diverse populations and the counselor as a professional helper.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 561",
+      "course name": "Group Counseling",
+      "prerequisite": [
+        "EDUC 555",
+        "EDUC 560 or consent of instructor"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Theory and practice of group counseling, client selection, group structure, process and termination, and application of theories to specific developmental groups. Communication and facilitation skills emphasized with relevant ethics and law.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 562",
+      "course name": "Student Development - Higher Education",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Exploration of the roles and competencies of the student development specialist in higher education. Review of relevant developmental theory with emphasis on practical implementation. Explore current issues and trends in higher education, and organizational framework.",
+      "format": "4 seminars.",
+      "similarTo": [
+        "AshFord_EDU 654"
+      ]
+    },
+    {
+      "id": "CalPoly_EDUC 564",
+      "course name": "Legal and Ethical Issues in Counseling",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Consideration of legal, ethical, cultural and related professional issues as they affect the practice of counseling.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 565",
+      "course name": "Counseling Measurement and Assessment",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Training and evaluation in the utilization of tests, scales, measures, and other instruments with K-12, and college - age students. An understanding of culturally appropriate tests and measures, collaboration with school personnel, parents, and students in the review and interpretation of test scores and measures.",
+      "format": "3 seminars, 1 activity.",
+      "similarTo": [
+        "AshFord_EDU 8250",
+        "AshFord_EDU 645",
+        "AshFord_EDU 662"
+      ]
+    },
+    {
+      "id": "CalPoly_EDUC 566",
+      "course name": "Leadership and Consultation in Counseling",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Development of skills in planning, organizing, coordinating, and delivering programs that generate systemic change through establishing collaboration within schools, communities and other stakeholders. Emphasis on social action and its role in the counseling profession.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 568",
+      "course name": "Individual Counseling Techniques",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Theory and practice of individual counseling, process and termination, and application of theories to specific developmental issues working with K-12 students. Communication and facilitation skills emphasized, working with diverse populations and following legal and ethical guidelines.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 570",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for graduate students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    },
+    {
+      "id": "CalPoly_EDUC 573",
+      "course name": "Field Experience, Counseling",
+      "prerequisite": [
+        "EDUC 555",
+        "EDUC 560"
+      ],
+      "units": "1-12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Practical application of guidance services and counseling in public schools, colleges and community settings. Seminars with university staff included. Total credit limited to 24 units. Credit / No Credit grading only. Maximum of 12 units may be applied toward MA Education."
+    },
+    {
+      "id": "CalPoly_EDUC 586",
+      "course name": "Introduction to Inquiry in Education",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Introduction to professional literature search techniques and to professional organizations as a basis for educational inquiry. Explanation of social construction of knowledge, and the philosophical basis of quantitative and qualitative research.",
+      "format": "3 seminars, 1 activity.",
+      "similarTo": [
+        "AshFord_EDU 108",
+        "AshFord_EDU 7120",
+        "AshFord_EDU 471",
+        "AshFord_EDU 100",
+        "AshFord_EDU 304"
+      ]
+    },
+    {
+      "id": "CalPoly_EDUC 587",
+      "course name": "Educational Foundations and Current Issues",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Summer"
+      ],
+      "description": "Historical, organizational, legal and philosophical characteristics of American education. Emphasis on the analysis of contemporary issues focusing on these characteristics. Course may be offered in classroom - based or online format.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_EDUC 588",
+      "course name": "Education, Culture, and Learning",
+      "units": "4 units",
+      "term": [
+        "Summer"
+      ],
+      "description": "Cultural characteristics of educational institutions and practice. Review of theory and research relating to the social and organizational context in which learning and teaching takes place.",
+      "format": "4 seminars.",
+      "similarTo": [
+        "AshFord_EDU 651"
+      ]
+    },
+    {
+      "id": "CalPoly_EDUC 589",
+      "course name": "Educational Research Methods",
+      "prerequisite": [
+        "EDUC 586"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter",
+        "Spring"
+      ],
+      "description": "Introduction to research methodologies, application of inferential and descriptive statistics, critical analysis of research designs and data collection techniques.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_EDUC 590",
+      "course name": "Research Application in Education",
+      "prerequisite": [
+        "EDUC 589"
+      ],
+      "units": "4 units",
+      "term": [
+        "Summer"
+      ],
+      "description": "Application of social science research techniques to problems in education and human services. Capstone experience for the School of Education master 's inquiry course sequence. Completion of an inquiry project required.",
+      "format": "2 seminars, 2 activities.",
+      "similarTo": [
+        "AshFord_EDU 586",
+        "AshFord_EDU 657",
+        "AshFord_EDU 365",
+        "AshFord_EDU 324"
+      ]
+    },
+    {
+      "id": "CalPoly_EDUC 598",
+      "course name": "Action Research Project in Education",
+      "prerequisite": [
+        "EDUC 589"
+      ],
+      "units": "1-3 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Completion and presentation of the results of an action research project that addresses a meaningful question in the practice of education. Total credit limited to 6 units. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_EDUC 599",
+      "course name": "Thesis in Education",
+      "units": "3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Completion of a thesis pertinent to the field of education. Student must register for each quarter of advisement. Total credit",
+      "grading": "limited to 6 units"
+    }
+  ]
+}

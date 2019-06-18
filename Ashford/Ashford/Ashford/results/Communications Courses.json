@@ -1,0 +1,83 @@
+{
+  "subjectOf": {
+    "subject": "Communications Courses",
+    "id": "COM"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Communications Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_COM 101",
+      "course name": "Introduction to Communication",
+      "units": "3 Credits",
+      "description": "This course serves as an introduction to the study of human communication. Students will examine classic and modern views of communication as well as theories and research relating to various sub-disciplines of communication such as interpersonal, group, organizational, mass and public communication. They will discuss and evaluate these theories and research findings and assess the impact of technology on the communication process. Relationship stages, theories, and contemporary views of family are examined, as well as the impact of family, culture, and gender on communication patterns. Types of groups and organizations are identified, as well as concepts of power and interaction in group, organizational, and public settings. Mass communication and its impact on individuals and society will be explored. In this class, students will also have an opportunity to examine the practical implications of these concepts in building their own communication skills as well as future career path."
+    },
+    {
+      "id": "AshFord_COM 200",
+      "course name": "Interpersonal Communication",
+      "units": "3 Credits",
+      "description": "This course is designed to aid students in understanding the dynamics of interpersonal relationships. Verbal and nonverbal communication patterns between people in personal, social, academic, and professional settings will be examined, and the nature of those interactions will be evaluated using contemporary communication theory. The course will enable students to identify their interpersonal communication behaviors and to more critically evaluate their own oral communication and that of others. A primary goal of the course is to improve the quality of students communication in their personal and professional relationships."
+    },
+    {
+      "id": "AshFord_COM 223",
+      "course name": "Persuasion in Communication",
+      "units": "3 Credits",
+      "description": "Students learn to analyze and evaluate persuasive messages and determine which contribute to effective and non-effective persuasion.Students formulate persuasive arguments and learn to deliver those arguments effectively, in a variety of forms. This course examines the purpose and function of research in supporting elements of persuasion and the need to understand receiver variables."
+    },
+    {
+      "id": "AshFord_COM 325",
+      "course name": "Communication & Conflict",
+      "units": "3 Credits",
+      "description": "The course provides students with conflict resolution techniques through communication. Students will analyze the purpose of conflict, learn to work with difficult people, and understand communication as a significant factor in the development, management, and resolution of conflict at the interpersonal, small group, organization, and societal levels. ",
+      "prerequisite": [
+        "ENG 121",
+        "ENG 122"
+      ]
+    },
+    {
+      "id": "AshFord_COM 327",
+      "course name": "Visual Communication",
+      "units": "3 Credits",
+      "description": "This course will teach students the importance of visual elements in communication, and how to effectively incorporate visual elements into messages for various media platforms. Students will also be introduced to communication fields standards related to the design of visual messages and the various software programs that are used."
+    },
+    {
+      "id": "AshFord_COM 340",
+      "course name": "Technical Writing",
+      "units": "3 Credits",
+      "description": "This course provides students with technical writing concepts and principles and the skills necessary to compose effective technical documents for a broad range of professions. Emphasis is placed on making complex and technical information understandable to a variety of audiences. Students will explore types of technical documents and the specific techniques applicable to technical writing such as outlines, abstracts, definition, and classification strategies. They will have an opportunity to apply their knowledge by writing a process or mechanism description, a proposal/recommendation report, and a detailed instruction for performing a task or operation."
+    },
+    {
+      "id": "AshFord_COM 345",
+      "course name": "Media Writing for Communication",
+      "units": "3 Credits",
+      "description": "This course is an introduction to the process of writing for varied media. Emphasis is on gathering information, writing styles, editing, and organization of written communication."
+    },
+    {
+      "id": "AshFord_COM 355",
+      "course name": "Technology & Communication",
+      "units": "3 Credits",
+      "description": "Students will be introduced to communication fields standards related to the design of visual messages and the various software programs within the field. This course will teach students the importance of visual elements in communication, and how to effectively incorporate visual elements into messages for various media platforms."
+    },
+    {
+      "id": "AshFord_COM 360",
+      "course name": "Advanced Communications in Society",
+      "units": "3 Credits",
+      "description": "This course integrates the use of advanced communication techniques into a variety of contexts shaped by socially and culturally-constructed distinctions between and among individuals and groups. Topics include intercultural, multicultural, international, and inter-gender communications."
+    },
+    {
+      "id": "AshFord_COM 370",
+      "course name": "Intercultural Communication",
+      "units": "3 Credits",
+      "description": "This course integrates the use of advanced communication techniques into a variety of contexts shaped by socially and culturally constructed distinctions between and among individuals and groups. Topics include intercultural, multicultural, international, and inter-gender communications."
+    },
+    {
+      "id": "AshFord_COM 425",
+      "course name": "Communication in Organizations",
+      "units": "3 Credits",
+      "description": "This course investigates the role of communication in creating an effective and ethical organizational environment. Students will be assisted in developing and strengthening such communication skills as self- awareness, intrapersonal efficacy, interpersonal competence, and leadership and team skills."
+    }
+  ]
+}

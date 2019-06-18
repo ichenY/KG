@@ -1,0 +1,444 @@
+{
+  "subjectOf": {
+    "id": "TH",
+    "subject": "Theatre"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Theatre"
+  },
+  "courses": [
+    {
+      "id": "TH 101",
+      "course name": "First-Year Theatre Seminar",
+      "units": "1 unit",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Introduction to the study of Theatre, focusing on methods, topics and skills in the Theatre Arts major at Cal Poly.  Emphasis on practical and professional expectations as well as opportunities within the Department.  Examination of curricula, areas of interest, and career planning.  Credit/No Credit Grading only.  1 seminar."
+    },
+    {
+      "id": "TH 210",
+      "course name": "Introduction to Theatre",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c3"
+      },
+      "description": "Overview of theatre principles and production practices, including terminology and conventions, methods, dramatic literature and performance, aesthetic appreciation, and technology. Emphasis on theatre as an integral cultural, social, and artistic entity. Attendance at theatre performance(s) required. Course may be offered in classroom-based or online format. 4 lectures. Fulfills GE C3."
+    },
+    {
+      "id": "TH 220",
+      "course name": "Acting Methods",
+      "hasPrerequisite": "TH 210",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Contemporary acting techniques focused on character building, objectives and tactics, with a focus on the development and implementation of various interactive methods of vocal work, images and actor resources.  3 lectures, 1 activity."
+    },
+    {
+      "id": "TH 225",
+      "course name": "Costume Construction I",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Basic costume construction techniques used in the entertainment industry. Building of all costumes and special craft projects for main stage theatre productions. May not be taken concurrently with TH230 or TH330. 4 laboratories."
+    },
+    {
+      "id": "TH 227",
+      "course name": "Theatre History I",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c3"
+      },
+      "description": "Highlights of European theatrical history - Greeks, Romans, Medieval English and French theatre through the 17th century. Production methods, acting styles, playwriting theories and representative plays. 4 lectures. Fulfills GE C3."
+    },
+    {
+      "id": "TH 228",
+      "course name": "Theatre History II",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c3"
+      },
+      "description": "Highlights of European and American theatrical history from the 18th to 20th century. Production methods, acting styles, playwriting theories and representative plays. 4 lectures. Fulfills GE C3."
+    },
+    {
+      "id": "TH 230",
+      "course name": "Stagecraft I",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Basic stagecraft technique used in the entertainment industry. Construction and painting of scenery, building and gathering properties, hanging and focusing lighting instruments, and acting as running crew for department production each term. May not be taken concurrently with TH225 or TH325. 4 laboratories."
+    },
+    {
+      "id": "TH 240",
+      "course name": "Improvisational Theatre",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Objectives and techniques of improvisational theatre. Participation in a series of exercises designed to develop skills in dramatic structure formatting, interactive problem solving, spontaneous scripting, dynamic communications, and applied performance styles. 2 lectures, 2 activities."
+    },
+    {
+      "id": "TH 245",
+      "course name": "Introduction to Stage Management",
+      "hasPrerequisite": "TH 210",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Basic stage managerial skills for organizing, preparing, and fulfilling theatrical productions from the inception through rehearsal and performance.  4 lectures."
+    },
+    {
+      "id": "TH 260",
+      "course name": "Voice and Diction for the Stage",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Theory and practice in developing command of oral techniques for the stage including breath support, resonance and articulation. 4 lectures."
+    },
+    {
+      "id": "TH 270",
+      "course name": "Stage Make-Up",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Introduction to the art of theatrical make-up design and application. Techniques for producing character, old age, fantasy and special effects make-up. Demonstration and discussion of various design and application styles. 3 lectures, 1 activity."
+    },
+    {
+      "id": "TH 275",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "TH 280",
+      "course name": "Body Awareness and Expression",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of movement techniques and exercises to facilitate expressive physical performance. Body effectiveness, alignment and conditioning practice integrated with creative exploration and movement analysis of effort, spatial awareness and detailed body usage. 4 lectures. Crosslisted as DANC/TH280."
+    },
+    {
+      "id": "TH 285",
+      "course name": "Internship",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "TH 101"
+        },
+        {
+          "prerequisite": "TH 210"
+        }
+      ],
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Part-time, supervised internship experience for Freshmen & Sophomore students in theatre or equivalent professionally related industry.  Ability to work independently; strong verbal and written skills.  Faculty approval of internship position required.  Evaluations by supervisor and written reports by student required.  30 - 120 hours of work experience.  Total credit limited to 4 units.  Credit/ No credit grading only."
+    },
+    {
+      "id": "TH 290",
+      "course name": "Script Analysis",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "TH 210"
+        },
+        {
+          "prerequisite": "TH 227 or TH 228"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Script analysis taught as an essential applied skill for actors, designers and directors.  Students read a variety of plays and learn how to examine their structure, theme and context.  4 seminars."
+    },
+    {
+      "id": "TH 295",
+      "course name": "Foundations in Theatrical Design",
+      "hasPrerequisite": "TH 210",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Exploration of the fundamental principles and practices of designing for the stage.  Emphasis placed upon the creative and collaborative process of theatre; development of the visual world of the play via language, color, drawing, analysis, and peer evaluation.  3 lectures, 1 activity."
+    },
+    {
+      "id": "TH 305",
+      "course name": "Topics in Diversity on the American Stage",
+      "hasPrerequisite": "TH 227",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4; uscp"
+      },
+      "description": "Critical analysis of traditionally underrepresented groups in the American theatre, as writers, practitioners, story subjects.  Investigation of dramatic literature and performance trends related to special interest topics.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.  Fulfills GE C4 except for Theatre majors.  Fulfills USCP."
+    },
+    {
+      "id": "TH 325",
+      "course name": "Costume Construction II",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Specialized and advanced costume construction techniques used in the entertainment industry.  Building of all costumes and special craft projects for main stage theatre productions.  Total credit limited to 8 units.  May not be taken concurrently with TH230 or TH330.  4 laboratories."
+    },
+    {
+      "id": "TH 330",
+      "course name": "Stagecraft II",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Basic stagecraft technique used in the entertainment industry.  Students construct and paint scenery, build and gather properties, hang and focus lighting instruments, and act as running crew for department production each term.  Total credit limited to 8 units.  May not be taken concurrently with TH225 or TH325.  4 laboratories."
+    },
+    {
+      "id": "TH 341",
+      "course name": "Advanced Acting Studio",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "TH 210"
+        },
+        {
+          "prerequisite": "TH 220"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Selected acting techniques with focus on specific advanced modes of training.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures, 1 activity."
+    },
+    {
+      "id": "TH 345",
+      "course name": "Rehearsal and Performance",
+      "units": "4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Preparation of a play for public presentation, including acting, stage management, publicity, or serving as a key member of the artistic team.  Total credit limited to 12 units.  Major credit limited to 4 units; repeated units are free electives.  4 laboratories."
+    },
+    {
+      "id": "TH 350",
+      "course name": "Seminar in Playwriting",
+      "hasPrerequisite": "TH 210",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Examines dramatic structure, techniques of dialogue, and means of characterization in variety of plays.  Relates dramatic writing to technical, design, directorial and acting demands.  Compositions of monologues, scenes and one-act play; works read and critiqued in class.  4 seminars."
+    },
+    {
+      "id": "TH 360",
+      "course name": "Theatre in the United States",
+      "hasPrerequisite": "TH 227",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4"
+      },
+      "description": "Examination of specific American plays, playwrights, organizations and movements, applying them as portraits of the United States' historical, philosophical and cultural make-up.  Topical emphasis focuses on the definition and development of an 'American' identity via the context of theatre.  4 lectures.  Fulfills GE C4 except for Theatre majors."
+    },
+    {
+      "id": "TH 370",
+      "course name": "Costume History",
+      "hasPrerequisite": "TH 210",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Dress worn in Western society from Ancient Egypt through AD 2000.  Silhouette; how, when, and why particular garments were worn; emphasis on social, political, and economic context.  4 lectures."
+    },
+    {
+      "id": "TH 380",
+      "course name": "Theatre for Young Audiences",
+      "hasPrerequisite": "TH 210 or upper-division Liberal Studies",
+      "units": "4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Practice of educational drama as applied to multidisciplinary curricula.  Collaborate on story-based improvisation in areas that include language arts, social studies, geography and science with additional focus on examining emotional development and creativity.  3 lectures, 1 activity."
+    },
+    {
+      "id": "TH 390",
+      "course name": "Global Theatre and Performance",
+      "hasPrerequisite": "TH 227",
+      "units": "4 units",
+      "inTerm": {
+        "term": "ge area c4"
+      },
+      "description": "Investigation of non-American theatre and dramatic performance; emphasis on plays, playwrights, and movements as portraits of philosophical/national make-up.  Topical emphasis focuses on the definition and development of a cultural identity via the context of historical and contemporary theatre practices.  4 lectures.  Fulfills GE C4 except for Theatre majors."
+    },
+    {
+      "id": "TH 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "inTerm": [
+        {
+          "term": " Fall"
+        },
+        {
+          "term": " Winter"
+        },
+        {
+          "term": " Spring"
+        }
+      ],
+      "description": "Individual investigation, research, or project centering around theatre.  Total credit limited to 8 units."
+    },
+    {
+      "id": "TH 430",
+      "course name": "Scenic Design",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "TH 290"
+        },
+        {
+          "prerequisite": "TH 295"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Scenic design process used in the entertainment industry, including collaboration, concept development, research, sketching, drafting, color rendering using a variety of media, 3D model building, and the presentation of design material.  3 lectures, 1 activity."
+    },
+    {
+      "id": "TH 432",
+      "course name": "Costume Design",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "TH 290"
+        },
+        {
+          "prerequisite": "TH 295"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Winter"
+      },
+      "description": "Costume design process used in the entertainment industry, including collaboration, concept development, research, sketching, color rendering using a variety of media, and the presentation of design material.  3 lectures, 1 activity."
+    },
+    {
+      "id": "TH 434",
+      "course name": "Lighting Design",
+      "hasPrerequisite": [
+        {
+          "prerequisite": "TH 290"
+        },
+        {
+          "prerequisite": "TH 295"
+        }
+      ],
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Lighting design process used in the entertainment industry, including collaboration, concept development, research, functional aspects of lighting equipment, CAD drafting, the development of production paperwork and presentation of design material.  3 lectures, 1 activity."
+    },
+    {
+      "id": "TH 450",
+      "course name": "Directing",
+      "hasPrerequisite": "TH 290",
+      "units": "4 units",
+      "inTerm": {
+        "term": "Spring"
+      },
+      "description": "Principles, philosophies, analytical methods, business practices, organizational techniques and interpersonal strategies of directing for the stage.  Experiential work includes hands-on, in-class exercises, as well as intensive outside class rehearsals.  Culmination in a public production of student-directed one-act plays.  3 lectures, 1 activity."
+    },
+    {
+      "id": "TH 461",
+      "course name": "Senior Project Seminar",
+      "units": "3 units",
+      "inTerm": {
+        "term": "Fall"
+      },
+      "description": "Focus on post-graduate career planning options in theatre arts, including resume and portfolio building, preparation for professional work, graduate school and internships.  A structure by which students design and submit their senior projects.  3 seminars."
+    },
+    {
+      "id": "TH 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "id": "TH 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "inTerm": {
+        "term": "tbd"
+      },
+      "description": "Directed group laboratory study of selected topics for theatre students.  Class Schedule will list topics selected.  Total credit limited to 12 units.  1-4 laboratories."
+    },
+    {
+      "id": "TH 480",
+      "course name": "Advanced Internship",
+      "units": "4 units",
+      "inTerm": {
+        "term": "cr/nc"
+      },
+      "description": "Part-time, supervised internship experience in the entertainment or equivalent professional industry.  Ability to work independently; strong verbal and written skills.  Faculty approval required.  Evaluations by internship supervisor and written reports by student required.  120 hours of work experience.  Total credit limited to 8 units.  Credit/No Credit grading."
+    }
+  ]
+}

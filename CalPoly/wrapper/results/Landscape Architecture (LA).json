@@ -1,0 +1,287 @@
+{
+  "subject": "Landscape Architecture (LA)",
+  "courses": [
+    {
+      "Course number & title": " Introduction to Landscape Architecture",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Introduction to the profession of landscape architecture and orientation to the department curriculum and learning processes. 4 lectures."
+    },
+    {
+      "Course number & title": " Principles of Design Communication",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Overview of design communications for landscape architects incorporating the principles, techniques, skills and tools used in design generation, exploration, review and implementation. 4 laboratories."
+    },
+    {
+      "Course number & title": " Principles of Digital Communication",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Introduction of digital media applications, software and techniques for landscape architects. Principles, techniques, skills and tools for using digital media in design projects. 4 lectures."
+    },
+    {
+      "Course number & title": " Design Fundamentals I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Introduction to the principles, methods and elements of two- and three-dimensional design in order to communicate intended concepts and meanings.  Exploration of the basic design elements including composition, design process and the creation of spatial settings.  4 laboratories."
+    },
+    {
+      "Course number & title": " Design Fundamentals II",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Continuation of ideas introduced in LA202 with the introduction of environmental and visual perception, including three-dimensional site design and landscape architectural design principles.  Spatial design and sequencing of space with concern for human behavioral, environmental and natural site factors and generation of program, concept and design development.  4 laboratories."
+    },
+    {
+      "Course number & title": " Design Fundamentals III",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Continuation of ideas introduced in LA202 and LA203 with the introduction of the principles of design theory, landscape ecology and technical applications.  Problems of increasing complexity incorporate critical and creative problem solving, the relationship of aesthetics, response to human needs and design for sustainable environments.  4 laboratories."
+    },
+    {
+      "Course number & title": " History of Landscape Architecture: Ancient Civilizations through Colonial America",
+      "Number of units": "4 units",
+      "Term": "GE Area C3",
+      "Course description": "Exploration of the continuous alteration of the landscape through recorded time and examination of how humankind has influenced this change. The metaphor of 'garden' provides understanding for agrarian regions, urban spaces, and vernacular landscapes of the world. 4 lectures. Fulfills GE C3."
+    },
+    {
+      "Course number & title": " History of Modern and Contemporary Landscape Architecture",
+      "Number of units": "4 units",
+      "Term": "GE Area C3",
+      "Course description": "Philosophies and ethics of important personalities in twentieth and twenty-first century landscape architecture. Design theories supporting these individuals' projects and the nature of their practice, combined with the influential events in industry, the arts and sciences, politics, and society of these centuries. 4 lectures. Fulfills GE C3."
+    },
+    {
+      "Course number & title": " Applications in GIS",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "ARC/INFO and ArcView Geographic Information System (GIS) computer software to explore environmental, natural resource, social and economic issues using spatial data. Develop and apply data base and software management competencies. 1 lecture, 2 laboratories. Crosslisted as LA/NR218."
+    },
+    {
+      "Course number & title": " Landscape Ecology: Concepts, Issues and Interrelationships",
+      "Number of units": "4 units",
+      "Term": "GE Area B5",
+      "Course description": "Concepts, theories and techniques related to landscape analysis, ecology, planning and design with an emphasis on landscape assessment, sustainability, land health, environmental protection and restoration, and natural resource management. 4 lectures. Fulfills GE B5."
+    },
+    {
+      "Course number & title": " California Plants and Plant Communities",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Introduction to the horticultural characteristics and landscape design potential of California native plants, California plant communities and associated vernacular plants.  Includes experience in field identification, basic planting design, installation techniques and maintenance requirements.  Required field trips.  2 lectures, 2 laboratories."
+    },
+    {
+      "Course number & title": " Site Engineering Techniques and Applications",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Introduction and application of the techniques, methods, principles and criteria for site engineering and landform design.  Includes an introduction to soil science, survey methods, and experiences in the principles, procedures and application of site grading and drainage for landscape architecture.  4 laboratories."
+    },
+    {
+      "Course number & title": " Implementation Strategies",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Introduction and application of the methods, principles and criteria for landscape implementation.  Encompasses fundamental design and technical decisions common to landscape architectural design and construction projects including the development of concept, design development and working drawings, and construction management process.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Materials and Techniques of Landscape Construction",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Introduction to the properties, uses and inherent qualities of the fundamental materials of landscape architectural concerns and associated construction techniques and processes.  Materials and techniques explored as a source of design ideas, form and expression in landscape architecture.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Selected Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " The World of Spatial Data and Geographic Information Technology",
+      "Number of units": "4 units",
+      "Term": "GE Area F",
+      "Course description": "Basic foundation for understanding the world through geographic information and tools available to utilize spatial data.  Application of Geographic Information Systems (GIS) and related technologies, including their scientific basis of operation.  Not open to students with credit in LA/NR218.  3 lectures, 1 activity.  Crosslisted as LA/NR317.  Fulfills GE Area F."
+    },
+    {
+      "Course number & title": " Design Theory for Landscape Architects",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Complements the material and knowledge presented in the history of landscape architecture, architecture and art courses.  Design theory and associated concepts as they are related to landscape architecture.  Literature research and analysis of completed design projects.  The artists/designers, materials and overall expressions of work are related to the social and economic issues of the time as well as their associations with the other arts and sciences.  4 lectures."
+    },
+    {
+      "Course number & title": " Cultural Landscapes: People, Places and Ethical Decisions",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Investigation of the complexities and interrelatedness of culture, environment and ethical decisions.  Interpretation of personal and cultural values and ethics in terms of decisions made and behaviors and actions expressed in the built landscape.  4 lectures."
+    },
+    {
+      "Course number & title": " Advanced Planting Design",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Advanced examination of the theories and applied principles of planting design.  Emphasis on connections between art and science in the design of parks, gardens and other landscapes.  Case studies and field trips.  2 lectures, 2 activities."
+    },
+    {
+      "Course number & title": " Advanced Landscape Construction",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Examination and application of advanced landscape construction techniques.  Emphasis on design, development, construction, and testing of contemporary landscape technologies and practices.  Field trip may be required.  2 lectures, 2 laboratories."
+    },
+    {
+      "Course number & title": " Professional Practice",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Issues related to the practice of landscape architecture incorporating processes, procedures and outcomes of professional practice.  Topics include professional ethics, business and legal aspects of the profession, relationships to the client and society, personal goal setting, resume and portfolio preparation.  4 lectures."
+    },
+    {
+      "Course number & title": " Internship",
+      "Number of units": "3 units",
+      "Term": "CR/NC",
+      "Course description": "Involvement in a work setting related to landscape architecture.  Thirty hours work experience per unit of credit.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Special Problems for Advanced Undergraduates",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter."
+    },
+    {
+      "Course number & title": " Research Project",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Research methods in landscape architecture and proposal writing techniques.  Students prepare proposal and strategy for fifth year study in area of concentration.  2 seminars."
+    },
+    {
+      "Course number & title": " Design Theory and Exploration Focus Studio",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SU",
+      "Course description": "Exploration and application of design theory, exploratory design process and form exploration to design and planning projects.  Emphasis on incorporation of inquiry techniques based on the synthesis of interdisciplinary frameworks of art and design theory with historical and cultural issues.  Total credit limited to 12 units.  4 laboratories."
+    },
+    {
+      "Course number & title": " Natural Environments Design Focus Studio",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W, SP",
+      "Course description": "Assessment, exploration and integration of landscape ecology, sustainability and environmental planning to design and planning projects.  Emphasis on interpretation and application of environmental and ecological issues at a range of design scales.  Total credit limited to 12 units.  4 laboratories."
+    },
+    {
+      "Course number & title": " Cultural Environments Design Focus Studio",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Assessment, exploration and interpretation of cultural values, issues and landscapes to design and planning projects.  Emphasis on observation and inquiry of diverse cultural settings, differences in cultural values and personal ethics in the design process.  Total credit limited to 12 units.  4 laboratories."
+    },
+    {
+      "Course number & title": " Project Design and Implementation Focus Studio",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Development, exploration and integration of project design and implementation strategies to design and planning projects.  Emphasis on creative and exploratory problem solving, spatial design, project resolution, and graphic communication.  Total credit limited to 12 units.  4 laboratories."
+    },
+    {
+      "Course number & title": " Interdisciplinary Design Studio",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W, SP",
+      "Course description": "Design studio with focus on interdisciplinary modes of practice and collaborative approaches to design.  Interdisciplinary design process may be explored through project program and collaboration with students in allied majors.  Field trip required.  Total credit limited to 12 units.  4 laboratories."
+    },
+    {
+      "Course number & title": " CAD and Digital Media Communications (ILC)",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Integrated Learning Course (ILC) to assist integration and application of computer-aided drafting (CAD) skills in coursework, project planning and design studio courses.  Focus on CAD skills and integration of digital media.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "Course number & title": " Landscape Ecology Applications (ILC)",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Integrated Learning Course (ILC) to assist integration and application of landscape ecology principles in project planning and design studio courses.  Focus on understanding and developing a framework for ecological planning and design to anticipate consequences of planning and design decisions.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "Course number & title": " Cultural Environments (ILC)",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Integrated Learning Course (ILC) to assist integration and application of culture, environment and personal ethics in coursework, project planning and design studio courses.  Focus on skills, distinctions and integration of analyzing the cultural landscape, understanding diverse cultural values and assessing personal ethics.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "Course number & title": " Project Design and Implementation (ILC)",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Integrated Learning Course (ILC) to assist integration and application of project design principles and implementation strategies in project planning and design studio courses.  Focus on skills, techniques and decisions of the design, documentation and construction processes.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "Course number & title": " Professional Practice (ILC)",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Integrated Learning Course (ILC) to assist integration and application of professional practice principles and techniques in planning and design studio and internship courses.  Focus on achieving a high level of professional quality, ethical concern, and legal responsibility in project work.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "Course number & title": " Traditional and Digital Media Communications (ILC)",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Integrated Learning Course (ILC) to assist integration and application of graphic communication and presentation skills in coursework, project planning and design studio courses.  Focus on skills, distinctions and integration of traditional and digital media explorations.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "Course number & title": " 3D Digital Design Communications (ILC)",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Integrated Learning Course (ILC) to assist integration and application of 3D digital graphic communication and presentation skills in coursework, project planning and design studio courses.  Focus on skills and integration of three-dimensional digital media explorations.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "Course number & title": " GIS Application to Design Projects (ILC)",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Integrated Learning Course (ILC) to assist integration and application of geographic information systems (GIS) and spatial information into focus design studio courses.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "Course number & title": " Planting Design (ILC)",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Integrated Learning Course (ILC) to assist the integration and application of plant selection, use and appropriateness in planning and design studio courses.  Focus is on the skills, theories and principles of planting design.  Total credit limited to 12 units.  4 activities."
+    },
+    {
+      "Course number & title": " Senior Design Project Focus Studio",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Comprehensive landscape architectural design and research project showing professional level competency in the integration of design theory, landscape architectural principles and project resolution.  Emphasis on creative resolutions, organization and communication skills and technical abilities in program generation, design process, design and research.  Total credit limited to 8 units.  4 laboratories."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures."
+    },
+    {
+      "Course number & title": " Selected Advanced Laboratory",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories."
+    },
+    {
+      "Course number & title": " Evaluating Social and Behavioral Factors for Open Space Design",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "User oriented approach to open space design.  Interview and survey techniques, behavioral trace mapping and systematic observation, post occupancy evaluation and similar methods are used to generate user input and feedback in the design process.  Understanding the behavioral implications of designed environments.  2 lectures, 2 activities."
+    },
+    {
+      "Course number & title": " Special Studies in Landscape Architecture",
+      "Number of units": "1-12 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Special issues and problems through research, field trips, seminars and other forms of investigation and involvement.  Course requirements are determined prior to each individual project through a contractual agreement between students and department.  Departmental Off Campus Study Program guidelines apply.  Total credit limited to 36 units.  1-12 activities."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "6 units",
+      "Term": "CR/NC",
+      "Course description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 6 units; total credit limited to 18 units.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "12 units",
+      "Term": "CR/NC",
+      "Course description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 12 units; total credit limited to 24 units.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "6 units",
+      "Term": "CR/NC",
+      "Course description": "Advanced study analysis and part-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Total credit limited to 9 units.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "12 units",
+      "Term": "CR/NC",
+      "Course description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only."
+    }
+  ]
+}

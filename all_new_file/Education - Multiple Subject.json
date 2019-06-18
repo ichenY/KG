@@ -1,0 +1,220 @@
+{
+  "courses": [
+    {
+      "term": "Fall, Spring",
+      "description": "Focus on teaching candidates the methods, techniques and strategies needed to make content accessible for second language learners. Candidates will learn to use the state ELD standards to create ELD lessons and SDAIE lessons within multicultural framework. Candidates will also learn how to interpret and implement formative and summative assessments. Lecture, demonstration, modeling, group work, discussions, field experience. ",
+      "course name": "Methods for Teaching Second Language Learners, Multiple Subject (ELD and SDAIE)",
+      "units": "3 Units",
+      "id": "CSUS_EDMS 272",
+      "prerequisite": [
+        "EDUC 170"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " This course may be repeated for up to 9 units of credit. ",
+      "description": "Individual projects for Multiple Subject credential candidates at graduate/credential level especially for students capable of independent study. Admission by written approval of the instructor with whom the student will be working and the Department Chair. ",
+      "id": "CSUS_EDMS 299",
+      "course name": "Special Problems: Multiple Subject"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Candidates in the Teacher Preparation Program must complete the Teaching Event for the Performance Assessment for California Teachers. The Teaching Event requires candidates to plan and teach an instructional sequence in their student teaching placement. They must also assess student learning during this lesson sequence and submit a videotape with material recorded during the lesson sequence. The Teaching Event is a summative assessment and one of several requirements that must be completed in order to receive a recommendation for a teaching credential. ",
+      "course name": "Teaching Performance Assessment-Multiple Subjects-Mathematics",
+      "units": "1 Unit",
+      "id": "CSUS_EDMS 300",
+      "prerequisite": [
+        "EDMS 434B",
+        "EDMS 430B",
+        "EDSP 420B"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Reinforces the cycle of teaching: lesson  planning, implementing, reflection and application at a deeper developmental level.  Intensive support for classroom management and discipline; disruptive behaviors; problem-solving communication with district administrators, parents at community level as child advocates.  Emphasis on differentiating instruction to individual needs of diverse learners.  Scaffolding to support growth and developmental stages of the learning-to-teach process and professional responsibilities.  Infusion of e-portfolio development and the integration of technology. ",
+      "id": "CSUS_EDMS 310C",
+      "course name": "Pedagogy C: Classroom Instruction and Positive Management for Diverse Classrooms"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Focusing on a \"meaning approach\" to mathematics which prepares candidates to teach mathematics content standards for California public schools to all students, including English Learners and special needs; to use analytical and critical thinking skills in mathematics; and to infuse mathematics topics, themes, and concepts into other subject areas.  Discussion, field visits, microteaching, demonstrations, presentations, and technological applications for mathematics will be included.",
+      "id": "CSUS_EDMS 314",
+      "course name": "Mathematics Curriculum and Instruction for the Diverse K-8 Classroom"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Prepares teacher candidates in multiple subjects to teach the history-social science content standards for California public schools to all students, including English Learners and special needs; to use analytical and critical thinking skills in history and social science; and to integrate history-social science topics, themes, and concepts with other subject areas.  Pedagogical topics include the use of timelines, maps, artifacts, case studies, simulations, literature, art, multiple perspectives, SDAIE, cooperative projects, and research activities.",
+      "id": "CSUS_EDMS 315",
+      "course name": "History-Social Science Curriculum and Instruction for the Diverse K-8 Classroom"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Knowledge of basic principles and strategies related to science education, incorporating an expanded treatment of science pedagogy, manipulatives, technological supports, accommodations, adaptive instructional techniques, and other strategies specially suited to the instruction of diverse student populations.",
+      "id": "CSUS_EDMS 316",
+      "course name": "Science Curriculum and Instruction for the Diverse K-8 Classroom"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Prepares candidates in multiple subjects to teach the visual and performing arts content standards for California public schools to all students, including English Learners, and special needs students, through interrelated activities with involvement in specific teaching strategies which are effective in achieving the goals of developing artistic perception and creative expression, understanding the cultural and historical origins of the arts, making informed judgments about the arts, and understanding the arts connections and relationships across curriculum. ",
+      "id": "CSUS_EDMS 317",
+      "course name": "Visual and Performing Arts Methods for the Diverse K-8 Classroom"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Develops understandings, attitudes, and competencies needed for effective instruction of language and literacy for mainstream populations, English Learners, and students with special needs. Instructional strategies for teaching concepts about print, phonemic awareness, phonics, fluency, vocabulary, and comprehension of narrative/expository texts. Instructional planning aligned with current content standards, and other content and preparation standards as appropriate. Assessment strategies that inform planning and instruction. Special emphasis on literacy instruction in bilingual and multilingual settings. Lecture and discussion, includes a field experience component.",
+      "id": "CSUS_EDMS 319A",
+      "course name": "Language and Literacy I for the Diverse K-8 Classroom"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Extends understandings, attitudes, and competencies needed for effective instruction of language and literacy for mainstream populations, English Learners, and students with special needs. Instructional strategies for teaching narrative/expository text and spelling. Instructional planning aligned with current content standards, and other content and preparation standards as appropriate. Assessment strategies that inform planning and instruction. Special emphasis on literacy instruction in bilingual and multilingual settings. Lecture and discussion, includes a field experience component. ",
+      "course name": "Language and Literacy II for the Diverse K-8 Classroom",
+      "units": "3 Units",
+      "id": "CSUS_EDMS 319B",
+      "prerequisite": [
+        "EDMS 319A"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall only",
+      "description": "Educational technology lab course will prepare the candidates use technology for three areas: coursework in the teaching credential program, enhancing teaching and learning and eportfolio development. Students are introduced to an array of digital technologies for teaching relevant for K-12 student learning. Among the topics include digital literacy, copyright, fair use, Internet safety, Creative Commons, presentation tools, ISTE standards, technology and Teaching Performance Expectations, presentation tools, interactive whiteboards, and many others. The focus is on students learning about technology use in teaching and learning in K-12 schools. Candidates are prepared to use technology in the Teaching Credential Program and for the development of an electronic portfolio. ",
+      "id": "CSUS_EDMS 330A",
+      "course name": "Educational Technology Lab I"
+    },
+    {
+      "term": "Spring only",
+      "description": "In this course, candidates will learn to create, use, and manage appropriate and relevant educational technological processes and resources. The candidates will deepen their knowledge of technology in the K-12 public school environment and apply their understanding to improve student engagement and student learning outcomes. The candidates will also learn to use technology associated with the Teaching Credential Program and finalize their electronic portfolio for the program. ",
+      "course name": "Educational Technology Lab II",
+      "units": "1 Unit",
+      "id": "CSUS_EDMS 330B",
+      "prerequisite": [
+        "EDMS 330A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": " laboratory course. ",
+      "course name": "Assessment Center Laboratory for Multiple Subject Candidates",
+      "units": "2 Units",
+      "id": "CSUS_EDMS 332",
+      "prerequisite": [
+        "EDMS 430B",
+        "EDMS 434B",
+        "EDSP 420B",
+        "EDMS 332"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "This is the first course in a two-course series. Candidates learn foundational knowledge necessary to execute the Plan-Instruct-Assess-Reflect cycle of mindful teaching. Introduction to the theoretical foundations of teaching (learning theory, human development theory, multicultural education, inclusive and differentiated education, assessment frameworks, and models of teaching and curriculum planning), the history of public education in the U.S., and effective strategies and practices for educating all learners to rigorous outcomes, especially those who are English learners or who have special needs.  ",
+      "course name": "Principles of Teaching in a diverse K - 8 classroom - A",
+      "units": "2 Units",
+      "id": "CSUS_EDMS 334A",
+      "prerequisite": [
+        "EDMS 334B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "This is the second course in a two course series. Candidates translate theories, concepts and frameworks presented in Principles of Teaching A into strategies and practices for instruction, assessment, and curriculum development in the K-8 classroom. Candidates will create activities, develop lesson and unit plans, and engage in simulations, peer teaching, and workshops. ",
+      "course name": "Principles of Teaching in a diverse K-8 classroom - B",
+      "units": "4 Units",
+      "id": "CSUS_EDMS 334B",
+      "prerequisite": [
+        "EDMS 334A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "This course is the first in a two-course series. It deepens candidates' knowledge of theories and practices necessary to execute the Plan-Instruct-Assess-Reflect cycle of mindful teaching for diverse students. Candidates will expand their understandings of how theoretical frameworks for teaching (learning theory, human development theory, multicultural education, inclusive and differentiated education, assessment frameworks, and models of teaching and curriculum planning) are applied in varied public school classrooms and contexts. ",
+      "course name": "Advanced Principles of Teaching in a diverse K-8 classroom - A",
+      "units": "1 Unit",
+      "id": "CSUS_EDMS 335A",
+      "prerequisite": [
+        "EDMS 334A",
+        "EDMS 334B",
+        "EDMS 335B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "In this course, candidates translate theories, concepts and frameworks presented in Advanced Principles of Teaching A into strategies and practices for instruction, assessment, and curriculum development in the K-8 classroom. Candidates will create activities, develop lesson and unit plans that integrate and apply various theories and frameworks for instruction. Candidates will design, lead and engage in simulations, peer teaching, and workshops. Workshop and discussion. ",
+      "course name": "Advanced Principles of Teaching in a diverse K-8 classroom - B",
+      "units": "2 Units",
+      "id": "CSUS_EDMS 335B",
+      "prerequisite": [
+        "EDMS 334A",
+        "EDMS 334B",
+        "EDMS 335A"
+      ]
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "Observations in classes in several situations and grade levels; service as an assistant in at least one classroom. Visits to community agencies which serve the school population. ",
+      "id": "CSUS_EDMS 401",
+      "course name": "Observation and Participation in Elementary Schools"
+    },
+    {
+      "units": "4 Units",
+      "term": "Fall, Spring",
+      "description": "Two semesters of student teaching multiple subjects in public school classrooms providing experiences at two grade levels and with different cultural groups. Intensive, realistic experiences with continuous and varied responsibilities. This first semester student teaching with integrated methods course work requires half-day participation. Experiences in classroom teaching and participation in many of the out-of-class duties of a teacher. ",
+      "id": "CSUS_EDMS 420A",
+      "course name": "Field Experience: Multiple Subject"
+    },
+    {
+      "units": "10 Units",
+      "term": "Fall, Spring",
+      "description": "Second semester student teaching with integrated methods course work requires full-day participation of the student. Emphasis on classroom teaching and further experience with community services. ",
+      "id": "CSUS_EDMS 420B",
+      "course name": "Student Teaching: Multiple Subject"
+    },
+    {
+      "units": "5 Units",
+      "term": "Fall, Spring",
+      "description": "One semester of teaching multiple subjects in a public school setting with diverse learners.  This first semester of student teaching is completed concurrently with integrated coursework.  ",
+      "id": "CSUS_EDMS 430A",
+      "course name": "Student Teaching I Basic"
+    },
+    {
+      "units": "7 Units",
+      "term": "Fall, Spring",
+      "description": "One semester of teaching multiple subjects in a public school setting with diverse learners.  This second semester of student teaching is completed concurrently with integrated coursework and focuses primarily on planning, implementing, and assessing instruction for whole classes of students. ",
+      "id": "CSUS_EDMS 430B",
+      "course name": "Student Teaching II: Basic"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "Candidates complete field experience in public school classrooms concurrently with integrated coursework. Field experiences focus primarily on observing model lessons and activities and on collaborative planning, implementing and assessing instruction for small groups of students. ",
+      "id": "CSUS_EDMS 434A",
+      "course name": "Field Experience for Elementary Teachers"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "One semester of teaching multiple subjects in a public school setting with diverse learners. This final semester of student teaching is completed concurrently with integrated coursework and focuses primarily on planning, implementing and assessing instruction for whole classes of students. ",
+      "course name": "Student Teaching for Elementary Teachers",
+      "units": "4 Units",
+      "id": "CSUS_EDMS 434B",
+      "prerequisite": [
+        "EDMS 434A"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "EDMS",
+    "subject": "Education - Multiple Subject"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Education - Multiple Subject",
+    "id": "CSUS"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "courses": [
+    {
+      "units": "4 Units",
+      "term": "Fall only",
+      "description": "Focuses on the development of listening, speaking, and reading skills. Special attention will be given to the relationship of the language to the civilization and culture of the German-speaking countries.",
+      "id": "CSUS_GERM 1A",
+      "course name": "Elementary German"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". Cultural introduction to the German-speaking countries is continued. ",
+      "course name": "Elementary German",
+      "units": "4 Units",
+      "id": "CSUS_GERM 1B",
+      "prerequisite": [
+        "GERM 1A",
+        "GERM 1A",
+        "GERM 1A"
+      ]
+    },
+    {
+      "term": " Meets the Foreign Language Graduation Proficiency Requirement.  ",
+      "description": " with review of grammar and with further development of reading ability but with a greater emphasis on active skills in speaking and writing. ",
+      "course name": "Intermediate German",
+      "units": "4 Units",
+      "id": "CSUS_GERM 2A",
+      "prerequisite": [
+        "GERM 1B",
+        "GERM 1B"
+      ]
+    },
+    {
+      "term": " Meets the Foreign Language Graduation Proficiency Requirement.  ",
+      "description": " with greater emphasis on skills in writing. ",
+      "course name": "Intermediate German",
+      "units": "4 Units",
+      "id": "CSUS_GERM 2B",
+      "prerequisite": [
+        "GERM 2A",
+        "GERM 2A"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Meets the Foreign Language Graduation Proficiency Requirement.  May be taken for credit four times. ",
+      "description": "Practice with German conversation and vocabulary; supervised individual and small-group instruction designed to develop German vocabulary, including conversation and listening skills at an intermediate level. ",
+      "id": "CSUS_GERM 5A",
+      "course name": "German Language Practice"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of grammar and style and their practical application in writing and speaking.",
+      "id": "CSUS_GERM 100",
+      "course name": "Advanced German Grammar"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Supervised individual and small-group practice for upper-division students desiring to improve their German language skills, especially conversation, listening and vocabulary. Some written work may be assigned. May be taken for credit three times, but may count only once for major or minor credit.",
+      "id": "CSUS_GERM 105",
+      "course name": "Advanced German Language Practice"
+    },
+    {
+      "units": "3 Units",
+      "term": " No German language requirement. ",
+      "description": "Exploration of the heroic adventures of the medieval knights in their quests for fame and love, with special attention to the bridal quest and the roles of their \"ladies\": their social, political, and economic position, and their impact on life in the Middle Ages. Discussions will be based on the reading of selected Middle High German works in English translation. ",
+      "id": "CSUS_GERM 140",
+      "course name": "Heroes, Dragons and Quests"
+    },
+    {
+      "units": "3 Units",
+      "term": " No German language requirement. ",
+      "description": "Exploration of Germanic myth and legend and their impact on art and literature. Readings in English. ",
+      "id": "CSUS_GERM 141",
+      "course name": "German Mythology and Legend"
+    },
+    {
+      "units": "3 Units",
+      "term": " No German language requirement. ",
+      "description": "Study of the traditional folk literature; fairy tales, folk tales, legends, ballads and folk songs; of the German-speaking people, their holiday traditions, festivals and social customs. Readings in English. ",
+      "id": "CSUS_GERM 142",
+      "course name": "German Folk Literature, Legend, and Lore"
+    },
+    {
+      "units": "3 Units",
+      "term": " No German language requirement. Course will be offered every two years. ",
+      "description": "Study of King Arthur and the knights of the Round Table in the German medieval romances read in English translation. ",
+      "id": "CSUS_GERM 143",
+      "course name": "King Arthur and the Knights of the Round Table in Germany"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Historical, social, and artistic forces in German civilization from the time of the Great Migrations to the Reformation. All readings and lectures in English.",
+      "id": "CSUS_GERM 150",
+      "course name": "German Civilization: Beginning to 16th Century"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Historical, social, and artistic forces in German civilization from the Reformation through the 20th century. All readings and lectures in English.",
+      "id": "CSUS_GERM 151",
+      "course name": "German Civilization: 17th Century to Present"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Directed fieldwork in a project which uses the language skills developed through previous study of German. The projects may include interpreting and translating for public and/or private agencies in Sacramento or other projects approved by the faculty supervisor. All work will be monitored by Sacramento State faculty. The student must submit written reports to his/her supervisor. May be taken more than once for credit. ",
+      "id": "CSUS_GERM 194",
+      "course name": "Field Experience/Internship"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Tutoring of lower division students of German under supervision of instructor. May be taken for credit more than once. ",
+      "id": "CSUS_GERM 195",
+      "course name": "Fieldwork: Tutoring"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to students who appear competent to carry on independent study.  ",
+      "description": "Individual projects or directed reading. ",
+      "id": "CSUS_GERM 199",
+      "course name": "Special Problems"
+    }
+  ],
+  "subjectOf": {
+    "id": "GERM",
+    "subject": "German"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "German",
+    "id": "CSUS"
+  }
+}

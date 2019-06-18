@@ -1,0 +1,223 @@
+{
+  "subjectOf": {
+    "id": "GSA",
+    "subject": "Graduate Studies-Accounting"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Graduate Studies-Accounting"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_GSA 501",
+      "course name": "Graduate Accounting Individual Research",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Advanced individual research in accounting topics planned and completed under the direction of a member of the college faculty. Designed to meet the needs of qualified students who wish to pursue investigations in accounting which can not be followed effectively in regularly offered elective courses. A formal written proposal must be accepted by the Associate Dean of OCOB before work begins."
+    },
+    {
+      "id": "CalPoly_GSA 536",
+      "course name": "Taxation of Trusts, Estates, and Transfer Taxes",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Income taxation of trusts and estates as flow - through entities ; transfer taxation of gifts and estates, including generation - skipping transfers.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSA 537",
+      "course name": "State and Local Taxation",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Multi - state income and franchise taxation ; property taxes ; sales and use taxes ; and the constitutional authority for the imposition of state taxes.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSA 538",
+      "course name": "Current Developments in Taxation",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Current developments in income taxation of individuals, trusts and estates and business entities ; transfer taxation of gifts and estates ; and ethics and professional responsibility in taxation.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSA 539",
+      "course name": "Clinical Tax Education Internship",
+      "units": "9 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Accounting internship that allows graduate level accounting students the opportunity to apply skills and competencies to an employment opportunity. Placement in a full - time supervised work experience at a public accounting firm or in an accounting or internal audit department of a private enterprise or government agency. Credit / No Credit grading only."
+    },
+    {
+      "id": "CalPoly_GSA 540",
+      "course name": "Taxation of Corporations and Partnerships",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Comparative study of the taxation of C corporations and flow - through tax entities, including S corporations, partnerships and limited liability companies. Not open to students with credit in BUS417.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSA 541",
+      "course name": "Advanced Financial Reporting Issues I",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Comprehensive coverage of selected advanced financial accounting and reporting topics. Topics include accounting changes and errors, leases, pensions and other post - employment benefits, income taxes, and consolidated financial statements.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_GSA 543",
+      "course name": "Advanced Financial Reporting Issues II",
+      "prerequisite": [
+        "GSA 541"
+      ],
+      "units": "5 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Comprehensive coverage of selected advanced financial accounting and reporting topics. Topics include financial statement footnote and MD&A disclosures and coverage of SEC statutes, regulations and filing forms.",
+      "format": "5 seminars."
+    },
+    {
+      "id": "CalPoly_GSA 544",
+      "course name": "Advanced Enterprise Wide Business Processes for Accounting",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Study of various transactions in order to understand the underlying business processes and information flows between various business units, in order for a transaction to occur and be properly reported, and the information determined that is critical for the information system to capture. Emphasis of role of information systems in controlling the authorization of transactions, access to information, access to assets, preparation of accounting records and reports.",
+      "format": "3 seminars, 1 activity."
+    },
+    {
+      "id": "CalPoly_GSA 545",
+      "course name": "Applied Accounting Research and Communications",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Advanced use of authoritative accounting and auditing data bases and actual filings by public companies. Frequent writing and speaking exercises. Real world accounting and auditing issues facing public and private enterprises. In - depth coverage of federal and state regulation of securities transactions."
+    },
+    {
+      "id": "CalPoly_GSA 546",
+      "course name": "Tax Research and Administrative Procedures",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Research techniques applicable to tax issues including the communication of research results. Administrative procedures necessary for tax compliance with the various tax jurisdictions with primary emphasis on IRS practices.",
+      "format": "2 seminars, 2 activities."
+    },
+    {
+      "id": "CalPoly_GSA 548",
+      "course name": "Advanced Individual Taxation and Tax Planning",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Advanced concepts concerning the impact of taxes on individuals. Introduction to transfer taxes imposed on individuals. Financial, estate and compensation tax planning issues.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_GSA 549",
+      "course name": "Advanced Taxation of Flow-Through Entities",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Advanced and special topics related to the income tax treatment of partnerships, limited liability companies, trusts and S corporations and their owners and beneficiaries. Creation, operation, liquidation and sale of such organizations.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_GSA 550",
+      "course name": "Advanced Corporate Taxation",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Advanced and special topics related to the income tax treatment of regular corporations and their shareholders. Mergers and acquisitions, tax accounting methods and periods, cross - boundary topics, and current issues.",
+      "format": "4 seminars."
+    },
+    {
+      "id": "CalPoly_GSA 551",
+      "course name": "International Taxation",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Fundamental tax concepts of inbound and outbound investments of U.S. taxpayers, controlled foreign corporations, Subpart F, the foreign tax credit, transfer pricing and contracting country treaties.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSA 552",
+      "course name": "Fraud Auditing and Examination",
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Occupational and financial statement fraud ; particular emphasis on the breakdown of corporate governance and ethics systems and developing internal control systems to prevent and detect fraudulent activities.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSA 553",
+      "course name": "International Accounting",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "International accounting, auditing, and corporate governance standards including international financial reporting standards ( IFRS ).",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSA 554",
+      "course name": "Advanced Spreadsheet Modeling for Accounting",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Advanced topics in electronic spreadsheets and their use in accounting and financial applications. Developing spreadsheet models for data analysis and decision making. Integrating automation tools and external data sources into spreadsheets.4 lectures."
+    },
+    {
+      "id": "CalPoly_GSA 555",
+      "course name": "Database Modeling and Analysis for Accounting",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Fundamental concepts in database analysis, design, implementation, administration, and audit including issues such as requirements specification, REA modeling, ER modeling, normalization, SQL, transaction control, database security, and query optimization. May also include topics such as data warehouses, XBRL and ebXLM.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSA 556",
+      "course name": "Financial Accounting and Valuation",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Comprehensive coverage of approaches to the measurement of fair values that are used in accounting situations such as mergers and acquisitions, recognition of stock based compensation, and determination of impairments in the carrying amounts of long - lived assets including intangible assets and goodwill. Role of financial reporting in the valuation of securities, credit analysis, and the determination of the cost of capital.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSA 570",
+      "course name": "Selected Advanced Topics for Accounting",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for graduate students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    }
+  ]
+}

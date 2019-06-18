@@ -1,0 +1,223 @@
+{
+  "subjectOf": {
+    "id": "GSE",
+    "subject": "Graduate Studies-Economics"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Graduate Studies-Economics"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_GSE 500",
+      "course name": "Independent Study",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Advanced study planned and completed under the direction of a departmental faculty member. Open only to graduate students demonstrating ability to do independent work. Enrollment by petition."
+    },
+    {
+      "id": "CalPoly_GSE 510",
+      "course name": "Essential Mathematics for Economic Analysis",
+      "units": "4 units",
+      "term": [
+        "Summer"
+      ],
+      "description": "Review and discussion of the basic math tools needed for graduate work in economics, including set theory, linear algebra, properties of functions, static and dynamic optimization.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 511",
+      "course name": "Microeconomic Analysis",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Basic microeconomic theory including theory of the firm, consumer theory, general equilibrium, capital theory, and welfare economics.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 512",
+      "course name": "Macroeconomic Analysis",
+      "prerequisite": [
+        "GSE 511"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Basic macroeconomic theory including markets for commodities and credit, the demand for money, market - clearing and the labor market, inflation and interest rates, investment, real business cycles and unemployment, economic growth, government consumption and the role of public services, and taxes, transfers, and the public debt.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 518",
+      "course name": "Essential Statistics for Econometrics",
+      "units": "4 units",
+      "term": [
+        "Summer"
+      ],
+      "description": "Statistical concepts for use in theoretical and applied econometric applications including random variables, independence, expectations, probability, distributions, covariance and correlation, large sample theory, and properties of estimators.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 520",
+      "course name": "Advanced Econometrics I",
+      "prerequisite": [
+        "GSE 518"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "The use of statistical procedures to measure theoretical economic relationships and to verify and reject theories. Advanced coverage of regression analysis and hypothesis testing.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 522",
+      "course name": "Advanced Econometrics II",
+      "prerequisite": [
+        "GSE 520"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Use of statistical procedures to deal with simultaneous equations, limited dependent variables and time - series data. Includes methods of instrumental variables, generalized method of moments and maximum likelihood.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 524",
+      "course name": "Computational Methods in Economics",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Use of computers to solve economic problems. Topics include computer programming using econometric software, data gathering and organization, and numerical solution methods for economic problems.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 526",
+      "course name": "Microeconometrics",
+      "prerequisite": [
+        "GSE 520"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Variety of standard and advanced econometric techniques employed in applied microeconomics. Emphasis on when and how to apply appropriate techniques.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 532",
+      "course name": "Environmental and Natural Resource Economics",
+      "prerequisite": [
+        "GSE 511"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Economic analysis of pollution, congestion, public good provision, and natural resource conservation. Static and dynamic efficiency, economic growth and sustainability, pollution taxes, marketable permits, and the design of market - based regulations.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 534",
+      "course name": "International Economics",
+      "prerequisite": [
+        "GSE 511"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Analysis of the international movement of goods, services, capital and payments. The role of exchange rates, tariffs, quotas, and transport costs. Relationship between international trade and economic growth.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 536",
+      "course name": "Public Economics",
+      "prerequisite": [
+        "GSE 511"
+      ],
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Economic analysis of the rationale for public expenditure and taxation. Externalities, pollution and public policy, income redistribution and public welfare, public goods, collective choice and political institutions, public budgeting techniques and cost - benefit analysis, taxation and tax policy, state - local finance and fiscal federalism.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 538",
+      "course name": "Industrial Economics",
+      "prerequisite": [
+        "GSE 511"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Economic theories of industrial organization with specific reference to such topics as cartels, market concentration and performance, vertical integration, franchise contracts, ownership and control of firms, multipart and discriminatory pricing, and tie - in sales. Economic aspects of antitrust law and government regulation of industry.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 542",
+      "course name": "Advanced Labor Economics",
+      "prerequisite": [
+        "GSE 522"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Research methods in labor economics and application of modern empirical techniques to the analysis of labor markets. Topics include labor supply and demand, discrimination, migration, and human capital accumulation.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 544",
+      "course name": "Evidence-Based Decision Analysis",
+      "prerequisite": [
+        "GSE 520"
+      ],
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Representing uncertainty using discrete and continuous conditional probabilities. Monte Carlo simulation of independent and correlated random variables. Optimization of decision variables. Randomization in program evaluation. Model mis - specification. Visualization and representation of the results of a decision analysis. Case studies.",
+      "format": "4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 570",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for graduate students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 lectures."
+    },
+    {
+      "id": "CalPoly_GSE 580",
+      "course name": "Seminar in Economics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Advanced topics in economics chosen according to the common interests and needs of the students enrolled. Schedule of Classes will list topic selected.",
+      "grading": "limited to 5 units",
+      "format": "1 - 4 seminars"
+    },
+    {
+      "id": "CalPoly_GSE 599",
+      "course name": "Thesis",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Individual research under the general supervision of the faculty, leading to a graduate thesis of suitable quality. Minimum of 8 units required for degree."
+    }
+  ]
+}

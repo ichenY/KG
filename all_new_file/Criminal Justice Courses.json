@@ -1,0 +1,314 @@
+{
+  "subjectOf": {
+    "subject": "Criminal Justice Courses",
+    "id": "CRJ"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Criminal Justice Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_CRJ 201",
+      "course name": "Introduction to Criminal Justice",
+      "units": "3 Credits",
+      "description": "This course considers processes for law enforcement, the judiciary, corrections and juvenile justice. In addition, this course considers criminal justice issues, applications for criminology, and critical perspectives in the study of criminal justice. ",
+      "similarTo": [
+        "CSUS_CRJ 101",
+        "CSUS_CRJ 1"
+      ]
+    },
+    {
+      "id": "AshFord_CRJ 301",
+      "course name": "Juvenile Justice",
+      "units": "3 Credits",
+      "description": "This course describes prevalent patterns of juvenile delinquency, relates these patterns to theories of child and adolescent development, and examines various theories pertaining to the causes of criminal behavior among juveniles. In addition, the course surveys the roles of police, courts, and delinquency intervention programs in the administration of juvenile justice. Emphasis will be given to strategies of prevention and early intervention."
+    },
+    {
+      "id": "AshFord_CRJ 303",
+      "course name": "Corrections",
+      "units": "3 Credits",
+      "description": "An analysis of correctional procedures and institutions, especially jails, prisons, parole, and probation is the focus of this course. Other topics include inmate subcultures, rehabilitation, and prisonization."
+    },
+    {
+      "id": "AshFord_CRJ 305",
+      "course name": "Crime Prevention",
+      "units": "3 Credits",
+      "description": "This course explores strategies of crime prevention including programs designed to reduce opportunities to commit crime, programs to alleviate demoralizing community social and economic conditions that foster criminal behavior, programs to improve police/community cooperation, and programs to educate young people as to likely consequences of criminal behavior."
+    },
+    {
+      "id": "AshFord_CRJ 306",
+      "course name": "Criminal Law & Procedure",
+      "units": "3 Credits",
+      "description": "A survey of constitutional rights, police compliance to constitutional rights, and constitutional amendments that specifically apply to the individual. The course examines the application of these rights in the enforcement, investigation, and adjudication of specific crimes."
+    },
+    {
+      "id": "AshFord_CRJ 308",
+      "course name": "Psychology of Criminal Behavior",
+      "units": "3 Credits",
+      "description": "Introduction to the Psychology of Criminal Behavior provides an overview of the intersection of psychology and the criminal justice system. The biopsychosocial factors that may influence criminal behavior are examined such as aggression, psychopathy, mental health disorders, and brain dysfunction. Finally, appropriate psychological interventions are evaluated to determine the best course of action for predicting and treating criminal behavior in both juveniles and adults. "
+    },
+    {
+      "id": "AshFord_CRJ 310",
+      "course name": "Applied Constitutional Issues",
+      "units": "3 Credits",
+      "description": "This course will introduce students to constitutional rights and issues as they apply to the work of police departments and other law enforcement organizations at the federal, state, and local level. The course will focus on the Bill of Rights, particularly the First, Fourth, Fifth, Sixth, and Eighth Amendments to the Constitution of the United States, as well as the Fourteenth Amendment. The course examines the application of these rights in the enforcement, investigation, and adjudication of crime."
+    },
+    {
+      "id": "AshFord_CRJ 311",
+      "course name": "Forensics",
+      "units": "3 Credits",
+      "description": "Forensic science applies scientific methodology to crime scene investigation and crime solving. This course analyzes techniques of crime scene investigation and the lawful gathering of evidence. Emphasis is placed upon the Federal Rules of Evidence, including the admissibility of physical evidence at trial, as well as the role of forensic science in the criminal justice system and the identification, collection, and preservation of physical evidence (chain of custody issues)."
+    },
+    {
+      "id": "AshFord_CRJ 312",
+      "course name": "Crime & Society",
+      "units": "3 Credits",
+      "description": "The purpose and procedures pertaining to probation and parole are analyzed in this course. Topics include pre-sentence investigation, supervision of probationers, parole administration and services, treatment theory, juvenile services, and parole officers. Students are introduced to such new concepts as community-based corrections, the justice model, and determinate sentencing and their impact on traditional policy and practice."
+    },
+    {
+      "id": "AshFord_CRJ 433",
+      "course name": "Principle & Theory of Security Issues",
+      "units": "3 Credits",
+      "description": "This course outlines the principles and topics relevant to business and organizational security management. Students gain understanding of established management functions, including the role of the Chief Security Officer. Various facets of physical, personnel, and information security are studied, as well as aspects of loss prevention and the protection of assets."
+    },
+    {
+      "id": "AshFord_CRJ 435",
+      "course name": "Evaluation of Security Programs",
+      "units": "3 Credits",
+      "description": "This course examines industry standards and practices and methods of determining the adequacy of security management programs. It also explores the concepts of legal liability, management structures and techniques, and their impact on security operations."
+    },
+    {
+      "id": "AshFord_CRJ 437",
+      "course name": "Contemporary Issues in Security Management",
+      "units": "3 Credits",
+      "description": "This course focuses on the current topics in security management such as substance abuse, violence, adjudication and reconsideration reviews, security countermeasures, case management, use of examinations such as polygraphs, report writing, international commercial sales, and media relations. The role of the security manager in personnel management, security planning, organizational communication, recruitment, retention, training and development, and management of contracts are also examined."
+    },
+    {
+      "id": "AshFord_CRJ 439",
+      "course name": "Security Administration",
+      "units": "3 Credits",
+      "description": "This course focuses on the real world applications for security managers. Staff selection and employee screening are discussed, as well as daily operating procedures, guard operations, securing information systems, and investigations are discussed. Students will be introduced to current topics in workplace violence, managing change, security awareness training, and physical security."
+    },
+    {
+      "id": "AshFord_CRJ 441",
+      "course name": "Homeland Defense",
+      "units": "3 Credits",
+      "description": "This course will examine the boundaries of the national security mission by evaluating the threats, actors, and organizational structures and resources affecting the security of the United States."
+    },
+    {
+      "id": "AshFord_CRJ 443",
+      "course name": "Intelligence & Homeland Security",
+      "units": "3 Credits",
+      "description": "This course examines the relationship between intelligence and homeland security strategy during the 20th century with emphasis placed on the Cold War. Using a case study approach, students will analyze past and present national security issues from an intelligence perspective."
+    },
+    {
+      "id": "AshFord_CRJ 445",
+      "course name": "Consequence Management: Terrorism Preparation & Response",
+      "units": "3 Credits",
+      "description": "This course addresses the potential results of nuclear, biological, and chemical warfare and incidents. Topics include public health consequences, emergency planning and response measures, detection and management technologies, and vulnerabilities. Course objectives include examination of the historical uses of chemical and biological weapons and the impacts of chemical and biological weapons."
+    },
+    {
+      "id": "AshFord_CRJ 447",
+      "course name": "Homeland Security Organization",
+      "units": "3 Credits",
+      "description": "Students will examine federal, state, local, private, and other organizational structures involved in homeland security. The course focuses on development of homeland security from early to modern times with an emphasis on the emerging homeland security structure and culture."
+    },
+    {
+      "id": "AshFord_CRJ 451",
+      "course name": "Homicide Investigation & Evidence Gathering",
+      "units": "3 Credits",
+      "description": "This course provides students with the skills and knowledge necessary for the resolution of homicide investigations. A historical overview is provided and current topics are explored. Topics include criminal behavior, the role of the crime laboratory, DNA testing, and medical/legal causes of death. Students will also be introduced to policies and procedures for evaluating and gathering evidence, with attention to blood stain and physical evidence and the impact of physical force on bodies and objects."
+    },
+    {
+      "id": "AshFord_CRJ 453",
+      "course name": "Criminal Profiling",
+      "units": "3 Credits",
+      "description": "This course defines the motivators and environmental influences leading to criminal behavior, as well as the patterns of offending. Students are introduced to profiling approaches and techniques and their relationship to crime solving."
+    },
+    {
+      "id": "AshFord_CRJ 455",
+      "course name": "Criminal Law",
+      "units": "3 Credits",
+      "description": "This course provides an in-depth analysis of criminal law. The principles of criminal liability are emphasized as well as the actions, mental state, and circumstances that are common to individuals committing crimes against society, persons, or to property."
+    },
+    {
+      "id": "AshFord_CRJ 457",
+      "course name": "Forensic Evidence & the Law",
+      "units": "3 Credits",
+      "description": "Students are exposed to the historical and contemporary contexts in which arguments are made about the quality of forensic evidence and the legal burden of proof in criminal litigation. Methods and strategies for the gathering, analyzing, and application of forensic evidence are discussed. This course examines the principles and practices of crime scene investigation as well as the procedures for the collection, preservation, documentation, and analysis of physical evidence."
+    },
+    {
+      "id": "AshFord_CRJ 461",
+      "course name": "Corrections Administration & Management",
+      "units": "3 Credits",
+      "description": "This course evaluates and develops the competencies necessary in corrections management and administration at all levels. Topics include strategic planning, risk assessment, effective leadership strategies, and current issues in corrections management. Students gain an understanding of the structure of the correctional facility as an organization. Ethical, legal, and social implications of corrections administration are discussed in detail.",
+      "similarTo": [
+        "CSUS_CRJ 136"
+      ]
+    },
+    {
+      "id": "AshFord_CRJ 463",
+      "course name": "Contemporary Corrections Issue",
+      "units": "3 Credits",
+      "description": "This course focuses on a broad range of contemporary concerns and topics in criminal justice such as racism in sentencing, racial profiling, police use of deadly force, national drug control policy, community policing, court authorized electronic intercepts, and prosecutorial discretion. Students will research current criminal justice issues and make analytical observations using concepts and methodologies learned in the class."
+    },
+    {
+      "id": "AshFord_CRJ 465",
+      "course name": "Corrections & Incarceration",
+      "units": "3 Credits",
+      "description": "This course examines approaches of correctional facilities and provides an overview of historic and contemporary philosophies and practices in the American Penal System. Treatment programs, prisoners rights, intermediate sanctions, and intuitional management are among the topics discussed, as well as correctional issues pertaining to race/ethnicity and women."
+    },
+    {
+      "id": "AshFord_CRJ 467",
+      "course name": "Probation & Parole",
+      "units": "3 Credits",
+      "description": "The purpose and procedures pertaining to probation and parole are analyzed in this course. Topics include pre-sentence investigation, supervision of probationers, parole administration and services, treatment theory, juvenile services, and parole officers. Students are introduced to such new concepts as community-based corrections, the justice model, and determinate sentencing and their impact on traditional policy and practice. "
+    },
+    {
+      "id": "AshFord_CRJ 501",
+      "course name": "Criminal Justice, Criminal Law & the Constitution",
+      "units": "3 Credits",
+      "description": "This course introduces students to the fundamentals of the criminal justice system, substantive criminal law, and the U.S. Constitution. This course may be waived for students holding undergraduate degrees in criminal justice or having completed certain courses."
+    },
+    {
+      "id": "AshFord_CRJ 510",
+      "course name": "Criminal Justice Policy & Theory",
+      "units": "3 Credits",
+      "description": "This course provides an extensive analysis of the functions, processes, and structures of the criminal justice system. Principles, doctrines, selected rules of criminal law, and law as social control will be examined. "
+    },
+    {
+      "id": "AshFord_CRJ 512",
+      "course name": "Criminological Theory",
+      "units": "3 Credits",
+      "description": "This course explores classical and contemporary literature in criminology and criminal justice. Both theory and empirical research will be used to examine criminal behavior as well as the structure, function, and interaction of the criminal justice system."
+    },
+    {
+      "id": "AshFord_CRJ 514",
+      "course name": "Constitutional & Judicial Processes",
+      "units": "3 Credits",
+      "description": "This course examines the structure, functions, and operations of the constitution and judicial processes. The impact of historical and contemporary constitutional issues on the criminal justice process will also be examined."
+    },
+    {
+      "id": "AshFord_CRJ 520",
+      "course name": "Research Methods in Criminal Justice",
+      "units": "3 Credits",
+      "description": "This course introduces the use of research methods in the study of criminal justice. The focus is on the examination of the issues related to collecting, analyzing, and using data. Students will learn to test hypotheses, draw inferences, and write a research report.",
+      "similarTo": [
+        "CSUS_CRJ 200"
+      ]
+    },
+    {
+      "id": "AshFord_CRJ 522",
+      "course name": "Psychological Factors in Criminal Justice",
+      "units": "3 Credits",
+      "description": "This course introduces students to the use of psychological methods and theoretical models in the criminal justice system. Students will examine criminal and police psychology with an overview of forensic psychology."
+    },
+    {
+      "id": "AshFord_CRJ 524",
+      "course name": "Ethics in Criminal Justice",
+      "units": "3 Credits",
+      "description": "This course examines theoretical and applied criminal justice ethical standards as they relate to criminal justice decision-making. Students will evaluate issues concerning discretion, due process, truthfulness, corruption, and discrimination.",
+      "similarTo": [
+        "CSUS_CRJ 196S"
+      ]
+    },
+    {
+      "id": "AshFord_CRJ 613",
+      "course name": "Comparative Criminal Justice Systems",
+      "units": "3 Credits",
+      "description": "This course provides an international perspective on law enforcement. Students will focus on the phenomena of globalization of criminal activity, major aspects of the legal traditions and criminal justice systems of selected countries, as well as international legal and law enforcement institutions.",
+      "similarTo": [
+        "CSUS_CRJ 172"
+      ]
+    },
+    {
+      "id": "AshFord_CRJ 615",
+      "course name": "Victimology",
+      "units": "3 Credits",
+      "description": "This course provides an overview of the principles and concepts of victimology, an analysis of patterns and trends, as well as theoretical reasoning and responses to criminal victimization. Students will examine the consequences suffered by victims as well as the services and resources available to them."
+    },
+    {
+      "id": "AshFord_CRJ 620",
+      "course name": "Organizational Behavior in Law Enforcement & Corrections",
+      "units": "3 Credits",
+      "description": "This course provides an analysis of the various issues facing criminal justice and correctional organizations in the context of professional practice, including, the theoretical concepts of organizational behavior, management and leadership of human resources, and design and structural processes of such organizations. Included topics are fiscal accountability; personnel deployment; implementation of change, motivation and retention of personnel, the hiring, assignment, and promotion of personnel, organizational communication; professional development, and applicable legal issues as they pertain to agency operations."
+    },
+    {
+      "id": "AshFord_CRJ 621",
+      "course name": "Cybercrime Investigation",
+      "units": "3 Credits",
+      "description": "This course will introduce students to the methods for investigating internet crime. Students will learn how to gather evidence, build a case against the perpetrator, and manage an Internet crime scene."
+    },
+    {
+      "id": "AshFord_CRJ 622",
+      "course name": "Introduction to Forensic Science",
+      "units": "3 Credits",
+      "description": "This course will introduce students to the history of forensic science along with current technologies, procedures and methods of laboratory analysis in use today. Topics covered will include recognition, protection, documentation and collection of physical evidence as well as analysis of such physical evidence. Legal recognition of new technologies will also be reviewed."
+    },
+    {
+      "id": "AshFord_CRJ 623",
+      "course name": "Homeland Security",
+      "units": "3 Credits",
+      "description": "This course introduces the student to the responsibilities and functions across agencies at various jurisdictional levels that have the charge of mitigating hostilities, threats, hazards, and consequences. Additionally, this course will study the methods of the most effective response systems. Students will develop the skills to identify, evaluate and resolve complex policy issues and initiate practical actions."
+    },
+    {
+      "id": "AshFord_CRJ 625",
+      "course name": "Employment & Policy Law for Law Enforcement & Corrections Administrators",
+      "units": "3 Credits",
+      "description": "This course explores specialized topics in substantive and procedural law with a special emphasis on employment law, and how these legal issues impact ethics and leadership in criminal justice and correctional organizations. This course is well suited for command-level personnel in response to a variety of potential agency and personal liability issues."
+    },
+    {
+      "id": "AshFord_CRJ 626",
+      "course name": "Computer Forensics",
+      "units": "3 Credits",
+      "description": "This course will introduce students to the methods for preventing and detecting cybercrime. Students will learn the basics of retrieving and analyzing data from various mediums, such as computers, global positioning systems, or removable storage devices.",
+      "similarTo": [
+        "CSUS_CSC 253"
+      ]
+    },
+    {
+      "id": "AshFord_CRJ 627",
+      "course name": "Advanced Forensic Science",
+      "units": "3 Credits",
+      "description": "This course will review the forensic science subjects covered in CRJ 622 and introduce the student to the scientific techniques used in processing evidence found at investigations and crime scenes. This course is designed to allow the student to complete exercises in the forensic fields most commonly used today."
+    },
+    {
+      "id": "AshFord_CRJ 628",
+      "course name": "Terrorism: Threats & Strategy",
+      "units": "3 Credits",
+      "description": "This course is designed to provide the student with an understanding of terrorism, both international and domestic. The course will explore the causes and effects of terrorism as they relate to political structures from both religious and historical perspectives; with particular focus on present day impacts."
+    },
+    {
+      "id": "AshFord_CRJ 630",
+      "course name": "Budgeting for Finance Law Enforcement & Corrections Administrators",
+      "units": "3 Credits",
+      "description": "This course will introduce students to public program budgeting and finance concepts. Special emphasis is given to methods of financing public programs and the preparation and management of budgets for the programs. This course is intended to provide students with an opportunity to learn and practice the technical aspects of program budgeting and finance in the public safety arena."
+    },
+    {
+      "id": "AshFord_CRJ 631",
+      "course name": "Security & Protection for Cybercrime",
+      "units": "3 Credits",
+      "description": "This course will instruct students of the basic rights of business and individuals who are affected by cybercrime as well as the means to protect them. Students will learn how to protect potential victims whether minors in chat rooms or multinational businesses from cyber criminals."
+    },
+    {
+      "id": "AshFord_CRJ 632",
+      "course name": "Crime Scene Investigation & Management",
+      "units": "3 Credits",
+      "description": "This course will introduce the student to the forensic techniques utilized in crime scene investigations (CSI). Students will learn how to process and retrieve trace evidence such as DNA and other items of evidentiary value. Student will also learn accepted methodologies employed in contemporary crime scene management. Students will also become familiarized with commonly accepted forensic techniques, contemporary specialized techniques, and judicial expectations and requirements relative to the admittance of evidence collected by forensic crime scene investigators."
+    },
+    {
+      "id": "AshFord_CRJ 633",
+      "course name": "Risk Assessment",
+      "units": "3 Credits",
+      "description": "This course is intended to provide the student with advanced knowledge and understanding of the area of risk assessment and management. The focus is on the recognition of real and perceived threats, sharing information between communities and agencies, the collaboration of resources, and the management of risk. Students will examine the concepts of risk assessment, risk analysis, and the impacts of actual and suspected threats."
+    },
+    {
+      "id": "AshFord_CRJ 697",
+      "course name": "Capstone: Evaluation & Program Analysis in Criminal Justice",
+      "units": "3 Credits",
+      "description": "Students will research key concepts, methods, and issues in the field of evaluation research. In addition, students will analyze and develop an evaluation proposal on a discreet topic within the field of criminal justice. The focus will center on needs assessment, impact, monitoring, as well as the application of quantitative and qualitative techniques."
+    }
+  ]
+}

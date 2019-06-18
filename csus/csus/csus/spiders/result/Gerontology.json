@@ -1,0 +1,165 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University.  Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills.  Provide students with the opportunity to interact with fellow students and the seminar leader and to build a community of academic and personal support, as well as explore gerontological concepts needed to respond to demographic changes in today's world.", 
+      "id": "CSUS_GERO 21", 
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring, Summer", 
+      "description": "Introduction to the field of Gerontology and how the discipline addresses society's aging needs.  An examination of current issues in gerontology using a life span perspective focusing on older adults' needs/concerns along life's continuum in various environments.  Major topics include implications of the demographic imperative, common aging changes/conditions, myths and stereotypes, effects of health/illness on individual and family roles, basic social issues and policies arising from the graying of America, and media, cultural and gender influences.", 
+      "id": "CSUS_GERO 100", 
+      "course name": "Aging Issues in Contemporary America"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " This is a service learning course. ", 
+      "description": "Exploration and analysis of the \"elder care service continuum\" within the context of changing diverse societal needs, service availability and accessibility, current public policy, and administrative and management issues facing care providers.  A multidisciplinary examination of the spectrum of services and programs targeted for older adults and their families. Includes information and referral processes and agencies, recreational and social options, housing alternatives, in-home, residential and skilled care options, health care eligibility criteria, funding sources, and adult protective services. ", 
+      "id": "CSUS_GERO 101", 
+      "course name": "Elder Care Continuum Services and Strategies"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Explores context and process for policy making by national and California state governments including ethical dimensions. Applications are developed from students' and instructor's areas of interest including K-12 and higher education, land-use policy, and aging issues such as elder advocacy, Social Security, and  Medicare/Medicaid. Provides background and skills for entry level positions in public or non-profit organizations. ", 
+      "course name": "Social Policy for an Aging Society", 
+      "units": "3 Units", 
+      "id": "CSUS_GERO 102", 
+      "prerequisite": [
+        "PPA 100"
+      ]
+    }, 
+    {
+      "term": " This is a service learning course. ", 
+      "description": "Students will analyze issues, services, and interventions related to care management with older adults. They will apply strategies for identifying and accessing services targeted for older adults, their families/caregivers. Students will develop an understanding of unique characteristics/needs of elders, the system approach to working with elders, issues affecting service delivery to this population, and basic practice skills for effective service delivery to elders and families/caregivers. Students have the opportunity to work with individuals residing in a senior residential community. ", 
+      "course name": "Applied Care Management in Gerontological Practice", 
+      "units": "3 Units", 
+      "id": "CSUS_GERO 103", 
+      "prerequisite": [
+        "GERO 101"
+      ]
+    }, 
+    {
+      "term": "Cross listed: ", 
+      "description": "This course is an in-depth, interdisciplinary, and holistic exploration of health promotion and adaptation paradigms that facilitate optimal and productive longevity. Hardiness and self-efficacy theories along with expectations and experiences enhancing quality of life are explored. Interactions among such variables as activity, diet, exercise, work/leisure, attitudes/beliefs, humor, living environments, spirituality, and social networks are investigated within the contexts of gender, economic and cultural perspectives. ", 
+      "course name": "Strategies for Optimal Aging", 
+      "units": "3 Units", 
+      "id": "CSUS_GERO 121", 
+      "prerequisite": [
+        "GERO 221"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study and analysis of prevalent pathophysiological-based diseases and psychological disorders commonly experienced by older adults and frail elder populations. Disease/disorder causes and the effects of chronic illness on individuals' activities of daily living, sexuality, relationships, and coping abilities with changing lifestyles are examined using a life course framework and evidenced-based research. Assessment tools, lab value changes, medication needs, complications/disabilities, traditional/alternative treatments and ethical issues rising from meeting needs are investigated along with implications for caregivers. ", 
+      "course name": "Managing Disorders in Elders", 
+      "units": "3 Units", 
+      "id": "CSUS_GERO 122", 
+      "prerequisite": [
+        "GERO 121"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analysis, evaluation, and application of existent gerontological research. Hands-on practice carrying out aging-related research projects, including defining the research question, selecting data collection tools, collecting and analyzing quantitative and qualitative data, and presenting results in narrative and visual formats. Special emphasis on connecting gerontological theory, research, and interdisciplinary practice, accommodating participants with sensory, physical, or cognitive limitations, and ethical issues. ", 
+      "id": "CSUS_GERO 123", 
+      "course name": "Research on Aging & the Life Course"
+    }, 
+    {
+      "term": " This is a service learning course.  ", 
+      "description": "Supervised practicum experience in a community agency planning for or delivering professional services to older adults. This practicum experience is part of two culminating courses for the major and focuses on application of the interdisciplinary nature of the discipline while affording students direct, hands on experiences.  Includes a field seminar. Seminar discussions focus on the application of gerontological concepts derived from all gerontology courses and are applied to each student's specific practicum area. ", 
+      "course name": "Gerontology Practicum", 
+      "units": "3 Units", 
+      "id": "CSUS_GERO 130", 
+      "prerequisite": [
+        "GERO 101", 
+        "GERO 102", 
+        "GERO 103", 
+        "GERO 121", 
+        "GERO 122"
+      ]
+    }, 
+    {
+      "term": "  ", 
+      "description": "Supervised internship experience in a community agency planning for or delivering professional services to older adults.  This capstone practicum experience builds on the first internship course and is the final culminating course for the major and focuses on advanced application of the interdisciplinary nature of the discipline while affording students direct, hands on experiences. Includes a field seminar. Seminar discussions focus on the application of gerontologic concepts derived from all gerontology courses and are applied to each student's specific Practicum area. ", 
+      "course name": "Gerontology Capstone Practicum", 
+      "units": "3 Units", 
+      "id": "CSUS_GERO 131", 
+      "prerequisite": [
+        "GERO 101", 
+        "GERO 102", 
+        "GERO 103", 
+        "GERO 121", 
+        "GERO 122", 
+        "GERO 130", 
+        "GERO 130"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open to students who are capable of independent work.   A maximum of 3 units may count toward elective major requirements.  ", 
+      "description": "Independent research, project, or directed reading. ", 
+      "id": "CSUS_GERO 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Exposure to and analysis of positive and negative functional consequences arising from age related changes and illnesses in elders. Content elucidates changes and their effects on elders' levels of wellness using interdisciplinary research and holistic, life course frameworks. Screening assessments, interventions, community resources and services, and ethical issues are addressed for each topic. Caregiving issues and solutions are explored within life span and problem solving frameworks.", 
+      "id": "CSUS_GERO 200", 
+      "course name": "Adaptation To Age Related Changes, Illnesses and Caregiving"
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "This course is an in-depth, interdisciplinary, and holistic exploration of health promotion and adaptation paradigms that facilitate optimal and productive longevity. Hardiness and self-efficacy theories along with expectations and experiences enhancing quality of life are explored. Interactions among such variables as activity, diet, exercise, work/leisure, attitudes/beliefs, humor, living environments, spirituality, and social networks are investigated within the contexts of gender, economic, and cultural perspectives.  ", 
+      "course name": "Strategies for Optimal Aging", 
+      "units": "3 Units", 
+      "id": "CSUS_GERO 221", 
+      "prerequisite": [
+        "GERO 121"
+      ]
+    }, 
+    {
+      "term": "; only one may be counted for credit.", 
+      "description": "Offers in-depth study/analysis of prevalent pathophysiological-based diseases and psychological disorders commonly experienced by older adults and frail elder populations. Disease/disorder causes and the effects of chronic illness on individuals' activities of daily living, sexuality, relationships, and coping abilities with changing lifestyles are examined using a life course framework and evidenced-based research. Assessment tools, lab value changes, medication needs, complications/disabilities, traditional/alternative treatments and ethical issues rising from meeting needs are investigated along with implications for caregivers. ", 
+      "course name": "Managing Disorders in Elders", 
+      "units": "3 Units", 
+      "id": "CSUS_GERO 222", 
+      "prerequisite": [
+        "GERO 221", 
+        "GERO 122"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Supervised fieldwork internship or project that is a culminating experience and applies learned gerontological theories and concepts in a community setting where planning, developing, or delivering services to older adults or their families occurs. Students choose an area of practice and negotiate their learning experiences or project with their faculty advisor and field supervisor. Advanced approval of project goal and objectives by program director are required. ", 
+      "course name": "Internship/Project", 
+      "units": "3 Units", 
+      "id": "CSUS_GERO 295", 
+      "prerequisite": [
+        "GERO 200", 
+        "GERO 221", 
+        "GERO 222"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Independent research, project, or directed reading. Open to students who are capable of independent work. A maximum of 3 units may count toward elective major requirements. Advanced approval of project goal and objectives by program director. ", 
+      "id": "CSUS_GERO 299", 
+      "course name": "Special Problems"
+    }
+  ], 
+  "subjectOf": {
+    "id": "GERO", 
+    "subject": "Gerontology"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Gerontology", 
+    "id": "CSUS"
+  }
+}

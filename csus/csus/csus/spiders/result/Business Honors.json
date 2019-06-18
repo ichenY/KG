@@ -1,0 +1,180 @@
+{
+  "courses": [
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides basic concepts for the understanding and practice of communication for managers and professionals. Examines the use of language and conversations in business settings and their role in coordinating actions, resolving breakdowns in work performance, and providing customer satisfaction. Topics include professional styles and formats of business writing and development of competence in business conversation skills (written, electronic and oral). ", 
+      "id": "CSUS_BHON 102", 
+      "course name": "Business Communication"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Investigates substantive law and stresses critical thinking and analytical evaluation of contemporary business legal issues. Identifies ethical concerns and addresses potential legal problems. Topics include an introduction to the legal system, court procedures, contracts and sales, real and personal property, labor and employment law, product liability, and the government regulation of business. ", 
+      "id": "CSUS_BHON 103", 
+      "course name": "Business Legal Environment"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "The course provides students frameworks to deal and work with members of work organizations, and focuses on how individual, group and organization-level factors influence employee attitudes and behaviors. The course further discusses challenges people face in today's dynamic work environment and global settings. ", 
+      "id": "CSUS_BHON 104", 
+      "course name": "Fundamentals of Organizational Behavior"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explores the application of information technology in the organizational environment to assist in managerial decision making. Examines the alignment of IT and business strategy. ", 
+      "id": "CSUS_BHON 105", 
+      "course name": "Introduction to Management Information Systems"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Applies statistical methods to solve business problems and inform managerial decision making. Topics include data analysis, statistical reasoning, model building and communication of statistical results. A statistical computer package is used in this course. ", 
+      "id": "CSUS_BHON 106", 
+      "course name": "Business Data Analysis"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of principles of finance and their application to typical financial problems of business enterprises. Topics include financial analysis, management of working capital, capital budgeting, long-term financing, dividend policy, internal financing, and time value of money. ", 
+      "id": "CSUS_BHON 107", 
+      "course name": "Business Finance"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "An introduction to marketing concepts and principals. Examines the marketing function, its relationships with other business functions, and its role in the US and global economies. ", 
+      "id": "CSUS_BHON 108", 
+      "course name": "Fundamentals in Marketing"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduces the basic concepts and methods used to analyze and improve operation performance in manufacturing and service organizations. Topics include operations strategy, process design and capacity management, inventory management, supply chain management, and operations planning and control. ", 
+      "id": "CSUS_BHON 109", 
+      "course name": "Operations Management"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Focuses on enterprise problem solving and decision making using information technology, and data and financial analyses for mission critical and integral applications in planning and control. Alternative solutions are examined and evaluated for their effectiveness in achieving results. ", 
+      "course name": "Business Intelligence", 
+      "units": "3 Units", 
+      "id": "CSUS_BHON 120", 
+      "prerequisite": [
+        "BHON 102", 
+        "BHON 104", 
+        "BHON 105", 
+        "BHON 106", 
+        "BHON 107", 
+        "BHON 108", 
+        "BHON 109"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Methods used for developing effective organizational value chains that integrate strategic planning, procurement, R&D, production, warehousing, distribution, and customer service to support business strategy. Includes critical decisions surrounding various organizational stakeholders, such as customer and supplier management, and the movement of goods and information throughout a supply chain network. ", 
+      "course name": "Value Chain and Supply Chain Management", 
+      "units": "3 Units", 
+      "id": "CSUS_BHON 130", 
+      "prerequisite": [
+        "BHON 102", 
+        "BHON 104", 
+        "BHON 105", 
+        "BHON 106", 
+        "BHON 107", 
+        "BHON 108", 
+        "BHON 109"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Examines the design, planning, implementation and impact of enterprise-wide systems on the organization and infrastructure. Focuses on the integration and coordination of all facets of business, including production, accounting, finance, human resources, and marketing to improve the organization's resource planning, and management and operational control. ", 
+      "course name": "Enterprise Resource Planning and Infrastructure", 
+      "units": "3 Units", 
+      "id": "CSUS_BHON 140", 
+      "prerequisite": [
+        "BHON 102", 
+        "BHON 104", 
+        "BHON 105", 
+        "BHON 106", 
+        "BHON 107", 
+        "BHON 108", 
+        "BHON 109"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "An application based course that provides a broad understanding of the new venture processes. Discusses fundamental tools and skills necessary to create, run, and grow a successful new venture. Offers a multidisciplinary framework for studying and developing innovative and creative capabilities of entrepreneurs. ", 
+      "course name": "Entrepreneurship and Innovation", 
+      "units": "3 Units", 
+      "id": "CSUS_BHON 150", 
+      "prerequisite": [
+        "BHON 102", 
+        "BHON 104", 
+        "BHON 105", 
+        "BHON 106", 
+        "BHON 107", 
+        "BHON 108", 
+        "BHON 109"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Methods and processes used for planning, controlling and managing projects. Includes project selection and scope, scheduling methodologies, economic analysis, the use of software, and life-cycle costing for managing different phases of projects. Emphasis on effective management of projects to achieve operational, managerial and strategic goals of organizations. ", 
+      "course name": "Project Management", 
+      "units": "3 Units", 
+      "id": "CSUS_BHON 160", 
+      "prerequisite": [
+        "BHON 102", 
+        "BHON 104", 
+        "BHON 105", 
+        "BHON 106", 
+        "BHON 107", 
+        "BHON 108", 
+        "BHON 109"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "An introduction to traditional and contemporary theories of business strategy, corporate strategy and strategic leadership. Compares and contrasts theories in strategy and styles of strategic leadership through case studies, current research, and conversations with business leaders. ", 
+      "course name": "Strategy and Leadership", 
+      "units": "3 Units", 
+      "id": "CSUS_BHON 170", 
+      "prerequisite": [
+        "BHON 102", 
+        "BHON 104", 
+        "BHON 105", 
+        "BHON 106", 
+        "BHON 107", 
+        "BHON 108", 
+        "BHON 109"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "A series of forums that exposes students to practical business issues that have significant impact on the enterprise. Discussions with managers who have effectively led planning and operations. Compares and contrasts business concepts and principles to their practical applications. ", 
+      "course name": "Practicum in Business", 
+      "units": "1 Unit", 
+      "id": "CSUS_BHON 190", 
+      "prerequisite": [
+        "BHON 120", 
+        "BHON 130", 
+        "BHON 140", 
+        "BHON 150", 
+        "BHON 160", 
+        "BHON 170"
+      ]
+    }
+  ], 
+  "subjectOf": {
+    "id": "BHON", 
+    "subject": "Business Honors"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Business Honors", 
+    "id": "CSUS"
+  }
+}

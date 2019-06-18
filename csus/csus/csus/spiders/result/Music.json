@@ -1,0 +1,1607 @@
+{
+  "courses": [
+    {
+      "term": "Fall, Spring", 
+      "description": "Basic aural skills and practical applications of the rhythmic, melodic, and harmonic materials needed to perform, teach, and compose music. Class activities will focus around the musicianship skills of rhythmic reading and dictation, identification and dictation of intervals and triads, melodic dictation, contrapuntal dictation, harmonic dictation, and sight singing. ", 
+      "course name": "Musicianship I", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 1", 
+      "prerequisite": [
+        "MUSC 5", 
+        "MUSC 6"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced aural skills and practical applications of the rhythmic, melodic, and harmonic materials needed to perform, teach, and compose music. Class activities will focus around the musicianship skills of rhythmic reading and dictation, melodic dictation, contrapuntal dictation, harmonic dictation, aural analysis of form, and sight singing. ", 
+      "course name": "Musicianship II", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 2", 
+      "prerequisite": [
+        "MUSC 1", 
+        "MUSC 7"
+      ]
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to professional music software applications and MIDI hardware. Exploration of various hardware options such as keyboards, computers, synthesizers, samplers, and drum machines. Topics include basic MIDI principles, creating, performing, and printing music using computer-based sequencing and notation software.", 
+      "id": "CSUS_MUSC 3", 
+      "course name": "MIDI Sequencing and Notation"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction in music theory and musicianship. No previous musical training is assumed. Objectives are: to understand the meaning of musical notation and terminology; to acquire some skill in translating musical notation into sound and vice versa; to understand the rudiments of musical structure and syntax (rhythm and meter, scales and keys, intervals and chords, basic aspects of musical design) both on paper and as a listener; and to put these elements to some creative use.", 
+      "id": "CSUS_MUSC 4", 
+      "course name": "Elements Of Music"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Beginning theory for music majors designed to provide a thorough study of the basis of tonal music. Includes scales, diatonic triads, melody, voice-leading, and simple harmonic progressions as well as correlative work in ear training and sight singing. ", 
+      "id": "CSUS_MUSC 5", 
+      "course name": "Beginning Theory"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". Includes stylistic analysis, diatonic seventh chords, modulation, secondary dominant chords, and simple formal structures. An aural skills component emphasizes melodic and harmonic dictation of music associated with the harmonic devices studied. ", 
+      "course name": "Intermediate Theory", 
+      "units": "3 Units", 
+      "id": "CSUS_MUSC 6", 
+      "prerequisite": [
+        "MUSC 5", 
+        "MUSC 1", 
+        "MUSC 5"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced tonal theory that includes the study of enriched harmonic resources of the eighteenth and nineteenth centuries as well as an introduction to counterpoint and large musical forms. The aural component includes dictation and vocal reading of chromatic music and aural analysis of form. ", 
+      "course name": "Advanced Theory", 
+      "units": "3 Units", 
+      "id": "CSUS_MUSC 7", 
+      "prerequisite": [
+        "MUSC 1", 
+        "MUSC 6", 
+        "MUSC 2"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May not be taken for credit by music majors. ", 
+      "description": "Orientation designed to provide musical knowledge, skills, and competencies necessary for reading music or listening to music. ", 
+      "id": "CSUS_MUSC 8", 
+      "course name": "Basic Music"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Designed as a survey of world music for music majors. Explores how music is used as a form of human expression in all cultures. Musical instruments, forms and styles, and the roles and functions of music in traditional and contemporary societies in various cultures throughout the world.", 
+      "id": "CSUS_MUSC 9", 
+      "course name": "Music In World Cultures"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Survey of Medieval, Renaissance and Baroque music literature in Western art music, its stylistic development, and cultural context. Emphasis on score reading and listening. Introduction to primary source readings and musicological literature.", 
+      "id": "CSUS_MUSC 10A", 
+      "course name": "Survey of Music Literature I"
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Survey of Classical and Romantic music literature in Western art music, its stylistic development, and cultural context. Emphasis on score reading and listening. Introduction to primary source readings and musicological literature. ", 
+      "course name": "Survey of Music Literature II", 
+      "units": "3 Units", 
+      "id": "CSUS_MUSC 10B", 
+      "prerequisite": [
+        "MUSC 5", 
+        "MUSC 9"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Spring only", 
+      "description": "Survey of 20th and 21st Century music literature in Western art music, its stylistic development, and cultural context. Emphasis on score reading and listening. Introduction to primary source readings and musicological literature.", 
+      "id": "CSUS_MUSC 10C", 
+      "course name": "Survey of Music Literature III"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " meets the departmental piano requirement. ", 
+      "course name": "Basic Piano for Majors", 
+      "units": "1 Unit", 
+      "id": "CSUS_MUSC 14B", 
+      "prerequisite": [
+        "MUSC 14D"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " meets the departmental piano requirement. ", 
+      "course name": "Basic Piano for Majors", 
+      "units": "1 Unit", 
+      "id": "CSUS_MUSC 14C", 
+      "prerequisite": [
+        "MUSC 14D"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " meets the departmental piano requirement. ", 
+      "course name": "Basic Piano for Majors", 
+      "units": "1 Unit", 
+      "id": "CSUS_MUSC 14D", 
+      "prerequisite": [
+        "MUSC 14D"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Provides basic instruction in keyboard skills and jazz theory.  Includes composing, basic chord voicing, realizing chord progressions at sight, and fitting chords to a given melody. ", 
+      "course name": "Jazz Piano Class", 
+      "units": "1 Unit", 
+      "id": "CSUS_MUSC 15", 
+      "prerequisite": [
+        "MUSC 14D"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Elementary instruction in the correct use of the singing voice and the development of style in singing. Open to all students beginning the study of voice. Recommended for elementary credential candidates. May be taken for credit four times.", 
+      "id": "CSUS_MUSC 17", 
+      "course name": "Voice Class"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Not open to music majors. ", 
+      "description": "Basic music orientation for the layman. A non-technical consideration of the various aspects of music literature designed to stimulate interest in all phases of music. ", 
+      "id": "CSUS_MUSC 18", 
+      "course name": "Music Appreciation"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University. Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills. Students with the opportunity to interact with fellow classmates and the seminar leader to build a community of academic support and personal support.", 
+      "id": "CSUS_MUSC 21", 
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Training in vocal techniques and repertoire of the modern American musical theater. May be taken for credit twice. ", 
+      "id": "CSUS_MUSC 25", 
+      "course name": "Voice For Music Theater"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 32A", 
+      "course name": "Piano: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 32B", 
+      "course name": "Piano: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit four times.  ", 
+      "description": "Individual instruction. Music majors only.  ", 
+      "id": "CSUS_MUSC 35A", 
+      "course name": "Harpsichord/Organ: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit four times.  ", 
+      "description": "Individual instruction. Music majors only.  ", 
+      "id": "CSUS_MUSC 35B", 
+      "course name": "Harpsichord/Organ: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 37A", 
+      "course name": "Voice: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 37B", 
+      "course name": "Voice: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Explores the fundamentals of hand-drumming through two methods of study: the music of North India, the tabla drums and the rhythmic system of Hindustani music and rhythms of the Middle East through traditional drums, including the tar, riqq, and dumbek.", 
+      "id": "CSUS_MUSC 38D", 
+      "course name": "Beginning Hand Drums"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " Open to Music majors and minors; others by instructor permission. ", 
+      "description": "Elementary class instruction in the fundamentals of playing the traditional Japanese flute known as the shakuhachi. The focus is on fundamental blowing and fingering techniques, as well as the basis of the fu ho u notation system. ", 
+      "id": "CSUS_MUSC 38S", 
+      "course name": "Beginning Shakuhachi"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Folk guitar for the beginner, with emphasis on chords and strums as well as the playing of melodies. Guitars are to be furnished by the student.", 
+      "id": "CSUS_MUSC 39", 
+      "course name": "Beginning Folk Guitar"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MUSC 40B", 
+      "course name": "Beginning Brass"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MUSC 40P", 
+      "course name": "Beginning Percussion"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MUSC 40S", 
+      "course name": "Beginning Strings"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MUSC 40W", 
+      "course name": "Beginning Woodwinds"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall only", 
+      "description": "Individual instruction in composition for the beginning composition major. Work will be designed to fit the preparation of the student, with emphasis on principles of sound melodic and harmonic construction. Original compositions will develop a mastery of the smaller forms. May be taken twice for credit. ", 
+      "id": "CSUS_MUSC 42", 
+      "course name": "Introductory Composition"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Part one of a two-semester study of jazz improvisation required of all jazz studies majors.  This course will provide the student with basic and intermediate skills of creative improvisation styles in the jazz idiom.  In order to expand the skill level of improvisation of each particular jazz student, this class will focus on four main areas: listening, scale and chord development, repertory development and transcribing jazz solos. ", 
+      "course name": "Jazz Improvisation I", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 43A", 
+      "prerequisite": [
+        "MUSC 6"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Part two of a two-semester study of jazz improvisation required of all jazz studies majors.  The course will provide the student with intermediate and advanced skills of creative improvisation styles in the jazz idiom.  In order to expand the skill levels of improvisation of each particular jazz student, this class will focus on four main areas: listening, scale and chord development,  repertory development,  and transcribing jazz solos. ", 
+      "course name": "Jazz Improvisation II", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 43B", 
+      "prerequisite": [
+        "MUSC 43A"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit four times.  ", 
+      "description": "Individual instruction in jazz performance. ", 
+      "id": "CSUS_MUSC 50", 
+      "course name": "Jazz Applied: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 55A", 
+      "course name": "Violin: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 55B", 
+      "course name": "Violin: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 56A", 
+      "course name": "Viola: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 56B", 
+      "course name": "Viola: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 57A", 
+      "course name": "Cello: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 57B", 
+      "course name": "Cello: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 58A", 
+      "course name": "Double Bass: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 58B", 
+      "course name": "Double Bass: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "In this course students study pedagogical techniques and participate in a step-by-step practicum as assistant teachers in the Sacramento State String Project. Set in a rigorous teaching lab, the course gives students experience both observing and assistant teaching in the String Project program. Student assistants master effective methods of teaching fundamental string instrument skills to beginners, including correct position, tone production, reading proficiency, intonation, phrasing and listening.", 
+      "id": "CSUS_MUSC 60", 
+      "course name": "Introuduction to String Project Pedagogy"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 65A", 
+      "course name": "Flute: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 65B", 
+      "course name": "Flute: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 66A", 
+      "course name": "Oboe: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 66B", 
+      "course name": "Oboe: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 67A", 
+      "course name": "Bassoon: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 67B", 
+      "course name": "Bassoon: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 68A", 
+      "course name": "Clarinet: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 68B", 
+      "course name": "Clarinet: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 69A", 
+      "course name": "Saxophone: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 69B", 
+      "course name": "Saxophone: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 70A", 
+      "course name": "Percussion: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 70B", 
+      "course name": "Percussion: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 71A", 
+      "course name": "Harp: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 71B", 
+      "course name": "Harp: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 74A", 
+      "course name": "Guitar: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 74B", 
+      "course name": "Guitar: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 90A", 
+      "course name": "Trumpet: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 90B", 
+      "course name": "Trumpet: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 91A", 
+      "course name": "Trombone: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 91B", 
+      "course name": "Trombone: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 92A", 
+      "course name": "Baritone: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 92B", 
+      "course name": "Baritone: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 93A", 
+      "course name": "French Horn: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 93B", 
+      "course name": "French Horn: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 94A", 
+      "course name": "Tuba: Intermediate"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 94B", 
+      "course name": "Tuba: Intermediate - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "description": "This one-unit course is an optional lab supplement to the Area C1 GE course 118D: Hip-Hop in Urban America. Students will learn skills in hip-hop production software including Reason and Ableton Live. Students will learn to create beats including instrument building, sampling, and sequencing. The lab will offer students the opportunity to engage in a hands-on way with the course material in Music 118D, and will track the regional scope of the course schedule closely. ", 
+      "id": "CSUS_MUSC 96", 
+      "prerequisite": [
+        "MUSC 118D"
+      ], 
+      "course name": "Intro to Hip-Hop Beat-Making"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading for lower division students. Open only to students who appear competent to carry on individual work. ", 
+      "id": "CSUS_MUSC 99", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Designed to develop critical listening, aural analysis, and the appreciation of a wide range of musical forms and genres.  Each student will be required to attend a minimum of ten concerts approved by the Music Department and submit a portfolio of programs attended.  Written reviews are required for a determined number of the ten concerts attended.", 
+      "id": "CSUS_MUSC 100A", 
+      "course name": "Concert Attendance"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Designed to develop critical listening, aural analysis, and the appreciation of a wide range of musical forms and genres. Each student will be required to attend a minimum of ten concerts approved by the Music Department and submit a portfolio of programs attended with comments about the music and performance. May be taken for credit eight times.", 
+      "id": "CSUS_MUSC 100B", 
+      "course name": "Concert Attendance"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Required for the Liberal Studies major. ", 
+      "description": "Development of essential musical skills and knowledge for teaching music in the elementary classroom including competencies necessary for reading and notating music in the elementary classroom.  The study of curriculum and literature through songs, rhythmic movement, instrumental activities, creating and improvisation, and listening.  Lecture/lab. ", 
+      "id": "CSUS_MUSC 101", 
+      "course name": "Experiences In Music"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Scoring and arranging techniques related to the needs of orchestra, concert band, marching band, vocal and instrumental ensembles. ", 
+      "course name": "Scoring and Arranging", 
+      "units": "3 Units", 
+      "id": "CSUS_MUSC 102", 
+      "prerequisite": [
+        "MUSC 7"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Study of the contrapuntal style and devices of the 18th century. Includes writing in two and three parts in such forms as the canon, invention, chorale prelude, and fugue. ", 
+      "course name": "Counterpoint", 
+      "units": "3 Units", 
+      "id": "CSUS_MUSC 103", 
+      "prerequisite": [
+        "MUSC 7"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Course deals with the harmonic, melodic, and rhythmic aspects of music from Debussy to present, with emphasis on the evolutionary nature of its development. ", 
+      "course name": "20th Century Theory", 
+      "units": "3 Units", 
+      "id": "CSUS_MUSC 105", 
+      "prerequisite": [
+        "MUSC 7"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Consideration of the development of musical forms from the phrase through the multi-movement sonata and symphony. Emphasis is placed on the music of major 18th, 19th, and 20th century composers. ", 
+      "course name": "Form and Analysis", 
+      "units": "3 Units", 
+      "id": "CSUS_MUSC 106", 
+      "prerequisite": [
+        "MUSC 7"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Individualized practical experience in the composition of music. Students are allowed freedom in the development of a personal music style and the exploration of forms and genres. May be taken for credit four times. ", 
+      "course name": "Composition", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 107", 
+      "prerequisite": [
+        "MUSC 42"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Part I of a two-semester study of arranging.  Provides basic and intermediate tools of creative writing and arranging styles in the jazz idiom as applied to the small jazz ensemble (jazz combo). ", 
+      "course name": "Jazz Arranging I", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 108A", 
+      "prerequisite": [
+        "MUSC 3"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Part 2 of a two-semester study of arranging.  Addresses creative writing in the idiom of the large jazz ensemble (big band).  Two major  projects are required, performed and recorded.  Jazz orchestration is the central focus with special attention to the idiomatic demands from the sections of the big band and how they relate to each other. ", 
+      "course name": "Jazz Arranging II", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 108B", 
+      "prerequisite": [
+        "MUSC 108A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Capstone research in special topics of music history. Emphasis on critical reading, writing, and speaking. This course satisfies the writing intensive requirement for music majors. ", 
+      "course name": "Research in Music History.", 
+      "units": "3 Units", 
+      "id": "CSUS_MUSC 110", 
+      "prerequisite": [
+        "MUSC 7", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": " A working knowledge of musical notation is required.  ", 
+      "description": "Chronological study of music's development from ancient Greeks through contemporary composers. Recordings and printed music are used to illustrate the development of musical forms and content through the various periods. ", 
+      "course name": "History Of Music", 
+      "units": "3 Units", 
+      "id": "CSUS_MUSC 110B", 
+      "prerequisite": [
+        "MUSC 10A", 
+        "MUSC 10B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A survey of jazz history.  Emphasis is placed on the evolution of different jazz styles and trends, through the study of recorded examples and videos by some of the major artists of the 20th century.  Discussion of the social conditions surrounding the evolution of jazz will be included.", 
+      "id": "CSUS_MUSC 118B", 
+      "course name": "American Popular Music: Jazz History"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A survey of rock music history. Emphasis is placed on the diverse influences and subsequent development of classic rock musical styles through the study of recorded examples and videos by major artists of the 20th century. Discussion of the social conditions surrounding the evolution of rock music will be included.", 
+      "id": "CSUS_MUSC 118C", 
+      "course name": "History of Rock Music"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A survey course of hip-hop history. Emphasis is on the musical and cultural evolution of hip-hop through the study of recorded examples, videos, and articles focused on five urban hip-hop centers: New York, Los Angeles, Chicago, and New Orleans.", 
+      "id": "CSUS_MUSC 118D", 
+      "course name": "Hip-Hop in Urban America"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines music from cultures in Asia. Music is examined as a cultural process, a cultural object and as sound. Musical instruments, forms and styles are discussed along with the roles and functions of music. Although traditional music will be emphasized, contemporary and popular music will also be discussed.", 
+      "id": "CSUS_MUSC 119A", 
+      "course name": "World Music: Asia"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines music from cultures in Africa. Music is examined as a cultural process, a cultural object and as sound. Musical instruments, forms and styles are discussed along with the roles and functions of music. Although traditional music will be emphasized, contemporary and popular music will also be discussed.", 
+      "id": "CSUS_MUSC 119B", 
+      "course name": "World Music: Africa"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Examines music from cultures in Latin America. Music is examined as a cultural process, a cultural object and as sound. Musical instruments, forms and styles are discussed along with the roles and functions of music. Although traditional music will be emphasized, contemporary and popular music will also be discussed.", 
+      "id": "CSUS_MUSC 119C", 
+      "course name": "World Music: Latin America"
+    }, 
+    {
+      "term": " May be taken twice for credit.  ", 
+      "description": "Designed to give singers advanced training in vocal techniques, interpretation, stage presence, audition preparation, through the utilization of modern musical theater repertoire commensurate with the individual abilities of each class participant. ", 
+      "course name": "Advanced Voice for Music Theater", 
+      "units": "1 Unit", 
+      "id": "CSUS_MUSC 125", 
+      "prerequisite": [
+        "MUSC 25"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of Broadway musicals. Examination of the music, lyrics, dramatic structure, and use of dance in selected shows which demonstrate the evolution of the American musical from its inception through contemporary forms. Includes reading, discussion, listening assignments, and attendance at live performances. ", 
+      "course name": "The American Musical Theater.", 
+      "units": "3 Units", 
+      "id": "CSUS_MUSC 127", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction, through reading, discussion, taped assignments in the Music Department listening center, live music in the classroom, and outside live listening assignments, to all significant manifestations of American music, their roots, and their place in American life. Includes folk, religious, popular, jazz, and fine-art music. ", 
+      "course name": "American Society and Its Music.", 
+      "units": "3 Units", 
+      "id": "CSUS_MUSC 129", 
+      "prerequisite": [
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109M", 
+        "ENGL 109W", 
+        "ENGL 109X", 
+        "ENGL 109X"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 132A", 
+      "course name": "Piano: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 132B", 
+      "course name": "Piano: Advanced - BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit four times.  ", 
+      "description": "Individual instruction. Music majors only.  ", 
+      "id": "CSUS_MUSC 135A", 
+      "course name": "Harpsichord/Organ: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit four times.  ", 
+      "description": "Individual instruction. Music majors only.  ", 
+      "id": "CSUS_MUSC 135B", 
+      "course name": "Harpsichord/Organ: Advanced- BM"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "International Phonetic Alphabet and its application to song literature in Latin, Italian, German, French, and English. Designed for advanced voice majors, others admitted by instructor permission.", 
+      "id": "CSUS_MUSC 136A", 
+      "course name": "Diction For Singers"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of the methods, problems and practical application of teaching singing. Topics will include the functional unity of the signing voice, pedagogical principles, and current methods/resources in voice training, teaching the beginning singer.  Designed for voice majors; other admitted by instructor permission.", 
+      "id": "CSUS_MUSC 136B", 
+      "course name": "Vocal Pedagogy"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 137A", 
+      "course name": "Voice: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 137B", 
+      "course name": "Voice: Advanced - BM"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Introduction to the theoretical language of jazz improvisation: rhythms, articulations, style, harmony and melody, forms, simple analysis, chord/scale relationships, ear training and key board harmony. ", 
+      "course name": "Jazz Theory and Harmony", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 140", 
+      "prerequisite": [
+        "MUSC 7"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Instruction in small ensemble rehearsal performance. Focus given to duos, trios, and quartets of various instrumentation with piano. Includes required performances, listening, reading , and examination. ", 
+      "course name": "Piano Chamber Music", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 141A", 
+      "prerequisite": [
+        "MUSC 132B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Continued instruction in small ensemble rehearsal performance. Focus on duos, trios, and quartets of various instrumentation with piano. Includes required performances, listening, reading, and examination. ", 
+      "course name": "Piano Chamber Music", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 141B", 
+      "prerequisite": [
+        "MUSC 141A", 
+        "MUSC 132B"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 142B", 
+      "course name": "Concert Band"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 142C", 
+      "course name": "Concert Choir"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 142M", 
+      "course name": "Marching Band"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 142S", 
+      "course name": "Orchestra"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 142T", 
+      "course name": "Opera Theater"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 142U", 
+      "course name": "University Chorus"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 142W", 
+      "course name": "Symphonic Wind Ensemble"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "description": "Rehearsal and performance of literature written for instrumental jazz ensemble. ", 
+      "id": "CSUS_MUSC 143J", 
+      "course name": "Instrumental Jazz Ensemble"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "description": "Rehearsal and performance of literature written for vocal jazz ensemble. ", 
+      "id": "CSUS_MUSC 143V", 
+      "course name": "Vocal Jazz Ensemble"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 144B", 
+      "course name": "Brass Ensemble"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "description": "Coaching in the performance of chamber music for guitar. Open to both BA and BM majors upon permission of major instructor of applied music. May substitute for a maximum of two semesters of major performing ensemble requirement. ", 
+      "id": "CSUS_MUSC 144G", 
+      "course name": "Chamber Music -- Guitar"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 144I", 
+      "course name": "Chamber Music -- Instrumental Jazz"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 144L", 
+      "course name": "Chamber Music -- Liberace"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 144P", 
+      "course name": "Percussion Ensemble"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 144S", 
+      "course name": "String Ensemble"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 144W", 
+      "course name": "Woodwind Ensemble"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit eight times. ", 
+      "id": "CSUS_MUSC 144X", 
+      "course name": "Saxophone Ensemble"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Performance of instrumental music for university and community events. ", 
+      "course name": "Pep Band", 
+      "units": "1 Unit", 
+      "id": "CSUS_MUSC 145", 
+      "prerequisite": [
+        "MUSC 142W", 
+        "MUSC 142B", 
+        "MUSC 142M"
+      ]
+    }, 
+    {
+      "term": " Each participant must be an enrolled student or registered volunteer, admitted with Instructor permission. Non\u00b7Music majors must purchase a music fee card (Lassen Hall) In order to participate. Registered volunteers will receive a parking pass for rehearsal times after required paperwork is completed. May be taken for credit eight times. ", 
+      "description": ". ", 
+      "course name": "Camerata Capistrano Baroque", 
+      "units": "1 Unit", 
+      "id": "CSUS_MUSC 146", 
+      "prerequisite": [
+        "MUSC 246"
+      ]
+    }, 
+    {
+      "units": "2 Units", 
+      "term": " May be taken for credit four times.  ", 
+      "description": "Individual instruction in jazz performance. ", 
+      "id": "CSUS_MUSC 150", 
+      "course name": "Jazz Applied: Advanced BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " May be taken for credit four times. ", 
+      "description": "Individual instruction in jazz performance for students pursuing the Music Education emphasis. ", 
+      "id": "CSUS_MUSC 150A", 
+      "course name": "Jazz Applied: Advanced Mus Ed Emphasis"
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Basic techniques and skills of conducting. Areas of concern are all basic patterns in simple, compound and asymmetrical meters, correct baton technique, styles, appropriate left hand usage, tempi, fermatas, and introduction to simple score reading. ", 
+      "course name": "Fundamentals of Conducting", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 151", 
+      "prerequisite": [
+        "MUSC 2", 
+        "MUSC 7"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Choral techniques, including rehearsal procedures, score analysis, choral/orchestral repertoire, and approaches to choral literature from the main history eras. ", 
+      "course name": "Advanced Choral Conducting", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 153", 
+      "prerequisite": [
+        "MUSC 151"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Instrumental conducting techniques including refinement of basic conducting skills, rehearsal procedures, score study, and familiarization with and interpretation of instrumental literature. ", 
+      "course name": "Advanced Instrumental Conducting", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 154", 
+      "prerequisite": [
+        "MUSC 151"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 155A", 
+      "course name": "Violin: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 155B", 
+      "course name": "Violin: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 156A", 
+      "course name": "Viola: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 156B", 
+      "course name": "Viola: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 157A", 
+      "course name": "Cello: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 157B", 
+      "course name": "Cello: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 158A", 
+      "course name": "Double Bass: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 158B", 
+      "course name": "Double Bass: Advanced -- BM"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "This course is a step-by-step practicum that prepares students to be lead teachers in the Sacramento State Strings Project. Set in rigorous teaching lab, the course gives students experience in creating lesson plans and teaching in the String Project program. Student teachers learn to apply effective pedagogical methods and techniques to teach fundamental skills to beginning level children and more advanced skills to intermediate-level children. ", 
+      "course name": "Advanced String Project Pedagogy", 
+      "units": "1 Unit", 
+      "id": "CSUS_MUSC 160", 
+      "prerequisite": [
+        "MUSC 60"
+      ]
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Spring only", 
+      "description": "Develops skills in the teaching of jazz in all of its facets and dimensions by a variety of approaches to materials, techniques and philosophies surrounding jazz education.  Choosing, editing, rehearsing and programming concert materials will be taught.  Also taught are scheduling, music and equipment maintenance, basic administration concerns, and other factors pertinent to operating a jazz program.", 
+      "id": "CSUS_MUSC 161", 
+      "course name": "Jazz Pedagogy"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall only", 
+      "description": "For majors considering a teaching career. Overview of the history, principal philosophies, current issues, methodologies and materials related to Music Education in kindergarten through twelfth grade. Guided classroom and/or rehearsal observations at the elementary, middle/junior high school and senior high levels. Required for the Music Education major. ", 
+      "id": "CSUS_MUSC 162", 
+      "course name": "Foundations of Music Education"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Spring only", 
+      "description": "Curricular and instructional strategies for non-performance music classes in kindergarten through twelfth grade. Teaching techniques for classroom instruments, with emphasis on folk guitar.  Required for the Music Education major. ", 
+      "id": "CSUS_MUSC 164", 
+      "course name": "Music in General Education"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 165A", 
+      "course name": "Flute: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 165B", 
+      "course name": "Flute: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 166A", 
+      "course name": "Oboe: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 166B", 
+      "course name": "Oboe: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 167A", 
+      "course name": "Bassoon: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 167B", 
+      "course name": "Bassoon: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 168A", 
+      "course name": "Clarinet: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 168B", 
+      "course name": "Clarinet: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 169A", 
+      "course name": "Saxophone: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 169B", 
+      "course name": "Saxophone: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 170A", 
+      "course name": "Percussion: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 170B", 
+      "course name": "Percussion: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 171A", 
+      "course name": "Harp: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 171B", 
+      "course name": "Harp: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Parallel class taken in conjunction with the performance major to supplement student's knowledge of the literature, performance practice, pedagogy, and criticism of his chosen instrument or voice. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 172", 
+      "course name": "Repertoire Class in the Performance Major"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introductory course to piano accompanying with an emphasis on vocal literature. Includes techniques of sight reading, elementary transposition, and interpretation of lieder from the pianist's point of view. ", 
+      "course name": "Vocal Accompanying", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 173A", 
+      "prerequisite": [
+        "MUSC 132B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Continuing study of piano accompanying with an emphasis on art song repertoire. Includes techniques of sight reading, transposition, rehearsing, as well as realization of orchestral reductions. Performances required. ", 
+      "course name": "Vocal Accompanying", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 173B", 
+      "prerequisite": [
+        "MUSC 173A", 
+        "MUSC 132B"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 174A", 
+      "course name": "Guitar: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 174B", 
+      "course name": "Guitar: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Formal recital demonstrating the performance abilities of the student. Contents of the program must be approved by instructor in the major performance medium, and permission to enroll approved by the appropriate faculty committee of the performance medium. ", 
+      "id": "CSUS_MUSC 175", 
+      "course name": "Junior Recital"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Study of the content, methods and problems of teaching the piano with an emphasis on the first years of instruction for both the child and adult beginner. ", 
+      "course name": "Piano Pedagogy", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 176", 
+      "prerequisite": [
+        "MUSC 32B"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Required for Music Education students enrolled in Phase III of the Credential Program.  ", 
+      "description": "Methods and materials for teaching voice and choral music in grades 4-12. Includes introduction to singing, care and development of the student voice, rehearsal techniques, and selection of materials appropriate for use in small and large choral ensembles. ", 
+      "id": "CSUS_MUSC 178", 
+      "course name": "Vocal Literature and Materials (Grades 4-12)"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": " Required for instrumental students and recommended for choral students.  ", 
+      "description": "Methods and materials for beginning instrumental classes, orchestras and bands, solos and ensembles, marching band, and stage band. ", 
+      "id": "CSUS_MUSC 179", 
+      "course name": "Instrumental Literature and Materials"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced Counterpoint. Counterpoint styles from 16th to 20th centuries are studied through analysis of works from the repertoire and completion of preliminary exercises, culminating in the composition of original student pieces in various historical styles. Includes writing in two, three, and four parts. Work will be designed to a large extent to fit the needs, preparation and interest of individual students. May be taken twice for credit.  ", 
+      "course name": "Advanced Counterpoint", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 180", 
+      "prerequisite": [
+        "MUSC 103"
+      ]
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Course for students with previous electronic music experience who wish to gain more technical background. Topics include various principles of digital synthesis with an emphasis on independent voice construction, principles of sampling synthesizers, computer-based digital synthesis, and advanced MIDI applications. ", 
+      "id": "CSUS_MUSC 183", 
+      "course name": "Digital Synthesis and Sampling"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Weekly seminar for senior students in the B.A. Music concentration. Senior portfolio preparation, resume preparation, and career planning. ", 
+      "id": "CSUS_MUSC 184", 
+      "course name": "Senior Seminar"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " may be substituted for 185 with the permission of the appropriate faculty committees.  Contents of the program must be approved and supervised by instructor in the performance medium.", 
+      "course name": "Senior Recital", 
+      "units": "2 Units", 
+      "id": "CSUS_MUSC 185", 
+      "prerequisite": [
+        "MUSC 185H", 
+        "MUSC 185A"
+      ]
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Informal program presented before a faculty committee and invited guests. It is designed to accommodate students who have special problems in developing their performance to Senior Recital level. Registration must be approved by the applied music faculty, and contents of the audition approved and supervised by instructor in the performing medium.", 
+      "id": "CSUS_MUSC 185A", 
+      "course name": "Senior Audition"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Formal half recital, generally shared with another student.  Required of students completing the BM in Music Education degree.  Registration must be approved by the applied music faculty and contents of the audition approved and supervised by instructor in the performing medium.", 
+      "id": "CSUS_MUSC 185E", 
+      "course name": "Senior Recital Music Education"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Applied music faculty may designate outstanding performers for an Honors Recital. Contents of the program must be approved and supervised by instructor in the performance medium.", 
+      "id": "CSUS_MUSC 185H", 
+      "course name": "Honors Recital"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Formal recital demonstrating the performance abilities of the student in the Jazz Studies concentration.   Contents of the program must be approved and supervised by instructor in the performance medium. ", 
+      "id": "CSUS_MUSC 185J", 
+      "course name": "Senior Recital Jazz"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 190A", 
+      "course name": "Trumpet: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 190B", 
+      "course name": "Trumpet: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 191A", 
+      "course name": "Trombone: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 191B", 
+      "course name": "Trombone: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 192A", 
+      "course name": "Baritone: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 192B", 
+      "course name": "Baritone: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 193A", 
+      "course name": "French Horn: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 193B", 
+      "course name": "French Horn: Advanced -- BM"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 194A", 
+      "course name": "Tuba: Advanced"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 194B", 
+      "course name": "Tuba: Advanced -- BM"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Directed observation and work experience with public agencies. Field work is offered for the purpose of giving students orientation in occupational specialties. Supervision is provided by both university instructional staff and cooperating agencies. Each student is required to maintain a record of activities and assignments and to prepare periodic reports. The student must make arrangements with a faculty member for a work program prior to admittance.", 
+      "id": "CSUS_MUSC 195", 
+      "course name": "Fieldwork in Music"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Introduction to career possibilities in the area of music and business. Students will explore and develop directions of interest and opportunity through reading, discussion, lectures, and outside speakers. Individual field projects will provide the opportunity to see at close hand the workings of Sacramento area music businesses of the student's choice.", 
+      "id": "CSUS_MUSC 197", 
+      "course name": "Music And Business"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading. Open only to students who appear competent to carry on individual work. Admission requires the approval of the faculty member under whom the work is to be conducted and of the Department Chair.", 
+      "id": "CSUS_MUSC 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Graduate Writing Intensive  ", 
+      "description": "Systematic and historical study of the various disciplines related to music. Prepares the student to do advanced study and research. Required of all MM students in Music. Must be taken the first time scheduled after student is enrolled. ", 
+      "id": "CSUS_MUSC 201", 
+      "course name": "Introduction to Graduate Study."
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study of current methodology in the development of reliable knowledge in the field of music education. Includes identification and formation of research problems, designing, and strategies.", 
+      "id": "CSUS_MUSC 202A", 
+      "course name": "Seminar in Music Education"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Review of current research trends in music education. Includes review of relevant literature and the definition, design, and justification of a research problem.", 
+      "id": "CSUS_MUSC 202B", 
+      "course name": "Seminar in Music Education"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Detailed study of topics in music history and their relation to musical style, performance, reception, and cultural context. Designed to allow narrow focus on the historical contexts of a particular theory, repertoire, performance practice, or critical stance. May be repeated for credit with different topics. ", 
+      "id": "CSUS_MUSC 206", 
+      "course name": "Topics in Music History"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Detailed study of topics in music analysis and its relation to harmony, rhythm, style, and form. Designed to allow narrowed focus on music of a select composer or small group of com posers. May be repeated for credit with different topics. ", 
+      "id": "CSUS_MUSC 207", 
+      "course name": "Topics in Music Analysis"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Current practices, methodologies, and scholarly agendas in the field of ethnomusicology including global studies of traditional, classical, folk, and popular musics. Readings from interdisciplinary literature. Students respond in discussion and writing to this scholarly discourse in order to familiarize themselves with theoretical approaches current in the discipline and to practice the spoken and written conventions of the field. ", 
+      "id": "CSUS_MUSC 208", 
+      "course name": "Topics in Ethnomusicology"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Advanced work in composition for students seeking the MM degree with composition option. May be taken for credit twice. ", 
+      "id": "CSUS_MUSC 210", 
+      "course name": "Composition"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Comprehensive and intensive overview of the major disciplines of music theory with an emphasis on application of skills. Focus is mainly on tonal practice (part writing, figured bass realization, chromatic harmony, melodic construction, phrase structure, reductive analysis, forms) but also includes discussion of post-tonal music and applicable analytical techniques (extended scalar resources, dodecaphony, set-theory).", 
+      "id": "CSUS_MUSC 211", 
+      "course name": "Graduate Music Theory"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be used as a music history elective. ", 
+      "description": "Introduction to the field of Ethnomusicology with an emphasis on its history, development, contemporary trends, research issues, and methodologies. ", 
+      "id": "CSUS_MUSC 214", 
+      "course name": "Ethnomusicology"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " Limited to choral conducting students only.  ", 
+      "description": "Individual instruction. Graduate music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 217A", 
+      "course name": "Choral Conducting Applied Music"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " Limited to instrumental conducting students only.  ", 
+      "description": "Individual instruction. Graduate music majors only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 217B", 
+      "course name": "Instrumental Conducting Applied Music"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " Limited to choral conducting students only.  ", 
+      "description": "Individual instruction. Training in technique and repertoire at the graduate level. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 218A", 
+      "course name": "Choral Conducting Techniques"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": " Limited to instrumental conducting students only.  ", 
+      "description": "Individual instruction. Training in technique and repertoire at the graduate level. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 218B", 
+      "course name": "Instrumental Conducting Techniques"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Classified graduate Music majors and graduate music credential candidates only. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 219", 
+      "course name": "Graduate Applied Music"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Individual instruction. Classified graduate Music majors only. Training in technique and repertoire at the graduate level. May be taken for credit four times. ", 
+      "id": "CSUS_MUSC 220", 
+      "course name": "Performance Techniques"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Study, rehearsal, and public performance of musical repertoire appropriate for the specific ensemble (e.g. orchestra, band, choir, opera, etc.).", 
+      "id": "CSUS_MUSC 242", 
+      "course name": "Advanced Large Performance Ensemble"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "description": "Study, rehearsal, and public performance of musical repertoire appropriate for the specific ensemble (e.g. string quartet, wind quintet, etc.).", 
+      "id": "CSUS_MUSC 244", 
+      "course name": "Advanced Chamber Music"
+    }, 
+    {
+      "term": ". Each participant must be an enrolled student or registered volunteer, admitted with Instructor permission. Non-Music majors must purchase a music fee card (Lassen Hall) in order to participate. Registered volunteers will receive a parking pass for rehearsal times after required paperwork Is completed. May be taken for credit four times. ", 
+      "description": ". ", 
+      "course name": "Camerata Capistrano Baroque", 
+      "units": "1 Unit", 
+      "id": "CSUS_MUSC 246", 
+      "prerequisite": [
+        "MUSC 146", 
+        "MUSC 146", 
+        "MUSC 146", 
+        "MUSC 246"
+      ]
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Public recital demonstrating the performance abilities and musical maturity of the student. Content of the recital and quality of performance must be approved by instructor in the performance medium. Must articulate with MUSC 500B. ", 
+      "id": "CSUS_MUSC 285", 
+      "course name": "Graduate Recital"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Directed observation and work experience. Fieldwork is offered for the purpose of giving students orientation in occupational specialties. Supervision is provided by both the instructional staff of the university and cooperating agencies. Each student is required to maintain a record of activities and assignments and to prepare periodic reports. The student must make arrangements with a faculty member for a work program prior to admittance to the course.", 
+      "id": "CSUS_MUSC 295", 
+      "course name": "Fieldwork in Music"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Individual projects or directed reading. Open only to students who appear competent to carry on individual work. ", 
+      "id": "CSUS_MUSC 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of thesis or project approved for the Master's degree. Three options are available: ", 
+      "id": "CSUS_MUSC 500", 
+      "course name": "Culminating Experience"
+    }, 
+    {
+      "units": "0 Units", 
+      "term": "Fall, Spring", 
+      "description": "The Comprehensive Examination is one of the culminating experiences available for the Master of Music Education Degree. The one-hour oral examination is taken during the final semester of the degree program and administered by a three-member graduate faculty committe. The material to be addressed includes the content of classess taken and the application of concepts as applied to music education. ", 
+      "id": "CSUS_MUSC 500D", 
+      "course name": "Comprehensive Examination"
+    }
+  ], 
+  "subjectOf": {
+    "id": "MUSC", 
+    "subject": "Music"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Music", 
+    "id": "CSUS"
+  }
+}

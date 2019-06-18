@@ -1,0 +1,90 @@
+{
+  "courses": [
+    {
+      "units": "4 Units",
+      "term": "Fall, Spring",
+      "description": "Review of fundamental mathematics concepts, measurement geometry, and beginning algebra. ",
+      "id": "CSUS_MLSK 7A",
+      "course name": "Making Sense Of Algebra"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Review of beginning algebra, algebra topics, and measurement geometry. ",
+      "course name": "Making Sense Of Algebra",
+      "units": "4 Units",
+      "id": "CSUS_MLSK 7B",
+      "prerequisite": [
+        "MLSK 7A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". ",
+      "course name": "Individualized Algebra",
+      "units": "2 Units",
+      "id": "CSUS_MLSK 8A",
+      "prerequisite": [
+        "MATH 1"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". ",
+      "course name": "Individualized Algebra",
+      "units": "2 Units",
+      "id": "CSUS_MLSK 8B",
+      "prerequisite": [
+        "MLSK 8A",
+        "MATH 1"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". ",
+      "course name": "Individualized Algebra",
+      "units": "2 Units",
+      "id": "CSUS_MLSK 8C",
+      "prerequisite": [
+        "MLSK 8B",
+        "MATH 1"
+      ]
+    },
+    {
+      "units": "4 Units",
+      "term": " May utilize computers.  ",
+      "description": "Review of fundamental mathematical concepts, basic measurement geometry and beginning algebra. Instruction provided through lecture or structured tutorial format. ",
+      "id": "CSUS_MLSK 10A",
+      "course name": "Elementary Algebra with Geometry"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Review of measurement geometry and tutorial support for students concurrently enrolled in Math 9. ",
+      "id": "CSUS_MLSK 10X",
+      "course name": "Geometry Adjunct to"
+    },
+    {
+      "units": "3 Units",
+      "term": " May be repeated for credit.   ",
+      "description": "Practical application of learning through the tutoring of students. ",
+      "id": "CSUS_MLSK 195A",
+      "course name": "Learning Skills Tutoring Internship"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Requires approval of faculty member and Department Chair; may be repeated for credit. ",
+      "description": "Individual projects or directed study. ",
+      "id": "CSUS_MLSK 199",
+      "course name": "Special Problems"
+    }
+  ],
+  "subjectOf": {
+    "id": "MLSK",
+    "subject": "Math Learning Skills"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Math Learning Skills",
+    "id": "CSUS"
+  }
+}

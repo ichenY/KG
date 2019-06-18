@@ -1,0 +1,27 @@
+{
+  "courses": [
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "An introduction to critical analysis of visual forms. This course introduces students to core principles of design by establishing and examining the framework around which visual forms are built and used in our society. Common ideas surrounding the logic of visual forms and the possibilities and limitations of their communicative range will be discussed.", 
+      "id": "CSUS_DSGN 4", 
+      "course name": "Design and Thinking"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall only", 
+      "description": "A history of western and non-western design with an emphasis on how design influences, and is in turn influenced by, cultural, political, economic, and technologic forces. The course will look at design practice (architecture, urbanism, products, graphics, etc.) through two distinct lenses: one focusing on visual and physical qualities, the other on how design effects the lives of the many diverse groups that interact with the products of this practice.", 
+      "id": "CSUS_DSGN 101", 
+      "course name": "World Design and Visual Culture"
+    }
+  ], 
+  "subjectOf": {
+    "id": "DSGN", 
+    "subject": "Design"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Design", 
+    "id": "CSUS"
+  }
+}

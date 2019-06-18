@@ -1,0 +1,347 @@
+{
+  "subjectOf": {
+    "id": "ERSC",
+    "subject": "Earth Science"
+  },
+  "providerOf": {
+    "id": "CalPoly",
+    "university": "California Polytechnic State University",
+    "hasSubject": "Earth Science"
+  },
+  "courses": [
+    {
+      "id": "CalPoly_ERSC 140",
+      "course name": "Careers in Natural Resources Management and Environmental Sciences",
+      "units": "1 unit",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Analysis and development of career goals in natural resources and environmental sciences. Acquainting students with potential career options and preparation of academic plans for the majors in the Natural Resources Management and Environmental Sciences Department. Credit / No Credit grading.",
+      "format": "1 activity.",
+      "other": "Crosslisted as ERSC / NR140."
+    },
+    {
+      "id": "CalPoly_ERSC 144",
+      "course name": "Introduction to Earth Science",
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Survey of fundamental processes of Earth science. Application of systems thinking to understanding the dynamic interactions among geological, geographic, soils and human factors in shaping the Earth.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_ERSC 200",
+      "course name": "Special Problems for Undergraduates",
+      "units": "1-2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies, or surveys of selected problems. Total credit limited to 12 units, with a maximum of 2 units per quarter. Crosslisted as ERSC / SS200."
+    },
+    {
+      "id": "CalPoly_ERSC 223",
+      "course name": "Rocks and Minerals",
+      "prerequisite": [
+        "SS 121",
+        "CHEM 111 or CHEM 127"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Origin, composition, identification and weathering of rocks, minerals, and clays important in the development of soils. Parent materials as related to the nature and properties of soils.",
+      "format": "3 lectures, 1 laboratory."
+    },
+    {
+      "id": "CalPoly_ERSC 250",
+      "course name": "Physical Geography",
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Winter"
+      ],
+      "description": "Addresses the origins and patterns of the earth 's diverse assemblage of climates, landforms, biota and soils. A major focus on relationship between human cultures and these earthly environments.",
+      "format": "4 lectures.",
+      "other": "Crosslisted as ERSC / GEOG250."
+    },
+    {
+      "id": "CalPoly_ERSC 270",
+      "course name": "Selected Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 12 units. 1 to",
+      "format": "4 lectures.",
+      "other": "Crosslisted as ERSC / SS270."
+    },
+    {
+      "id": "CalPoly_ERSC 301",
+      "course name": "Earth Sciences/Soils Science Practicum",
+      "prerequisite": [
+        "SS 110 or SS 121"
+      ],
+      "units": "1-2 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Supervised practice in technical, educational, professional, and operational applications related to earth sciences or soil science. Students participate in faculty - supervised group or individual activities that support educational and professional goals. Credit / No Credit grading only. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "1 - 2 activities.",
+      "other": "Crosslisted as ERSC / SS301."
+    },
+    {
+      "id": "CalPoly_ERSC 303",
+      "course name": "Soil Erosion and Water Conservation",
+      "prerequisite": [
+        "SS 121"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall"
+      ],
+      "description": "Evaluation of soil and water conservation and best management practices for agriculture, urban, riparian, and rangelands. Study of process and control of soil erosion, water quality, and stormwater. Development of an erosion and sediment control plan or farm water quality plan to meet regulatory requirements.",
+      "format": "3 lectures, 1 activity."
+    },
+    {
+      "id": "CalPoly_ERSC 323",
+      "course name": "Geomorphology",
+      "prerequisite": [
+        "SS 121",
+        "GEOL 201"
+      ],
+      "units": "4 units",
+      "term": [
+        "Fall",
+        "Spring"
+      ],
+      "description": "Recognizing and identifying major landforms and their components by interpretation of aerial photographs and topographic maps, and observations. Emphasis on analyzing common landforms in the western United States for application in soil science, physical geography, hydrology, and geology.",
+      "format": "2 lectures, 1 laboratory, 1 activity."
+    },
+    {
+      "id": "CalPoly_ERSC 325",
+      "course name": "Climate and Humanity",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Geographic perspective on the interrelationships between climate and human cultures. Effects of people on climate and the influence of climate and weather upon human activities and behavior. Focus on global human conditions which are responsible for the alteration of climate and in turn are vulnerable to climate change. 4 lectures. Crosslisted as ERSC / GEOG325."
+    },
+    {
+      "id": "CalPoly_ERSC 333",
+      "course name": "Human Impact on the Earth",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Global assessment of the impact of humans on the earth 's vegetation, animals, soil, water and atmosphere. Emphasis on problems stemming from the interactions of human attitudes, technologies, and population with natural resources. 4 lectures. Crosslisted as ERSC / GEOG333."
+    },
+    {
+      "id": "CalPoly_ERSC 335",
+      "course name": "Soil, Water, and Civilization",
+      "units": "4 units",
+      "term": [
+        "ge area Fall"
+      ],
+      "description": "Explore past civilizations and how management of soil, water, and other natural resources allowed them to flourish, decline, or fail. Sustainability of natural resource use in modern / future societies. Issues include sustainability, agricultural practices, deforestation, water quality, and land management.",
+      "format": "4 lectures.",
+      "other": "Fulfills GE Area F."
+    },
+    {
+      "id": "CalPoly_ERSC 339",
+      "course name": "Internship in Environmental Earth and Soil Sciences",
+      "units": "1-12 units",
+      "term": [
+        "cr/nc"
+      ],
+      "description": "Selected students will spend up to 12 weeks with an approved firm or agency engaged in work and study related to their major. A detailed written proposal and written interim and final reports required. One unit of credit may be allowed for each full week of internship. Credit / No Credit grading. Crosslisted as ERSC / SS339."
+    },
+    {
+      "id": "CalPoly_ERSC 363",
+      "course name": "Undergraduate Seminar",
+      "units": "2 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Review of current research, experiments, and problems related to the student 's major field of interest. Presentation of reports on problems or research activities in preparation for the senior project. Introduction to professional practices within a student 's major field of interest.",
+      "format": "2 seminars."
+    },
+    {
+      "id": "CalPoly_ERSC 400",
+      "course name": "Special Problems for Advanced Undergraduates",
+      "units": "1-4 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Individual investigation, research, studies or surveys of selected problems. Total credit limited to 12 units. Crosslisted as ERSC / SS400."
+    },
+    {
+      "id": "CalPoly_ERSC 401",
+      "course name": "Field-Geology Methods",
+      "prerequisite": [
+        "GEOL 102 or GEOL 201",
+        "GEOL 241",
+        "GEOL 415",
+        "ERSC 223",
+        "ERSC 323"
+      ],
+      "units": "4 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Collecting and interpreting field - geologic data. Description of sedimentary rocks and construction of stratigraphic columns. Mapping geologic structures in the field. Surficial geologic stratigraphy and surficial geologic mapping. Understanding geologic processes through field study. Communicating results of field study.",
+      "format": "1 lecture, 3 activities.",
+      "other": "Crosslisted as ERSC / GEOL401."
+    },
+    {
+      "id": "CalPoly_ERSC 402",
+      "course name": "Geologic Mapping",
+      "units": "4 units",
+      "term": [
+        "Spring"
+      ],
+      "description": "Bedrock geologic mapping on topographic maps and aerial photos. Surficial geologic mapping on topographic maps and aerial photos. Correlating and defining surficial geologic map units on the basis of soil development. Understanding landscape evolution using soil development 4 activities. Crosslisted as ERSC / GEOL402."
+    },
+    {
+      "id": "CalPoly_ERSC 414",
+      "course name": "Global and Regional Climatology",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "The earth 's pattern of climates and the physical processes that account for them. Focus on interrelationships between climate and the physical / biological and cultural environments. Special emphasis on modern climate changes and their consequences.",
+      "format": "3 lectures, 1 laboratory.",
+      "other": "Crosslisted as ERSC / GEOG414."
+    },
+    {
+      "id": "CalPoly_ERSC 415",
+      "course name": "Applied Meteorology and Climatology",
+      "units": "4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Physical processes in the atmosphere that determine regional weather, climate and climate variability. Surface and satellite systems for weather observation, and weather / climate modeling. Dynamics of weather systems, including thunderstorms and hurricanes. Emphases on weather / climate affecting agriculture and other human activities.",
+      "format": "3 lectures, 1 activity.",
+      "other": "Crosslisted as ERSC / GEOG415."
+    },
+    {
+      "id": "CalPoly_ERSC 470",
+      "course name": "Selected Advanced Topics",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 12 units. 1 to",
+      "format": "4 lectures.",
+      "other": "Crosslisted as ERSC / SS470."
+    },
+    {
+      "id": "CalPoly_ERSC 471",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units.",
+      "format": "1 to 4"
+    },
+    {
+      "id": "CalPoly_ERSC 476",
+      "course name": "Senior Project - Advanced Internship Experience in Environmental Science/Management",
+      "prerequisite": [
+        "ERSC 363 or NR 306 or NR 326"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring",
+        "Summer"
+      ],
+      "description": "Independent internship experience conducted under faculty supervision focusing on a discipline area of environmental science / management. Completion of a project as a component of their internship. Satisfies the senior project requirement. Minimum 90 hours required. Crosslisted as ERSC / NR476."
+    },
+    {
+      "id": "CalPoly_ERSC 477",
+      "course name": "Senior Project - Research Experience in Environmental Science",
+      "prerequisite": [
+        "ERSC 363 or NR 306 or NR 326"
+      ],
+      "units": "3 units",
+      "term": [
+        "Winter"
+      ],
+      "description": "Guided research experience in a specific area of environmental science. Implementation of materials and methods. Collection, analysis and interpretation of data. Completion of formal written report. Satisfies senior project requirement. 1 lecture, 2 laboratories. Crosslisted as ERSC / NR477."
+    },
+    {
+      "id": "CalPoly_ERSC 478",
+      "course name": "Senior Project - Current Topics in Environmental Science/Management",
+      "prerequisite": [
+        "ERSC 363 or NR 306 or NR 326"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Critical evaluation and formal presentation of current issues in environmental science / management. Evaluation of current topics, analysis of supporting evidence, and synthesis and presentation of resulting perspectives on different approaches to current challenges in environmental science / management. Satisfies the senior project requirement.",
+      "format": "3 lectures.",
+      "other": "Crosslisted as ERSC / NR478."
+    },
+    {
+      "id": "CalPoly_ERSC 479",
+      "course name": "Senior Project - Independent Study",
+      "prerequisite": [
+        "ERSC 363 or NR 306 or NR 326"
+      ],
+      "units": "3 units",
+      "term": [
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "description": "Selection and completion of a project under faculty supervision. Projects typical of problems which graduates must solve in their fields of employment. Project results are presented in a formal report. Minimum 90 hours total time. Crosslisted as ERSC / NR479."
+    },
+    {
+      "id": "CalPoly_ERSC 544",
+      "course name": "Earth Sciences for Educators",
+      "units": "3 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "An interdisciplinary earth sciences course which emphasizes the interactions of multiple systems of air, water, land, life, and human society. Designed for teachers and students seeking teaching credential. Incorporates scientific theory, learning resources, and applications in the field. 3 lectures. Not open to students in Soil Science specialization under MS Agriculture."
+    },
+    {
+      "id": "CalPoly_ERSC 570",
+      "course name": "Selected Topics in Earth Science",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group study of selected topics for advanced students. The Schedule of Classes will list topic selected. Total credit",
+      "grading": "limited to 12 units.",
+      "format": "1 to 4 seminars."
+    },
+    {
+      "id": "CalPoly_ERSC 571",
+      "course name": "Selected Advanced Laboratory",
+      "units": "1-4 units",
+      "term": [
+        "tbd"
+      ],
+      "description": "Directed group laboratory study of selected topics for advanced students. Open to undergraduate and graduate students. The Schedule of Classes will list title selected. Total credit",
+      "grading": "limited to 8 units",
+      "format": ". 1 - 4 laboratories."
+    }
+  ]
+}

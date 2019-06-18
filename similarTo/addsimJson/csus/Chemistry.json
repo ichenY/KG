@@ -1,0 +1,699 @@
+{
+  "courses": [
+    {
+      "term": ", General Chemistry for Engineering.  ",
+      "description": "Fundamental principles and concepts of chemistry, including stoichiometry; thermochemistry; atomic and molecular structure; solution chemistry, including acid-base chemistry; quantum theory; bonding and intermolecular forces; and chemical kinetics. Lecture three hours, laboratory three hours, discussion one hour. ",
+      "course name": "General Chemistry I",
+      "units": "5 Units",
+      "id": "CSUS_CHEM 1A",
+      "prerequisite": [
+        "CHEM 4",
+        "CHEM 1E"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". The laboratory work emphasizes applications of equilibrium principles, including some qualitative analysis, coordination chemistry and bioinorganic chemistry. Lecture three hours, laboratory six hours. Knowledge of word processing and spreadsheet software is recommended. ",
+      "course name": "General Chemistry II",
+      "units": "5 Units",
+      "id": "CSUS_CHEM 1B",
+      "prerequisite": [
+        "CHEM 1A",
+        "CHEM 1A"
+      ]
+    },
+    {
+      "term": " Enrollment in this course is restricted to engineering majors.  ",
+      "description": "A one-semester chemistry course for engineering students covering the fundamental principles and concepts of chemistry important to engineering applications. Lecture topics include atomic and molecular structure, solution chemistry, equilibrium, oxidation-reduction, thermochemistry; intermolecular forces; electrochemistry; radiochemistry; polymers; metallic bonding and alloys; chemical diffusion and kinetics. Lecture three hours, Lab three hours. ",
+      "course name": "General Chemistry for Engineering",
+      "units": "4 Units",
+      "id": "CSUS_CHEM 1E",
+      "prerequisite": [
+        "MATH 30",
+        "CHEM 4"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 125",
+        "CalPoly_CHEM 126",
+        "CalPoly_CHEM 124"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring, Summer",
+      "description": "Introductory chemistry for students who plan to major in a scientific field.  Appropriate for students desiring to prepare themselves for Chemistry 1A.  Emphasizes chemical nomenclature and techniques of chemical problem solving. Topics covered include: dimensional analysis; conversions between measuring units; weight, mole and chemical equations; density; elementary gas laws; heat and temperature; elementary acid and base chemistry; oxidation and reduction; solutions. Three hours lecture. ",
+      "id": "CSUS_CHEM 4",
+      "course name": "Chemical Calculations"
+    },
+    {
+      "units": "5 Units",
+      "term": "Fall, Spring",
+      "description": "One-semester chemistry survey course for pre-nursing students, covering the areas of general chemistry, organic chemistry and biochemistry. Major lecture topics include atomic and molecular structure and bonding, nomenclature of relevant inorganic and organic compounds, states of matter and intermolecular forces, solutions and solubility, reactions of inorganic, organic, and biological molecules, stereochemistry, structure and function of biological macromolecules, nutrition and metabolism. Emphasize chemistry as it appears in a practical nursing context. Lecture four hours, laboratory three hours. ",
+      "id": "CSUS_CHEM 5",
+      "course name": "Chemistry for Nurses",
+      "similarTo": [
+        "CalPoly_CHEM 495",
+        "CalPoly_CHEM 485"
+      ]
+    },
+    {
+      "units": "5 Units",
+      "term": "Fall, Spring",
+      "description": "Structure of atoms, molecules and ions; their interactions including stoichiometry, equilibria, and oxidation-reduction. Does not fulfill the requirements for more advanced study in chemistry and cannot be counted toward a major or minor in chemistry. Lecture three hours, discussion one hour, laboratory three hours. ",
+      "id": "CSUS_CHEM 6A",
+      "course name": "Introduction to General Chemistry"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to structure and properties of the major classes of organic compounds; introduction to nomenclature and to the fundamental concepts of reaction mechanisms and stereochemistry; the chemistry and metabolism of carbohydrates, lipids, proteins (including enzymes); the chemistry of nucleic acids.  Does not fulfill the requirement for more advanced study in chemistry and cannot be counted toward a major or minor in chemistry. Lecture three hours; discussion one hour; laboratory three hours. ",
+      "course name": "Introduction to Organic and Biological Chemistry",
+      "units": "5 Units",
+      "id": "CSUS_CHEM 6B",
+      "prerequisite": [
+        "CHEM 1A",
+        "CHEM 6A"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Basic principles of organic chemistry. Recommended for students majoring in life-sciences, but not recommended for preprofessional students. ",
+      "course name": "Organic Chemistry Lecture--Brief Course",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 20",
+      "prerequisite": [
+        "CHEM 1B"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 218",
+        "CalPoly_CHEM 221",
+        "CalPoly_CHEM 216",
+        "CalPoly_CHEM 324",
+        "CalPoly_CHEM 217",
+        "CalPoly_CHEM 223",
+        "CalPoly_CHEM 212",
+        "CalPoly_CHEM 484"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Basic organic experimental techniques. Experimental topics include: melting points, purification of solids, distillation, chromatography, extraction, and functional group qualitative analysis.  Specifically designed for Biological Sciences majors and others who want to meet the Chemistry minor requirements for a lower division organic laboratory. Laboratory three hours. ",
+      "course name": "Introductory Organic Chemistry Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_CHEM 20L",
+      "prerequisite": [
+        "CHEM 20",
+        "CHEM 20"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 218",
+        "CalPoly_CHEM 221",
+        "CalPoly_CHEM 216",
+        "CalPoly_CHEM 324",
+        "CalPoly_CHEM 217",
+        "CalPoly_CHEM 223",
+        "CalPoly_CHEM 212",
+        "CalPoly_CHEM 484"
+      ]
+    },
+    {
+      "term": " Required for chemistry majors and recommended for preprofessional students.  ",
+      "description": "Introduction to the basic principals of organic chemistry, including nomenclature, properties and reactions of various classes of organic compounds. Reaction mechanisms will be emphasized. ",
+      "course name": "Organic Chemistry Lecture I",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 24",
+      "prerequisite": [
+        "CHEM 1B"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 218",
+        "CalPoly_CHEM 221",
+        "CalPoly_CHEM 216",
+        "CalPoly_CHEM 324",
+        "CalPoly_CHEM 217",
+        "CalPoly_CHEM 223"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Basic organic experimental techniques including the preparation, separation, purification and identification of organic compounds. Discussion one hour, laboratory six hours. ",
+      "course name": "Organic Chemistry Laboratory",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 25",
+      "prerequisite": [
+        "CHEM 24",
+        "CHEM 124",
+        "CHEM 124"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 354"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Chemical measurements including associated statistics, chemical equilibrium in aqueous solutions, volumetric analysis, and an introduction to spectrophotometry and chromatography. Lecture two hours, laboratory six hours. ",
+      "course name": "Quantitative Analysis",
+      "units": "4 Units",
+      "id": "CSUS_CHEM 31",
+      "prerequisite": [
+        "CHEM 1B"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 231",
+        "CalPoly_CHEM 331"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to undergraduate research which requires students to become familiar lab safety policies, SDSs, and SOPs in the research lab (if applicable), attend group meetings (if applicable) and learn methods of experimental, educational and/or computational design. Students must show proficiency in these requirements in order to receive a final grade.",
+      "id": "CSUS_CHEM 89",
+      "course name": "Introduction to Undergraduate Research"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Principles and concepts of chemistry with applications in the home and environment. Satisfies the upper division chemistry requirement for the multiple-subject teaching credential. Lecture one hour, discussion and activity four hours.  Does not fulfill credit requirements for the major or minor in chemistry. ",
+      "course name": "Chemical Concepts",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 106",
+      "prerequisite": [
+        "GEOL 8",
+        "BIO 7",
+        "ENGL 20"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Application of atomic structure, the periodic law, molecular structure and bonding principles, electrochemical principles and other selected models and concepts to theoretical and descriptive inorganic chemistry. Physical and chemical properties of selected elements and inorganic compounds are studied. ",
+      "course name": "Inorganic Chemistry Lecture",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 110",
+      "prerequisite": [
+        "CHEM 125",
+        "CHEM 140B",
+        "CHEM 142",
+        "CHEM 140B",
+        "CHEM 140B",
+        "CHEM 141",
+        "CHEM 110L"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 218",
+        "CalPoly_CHEM 221",
+        "CalPoly_CHEM 216",
+        "CalPoly_CHEM 324",
+        "CalPoly_CHEM 481",
+        "CalPoly_CHEM 217",
+        "CalPoly_CHEM 223",
+        "CalPoly_CHEM 212",
+        "CalPoly_CHEM 484",
+        "CalPoly_CHEM 420",
+        "CalPoly_CHEM 414"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Preparation, purification and instrumental studies of inorganic compounds. Instrumental and experimental techniques will include EPR, magnetic susceptibility, FTIR, UV-VIS spectroscopy and inert atmosphere techniques. ",
+      "course name": "Advanced Inorganic Chemistry Laboratory",
+      "units": "2 Units",
+      "id": "CSUS_CHEM 110L",
+      "prerequisite": [
+        "CHEM 125",
+        "ENGL 20",
+        "CHEM 110"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 420",
+        "CalPoly_CHEM 414"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Continued discussion of the principals of organic chemistry, including nomenclature, properties, and reactions of various classes of organic compounds and spectroscopic analysis. Reaction mechanisms will be emphasized. ",
+      "course name": "Organic Chemistry Lecture II",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 124",
+      "prerequisite": [
+        "CHEM 24",
+        "CHEM 25"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 218",
+        "CalPoly_CHEM 221",
+        "CalPoly_CHEM 216",
+        "CalPoly_CHEM 324",
+        "CalPoly_CHEM 217",
+        "CalPoly_CHEM 223"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Focuses on advanced organic laboratory techniques and instrumental methods of analysis. Not intended for pre-health professional majors. Discussion one hour, laboratory six hours. ",
+      "course name": "Advanced Organic Chemistry Laboratory",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 125",
+      "prerequisite": [
+        "CHEM 25",
+        "CHEM 124",
+        "ENGL 20"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 405",
+        "CalPoly_CHEM 420",
+        "CalPoly_CHEM 414"
+      ]
+    },
+    {
+      "term": " ",
+      "description": "Study of mechanistic organic chemistry, the physical tools used to study reaction mechanisms, and the relationship between structure and reactivity. Topics include bonding theories, stereoelectronic effects, transition state theory, thermodynamics, kinetic analysis, isotope effects, linear free energy relationships, and application of frontier molecular orbital theory to examine reactions including pericyclic reactions.  ",
+      "course name": "Physical Organic Chemistry",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 126",
+      "prerequisite": [
+        "CHEM 124",
+        "CHEM 140B",
+        "CHEM 142",
+        "CHEM 140B",
+        "CHEM 142",
+        "CHEM 126",
+        "CHEM 226",
+        "CHEM 226"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 312"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Application of functional group reactions to multistep syntheses. Recently developed synthetic methods and literature searching will be emphasized. ",
+      "course name": "Organic Synthesis",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 128",
+      "prerequisite": [
+        "CHEM 124"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Modern instrumentation and methods for chemical analysis. Function of electronics and computers in instruments. Theory and use of instruments in the areas of electrochemistry, spectroscopy, mass spectrometry and chromatography. Lecture two hours, laboratory six hours. ",
+      "course name": "Chemical Instrumentation",
+      "units": "4 Units",
+      "id": "CSUS_CHEM 133",
+      "prerequisite": [
+        "CHEM 31",
+        "CHEM 140B",
+        "CHEM 142",
+        "ENGL 20"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 101"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Introduction to chemical thermodynamics and kinetics. ",
+      "course name": "Physical Chemistry Lecture I",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 140A",
+      "prerequisite": [
+        "CHEM 1B",
+        "CHEM 24",
+        "CHEM 31",
+        "MATH 32",
+        "PHYS 5A",
+        "PHYS 5B",
+        "PHYS 11A",
+        "PHYS 11B",
+        "PHYS 11C",
+        "PHYS 11C"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 353",
+        "CalPoly_CHEM 351",
+        "CalPoly_CHEM 352",
+        "CalPoly_CHEM 357"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to molecular quantum chemistry, structure of matter, molecular spectroscopy, and statistical thermodynamics. ",
+      "course name": "Physical Chemistry Lecture II",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 140B",
+      "prerequisite": [
+        "CHEM 140A"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 353",
+        "CalPoly_CHEM 221",
+        "CalPoly_CHEM 351",
+        "CalPoly_CHEM 352",
+        "CalPoly_CHEM 357"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Selected exercises in the practice of physio-chemical laboratory methods. Lecture one hour, laboratory six hours. ",
+      "course name": "Physical Chemistry Laboratory",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 141",
+      "prerequisite": [
+        "ENGL 20",
+        "CHEM 140A",
+        "CHEM 140B",
+        "CHEM 142",
+        "CHEM 140B"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 354"
+      ]
+    },
+    {
+      "term": " Not acceptable for the BS or the BA without concentration.  ",
+      "description": "Introductory presentation of the theoretical and practical aspects of thermodynamics, quantum chemistry, spectroscopy, and kinetics. As time permits, other topics will be: solution chemistry, hydrodynamics, electrochemistry, and crystallography. ",
+      "course name": "Introduction to Physical Chemistry",
+      "units": "4 Units",
+      "id": "CSUS_CHEM 142",
+      "prerequisite": [
+        "CHEM 1B",
+        "CHEM 24",
+        "PHYS 5A",
+        "PHYS 5B",
+        "MATH 31"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 101",
+        "CalPoly_CHEM 212"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Brief introduction/background in computational theory, with emphasis on chemical/biochemical applications. Demonstration/instruction of widely used modeling/computational software. Covering techniques including molecular mechanics, semi-imperical methods and \"ab initio\" methods. Application of computational methods to thermodynamics, kinetics, spectra, electrochemistry, molecular properties. Lecture three hours. ",
+      "course name": "Applications of Computational Chemistry",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 145",
+      "prerequisite": [
+        "CHEM 140A",
+        "CHEM 140B",
+        "CHEM 142",
+        "CHEM 245",
+        "CHEM 145",
+        "CHEM 245"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "The chemistry and biochemistry of amino acids, proteins, nucleic acids, lipids and carbohydrates. Also includes enzyme kinetics, the structure and function of biological membranes and discussion of some common laboratory methods. Lecture three hours. ",
+      "course name": "Structure and Function of Biological Molecules",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 160A",
+      "prerequisite": [
+        "CHEM 124",
+        "MATH 26A",
+        "MATH 30"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "The bioenergetics and regulation of anaerobic and aerobic metabolic pathways. Major topics include glycolysis, Kreb's cycle, fatty acid and amino acid oxidation, lipid biosynthesis and photosynthesis. Particular emphasis is given to pathway regulation and integration. Lecture three hours. ",
+      "course name": "Metabolism and Regulation of Biological Systems",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 160B",
+      "prerequisite": [
+        "CHEM 160A"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Introduction to the structure and function of biological molecules (carbohydrates, lipids, proteins, nucleic acids, enzymes and hormones), enzyme kinetics, the structure and function of membranes, and the bioenergetics and regulation of major anaerobic and aerobic metabolic pathways. ",
+      "course name": "General Biochemistry",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 161",
+      "prerequisite": [
+        "CHEM 20",
+        "CHEM 124"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to fundamental laboratory techniques for the purification and analysis of biological molecules, including chromatographic separation of amino acids and proteins, electrophoretic separation of proteins and nucleic acids, enzyme kinetics, and basic bioinformatics. Discussion one hour, laboratory six hours. ",
+      "course name": "General Biochemistry Laboratory",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 162",
+      "prerequisite": [
+        "CHEM 31",
+        "CHEM 160A",
+        "CHEM 161",
+        "CHEM 160A",
+        "CHEM 161",
+        "ENGL 20"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Capstone course which emphasizes biochemical laboratory experimental design and trouble-shooting skills. Common biochemistry laboratory techniques are applied in semester-long individual student projects. Discussion one hour, laboratory six hours. ",
+      "course name": "Advanced Biochemistry Laboratory",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 164",
+      "prerequisite": [
+        "CHEM 162",
+        "ENGL 20"
+      ]
+    },
+    {
+      "term": "-C may be applied toward the major requirement in chemistry for the BA or BS degrees.  ",
+      "description": "Directed undergraduate research involving a project that requires use of chemical literature and experimental design. A comprehensive written report and/or scientific poster must be submitted to receive a final grade. ",
+      "course name": "Undergraduate Research",
+      "units": "1 - 3 Units",
+      "id": "CSUS_CHEM 189A",
+      "prerequisite": [
+        "ENGL 20",
+        "CHEM 189A"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 201"
+      ]
+    },
+    {
+      "term": "-C may be applied toward the major requirement in chemistry for the BA or BS degrees.  ",
+      "description": "Continuing directed undergraduate research involving a project with emphasis on experimentation and data analysis. A comprehensive written report and/or scientific poster must be submitted to receive a final grade. ",
+      "course name": "Intermediate Undergraduate Research",
+      "units": "1 - 3 Units",
+      "id": "CSUS_CHEM 189B",
+      "prerequisite": [
+        "ENGL 20",
+        "CHEM 189A",
+        "CHEM 189A"
+      ]
+    },
+    {
+      "term": "-C may be applied toward the major requirement in chemistry for the BA or BS degrees.  ",
+      "description": "Culminating directed undergraduate research with emphasis on comprehensive data analysis and formulation of conclusions. A comprehensive written report and/or scientific poster must be submitted to receive a final grade. ",
+      "course name": "Advanced Undergraduate Research",
+      "units": "1 - 3 Units",
+      "id": "CSUS_CHEM 189C",
+      "prerequisite": [
+        "ENGL 20",
+        "CHEM 189B",
+        "CHEM 189A"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 401"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Extension of culminating undergraduate research with emphasis on finalizing data analysis and writing experimental methods for potential publication. A comprehensive written report (if a scientific poster was completed in 189C) and/or scientific poster (if a written report was completed in 189C) must be submitted to receive a final grade. ",
+      "course name": "Culminating Advanced Undergraduate Research",
+      "units": "1 - 3 Units",
+      "id": "CSUS_CHEM 189D",
+      "prerequisite": [
+        "ENGL 20",
+        "CHEM 189C"
+      ]
+    },
+    {
+      "units": "6 - 12 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised employment in a Chemistry related company or agency. Placement is arranged through the Department and the Cooperative Education Program office. Requires completion of a 3-6 month work assignment and a written report. ",
+      "id": "CSUS_CHEM 194",
+      "course name": "Chemistry-Related Work Experience"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "The student will conduct an independent study of a chemical research topic that is based on experimental techniques or advanced computer modeling. Significant use of chemical literature and information retrieval is required.  A well-written, comprehensive, and well-documented final report must be submitted to receive a final grade.   A weekly seminar is required. Seminar one hour, laboratory activities are a minimum of six hours per week. ",
+      "course name": "Senior Research",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 198",
+      "prerequisite": [
+        "ENGL 20"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Completion of an undergraduate honors thesis and attendance at chemistry seminars. Students will develop a written thesis containing background, methodology, results, and discussion of an experimental or computational research project involving their own original data. ",
+      "course name": "Chemistry Honors Thesis",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 198H",
+      "prerequisite": [
+        "CHEM 198"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course is designed to improve the ability of graduate students to research and interpret the chemical literature. Students work through a series of exercises in preparation for a major writing project such as a thesis proposal or a thesis chapter/section. Exercises include analysis of primary research articles, peer review of student writing samples, and presentation of scientific information. These activities will improve students' understanding of how scientific questions are developed and posed through proposals and dissemination of research results. ",
+      "id": "CSUS_CHEM 200",
+      "course name": "Research Methods in Chemistry."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Interpretation of ultraviolet, infrared, nuclear magnetic resonance, and the mass spectra for the elucidation of chemical structures, with emphasis on problem solving.",
+      "id": "CSUS_CHEM 220",
+      "course name": "Spectrometric Identification of Compounds"
+    },
+    {
+      "term": " for credit. ",
+      "description": "Study of mechanistic organic chemistry, the physical tools used to study reaction mechanisms, and the relationship between structure and reactivity. Topics include bonding theories, stereoelectronic effects, transition state theory, thermodynamics, kinetic analysis, isotope effects, linear free energy relationships, and application of frontier molecular orbital theory to examine reactions including pericyclic reactions. ",
+      "course name": "Physical Organic Chemistry",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 226",
+      "prerequisite": [
+        "CHEM 126",
+        "CHEM 226"
+      ],
+      "similarTo": [
+        "CalPoly_CHEM 312"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Theoretical and practical aspects of separation sciences. Methods of separations that are included are liquid-liquid extraction and ion exchange, gas, and liquid chromatography. Lecture three hours.",
+      "id": "CSUS_CHEM 230",
+      "course name": "Separation Methods in Chemistry"
+    },
+    {
+      "term": ".",
+      "description": "Brief introduction/background in computational theory, with emphasis on chemical/biochemical applications. Demonstration/instruction of widely used modeling/instruction of software. Covering techniques including molecular mechanics, semi-imperical methods and \"ab initio\" methods. Application of computational methods to thermodynamics, kinetics, spectra, electrochemistry, molecular properties. Lecture three hours. ",
+      "course name": "Applications of Computational Chemistry",
+      "units": "3 Units",
+      "id": "CSUS_CHEM 245",
+      "prerequisite": [
+        "CHEM 140A",
+        "CHEM 140B",
+        "CHEM 142",
+        "CHEM 245",
+        "CHEM 145",
+        "CHEM 145"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " May be team-taught. May be repeated once for credit if topics are different.  ",
+      "description": "Intensive coverage of one or more advanced topics in chemistry.  A variety of learning/teaching methodologies may be employed including lecture, team projects, computer modeling, oral presentations and poster projects.   May be team-taught. ",
+      "id": "CSUS_CHEM 250",
+      "course name": "Selected Topics in Chemistry"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Lecture course focusing on interdisciplinary topics in chemistry and related fields. Course activities may include literature review, individual and/or group oral presentations, independent research project. May be team-taught.  ",
+      "id": "CSUS_CHEM 251",
+      "course name": "Topics in Interdisciplinary Chemistry"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Lecture course focusing on synthetic chemistry. Focus may be on biochemical, inorganic, or organic synthetic chemistry. Course activities may include literature review, individual and/or group oral presentations, independent research project. May be team-taught.  ",
+      "id": "CSUS_CHEM 252",
+      "course name": "Topics in Synthetic Chemistry"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Lecture course focusing on applications of chemistry to a variety of fields. Areas of focus my include biological, environmental, materials, and pharmaceutical applications. Course activities may include literature review, individual and/or group oral presentations, independent research project. May be team-taught.  ",
+      "id": "CSUS_CHEM 253",
+      "course name": "Topics in Applied Chemistry"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Lecture course focusing on topics in physical chemistry. Areas of focus may include content areas such as quantum mechanics, physical/organic or biophysical chemistry, an/or in-depth treatment of structure analysis and determination. Course activities may include literature review, individual and/or group oral presentations, independent research project. May be team-taught. ",
+      "id": "CSUS_CHEM 254",
+      "course name": "Topics in Physical Chemistry"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Intensive coverage of one or more advanced topics in chemistry. A variety of learning/teaching methodologies may be employed, including lecture, team projects, computer modeling, oral presentations and poster projects. May be team-taught.  ",
+      "id": "CSUS_CHEM 255",
+      "course name": "Topics in Chemistry Education"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Provides a comprehensive review of proteins, with emphasis on protein structure and structure/function relationships. Topics include methods for structure determination, stability and folding, catalysis and denovo protein design. Topical examples from the literature, particularly those related to disease states, are used to illustrate fundamental principles of protein structure and function. ",
+      "id": "CSUS_CHEM 260",
+      "course name": "Protein Biochemistry"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The recent biochemical literature will be used to study the structural, chemical, and physical properties of nucleic acids. Chemical mechanisms of mutation , protein-nucleic acid interactions, and DNA-drug interactions will be used to illustrate these properties. ",
+      "id": "CSUS_CHEM 261",
+      "course name": "Nucleic Acid Chemistry"
+    },
+    {
+      "units": "0.5 Units",
+      "term": " Grade of C/NC will be based on attendance and successful presentation of a seminar. May be repeated for a total of 2 units ",
+      "description": "Student presentations of topics from the chemical literature and their thesis research. ",
+      "id": "CSUS_CHEM 294",
+      "course name": "Seminar In Chemistry",
+      "similarTo": [
+        "CalPoly_CHEM 221",
+        "CalPoly_CHEM 216",
+        "CalPoly_CHEM 217",
+        "CalPoly_CHEM 351",
+        "CalPoly_CHEM 352"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be taken up to four times for credit, but only one unit may be applied to the University's requirement for 200-level courses.  ",
+      "description": "Presentation and discussion of graduate student and faculty research and current literature with emphasis on critical evaluation of research design, data analysis and presentation techniques. One hour discussion. ",
+      "id": "CSUS_CHEM 296",
+      "course name": "Experimental Offerings in Chemistry"
+    },
+    {
+      "units": "1 - 6 Units",
+      "term": "Fall, Spring",
+      "description": "Graduate research. Approval must be obtained from a departmental committee and the faculty member under whom the work is to be conducted. Written report must be submitted before a final grade is given.",
+      "id": "CSUS_CHEM 299",
+      "course name": "Special Problems",
+      "similarTo": [
+        "CalPoly_CHEM 200"
+      ]
+    },
+    {
+      "units": "2 - 4 Units",
+      "term": "Fall, Spring",
+      "description": "Completion of a thesis or project approved for the Master's degree.  Should be taken in final semester prior to the completion of all requirements for the degree.  Number of units of credit is determined by the candidate's master's degree advisory committee. ",
+      "id": "CSUS_CHEM 500",
+      "course name": "Culminating Experience",
+      "similarTo": [
+        "CalPoly_CHEM 495",
+        "CalPoly_CHEM 485"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "CHEM",
+    "subject": "Chemistry"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Chemistry",
+    "id": "CSUS"
+  }
+}

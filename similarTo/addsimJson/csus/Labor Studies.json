@@ -1,0 +1,43 @@
+{
+  "courses": [
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Introduction to the study of labor in the U.S., including the nature of work, characteristics of the work force, and an overview of contemporary labor and industrial relations systems within the framework of current U.S. economic and political developments. ",
+      "course name": "Labor and the American Social Structure.",
+      "units": "3 Units",
+      "id": "CSUS_LBRS 100",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X",
+        "SOC 176"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Supervised work experience or research in relevant institutions providing an opportunity to apply classroom theories and principles to the \"real world.\" Partial supervision may be supplied by host institution. Requires approval of the Labor Studies Coordinator.",
+      "id": "CSUS_LBRS 195",
+      "course name": "Labor Studies Internship"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": "Fall, Spring",
+      "description": "Individual projects or directed reading open to students competent to carry on individual work under the direction of a faculty sponsor. Admission requires approval of the faculty sponsor and the Labor Studies Coordinator.",
+      "id": "CSUS_LBRS 199",
+      "course name": "Special Problems"
+    }
+  ],
+  "subjectOf": {
+    "id": "LBRS",
+    "subject": "Labor Studies"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Labor Studies",
+    "id": "CSUS"
+  }
+}

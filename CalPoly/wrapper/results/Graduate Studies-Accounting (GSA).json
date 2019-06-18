@@ -1,0 +1,131 @@
+{
+  "subject": "Graduate Studies-Accounting (GSA)",
+  "courses": [
+    {
+      "Course number & title": " Graduate Accounting Individual Research",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Advanced individual research in accounting topics planned and completed under the direction of a member of the college faculty.  Designed to meet the needs of qualified students who wish to pursue investigations in accounting which cannot be followed effectively in regularly offered elective courses.  A formal written proposal must be accepted by the Associate Dean of OCOB before work begins."
+    },
+    {
+      "Course number & title": " Taxation of Trusts, Estates, and Transfer Taxes",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Income taxation of trusts and estates as flow-through entities; transfer taxation of gifts and estates, including generation-skipping transfers.  4 lectures."
+    },
+    {
+      "Course number & title": " State and Local Taxation",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Multi-state income and franchise taxation; property taxes; sales and use taxes; and the constitutional authority for the imposition of state taxes.  4 lectures."
+    },
+    {
+      "Course number & title": " Current Developments in Taxation",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Current developments in income taxation of individuals, trusts and estates and business entities; transfer taxation of gifts and estates; and ethics and professional responsibility in taxation.  4 lectures."
+    },
+    {
+      "Course number & title": " Clinical Tax Education Internship",
+      "Number of units": "9 units",
+      "Term": "CR/NC",
+      "Course description": "Accounting internship that allows graduate level accounting students the opportunity to apply skills and competencies to an employment opportunity.  Placement in a full-time supervised work experience at a public accounting firm or in an accounting or internal audit department of a private enterprise or government agency.  Credit/No Credit grading only."
+    },
+    {
+      "Course number & title": " Taxation of Corporations and Partnerships",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Comparative study of the taxation of C corporations and flow-through tax entities, including S corporations, partnerships and limited liability companies.  Not open to students with credit in BUS417.  4 lectures."
+    },
+    {
+      "Course number & title": " Advanced Financial Reporting Issues I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Comprehensive coverage of selected advanced financial accounting and reporting topics.  Topics include accounting changes and errors, leases, pensions and other post-employment benefits, income taxes, and consolidated financial statements.  4 seminars."
+    },
+    {
+      "Course number & title": " Advanced Financial Reporting Issues II",
+      "Number of units": "5 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Comprehensive coverage of selected advanced financial accounting and reporting topics.  Topics include financial statement footnote and MD&A disclosures and coverage of SEC statutes, regulations and filing forms.  5 seminars."
+    },
+    {
+      "Course number & title": " Advanced Enterprise Wide Business Processes for Accounting",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Study of various transactions in order to understand the underlying business processes and information flows between various business units, in order for a transaction to occur and be properly reported, and the information determined that is critical for the information system to capture.  Emphasis of role of information systems in controlling the authorization of transactions, access to information, access to assets, preparation of accounting records and reports.  3 seminars, 1 activity."
+    },
+    {
+      "Course number & title": " Applied Accounting Research and Communications",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Advanced use of authoritative accounting and auditing data bases and actual filings by public companies.  Frequent writing and speaking exercises.  Real world accounting and auditing issues facing public and private enterprises.  In-depth coverage of federal and state regulation of securities transactions."
+    },
+    {
+      "Course number & title": " Tax Research and Administrative Procedures",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Research techniques applicable to tax issues including the communication of research results.  Administrative procedures necessary for tax compliance with the various tax jurisdictions with primary emphasis on IRS practices.  2 seminars, 2 activities."
+    },
+    {
+      "Course number & title": " Advanced Individual Taxation and Tax Planning",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Advanced concepts concerning the impact of taxes on individuals.  Introduction to transfer taxes imposed on individuals.  Financial, estate and compensation tax planning issues.  4 seminars."
+    },
+    {
+      "Course number & title": " Advanced Taxation of Flow-Through Entities",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Advanced and special topics related to the income tax treatment of partnerships, limited liability companies, trusts and S corporations and their owners and beneficiaries.  Creation, operation, liquidation and sale of such organizations.  4 seminars."
+    },
+    {
+      "Course number & title": " Advanced Corporate Taxation",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Advanced and special topics related to the income tax treatment of regular corporations and their shareholders.  Mergers and acquisitions, tax accounting methods and periods, cross-boundary topics, and current issues.  4 seminars."
+    },
+    {
+      "Course number & title": " International Taxation",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Fundamental tax concepts of inbound and outbound investments of U.S.  taxpayers, controlled foreign corporations, Subpart F, the foreign tax credit, transfer pricing and contracting country treaties.  4 lectures."
+    },
+    {
+      "Course number & title": " Fraud Auditing and Examination",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Occupational and financial statement fraud; particular emphasis on the breakdown of corporate governance and ethics systems and developing internal control systems to prevent and detect fraudulent activities.  4 lectures."
+    },
+    {
+      "Course number & title": " International Accounting",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "International accounting, auditing, and corporate governance standards including international financial reporting standards (IFRS).  4 lectures."
+    },
+    {
+      "Course number & title": " Advanced Spreadsheet Modeling for Accounting",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Advanced topics in electronic spreadsheets and their use in accounting and financial applications.  Developing spreadsheet models for data analysis and decision making.  Integrating automation tools and external data sources into spreadsheets.4 lectures."
+    },
+    {
+      "Course number & title": " Database Modeling and Analysis for Accounting",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Fundamental concepts in database analysis, design, implementation, administration, and audit including issues such as requirements specification, REA modeling, ER modeling, normalization, SQL, transaction control, database security, and query optimization.  May also include topics such as data warehouses, XBRL and ebXLM.  4 lectures."
+    },
+    {
+      "Course number & title": " Financial Accounting and Valuation",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Comprehensive coverage of approaches to the measurement of fair values that are used in accounting situations such as mergers and acquisitions, recognition of stock based compensation, and determination of impairments in the carrying amounts of long-lived assets including intangible assets and goodwill.  Role of financial reporting in the valuation of securities, credit analysis, and the determination of the cost of capital.  4 lectures."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics for Accounting",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures."
+    }
+  ]
+}

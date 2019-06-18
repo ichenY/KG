@@ -1,0 +1,1155 @@
+{
+  "courses": [
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Development of physical and mental adjustment to the water. Basic instruction in front crawl, back crawl, elementary backstroke, breast and side strokes and survival is stressed. ",
+      "id": "CSUS_KINS 4",
+      "course name": "Beginning Swimming"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Development of physical skills involving strokes, turns, safety and survival techniques. ",
+      "id": "CSUS_KINS 5",
+      "course name": "Intermediate Swimming"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit.  ",
+      "description": "Instruction in the fundamentals of sailing including safety and a discussion of terminology and technology of sailing. Additional charge for off-campus services. ",
+      "id": "CSUS_KINS 9",
+      "course name": "Beginning Sailing"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Continuation of KINS 25, using our fleet of C-15s, Laser and Hobie Turbo 14s. Covers rigging, boating safety, sailing, theory and racing tactics. ",
+      "id": "CSUS_KINS 10",
+      "course name": "Intermediate Sailing"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Introduces the student to the basic fundamentals of windsurfing. Covers rigging, terminology, balance, stance, sail adjustment, safety, rescue skills, and tricks. ",
+      "id": "CSUS_KINS 11",
+      "course name": "Basic Windsurfing"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit.  ",
+      "description": "Basic water skiing, boat and boating safety and in the fundamental skills in water skiing. Additional charge for off-campus services. ",
+      "id": "CSUS_KINS 12",
+      "course name": "Water Skiing"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Teaches the novice rower oar control, basic commands, and correct style. Students will begin rowing on a modern eight-oared racing shell and be introduced to the one person rowing single. ",
+      "id": "CSUS_KINS 14",
+      "course name": "Basic Olympic Rowing"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": " is a course designed for Sacramento State students of all experience levels to develop proficiency in the sport of fly fishing while promoting an appreciation of the sport as a socio-cultural and lifetime recreational pursuit. Instruction/participation will include, but is not limited to the following topics: conditioning, conservation techniques, equipment use/care/selection, fly casting, aquatic entomology, stream hydrology, interpretation of fly fishing opportunities, fly fishing tactics, basic knots, and field trips to local streams.",
+      "course name": "Introduction to Fly Fishing",
+      "units": "1 Unit",
+      "id": "CSUS_KINS 15",
+      "prerequisite": [
+        "KINS 15"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to the nature and possible meanings of higher education, and the functions and resources of the University.  Designed to help students develop and exercise fundamental academic success strategies and to improve their basic learning skills.  Provides students with the opportunity to interact with fellow classmates and the seminar leader to build a community of academic and personal support.",
+      "id": "CSUS_KINS 21",
+      "course name": "First Year Seminar: Becoming an Educated Person"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Provides student with a wide range of flexibility, strength, muscular endurance and creative cardiovascular endurance (aerobic) exercises that promote physical fitness, positive changes in body composition and stress reduction when performed regularly. ",
+      "id": "CSUS_KINS 22",
+      "course name": "Creative Aerobic Fitness I"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Using the unique buoyancy and resistance properties of water, the course includes aquatic exercises for flexibility, strength, and cardiovascular endurance to promote general fitness, body conditioning, and stress reduction. As the course will take place in shallow water, swimming proficiency is not required. ",
+      "id": "CSUS_KINS 24",
+      "course name": "Aqua Aerobics"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Designed to encourage self-improvement through posture evaluation, biomechanic analysis of exercises performed and through participation in varied exercise forms. Students will develop a personalized repertoire of strength, suppleness and stamina exercises calculated to improve possible deficiencies in posture or movement to optimize enjoyment of living. ",
+      "id": "CSUS_KINS 26",
+      "course name": "Exercise For Fitness"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Jogging will expose the student to the fundamentals of jogging/running, its potential physiological and sociological benefits as a lifetime activity, fitness testing and individualized conditioning programs. ",
+      "id": "CSUS_KINS 28",
+      "course name": "Jogging"
+    },
+    {
+      "units": "2 Units",
+      "term": " May be repeated for credit. ",
+      "description": "Cycling as a lifetime sport; physiological benefits derived from bicycle riding; individual functional evaluation and conditioning, cycle touring. Lecture one hour; activity two hours. ",
+      "id": "CSUS_KINS 30",
+      "course name": "Bicycling"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Weight training as a lifetime fitness activity; emphasis on going beyond the beginning level through development of an individualized program designed to meet the needs of each individual. ",
+      "id": "CSUS_KINS 33",
+      "course name": "Intermediate Weight Training"
+    },
+    {
+      "term": " May be repeated for credit.  ",
+      "description": "Introduces the lifter to the sport of weight lifting which consists of the two lifts (two hands snatch and the two hands clean and jerk) used in Olympic competition. It includes the complete breakdown of the two lifts, the assistive lifts necessary to learn the parts of the two lifts, and the proper training sequence. The students will also be introduced to training cycles, proper diet, and the use of assistive equipment. ",
+      "course name": "Beginning Olympic Weight Lifting",
+      "units": "1 Unit",
+      "id": "CSUS_KINS 36",
+      "prerequisite": [
+        "KINS 33"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Examines the historical, philosophical, psychological and physiological aspects of Tai Chi. Students will be provided the opportunity to experience a wide range of movement patterns that focus on the integration of mind and body. The form and structure of technique as well as breathing exercises will be included. ",
+      "id": "CSUS_KINS 40",
+      "course name": "Tai Chi"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Primary emphasis on throwing, blocking, punching and kicking. The philosophy of Truism and Confucianism is explored. ",
+      "id": "CSUS_KINS 43",
+      "course name": "Beginning Tae Kwon Do"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Instruction in beginning judo tactics including throws and falls, conditioning, and protective devices for self-defense. ",
+      "id": "CSUS_KINS 46",
+      "course name": "Beginning Judo"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Examines the historical, philosophical, and physical aspects of Uechi-Ryu Karate. Students will be asked to learn the basic techniques and skills used in this Okinawan system as well as to develop and improve in body strength, flexibility and coordination. ",
+      "id": "CSUS_KINS 50",
+      "course name": "Uechi-Ryu Karate"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Prepares women to deal psychologically, sociologically and physically with rape and violent assault. The physical tactics taught are based on the use of hands and feet as weapons. They are simple yet an effective use of one's strength and mental attitude. ",
+      "id": "CSUS_KINS 56",
+      "course name": "Beginning Self-Defense for Women"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Multifaceted conditioning course that utilizes self defense techniques to develop self discipline, confidence and respect for physical capabilities and limitations of others. ",
+      "id": "CSUS_KINS 59",
+      "course name": "Self Defense and Conditioning"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be taken for credit more than once for credit. ",
+      "description": "Development of proficiency in ballroom dance, including history, vocabulary, ballroom dance etiquette and basic steps for foxtrot, waltz, hustle, cha cha, tango, rhumba, salsa, and merengue. ",
+      "id": "CSUS_KINS 63",
+      "course name": "Beginning Ballroom Dance"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Development of fundamental skills and tactics of the game, knowledge of basic strategy and rules. Emphasis given to individual and team concepts as they relate to performance and competition. ",
+      "id": "CSUS_KINS 72",
+      "course name": "Beginning Basketball"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Advancement of basketball skills and strategy. Emphasis is given to individual and team concepts as they relate to performance competition and officiating basketball. ",
+      "id": "CSUS_KINS 73",
+      "course name": "Intermediate Basketball"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Develop basic skills, basic offensive and defensive systems of team play, basic strategies and rules. Emphasis on team work and developing supportive attitudes and behavior which encourages continued involvement in volleyball as a physical activity. ",
+      "id": "CSUS_KINS 75",
+      "course name": "Beginning Volleyball"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Development of basic skills of ball handling, passing, dribbling, trapping, tackling, individual and team tactics and strategies; rules interpretation and officiating; promotion of bio-psychosocial well being. ",
+      "id": "CSUS_KINS 79",
+      "course name": "Beginning Soccer"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Development of sufficient basic proficiency in golf to recognize and enjoy it as a lifetime activity; including U.S.G.A. rules, etiquette and the fundamental mechanics involved in the use of irons and woods. ",
+      "id": "CSUS_KINS 83",
+      "course name": "Beginning Golf"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Development toward proficiency in tennis, including basic court skills, knowledge, and elementary strategies. Development of enjoyable and appropriate cooperative and competitive modes of behavior, including etiquette and self-awareness. Attention is given to healthful approaches to vigorous lifetime physical activity. ",
+      "id": "CSUS_KINS 86",
+      "course name": "Beginning Tennis"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Development and refinement of skills at the intermediate level in all strokes. Development and refinement of playing techniques and strategies. Learning how to enjoy competitive situations and to relate well to others in competition. Adjustment to stressful competitive conditions and improvement of personal responses under stress. ",
+      "id": "CSUS_KINS 87",
+      "course name": "Intermediate Tennis"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Development of fundamentals in badminton including beginning skills, offensive and defensive tactics and strategy; singles, doubles and mixed doubles tournament play. ",
+      "id": "CSUS_KINS 89",
+      "course name": "Beginning Badminton"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Development of movement skills, strokes, tactics in singles and doubles at a more advanced level. Emphasis on \"cut\" or deceptive strokes, rotation or diagonal system of doubles play, increased ability to move on the court, application of laws to move difficult playing situations. Singles, doubles and mixed doubles play in tournaments. ",
+      "id": "CSUS_KINS 90",
+      "course name": "Intermediate Badminton"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Designed to develop proficiency at all skill levels of alpine skiing, beginner through expert, while promoting appreciation of the sport as socio cultural phenomena and lifetime pursuits. Sessions will take place at a scheduled Sierra ski area as well as on campus. Additional fee. ",
+      "id": "CSUS_KINS 91",
+      "course name": "Alpine Skiing and Snowboarding"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Fundamental theory and practice of the game of racquetball including service, receiving the service, back wall play, basic shots, variations, court positioning and general tactics; history rules, and safety precautions.",
+      "id": "CSUS_KINS 92",
+      "course name": "Beginning Racquetball"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Development of proficiency at the intermediate level. Includes service and return, backwall play, offensive and defensive shots with emphasis on techniques, strategy and tactics of competition. ",
+      "id": "CSUS_KINS 93",
+      "course name": "Intermediate Racquetball"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "Exposes students to a broad range of information related to the understanding and development of personal fitness and health, including psycho-social well-being. Examines the elements of exercise, nutrition, and stress management as they relate to healthful living. Students will explore a variety of personal choices and the options for developing and maintaining lifetime wellness. ",
+      "id": "CSUS_KINS 99",
+      "course name": "Exercise for Healthy Living"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Advanced instruction in weight lifting including Olympic weight lifting, power lifting, body building, lifting for athletic competition and lifting for physical fitness.",
+      "id": "CSUS_KINS 106C",
+      "course name": "Advanced Weight Training"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Role of women in sport; an inquiry into traditional and contemporary attitudes and practices regarding the woman's role in the sporting world.",
+      "id": "CSUS_KINS 110",
+      "course name": "Women and Sport"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Explores the ancient tradition of the Asian martial arts in conjunction with actual participation in a selected martial arts course. Asks the student to critically examine the cultural contributions of specific Asian communities such as Japan, China, and Korea, to the Martial Arts as practiced in the U.S.",
+      "id": "CSUS_KINS 118A",
+      "course name": "Martial Arts: Karate."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_KINS 118B",
+      "course name": "Martial Arts: Tae Kwon Do."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "id": "CSUS_KINS 118C",
+      "course name": "Martial Arts: Tai Chi."
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The course is designed to introduce students, persons interested in the personal training field, strength & conditioning and/or prospective coaches at the high school, college, or professional level, public, private settings to what are commonly referred to as training units. These training units are part of the total training program an individual/student/athlete would use to prepare for participation in fitness activity or sport. Included are practical hands-on participatory experiences, program design strategy and practical field tests. ",
+      "id": "CSUS_KINS 120",
+      "course name": "Strength and Conditioning"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "Examination of, and practical experience in, techniques for maximizing sport and creative performance through the development of mental skills and strategies for stress control, imagery, goal setting, and concentration.",
+      "id": "CSUS_KINS 121",
+      "course name": "Peak Performance Through Psychological Skills"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for credit. ",
+      "description": "Designed to meet American Red Cross or American Heart Association Certification in CPR. ",
+      "id": "CSUS_KINS 122B",
+      "course name": "Cardiopulmonary Resuscitation"
+    },
+    {
+      "term": "Spring only",
+      "description": "Overview of the total elementary physical education curriculum.  Designed specifically for physical education concentration students.  The primary focus will be placed on cooperative activities, movement education, development of locomotor, non-locomotor, manipulative skills, perceptual motor activities, fitness, games, and the correlation of classroom subjects with physical education.  Introduces students to developmentally and instructionally appropriate physical education for children.  Students will be able to develop a scope and sequence for an elementary physical education curriculum. ",
+      "course name": "Elementary Physical Education Curriculum and Content",
+      "units": "3 Units",
+      "id": "CSUS_KINS 130",
+      "prerequisite": [
+        "KINS 138"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Designed for senior level students in the Kinesiology major, Physical Education Option, Credential Concentration who wish to deliver an effective, meaningful physical education curriculum to diverse students.  Covers curriculum components that include content, content organization, distinctive curriculum models and aspects of curriculum application.  Students will learn how to sustain a positive learning experience, conceive and plan meaningful curricula for school based instruction, and to link the school program to opportunities for adolescents outside of school. ",
+      "course name": "Secondary Physical Education Curriculum",
+      "units": "2 Units",
+      "id": "CSUS_KINS 131",
+      "prerequisite": [
+        "KINS 138"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Designed to provide students with the basic guidelines for starting and managing multiple health and fitness centers in the private setting; focus on initial start-up of a health and fitness center and operating procedures with emphasis on equipment selection and arrangement, employee training, program planning for safe and optimally beneficial health and fitness results.",
+      "id": "CSUS_KINS 132",
+      "course name": "Planning, Designing and Managing a Fitness Center"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Critical perspective of how theoretical concepts and integrated knowledge can be applied to various aspects of physical education, sport, and physical activity.  Emphasis is on a coherent understanding of the interrelationships that exist in the subdisciplines of kinesiology and other related subject areas. Capstone experience for students in the Physical Education Concentration; must be taken during the final semester of the student's plan of study. ",
+      "course name": "Integration of Concepts.",
+      "units": "3 Units",
+      "id": "CSUS_KINS 133",
+      "prerequisite": [
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109M",
+        "ENGL 109W",
+        "ENGL 109X",
+        "ENGL 109X"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examination of historical events in physical education and sport; examination of how these historical events have influenced the varying philosophies of physical education, sport, and physical activity, past and present; identification of societal forces in cultures which lead to philosophical beliefs and concepts relative to the structure of the disciplines of physical education, sport, and physical activity.",
+      "id": "CSUS_KINS 134",
+      "course name": "History and Philosophy of Physical Education and Sport"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Selection, analysis, construction and administration of norm-referenced and criterion-referenced tests used for formative and summative evaluation in the physical education public school setting.  Includes both traditional and alternative assessment strategies.  Computers are used for data collection, development of assessment instruments, development of grading programs, and for descriptive statistical analysis.",
+      "id": "CSUS_KINS 135",
+      "course name": "Assessment Strategies in Physical Education"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Considers the positive and negative aspects of vigorous exercise and/or sport activity throughout the aging process. Included will be inquiry into the opportunities for activity among adults over the age of thirty, through the active career years, and beyond.",
+      "id": "CSUS_KINS 136",
+      "course name": "Sport And Aging"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Analyzes sport as a social institution and the interrelations between sport and societal subsystems. Consideration of the attitudes, values, and behaviors associated with sport. Analyzes contemporary problems associated with sport: race relations, the traditional and emergent role of women, leisure behavior, aggression and violence, and political and economic concerns. Analyzes a sociological problem within the context of sport.",
+      "id": "CSUS_KINS 137",
+      "course name": "Sociology Of Sport"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to teaching in K-12 schools for physical education majors.  Topics include:  professionalism, philosophy, the CA framework, lesson/unit planning, class management, organization techniques, communication skills, teaching styles and effective teaching skills.  (Students will be required to complete four observations off campus and two peer-teaching assignments on campus.)  Serves as a prerequisite or corequisite for all skill analysis classes in the major. ",
+      "id": "CSUS_KINS 138",
+      "course name": "Teaching Strategies in Physical Education"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Social actions and behavioral patterns as influenced by the communication process; experiential approaches to techniques of interpersonal and small group relationships and leadership; the constantly evolving communication media as instruments of behavioral change.",
+      "id": "CSUS_KINS 139",
+      "course name": "Leadership and Communication"
+    },
+    {
+      "term": "Fall only",
+      "description": "Designed to prepare physical education students to analyze and teach developmentally appropriate activities designed for dual participation in the public school setting.  Student will be given opportunity to learn and apply the basic techniques of tennis, badminton and pickleball as well as the offensive and defensive net strategies for game play.  Emphasis will be given to skill acquisition analysis. ",
+      "course name": "PRO ACT I - Dual Sports",
+      "units": "3 Units",
+      "id": "CSUS_KINS 141",
+      "prerequisite": [
+        "KINS 138",
+        "KINS 138"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Students will develop an understanding of the content specific to the design and delivery of educational gymnastics and rhythm/dance activities in a K-12 setting. Gymnastics components include: skills, appropriate progressions, spotting techniques, safety and methods of organization. Rhythm and dance will include basic locomotive skill development; basic rhythm activities; and contemporary, line, square, round, contra, folk, country and Western and social/ballroom dance. Historical and multicultural concepts related to dance are also included. ",
+      "course name": "Professional Activities II - Creative Movement and Dance",
+      "units": "3 Units",
+      "id": "CSUS_KINS 142",
+      "prerequisite": [
+        "KINS 138",
+        "KINS 138"
+      ]
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "The course is designed to prepare students to teach, design, and implement strength/conditioning for various fitness/athletic populations. Included are skill techniques, skill analysis, class/group organization, equipment analysis, muscular fitness related to athletics, fitness, rehabilitation, and other factors related to effective teaching of muscular fitness in high school, college, private, public and corporate settings. Emphasis is on kinesiology/biomechanics principles, human anatomy, and physiological adaptations to the various strength/conditioning for fitness/athletic training covered in the course. ",
+      "id": "CSUS_KINS 144",
+      "course name": "Analysis of Weight Training & Muscular Fitness"
+    },
+    {
+      "term": "Fall only",
+      "description": "This is an introductory course designed for students within the Kinesiology Major Physical Education Concentration to analyze the teaching of field sports in secondary school settings. This course provides the student the opportunity to learn basic techniques, strategies, and rules of flag football, volleyball, softball, soccer and basketball. Emphasis will be given to skill performance, skill development, teaching methodology, skill analysis, lead-up activities, and sport participation. ",
+      "course name": "Pro Act III - Team Sports",
+      "units": "3 Units",
+      "id": "CSUS_KINS 145",
+      "prerequisite": [
+        "KINS 138",
+        "KINS 138"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Designed to prepare physical education students to analyze and teach developmentally appropriate activities designed for individual participation in the public school setting. Student will be given the opportunity to learn and apply the basic techniques of golf, track and field and aquatics as well as the strategies necessary for effective participation. Emphasis will be given to skill acquisition and analysis. ",
+      "course name": "PRO ACT IV Individual Sports",
+      "units": "3 Units",
+      "id": "CSUS_KINS 146",
+      "prerequisite": [
+        "KINS 138",
+        "KINS 138"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Students will develop an understanding of the content specific to the design and delivery of non-traditional games and sports. Instruction will focus on performance, skill analysis, methods of teaching, strategies for instruction, and evaluation of skills in K-12 settings. The students will be introduced to a variety of nontraditional games and outdoor activities, as well non-traditional team sports including Lacrosse, Ultimate Frisbee, Speedball, Team Handball, and Field Hockey. ",
+      "course name": "ProAct V -  Nontraditional Games and Sports",
+      "units": "3 Units",
+      "id": "CSUS_KINS 148",
+      "prerequisite": [
+        "KINS 138",
+        "KINS 138"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Students will develop an understanding of the content specific to the design/delivery of a variety of innovative fitness/wellness learning experiences for individuals in K-12 settings. Emphasis will be placed on movement and its relationship to the components of health fitness when pursuing and promoting a physically active lifestyle. Students will develop skills in assessing fitness levels and implementing strategies for supporting positive behaviors and attitudes toward fitness/wellness for individuals from diverse populations. ",
+      "course name": "Professional Activities of Health and Skill Related Fitness",
+      "units": "3 Units",
+      "id": "CSUS_KINS 149",
+      "prerequisite": [
+        "KINS 138",
+        "KINS 138"
+      ]
+    },
+    {
+      "term": " Does not satisfy exercise physiology requirement for Exercise Science majors.  ",
+      "description": "Sports physiology with special emphasis on studying the various systems in the body that are involved in work, exercise and sport. Training programs to improve these systems and their responses will be discussed in a wide variety of settings including exercise for health, fitness, recreation, and sports competition. Lecture two hours; laboratory three hours. ",
+      "course name": "Exercise and Sport Physiology",
+      "units": "3 Units",
+      "id": "CSUS_KINS 150",
+      "prerequisite": [
+        "BIO 30",
+        "BIO 26"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Anatomical concepts and physical laws as applied to human movement emphasizing the effects of individual and environmental variables. Includes analysis of normal and pathological gait. Lecture two hours; laboratory three hours. ",
+      "id": "CSUS_KINS 151",
+      "course name": "Kinesiology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to fundamental mechanical concepts as they apply to human movement. A broad range of human movement will be explored including activities from sport, industrial settings, normal and pathological locomotory skills, and movements involved in manipulating the environment in which we live. Laws of physics, mechanical principles and mathematical concepts will be integrated in studying man as a biological entity. Lecture two hours; laboratory three hours. ",
+      "course name": "Biomechanics",
+      "units": "3 Units",
+      "id": "CSUS_KINS 151A",
+      "prerequisite": [
+        "KINS 151"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "The study of biomechanical theory in regards to quantifying and analyzing human movement. Human movement will be examined from an advanced perspective, including tissue mechanics, the pathomechanics of chronic disease, and exercise and sport performance. ",
+      "course name": "Biomechanics II",
+      "units": "3 Units",
+      "id": "CSUS_KINS 151B",
+      "prerequisite": [
+        "BIO 10",
+        "BIO 22",
+        "KINS 151",
+        "KINS 151A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Human musculoskeletal and neurological systems, energy production, and biomechanical interrelationships of human motion applied to dance. Emphasis on the nervous, muscular and tendinous structures and the mechanical function of levers and force application and injury prevention for the dancer. ",
+      "course name": "Dance Kinesiology",
+      "units": "3 Units",
+      "id": "CSUS_KINS 151C",
+      "prerequisite": [
+        "BIO 22"
+      ]
+    },
+    {
+      "term": " Does not satisfy kinesiology or biomechanics requirements for Exercise Science majors.  ",
+      "description": "Fundamentals of human movement patterns with an emphasis on applied anatomy, movement principles, movement sequences, applied biomechanics, developmental motor stages and basic movement analysis. ",
+      "course name": "Applied Kinesiology and Biomechanics",
+      "units": "3 Units",
+      "id": "CSUS_KINS 151D",
+      "prerequisite": [
+        "BIO 30",
+        "BIO 26"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of circulatory, respiratory and metabolic response to exercise in humans under various physiological and ambient conditions.  Lecture 2 hours; laboratory 2.5 hours. ",
+      "course name": "Physiology Of Exercise",
+      "units": "3 Units",
+      "id": "CSUS_KINS 152",
+      "prerequisite": [
+        "CHEM 1B",
+        "CHEM 6B",
+        "BIO 131"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of current training programs used in different types of activity. Emphasis will be placed on specific training techniques, nutritional needs, methods of testing/evaluating, and special considerations needed for various populations. ",
+      "course name": "Fundamentals of Exercise Programs",
+      "units": "3 Units",
+      "id": "CSUS_KINS 152A",
+      "prerequisite": [
+        "KINS 152"
+      ]
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the general physiology of women, how physical activity affects women's physiological functions, and how physiological functions affect women in sport and exercise performance. A comprehensive review of scientific literature is included.",
+      "id": "CSUS_KINS 152B",
+      "course name": "Exercise Physiology of Women"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "Extensive review of the energy metabolism, cardiovascular and pulmonary function, endocrine response, nutritional need, training effect, and biochemical response to prolonged exercise of 1-6 hours in duration. ",
+      "id": "CSUS_KINS 152C",
+      "course name": "Prolonged Exercise"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Reviews the basic aspects of lactate formation, release, and uptake by skeletal muscle and blood during exercise and training. Presents recent clinical and research findings related to physical performance. ",
+      "course name": "Blood Lactate and Exercise",
+      "units": "2 Units",
+      "id": "CSUS_KINS 152D",
+      "prerequisite": [
+        "KINS 152"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of ergogenic aids, exercise nutrition and exercise performance enhancing drugs/supplements and their physiological effects on energy production and exercise performance.  Lecture: 3 hours ",
+      "course name": "Energy Production & Sports Performance",
+      "units": "3 Units",
+      "id": "CSUS_KINS 152S",
+      "prerequisite": [
+        "KINS 152",
+        "KINS 153",
+        "FACS 10",
+        "FACS 113"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Designed to train exercise leaders, exercise test technologists, and exercise program directors. Focus is upon development of basic skills, both administrative and technical, needed to develop a program of graded exercise testing and exercise prescription for asymptomatic and symptomatic populations. Lecture two hours; laboratory three hours. ",
+      "course name": "Cardiovascular Testing and Exercise Prescription",
+      "units": "3 Units",
+      "id": "CSUS_KINS 153",
+      "prerequisite": [
+        "KINS 152"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of cardiac rehabilitation and exercise electrocardiography, reviews clinical pathophysiology and ECG abnormalities during rest, exercise stress testing and cardiac rehabilitation.  Lecture 3 hours. ",
+      "course name": "Cardiac Rehabilitation & Exercise Electrocardiography",
+      "units": "3 Units",
+      "id": "CSUS_KINS 153C",
+      "prerequisite": [
+        "KINS 153"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to professional ethics and attire, the allied health care system, patient transfers, wheelchair and ambulation aids, medical terminology and record keeping. Fundamental principles and concepts underlying the therapeutic application of modalities, including methods of administering heat, cold, electricity, sound, light and water are covered. ",
+      "id": "CSUS_KINS 154A",
+      "course name": "Principles and Techniques in a Clinical Setting"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Organization, management and health care administration of athletic training programs.  Includes communication skills, budget, facility design and management, legal aspects, drug testing, education, computer use, insurance and record keeping, personnel development (job search, CEUs, licensure), professional and governing organizations, athletic training reporting systems, emergency action plans, blood borne pathogen procedures, preparticipation exam management, health care issues and fundraising. ",
+      "id": "CSUS_KINS 154B",
+      "course name": "Management and Health Care Administration in Athletic Training"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Techniques and clinical skills in the treatment of injuries using therapeutic modalities.  Hands-on experience in the clinical application of contemporary therapeutic modalities (electrotherapeutic modalities, hydrotherapeutic modalities, cryotherapy, radiant energy, paraffin, intermittent compression units, traction units, massage) including patient preparation, set-up, dosage determination and operational procedures.  Lab two hours. ",
+      "course name": "Therapeutic Modalities Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_KINS 154C",
+      "prerequisite": [
+        "BIO 22",
+        "BIO 26",
+        "KINS 154A",
+        "KINS 156"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Analyzes and performance of evaluation procedures of the upper extremity, head and spine.  Includes the development of skills in a patient interviewing, palpation methods, manual muscle testing, neurological and orthopedic assessments and special tests. ",
+      "course name": "Clinical Evaluation of the Upper Extremity",
+      "units": "2 Units",
+      "id": "CSUS_KINS 155A",
+      "prerequisite": [
+        "BIO 22",
+        "BIO 26",
+        "KINS 154A",
+        "KINS 156"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Analyzes and performance of evaluation procedures of the lower extremity, trunk and low back. Includes the development of skills in patient interviewing, palpation methods, manual muscle testing, neurological and orthopedic assessments and special tests. ",
+      "course name": "Clinical Evaluation of the Lower Extremity",
+      "units": "2 Units",
+      "id": "CSUS_KINS 155B",
+      "prerequisite": [
+        "BIO 22",
+        "BIO 26",
+        "KINS 154A",
+        "KINS 156"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Application and methods of caring for and preventing athletic injuries through strapping, padding, conditioning, etc.; practical application of first aid and a basic introduction to treatment and rehabilitation of common athletic injuries.",
+      "id": "CSUS_KINS 156",
+      "course name": "Care Of Athletic Injuries"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "Underlying principles and applied techniques of first aid. Meets the requirements for the Emergency Response and CPR for the Professional Rescuer certificates of the American Red Cross.  Lecture one hour, laboratory two hours.",
+      "id": "CSUS_KINS 156A",
+      "course name": "Emergency Response"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Biomechanical principles in the prescription of musculoskeletal rehabilitation exercises. Topics include passive, active and resistive range of motion, manual muscle testing, and exercises for strength, stamina and suppleness for every part of the body. ",
+      "course name": "Therapeutic Exercise",
+      "units": "3 Units",
+      "id": "CSUS_KINS 157",
+      "prerequisite": [
+        "BIO 22",
+        "BIO 26",
+        "KINS 151",
+        "KINS 151D",
+        "KINS 155A",
+        "KINS 155B"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of the motor and cognitive characteristics of individuals involved in learning and controlling motion skills and the conditions that can influence that learning and control. Lecture two hours; laboratory three hours. ",
+      "course name": "Motor Learning",
+      "units": "3 Units",
+      "id": "CSUS_KINS 158",
+      "prerequisite": [
+        "BIO 22",
+        "BIO 25"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Application of research findings as they apply to psychological performance factors in sport, physical education and exercise settings, such as motivation/adherence, stress management, personality and psychological skills training.",
+      "id": "CSUS_KINS 160",
+      "course name": "Sport and Exercise Psychology"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "This course is designed to introduce students to the basic theory underlying the multiple components of the sport and fitness industry. Fundamental concepts and theories of sports and fitness management will be applied to various segments of the sports industry: professional sports, collegiate sports, community sports and recreation, intramural sports and corporate fitness.",
+      "id": "CSUS_KINS 161",
+      "course name": "Theory of Sport and Fitness Management"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Students will be introduced to coaching theory as it relates to developing leadership skills to work with athletes, and teams in the context of organized sport. Topics will include motivation, self-esteem, leadership, communication, competition and cooperation, team management, and optimal performance skills (goal setting, concentration, composure, recovery from mistakes/loss, consistency, and stress management).",
+      "id": "CSUS_KINS 165",
+      "course name": "Theory of Coaching"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall only",
+      "description": "This course educates future coaches on the moral and ethical dilemmas typically encountered in competitive athletics. Students will also develop strategies to address various forms of exclusion and inequity in sports and athletics.",
+      "id": "CSUS_KINS 166",
+      "course name": "Ethics, Inclusion and Equity in Coaching"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examination of the experiences of the African American athlete in sport and society, from the period of enslavement to the contemporary era. Topics include gender experiences, intercollegiate experiences, professional sport, and the Olympic games, as well as the interconnections between African American communities and the role of sport. The experiences of African Americans will be compared to those of other ethnic and cultural groups.",
+      "id": "CSUS_KINS 167",
+      "course name": "The African American Sport Experience"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "This course uses sport films to examine relationships of power in society and the way those relationships are contested and often reinforced. Particular attention will be paid to cultural tensions and negotiations around issues related to race, gender, class, and sexuality. This course utilizes films, with accompanying readings, to understand the institution of sport in American culture, as well to understand how sport is setting where issues of race, class, gender, religion, ability/disability, and sexuality are contested and reinforced.",
+      "id": "CSUS_KINS 168",
+      "course name": "Sport and Film"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "A study of the historical development of the modern Olympic Games. Areas covered include politics, nationalism, commercialism, marketing and amateurism. The contribution of athletes and administrators who have help shape the Olympic tradition will be assessed.",
+      "id": "CSUS_KINS 169",
+      "course name": "The Modern Olympic Games"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Development of competencies for planning, developing, and evaluating effective skill and fitness activities for students with disabilities.  Emphasis will be placed on basic skill development, fitness and traditional and alternative assessment strategies and postures assessment and programming for students with disabilities.  Information regarding the application of specific standardized assessment instruments for placement decisions will be examined.  Students will be required to participate in 15 hours of service learning.  Class meets for 2 hours lecture and 2 hours activity. ",
+      "course name": "Adapted Physical Education: Basic Skill/Fitness Activities and Assessment",
+      "units": "3 Units",
+      "id": "CSUS_KINS 171",
+      "prerequisite": [
+        "KINS 177"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examination of activities and theoretical concepts that relate to the physical, social, emotional and intellectual development of the individual. Content includes: health-related physical fitness, movement concepts, stability, locomotor and manipulative skills, rhythms and dance, gymnastics, games and sport activities. ",
+      "id": "CSUS_KINS 172",
+      "course name": "Movement Education"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the genetic, prenatal, perinatal and postnatal factors affecting the sequential perceptual motor development of children. Inquiry is made into reflexes, sensory motor testing and stimulation, perceptual motor testing and remedial activities in motor development.",
+      "id": "CSUS_KINS 176",
+      "course name": "Perceptual Motor Development"
+    },
+    {
+      "units": "3 Units",
+      "term": "Spring only",
+      "description": "Historical and philosophical bases for adapted physical education, including the development and management of programs with emphasis on the psychomotor, affective and cognitive domains. The impact of federal and state legislation, legal liability and special health and safety problems will be studied in relationship to the role of the adapted physical education teacher, the interdisciplinary team, the parent and the pupil.",
+      "id": "CSUS_KINS 177",
+      "course name": "Introduction to Adapted Physical Education"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of the variables in physical education curriculum and program planning - assessment, goals and objectives, development of program content, and evaluation - as related to individuals with disabilities. ",
+      "course name": "Adapted Physical Education: Program Planning",
+      "units": "3 Units",
+      "id": "CSUS_KINS 179",
+      "prerequisite": [
+        "KINS 171",
+        "KINS 177"
+      ]
+    },
+    {
+      "units": "1 - 2 Units",
+      "term": " Registration requires prior approval of the department coordinator. May be repeated for a total of five units. ",
+      "description": "Assigned experience in the conduct of physical education. Students keep records of daily experiences and prepare periodic progress reports. Students receive one unit of credit for three hours per week for one semester of field experience. ",
+      "id": "CSUS_KINS 194A",
+      "course name": "Assigned Field Experience in Kinesiology"
+    },
+    {
+      "term": " May be repeated for a total of 3 units.  ",
+      "description": "Assigned internship other than in the Human Performance Lab. The student will assist in laboratory experiments and other special procedures; will learn the operation of equipment and sequentially will be expected to administer tests and interpret the results. Interns will be expected to attend monthly conferences. ",
+      "course name": "Assigned Internship in Exercise Science",
+      "units": "1 - 3 Units",
+      "id": "CSUS_KINS 194B",
+      "prerequisite": [
+        "KINS 151",
+        "KINS 152"
+      ]
+    },
+    {
+      "units": "1 - 2 Units",
+      "term": " May be repeated up to a total of 6 units. Open to Physical Education majors in the pre-physical therapy option. ",
+      "description": "Assigned experience under the direction of a physical therapist. Students keep records of their experiences. Registration requires prior approval of the pre-physical therapy coordinator. ",
+      "id": "CSUS_KINS 194C",
+      "course name": "Assigned Field Experiences in Pre-Physical Therapy"
+    },
+    {
+      "units": "1 - 2 Units",
+      "term": " May be repeated for a total of 6 units. ",
+      "description": "Assigned experience in coaching (two hours daily for the full schedule of the sport for two units of credit). Students keep records of daily experiences and prepare periodic progress reports. Succeeding enrollments should be in different sports. ",
+      "id": "CSUS_KINS 194D",
+      "course name": "Assigned Field Experience in Coaching"
+    },
+    {
+      "term": " May be repeated up to six times for credit for a maximum of 6 units.   ",
+      "description": "Assigned experience in the conduct of Adapted Physical Education Programs. Students will keep records of their experiences. Three clock hours per week per unit of credit. Credential candidates may not use in lieu of Phase III requirements. ",
+      "course name": "Assigned Internship in Adapted Physical Education",
+      "units": "1 - 3 Units",
+      "id": "CSUS_KINS 194E",
+      "prerequisite": [
+        "KINS 171",
+        "KINS 176",
+        "KINS 177",
+        "KINS 179"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " May be repeated up to a total of 6 units. ",
+      "description": "Practical experience in Occupational Therapy, Chiropractic or other allied health professions. Students keep records of their experiences while working under the direct supervision of a licensed clinician. Registration requires prior approval of a Pre-Physical Therapy advisor. ",
+      "id": "CSUS_KINS 194F",
+      "course name": "Assigned Field Experience in Allied Health"
+    },
+    {
+      "units": "1 - 2 Units",
+      "term": " May be repeated for a total of 3 units toward graduation. These units may not be applied to the major. ",
+      "description": "Assigned professional experience in organization and evaluation of physical education, athletic training, exercise or pre-therapy. Students work closely with a Sacramento State faculty member and receive one unit of credit for three hours of work per week for one semester. ",
+      "id": "CSUS_KINS 194G",
+      "course name": "Assigned Professional Experience"
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Registration requires prior approval of the program director.  May be repeated up to a total of 3 units.  ",
+      "description": "Practical experience in athletic training under the direct supervision of an NATA Certified Athletic Trainer in one of the following settings:  professional athletics, high school, clinic, industrial or private business. ",
+      "id": "CSUS_KINS 194H",
+      "course name": "Assigned Field Experience in Athletic Training"
+    },
+    {
+      "units": "1 - 2 Units",
+      "term": " Registration requires prior approval of the department coordinator. May be repeated for a total of 5 units. ",
+      "description": "Directed experience in the conduct of physical education. Students keep records of daily experiences and prepare periodic progress reports. Students receive one unit of credit three hours per week for one semester of field experience. ",
+      "id": "CSUS_KINS 195A",
+      "course name": "Directed Field Experience in Kinesiology"
+    },
+    {
+      "term": " May be repeated for a total of 3 units.  ",
+      "description": "Directed internship in the Human Performance Laboratory under the supervision of one or more members of the faculty. The student will assist in laboratory experiments and other special procedures; will learn the operation of equipment and sequentially will be expected to administer tests and interpret the results. Interns will be expected to attend monthly conferences. ",
+      "course name": "Directed Internship in Exercise Science",
+      "units": "1 - 3 Units",
+      "id": "CSUS_KINS 195B",
+      "prerequisite": [
+        "KINS 151",
+        "KINS 152"
+      ]
+    },
+    {
+      "units": "1 - 2 Units",
+      "term": " May be repeated for up to 4 units total credit.  ",
+      "description": "Planned student observation of the health care practices of the Athletic Trainer and other sports medicine personnel in a clinical setting. Selected NATA competencies may be completed on site. 60 hours per unit. . ",
+      "id": "CSUS_KINS 195C",
+      "course name": "Directed Observation in Athletic Training"
+    },
+    {
+      "units": "4 Units",
+      "term": " Can be taken a minimum of four times and maximum of five times for credit, with the total units not to exceed 20 units.  ",
+      "description": "Supervised athletic training experience in the athletic training room under the direct supervision of a Certified Athletic Trainer. Included are a series of guest lecturers from the medical and paramedical field presenting lectures and demonstrations on topics in sports medicine. 300 hours plus all lectures are 4 units. ",
+      "id": "CSUS_KINS 195D",
+      "course name": "Practicum in Athletic Training"
+    },
+    {
+      "units": "2 - 3 Units",
+      "term": " May be repeated for credit up to three times for credit. ",
+      "description": "Guided study and discussion of problems and topics in kinesiology. Supplemental readings, reports, and term projects are included. Proseminars dealing with specific topics or problems will be scheduled when the need exists. ",
+      "id": "CSUS_KINS 196",
+      "course name": "Experimental Offerings in Kinesiology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Open to physical education single subject credential candidates this course accompanies an eight-week elementary student teaching experience. The focus is twofold: a) engage student teachers in the planning, instruction and assessment of an elementary physical education program aligned with state standards b) support student teachers with the Performance Assessment for California Teachers (PACT). Candidates will be expected to create a class environment that ensures the safe and productive participation in developmentally appropriate elementary physical education. ",
+      "course name": "Seminar in Physical Education - Elementary",
+      "units": "2 Units",
+      "id": "CSUS_KINS 198A",
+      "prerequisite": [
+        "KINS 381",
+        "KINS 380"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Open to physical education single subject credential candidates this eight-week course accompanies an eight-week secondary student teaching experience. The focus is twofold: a) engage student teachers in the planning, instruction and assessment of a secondary physical education program aligned with state standards b) support student teachers with the Performance Assessment for California Teachers (PACT). Candidates will be expected to create a class environment that ensures the safe and productive participation in developmentally appropriate secondary physical education. ",
+      "course name": "Seminar in Physical Education - Secondary",
+      "units": "1 Unit",
+      "id": "CSUS_KINS 198B",
+      "prerequisite": [
+        "KINS 198A"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " May be repeated for credit. ",
+      "description": "Individual research, project or directed reading. Open only to majors who appear competent to carry on individual work. Approval of the faculty under whom the individual work is to be conducted, and approval of the Department Chair required.  Formal written report required. ",
+      "id": "CSUS_KINS 199",
+      "course name": "Directed Individual Study"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Survey of current research in training regimen of conditioning programs designed to optimize physical conditioning in preparation for specific athletic competitions.",
+      "id": "CSUS_KINS 203",
+      "course name": "Specificity of Conditioning"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "An overview of the varied subdisciplines, such as sport pedagogy, motor learning, strength and conditioning, sport psychology, cultural studies of sport, exercise physiology, and biomechanics. Students will read research from each subdiscipline and be able to make interdisciplinary connections.",
+      "id": "CSUS_KINS 209",
+      "course name": "Graduate Studies in Kinesiology"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Various methods and techniques of educational research as they are commonly applied in the field of Kinesiology; study of examples of their use in published research; practice in applying them to problems of interest to the student; analyzing data and writing research reports.",
+      "id": "CSUS_KINS 210",
+      "course name": "Research Methods in Kinesiology"
+    },
+    {
+      "term": " Student must re-enroll if proposal is not completed and accepted during the first registration ",
+      "description": " concurrently. ",
+      "course name": "Research Seminar",
+      "units": "1 Unit",
+      "id": "CSUS_KINS 211",
+      "prerequisite": [
+        "KINS 500",
+        "KINS 211"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Society and the institution of sport interact in a variety of ways. Students are given the opportunity to investigate and discuss in-depth a wide range of topics linking sport and society. Among these topics are violence and aggression, politics, racism, sexism, counter-cultures, mass media and the future of sport. The application of research to the real world is an integral part of the course.",
+      "id": "CSUS_KINS 236",
+      "course name": "Sport and Society"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The organization and administration of physical education and athletic programs and the functional considerations involved. Primary areas include: personnel, curriculum, budgeting, contract management, public relations, liability and safety, critical issues, and procedures essential to quality programs.",
+      "id": "CSUS_KINS 245",
+      "course name": "Administration of Physical Education and Athletics"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Describes, explains, and practices the application of selected measurement techniques in the laboratory as they relate to pertinent research in the areas of exercise physiology. Emphasis will be placed on the use and calibration of equipment as well as adaptation of equipment to different research settings. Lecture two hours; laboratory three hours. ",
+      "course name": "Advanced Exercise Physiology Laboratory",
+      "units": "3 Units",
+      "id": "CSUS_KINS 250",
+      "prerequisite": [
+        "KINS 152"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Human physiological responses, from the cellular level to organ system level, to both acute and chronic exercise will be studied in detail with an emphasis on integrative physiological responses to exercise. The course will emphasize a complex regulatory systems approach to the changes and adaptations that occur with exercise. Specifically, how the regulatory systems dictate these changes. The course will aid in the understanding of both theoretical and integrative concepts in the area of exercise physiology. The course will provide a solid foundation that is needed to review and understand complex research in exercise physiology. ",
+      "course name": "Advanced Exercise Physiology",
+      "units": "3 Units",
+      "id": "CSUS_KINS 252",
+      "prerequisite": [
+        "BIO 131",
+        "KINS 152",
+        "KINS 153"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study human movement from a mechanical perspective utilizing laws of physics and relevant functional anatomical principles. Human movement will be looked at from a broad perspective, including basic movements to more complex skills. Students will use a variety of techniques to study the biomechanical principles of movement production including laboratory work, library research and examination of the appropriate theoretical constructs. Lecture two hours; laboratory three hours. ",
+      "course name": "Advanced Biomechanics",
+      "units": "3 Units",
+      "id": "CSUS_KINS 254",
+      "prerequisite": [
+        "KINS 151",
+        "KINS 210"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Designed to provide students with a solid foundation experience in motor learning; focus is on an intensive examination of a selected topic in motor learning; directed individual pilot study and the nature of original laboratory research. ",
+      "course name": "Research in Motor Learning",
+      "units": "3 Units",
+      "id": "CSUS_KINS 258",
+      "prerequisite": [
+        "KINS 158",
+        "KINS 210"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Provides students with a solid foundation experience in human performance research. Primary focus is on intensive examination of selected advanced topics in exercise physiology. ",
+      "course name": "Research in Exercise Physiology",
+      "units": "3 Units",
+      "id": "CSUS_KINS 259",
+      "prerequisite": [
+        "KINS 152",
+        "KINS 210"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "The in-depth study of parameters of human behavior as specifically related to sport  including personality factors, motivational techniques, expectancy effects, group dynamics, leadership issues, aggression, arousal, concentration, and goal setting.",
+      "id": "CSUS_KINS 260",
+      "course name": "Psychology Of Sport"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "In-depth examination of current research relating to theories of and techniques for performance enhancement in sport and dance through psychological skills strategies.",
+      "id": "CSUS_KINS 262",
+      "course name": "Psychological Aspects of Peak Performance"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of theoretical concepts, models and research that relates to organizational and instructional strategies for physical activity and sport. Along with developing problem solving and critical thinking skills, provides the student with the opportunity to partake in self-directed and cooperative learning experiences, and develops communications skills that will enhance staff development and teaching of individuals and groups in a variety of physical activity and sport environments.",
+      "id": "CSUS_KINS 270",
+      "course name": "Instructional Strategies for Physical Activity and Sport"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the research methodology, systematic observation, and findings that relate to effective teaching and coaching in the school environment. Provides an analytical approach to the investigation of teaching and coaching behaviors by examining models and critical variables involved in describing, analyzing and interpreting the instructional process.",
+      "id": "CSUS_KINS 276",
+      "course name": "Teaching and Coaching Effectiveness"
+    },
+    {
+      "term": " May be taken more than once for credit, provided topic is not repeated.  ",
+      "description": "Advanced research seminars on topics of contemporary interest.  Specific topics will vary. ",
+      "course name": "Contemporary Topics in Sport Performance",
+      "units": "1 - 3 Units",
+      "id": "CSUS_KINS 294A",
+      "prerequisite": [
+        "KINS 210"
+      ]
+    },
+    {
+      "term": " May be taken more than once for credit, provided topic is not repeated.  ",
+      "description": "Advanced research seminars on topics of contemporary interest.  Specific topics will vary. ",
+      "course name": "Contemporary Topics in Exercise Physiology",
+      "units": "1 - 3 Units",
+      "id": "CSUS_KINS 294B",
+      "prerequisite": [
+        "KINS 210"
+      ]
+    },
+    {
+      "term": " May be taken more than once for credit, provided topic is not repeated.  ",
+      "description": "Advanced research seminars on varied topics of contemporary interest. ",
+      "course name": "Special Topics in Biomechanics",
+      "units": "1 - 3 Units",
+      "id": "CSUS_KINS 294C",
+      "prerequisite": [
+        "KINS 254"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to graduate students within the Physical Education Department.  ",
+      "description": "Graduate experiences in a practical setting. ",
+      "id": "CSUS_KINS 295",
+      "course name": "Practicum"
+    },
+    {
+      "term": ". ",
+      "description": "Overview of the total elementary physical education curriculum.  Major focus will be on appropriate practices, national content standards, establishing a learning environment, movement concepts, skill themes, and health-related physical fitness.  Designed to meet the physical education component for graduate students seeking a multiple subject credential. ",
+      "course name": "Experimental Elementary Physical Education Workshop",
+      "units": "1 Unit",
+      "id": "CSUS_KINS 296A",
+      "prerequisite": [
+        "KINS 172"
+      ]
+    },
+    {
+      "units": "1 - 3 Units",
+      "term": " Open only to majors who appear competent to carry on individual work. Admission to this course requires approval of the graduate advisor and the graduate coordinator. Formal written report required. May be repeated for credit. ",
+      "description": "Individual research, project, or directed reading. ",
+      "id": "CSUS_KINS 299",
+      "course name": "Directed Individual Study"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": " is an 8 week course designed for the future physical educator who wishes to deliver an effective, meaningful elementary physical education curriculum to a diverse population of students.  Emphasis is on physical education pedagogy - the skills and techniques that successful teachers use to ensure student learning. ",
+      "course name": "Methods of Teaching Elementary Physical Education",
+      "units": "1.5 Units",
+      "id": "CSUS_KINS 380",
+      "prerequisite": [
+        "KINS 130",
+        "KINS 198A",
+        "KINS 380"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": " is designed for the future physical educator who wishes to deliver an effective meaningful physical education curriculum to a diverse population of students. Emphasis is on physical education pedagogy - the skills and techniques that successful teachers use to ensure student learning. ",
+      "course name": "Methods of Teaching Secondary Physical Education",
+      "units": "1.5 Units",
+      "id": "CSUS_KINS 381",
+      "prerequisite": [
+        "KINS 381"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Completion of a thesis or project under the direction of a department committee. ",
+      "course name": "Culminating Experience",
+      "units": "1 - 4 Units",
+      "id": "CSUS_KINS 500",
+      "prerequisite": [
+        "KINS 211"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "KINS",
+    "subject": "Kinesiology"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Kinesiology",
+    "id": "CSUS"
+  }
+}

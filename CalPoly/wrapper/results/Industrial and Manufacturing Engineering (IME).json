@@ -1,0 +1,473 @@
+{
+  "subject": "Industrial and Manufacturing Engineering (IME)",
+  "courses": [
+    {
+      "Course number & title": " Introduction to Industrial and Manufacturing Engineering",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Introduction of major topics in industrial and manufacturing engineering. Time management, study skills and class scheduling necessary for academic success. University services. Professional ethics. Career opportunities review. 1 laboratory."
+    },
+    {
+      "Course number & title": " Technical Foundations",
+      "Number of units": "2 units",
+      "Term": "CR/NC",
+      "Course description": "Introduction to visualization, sketching, and drafting. Basic hand-tools, shop practices, and materials. Clearances and fits, threads and fasteners. Safety. Open to all majors. Credit/No Credit grading only. 1 lecture, 1 laboratory."
+    },
+    {
+      "Course number & title": " Graphics Communication and Modeling",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Introduction to computer-aided drafting and modeling of solid objects. Visualization and sketching for engineers. Communication of design information to manufacturing using pictorials, orthographic projection, section views, and auxiliary views. Manufacturing tolerances. 1 lecture, 1 laboratory."
+    },
+    {
+      "Course number & title": " Manufacturing Processes: Net Shape",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Metal casting as a net shape process in manufacturing. Properties of molding materials and methods of casting. Introduction to rapid prototyping. Pattern and casting design principles. 1 laboratory."
+    },
+    {
+      "Course number & title": " Manufacturing Processes: Materials Joining",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Theory and application of metal cutting and welding processes. Includes shielded metal arc, flux cored arc, submerged arc, gas metal arc, gas tungsten arc, brazing, resistance, and oxy-acetylene processes. Bonding theory, joint design, codes and testing. Introduction to adhesive bonding. Open to all majors. 1 lecture, 1 laboratory."
+    },
+    {
+      "Course number & title": " Manufacturing Processes: Material Removal",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Uses, capabilities, and theoretical and operational characteristics of lathe and milling machine tools, including conventional, automatic and numerical control. Cutting tool characteristics, machining parameters, quality control, and production methods. Design considerations for manufacturing. Introduction to robotics and automation. Open to all majors. 1 lecture, 1 laboratory."
+    },
+    {
+      "Course number & title": " Introduction to Design and Manufacturing",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Supplemental review of visualization, sketching, and drafting fundamentals.  Computer-aided solid modeling of parts and assemblies.  Introduction to conventional machining processes on lathes and mills, computer numerical control, quality control, production methods, and design for manufacturing.  Open to all majors.  2 lectures, 2 laboratories."
+    },
+    {
+      "Course number & title": " Basic Electronics Manufacturing",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Practical electronics manufacturing knowledge expanded through concepts such as CAD/CAM design, Design for Manufacture (DFM), documentation requirements, prototyping and production planning. Hands-on techniques learned for project planning, soldering, automation, hand tool usage and production methods. 1 lecture, 1 laboratory."
+    },
+    {
+      "Course number & title": " Electronics Manufacturing",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Printed circuit board assembly; printed circuit board fabrication process; electronics packaging; overview of semiconductor manufacturing; design, documentation and fabrication of electronic units with emphasis on CAD/CAM. Open to all majors. 2 lectures, 2 laboratories."
+    },
+    {
+      "Course number & title": " Special Problems for Undergraduates",
+      "Number of units": "1-2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter."
+    },
+    {
+      "Course number & title": " Process Improvement Fundamentals",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Principles of work simplification and motion analysis.  Recording of work flow and methods.  Process improvement through work measurement and standards, time study, synthetic data, predetermined time systems and work sampling.  Allowances and performance rating, productivity measures.  Introduction to lean manufacturing principles.  Client based project.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Industrial Costs and Controls",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Estimation of manufacturing costs for production planning, cost analysis, and cost control.  Planning, budgeting, and control processes.  Costs, accounting data and analysis of variances for managerial control, inventory valuation, and decision making.  Techniques of pricing, cost estimating and cost reduction, and activity-based costing.  3 lectures."
+    },
+    {
+      "Course number & title": " Additional Engineering Laboratory",
+      "Number of units": "1-2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Total credit limited to 4 units, with a maximum of 2 units per quarter. 1 or 2 laboratories."
+    },
+    {
+      "Course number & title": " Selected Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures."
+    },
+    {
+      "Course number & title": " Operations Research I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Systems modeling methodology, mathematical model formulations, linear programming, graphical and simplex methods.  Sensitivity analysis.  Integer and binary programming.  Transportation, transshipment, assignment, and other network optimization models.  Computer applications.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Project Organization and Management",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Design and implementation of a major industrial/business systems project.  Project planning considerations.  Motivational and influence techniques used in project management.  Scheduling techniques with risk assessment.  Resource leveling and management under constraints.  Reducing project duration.  Monitoring progress with earned value analysis.  Project audit and closure.  Planning and implementation of a project.  Application of project management software.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Operations Research II",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Stochastic decision analysis.  Utility models.  Multi-criteria decision making models:  Goal Programming and Analytic Hierarchy Process.  Decision Biases.  Markov processes and introduction to queuing models.  Inventory models and analysis.  Computer aided modeling and case studies.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Data Management and System Design",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Design and management of industrial databases and reporting systems.  Relationships of financial accounting databases and production systems.  Efficient data entry and reports, queries, macro function, and Internet based database applications.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Engineering Economics",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Economic analysis of engineering decisions.  Determining rates of return on investments.  Effects of inflation, depreciation and income taxes.  Sensitivity, uncertainty, and risk analysis.  Application of basic principles and tools of analysis using case studies.  3 lectures."
+    },
+    {
+      "Course number & title": " Human Factors Engineering",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Analysis of factors influencing the efficiency of human work.  Data on the physical and mental capacities of persons, the physical environment, work organization, and the problem of aging.  Design of machines, operations, human computer interface and work environment to match human capacities and limitations, including the handicapped.  Multidisciplinary team project.  3 lectures."
+    },
+    {
+      "Course number & title": " Human Factors and Technology",
+      "Number of units": "4 units",
+      "Term": "GE Area F",
+      "Course description": "Analysis of cognitive, sensory and physical limitations and capabilities of operators and users of technology, both hardware and software, in working and living environments.  Analysis of pertinent databases for a proactive approach to designing user-centered industrial products /systems, consumer products, and work environment.  4 lectures.  Fulfills GE Area F."
+    },
+    {
+      "Course number & title": " Leadership and Project Management",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Theory and practice in leadership and project management skills for engineering design teams.  Basic issues related to, and tools used for, managing projects and concepts comprising project management.  Emphasis on situations requiring resolutions and management decisions by groups representing various elements of an enterprise.  2 lectures.  Crosslisted as HNRS/IME322."
+    },
+    {
+      "Course number & title": " Engineering Test Design and Analysis",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Data gathering and statistical testing applied to industrial engineering and manufacturing fields.  Experimental methods for product and process evaluation and comparisons; interpretation of engineering data.  Engineering experimental design, linear and nonlinear regression, ANOVA, and multifactor ANOVA.  Utilization of existing computer software.  4 lectures."
+    },
+    {
+      "Course number & title": " Test Design and Analysis in Manufacturing Engineering",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Sampling and descriptive statistics.  Central limit theorem.  Hypothesis testing for means and variances.  Analysis of variance (ANOVA) and factorial design.  Applications in engineering design, reliability manufacturing, and inspection.  Design projects.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Fundamentals of Manufacturing Engineering",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W",
+      "Course description": "Engineering analysis of manufacturing processes for casting, molding, forming, joining, and machining.  Design for manufacturability and estimation of production costs.  Process design strategies.  Setup and operation of processing equipment; inspection methods.  Field trip to manufacturing center.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Computer-Aided Manufacturing I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Use of the computer to communicate design information to manufacturing.  Computer Numerical Control (CNC) programming.  Use of CAD/CAM software.  Overview of manufacturing systems in an automated environment, including cellular manufacturing and computer-aided process planning.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Computer-Aided Manufacturing II",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Advanced Computer Numerical Control (CNC) programming and machine tool control.  Machining center operation.  Parametric representation of curves and surfaces.  Computation of tool paths.  Product and process design for CNC machining.  CNC machine tool dynamics.  Introduction to flexible manufacturing systems and robotics.  Design and fabrication projects.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Manufacturing Systems Integration",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Analysis and design tools for production planning, control, and simulation of manufacturing systems.  Use of systems modeling software.  Overview of ergonomics and facilities design.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Advanced Material Removal Process Design",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Advanced turning and milling processes; grinding and non-traditional processes.  Thread and gear manufacturing, producibility, machinability, part and tool materials, cutting fluids, and tool life testing.  Finishes and measurement of surface roughness.  Process design projects.  3 lectures,1 laboratory."
+    },
+    {
+      "Course number & title": " Manufacturing Automation",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W, SP",
+      "Course description": "Computers in the factory automation environment.  Basic control theory including feedback.  Programming and use of programmable logic controllers (PLC), human-machine interface (HMI), and industrial control systems.  Interfacing of electro-mechanical systems; analog and digital inputs, output; programmable controllers.  Computer process control.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Special Problems for Advanced Undergraduates",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limit to 4 units."
+    },
+    {
+      "Course number & title": " Sales Engineering",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F, SP",
+      "Course description": "Concepts and principles of engineering in sales.  Role of the professional engineer in the analysis, design, development, production, and final application of a product or system required by the buyer.  2 seminars."
+    },
+    {
+      "Course number & title": " Systems Engineering",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Systems, subsystems, static, dynamic, closed and open systems.  Systems design requirements.  Performance measures.  Process control modeling and analysis, transform methods, linear systems analysis, digital, adaptive and steady state optimal control.  Optimal search strategies.  Manufacturing, maintenance, replacement and engineering applications.  3 lectures."
+    },
+    {
+      "Course number & title": " Economic Decision Systems",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Economic evaluation of information for complex decisions.  Analysis of risks and uncertainties.  Bayes theory and models.  Decision theory, sequential decisions, and value of information applied to financial evaluation and control.  Major project justification procedures.  3 lectures."
+    },
+    {
+      "Course number & title": " Production Planning and Control Systems",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Building blocks of manufacturing resource planning (MRP II).  Demand forecasting, production planning, master scheduling development.  BOM and inventory files.  MRP computations and operational challenges.  Capacity analysis and production control in push and pull systems.  Enterprise Resource Planning (ERP).  Principles of JIT and lean manufacturing.  Not open to students with credit in IME580.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Automation of Industrial Systems",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Automation in manufacturing and warehousing.  Economic selection of automation systems.  Projects in automation.  2 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Supply Chain and Logistics Management",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Overview of key logistics and supply chain management concepts.  Models and solution methods for the design, control, operation, and management of supply chains.  Techniques that are used to analyze supply chains.  Team projects in partnership with industry sponsors.  4 lectures."
+    },
+    {
+      "Course number & title": " Product-Process Design",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Innovative new product design and creative development process.  Design for manufacturability.  Study of constraints for prototyping, designing, testing, processing, quality, and customer satisfaction.  Life-cycle analysis.  Examination of relevant environmental and ethical issues.  Design projects using real world problems.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Simulation",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Queueing systems.  Design and analysis of production and service systems using the simulation technique.  System modeling.  Random number and function generators, programming, and characteristics of simulation languages.  Design projects using real world problems.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Manufacturing Organizations",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Theory and principles for manufacturing organizations.  Competitive advantage.  Strategic planning and operations management for organizations and teams in a rapidly changing environment.  Engineering management concepts and practices.  Team-based projects and cases.  3 seminars."
+    },
+    {
+      "Course number & title": " Industrial Engineering in Healthcare",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Industrial engineering applications in healthcare industry.  Background on healthcare reform.  Simulation, operations research, supply chain, facility engineering, process improvement case studies.  Emerging topics in industrial engineers in healthcare, change management, patient flow, Lean Six Sigma, nursing, patient safety, and decision-making.  4 lectures."
+    },
+    {
+      "Course number & title": " Engineering Metrology",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Measurement of attributes and variables; standards, accuracy and precision; mechanical, electronic and optical/laser measurement systems.  Contact and non-contact measurement; straightness, flatness and squareness; GDT (Geometric Dimensioning and Tolerancing); CMM (Coordinate Measurement Machines); surface roughness; metrology for electronic products.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Ergonomics Laboratory",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Investigation of various physiological, sensory, and cognitive capabilities and limitations of people in work and living environments through laboratory data collection, design of experiments and statistical analysis.  1 laboratory."
+    },
+    {
+      "Course number & title": " Quality Engineering",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Quality history and philosophies.  Cost of quality.  Quality control tools.  Statistical control charts for variables and attributes.  Process capability.  Measurement system analysis.  Acceptance sampling.  Reliability and life testing methods.  Quality improvement tools:  Quality Function Deployment, Failure Modes and Effects Analysis, Six Sigma, quality standards and systems.  4 lectures."
+    },
+    {
+      "Course number & title": " Additive Manufacturing",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Engineering principles, materials, equipment, design for manufacturing, process flow, post processing, and applications of additive manufacturing processes, including:  photopolymerization, powder bed fusion, extrusion, direct energy deposition, printing, binder jetting, and sheet lamination.  Process selection, environment considerations, safety, and cost analysis for manufacturing.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Reliability for Design and Testing",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Reliability concepts and mathematical models, mechanical device reliability, electrical device reliability, systems reliability and maintainability, reliability data, assurance program elements.  Not open to students with credit in IME542.  Course may be offered in classroom-based or online format.  3 lectures."
+    },
+    {
+      "Course number & title": " Engineering Supervision I",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Theory and principles of supervision.  Application of fundamental concepts and techniques of supervision provided by assignment in engineering laboratories.  1 laboratory each."
+    },
+    {
+      "Course number & title": " Engineering Supervision II",
+      "Number of units": "1 unit",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Theory and principles of supervision.  Application of fundamental concepts and techniques of supervision provided by assignment in engineering laboratories.  1 laboratory each."
+    },
+    {
+      "Course number & title": " Facilities Planning and Design",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Design concepts and input requirements in planning and design of new or renovation of existing manufacturing systems.  Product, process, and flow and activity analysis techniques.  Flow lines and buffering techniques.  Computer-aided layout design and evaluation.  Design of handling systems.  Math models of location problems.  Multidisciplinary team project.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Manufacturing Process and Tool Engineering",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Engineering design of fixtures and tools for manufacturing processes.  Interpretation of engineering design specifications.  Analysis of cost, quality, productivity, and safety in tool design.  Mechanical analysis of tool design.  Detailed process design for net shape production and component design for manufacture.  Process and tool design projects.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Radio Frequency Identification System Design",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Radio frequency identification (RFID) and its role in asset and inventory management, facility access, payment transaction systems, and other applications.  Physics and types of RFID.  Economic analysis.  Multidisciplinary project teams design RFID systems for real-world applications.  2 lectures, 2 laboratories."
+    },
+    {
+      "Course number & title": " Advanced Electronic Manufacturing",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Design and fabrication of commercial electronic products; PCB layout design, bill of material analysis and component purchasing, production planning and scheduling, programming automated surface-mount assembly line, marketing of products.  Multidisciplinary project teams exposed to real-world challenges of electronics manufacturers.  2 lectures, 2 laboratories."
+    },
+    {
+      "Course number & title": " Microelectronics and Electronics Packaging",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Materials, processes, and reliability of microelectronics and electronics packaging, surface mount assembly and printed circuit board fabrication.  Organic substrates and ceramic substrates.  Mechanical design, thermal, and electrical considerations in electronic packaging.  Design for manufacturability.  Overview of optoelectronics packaging and other emerging technologies in microelectronics and electronic packaging.  Project on design and manufacture of an electronic device.  3 lectures, 1 laboratory.  Crosslisted as CPE488/IME458/MATE458."
+    },
+    {
+      "Course number & title": " Introduction to Value Chain Analysis",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Introduction to value chain concepts and their application to the analysis and improvement of business operations.  Application of lean principles to optimize the value chain.  3 lectures."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures."
+    },
+    {
+      "Course number & title": " Selected Advanced Laboratory",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1 to 4 laboratories."
+    },
+    {
+      "Course number & title": " Senior Design Project I",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Culminating design project typical of problems faced in professional practice.  Individual or group projects typically involve system design, modeling, analysis and testing.  Project method includes costs, planning, scheduling, appropriate research methodology and formal reports.  Professional ethics.  1 lecture, 1 laboratory."
+    },
+    {
+      "Course number & title": " Senior Design Project II",
+      "Number of units": "3 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Continuation of IME481.  Involves research methodology:  problem statement, method, results, analysis, synthesis, project design, construction (when feasible), and evaluation/conclusions.  Project results presented in thesis-like formal reports suitable for reference library and formal oral presentations.  Professional ethics.  1 lecture, 2 laboratories."
+    },
+    {
+      "Course number & title": " Cooperative Education Experience",
+      "Number of units": "4-12 units",
+      "Term": "CR/NC",
+      "Course description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units."
+    },
+    {
+      "Course number & title": " Individual Study",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: F, W, SP",
+      "Course description": "Advanced study planned and completed under the direction of a member of the department faculty.  Open only to students who have demonstrated ability to do independent work."
+    },
+    {
+      "Course number & title": " Applied Statistical Methods in Engineering",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Application of important statistical distributions in engineering and management.  Coverage of sampling distributions and their roles in design of experiments.  Applications of hypothesis testing, ANOVA, analysis of covariance, multiple and nonlinear regressions in industry and service systems.  Introduction to nonparametric analysis.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Graduate Seminar",
+      "Number of units": "2 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "Seminars in industrial engineering, integrated technology management, and engineering management by researchers and practitioners from academia and industry.  Preparation for conducting research.  Presentation of student research projects.  Overview of graduate education requirements.  Ethics issues in research.  1 seminar, 1 laboratory."
+    },
+    {
+      "Course number & title": " Systems Engineering I",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Project management.  Scheduling and budgeting.  Queuing theory.  Process control and life-cycle cost analysis.  Contracts and negotiation.  4 lectures.  Crosslisted as AERO/IME510."
+    },
+    {
+      "Course number & title": " Systems Engineering II",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Risk management.  Design strategies to meet system/mission requirements.  Design for supportability, manufacturability, reliability, etc.  Quality function development and quality control concepts.  4 lectures.  Crosslisted as AERO/IME511."
+    },
+    {
+      "Course number & title": " Advanced Information Systems for Operations",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Advanced information systems (IS) applications in manufacturing and service operations.  Introduction of common IS applications, such as manufacturing execution systems; reporting systems; capacity planning systems; scheduling systems; and customer inquiry systems.  Industry-specific analysis of IS requirements and availability.  4 seminars."
+    },
+    {
+      "Course number & title": " Design of Experiments",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Experimental design principles.  Comparative experiments for population parameters.  ANOVA and randomized block design.  Factorial designs, the 2^k factorial designs, and factorial designs with blocks.  Fractional factorial designs.  Response surface methodology.  Fitting regression models.  Design projects using real world problems.  Substantial use of statistical software.  3 lectures, 1 laboratory.  Formerly IME 427."
+    },
+    {
+      "Course number & title": " Advanced Operations Research",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Operations Research approach to model building.  Linear programming and sensitivity analysis.  Network flow models.  Integer programming, large scale linear programming.  Goal programming and multi-attribute decision making.  Dynamic programming.  Nonlinear programming and search methods.  Applications in model building and computer solutions in planning, resource allocation, scheduling, and other industrial and service operations.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Applied Reliability Engineering",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Reliability terminology and bathtub curve.  Failure distributions:  Exponential, Lognormal, and Weibull.  Probability plotting.  Reliability of systems.  Maintainability and availability.  Reliability in design; Load-strength analysis; Failure modes and effects analysis; Fault tree analysis.  Reliability testing; Reliability management.  Not open to students with credit in IME435.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Applied Human Factors",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Human factors/ergonomics analysis and evaluation of automation, mobile communication technology, and interface design for Internet websites.  Usability analysis of current hardware/software products with an emphasis on a user-centric design approach.  Team-based projects.  3 seminars, 1 laboratory."
+    },
+    {
+      "Course number & title": " Advanced Topics in Engineering Economy",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: W",
+      "Course description": "Review of interest calculations and comparison of economic alternatives.  Replacement analysis.  Capital planning and budgeting.  Mathematical programming and capital budgeting.  Utility theory.  Decision making under risk and uncertainty.  Application of simulation in risk modeling.  Benefit-cost analysis.  Multi-attribute decision making.  Analytic hierarchy process.  3 lectures, 1 activity."
+    },
+    {
+      "Course number & title": " Advanced Topics in Simulation",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Validation of simulation models.  Statistical techniques for variance reduction.  Experimental design and optimization.  Comparison of attributes of simulation languages.  Review of current manufacturing and service industry applications.  Case studies.  3 lectures, 1 laboratory."
+    },
+    {
+      "Course number & title": " Technological Project Management",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Projects in industrial organizations and enterprises.  Emerging technologies and project management.  Relationship to strategic plans and managing change in organizations.  Formulating, selecting, structuring, and planning projects.  Project organization and control.  Overcoming barriers.  Application of project management software.  3 seminars, 1 laboratory."
+    },
+    {
+      "Course number & title": " Selected Advanced Topics",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group study of selected topics for advanced students.  Open to graduate students and selected seniors.  Topic lists will be provided with class schedule outlines.  1-4 seminars."
+    },
+    {
+      "Course number & title": " Selected Advanced Laboratory",
+      "Number of units": "1-4 units",
+      "Term": "Term Typically Offered: TBD",
+      "Course description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories."
+    },
+    {
+      "Course number & title": " Engineering Entrepreneurship",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: F",
+      "Course description": "The special requirements of entrepreneurship in a high-tech environment.  Guest lectures, focused seminar topics, a business plan project, and case studies provide the tools to evaluate and pursue technology-based business opportunities.  4 lectures."
+    },
+    {
+      "Course number & title": " Manufacturing Systems",
+      "Number of units": "4 units",
+      "Term": "Term Typically Offered: SP",
+      "Course description": "Modern approaches in production and inventory planning and control to support large-scale manufacturing systems, material requirements planning (MRP I), manufacturing resource planning (MRP II), and just-in-time (JIT) manufacturing systems.  Enterprise resource planning (ERP) and integration with financials.  Information requirements, operational issues, and policy matters.  Not open if credit in IME410.  4 seminars."
+    },
+    {
+      "Course number & title": " Graduate Project/Internship",
+      "Number of units": "1-5 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Integrative learning experience through internship and project.  Focus on a significant industrial or research problem in an engineering field.  Project involves student(s), faculty, and sponsoring representative(s) in a collaborative learning environment, and culminates in a comprehensive written report.  Total credit limited to 5 units."
+    },
+    {
+      "Course number & title": " Thesis",
+      "Number of units": "1-9 units",
+      "Term": "Term Typically Offered: F,W,SP,SU",
+      "Course description": "Systematic study of a significant problem under faculty supervision.  Both a written thesis and an oral defense are required.  Total credit limited to 9 units."
+    }
+  ]
+}

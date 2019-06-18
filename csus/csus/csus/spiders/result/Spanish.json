@@ -1,0 +1,452 @@
+{
+  "courses": [
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Beginning Spanish language with primary emphasis on the development of audio-lingual skills. Attention will also be given to the interrelatedness of language and civilization and culture. Additional attention will be given to the development of reading and writing. Students will be expected to spend several hours per week in the language laboratory. Not recommended for students with any previous study of Spanish.", 
+      "id": "CSUS_SPAN 1A", 
+      "course name": "Elementary Spanish"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": " with a greater emphasis on the development of speaking, reading, writing, and listening skills. Cultural knowledge continues to be an important component: elements of Hispanic character, customs, and the way in which the Spanish and Latin American peoples view themselves and others in the world is studied. ", 
+      "course name": "Elementary Spanish", 
+      "units": "4 Units", 
+      "id": "CSUS_SPAN 1B", 
+      "prerequisite": [
+        "SPAN 1A", 
+        "SPAN 1A"
+      ]
+    }, 
+    {
+      "units": "6 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course emphasizes a rapid development of the four language skills--speaking, reading, writing, and listening--covered in the first two semesters of university Spanish. Cultural knowledge is also an important component of this course, and elements of Hispanic character, customs, and the way in which the Spanish and Latin American peoples view themselves and others in the world will be studied. Recommended for students who have had some previous study of Spanish, but need a quick review of the structures covered in the first two years of high school Spanish or the equivalent. ", 
+      "id": "CSUS_SPAN 1C", 
+      "course name": "Intensive Elementary Spanish"
+    }, 
+    {
+      "units": "4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Oral, auditory, and written practice based on more advanced dialogue material and on short stories, plays, and the like. Attention to the development of reading fluency and to the extension of both active and passive vocabulary. Meets the Foreign Language Graduation Proficiency Requirement. ", 
+      "id": "CSUS_SPAN 2A", 
+      "course name": "Intermediate Spanish"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": ". Meets the Foreign Language Graduation Proficiency Requirement. ", 
+      "course name": "Intermediate Spanish", 
+      "units": "4 Units", 
+      "id": "CSUS_SPAN 2B", 
+      "prerequisite": [
+        "SPAN 2A", 
+        "SPAN 2A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Designed to improve Spanish reading proficiency. Students will acquire the ability to understand various types of materials written in Spanish (e.g. news items, personal correspondence, technical material, short stories); follow essential points and ideas of special interest or knowledge. Students will demonstrate Spanish reading comprehension by their ability to translate and answer content questions in Spanish as well as English. ", 
+      "course name": "Spanish Reading Proficiency", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 7", 
+      "prerequisite": [
+        "SPAN 1A"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Conducted in Spanish, will further develop the audio-lingual skills that the students have acquired in their early Spanish language training. Emphasis will be placed on maintaining ideas and concepts in actual conversation situations, taken from topics of most interest to students. ", 
+      "course name": "Conversation In Spanish", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 42", 
+      "prerequisite": [
+        "SPAN 2B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Develops the necessary skills to write with clarity, precision, and style. It emphasizes the proper use of the accents and the correct use of grammar. ", 
+      "course name": "Introduction to Composition and Grammar Review", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 47", 
+      "prerequisite": [
+        "SPAN 2B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Introduction to literary theory and a practical application of the techniques of literary criticism. ", 
+      "course name": "Introduction to the Study of Hispanic Literature", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 100", 
+      "prerequisite": [
+        "SPAN 47"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of the sound system of Spanish with some attention to comparison with English and the physiology of sounds. Drills to develop good pronunciation. ", 
+      "course name": "Spanish Phonetics", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 102", 
+      "prerequisite": [
+        "SPAN 47"
+      ]
+    }, 
+    {
+      "term": " strongly recommended.  ", 
+      "description": "Study of the specific components of Spanish grammar with particular emphasis on the Spanish verbal system, the subjunctive, and other problematic aspects of grammar. Will be of particular interest to those planning to teach Spanish as well as to the Spanish-speaking students. ", 
+      "course name": "Advanced Spanish Grammar", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 103", 
+      "prerequisite": [
+        "SPAN 2B", 
+        "SPAN 47"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Increased practice in writing with emphasis on sentence and paragraph structure, and compositions to effectively convey meaning and ideas. Attention will be given to narrative, descriptive, expository prose, and dialogue, as well as to letters and other forms of written communication. ", 
+      "course name": "Advanced Spanish Composition", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 106", 
+      "prerequisite": [
+        "SPAN 103"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Advanced readings, lectures, and discussions dealing with a panoramic view of Spanish literature from early works through the Golden Age and up to the 1800s. ", 
+      "course name": "Survey of Spanish Literature", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 110", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "; deals with literature from the Neoclassic period to the contemporary. Readings taken from works and genres of this period. ", 
+      "course name": "Survey of Spanish Literature from 1800 to the Present", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 111", 
+      "prerequisite": [
+        "SPAN 100", 
+        "SPAN 110"
+      ]
+    }, 
+    {
+      "term": "Fall only", 
+      "description": "Study of the major writers and trends in Latin American literature from beginnings until Modernism. ", 
+      "course name": "Latin American Literature, Beginnings to Modernism", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 113", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Study of the major writers and trends in Latin American literature from Modernism to the present. ", 
+      "course name": "Latin American Literature, Modernism to Present", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 114", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Magic and the wonderful infra-mythical world of major contemporary Latin America writers are explored in this in-depth study of Magical Realism. Short stories and novels are examined as they create a marvelous \"other world\" or reality. Authors studied include Gortazar, Carpentier, Bombal, Borges, Rulfo, Garcia Marquez, Fuentes, Sainz, Esquivel, and others. ", 
+      "course name": "Magical Realism", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 115", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Designed to teach present and future public servants the necessary vocabulary and structures for effective communication in interviews, visits, etc. Some attention to local dialect differences. ", 
+      "course name": "Spanish For Professionals", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 121", 
+      "prerequisite": [
+        "SPAN 2A"
+      ]
+    }, 
+    {
+      "term": " May be repeated for credit provided topic is different.  ", 
+      "description": "Topics in literature from Spain offered as needed. Typical topics are: Spanish novel through the Golden Age; 19th and 20th century Spanish novel; Spanish drama from the Middle Ages to the Golden Age; Spanish Contemporary drama. ", 
+      "course name": "Topics in Spanish Literature", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 123", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "In-depth examination of the Spanish Civil War (1936-1939) focusing on its social, political, and cultural contexts. The course also examines the war's historical origins, immediate aftermath and implications for understanding modern Spain.", 
+      "id": "CSUS_SPAN 129", 
+      "course name": "Spanish Civil War"
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Inquiry into the significance of the individual in contemporary Mexican culture and his greater relationship to the cosmos as seen through his literature. May be of particular interest to the Mexican American. ", 
+      "course name": "Contemporary Mexican Literature", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 130", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Spring only", 
+      "description": "Development of the short story in Latin America with some introductory study of the North American short story by way of comparison. Selected readings from different countries where the short story has had an important development. Emphasis on the contemporary short story. ", 
+      "course name": "The Short Story in Latin America", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 134", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Increases language fluency and acquisition of new vocabulary through intensive conversational practice, based on topics of contemporary interest. ", 
+      "course name": "Advanced Spanish Conversation", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 142", 
+      "prerequisite": [
+        "SPAN 2B"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Readings, visuals, and discussion of the history, geography, anthropology, sociology, politics, economics, folklore, and artistic expression of the nations of Hispanic America. ", 
+      "course name": "Civilization and Culture of Hispanic America", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 151", 
+      "prerequisite": [
+        "SPAN 47"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Reading and discussion of the history, geography, anthropology, sociology, political science, economics, folklore, music, art, and the dance as these areas relate to Modern Spain. ", 
+      "course name": "Civilization and Culture of Spain", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 152", 
+      "prerequisite": [
+        "SPAN 47"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Reading and discussion of the history, geography, anthropology, sociology, political science, economics, folklore, music, art, and the dance of Mexico. ", 
+      "course name": "Civilization and Culture of Mexico", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 153", 
+      "prerequisite": [
+        "SPAN 47"
+      ]
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Directed fieldwork in a project which uses the language skills developed through previous study of Spanish. The projects may include interpreting and translating for public and/or private agencies in Sacramento, teaching or tutoring in the community, or other projects approved by the faculty supervisor. All work will be monitored by Sacramento State faculty. The student must submit written reports to his/her supervisor. Can be taken more than once for credit. ", 
+      "id": "CSUS_SPAN 194", 
+      "course name": "Field Experience/Internship"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Tutoring of lower division Spanish students, under the supervision of an instructor. ", 
+      "id": "CSUS_SPAN 195", 
+      "course name": "Fieldwork -- Tutoring"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open only to students who appear competent to carry on individual work, and enrollment will be limited to hardship cases.  ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_SPAN 199", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Depending upon the interest of the group, one topic of Spanish Linguistics will be chosen. The emphasis may be Comparative, Popular Spanish divergencies, or psycho- or socio-linguistics, especially the development of Mexican-American Spanish and the learning problems of bilinguals. ", 
+      "course name": "General Spanish Linguistics", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 201A", 
+      "prerequisite": [
+        "SPAN 102", 
+        "SPAN 103"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Historical evolution of the Spanish language from Vulgar Latin to the present day with special emphasis on the phonetic and morphological changes involved in this evolution. Some attention will be devoted to Old Spanish readings as well as the differences between Old and Modern Spanish. Knowledge of Latin is helpful, but not required. ", 
+      "course name": "History of the Spanish Language", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 201B", 
+      "prerequisite": [
+        "SPAN 102", 
+        "SPAN 103"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Analyzes the major differences between the grammatical system of Spanish and English, with particular emphasis on those areas of contrast which are vital to the teacher. ", 
+      "course name": "Contrastive Grammatical Structures of Spanish and English", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 201C", 
+      "prerequisite": [
+        "SPAN 102", 
+        "SPAN 103"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Application of linguistic theory, principally to the areas of language teaching and learning acquisition. Occasionally the application of linguistics to other fields may be examined. ", 
+      "course name": "Applied Spanish Linguistics", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 201D", 
+      "prerequisite": [
+        "SPAN 102", 
+        "SPAN 103"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Specific topic from this period will be chosen for intensive study as announced. ", 
+      "course name": "Spanish Literature in the Middle Ages", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 220A", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Specific topic from this period will be chosen for intensive study as announced. ", 
+      "course name": "Spanish Literature in the Golden Age", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 220B", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Specific topic from this period will be chosen for intensive study as announced. ", 
+      "course name": "Spanish Literature in the 18th and 19th Centuries", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 220C", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Specific topic from this period will be chosen for intensive study as announced. ", 
+      "course name": "Contemporary Spanish Literature", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 220D", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Beginnings of Spanish American Literature from the period of discovery and conquest through the colonial period until the end of the Wars of Independence in 1825. Covers the Renaissance, Baroque, and Neo-Classical Periods. ", 
+      "course name": "Spanish-American Literature", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 224A", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Independence (1825) through 1880. Covers the following movements: Romanticism, Realism, and Naturalism and deals with selected authors. ", 
+      "course name": "Spanish-American Literature, 1825", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 224B", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Specific topic from this period will be chosen for intensive study as announced. ", 
+      "course name": "Spanish-American Literature, 1880", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 224C", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Specific topic from this period will be chosen for intensive study as announced. ", 
+      "course name": "Spanish-American Literature, 1945 to Present", 
+      "units": "3 Units", 
+      "id": "CSUS_SPAN 224D", 
+      "prerequisite": [
+        "SPAN 100"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Seminar examining aspects of the national character and personality of Spain as revealed through Hispanic social and literary studies from prehistory to 1700. ", 
+      "id": "CSUS_SPAN 250A", 
+      "course name": "Civilization and Culture of Spain"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Seminar examining aspects of the character and personality of the various political, geographical, and cultural groups of Spain as revealed through the social and literary studies of Spain from 1700 to the present. ", 
+      "id": "CSUS_SPAN 250B", 
+      "course name": "Civilization and Culture of Modern Spain"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Seminar examining aspects of the character and personality of the various nations of Hispanic America as revealed through Hispanic-American social and literary studies. Attention will be given to the various ethnic groups found in Hispanic America. ", 
+      "id": "CSUS_SPAN 250C", 
+      "course name": "Civilization and Culture of Hispanic America"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Seminar examining aspects of the national character and personality of Mexico as revealed through Mexican social and literary studies. ", 
+      "id": "CSUS_SPAN 250D", 
+      "course name": "Civilization and Culture of Mexico"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Open only to students who have the required number of units in residence and who appear competent to carry on individual work. Enrollment will be limited to hardship cases. Only 3 units of upper division or 3 units of graduate division credit will be accepted for any one degree in Spanish.  ", 
+      "description": "Individual projects or directed reading. ", 
+      "id": "CSUS_SPAN 299", 
+      "course name": "Special Problems"
+    }, 
+    {
+      "units": "1 - 4 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis, project or comprehensive examination. ", 
+      "id": "CSUS_SPAN 500", 
+      "course name": "Culminating Experience"
+    }
+  ], 
+  "subjectOf": {
+    "id": "SPAN", 
+    "subject": "Spanish"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Spanish", 
+    "id": "CSUS"
+  }
+}

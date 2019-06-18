@@ -1,0 +1,1247 @@
+{
+  "courses": [
+    {
+      "units": "5 Units",
+      "term": " Field trips may be required. ",
+      "description": "Introduction to properties of life and cells leading to genetic and biological diversity. Survey of biological diversity emphasizing variation leading to natural selection; introduction to ecological concepts within an evolutionary framework; a survey of ecosystems and global climate change. Development of scientific skills will be emphasized. Designed for science majors. Lecture three hours; laboratory three hours; activity two hours; fee course. ",
+      "id": "CSUS_BIO 1",
+      "course name": "Biodiversity, Evolution and Ecology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to molecular and cellular biology and genetics. Topics include biomolecules, cell structure and function, cellular energetics, molecular flow of information, cell division, and genetic inheritance. Development of scientific skills and a scientific mindset will be emphasized throughout the course, particularly in lab exercises and activities. Designed for science majors. Lecture three hours; laboratory three hours; activity two hours. ",
+      "course name": "Cells, Molecules and Genes",
+      "units": "5 Units",
+      "id": "CSUS_BIO 2",
+      "prerequisite": [
+        "BIO 1",
+        "CHEM 1A"
+      ]
+    },
+    {
+      "units": "4 Units",
+      "term": "Fall, Spring",
+      "description": "Introduction to major concepts of biology, including properties of living things, cells and their molecular constituents, the unity and diversity of organisms, genetics, ecology, evolution, and the scientific methods of investigation employed by biologists.  Satisfies requirements in biology for students planning to obtain the Multiple Subject Teaching Credential.  Lecture three hours; laboratory three hours. Fee course.",
+      "id": "CSUS_BIO 7",
+      "course name": "Introduction to the Science of Biology"
+    },
+    {
+      "term": ". ",
+      "description": "Designed for non-majors, this course is an introduction to the biological science behind important issues that face us today, such as those surrounding evolution, endangered species, conservation of ecosystems, and the behavior of organisms. By gaining an understanding of the scientific approach and the principles of evolution, ecology and behavior, students will be equipped to evaluate scientific developments and arguments in these and other issues as informed citizens. Lecture three hours. ",
+      "course name": "Our Living World: Evolution, Ecology and Behavior",
+      "units": "3 Units",
+      "id": "CSUS_BIO 9",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": ". ",
+      "description": "An intensive introductory course for non-majors who will take additional course work in biology or related disciplines, including the allied health sciences. Introduction to the biological sciences with strong emphasis on cellular structure and metabolism, molecular biology and genetics, as well as concepts and principles common to all living systems including ecology and evolution. Lecture three hours. ",
+      "course name": "Basic Biological Concepts",
+      "units": "3 Units",
+      "id": "CSUS_BIO 10",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": ".  ",
+      "description": "Introductory laboratory investigation of the major principles of biology, including properties of all living things, the unity and diversity of organisms, structure and function of cells, energy and metabolism, genetics, ecology, evolution, and the scientific methods of investigation employed by biologists. Laboratory three hours. ",
+      "course name": "Laboratory Investigations in Biology",
+      "units": "1 Unit",
+      "id": "CSUS_BIO 15L",
+      "prerequisite": [
+        "BIO 9",
+        "BIO 10",
+        "BIO 20",
+        "BIO 9",
+        "BIO 10",
+        "BIO 20",
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": ". ",
+      "description": "Introduction to biological concepts with emphasis on their application to humans. Topics include: Evidenced-based decision making with respect to food, nutritional supplements, drugs, pathogens, and biotechnology. How heredity and evolution contribute to our understanding of personality, sex, behavior, addiction, disease, and aging is also discussed. Lecture three hours. ",
+      "course name": "Biology: A Human Perspective",
+      "units": "3 Units",
+      "id": "CSUS_BIO 20",
+      "prerequisite": [
+        "BIO 10"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to the study of the gross and microscopic structure of the human body using a systemic approach. Lecture three hours; laboratory three hours. Fee course. ",
+      "course name": "Introductory Human Anatomy",
+      "units": "4 Units",
+      "id": "CSUS_BIO 22",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2",
+        "BIO 10"
+      ]
+    },
+    {
+      "term": ", or an equivalent combination of separate anatomy and physiology courses. Lecture three hours; laboratory three hours. Fee course. ",
+      "description": " offers basic terminology and concepts pertaining to the disciplines of anatomy and physiology, including structure/function relationships, homeostasis, and organizational levels; and provides an introduction to the structure and function of the muscular and nervous systems. ",
+      "course name": "Human Anatomy and Physiology I",
+      "units": "4 Units",
+      "id": "CSUS_BIO 25",
+      "prerequisite": [
+        "BIO 25",
+        "BIO 25",
+        "BIO 22",
+        "BIO 131"
+      ]
+    },
+    {
+      "term": ", or an equivalent combination of separate anatomy and physiology courses. Lecture three hours; laboratory three hours. Fee course.  ",
+      "description": " provides an introduction to the structure and function of the cardiovascular, respiratory, renal and digestive systems, and emphasizes homeostatic control mechanisms. ",
+      "course name": "Human Anatomy and Physiology II",
+      "units": "4 Units",
+      "id": "CSUS_BIO 26",
+      "prerequisite": [
+        "BIO 25",
+        "BIO 25",
+        "BIO 26",
+        "BIO 22",
+        "BIO 131"
+      ]
+    },
+    {
+      "units": "4 Units",
+      "term": "Fall, Spring",
+      "description": "An overview of the basic anatomy and physiology of all systems. Designed to meet the standards for the Physical Education Subject Matter Program, but may also may prepare students for study in other health-related fields. ",
+      "id": "CSUS_BIO 30",
+      "course name": "Anatomy & Physiology - Brief Course"
+    },
+    {
+      "term": " Does not satisfy microbiology requirement for Biological Sciences majors.  ",
+      "description": "Introduction to micro-organisms, particularly bacteria and viruses, with emphasis on health care-related applications of microbiology using case studies. Laboratory work includes aseptic techniques, methods of cultivating and identifying bacteria, demonstration of microbial properties and will provide practice with basic microbiological skills. Lecture three hours; laboratory three hours. Fee Course. ",
+      "course name": "Microbiology for Allied Health Students",
+      "units": "4 Units",
+      "id": "CSUS_BIO 39",
+      "prerequisite": [
+        "BIO 10",
+        "CHEM 5",
+        "CHEM 6A",
+        "CHEM 6B"
+      ]
+    },
+    {
+      "term": "  ",
+      "description": "Covers anatomy of scientific literature, reading and writing scientific papers, proper citation formats, basic interpretation of tables and figures, graphical analysis, basic statistical analysis, experimental design to effectively test a hypothesis, and effective presentation of an experiment. Lecture one hour. Activity two hours. ",
+      "course name": "Introduction to Scientific Analysis",
+      "units": "2 Units",
+      "id": "CSUS_BIO 100",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2",
+        "STAT 1",
+        "BIO 167"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ". Lecture one hour; laboratory six hours. Fee course. ",
+      "course name": "The Natural History of Plants",
+      "units": "3 Units",
+      "id": "CSUS_BIO 102",
+      "prerequisite": [
+        "BIO 112"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Study of the significance of plants in the development of human civilization. Emphasis will be placed on the botanical, sociological and economic aspects of plants useful to humans. Lecture three hours. ",
+      "course name": "Plants and Civilization",
+      "units": "3 Units",
+      "id": "CSUS_BIO 103",
+      "prerequisite": [
+        "BIO 10"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Study of the physiology of human reproduction. Topics to be covered include: gametogenesis, the basis of fertility, conception, prenatal development, parturition, lactation and the physiology of contraception. Lecture three hours. ",
+      "course name": "Physiology of Human Reproduction",
+      "units": "3 Units",
+      "id": "CSUS_BIO 104",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2",
+        "BIO 10"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "description": "Study of marine life and ocean ecosystems. Exploration of the unique adaptations of marine life, how marine organisms interact with their environment, diversity of marine habitats from coral reefs to deep sea, and conservation. Does not count toward the Biological Sciences Major.",
+      "id": "CSUS_BIO 105",
+      "course name": "Life in the Ocean"
+    },
+    {
+      "term": " recommended. ",
+      "description": "Introduction to the principles of genetics and scientific approaches used to define those principles. The physical basis of heredity, the impact of selective breeding and genetic engineering will be discussed. Lecture two hours; discussion one hour. ",
+      "course name": "Genetics: From Mendel to Molecules",
+      "units": "3 Units",
+      "id": "CSUS_BIO 106",
+      "prerequisite": [
+        "BIO 10"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "description": "Introduction to the biology of the dinosaurs. Dinosaurs came in a vast array of shapes and sizes and exemplify biodiversity. This course will examine the dinosaurs in an evolutionary framework, discussing their origin, the major lineages, phylogeny and what they look like today. The course will take advantage of the recent surge in scientific investigations into the biology of dinosaurs, such as parental care, sexual selection, group living, flight and feathers. Does not count toward the Biological Sciences Major.",
+      "id": "CSUS_BIO 109",
+      "course name": "Biology of Dinosaurs"
+    },
+    {
+      "term": "Spring only",
+      "description": "Spring flora of central California is used as the focus of study in the classification and identification of native vascular plants. Lecture two hours; laboratory six hours. Field trips may be required. Fee course. ",
+      "course name": "Plant Taxonomy",
+      "units": "4 Units",
+      "id": "CSUS_BIO 112",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "Fall only \u2013 even years",
+      "description": "A survey of the important tools and mechanisms used to study speciation in plants. Topics include the molecular basis of evolutionary change, intraspecific genetic variation at both the local and landscape levels, theory regarding mechanisms of speciation, and the importance of polyploidy. Readings will be from both a text and from the primary literature, and will include in-depth discussions of historical and modern studies in plant evolution. Lecture three hours. ",
+      "course name": "Evolution and Speciation in Flowering Plants",
+      "units": "3 Units",
+      "id": "CSUS_BIO 113",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Investigation of the structure and function of the central nervous system including neuroanatomy and neurophysiology, sensorimotor integration. The lectures and readings emphasize the empirical questions, techniques and methods used in neuroscience research. Laboratory exercises focus on gross- and micro- neuroanatomy, models of membrane electrophysiology and motor system function. Lecture/discussion three hours; laboratory three hours. ",
+      "course name": "Introduction to Neuroscience",
+      "units": "4 Units",
+      "id": "CSUS_BIO 115",
+      "prerequisite": [
+        "PSYC 2",
+        "PSYC 8",
+        "PSYC 9",
+        "PSYC 115"
+      ]
+    },
+    {
+      "term": "Fall only \u2013 odd years",
+      "description": "Introduction to the principles and practices of biological conservation. Historical development of conservation philosophy; current issues in conservation of renewable natural resources; conservation administration. Lecture three hours. ",
+      "course name": "Natural Resource Conservation",
+      "units": "3 Units",
+      "id": "CSUS_BIO 118",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": ".  ",
+      "description": "Theories of aging, cellular aging and aging effects on the various human body systems.  Lecture three hours. ",
+      "course name": "Biology of Aging",
+      "units": "3 Units",
+      "id": "CSUS_BIO 120",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2",
+        "BIO 10",
+        "BIO 20",
+        "BIO 131"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Comparison of the cellular and molecular biology of prokaryotic and eukaryotic cells.  Emphasis will be placed on membrane structures, transport phenomena, cell to cell communication, cellular reproduction, genetic architecture, gene expression and metabolism, as well as the eukaryotic endomembrane, cytoskeleton and extracellular matrix systems. Lecture three hours. ",
+      "course name": "Molecular Cell Biology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 121",
+      "prerequisite": [
+        "BIO 184"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Gross structure of the human body using a regional approach. Lecture three hours; laboratory three hours. Fee course. ",
+      "course name": "Advanced Human Anatomy",
+      "units": "4 Units",
+      "id": "CSUS_BIO 122",
+      "prerequisite": [
+        "BIO 22"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Gross and microscopic structures of the central, peripheral and autonomic nervous systems. The lectures are correlated with laboratory exercises and demonstrations using human prosected cadaver specimens, audio-visual slide projected materials, charts and models. Lecture two hours; laboratory three hours. Fee course. ",
+      "course name": "Neuroanatomy",
+      "units": "3 Units",
+      "id": "CSUS_BIO 123",
+      "prerequisite": [
+        "BIO 22"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Basic principles and current clinical laboratory procedures used in the study of blood; emphasis on morphological and chemical changes in the disease processes. Lecture two hours; laboratory three hours. Fee course. ",
+      "course name": "Clinical Hematology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 124",
+      "prerequisite": [
+        "CHEM 161",
+        "BIO 184"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Production of body fluids (e.g., urine, cerebrospinal, pleural, peritoneal, pericardial, and synovial fluids); their normal characteristics and pathological changes will be discussed. A description of the laboratory tests used in the clinical evaluation of body fluids will also be presented. ",
+      "course name": "Body Fluid Analysis",
+      "units": "1 Unit",
+      "id": "CSUS_BIO 125",
+      "prerequisite": [
+        "CHEM 161"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Study of the anatomical systems of vertebrates in an evolutionary and functional context.  Covers vertebrate form, function, development and phylogeny, overviews of organ systems, and how their modification founded the major events of vertebrate evolution including metamorphosis, water-to-land transition, tetrapodal locomotion, feeding and reproduction.  Labs complement lectures with dissections of three representative species (shark, salamander, cat), and surveys of specializations in other forms.  Lecture two hours; laboratory three hours.  Fee course. ",
+      "course name": "Comparative Vertebrate Morphology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 126",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": " Prerequisite will be enforced by instructor.  ",
+      "description": "This course examines the progression of fertilized eggs of vertebrate organisms through embryonic development. This progression will be studied at biochemical, molecular, genetic, morphological and physiological levels, with an emphasis on the progressive changes that occur within cells, tissues and organs in the embryo. We will use a comparative approach between a variety of model organisms to understand similarities and differences among vertebrate and selected invertebrate species.  Fee course.  ",
+      "course name": "Developmental Biology",
+      "units": "4 Units",
+      "id": "CSUS_BIO 127",
+      "prerequisite": [
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "An integrative examination of our current understanding of plant structure and function. Students will apply fundamental principles of cell and molecular biology, evolution, and ecology to understand the relationships between plant anatomy and plant physiology that have enabled plants to achieve such a high level of success as primary producers on our planet. Lecture three hours, laboratory three hours. Fee course. ",
+      "course name": "Plant Anatomy and Physiology",
+      "units": "4 Units",
+      "id": "CSUS_BIO 128",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Study of the morphology and physiology of cells in primary normal human tissues and the arrangement and adaptations of tissues in organs and organ systems.  The characteristics and properties of abnormalities in human tissues will be covered if time permits.  Lecture two hours; laboratory three hours. ",
+      "course name": "Histology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 130",
+      "prerequisite": [
+        "BIO 22"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Physiology of organ systems with emphasis on control and integration of system function. Experiments using humans and selected vertebrate animal models are performed in the laboratory to illustrate functional characteristics of organ systems discussed in lecture and to provide direct experience with techniques, recording systems, and methods of data analysis commonly used in physiology and related fields. Lecture three hours; laboratory three hours. Fee course. ",
+      "course name": "Systemic Physiology",
+      "units": "4 Units",
+      "id": "CSUS_BIO 131",
+      "prerequisite": [
+        "CHEM 1B",
+        "CHEM 6B",
+        "BIO 1",
+        "BIO 2",
+        "BIO 10",
+        "BIO 22"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ".  Students explore solutions to challenging problem sets under the direct supervision of an experienced section leader.  Discussion: two  hours. ",
+      "course name": "Advanced Problems in Physiology",
+      "units": "1 Unit",
+      "id": "CSUS_BIO 131A",
+      "prerequisite": [
+        "BIO 131",
+        "BIO 131"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Organization and function of the nervous system will be explored. Topics include mechanisms of communication between neurons, integration of sensory and motor systems, and functional brain systems. Diseased states will be introduced, as appropriate. Lecture 3 hours. ",
+      "course name": "Neurophysiology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 132",
+      "prerequisite": [
+        "BIO 131",
+        "BIO 25",
+        "BIO 26"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Advanced consideration of the integrated physiology of the cardiovascular, respiratory, and renal systems, including acid-base physiology. Advanced problem-solving, analysis of case studies, and interpretation of experimental findings will be included. Lecture three hours. ",
+      "course name": "Cardiovascular, Respiratory and Renal Physiology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 133",
+      "prerequisite": [
+        "BIO 131"
+      ]
+    },
+    {
+      "term": "Spring only \u2013 even years",
+      "description": "Study of the morphology, cultural characteristics and classification of fungi which are pathogenic for humans, as well as fungi which appear as common contaminants. Lecture two hours; laboratory three hours. Fee course. ",
+      "course name": "Medical Mycology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 134",
+      "prerequisite": [
+        "BIO 139"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Advanced consideration of the principles of endocrinology with special emphasis on the role of hormones in growth, metabolism, stress (including the hormonal interactions during exercise) and disease. Various endocrine disorders, will serve as the model for case studies, current literature analysis and advanced problem-solving activities. Lecture three hours. ",
+      "course name": "Endocrinology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 135",
+      "prerequisite": [
+        "BIO 121"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to microorganisms, particularly bacteria and viruses, their physiology and metabolism. Laboratory work includes aseptic techniques, methods of cultivating and identifying bacteria, and demonstration of microbial properties. Lecture three hours; laboratory three hours. Fee course. ",
+      "course name": "General Microbiology",
+      "units": "4 Units",
+      "id": "CSUS_BIO 139",
+      "prerequisite": [
+        "BIO 184",
+        "CHEM 20",
+        "CHEM 24"
+      ]
+    },
+    {
+      "term": " in the CLS concentration in Biological Sciences.  ",
+      "description": "Lectures, discussions, and readings regarding infectious viruses, bacteria, fungi,  and parasites, with an emphasis on highly relevant pathogens including emerging infectious agents and microbes that are regionally endemic. The clinical syndrome, along with the molecular and cellular aspects of the course of infection of each pathogen will be discussed. Additionally, the history of microbiology and medicine as well as a brief overview of laboratory methods used for diagnosis will also be covered. Lecture three hours. ",
+      "course name": "Medical Microbiology and Emerging Infectious Diseases",
+      "units": "3 Units",
+      "id": "CSUS_BIO 140",
+      "prerequisite": [
+        "BIO 39",
+        "BIO 139",
+        "BIO 140",
+        "BIO 144"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Lectures and demonstrations on the fundamental characteristics and properties of plant, animal and bacterial viruses. Lecture three hours. ",
+      "course name": "General Virology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 143",
+      "prerequisite": [
+        "BIO 121",
+        "BIO 139"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Morphological, physiological and immunological characteristics of pathogenic bacteria. In the laboratory, pure culture studies are emphasized. Lecture two hours; laboratory six hours. Fee course. ",
+      "course name": "Pathogenic Bacteriology",
+      "units": "4 Units",
+      "id": "CSUS_BIO 144",
+      "prerequisite": [
+        "BIO 139"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Isolation, cultivation and characterization of a wide variety of soil and water microbes from natural habitats using a variety of culture and non-culture based techniques; natural habitats also will be examined directly for the numbers and varieties of microbes which are present using bioinformatic and statistical tools. Lecture two hours; laboratory six hours. ",
+      "course name": "The Diversity of Microorganisms",
+      "units": "4 Units",
+      "id": "CSUS_BIO 145",
+      "prerequisite": [
+        "BIO 139"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Nature of antigens, antibodies and their reactions. The development of the immune response and its role in immunity and pathology. Lecture two hours. ",
+      "course name": "Immunology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 149A",
+      "prerequisite": [
+        "BIO 121",
+        "BIO 139"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Laboratory exercises designed to provide familiarity with common clinical laboratory procedures in serology. Laboratory three hours. Fee course. ",
+      "course name": "Immunology and Serology Laboratory",
+      "units": "1 Unit",
+      "id": "CSUS_BIO 149B",
+      "prerequisite": [
+        "BIO 139",
+        "BIO 149A"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": ". Discussions and problem sets are focused on the medical, clinical, and biotechnology applications of immunology. Discussion one hour. ",
+      "course name": "Advanced Problems in Immunology",
+      "units": "1 Unit",
+      "id": "CSUS_BIO 149C",
+      "prerequisite": [
+        "BIO 139",
+        "CHEM 161",
+        "BIO 149A",
+        "BIO 149A"
+      ]
+    },
+    {
+      "term": " Not offered every semester  ",
+      "description": "Principles governing the application of biology and biological statistics to solve crimes. Topics include evidence examination and preservation, presumptive and confirmatory serological tests, hair comparison, generation and statistical analysis of mitochondrial and nuclear DNA profiles, structure and administration of the modern crime laboratory, and the role of the criminalist in the U.S. court system. Lecture two hours; laboratory three hours. ",
+      "course name": "Forensic Biology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 150",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2",
+        "BIO 184"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Laboratory exercises focusing on current research problems and skills in forensic serology, DNA typing, and court testimony. Topics will include DNA mixture and low copy number interpretation, advanced techniques in serological testing, research ethics, as well as skills for effective communication in the courtroom. Topics may also include Y-STR typing, animal and plant DNA identification and typing, microbial forensics, somatic mosaicism, ELISA specificity and sensitivity testing, and other current areas of active inquiry. Designed to prepare students for entry level positions as DNA analysts in federal, state, and local crime laboratories. Laboratory six hours. Fee course. ",
+      "course name": "Advanced Laboratory Techniques in Forensic Biology",
+      "units": "2 Units",
+      "id": "CSUS_BIO 151",
+      "prerequisite": [
+        "BIO 150"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Examines, in detail, the most important species of protozoans, flukes, tapeworms and roundworms that infect humans. Life cycles, pathology and prophylaxis constitute the principal topics in lectures. Morphology, physiology, taxonomy and diagnosis constitute the principal topics in the laboratory. Lecture two hours; laboratory three hours. Fee course. ",
+      "course name": "Human Parasitology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 152",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Microbiology of food fermentations, food preservation and spoilage. Lecture two hours; laboratory three hours. Fee course. ",
+      "course name": "Food Microbiology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 156",
+      "prerequisite": [
+        "BIO 139"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Biology of insects and a brief consideration of other terrestrial arthropods. Includes structure, physiology, ecology, classification, economic importance, collection and preservation of insects. Lecture three hours; laboratory three hours. Fee course. ",
+      "course name": "General Entomology",
+      "units": "4 Units",
+      "id": "CSUS_BIO 157",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of the interrelationships among organisms and their environments.  Designed for the major in Biological Sciences or related fields. Topics include the structure and function of terrestrial and aquatic ecosystems, population and community dynamics and human effects on ecosystems. Projects and field trips required. Lecture two hours; laboratory three hours. Fee course. ",
+      "course name": "General Ecology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 160",
+      "prerequisite": [
+        "BIO 10",
+        "BIO 1",
+        "BIO 2",
+        "STAT 1"
+      ]
+    },
+    {
+      "term": "Fall only \u2013 even years",
+      "description": "Biology of fishes: structure, physiology, ecology, economic importance, propagation and classification. Methods of identification, life history study, propagation, collection and preservation. Lecture two hours; laboratory three hours. Field trips may be required. Fee course. ",
+      "course name": "Ichthyology: The Study of Fishes",
+      "units": "3 Units",
+      "id": "CSUS_BIO 162",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "Spring only \u2013 even years",
+      "description": "Taxonomy, natural history, ecology and distribution of amphibians and reptiles with emphasis on local forms. Lecture two hours; laboratory three hours. Field trips may be required. Fee course. ",
+      "course name": "Amphibians and Reptiles: An Introduction to Herpetology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 164",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "Spring only \u2013 odd years",
+      "description": "Biology of birds: structure, physiology, ecology, behavior, and classification. Methods of life history study, ecological studies, laboratory and field identification. Lecture two hours; laboratory three hours. Field trips required. Fee course. ",
+      "course name": "Ornithology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 166",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Focuses on statistical hypothesis testing and experimental design in the biological sciences. Topics include the development of a hypothesis, study design and implementation, management and presentation of data, identification of data types, and appropriate use of statistical procedures. General application to a wide range of biological disciplines and will emphasize the scientific process, critical thinking skills, and the interpretation of statistical results, which will include a project culminating a scientific paper and presentation. Lecture two hours; laboratory three hours. ",
+      "course name": "Quantitative Methods in Biology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 167",
+      "prerequisite": [
+        "STAT 1",
+        "BIO 100"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Biology of mammals: structure, physiology, ecology, behavior, classification. Methods of life history, laboratory and field identification, collection and preservation. Lecture three hours; laboratory three hours. Field trips required. Fee course. ",
+      "course name": "Mammalogy",
+      "units": "4 Units",
+      "id": "CSUS_BIO 168",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "Spring only",
+      "description": "Introduction to the fascinating world of why animals do the things that they do. Focus is on the evolution and function of animal behavior through understanding the costs and benefits of different behavior including foraging, fighting and reproduction. Lecture two hours; laboratory three hours.  Fee course. ",
+      "course name": "Animal Behavior",
+      "units": "3 Units",
+      "id": "CSUS_BIO 169",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Study of the physiologic function of carbohydrates, lipids, protein and micronutrients including integrated metabolism, transport, regulation and relation to inborn errors/chronic disease. Introduction to gene-nutrient interaction. ",
+      "course name": "Advanced Nutrition and Metabolism",
+      "units": "3 Units",
+      "id": "CSUS_BIO 170",
+      "prerequisite": [
+        "CHEM 161",
+        "FACS 113",
+        "FACS 170"
+      ]
+    },
+    {
+      "term": "Fall only \u2013 odd years",
+      "description": "Introduction to the biological principles basic to fisheries science, including enumeration, recruitment, growth, abundance and mortality.  Mathematics, computer modeling, and field methods will be used to understand natural populations and the impact of fishing on those populations in keeping with modern approaches to fisheries science which are grounded in population ecology and conservation biology.  Lecture two hours; laboratory three hours. Fee course. ",
+      "course name": "Principles of Fisheries Biology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 173",
+      "prerequisite": [
+        "BIO 160",
+        "STAT 1"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "A survey of the use of molecular tools to understand ecological questions. Lecture will focus on the background and history of the use of molecular tools in ecological settings, including application of molecular tools to conservation of natural resources. Laboratory will include techniques for both wet lab and analysis of molecular data, including interpretation of results. Students will complete a capstone-style project that will culminate in the production of a research proposal.  ",
+      "course name": "Molecular Ecology",
+      "units": "4 Units",
+      "id": "CSUS_BIO 178",
+      "prerequisite": [
+        "BIO 184",
+        "BIO 188"
+      ]
+    },
+    {
+      "term": " Lecture two hours; laboratory and fieldwork three hours. Fee course.  ",
+      "description": "Study of human effects and management of ecological systems, including populations, communities, and ecosystems. Topics include population and biodiversity responses to human activities, endangered species management, reserve design, and restoration.  ",
+      "course name": "Conservation Biology & Wildlife Management",
+      "units": "3 Units",
+      "id": "CSUS_BIO 179",
+      "prerequisite": [
+        "BIO 100",
+        "BIO 160"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of the structure of genes and genomes, the mechanisms by which they change, and the use of evolutionary relationships to understand function. Mechanisms of the regulation of gene expression from gene to phenotype and the tools used o study these processes. Applications of molecular tools in medicine and biotechnology and the ethics around these approaches. Lecture two hours, laboratory six hours. ",
+      "course name": "Advanced Molecular Biology",
+      "units": "4 Units",
+      "id": "CSUS_BIO 180",
+      "prerequisite": [
+        "BIO 121",
+        "BIO 184"
+      ]
+    },
+    {
+      "term": "Fall only",
+      "description": "Study of cancer from the molecular level to the effect on whole tissues and organs. Topics to be covered include the classification and nomenclature of cancers, the process leading up to the formation of a cancer, the possible causes of cancer, and possible treatment. Lecture two hours. ",
+      "course name": "Cancer Biology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 183",
+      "prerequisite": [
+        "BIO 121",
+        "BIO 184"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Literature searches and discussions are focused on medical, clinical, and biotechnological applications of Cancer Biology. ",
+      "course name": "Advanced Problems in Cancer Biology",
+      "units": "1 Unit",
+      "id": "CSUS_BIO 183A",
+      "prerequisite": [
+        "BIO 121",
+        "BIO 184",
+        "BIO 183",
+        "BIO 183"
+      ]
+    },
+    {
+      "term": "Fall, Spring, Summer",
+      "description": "Principles of inheritance as they relate to microorganisms, plants, animals and humans. Genetic mechanisms are analyzed according to evidence derived from both classical and current research. The nature, structure, and function of the genome are considered at the molecular level. Lecture three hours; laboratory three hours. Fee course. ",
+      "course name": "General Genetics",
+      "units": "4 Units",
+      "id": "CSUS_BIO 184",
+      "prerequisite": [
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Current topics in cellular, developmental and/or molecular biology. Topics will vary.   May be taken more than once provided that topics are different. Lecture three hours. ",
+      "course name": "Topics in Biology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 185",
+      "prerequisite": [
+        "BIO 10",
+        "BIO 1",
+        "BIO 2",
+        "CHEM 20"
+      ]
+    },
+    {
+      "term": " May be repeated for credit. No more than one unit of BIO 186 may be counted toward the upper division major requirement.  ",
+      "description": "Series of at least 10 seminars in cell and molecular biology. Topics within each seminar will vary each semester. ",
+      "course name": "Cell and Molecular Biology Seminar",
+      "units": "1 Unit",
+      "id": "CSUS_BIO 186A",
+      "prerequisite": [
+        "BIO 10",
+        "BIO 1",
+        "BIO 2"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "Series of at least 10 seminars in ecological and environmental issues. Topics within each seminar will vary each semester. ",
+      "course name": "Ecological and Environmental Issues Seminar",
+      "units": "1 Unit",
+      "id": "CSUS_BIO 186B",
+      "prerequisite": [
+        "BIO 10",
+        "BIO 1",
+        "BIO 2",
+        "ENVS 186B"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Designed for pre-health professional students who are in the process of researching traditional and non-traditional health professions and careers. This course consists of at least 10 seminars presented by various practicing health professionals, health professional students, and health professional school admissions officers. Topics vary each semester. One hour per week.",
+      "id": "CSUS_BIO 186C",
+      "course name": "Introduction to Health Careers Seminar"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced cellular and molecular biology of eukaryotic cells. Comparison to prokaryotic organism will be made as needed to illustrate key concepts. Emphasis will be placed on cellular functions and utilize two or more cellular systems; including cell to cell communication, regulation of gene expression, uptake and secretion, regulation of cytoskeletal configuration, cell migration and cellular reproduction. Lecture two hours, laboratory six hours. ",
+      "course name": "Advanced Cell Biology",
+      "units": "4 Units",
+      "id": "CSUS_BIO 187",
+      "prerequisite": [
+        "BIO 121",
+        "BIO 184"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "General survey of evolutionary processes: mechanisms of evolutionary change, adaptation and history of life.  Designed for biological sciences majors. Lecture three hours. ",
+      "course name": "Evolution",
+      "units": "3 Units",
+      "id": "CSUS_BIO 188",
+      "prerequisite": [
+        "BIO 184"
+      ]
+    },
+    {
+      "units": "6 - 12 Units",
+      "term": " Open only to upper division or graduate students with appropriate  preparation. Consent of Department Cooperative Education Committee required, and Committee will determine the number of units to be granted. Students may enroll for no more than 12 total units, and units may not be used to meet biology major or graduate course work requirements. ",
+      "description": "Supervised employment in a biology or biology-related company or agency arranged through the Department of Biological Sciences and the Cooperative Education Program office. Requires preparation of application packet, completion of a three to six month, full-time or part-time work assignment, and a written report. ",
+      "id": "CSUS_BIO 194",
+      "course name": "Biology-Related Work Experience"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ", BIO 197 and BIO 199 combined can be applied to the biological sciences upper division major requirement. ",
+      "course name": "Biological Internship",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 195",
+      "prerequisite": [
+        "BIO 195"
+      ]
+    },
+    {
+      "term": " 1 unit = 40 hours of participation/semester and 2 units = 80 hours of participation/semester; May be repeated for up to 4 units of credit .  ",
+      "description": ", BIO 197 and BIO 199 combined can be applied to the biological sciences upper division major requirement. ",
+      "course name": "Dental Internship",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 195D",
+      "prerequisite": [
+        "BIO 195"
+      ]
+    },
+    {
+      "term": " 80 hours of participation/semester  ",
+      "description": ", BIO 197 and BIO 199 combined may be applied to the Biological Sciences upper division major requirement. ",
+      "course name": "Medical Internship",
+      "units": "2 Units",
+      "id": "CSUS_BIO 195M",
+      "prerequisite": [
+        "BIO 195"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": ", BIO 197 and Bio 199 combined can be applied to the biological sciences upper division major requirement. May be repeated for up to 4 units of credit. 1.0-2.0 units (40-80 hours of participation/semester). ",
+      "course name": "Pharmacy Internship",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 195P",
+      "prerequisite": [
+        "BIO 195"
+      ]
+    },
+    {
+      "term": ", 197 and 199 combined can be applied to the biological sciences upper division major requirement.  ",
+      "description": "Supervised non-paid internship experience in K-12 teaching. Includes regular meetings with supervising teacher and submission of a field experience journal. May be repeated for credit. ",
+      "course name": "Teaching Internship",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 195T",
+      "prerequisite": [
+        "BIO 195"
+      ]
+    },
+    {
+      "term": ", BIO 197 and BIO 199 combined can be applied to the Biological Sciences upper division major requirement.  ",
+      "description": "Supervised experiences will include aspects of laboratory preparation and aspects of teaching biology laboratory courses. Conferences and laboratory experiences four to eight hours weekly. Admission requires approval of professor and Department Chair. ",
+      "course name": "Laboratory Teaching Assistant",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 197A",
+      "prerequisite": [
+        "BIO 195"
+      ]
+    },
+    {
+      "term": ", BIO 197 and BIO 199 combined can be applied to the Biological Sciences upper division major requirement.  ",
+      "description": "Supervised laboratory experiences for advanced students in the organization and techniques for operation of a basic sciences laboratory. Conferences and laboratory experiences four to eight hours weekly. Admission requires approval of professor and Department Chair. ",
+      "course name": "Laboratory Techniques",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 197B",
+      "prerequisite": [
+        "BIO 195"
+      ]
+    },
+    {
+      "term": ", BIO 197 and BIO 199 combined can be applied to the Biological Sciences upper division major requirement. ",
+      "description": " credit by participating as tutors and/or section or discussion leaders for biological sciences classes or teaching as voluntary instructors or tutors in K-12 courses or programs offered by other community organizations. Participation requires four to eight hours weekly.  Admission requires approval of professor and Department Chair. ",
+      "course name": "Co-curricular Activities in Biology",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 197C",
+      "prerequisite": [
+        "BIO 197C",
+        "BIO 195"
+      ]
+    },
+    {
+      "term": ", BIO 197, BIO 199 combined may be applied to the Biological Sciences upper division major requirement.  ",
+      "description": "Advanced, supervised experiences that explore the science behind laboratory experiences and discussion regarding aspects of specific laboratories that promote understanding of scientific content. Conferences and laboratory experiences four to eight hours weekly; written assignments and/or oral presentations required. Admission requires approval of professor and Department Chair. ",
+      "course name": "Advanced Laboratory Exploration",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 197D",
+      "prerequisite": [
+        "BIO 197A",
+        "BIO 195"
+      ]
+    },
+    {
+      "term": ", BIO 197 and BIO 199 combined may be applied to the Biological Sciences upper division major requirement.    ",
+      "description": "Supervised laboratory experiences for skilled students in the organization and techniques for operation of a basic sciences laboratory.  Conferences and laboratory experiences four to eight hours weekly.  Admission requires approval of instructor and Department Chair.  ",
+      "course name": "Intermediate Lab Techniques",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 197E",
+      "prerequisite": [
+        "BIO 197B",
+        "BIO 195"
+      ]
+    },
+    {
+      "term": ", BIO 197 and BIO 199 combined may be applied to the Biological Sciences upper division major requirement.  ",
+      "description": "Advanced supervised laboratory experiences for skilled students in the organization and techniques for operation of a basic sciences laboratory. Conferences and laboratory experiences four to eight hours weekly. Admission requires approval of instructor and Department Chair. ",
+      "course name": "Advanced Lab Techniques",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 197F",
+      "prerequisite": [
+        "BIO 197B",
+        "BIO 195"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Contemporary topics in biology selected by students in the course will form the basis for an introduction to scientific journals, the scientific method, and research as a professional pursuit.  Each student develops a refined research proposal and prepares a seminar summarizing the proposal and the current state of knowledge in the topic area.  Students will develop and refine their methodology under the direction of a faculty sponsor. ",
+      "course name": "Honors Proseminar and Research",
+      "units": "2 Units",
+      "id": "CSUS_BIO 198A",
+      "prerequisite": [
+        "BIO 106",
+        "BIO 194",
+        "BIO 195"
+      ]
+    },
+    {
+      "term": " Open only to honors students in Biological Sciences. Fee course.  ",
+      "description": ". Data collection, summary and analysis, and formulation of conclusions based on the data will be discussed periodically with a faculty sponsor. Culmination will consist of preparation of an undergraduate thesis, poster and presentation of a seminar summarizing results and conclusions. ",
+      "course name": "Honors Research and Seminar",
+      "units": "2 Units",
+      "id": "CSUS_BIO 198B",
+      "prerequisite": [
+        "BIO 198A",
+        "BIO 198A"
+      ]
+    },
+    {
+      "term": ", BIO 197 and BIO 199 combined may be applied to the Biological Sciences upper division major requirement.  ",
+      "description": "Student conducts introductory, independent laboratory or field research on an original question. Research must culminate in a formal report. Weekly meetings may be required. Students must have a research prospectus approved by faculty mentor and Department Chair. ",
+      "course name": "Introductory Undergraduate Research",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 199A",
+      "prerequisite": [
+        "BIO 195"
+      ]
+    },
+    {
+      "term": ", BIO 197 and BIO 199 combined can be applied to the Biological Sciences upper division major requirement.  ",
+      "description": "Directed Readings on a topic in Biology culminating in a research paper. Admission requires submission of a prospectus approved by the faculty member under whom the work is to be conducted and the Department Chair. ",
+      "course name": "Directed Readings",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 199B",
+      "prerequisite": [
+        "BIO 195"
+      ]
+    },
+    {
+      "term": ", BIO 197 and BIO 199 combined may be applied to the Biological Sciences upper division major requirement.  ",
+      "description": "Student conducts independent laboratory or field research on an original question. Research must culminate in a formal report. Weekly meetings may be required. Students must have a research prospectus approved by faculty mentor and Department Chair.  ",
+      "course name": "Intermediate Undergraduate Research",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 199C",
+      "prerequisite": [
+        "BIO 195"
+      ]
+    },
+    {
+      "term": ", BIO 197 and BIO 199 combined may be applied to the Biological Sciences upper division major requirement.  ",
+      "description": "Advanced laboratory or field research on an original question. The research must culminate in a formal report. Weekly meetings may be required. Students must have a prospectus approved by the faculty member and the Department Chair.  ",
+      "course name": "Advanced Undergraduate Research",
+      "units": "1 - 2 Units",
+      "id": "CSUS_BIO 199D",
+      "prerequisite": [
+        "BIO 195"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Fundamental properties of plant populations; population regulation; community productivity and structure; a study of ecotypic and ecoclinal variation in plant populations. Lecture one hour; laboratory and field six hours. ",
+      "course name": "Advanced Plant Ecology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 214",
+      "prerequisite": [
+        "BIO 160"
+      ]
+    },
+    {
+      "units": "2 Units",
+      "term": " Graduate Writing Intensive (GWI). ",
+      "description": "Graduate level introduction to scientific inquiry in the biological sciences. Students learn to apply the scientific method, critically evaluate the scientific literature, initiate their graduate project, and develop written and oral scientific presentation skills. Lecture two hours. ",
+      "id": "CSUS_BIO 220",
+      "course name": "Introduction to Scientific Inquiry."
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to research methods in molecular and cellular biology. Students learn both cell and molecular techniques in the context of hypothesis-driven research to answer questions relating to a specific gene and cellular system. Experimental design and commonly used laboratory techniques will be explored. Two three hour laboratory periods. Fee course. ",
+      "course name": "Cell and Molecular Methods and Techniques",
+      "units": "2 Units",
+      "id": "CSUS_BIO 221A",
+      "prerequisite": [
+        "BIO 220"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Introduction to research methods in ecology, evolution and conservation biology. Students learn field and laboratory techniques with a variety to taxa in a range of local ecosystems. Students will work with several faculty conducting research projects. Topics will include developing hypotheses, experimental design, study implementation, and statistical analyses. Students will be expected to present findings in oral and written form. Two three hour laboratory periods. Fee course. ",
+      "course name": "Methods in Ecology, Evolution and Conservation",
+      "units": "2 Units",
+      "id": "CSUS_BIO 221B",
+      "prerequisite": [
+        "BIO 167",
+        "BIO 220"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": " Not open to students in the Master of Science in Molecular and Cellular Biology Concentration. ",
+      "description": "Intended for students in the MA grant proposal track, this course explores a selected topic from multiple scientific perspectives. A discovery-based laboratory project using cell and molecular techniques complimented with lectures, discussions and field trips that investigate the ecological, environmental, and evolutionary aspects of the same topic. The laboratory project will focus on a current biological topic (such as genetically modified organisms) in accordance with the instructor's interests and expertise. One hour lecture, six hours lab per week. ",
+      "id": "CSUS_BIO 221C",
+      "course name": "Exploration of Biological Methodology"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Processes and control of DNA replication, transcription, and translation developed from a consideration of the current literature. Lecture three hours. ",
+      "course name": "Molecular Biology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 222",
+      "prerequisite": [
+        "BIO 184",
+        "CHEM 161"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "In-depth study of the molecular basis of human disease, emphasizing current experimental approaches and technologies. Topics include the isolation and analysis of disease genes, the influence of teratogans and random environmental events on human embryonic development, the molecular and biochemical consequences of mutagenesis, and ethical issues that currently surround the field.  Lecture 3 hours. ",
+      "course name": "Human Molecular Genetics",
+      "units": "3 Units",
+      "id": "CSUS_BIO 223",
+      "prerequisite": [
+        "BIO 184",
+        "CHEM 161"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Examination of current approaches in structural genomics, functional genomics and proteomics, and the bioinformatics tools utilized to understand genome organization, the regulation of gene expression, gene function and the evolutionary relationships within and between genomes.  Lecture two hours; laboratory 3 hours. ",
+      "course name": "Genomics, Proteomics, and Bioinformatics",
+      "units": "3 Units",
+      "id": "CSUS_BIO 224",
+      "prerequisite": [
+        "BIO 184",
+        "BIO 222"
+      ]
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Graduate level introductory course in human stem cell biology with specific emphasis on adult, embryonic, and induced pluripotent stem cells. Topics will include how stem cells are isolated or generated, how they are cultured, and how they are used for regenerative therapies. In addition, students will learn about Good Manufacturing Practice (GMP) and how to manufacture human stem cells. ",
+      "id": "CSUS_BIO 225",
+      "course name": "Stem Cell Biology and Manufacturing Practices"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Examines the processes of cellular development in the embryo and adult with a focus on stem cells. Stem cells will be studied at the biochemical, molecular, genetic, epigenetic, cellular and physiological level, with an emphasis on their roles in promoting organismal health and disease. Current research and clinical applications will be examined, along with the bioethics, policies and politics of their use. ",
+      "id": "CSUS_BIO 227",
+      "course name": "Development and Regenerative Medicine"
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Critical reading and discussion of current literature on host/pathogen interactions. Topics to be covered include:  alteration of host intracellular trafficking, subversion of cell cytoskeleton for invasion, intracellular survival mechanisms, pathogen-induced cell killing, and evasion and subversion of the host immune system. ",
+      "course name": "Host/Pathogen Interactions",
+      "units": "3 Units",
+      "id": "CSUS_BIO 245",
+      "prerequisite": [
+        "BIO 121",
+        "BIO 139",
+        "BIO 184",
+        "BIO 144",
+        "BIO 180"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Readings and discussions of current literature emphasizing new field developments and controversies. Lecture two hours. ",
+      "course name": "Contemporary Topics in Immunology",
+      "units": "2 Units",
+      "id": "CSUS_BIO 247",
+      "prerequisite": [
+        "BIO 149A"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Principles and applications of theoretical and field ecology as they apply to  populations, communities and ecosystems. ",
+      "course name": "Advanced Ecology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 260",
+      "prerequisite": [
+        "BIO 160"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Advanced study of animal behavior focusing on the life history consequences of social organization, spacing systems, sexual behavior, reproductive ecology, feeding ecology, competitive interactions and predator-prey interactions. ",
+      "course name": "Behavioral Ecology",
+      "units": "3 Units",
+      "id": "CSUS_BIO 269",
+      "prerequisite": [
+        "BIO 160"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Critical review and evaluation of current techniques and concepts relating to the management, protection, and improvement of fishery resources. Lecture three hours. ",
+      "course name": "Advanced Fishery Biology and Management",
+      "units": "3 Units",
+      "id": "CSUS_BIO 273",
+      "prerequisite": [
+        "BIO 173"
+      ]
+    },
+    {
+      "term": "Fall, Spring",
+      "description": "Critical review of applications of ecological and wildlife-orientated theory in conservation biology research. Exploration of key topics and issues in conservation of organisms, with emphasis on vertebrate animals and plants. Lecture/discussion three hours. ",
+      "course name": "Conservation Biology and Wildlife Management",
+      "units": "3 Units",
+      "id": "CSUS_BIO 279",
+      "prerequisite": [
+        "BIO 160",
+        "BIO 179"
+      ]
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Process of evolution throughout the taxonomic hierarchy and factors responsible for the generation of variability of the gene, cell, organism and population levels are explored through lectures, text readings and a survey of current periodical literature. Lecture 3 hours.",
+      "id": "CSUS_BIO 282",
+      "course name": "Evolution"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Study of the past and present plant and animal distributions, and the geologic, climatic and ecologic factors involved in their migration, establishment and extinction. Lecture/discussions three hours.",
+      "id": "CSUS_BIO 283",
+      "course name": "Biogeography"
+    },
+    {
+      "units": "3 Units",
+      "term": "Fall, Spring",
+      "description": "Readings and discussions of current literature emphasizing new developments and controversies in a comparatively narrow range of biological topics. Topics will vary with each offering, encompassing one recognized specialty in biology. May be repeated for credit when the topics vary. ",
+      "id": "CSUS_BIO 285",
+      "course name": "Topics in Biology"
+    },
+    {
+      "units": "2 Units",
+      "term": " Discussion two hours.  May be taken twice for credit.  Only two units may be applied to the University's requirement for 200-level courses; May be repeated for up to 4 units of credit.  ",
+      "description": "Presentation and discussion of graduate student and faculty research and current literature with emphasis on critical evaluation of research design, data analysis and presentation techniques. ",
+      "id": "CSUS_BIO 293",
+      "course name": "Research Conference"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for up to 4 units of credit.  ",
+      "description": "Review and discussion of scientific literature in cell and molecular biology.  Seminar topics will vary by semester. ",
+      "id": "CSUS_BIO 294A",
+      "course name": "Seminar in Molecular and Cellular Biology"
+    },
+    {
+      "units": "1 Unit",
+      "term": " May be repeated for up to 4 units of credit.  ",
+      "description": "Review and discussion of scientific literature in ecology, evolution, and conservation biology. Seminar topics will vary by semester. ",
+      "id": "CSUS_BIO 294B",
+      "course name": "Seminar in Ecology, Evolution and Conservation"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Training for graduate students who wish to participate in the Department's Graduate Teaching Associate (GTA) Program and others interested in teaching biology. Weekly seminar session covering aspects of teaching biology laboratories. Lecture/discussion. Not applicable toward 18 unit 200-level course work requirement. ",
+      "id": "CSUS_BIO 297A",
+      "course name": "Teaching Biology Seminar"
+    },
+    {
+      "units": "1 Unit",
+      "term": "Fall, Spring",
+      "description": "Training for graduate students admitted to the Graduate Teaching Associate (GTA) Program. Students assist in teaching three hours of biology laboratory weekly under the supervision of a laboratory instructor. Laboratory three hours. Not applicable toward 18 unit 200-level coursework requirement. ",
+      "id": "CSUS_BIO 297B",
+      "course name": "Laboratory Teaching"
+    },
+    {
+      "units": "1 - 4 Units",
+      "term": "Fall, Spring",
+      "description": "Library research, short-term original research, technique development, or thesis research site selection and preliminary field observations. Culminating experience will be in the format of a scientific paper, annotated bibliography, demonstration of technique mastery, or oral presentation. Enrollment requires classified graduate status and approval of the project by a faculty supervisor and the Department Chair.",
+      "id": "CSUS_BIO 299",
+      "course name": "Problems in Biological Sciences"
+    },
+    {
+      "units": "4 Units",
+      "term": "Fall, Spring",
+      "description": "Completion of a thesis approved for the Master's degree.  Should be taken in final semester prior to the completion of all requirements for the degree. ",
+      "id": "CSUS_BIO 500",
+      "course name": "Master's Thesis"
+    },
+    {
+      "units": "2 Units",
+      "term": "Fall, Spring",
+      "description": "Completion of a written project based on a research problem in biology approved for the Master of Arts Degree. Should be taken in final semester prior to the completion of all requirements for the degree. ",
+      "id": "CSUS_BIO 502",
+      "course name": "Master's Project"
+    },
+    {
+      "term": " Course designed for students enrolled in the Doctor of Physical Therapy Program.  ",
+      "description": "Study of the gross anatomy of selected regions of the human body. Emphasis will be placed on musculoskeletal, neurovascular and anatomy of the joints of the back, thoracic wall, abdominal wall, upper limb and lower limb. Anatomical relationships will be reinforced through study of cross-sectional anatomy. Lecture two hours; lab three hours. ",
+      "course name": "Human Gross Anatomy for Physical Therapists",
+      "units": "3 Units",
+      "id": "CSUS_BIO 633",
+      "prerequisite": [
+        "BIO 22",
+        "PT 600",
+        "PT 602",
+        "PT 608",
+        "PT 630"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "BIO",
+    "subject": "Biological Sciences"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Biological Sciences",
+    "id": "CSUS"
+  }
+}

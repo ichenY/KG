@@ -1,0 +1,442 @@
+{
+  "courses": [
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Concepts and models of financial accounting are introduced. Included are the analysis, interpretation and reporting of financial events.", 
+      "id": "CSUS_MBA 201", 
+      "course name": "Accounting"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": " This requirement will be waived for students who achieve a score of 4.5 or higher on the Analytical Writing Assessment (AWA) exam. Graduate Writing Intensive (GWI) course. ", 
+      "description": "Stresses fundamental communication principles and techniques for effective business writing in diverse managerial situations.  Participants complete a variety of writing activities, including responding to management communication cases and evaluating written communications using holistic and analytic tools.  Within this context, participants are provided an opportunity to achieve an understanding of syntactical and grammatical patterns while improving analytical and logical business writing skills. ", 
+      "id": "CSUS_MBA 202", 
+      "course name": "Business Communication."
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Intensive study of important aspects of law for managers, including law as an instrument of social and political control. Analyzes selected problems in areas of private law such as contract, tort, business organizations, and agency. In addition, selected issues of administrative law and government regulation of business will be investigated.", 
+      "id": "CSUS_MBA 203", 
+      "course name": "Legal Environment of Management"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Evolution of management and organization thought; examination of behavioral science variables influencing working relationships among managers, individuals and groups; the study of political and social behavior in organizations; identification, analysis, and synthesis of contemporary concepts and administrative practices; investigation of organization structure, function, and properties leading to an understanding of administration and organization.", 
+      "id": "CSUS_MBA 204", 
+      "course name": "Management and Organization Concepts"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explores from a management perspective, the impact of IT on individuals, organizations, and society. Focuses on how organizations use information systems to solve strategic and operational problems. Topics may include functional information systems, decision support systems, enterprise systems, interorganizational information systems, e-commerce, and business analytics. The relationship between managers and IT personnel will be defined. May include case studies and appropriate software packages.", 
+      "id": "CSUS_MBA 205", 
+      "course name": "Introduction to Managerial Issues in Information Technology"
+    }, 
+    {
+      "units": "2 Units", 
+      "term": "Fall, Spring", 
+      "description": "Computer-based course in data analysis. Business case studies are used to differentiate between common and specific sources of statistical variation and to construct statistical models such as multiple regression, times series, and statistical quality control. Emphasis is placed on intuitive statistical thinking and communication of results.", 
+      "id": "CSUS_MBA 206", 
+      "course name": "Managerial Statistics Analysis"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Theory and practice in determining the need for, the acquisition of, and the use of funds by organizations. Topics include time value of money, financial analysis, management of working capital, cost of capital, capital budgeting, long-term financing, dividend policy, and internal financing. ", 
+      "course name": "Finance", 
+      "units": "2 Units", 
+      "id": "CSUS_MBA 207", 
+      "prerequisite": [
+        "ECON 204"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Application of decision making in solving marketing problems; such as product, place, promotion and price decisions with reference to consumers and users. ", 
+      "course name": "Marketing", 
+      "units": "2 Units", 
+      "id": "CSUS_MBA 208", 
+      "prerequisite": [
+        "ECON 204"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Study of operational systems; fundamental concepts, tools, and methodologies required to analyze and solve problems of the operations manager. Topics include: work design, facilities design, scheduling, quality control, and inventory management. ", 
+      "course name": "Production and Operations Analysis", 
+      "units": "2 Units", 
+      "id": "CSUS_MBA 209", 
+      "prerequisite": [
+        "ECON 204"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Management accounting data characteristics and application to internal decisions made by managers.  Topics cover management accounting as a tool of business management.  Topics generally include product costing, managers' use of accounting data in specific decision frameworks, performance evaluation, and relevant versus strategic analysis.  Class participation is encouraged.", 
+      "id": "CSUS_MBA 210", 
+      "course name": "Managerial Accounting"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Financing of corporations and management of corporate resources, short-term and long-term, stressing maximizing shareholder wealth. The case method is used extensively. Both oral and written communication skills are stressed.", 
+      "id": "CSUS_MBA 220", 
+      "course name": "Financial Management"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Behavior of equity, debt, currency, and derivatives markets and the linkages between these markets. Presents the principles of valuations of instruments traded in these markets and the use of these instruments to investors, speculators, hedgers and arbitrageurs. ", 
+      "course name": "Financial Markets", 
+      "units": "3 Units", 
+      "id": "CSUS_MBA 221", 
+      "prerequisite": [
+        "MBA 220"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Evaluation of stocks and bonds from the investor's viewpoint. Interpretation of issuers' financial statements to estimate potential future earnings and dividends; and evaluation of the securities' risks and expected returns through analysis of economic, industry and market environment in order to develop conclusions as to the securities' suitability for inclusion in various types of portfolios. Ethical issues faced by practicing security analysts and portfolio managers.", 
+      "id": "CSUS_MBA 222", 
+      "course name": "Security Analysis and Portfolio Management"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Advanced concepts and techniques essential to asset valuation. Key topics include, but not limited to, free cash flow, price multiples, asset-based and contingent claim valuations. Applications of various valuation techniques are emphasized. ", 
+      "course name": "Asset Valuation", 
+      "units": "3 Units", 
+      "id": "CSUS_MBA 223", 
+      "prerequisite": [
+        "MBA 220"
+      ]
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Theoretical and empirical applications of fund formation models.  Emphasis is placed on model development strategies based on analyzing secondary sources of financial data.  The quality of models is assessed in terms of their logical consistency, robustness of underlying theoretical assumptions, and predicative power.  Development, analysis and predicative assessment are conducted within the Excel environment. ", 
+      "course name": "Advanced Investment Strategies", 
+      "units": "3 Units", 
+      "id": "CSUS_MBA 224", 
+      "prerequisite": [
+        "MBA 222"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Financing in health care institutions will be studied; including planning and control features involving budgets, funds flow, funding sources, and factors affecting finance in the health care industry.  Analyzes will be made of the relationships and effects on health care finance of such factors as labor, business, government, insurance, research, and demography.", 
+      "id": "CSUS_MBA 225", 
+      "course name": "Financial Aspects of Health Care Administration"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Behavioral science theories, concepts, and practices in current use in private and public organizations. Critical evaluation of research supporting those practices.", 
+      "id": "CSUS_MBA 230", 
+      "course name": "Behavior Science Applications in Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course focuses on contemporary problems, issues, and objectives relating to the value of collaboration with control in maximizing human capital effectiveness in high performance work organizations. Course work will include research projects, experiential case studies and in-class simulations to help students better understand human capital effectiveness and learn how to serve multiple stakeholders' interests across different sectors such as private, public, healthcare and information technology.", 
+      "id": "CSUS_MBA 231", 
+      "course name": "Managing in High Performance Work Organizations"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Investigation of the formal and informal methods of dispute resolution including negotiating, litigation, administrative hearings, arbitration, mediation, ombudsperson, summary jury trial, private judging, and fact finding.  Emphasizes the application of these methods to organization, business, and public sector disputes.", 
+      "id": "CSUS_MBA 232", 
+      "course name": "Negotiation and Relationship Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Seminar focusing on individual and organization responses to a changing environment.  Includes assumptions and values of organization development; action research; personal, team and intergroup interventions; consultant-client relationships and instrumentation.  Cases, laboratory experience, workshop and field analysis techniques are utilized. ", 
+      "id": "CSUS_MBA 233", 
+      "course name": "Seminar in Organization Development"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Dual approach emphasizing in-depth analysis of both the philosophical and the practical aspects of industrial relations. The impact of social, economic, and political forces, and their interaction with union and management institutions and public policies. Analyzes relationships between organized employees and employers, the bargaining process, strategies and issues, contract administration, and impasse resolution processes.", 
+      "id": "CSUS_MBA 234", 
+      "course name": "Industrial Relations"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Synthesis of specialized problems relating to the acquisition, introduction, and utilization of innovations and technological advances by managers in business, industry, government, profit or nonprofit organizations.  Current research, thinking methodology dealing with the economics and social impact, sources, barriers, and transfer mechanisms of innovations and technological advances will be investigated.", 
+      "id": "CSUS_MBA 235", 
+      "course name": "Management Of Innovation"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explores contemporary frameworks for dealing with change in today's organizations. Contemporary processes and topics are presented in the context of these frameworks. Lectures and readings may be supplemented by experiential work and firsthand observations of local organizations.", 
+      "id": "CSUS_MBA 236", 
+      "course name": "Current Topics and Processes in Organizational Development"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Marketing policy for channels of distribution, pricing brands, advertising, and sales as interrelated at the executive level. Designed to develop capacity for sound decision making by marketing managers.", 
+      "id": "CSUS_MBA 240", 
+      "course name": "Marketing Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Analyzes the firm's or public agency's external environments, forces of change within them, and their influence on the organization's strategies and actions.", 
+      "id": "CSUS_MBA 241", 
+      "course name": "Marketing and Its Environments"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Consideration of current problems and issues in marketing from the perspective of the individual firm or public agency.", 
+      "id": "CSUS_MBA 242", 
+      "course name": "Marketing Problems"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "An in-depth coverage of a marketing functions in  global environment. Explores traditional and contemporary theories, strategies, practices, and issues of international marketing, develops skills required for entry and maintaining presence on the foreign markets.", 
+      "id": "CSUS_MBA 243", 
+      "course name": "Global Marketing Evironment"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Problem-solving approach will emphasize the need to impart tools and skills to formulate and design projects which satisfy action or policy needs. Search for relevant information. Methodologies and research strategies. Data collection and analysis. Measurement and statistical inference. Experimentation and simulation. Instrument survey design. Ethical implications. Report preparation and presentation of results for effective communication.", 
+      "id": "CSUS_MBA 244", 
+      "course name": "Research Methodology"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Concept and methods used to analyze equity investment in income-producing properties such as apartments, office buildings, and retail.  Topics include market analysis, leasing and property income streams, financial structuring, taxation of real estate operations and transactions, the theory and methods used to assess the performance of individual real estate projects, alternative ownership structures, recent innovations in real estate capital markets, material on regulatory restrictions, taxation, and  mixed assets portfolio analysis.  Use of computer models for investment decision-making.", 
+      "id": "CSUS_MBA 251", 
+      "course name": "Real Estate Finance and Investment"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides an understanding of mortgage markets and the knowledge required to make financing and lending decisions.  Topics include sources of funds, mortgage design and analysis of financing alternatives; mortgage origination, risks in real estate loans, forecasting loan performance, loan modifications and workout strategies, foreclosure, bankruptcy and REOs; secondary mortgage markets and mortgage-backed securities; development and construction financing, risks in construction performance and project management; and management of interest rate risk.  Use of computer models for decision-making.", 
+      "id": "CSUS_MBA 252", 
+      "course name": "Mortgage Markets: Institutions, Securities, and Strategies"
+    }, 
+    {
+      "term": "Fall, Spring", 
+      "description": "Capstone course in urban land development. Case problems and theoretical issues in such areas as debt and equity financing, feasibility analysis, land use regulation, market analysis, risk management, site selection, and taxation of income-producing properties. ", 
+      "course name": "Seminar in Real Estate Development", 
+      "units": "3 Units", 
+      "id": "CSUS_MBA 253", 
+      "prerequisite": [
+        "PPA 250"
+      ]
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Use of information technology (IT) as management resource.  Focus is on management decision-making related to telecommunications, data-bases, system development, and decision support systems.  Use of technology to reengineer the business organization. ", 
+      "id": "CSUS_MBA 260", 
+      "course name": "Management of Technology Intensive Enterprises"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study the concept of integrated business process management using ERP tools and software to enhance growth and productivity as the diverse functions of an organization are combined into one comprehensive, interrelated, and optimized system. Demonstrate how enterprise level information systems can achieve organizational goals by providing decision makers with accurate, consistent, current, timely, and relevant information and knowledge. Understand the techniques and skills for successful implementation of ERP systems. Explore the latest trends and development in ERP technologies.", 
+      "id": "CSUS_MBA 261", 
+      "course name": "Integrated Business Process Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "This course examines methodologies, tools and applications used for developing and managing information to improve service and make decisions in healthcare. Topics include design, implementation and management of enterprise information systems, health information systems, and electronic medical records, along with other managerial issues such as information privacy and security.", 
+      "id": "CSUS_MBA 262", 
+      "course name": "Integrated IT in Healthcare"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Cover the knowledge, skills, and principles required to organize, plan, and control projects and outsourcing activities. Topics include a review of project characteristics and risks, development executive objectives, organization structure and interfaces, information management, and control techniques.", 
+      "id": "CSUS_MBA 263", 
+      "course name": "Project and Outsourcing Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Cover the processes, methodologies, infrastructure, framework, and current practices used to transform business data into useful information and knowledge for IT-enabled managerial decision support and performance improvement. Data-orientated techniques for corporate performance management and decision making, as well as methodologies for business process improvement, are emphasized. Foundation knowledge in data storage and retrieval, logical data models for database management systems and data warehouses, and security-related issues are discussed.", 
+      "id": "CSUS_MBA 264", 
+      "course name": "Business Intelligence"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Provides graduate students an understanding of the management approaches of multinational corporations in dealing with operational differences in various countries. Topics include such areas as: foreign investment decisions, relations with host governments, and organizational planning.", 
+      "id": "CSUS_MBA 270", 
+      "course name": "Global Business Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Explore multi-dimensions of entrepreneurship including the entrepreneurial initiatives in a corporate context. As a nascent entrepreneur, students are to evaluate new venture opportunities and to understand the entire process of a new venture creation. In corporate settings, students are to understand the innovation and change management of established firms to accomplish their sustainable competitive advantages.", 
+      "id": "CSUS_MBA 271", 
+      "course name": "Integrated Entrepreneurship Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study the concepts of identifying and managing talent in entrepreneurial ventures. Demonstrate through theories, empirical evidence, case studies and simulations, the value of sustainable human resource management in new and established enterprises.", 
+      "id": "CSUS_MBA 272", 
+      "course name": "Entrepreneurial Resources Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Study the current state of enterprise value chains from an operation management perspective. Discuss contemporary issues regarding supply and operations management of organizations including profit and nonprofit, service and manufacturing organizations. Integrative topics will be selected among issues affecting an organization's value chain at operational, strategic, and economic levels. ", 
+      "id": "CSUS_MBA 280", 
+      "course name": "Value Chain Integration"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Discuss contemporary developments and methods in managing quality and process improvement in the healthcare industry. Topics include: Healthcare quality, leadership, teambuilding and project management; quality management processes and tools; quality measurement and management; human participation and organizational design in healthcare quality management; quality and process improvement initiatives; Lean and Six Sigma methodologies for continuous process improvement; process and systems integration; and emerging trends in healthcare quality management. ", 
+      "id": "CSUS_MBA 281", 
+      "course name": "Quality and Process Improvement in Healthcare"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "A comprehensive study of the basic concepts, methods, processes, and strategies used in the design, development and management of global of supply chains. Topics include: defining the supply chain on a global scale, designing global supply chain networks, global procurement, strategic alliances, global logistics, supply chain-orientated product design, quantitative and qualitative tools for supply chain management and current industry initiatives. ", 
+      "id": "CSUS_MBA 282", 
+      "course name": "Global Supply Chain Management"
+    }, 
+    {
+      "units": "6 - 12 Units", 
+      "term": " Open to all classified graduate students, subject to permission of the  Associate Dean for Graduate and External Programs.  Units do not apply toward degree.  ", 
+      "description": "In-depth supervised work experience in management for the purpose of exposing the students to comprehensive management experience in business, government, or service agencies. ", 
+      "id": "CSUS_MBA 294", 
+      "course name": "Cooperative Education Experience in Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open to second year MBA and MSBA/MIS students. Petitions are obtained from Tahoe Hall 2065.  ", 
+      "description": "Supervised work experience in business, governmental service, or agencies for the purpose of increasing and enhancing student understanding of the nature and scope of the organization's operations. Supervision is provided by the faculty and the cooperating agencies. ", 
+      "id": "CSUS_MBA 295A", 
+      "course name": "Internship In Finance"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open to second year MBA and MSBA/MIS students. Petitions are obtained from Tahoe Hall 2065.  ", 
+      "description": "Supervised work experience in business, governmental service, or agencies for the purpose of increasing and enhancing student understanding of the nature and scope of the organization's operations. Supervision is provided by the faculty and the cooperating agencies. ", 
+      "id": "CSUS_MBA 295B", 
+      "course name": "Internship In Marketing"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open to second year MBA and MSBA/MIS students. Petitions are obtained from Tahoe Hall 2065.  ", 
+      "description": "Supervised work experience in business, governmental service, or agencies for the purpose of increasing and enhancing student understanding of the nature and scope of the organization's operations. Supervision is provided by the faculty and the cooperating agencies. ", 
+      "id": "CSUS_MBA 295C", 
+      "course name": "Internship in Operations Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open to second year MBA and MSBA/MIS students. Petitions are obtained from Tahoe Hall 2065.  ", 
+      "description": "Supervised work experience in business, governmental service, or agencies for the purpose of increasing and enhancing student understanding of the nature and scope of the organization's operations. Supervision is provided by the faculty and the cooperating agencies. ", 
+      "id": "CSUS_MBA 295D", 
+      "course name": "Internship in Organizational Behavior and Management"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " Open to second year MBA and MSBA/MIS students. Petitions are obtained from Tahoe Hall 2065.  ", 
+      "description": "Supervised work experience in business, governmental service, or agencies for the purpose of increasing and enhancing student understanding of the nature and scope of the organization's operations. Supervision is provided by the faculty and the cooperating agencies. ", 
+      "id": "CSUS_MBA 295E", 
+      "course name": "Internship in Urban Land Development"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit ", 
+      "description": "When a sufficient number of qualified students apply, a faculty member may conduct a seminar on a designated advanced topic in the MBA program. ", 
+      "id": "CSUS_MBA 296", 
+      "course name": "Experimental Offerings in MBA"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Admission requires approval of faculty member supervising work in addition to the approval of the Associate Dean for Graduate and External Programs. Petitions are obtained from Tahoe Hall 1035.  ", 
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. ", 
+      "id": "CSUS_MBA 299A", 
+      "course name": "Special Problems in Finance"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Admission requires approval of faculty member supervising work in addition to the approval of the Associate Dean for Graduate and External Programs. Petitions are obtained from Tahoe Hall 1035.  ", 
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. ", 
+      "id": "CSUS_MBA 299B", 
+      "course name": "Special Problems in Marketing"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Admission requires approval of faculty member supervising work in addition to the approval of the Associate Dean for Graduate and External Programs. Petitions are obtained from Tahoe Hall 1035.  ", 
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. ", 
+      "id": "CSUS_MBA 299C", 
+      "course name": "Special Problems in Operations Management"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Admission requires approval of faculty member under whom the individual work is to be conducted in addition to the approval of the Associate Dean for Graduate and External Programs. Petitions to be obtained from the CBA Graduate Programs Office, Tahoe Hall 1035.  ", 
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. ", 
+      "id": "CSUS_MBA 299D", 
+      "course name": "Special Problems in Organizational Behavior and Management"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": " Admission requires approval of faculty member under whom the individual work is to be conducted in addition to the approval of the Graduate Program Office. Petitions to be obtained from the CBA Graduate Programs Office, Tahoe Hall 1035.  ", 
+      "description": "Individual projects or directed reading for students qualified to carry on independent work. ", 
+      "id": "CSUS_MBA 299E", 
+      "course name": "Special Problems in Urban Land Development"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a thesis approved for the Master's degree. ", 
+      "id": "CSUS_MBA 500A", 
+      "course name": "Thesis"
+    }, 
+    {
+      "units": "1 - 3 Units", 
+      "term": "Fall, Spring", 
+      "description": "Completion of a project approved for the Master's degree. ", 
+      "id": "CSUS_MBA 500B", 
+      "course name": "Project"
+    }, 
+    {
+      "units": "1 Unit", 
+      "term": "Fall, Spring", 
+      "id": "CSUS_MBA 500C", 
+      "prerequisite": [
+        "MBA 280"
+      ], 
+      "course name": "Comprehensive Examination"
+    }, 
+    {
+      "units": "3 Units", 
+      "term": " May be repeated for credit.  ", 
+      "description": "Each student conducts an individual project to fulfill the culminating experience graduation requirement of the MBA program as required in Title V of the CA educational Code. The course also covers the competitive strategy of a firm, investigates competitive position, strategic capabilities, inter-firm dynamics, and strategic levers of firms. It integrates the accumulative knowledge, skills and techniques delivered in the program to review the strategy process executives employ for effective decision making. ", 
+      "id": "CSUS_MBA 501", 
+      "course name": "Culminating Experience Project in Business and Strategy"
+    }
+  ], 
+  "subjectOf": {
+    "id": "MBA", 
+    "subject": "Masters Business Admin"
+  }, 
+  "providerOf": {
+    "university": "California State University, Sacramento", 
+    "hasSubject": "Masters Business Admin", 
+    "id": "CSUS"
+  }
+}

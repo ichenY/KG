@@ -1,0 +1,196 @@
+{
+  "courses": [
+    {
+      "term": ".",
+      "description": "Introduction to the theory and practice of audio production in radio, television, film and recording applications. ",
+      "course name": "Audio Production",
+      "units": "2 Units",
+      "id": "CSUS_FILM 20A",
+      "prerequisite": [
+        "FILM 20B",
+        "COMS 20A"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Experience in audio console operation, microphone selection and use, and audio recording in radio, television, film and recording applications. ",
+      "course name": "Audio Production Lab",
+      "units": "1 Unit",
+      "id": "CSUS_FILM 20B",
+      "prerequisite": [
+        "FILM 20A",
+        "COMS 20B"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Introduction to the techniques and aesthetics of digital film making. The course covers camera technique and cinematography. ",
+      "course name": "Digital Film/Video Production",
+      "units": "2 Units",
+      "id": "CSUS_FILM 27A",
+      "prerequisite": [
+        "FILM 27B",
+        "COMS 27A"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Introduction to the techniques and aesthetics of digital film making. The course covers camera angles, basic lighting, framing, and non-linear editing techniques. ",
+      "course name": "Digital Film/Video Production Lab",
+      "units": "1 Unit",
+      "id": "CSUS_FILM 27B",
+      "prerequisite": [
+        "FILM 27A",
+        "COMS 27B"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Examines cinematic techniques, styles, vocabulary, and discourses. Introduces different ways for writing about films and for working with a variety of cinematic terms. Film form and style will be studied by examining specific scenes in films from different genres, nations, and directors. Film used throughout the course will be selected from different historical periods. ",
+      "course name": "Introduction to Film Studies",
+      "units": "3 Units",
+      "id": "CSUS_FILM 97",
+      "prerequisite": [
+        "ENGL 97"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Survey of film theory focusing on Auteurism, Class, Expressionism, Formalism, Genre, Gender, Narratology, Neorealism, Phenomonology, Post-Structuralism, Psychoanalysis, Realism, Semiology, Structuralism, and Third Cinema. ",
+      "course name": "Film Theory and Criticism",
+      "units": "3 Units",
+      "id": "CSUS_FILM 105",
+      "prerequisite": [
+        "ENGL 105"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Overview and analysis of the primary aesthetic tools used to create messages in video and film. The basic properties of light, color, area, space, shape, sound, time and motion are defined and discussed as they relate to media production. Introduces students to the concepts and vocabulary necessary for effectively conceiving, producing or criticizing mediated messages. Designed primarily for students with interest in digital media. Provides a foundation for students working in media criticism. ",
+      "course name": "Media Aesthetics",
+      "units": "3 Units",
+      "id": "CSUS_FILM 121",
+      "prerequisite": [
+        "COMS 121"
+      ]
+    },
+    {
+      "term": ".",
+      "description": ". ",
+      "course name": "Writing Scripts for Film/Video",
+      "units": "3 Units",
+      "id": "CSUS_FILM 124",
+      "prerequisite": [
+        "ENGL 20",
+        "FILM 128",
+        "FILM 185",
+        "COMS 124"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "A survey of experimental films from the beginning of the cinema in the 1890s through today's avant garde. The course will emphasise film making as a means of personal, artistic expression and will pay particular attention to those aspects of cinema that are typically ignored or marginalized in mainstream Hollywood movies. Films we will study include those by: Melies, Porter, Richter, Leger, Cornell, Deren, Brackhage and Gehr. ",
+      "course name": "Avant-Garde Film",
+      "units": "3 Units",
+      "id": "CSUS_FILM 124F",
+      "prerequisite": [
+        "ENGL 97",
+        "PHOT 102",
+        "INTD 124F"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Production of video materials using portable cameras and recorders. Application of electronic field production and post-production techniques. ",
+      "course name": "Non-Studio Video Production",
+      "units": "3 Units",
+      "id": "CSUS_FILM 128",
+      "prerequisite": [
+        "FILM 20A",
+        "FILM 20B",
+        "FILM 27A",
+        "FILM 27B",
+        "COMS 128"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Management and administration of the preproduction and production process. Course to include script breakdown, budgeting, scheduling, and other preproduction and production management skills needed for film and video production. Special attention on the history, development and current practices of the Production Manager. ",
+      "course name": "Film and Video Production Management",
+      "units": "3 Units",
+      "id": "CSUS_FILM 129",
+      "prerequisite": [
+        "COMS 129"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Introduction to the aesthetics, concepts and techniques used to control lighting in digital video productions. Aspects of staging, blocking and composition in the context of studio and location lighting. ",
+      "course name": "Staging and Lighting Digital Video",
+      "units": "3 Units",
+      "id": "CSUS_FILM 130",
+      "prerequisite": [
+        "FILM 20A",
+        "FILM 20B",
+        "FILM 27A",
+        "FILM 27B",
+        "COMS 130"
+      ]
+    },
+    {
+      "term": ". ",
+      "description": "Study of history and theory of film and video editing. Many films are viewed and discussed, examining how editing theory is put into practice. ",
+      "course name": "Theory of Film/Video Editing",
+      "units": "3 Units",
+      "id": "CSUS_FILM 141",
+      "prerequisite": [
+        "FILM 27A",
+        "FILM 27B",
+        "COMS 141"
+      ]
+    },
+    {
+      "term": "; only one may be counted for credit.",
+      "description": "A historical review of the development of major international film styles and themes. Theoretical and critical concepts derived from this study of international film and then used as the basis to analyze contemporary films of South America, Europe, India, East Asia, Africa and the Middle East. Emphasis is on both the development of formal film techniques and a comparison of the unique cultural values that shape the film narrative style.  ",
+      "course name": "Contemporary World Cinema",
+      "units": "3 Units",
+      "id": "CSUS_FILM 155",
+      "prerequisite": [
+        "THEA 155"
+      ]
+    },
+    {
+      "term": ". ",
+      "description": "Assignments in various phases of video production including creative use of camera, sound and lighting, editing, production design, production planning/management, and directing. ",
+      "course name": "Senior Practicum in Video Production",
+      "units": "3 Units",
+      "id": "CSUS_FILM 185",
+      "prerequisite": [
+        "FILM 124",
+        "COMS 185"
+      ]
+    },
+    {
+      "term": ".",
+      "description": "Research seminar that provides an in-depth investigation of film as an art form, a medium of mass communication and a means of personal expression. Subject will vary according to instructor. ",
+      "course name": "Senior Seminar in Film",
+      "units": "3 Units",
+      "id": "CSUS_FILM 192",
+      "prerequisite": [
+        "COMS 142",
+        "ENGL 109M",
+        "ENGL 109W",
+        "COMS 192"
+      ]
+    }
+  ],
+  "subjectOf": {
+    "id": "FILM",
+    "subject": "Film"
+  },
+  "providerOf": {
+    "university": "California State University, Sacramento",
+    "hasSubject": "Film",
+    "id": "CSUS"
+  }
+}

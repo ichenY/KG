@@ -1,0 +1,31 @@
+{
+  "subjectOf": {
+    "subject": "Philosophy Courses",
+    "id": "PHI"
+  },
+  "providerOf": {
+    "id": "AshFord",
+    "university": "Ashford University",
+    "hasSubject": "Philosophy Courses"
+  },
+  "courses": [
+    {
+      "id": "AshFord_PHI 103",
+      "course name": "Informal Logic",
+      "units": "3 Credits",
+      "description": "This course is a study of correct and incorrect reasoning involved in everyday activities. The fundamentals of language and argument, deductive and inductive reasoning and other aspects of practical reasoning are examined."
+    },
+    {
+      "id": "AshFord_PHI 208",
+      "course name": "Ethics & Moral Reasoning",
+      "units": "3 Credits",
+      "description": "This course examines and evaluates theories and arguments concerning ethics and moral reasoning from a philosophical perspective. By engaging with historical and contemporary sources, students will analyze theories about the meaning, nature, and justification of ethical concepts; determine and assess how different forms of moral reasoning apply to contemporary moral issues; become more reflective and informed about their own moral beliefs; and develop their capacity for critical practical reasoning."
+    },
+    {
+      "id": "AshFord_PHI 445",
+      "course name": "Personal & Organizational Ethics",
+      "units": "3 Credits",
+      "description": "In this course, students will examine various ethical theories, economic concepts, and business paradigms. These examinations will serve as the foundation for the analysis of moral problems in business. Students will explore the ethical challenges and dilemmas facing decision makers in business organizations. Students will also consider their own stake in the market as consumers, employees, managers, or small business owners."
+    }
+  ]
+}
